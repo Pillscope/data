@@ -1,0 +1,30 @@
+{
+  "drug_code": "3088",
+  "din": "00392618",
+  "brand_name": "MAGNESIUM SULFATE INJ 20% USP",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "15-JUN-2006",
+  "active_ingredients": [
+    {
+      "name": "MAGNESIUM SULFATE",
+      "strength": "200",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "LIQUID"
+  ],
+  "routes": [
+    "INTRAMUSCULAR",
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "SANDOZ CANADA INCORPORATED"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "MAGNESIUM SULPHATE",
+    "MAGNESIUM SULPHATE"
+  ]
+}

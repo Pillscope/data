@@ -1,0 +1,28 @@
+{
+  "drug_code": "9973",
+  "din": "00792667",
+  "brand_name": "PMS-NYSTATIN SUSPENSION 100000 UNIT/ML",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "15-DEC-2016",
+  "active_ingredients": [
+    {
+      "name": "NYSTATIN",
+      "strength": "100000",
+      "unit": "UNIT"
+    }
+  ],
+  "forms": [
+    "SUSPENSION"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "PHARMASCIENCE INC"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "NYSTATIN"
+  ]
+}

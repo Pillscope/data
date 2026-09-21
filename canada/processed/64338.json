@@ -1,0 +1,28 @@
+{
+  "drug_code": "64338",
+  "din": "02240749",
+  "brand_name": "SUPREFACT DEPOT 3 MONTHS",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "27-DEC-2007",
+  "active_ingredients": [
+    {
+      "name": "BUSERELIN (BUSERELIN ACETATE)",
+      "strength": "9.45",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "IMPLANT"
+  ],
+  "routes": [
+    "SUBCUTANEOUS"
+  ],
+  "companies": [
+    "SANOFI-AVENTIS CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "BUSERELIN"
+  ]
+}

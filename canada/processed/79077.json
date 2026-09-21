@@ -1,0 +1,26 @@
+{
+  "drug_code": "79077",
+  "din": "02305232",
+  "brand_name": "FORTEKOR FLAVOR TABS",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "19-SEP-2016",
+  "active_ingredients": [
+    {
+      "name": "BENAZEPRIL HYDROCHLORIDE",
+      "strength": "2.5",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "ELANCO CANADA LIMITED"
+  ],
+  "status": "APPROVED",
+  "atc": []
+}

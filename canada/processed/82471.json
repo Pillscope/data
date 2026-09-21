@@ -1,0 +1,28 @@
+{
+  "drug_code": "82471",
+  "din": "02339080",
+  "brand_name": "JAMP-ANASTROZOLE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "07-NOV-2012",
+  "active_ingredients": [
+    {
+      "name": "ANASTROZOLE",
+      "strength": "1",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "JAMP PHARMA CORPORATION"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "ANASTROZOLE"
+  ]
+}

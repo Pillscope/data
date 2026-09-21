@@ -1,0 +1,26 @@
+{
+  "drug_code": "93841",
+  "din": "02452014",
+  "brand_name": "SIMPARICA",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "21-NOV-2016",
+  "active_ingredients": [
+    {
+      "name": "SAROLANER",
+      "strength": "5",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET (CHEWABLE)"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "ZOETIS CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": []
+}

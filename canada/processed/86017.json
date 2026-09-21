@@ -1,0 +1,28 @@
+{
+  "drug_code": "86017",
+  "din": "02374803",
+  "brand_name": "SAPHRIS",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "13-MAR-2013",
+  "active_ingredients": [
+    {
+      "name": "Asenapine (Asenapine maleate)",
+      "strength": "5",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "SUBLINGUAL"
+  ],
+  "companies": [
+    "MERCK CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "ASANEPINE"
+  ]
+}

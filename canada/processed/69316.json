@@ -1,0 +1,28 @@
+{
+  "drug_code": "69316",
+  "din": "02245292",
+  "brand_name": "MYLAN-FLUCONAZOLE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "19-MAY-2010",
+  "active_ingredients": [
+    {
+      "name": "FLUCONAZOLE",
+      "strength": "50",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "MYLAN PHARMACEUTICALS ULC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "FLUCONAZOLE"
+  ]
+}

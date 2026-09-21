@@ -1,0 +1,28 @@
+{
+  "drug_code": "75571",
+  "din": "02270323",
+  "brand_name": "ASA 500 MG TABLETS EXTRA STRENGTH",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "20-JAN-2015",
+  "active_ingredients": [
+    {
+      "name": "ACETYLSALICYLIC ACID",
+      "strength": "500",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "TANTA PHARMACEUTICALS INC"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "ACETYLSALICYLIC ACID"
+  ]
+}

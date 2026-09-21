@@ -1,0 +1,36 @@
+{
+  "drug_code": "78934",
+  "din": "02304031",
+  "brand_name": "PANCREATIC ENZYME SUPPLEMENT",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "23-MAR-2012",
+  "active_ingredients": [
+    {
+      "name": "PROTEASE",
+      "strength": "280000",
+      "unit": "UNIT"
+    },
+    {
+      "name": "LIPASE",
+      "strength": "67200",
+      "unit": "UNIT"
+    },
+    {
+      "name": "AMYLASE",
+      "strength": "280000",
+      "unit": "UNIT"
+    }
+  ],
+  "forms": [
+    "POWDER"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "PARTNAR ANIMAL HEALTH INC"
+  ],
+  "status": "MARKETED",
+  "atc": []
+}

@@ -1,0 +1,28 @@
+{
+  "drug_code": "51381",
+  "din": "02231929",
+  "brand_name": "ISOFLURANE USP",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "11-JUL-2016",
+  "active_ingredients": [
+    {
+      "name": "ISOFLURANE",
+      "strength": "99.9",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "LIQUID"
+  ],
+  "routes": [
+    "INHALATION"
+  ],
+  "companies": [
+    "FRESENIUS KABI CANADA LTD"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "ISOFLURANE"
+  ]
+}

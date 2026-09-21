@@ -1,0 +1,29 @@
+{
+  "drug_code": "67923",
+  "din": "02243979",
+  "brand_name": "PMS-CODEINE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "15-FEB-2002",
+  "active_ingredients": [
+    {
+      "name": "CODEINE PHOSPHATE",
+      "strength": "30",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "PHARMASCIENCE INC"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "CODEINE",
+    "CODEINE"
+  ]
+}

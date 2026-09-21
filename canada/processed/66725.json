@@ -1,0 +1,28 @@
+{
+  "drug_code": "66725",
+  "din": "02242893",
+  "brand_name": "DIUREX WATER CAPLETS",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "09-JUL-2012",
+  "active_ingredients": [
+    {
+      "name": "PAMABROM",
+      "strength": "50",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "ALVA-AMCO PHARMACAL COMPANIES, INC."
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "XANTHINE DERIVATIVES"
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "drug_code": "94958",
+  "din": "02461846",
+  "brand_name": "BEAUTY BALM INSTANT SOLUTIONS BROAD SPECTRUM SPF 35",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "21-SEP-2017",
+  "active_ingredients": [
+    {
+      "name": "OXYBENZONE",
+      "strength": "2.5",
+      "unit": "%"
+    },
+    {
+      "name": "OCTISALATE",
+      "strength": "4",
+      "unit": "%"
+    },
+    {
+      "name": "OCTINOXATE",
+      "strength": "7.5",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "CREAM"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "TRISH MCEVOY LTD"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "COMBINATIONS OF PROTECTIVES AGAINST UV-RADIATION"
+  ]
+}

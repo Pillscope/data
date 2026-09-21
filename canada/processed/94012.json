@@ -1,0 +1,28 @@
+{
+  "drug_code": "94012",
+  "din": "02453568",
+  "brand_name": "AURO-TELMISARTAN",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "15-JAN-2018",
+  "active_ingredients": [
+    {
+      "name": "TELMISARTAN",
+      "strength": "40",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "AURO PHARMA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "TELMISARTAN"
+  ]
+}

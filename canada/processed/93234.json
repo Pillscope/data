@@ -1,0 +1,28 @@
+{
+  "drug_code": "93234",
+  "din": "02446820",
+  "brand_name": "ACT PROGESTERONE INJECTION",
+  "class": "Human",
+  "descriptor": "MULTI DOSE VIAL",
+  "last_update": "20-JUN-2016",
+  "active_ingredients": [
+    {
+      "name": "PROGESTERONE",
+      "strength": "50",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "INTRAMUSCULAR"
+  ],
+  "companies": [
+    "ACTAVIS PHARMA COMPANY"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "PROGESTERONE"
+  ]
+}

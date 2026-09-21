@@ -1,0 +1,28 @@
+{
+  "drug_code": "72256",
+  "din": "02247946",
+  "brand_name": "TEVA-RAMIPRIL",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "06-MAY-2015",
+  "active_ingredients": [
+    {
+      "name": "RAMIPRIL",
+      "strength": "5",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "CAPSULE"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "TEVA CANADA LIMITED"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "RAMIPRIL"
+  ]
+}

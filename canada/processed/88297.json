@@ -1,0 +1,33 @@
+{
+  "drug_code": "88297",
+  "din": "02398028",
+  "brand_name": "PLIAGLIS",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "19-NOV-2015",
+  "active_ingredients": [
+    {
+      "name": "TETRACAINE",
+      "strength": "7",
+      "unit": "%"
+    },
+    {
+      "name": "LIDOCAINE",
+      "strength": "7",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "CREAM"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "GALDERMA CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "LIDOCAINE, COMBINATIONS"
+  ]
+}

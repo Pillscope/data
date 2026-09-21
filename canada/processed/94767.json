@@ -1,0 +1,28 @@
+{
+  "drug_code": "94767",
+  "din": "02460351",
+  "brand_name": "ILARIS",
+  "class": "Human",
+  "descriptor": "SINGLE-USE VIAL",
+  "last_update": "28-AUG-2017",
+  "active_ingredients": [
+    {
+      "name": "CANAKINUMAB",
+      "strength": "150",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "SUBCUTANEOUS"
+  ],
+  "companies": [
+    "NOVARTIS PHARMACEUTICALS CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "CANAKINUMAB"
+  ]
+}

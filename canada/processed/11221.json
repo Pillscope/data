@@ -1,0 +1,26 @@
+{
+  "drug_code": "11221",
+  "din": "00889148",
+  "brand_name": "WORM-AWAY IV",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "10-MAY-2012",
+  "active_ingredients": [
+    {
+      "name": "MEBENDAZOLE",
+      "strength": "100",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "SERGEANTS OF CANADA"
+  ],
+  "status": "MARKETED",
+  "atc": []
+}

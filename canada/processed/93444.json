@@ -1,0 +1,28 @@
+{
+  "drug_code": "93444",
+  "din": "02448726",
+  "brand_name": "AURO-OLANZAPINE ODT",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "07-JAN-2016",
+  "active_ingredients": [
+    {
+      "name": "OLANZAPINE",
+      "strength": "5",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET (ORALLY DISINTEGRATING)"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "AURO PHARMA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "OLANZAPINE"
+  ]
+}

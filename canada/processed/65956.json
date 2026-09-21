@@ -1,0 +1,28 @@
+{
+  "drug_code": "65956",
+  "din": "02242263",
+  "brand_name": "FRESH POWER GOLD",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "07-NOV-2006",
+  "active_ingredients": [
+    {
+      "name": "TRICLOSAN",
+      "strength": "0.2",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "LIQUID"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "GEMINI PACKAGING LTD"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "TRICLOSAN"
+  ]
+}

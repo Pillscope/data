@@ -1,0 +1,26 @@
+{
+  "drug_code": "8524",
+  "din": "00705845",
+  "brand_name": "VENTIPULMIN",
+  "class": "Veterinary",
+  "descriptor": "CLENBUTEROL HYDROCHLORIDE SYRUP",
+  "last_update": "22-FEB-2012",
+  "active_ingredients": [
+    {
+      "name": "CLENBUTEROL HYDROCHLORIDE",
+      "strength": "0.025",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SYRUP"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "BOEHRINGER INGELHEIM (CANADA) LTD LTEE"
+  ],
+  "status": "MARKETED",
+  "atc": []
+}

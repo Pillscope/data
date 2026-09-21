@@ -1,0 +1,28 @@
+{
+  "drug_code": "44161",
+  "din": "02170698",
+  "brand_name": "PMS-METHOTREXATE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "19-MAY-2017",
+  "active_ingredients": [
+    {
+      "name": "METHOTREXATE (METHOTREXATE DISODIUM)",
+      "strength": "2.5",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "PHARMASCIENCE INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "METHOTREXATE"
+  ]
+}

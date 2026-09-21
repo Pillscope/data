@@ -1,0 +1,43 @@
+{
+  "drug_code": "78310",
+  "din": "02297760",
+  "brand_name": "SUNSCREEN LOTION SPF 15",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "19-JUL-2010",
+  "active_ingredients": [
+    {
+      "name": "AVOBENZONE",
+      "strength": "2.0",
+      "unit": "%"
+    },
+    {
+      "name": "OCTOCRYLENE",
+      "strength": "1.4",
+      "unit": "%"
+    },
+    {
+      "name": "OCTISALATE",
+      "strength": "3.0",
+      "unit": "%"
+    },
+    {
+      "name": "OCTINOXATE",
+      "strength": "7.5",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "LOTION"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "SMARTSHIELD SUNSCREENS"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "COMBINATIONS OF PROTECTIVES AGAINST UV-RADIATION"
+  ]
+}

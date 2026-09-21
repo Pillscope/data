@@ -1,0 +1,43 @@
+{
+  "drug_code": "93309",
+  "din": "02447509",
+  "brand_name": "LIFE BRAND SPORT SUNSCREEN BROAD SPECTRUM SPRAY",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "20-MAY-2016",
+  "active_ingredients": [
+    {
+      "name": "AVOBENZONE",
+      "strength": "2",
+      "unit": "%"
+    },
+    {
+      "name": "OCTISALATE",
+      "strength": "5",
+      "unit": "%"
+    },
+    {
+      "name": "OXYBENZONE",
+      "strength": "4",
+      "unit": "%"
+    },
+    {
+      "name": "HOMOSALATE",
+      "strength": "15",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "SPRAY, BAG-ON-VALVE"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "FRUIT OF THE EARTH, INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "COMBINATIONS OF PROTECTIVES AGAINST UV-RADIATION"
+  ]
+}

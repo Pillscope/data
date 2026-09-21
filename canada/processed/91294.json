@@ -1,0 +1,28 @@
+{
+  "drug_code": "91294",
+  "din": "02428474",
+  "brand_name": "SEPTA-ZOLMITRIPTAN-ODT",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "14-JAN-2016",
+  "active_ingredients": [
+    {
+      "name": "ZOLMITRIPTAN",
+      "strength": "2.5",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET (ORALLY DISINTEGRATING)"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "SEPTA PHARMACEUTICALS INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "ZOLMITRIPTAN"
+  ]
+}

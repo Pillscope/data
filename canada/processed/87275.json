@@ -1,0 +1,28 @@
+{
+  "drug_code": "87275",
+  "din": "02387174",
+  "brand_name": "DIFICID",
+  "class": "Human",
+  "descriptor": "FILM-COATED TABLET",
+  "last_update": "30-SEP-2016",
+  "active_ingredients": [
+    {
+      "name": "Fidaxomicin",
+      "strength": "200",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "MERCK CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "FIDAXOMICIN"
+  ]
+}

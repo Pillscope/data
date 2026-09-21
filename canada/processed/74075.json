@@ -1,0 +1,28 @@
+{
+  "drug_code": "74075",
+  "din": "02255553",
+  "brand_name": "ACT ATENOLOL",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "13-MAY-2015",
+  "active_ingredients": [
+    {
+      "name": "ATENOLOL",
+      "strength": "100",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "ACTAVIS PHARMA COMPANY"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "ATENOLOL"
+  ]
+}

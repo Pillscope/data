@@ -1,0 +1,28 @@
+{
+  "drug_code": "92092",
+  "din": "02436590",
+  "brand_name": "LIQUID NITROGEN NF",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "19-NOV-2015",
+  "active_ingredients": [
+    {
+      "name": "NITROGEN",
+      "strength": "100",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "LIQUID"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "CRYOGEN NITROGEN DELIVERIES LIMITED"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "NITROGEN"
+  ]
+}

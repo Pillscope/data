@@ -1,0 +1,26 @@
+{
+  "drug_code": "43017",
+  "din": "02206099",
+  "brand_name": "BMD 110G",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "22-JAN-2018",
+  "active_ingredients": [
+    {
+      "name": "BACITRACIN (BACITRACIN METHYLENE DISALICYLATE)",
+      "strength": "110",
+      "unit": "G"
+    }
+  ],
+  "forms": [
+    "DRUG PREMIX"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "ZOETIS CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": []
+}

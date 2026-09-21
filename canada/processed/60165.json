@@ -1,0 +1,123 @@
+{
+  "drug_code": "60165",
+  "din": "02236875",
+  "brand_name": "PRIMENE 10%",
+  "class": "Human",
+  "descriptor": "AMINO ACID INJECTION",
+  "last_update": "07-JUL-2016",
+  "active_ingredients": [
+    {
+      "name": "L-CYSTEINE",
+      "strength": "189",
+      "unit": "MG"
+    },
+    {
+      "name": "L-ALANINE",
+      "strength": "800",
+      "unit": "MG"
+    },
+    {
+      "name": "METHIONINE",
+      "strength": "240",
+      "unit": "MG"
+    },
+    {
+      "name": "GLUTAMIC ACID",
+      "strength": "1",
+      "unit": "G"
+    },
+    {
+      "name": "L-ORNITHINE DIHYDROCHLORIDE",
+      "strength": "318",
+      "unit": "MG"
+    },
+    {
+      "name": "TRYPTOPHAN",
+      "strength": "200",
+      "unit": "MG"
+    },
+    {
+      "name": "L-PROLINE",
+      "strength": "300",
+      "unit": "MG"
+    },
+    {
+      "name": "L-ARGININE",
+      "strength": "840",
+      "unit": "MG"
+    },
+    {
+      "name": "L-TYROSINE",
+      "strength": "45",
+      "unit": "MG"
+    },
+    {
+      "name": "L-ISOLEUCINE",
+      "strength": "670",
+      "unit": "MG"
+    },
+    {
+      "name": "L-THREONINE",
+      "strength": "370",
+      "unit": "MG"
+    },
+    {
+      "name": "L-PHENYLALANINE",
+      "strength": "420",
+      "unit": "MG"
+    },
+    {
+      "name": "L-LEUCINE",
+      "strength": "1",
+      "unit": "G"
+    },
+    {
+      "name": "L-ASPARTIC ACID",
+      "strength": "600",
+      "unit": "MG"
+    },
+    {
+      "name": "SERINE",
+      "strength": "400",
+      "unit": "MG"
+    },
+    {
+      "name": "L-LYSINE",
+      "strength": "1.1",
+      "unit": "G"
+    },
+    {
+      "name": "GLYCINE",
+      "strength": "400",
+      "unit": "MG"
+    },
+    {
+      "name": "HISTIDINE",
+      "strength": "380",
+      "unit": "MG"
+    },
+    {
+      "name": "TAURINE",
+      "strength": "60",
+      "unit": "MG"
+    },
+    {
+      "name": "L-VALINE",
+      "strength": "760",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "LIQUID"
+  ],
+  "routes": [
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "BAXTER CORPORATION"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "AMINO ACIDS"
+  ]
+}

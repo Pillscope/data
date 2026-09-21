@@ -1,0 +1,28 @@
+{
+  "drug_code": "66172",
+  "din": "02242453",
+  "brand_name": "PMS-RANITIDINE 150 MG",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "01-FEB-2017",
+  "active_ingredients": [
+    {
+      "name": "RANITIDINE (RANITIDINE HYDROCHLORIDE)",
+      "strength": "150",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "PHARMASCIENCE INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "RANITIDINE"
+  ]
+}

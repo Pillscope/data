@@ -1,0 +1,33 @@
+{
+  "drug_code": "94586",
+  "din": "02458705",
+  "brand_name": "ANTIBIOTIC EAR DROPS",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "13-DEC-2017",
+  "active_ingredients": [
+    {
+      "name": "GRAMICIDIN",
+      "strength": "0.025",
+      "unit": "MG"
+    },
+    {
+      "name": "POLYMYXIN B (POLYMYXIN B SULFATE)",
+      "strength": "10000",
+      "unit": "UNIT"
+    }
+  ],
+  "forms": [
+    "DROPS"
+  ],
+  "routes": [
+    "OTIC"
+  ],
+  "companies": [
+    "SANDOZ CANADA INCORPORATED"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "ANTIINFECTIVES, COMBINATIONS"
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "drug_code": "67706",
+  "din": "02243771",
+  "brand_name": "RATIO-ACLAVULANATE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "05-MAY-2015",
+  "active_ingredients": [
+    {
+      "name": "CLAVULANIC ACID (POTASSIUM CLAVULANATE)",
+      "strength": "125",
+      "unit": "MG"
+    },
+    {
+      "name": "AMOXICILLIN (AMOXICILLIN TRIHYDRATE)",
+      "strength": "500",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "TEVA CANADA LIMITED"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "AMOXICILLIN AND BETA-LACTAMASE INHIBITOR"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "drug_code": "86482",
+  "din": "02379007",
+  "brand_name": "JAMP-VITAMIN D",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "10-AUG-2017",
+  "active_ingredients": [
+    {
+      "name": "VITAMIN D3",
+      "strength": "10000",
+      "unit": "UNIT"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "JAMP PHARMA CORPORATION"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "COLECALCIFEROL"
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "drug_code": "11582",
+  "din": "01902687",
+  "brand_name": "MAXIBAN PREMIX",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "10-NOV-2017",
+  "active_ingredients": [
+    {
+      "name": "NARASIN",
+      "strength": "80",
+      "unit": "G"
+    },
+    {
+      "name": "NICARBAZIN",
+      "strength": "80",
+      "unit": "G"
+    }
+  ],
+  "forms": [
+    "DRUG PREMIX"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "ELANCO CANADA LIMITED"
+  ],
+  "status": "APPROVED",
+  "atc": []
+}

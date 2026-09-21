@@ -1,0 +1,28 @@
+{
+  "drug_code": "37379",
+  "din": "02224801",
+  "brand_name": "RYTHMODAN",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "13-OCT-2009",
+  "active_ingredients": [
+    {
+      "name": "DISOPYRAMIDE",
+      "strength": "100",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "CAPSULE"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "SANOFI-AVENTIS CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "DISOPYRAMIDE"
+  ]
+}

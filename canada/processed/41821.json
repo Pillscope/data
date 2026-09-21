@@ -1,0 +1,28 @@
+{
+  "drug_code": "41821",
+  "din": "01907875",
+  "brand_name": "GAS-X REGULAR STRENGTH",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "11-JUL-2017",
+  "active_ingredients": [
+    {
+      "name": "SIMETHICONE",
+      "strength": "80",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "GLAXOSMITHKLINE CONSUMER HEALTHCARE INC."
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "SILICONES"
+  ]
+}

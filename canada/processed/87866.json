@@ -1,0 +1,28 @@
+{
+  "drug_code": "87866",
+  "din": "02393433",
+  "brand_name": "APO-NITROGLYCERIN",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "26-SEP-2013",
+  "active_ingredients": [
+    {
+      "name": "NITROGLYCERIN",
+      "strength": "0.4",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "METERED-DOSE PUMP"
+  ],
+  "routes": [
+    "SUBLINGUAL"
+  ],
+  "companies": [
+    "APOTEX INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "GLYCERYL TRINITRATE"
+  ]
+}

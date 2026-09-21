@@ -1,0 +1,28 @@
+{
+  "drug_code": "93971",
+  "din": "02453177",
+  "brand_name": "IBRANCE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "13-MAY-2016",
+  "active_ingredients": [
+    {
+      "name": "PALBOCICLIB",
+      "strength": "125",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "CAPSULE"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "PFIZER CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "PALBOCICLIB"
+  ]
+}

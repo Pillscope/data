@@ -1,0 +1,43 @@
+{
+  "drug_code": "2787",
+  "din": "00319724",
+  "brand_name": "DEMO-CINEOL ENFANTS/CHILDREN",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "15-MAY-2014",
+  "active_ingredients": [
+    {
+      "name": "CAMPHOR",
+      "strength": "20",
+      "unit": "MG"
+    },
+    {
+      "name": "GUAIACOL",
+      "strength": "90",
+      "unit": "MG"
+    },
+    {
+      "name": "EUCALYPTOL",
+      "strength": "185",
+      "unit": "MG"
+    },
+    {
+      "name": "GUAIACOL CARBONATE",
+      "strength": "100",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SUPPOSITORY"
+  ],
+  "routes": [
+    "RECTAL"
+  ],
+  "companies": [
+    "SANDOZ CANADA INCORPORATED"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "COMBINATIONS"
+  ]
+}

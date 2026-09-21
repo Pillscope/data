@@ -1,0 +1,28 @@
+{
+  "drug_code": "74237",
+  "din": "02257157",
+  "brand_name": "SENSIPAR",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "19-NOV-2014",
+  "active_ingredients": [
+    {
+      "name": "CINACALCET (CINACALCET HYDROCHLORIDE)",
+      "strength": "90",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "AMGEN CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "CINACALCET"
+  ]
+}

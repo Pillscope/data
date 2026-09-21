@@ -1,0 +1,28 @@
+{
+  "drug_code": "61949",
+  "din": "02238526",
+  "brand_name": "CYSTADANE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "12-APR-2018",
+  "active_ingredients": [
+    {
+      "name": "BETAINE",
+      "strength": "1",
+      "unit": "G"
+    }
+  ],
+  "forms": [
+    "POWDER FOR SOLUTION"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "RECORDATI RARE DISEASES CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "BETAINE"
+  ]
+}

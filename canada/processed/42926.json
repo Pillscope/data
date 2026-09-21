@@ -1,0 +1,28 @@
+{
+  "drug_code": "42926",
+  "din": "02189100",
+  "brand_name": "PLASBUMIN-5",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "28-DEC-2012",
+  "active_ingredients": [
+    {
+      "name": "ALBUMIN (HUMAN)",
+      "strength": "50",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "GRIFOLS THERAPEUTICS LLC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "ALBUMIN"
+  ]
+}

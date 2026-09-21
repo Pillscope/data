@@ -1,0 +1,28 @@
+{
+  "drug_code": "36947",
+  "din": "02213214",
+  "brand_name": "ELTROXIN",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "15-MAY-2017",
+  "active_ingredients": [
+    {
+      "name": "LEVOTHYROXINE SODIUM",
+      "strength": "150",
+      "unit": "MCG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "ASPEN PHARMACARE CANADA INC."
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "LEVOTHYROXINE SODIUM"
+  ]
+}

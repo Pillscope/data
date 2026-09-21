@@ -1,0 +1,31 @@
+{
+  "drug_code": "6248",
+  "din": "00651583",
+  "brand_name": "WIND-AID",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "08-DEC-2015",
+  "active_ingredients": [
+    {
+      "name": "EUCALYPTUS OIL",
+      "strength": "29.4",
+      "unit": "G"
+    },
+    {
+      "name": "POTASSIUM IODIDE",
+      "strength": "30.6",
+      "unit": "G"
+    }
+  ],
+  "forms": [
+    "LIQUID"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "HAWTHORNE PRODUCTS INC."
+  ],
+  "status": "MARKETED",
+  "atc": []
+}

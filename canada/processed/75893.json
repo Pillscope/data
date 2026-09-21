@@ -1,0 +1,28 @@
+{
+  "drug_code": "75893",
+  "din": "02273446",
+  "brand_name": "ORIGINAL EYE DROPS",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "03-APR-2017",
+  "active_ingredients": [
+    {
+      "name": "TETRAHYDROZOLINE HYDROCHLORIDE",
+      "strength": "0.5",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "OPHTHALMIC"
+  ],
+  "companies": [
+    "TEVA CANADA LIMITED"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "TETRYZOLINE"
+  ]
+}

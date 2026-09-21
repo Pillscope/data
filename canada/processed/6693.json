@@ -1,0 +1,27 @@
+{
+  "drug_code": "6693",
+  "din": "00690473",
+  "brand_name": "ASCORBIC ACID INJ 250MG/ML",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "23-NOV-2000",
+  "active_ingredients": [
+    {
+      "name": "VITAMIN C",
+      "strength": "250",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "LIQUID"
+  ],
+  "routes": [
+    "INTRAMUSCULAR",
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "UNIVET PHARMACEUTICALS LTD."
+  ],
+  "status": "MARKETED",
+  "atc": []
+}

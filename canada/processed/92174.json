@@ -1,0 +1,26 @@
+{
+  "drug_code": "92174",
+  "din": "02437392",
+  "brand_name": "VERAFLOX",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "14-SEP-2015",
+  "active_ingredients": [
+    {
+      "name": "Pradofloxacin",
+      "strength": "15",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "BAYER INC., ANIMAL HEALTH"
+  ],
+  "status": "APPROVED",
+  "atc": []
+}

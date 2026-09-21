@@ -1,0 +1,26 @@
+{
+  "drug_code": "78509",
+  "din": "02299720",
+  "brand_name": "HEXI PREP",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "27-DEC-2007",
+  "active_ingredients": [
+    {
+      "name": "CHLORHEXIDINE ACETATE",
+      "strength": "1.6",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "AGRISAN SPECIALTY CHEMICAL & PHARMACEUTICAL"
+  ],
+  "status": "MARKETED",
+  "atc": []
+}

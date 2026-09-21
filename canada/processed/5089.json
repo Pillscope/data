@@ -1,0 +1,29 @@
+{
+  "drug_code": "5089",
+  "din": "00567434",
+  "brand_name": "PROMETHAZINE HYDROCHLORIDE INJECTION USP",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "09-DEC-2010",
+  "active_ingredients": [
+    {
+      "name": "PROMETHAZINE (PROMETHAZINE HYDROCHLORIDE)",
+      "strength": "25",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "LIQUID"
+  ],
+  "routes": [
+    "INTRAMUSCULAR",
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "SANDOZ CANADA INCORPORATED"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "PROMETHAZINE"
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "drug_code": "72923",
+  "din": "02248568",
+  "brand_name": "ROBITUSSIN COUGH CONTROL FOR PEOPLE WITH DIABETES",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "13-JAN-2017",
+  "active_ingredients": [
+    {
+      "name": "GUAIFENESIN",
+      "strength": "100",
+      "unit": "MG"
+    },
+    {
+      "name": "DEXTROMETHORPHAN HYDROBROMIDE",
+      "strength": "10",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "LIQUID"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "PFIZER CONSUMER HEALTHCARE A DIVISION OF PFIZER CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "OPIUM DERIVATIVES AND EXPECTORANTS",
+    "OPIUM DERIVATIVES AND EXPECTORANTS"
+  ]
+}

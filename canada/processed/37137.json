@@ -1,0 +1,29 @@
+{
+  "drug_code": "37137",
+  "din": "02217902",
+  "brand_name": "GLUTERATE",
+  "class": "Disinfectant",
+  "descriptor": "",
+  "last_update": "06-APR-2016",
+  "active_ingredients": [
+    {
+      "name": "GLUTARAL",
+      "strength": "2",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "DISINFECTANT (Medical Instruments)",
+    "DISINFECTANT (Hospital/HC Facilities)"
+  ],
+  "companies": [
+    "GERMIPHENE CORPORATION"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "TECHNICAL DISINFECTANTS"
+  ]
+}

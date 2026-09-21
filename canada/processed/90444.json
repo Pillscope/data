@@ -1,0 +1,48 @@
+{
+  "drug_code": "90444",
+  "din": "02419815",
+  "brand_name": "LIQUID SPRAY SUNSCREEN",
+  "class": "Human",
+  "descriptor": "LOTION",
+  "last_update": "14-JAN-2016",
+  "active_ingredients": [
+    {
+      "name": "AVOBENZONE",
+      "strength": "2.0",
+      "unit": "%"
+    },
+    {
+      "name": "OCTOCRYLENE",
+      "strength": "1.5",
+      "unit": "%"
+    },
+    {
+      "name": "OCTISALATE",
+      "strength": "4.0",
+      "unit": "%"
+    },
+    {
+      "name": "OXYBENZONE",
+      "strength": "4.0",
+      "unit": "%"
+    },
+    {
+      "name": "OCTINOXATE",
+      "strength": "7.5",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "SPRAY"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "CROC BLOC PRODUCTS INC."
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "COMBINATIONS OF PROTECTIVES AGAINST UV-RADIATION"
+  ]
+}

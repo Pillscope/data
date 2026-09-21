@@ -1,0 +1,43 @@
+{
+  "drug_code": "73607",
+  "din": "02251124",
+  "brand_name": "SUNSCREEN SPF 25",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "29-APR-2015",
+  "active_ingredients": [
+    {
+      "name": "ZINC OXIDE",
+      "strength": "3.5",
+      "unit": "%"
+    },
+    {
+      "name": "TITANIUM DIOXIDE",
+      "strength": "2.0",
+      "unit": "%"
+    },
+    {
+      "name": "OXYBENZONE",
+      "strength": "3.0",
+      "unit": "%"
+    },
+    {
+      "name": "OCTINOXATE",
+      "strength": "7.5",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "LOTION"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "CRLS"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "COMBINATIONS OF PROTECTIVES AGAINST UV-RADIATION"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "drug_code": "80614",
+  "din": "02320738",
+  "brand_name": "PMS-ANASTROZOLE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "29-OCT-2012",
+  "active_ingredients": [
+    {
+      "name": "ANASTROZOLE",
+      "strength": "1",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "PHARMASCIENCE INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "ANASTROZOLE"
+  ]
+}

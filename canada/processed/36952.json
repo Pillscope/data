@@ -1,0 +1,28 @@
+{
+  "drug_code": "36952",
+  "din": "02213265",
+  "brand_name": "DERMOVATE CREAM",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "03-MAY-2004",
+  "active_ingredients": [
+    {
+      "name": "CLOBETASOL PROPIONATE",
+      "strength": "0.05",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "CREAM"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "TAROPHARMA, A DIVISION OF TARO PHARMACEUTICALS INC."
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "CLOBETASOL"
+  ]
+}

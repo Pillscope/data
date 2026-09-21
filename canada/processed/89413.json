@@ -1,0 +1,28 @@
+{
+  "drug_code": "89413",
+  "din": "02409429",
+  "brand_name": "PMS-TADALAFIL",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "20-JUL-2016",
+  "active_ingredients": [
+    {
+      "name": "TADALAFIL",
+      "strength": "5",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "PHARMASCIENCE INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "TADALAFIL"
+  ]
+}

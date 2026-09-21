@@ -1,0 +1,50 @@
+{
+  "drug_code": "81092",
+  "din": "02325543",
+  "brand_name": "ALLERGENIC EXTRACT - MIXTURE OF 5 STANDARDIZED GRASS POLLEN",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "10-OCT-2015",
+  "active_ingredients": [
+    {
+      "name": "STANDARDIZED TIMOTHY GRASS POLLEN",
+      "strength": "20000",
+      "unit": "UNIT"
+    },
+    {
+      "name": "STANDARDIZED ORCHARD GRASS POLLEN",
+      "strength": "20000",
+      "unit": "UNIT"
+    },
+    {
+      "name": "STANDARDIZED SWEET VERNAL GRASS POLLEN",
+      "strength": "20000",
+      "unit": "UNIT"
+    },
+    {
+      "name": "STANDARDIZED REDTOP GRASS POLLEN",
+      "strength": "20000",
+      "unit": "UNIT"
+    },
+    {
+      "name": "STANDARDIZED KENTUCKY BLUE/JUNE GRASS POLLEN",
+      "strength": "20000",
+      "unit": "UNIT"
+    }
+  ],
+  "forms": [
+    "LIQUID"
+  ],
+  "routes": [
+    "INTRADERMAL",
+    "SUBCUTANEOUS",
+    "PERCUTANEOUS"
+  ],
+  "companies": [
+    "ALK-ABELLO INC"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "GRASS POLLEN"
+  ]
+}

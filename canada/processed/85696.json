@@ -1,0 +1,28 @@
+{
+  "drug_code": "85696",
+  "din": "02371839",
+  "brand_name": "UROMITEXAN",
+  "class": "Human",
+  "descriptor": "WITH BENZYL ALCOHOL AS PRESERVATIVE",
+  "last_update": "17-JAN-2014",
+  "active_ingredients": [
+    {
+      "name": "MESNA",
+      "strength": "100",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "BAXTER CORPORATION"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "MESNA"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "drug_code": "66284",
+  "din": "02242542",
+  "brand_name": "OXYGEN USP",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "22-JUL-2010",
+  "active_ingredients": [
+    {
+      "name": "OXYGEN",
+      "strength": "99",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "GAS"
+  ],
+  "routes": [
+    "INHALATION"
+  ],
+  "companies": [
+    "ONTARIO HOME OXYGEN AND RESPIRATORY SERVICE INC."
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "OXYGEN"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "drug_code": "43155",
+  "din": "02215187",
+  "brand_name": "CAVERJECT STERILE POWDER - PWS 23.2MCG/VIAL",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "09-NOV-2015",
+  "active_ingredients": [
+    {
+      "name": "ALPROSTADIL",
+      "strength": "23.2",
+      "unit": "MCG"
+    }
+  ],
+  "forms": [
+    "POWDER FOR SOLUTION"
+  ],
+  "routes": [
+    "INTRACAVERNOSAL"
+  ],
+  "companies": [
+    "PFIZER CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "ALPROSTADIL"
+  ]
+}

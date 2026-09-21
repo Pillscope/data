@@ -1,0 +1,28 @@
+{
+  "drug_code": "74170",
+  "din": "02256460",
+  "brand_name": "VFEND",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "28-FEB-2007",
+  "active_ingredients": [
+    {
+      "name": "VORICONAZOLE",
+      "strength": "50",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "PFIZER CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "VORICONAZOLE"
+  ]
+}

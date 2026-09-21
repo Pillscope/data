@@ -1,0 +1,28 @@
+{
+  "drug_code": "95344",
+  "din": "02465248",
+  "brand_name": "BELBUCA",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "15-MAR-2018",
+  "active_ingredients": [
+    {
+      "name": "BUPRENORPHINE (BUPRENORPHINE HYDROCHLORIDE)",
+      "strength": "150",
+      "unit": "MCG"
+    }
+  ],
+  "forms": [
+    "FILM, SOLUBLE"
+  ],
+  "routes": [
+    "BUCCAL"
+  ],
+  "companies": [
+    "PURDUE PHARMA"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "BUPRENORPHINE"
+  ]
+}

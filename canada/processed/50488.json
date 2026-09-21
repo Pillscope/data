@@ -1,0 +1,26 @@
+{
+  "drug_code": "50488",
+  "din": "02231180",
+  "brand_name": "FUMAGILIN-B",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "05-APR-2013",
+  "active_ingredients": [
+    {
+      "name": "FUMAGILLIN (FUMAGILLIN DICYCLOHEXYLAMINE)",
+      "strength": "21",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "POWDER"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "MEDIVET PHARMACEUTICALS LTD."
+  ],
+  "status": "MARKETED",
+  "atc": []
+}

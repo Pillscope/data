@@ -1,0 +1,28 @@
+{
+  "drug_code": "76094",
+  "din": "02275309",
+  "brand_name": "RIVA-AZITHROMYCIN",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "12-JAN-2017",
+  "active_ingredients": [
+    {
+      "name": "AZITHROMYCIN (AZITHROMYCIN DIHYDRATE)",
+      "strength": "250",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "LABORATOIRE RIVA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "AZITHROMYCIN"
+  ]
+}

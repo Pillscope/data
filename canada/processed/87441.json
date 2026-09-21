@@ -1,0 +1,28 @@
+{
+  "drug_code": "87441",
+  "din": "02388863",
+  "brand_name": "LOSARTAN",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "17-AUG-2012",
+  "active_ingredients": [
+    {
+      "name": "LOSARTAN POTASSIUM",
+      "strength": "25",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "SANIS HEALTH INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "LOSARTAN"
+  ]
+}

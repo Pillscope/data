@@ -1,0 +1,28 @@
+{
+  "drug_code": "14386",
+  "din": "02019884",
+  "brand_name": "APO-ENALAPRIL TAB 5MG",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "04-JUN-2012",
+  "active_ingredients": [
+    {
+      "name": "ENALAPRIL MALEATE",
+      "strength": "5",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "APOTEX INC"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "ENALAPRIL"
+  ]
+}

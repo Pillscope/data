@@ -1,0 +1,27 @@
+{
+  "drug_code": "86056",
+  "din": "02375176",
+  "brand_name": "NEXHA",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "05-MAY-2015",
+  "active_ingredients": [
+    {
+      "name": "HYALURONATE SODIUM",
+      "strength": "10",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "INTRA-ARTICULAR",
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "VETOQUINOL N A INC"
+  ],
+  "status": "APPROVED",
+  "atc": []
+}

@@ -1,0 +1,28 @@
+{
+  "drug_code": "73720",
+  "din": "02252325",
+  "brand_name": "TEVA-CARVEDILOL",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "12-JAN-2018",
+  "active_ingredients": [
+    {
+      "name": "CARVEDILOL",
+      "strength": "12.5",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "TEVA CANADA LIMITED"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "CARVEDILOL"
+  ]
+}

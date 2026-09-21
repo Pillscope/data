@@ -1,0 +1,28 @@
+{
+  "drug_code": "88596",
+  "din": "02401231",
+  "brand_name": "TRANEXAMIC ACID TABLETS",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "15-FEB-2013",
+  "active_ingredients": [
+    {
+      "name": "TRANEXAMIC ACID",
+      "strength": "500",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "STERIMAX INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "TRANEXAMIC ACID"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "drug_code": "88449",
+  "din": "02399636",
+  "brand_name": "HEAD & SHOULDERS CLASSIC CLEAN 2 IN 1",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "05-MAY-2017",
+  "active_ingredients": [
+    {
+      "name": "PYRITHIONE ZINC",
+      "strength": "1",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "SHAMPOO"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "PROCTER & GAMBLE INC"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "PYRITHIONE ZINC"
+  ]
+}

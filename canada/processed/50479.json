@@ -1,0 +1,26 @@
+{
+  "drug_code": "50479",
+  "din": "02231172",
+  "brand_name": "COBAN PREMIX",
+  "class": "Veterinary",
+  "descriptor": "MONENSIN WITH MICROTRACER",
+  "last_update": "20-APR-2018",
+  "active_ingredients": [
+    {
+      "name": "MONENSIN (MONENSIN SODIUM)",
+      "strength": "200",
+      "unit": "G"
+    }
+  ],
+  "forms": [
+    "DRUG PREMIX"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "ELANCO CANADA LIMITED"
+  ],
+  "status": "APPROVED",
+  "atc": []
+}

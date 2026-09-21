@@ -1,0 +1,28 @@
+{
+  "drug_code": "4710",
+  "din": "00557102",
+  "brand_name": "RIVA-DICYCLOMINE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "27-MAR-2018",
+  "active_ingredients": [
+    {
+      "name": "DICYCLOMINE HYDROCHLORIDE",
+      "strength": "10",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "CAPSULE"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "LABORATOIRE RIVA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "DICYCLOVERINE"
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "drug_code": "15508",
+  "din": "01943545",
+  "brand_name": "CLEAR LEMON 10 LIQ",
+  "class": "Disinfectant",
+  "descriptor": "",
+  "last_update": "30-SEP-2010",
+  "active_ingredients": [
+    {
+      "name": "SODIUM CARBONATE (ANHYDROUS)",
+      "strength": "1.5",
+      "unit": "%"
+    },
+    {
+      "name": "BENZALKONIUM CHLORIDE",
+      "strength": "1.43",
+      "unit": "%"
+    },
+    {
+      "name": "EDETATE SODIUM",
+      "strength": "0.5",
+      "unit": "%"
+    },
+    {
+      "name": "ALKYL DIMETHYL ETHYLBENZYL AMMONIUM CHLORIDE",
+      "strength": "1.43",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "LIQUID"
+  ],
+  "routes": [
+    "DISINFECTANT (Hospital/HC Facilities)"
+  ],
+  "companies": [
+    "HAWCO PRODUCTS LTD."
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "TECHNICAL DISINFECTANTS"
+  ]
+}

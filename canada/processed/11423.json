@@ -1,0 +1,28 @@
+{
+  "drug_code": "11423",
+  "din": "01912755",
+  "brand_name": "PDP-ERYTHROMYCIN",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "01-OCT-2015",
+  "active_ingredients": [
+    {
+      "name": "ERYTHROMYCIN",
+      "strength": "5",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "OINTMENT"
+  ],
+  "routes": [
+    "OPHTHALMIC"
+  ],
+  "companies": [
+    "PENDOPHARM DIVISION OF DE PHARMASCIENCE INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "ERYTHROMYCIN"
+  ]
+}

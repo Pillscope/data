@@ -1,0 +1,28 @@
+{
+  "drug_code": "17201",
+  "din": "02142104",
+  "brand_name": "LAMICTAL",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "30-NOV-2010",
+  "active_ingredients": [
+    {
+      "name": "LAMOTRIGINE",
+      "strength": "100",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "GLAXOSMITHKLINE INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "LAMOTRIGINE"
+  ]
+}

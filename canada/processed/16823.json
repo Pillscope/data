@@ -1,0 +1,28 @@
+{
+  "drug_code": "16823",
+  "din": "01968823",
+  "brand_name": "LIDODAN VISCOUS 2%",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "11-JUN-2013",
+  "active_ingredients": [
+    {
+      "name": "LIDOCAINE HYDROCHLORIDE",
+      "strength": "2",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "LIQUID"
+  ],
+  "routes": [
+    "BUCCAL"
+  ],
+  "companies": [
+    "ODAN LABORATORIES LTD"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "LIDOCAINE"
+  ]
+}

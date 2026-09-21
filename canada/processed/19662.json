@@ -1,0 +1,28 @@
+{
+  "drug_code": "19662",
+  "din": "02084228",
+  "brand_name": "RATIO-SOTALOL",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "29-APR-2015",
+  "active_ingredients": [
+    {
+      "name": "SOTALOL HYDROCHLORIDE",
+      "strength": "80",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "TEVA CANADA LIMITED"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "SOTALOL"
+  ]
+}

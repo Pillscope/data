@@ -1,0 +1,28 @@
+{
+  "drug_code": "76888",
+  "din": "02283255",
+  "brand_name": "JAMP-DOCUSATE CALCIUM",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "29-JUN-2016",
+  "active_ingredients": [
+    {
+      "name": "DOCUSATE CALCIUM",
+      "strength": "240",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "CAPSULE"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "JAMP PHARMA CORPORATION"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "DOCUSATE SODIUM"
+  ]
+}

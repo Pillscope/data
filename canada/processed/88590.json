@@ -1,0 +1,48 @@
+{
+  "drug_code": "88590",
+  "din": "02401177",
+  "brand_name": "SUN+ AVON TECHNOLOGIE DERMA PLUS TECHNOLOGY SUNSCREEN FACE LOTION",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "13-MAR-2015",
+  "active_ingredients": [
+    {
+      "name": "AVOBENZONE",
+      "strength": "3.0",
+      "unit": "%"
+    },
+    {
+      "name": "OCTOCRYLENE",
+      "strength": "2.8",
+      "unit": "%"
+    },
+    {
+      "name": "OXYBENZONE",
+      "strength": "6.0",
+      "unit": "%"
+    },
+    {
+      "name": "OCTISALATE",
+      "strength": "4.75",
+      "unit": "%"
+    },
+    {
+      "name": "HOMOSALATE",
+      "strength": "9.5",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "LOTION"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "AVON CANADA INC"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "COMBINATIONS OF PROTECTIVES AGAINST UV-RADIATION"
+  ]
+}

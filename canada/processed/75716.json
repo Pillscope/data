@@ -1,0 +1,28 @@
+{
+  "drug_code": "75716",
+  "din": "02271613",
+  "brand_name": "TEVA-DILTIAZEM HCL ER CAPSULES",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "29-APR-2015",
+  "active_ingredients": [
+    {
+      "name": "DILTIAZEM HYDROCHLORIDE",
+      "strength": "180",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "CAPSULE (EXTENDED RELEASE)"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "VALEANT CANADA LP/VALEANT CANADA S.E.C."
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "DILTIAZEM"
+  ]
+}

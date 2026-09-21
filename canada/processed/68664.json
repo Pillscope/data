@@ -1,0 +1,28 @@
+{
+  "drug_code": "68664",
+  "din": "02244676",
+  "brand_name": "FORTOLIN",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "06-DEC-2005",
+  "active_ingredients": [
+    {
+      "name": "ACETAMINOPHEN",
+      "strength": "500",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "FORTUNE PHARMACAL CO. LTD."
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "ACETAMINOPHEN (PARACETAMOL)"
+  ]
+}

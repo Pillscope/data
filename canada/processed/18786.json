@@ -1,0 +1,36 @@
+{
+  "drug_code": "18786",
+  "din": "02087286",
+  "brand_name": "ALKERAN",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "22-FEB-2018",
+  "active_ingredients": [
+    {
+      "name": "MELPHALAN (MELPHALAN HYDROCHLORIDE)",
+      "strength": "50",
+      "unit": "MG"
+    },
+    {
+      "name": "BUFFER SOLUTION",
+      "strength": "10",
+      "unit": "ML"
+    }
+  ],
+  "forms": [
+    "SOLUTION",
+    "KIT",
+    "POWDER FOR SOLUTION"
+  ],
+  "routes": [
+    "INTRA-ARTERIAL",
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "ASPEN PHARMACARE CANADA INC."
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "MELPHALAN"
+  ]
+}

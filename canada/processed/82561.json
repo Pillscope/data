@@ -1,0 +1,28 @@
+{
+  "drug_code": "82561",
+  "din": "02340046",
+  "brand_name": "FLUCONAZOLE-150",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "08-APR-2014",
+  "active_ingredients": [
+    {
+      "name": "FLUCONAZOLE",
+      "strength": "150",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "CAPSULE"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "PHARMASCIENCE INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "FLUCONAZOLE"
+  ]
+}

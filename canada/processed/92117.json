@@ -1,0 +1,28 @@
+{
+  "drug_code": "92117",
+  "din": "02436841",
+  "brand_name": "ENTYVIO",
+  "class": "Human",
+  "descriptor": "FOR I.V. INFUSION",
+  "last_update": "09-DEC-2015",
+  "active_ingredients": [
+    {
+      "name": "Vedolizumab",
+      "strength": "300",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "POWDER FOR SOLUTION"
+  ],
+  "routes": [
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "TAKEDA CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "VEDOLIZUMAB"
+  ]
+}

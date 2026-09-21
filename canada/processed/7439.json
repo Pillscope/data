@@ -1,0 +1,36 @@
+{
+  "drug_code": "7439",
+  "din": "00294039",
+  "brand_name": "T-61",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "03-JAN-2013",
+  "active_ingredients": [
+    {
+      "name": "TETRACAINE HYDROCHLORIDE",
+      "strength": "5",
+      "unit": "MG"
+    },
+    {
+      "name": "EMBUTRAMIDE",
+      "strength": "200",
+      "unit": "MG"
+    },
+    {
+      "name": "MEBEZONIUM IODIDE",
+      "strength": "50",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "INTERVET CANADA CORP"
+  ],
+  "status": "APPROVED",
+  "atc": []
+}

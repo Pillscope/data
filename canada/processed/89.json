@@ -1,0 +1,26 @@
+{
+  "drug_code": "89",
+  "din": "00053201",
+  "brand_name": "HIBITANE",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "17-MAR-2016",
+  "active_ingredients": [
+    {
+      "name": "CHLORHEXIDINE ACETATE",
+      "strength": "1",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "OINTMENT"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "ZOETIS CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": []
+}

@@ -1,0 +1,28 @@
+{
+  "drug_code": "84981",
+  "din": "02364948",
+  "brand_name": "CARVEDILOL",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "05-MAY-2015",
+  "active_ingredients": [
+    {
+      "name": "CARVEDILOL",
+      "strength": "12.5",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "SANIS HEALTH INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "CARVEDILOL"
+  ]
+}

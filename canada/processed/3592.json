@@ -1,0 +1,34 @@
+{
+  "drug_code": "3592",
+  "din": "00493236",
+  "brand_name": "BAC STOP",
+  "class": "Disinfectant",
+  "descriptor": "",
+  "last_update": "09-JUN-2006",
+  "active_ingredients": [
+    {
+      "name": "BENZALKONIUM CHLORIDE",
+      "strength": "0.8",
+      "unit": "%"
+    },
+    {
+      "name": "ALKYL DIMETHYL ETHYLBENZYL AMMONIUM CHLORIDE",
+      "strength": "0.8",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "LIQUID"
+  ],
+  "routes": [
+    "DISINFECTANT (Food Premises)",
+    "DISINFECTANT (Hospital/HC Facilities)"
+  ],
+  "companies": [
+    "EASY WAY CLEANING PRODUCTS LIMITED"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "TECHNICAL DISINFECTANTS"
+  ]
+}

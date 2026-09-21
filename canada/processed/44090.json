@@ -1,0 +1,28 @@
+{
+  "drug_code": "44090",
+  "din": "02162644",
+  "brand_name": "TORADOL IM",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "25-MAY-2016",
+  "active_ingredients": [
+    {
+      "name": "KETOROLAC TROMETHAMINE",
+      "strength": "10",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "INTRAMUSCULAR"
+  ],
+  "companies": [
+    "ATNAHS PHARMA UK LIMITED"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "KETOROLAC"
+  ]
+}

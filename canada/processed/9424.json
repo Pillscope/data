@@ -1,0 +1,28 @@
+{
+  "drug_code": "9424",
+  "din": "00728209",
+  "brand_name": "PMS-LORAZEPAM TAB 2MG",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "27-MAR-2006",
+  "active_ingredients": [
+    {
+      "name": "LORAZEPAM",
+      "strength": "2",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "PHARMASCIENCE INC"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "LORAZEPAM"
+  ]
+}

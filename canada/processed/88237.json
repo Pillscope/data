@@ -1,0 +1,28 @@
+{
+  "drug_code": "88237",
+  "din": "02397412",
+  "brand_name": "KALYDECO",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "30-DEC-2013",
+  "active_ingredients": [
+    {
+      "name": "IVACAFTOR",
+      "strength": "150",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "VERTEX PHARMACEUTICALS (CANADA) INCORPORATED"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "IVACAFTOR"
+  ]
+}

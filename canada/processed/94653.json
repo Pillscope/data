@@ -1,0 +1,26 @@
+{
+  "drug_code": "94653",
+  "din": "02459337",
+  "brand_name": "BISEPT",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "05-JUN-2017",
+  "active_ingredients": [
+    {
+      "name": "SODIUM CHLORITE",
+      "strength": "0.36",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "GEA FARM TECHNOLOGIES INC"
+  ],
+  "status": "APPROVED",
+  "atc": []
+}

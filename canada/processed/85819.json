@@ -1,0 +1,33 @@
+{
+  "drug_code": "85819",
+  "din": "02373076",
+  "brand_name": "DIORSKIN FOREVER COMPACT TEINT HAUTE PERFECTION TENUE FUSIONNELLE",
+  "class": "Human",
+  "descriptor": "COMPACT POWDER",
+  "last_update": "02-APR-2013",
+  "active_ingredients": [
+    {
+      "name": "TITANIUM DIOXIDE",
+      "strength": "0.54",
+      "unit": "%"
+    },
+    {
+      "name": "OCTINOXATE",
+      "strength": "5.99",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "POWDER"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "PARFUMS CHRISTIAN DIOR"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "COMBINATIONS OF PROTECTIVES AGAINST UV-RADIATION"
+  ]
+}

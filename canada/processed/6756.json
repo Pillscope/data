@@ -1,0 +1,28 @@
+{
+  "drug_code": "6756",
+  "din": "00664553",
+  "brand_name": "PMS DOCUSATE-CALCIUM CAP 240MG USP",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "10-MAY-2016",
+  "active_ingredients": [
+    {
+      "name": "DOCUSATE CALCIUM",
+      "strength": "240",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "CAPSULE"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "PHARMASCIENCE INC"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "DOCUSATE SODIUM"
+  ]
+}

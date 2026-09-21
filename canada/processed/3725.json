@@ -1,0 +1,29 @@
+{
+  "drug_code": "3725",
+  "din": "00253952",
+  "brand_name": "SYNACTHEN DEPOT",
+  "class": "Human",
+  "descriptor": "ALSO KNOWN AS COSYNTROPIN",
+  "last_update": "18-OCT-2016",
+  "active_ingredients": [
+    {
+      "name": "TETRACOSACTIDE (Tetracosactide zinc hydroxide)",
+      "strength": "1",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SUSPENSION"
+  ],
+  "routes": [
+    "INTRAMUSCULAR"
+  ],
+  "companies": [
+    "MALLINCKRODT SPECIALTY PHARMACEUTICALS IRELAND LTD."
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "TETRACOSACTIDE",
+    "TETRACOSACTIDE"
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "drug_code": "18202",
+  "din": "02158221",
+  "brand_name": "ACID CONCENTRATE D12262",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "27-JAN-2010",
+  "active_ingredients": [
+    {
+      "name": "DEXTROSE",
+      "strength": "90",
+      "unit": "G"
+    },
+    {
+      "name": "ACETIC ACID",
+      "strength": "10.8",
+      "unit": "G"
+    },
+    {
+      "name": "POTASSIUM CHLORIDE",
+      "strength": "3.35",
+      "unit": "G"
+    },
+    {
+      "name": "SODIUM CHLORIDE",
+      "strength": "263",
+      "unit": "G"
+    },
+    {
+      "name": "MAGNESIUM CHLORIDE",
+      "strength": "1.61",
+      "unit": "G"
+    },
+    {
+      "name": "CALCIUM CHLORIDE",
+      "strength": "7.49",
+      "unit": "G"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "DIALYSIS"
+  ],
+  "companies": [
+    "BAXTER CORPORATION"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "HEMODIALYTICS, CONCENTRATES"
+  ]
+}

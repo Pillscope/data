@@ -1,0 +1,66 @@
+{
+  "drug_code": "2005",
+  "din": "00308390",
+  "brand_name": "CALF SCOUR BOLUS",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "13-JAN-2018",
+  "active_ingredients": [
+    {
+      "name": "HYOSCYAMINE SULFATE",
+      "strength": "0.1",
+      "unit": "MG"
+    },
+    {
+      "name": "PECTIN",
+      "strength": "260",
+      "unit": "MG"
+    },
+    {
+      "name": "SULFAGUANIDINE",
+      "strength": "1340",
+      "unit": "MG"
+    },
+    {
+      "name": "NEOMYCIN (NEOMYCIN SULFATE)",
+      "strength": "350",
+      "unit": "MG"
+    },
+    {
+      "name": "VITAMIN A",
+      "strength": "50000",
+      "unit": "UNIT"
+    },
+    {
+      "name": "CALCIUM PHOSPHATE (TRIBASIC)",
+      "strength": "324",
+      "unit": "MG"
+    },
+    {
+      "name": "KAOLIN",
+      "strength": "975",
+      "unit": "MG"
+    },
+    {
+      "name": "SULFATHIAZOLE",
+      "strength": "668",
+      "unit": "MG"
+    },
+    {
+      "name": "ATROPINE SULFATE",
+      "strength": "0.1",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "BOLUS"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "PROFESSIONAL VETERINARY LABORATORIES"
+  ],
+  "status": "MARKETED",
+  "atc": []
+}

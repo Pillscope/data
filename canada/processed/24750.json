@@ -1,0 +1,28 @@
+{
+  "drug_code": "24750",
+  "din": "01991086",
+  "brand_name": "SLEEP AID (EXTRA STRENGTH) TAB 50MG",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "07-FEB-2013",
+  "active_ingredients": [
+    {
+      "name": "DIPHENHYDRAMINE HYDROCHLORIDE",
+      "strength": "50",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "TANTA PHARMACEUTICALS INC"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "DIPHENHYDRAMINE"
+  ]
+}

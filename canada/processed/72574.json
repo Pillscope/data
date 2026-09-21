@@ -1,0 +1,28 @@
+{
+  "drug_code": "72574",
+  "din": "02248237",
+  "brand_name": "FANTASTIK WITH BLEACH ALL PURPOSE CLEANER",
+  "class": "Disinfectant",
+  "descriptor": "SOLUTION",
+  "last_update": "22-JAN-2018",
+  "active_ingredients": [
+    {
+      "name": "SODIUM HYPOCHLORITE",
+      "strength": "3",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "SPRAY"
+  ],
+  "routes": [
+    "DISINFECTANT (Domestic)"
+  ],
+  "companies": [
+    "S.C. JOHNSON AND SON LTD"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "TECHNICAL DISINFECTANTS"
+  ]
+}

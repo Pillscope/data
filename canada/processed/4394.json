@@ -1,0 +1,111 @@
+{
+  "drug_code": "4394",
+  "din": "00540595",
+  "brand_name": "SULECTIM 100",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "29-DEC-2017",
+  "active_ingredients": [
+    {
+      "name": "CALCIUM D-PANTOTHENATE",
+      "strength": "3.92",
+      "unit": "G"
+    },
+    {
+      "name": "VITAMIN D3",
+      "strength": "440000",
+      "unit": "UNIT"
+    },
+    {
+      "name": "MANGANESE SULFATE",
+      "strength": "0.05",
+      "unit": "G"
+    },
+    {
+      "name": "COBALT CARBONATE (BASIC)",
+      "strength": "0.25",
+      "unit": "G"
+    },
+    {
+      "name": "SULFAMERAZINE SODIUM",
+      "strength": "65.2",
+      "unit": "G"
+    },
+    {
+      "name": "SULFATHIAZOLE SODIUM",
+      "strength": "250",
+      "unit": "G"
+    },
+    {
+      "name": "VITAMIN B2",
+      "strength": "0.88",
+      "unit": "G"
+    },
+    {
+      "name": "VITAMIN A",
+      "strength": "1320000",
+      "unit": "UNIT"
+    },
+    {
+      "name": "NICOTINIC ACID",
+      "strength": "17.60",
+      "unit": "G"
+    },
+    {
+      "name": "SODIUM CHLORIDE",
+      "strength": "17.77",
+      "unit": "G"
+    },
+    {
+      "name": "MAGNESIUM SULFATE",
+      "strength": "1.08",
+      "unit": "G"
+    },
+    {
+      "name": "SODIUM ACETATE",
+      "strength": "9.53",
+      "unit": "G"
+    },
+    {
+      "name": "POTASSIUM CHLORIDE",
+      "strength": "1.15",
+      "unit": "G"
+    },
+    {
+      "name": "ZINC SULFATE",
+      "strength": "0.05",
+      "unit": "G"
+    },
+    {
+      "name": "CALCIUM CHLORIDE",
+      "strength": "1.05",
+      "unit": "G"
+    },
+    {
+      "name": "COPPER SULFATE",
+      "strength": "0.005",
+      "unit": "G"
+    },
+    {
+      "name": "FERROUS SULFATE",
+      "strength": "0.5",
+      "unit": "G"
+    },
+    {
+      "name": "VITAMIN B12",
+      "strength": "13.2",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "POWDER"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "REMEDY ANIMAL HEALTH PRODUCTS LTD"
+  ],
+  "status": "APPROVED",
+  "atc": []
+}

@@ -1,0 +1,43 @@
+{
+  "drug_code": "95393",
+  "din": "02465698",
+  "brand_name": "PHARMASAVE SPORT SUNSCREEN CONTINUOUS SPRAY SPF FPS 30",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "19-JAN-2018",
+  "active_ingredients": [
+    {
+      "name": "AVOBENZONE",
+      "strength": "2",
+      "unit": "%"
+    },
+    {
+      "name": "OXYBENZONE",
+      "strength": "4",
+      "unit": "%"
+    },
+    {
+      "name": "OCTISALATE",
+      "strength": "5",
+      "unit": "%"
+    },
+    {
+      "name": "HOMOSALATE",
+      "strength": "15",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "SPRAY, BAG-ON-VALVE"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "FRUIT OF THE EARTH, INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "COMBINATIONS OF PROTECTIVES AGAINST UV-RADIATION"
+  ]
+}

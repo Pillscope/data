@@ -1,0 +1,33 @@
+{
+  "drug_code": "83970",
+  "din": "02354535",
+  "brand_name": "ARTIFICIAL TEARS",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "16-NOV-2017",
+  "active_ingredients": [
+    {
+      "name": "GLYCERINE",
+      "strength": "0.2",
+      "unit": "%"
+    },
+    {
+      "name": "HYPROMELLOSE",
+      "strength": "0.2",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "OPHTHALMIC"
+  ],
+  "companies": [
+    "TEVA CANADA LIMITED"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "ARTIFICIAL TEARS AND OTHER INDIFFERENT PREPARATIONS."
+  ]
+}

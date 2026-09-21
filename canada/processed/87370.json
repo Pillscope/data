@@ -1,0 +1,43 @@
+{
+  "drug_code": "87370",
+  "din": "02388154",
+  "brand_name": "SUNSCREEN OIL SPRAY",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "05-JUL-2016",
+  "active_ingredients": [
+    {
+      "name": "AVOBENZONE",
+      "strength": "3",
+      "unit": "%"
+    },
+    {
+      "name": "OCTOCRYLENE",
+      "strength": "2.4",
+      "unit": "%"
+    },
+    {
+      "name": "OCTISALATE",
+      "strength": "4.5",
+      "unit": "%"
+    },
+    {
+      "name": "HOMOSALATE",
+      "strength": "9",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "SPRAY"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "EDGEWELL PERSONAL CARE CANADA, ULC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "COMBINATIONS OF PROTECTIVES AGAINST UV-RADIATION"
+  ]
+}

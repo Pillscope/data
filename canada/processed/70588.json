@@ -1,0 +1,33 @@
+{
+  "drug_code": "70588",
+  "din": "02246416",
+  "brand_name": "SPF 15 LIP BALM",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "22-MAY-2015",
+  "active_ingredients": [
+    {
+      "name": "OXYBENZONE",
+      "strength": "3.5",
+      "unit": "%"
+    },
+    {
+      "name": "OCTINOXATE",
+      "strength": "7.5",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "STICK"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "EMPACK SPRAYTECH INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "COMBINATIONS OF PROTECTIVES AGAINST UV-RADIATION"
+  ]
+}

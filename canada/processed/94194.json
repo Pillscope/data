@@ -1,0 +1,28 @@
+{
+  "drug_code": "94194",
+  "din": "02455110",
+  "brand_name": "TALTZ",
+  "class": "Human",
+  "descriptor": "SINGLE-DOSE PREFILLED SYRINGE",
+  "last_update": "16-JAN-2017",
+  "active_ingredients": [
+    {
+      "name": "IXEKIZUMAB",
+      "strength": "80",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "SUBCUTANEOUS"
+  ],
+  "companies": [
+    "ELI LILLY CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "IXEKIZUMAB"
+  ]
+}

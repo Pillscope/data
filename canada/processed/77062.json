@@ -1,0 +1,28 @@
+{
+  "drug_code": "77062",
+  "din": "02285118",
+  "brand_name": "TEVA-LISINOPRIL (TYPE Z)",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "05-MAY-2015",
+  "active_ingredients": [
+    {
+      "name": "LISINOPRIL",
+      "strength": "5",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "TEVA CANADA LIMITED"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "LISINOPRIL"
+  ]
+}

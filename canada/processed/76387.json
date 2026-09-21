@@ -1,0 +1,39 @@
+{
+  "drug_code": "76387",
+  "din": "02278294",
+  "brand_name": "THERAFLU COLD AND FLU",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "24-NOV-2016",
+  "active_ingredients": [
+    {
+      "name": "PHENIRAMINE MALEATE",
+      "strength": "20",
+      "unit": "MG"
+    },
+    {
+      "name": "PHENYLEPHRINE HYDROCHLORIDE",
+      "strength": "10",
+      "unit": "MG"
+    },
+    {
+      "name": "ACETAMINOPHEN",
+      "strength": "325",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "POWDER"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "GLAXOSMITHKLINE CONSUMER HEALTHCARE INC."
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "ACETAMINOPHEN, COMB EXCL PSYCHOLEPTICS",
+    "ACETAMINOPHEN, COMB EXCL PSYCHOLEPTICS"
+  ]
+}

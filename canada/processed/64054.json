@@ -1,0 +1,28 @@
+{
+  "drug_code": "64054",
+  "din": "02240484",
+  "brand_name": "TEVA-SERTRALINE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "29-APR-2015",
+  "active_ingredients": [
+    {
+      "name": "SERTRALINE (SERTRALINE HYDROCHLORIDE)",
+      "strength": "50",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "CAPSULE"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "TEVA CANADA LIMITED"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "SERTRALINE"
+  ]
+}

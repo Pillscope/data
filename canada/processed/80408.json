@@ -1,0 +1,28 @@
+{
+  "drug_code": "80408",
+  "din": "02318601",
+  "brand_name": "AURO-NEVIRAPINE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "25-JAN-2011",
+  "active_ingredients": [
+    {
+      "name": "NEVIRAPINE",
+      "strength": "200",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "AUROBINDO PHARMA LIMITED (UNIT III)"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "NEVIRAPINE"
+  ]
+}

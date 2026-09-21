@@ -1,0 +1,28 @@
+{
+  "drug_code": "69976",
+  "din": "02245859",
+  "brand_name": "CATHFLO",
+  "class": "Human",
+  "descriptor": "SINGLE USE VIAL",
+  "last_update": "23-AUG-2017",
+  "active_ingredients": [
+    {
+      "name": "ALTEPLASE",
+      "strength": "2",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "POWDER FOR SOLUTION"
+  ],
+  "routes": [
+    "INSTILLATION"
+  ],
+  "companies": [
+    "HOFFMANN-LA ROCHE LIMITED"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "ALTEPLASE"
+  ]
+}

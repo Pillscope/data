@@ -1,0 +1,26 @@
+{
+  "drug_code": "83457",
+  "din": "02349264",
+  "brand_name": "DEXACORT POWDER",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "30-NOV-2010",
+  "active_ingredients": [
+    {
+      "name": "DEXAMETHASONE",
+      "strength": "10",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "POWDER"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "RAFTER 8 PRODUCTS INC"
+  ],
+  "status": "MARKETED",
+  "atc": []
+}

@@ -1,0 +1,28 @@
+{
+  "drug_code": "90501",
+  "din": "02420422",
+  "brand_name": "JAMP-ONDANSETRON",
+  "class": "Human",
+  "descriptor": "MULTI-DOSE VIAL",
+  "last_update": "14-SEP-2015",
+  "active_ingredients": [
+    {
+      "name": "ONDANSETRON (ONDANSETRON HYDROCHLORIDE DIHYDRATE)",
+      "strength": "2",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "JAMP PHARMA CORPORATION"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "ONDANSETRON"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "drug_code": "67653",
+  "din": "02243721",
+  "brand_name": "BOTOX COSMETIC",
+  "class": "Human",
+  "descriptor": "ONABOTULINUMTOXINA",
+  "last_update": "11-JAN-2013",
+  "active_ingredients": [
+    {
+      "name": "OnabotulinumtoxinA",
+      "strength": "100",
+      "unit": "UNIT"
+    }
+  ],
+  "forms": [
+    "POWDER FOR SOLUTION"
+  ],
+  "routes": [
+    "INTRAMUSCULAR"
+  ],
+  "companies": [
+    "ALLERGAN INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "BOTULINUM TOXIN"
+  ]
+}

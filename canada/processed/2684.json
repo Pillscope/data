@@ -1,0 +1,28 @@
+{
+  "drug_code": "2684",
+  "din": "00400688",
+  "brand_name": "PROSTIN E2 TABLETS",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "26-SEP-2006",
+  "active_ingredients": [
+    {
+      "name": "DINOPROSTONE",
+      "strength": "0.5",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "PFIZER CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "DINOPROSTONE"
+  ]
+}

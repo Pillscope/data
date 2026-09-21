@@ -1,0 +1,30 @@
+{
+  "drug_code": "3383",
+  "din": "00402257",
+  "brand_name": "STERILE WATER INJ",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "15-DEC-2017",
+  "active_ingredients": [
+    {
+      "name": "WATER",
+      "strength": "100",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "LIQUID"
+  ],
+  "routes": [
+    "INTRAMUSCULAR",
+    "INTRAVENOUS",
+    "SUBCUTANEOUS"
+  ],
+  "companies": [
+    "OMEGA LABORATORIES LTD"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "SOLVENTS AND DILUTING AGENTS,INCL IRRIGAT SOLUT"
+  ]
+}

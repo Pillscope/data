@@ -1,0 +1,29 @@
+{
+  "drug_code": "3498",
+  "din": "00463442",
+  "brand_name": "RIBOFLAVIN INJ 50MG/ML",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "06-JUL-2011",
+  "active_ingredients": [
+    {
+      "name": "VITAMIN B2 (RIBOFLAVIN 5'-PHOSPHATE SODIUM)",
+      "strength": "50",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "INTRAMUSCULAR",
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "KRIPPS PHARMACY LTD."
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "RIBOFLAVIN (VIT B2)"
+  ]
+}

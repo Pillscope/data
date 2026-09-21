@@ -1,0 +1,28 @@
+{
+  "drug_code": "86671",
+  "din": "02380951",
+  "brand_name": "APO-ZOLMITRIPTAN",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "19-AUG-2016",
+  "active_ingredients": [
+    {
+      "name": "ZOLMITRIPTAN",
+      "strength": "2.5",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "APOTEX INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "ZOLMITRIPTAN"
+  ]
+}

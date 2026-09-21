@@ -1,0 +1,28 @@
+{
+  "drug_code": "94215",
+  "din": "02455331",
+  "brand_name": "BRENZYS",
+  "class": "Human",
+  "descriptor": "PRE-FILLED AUTO-INJECTOR",
+  "last_update": "26-OCT-2016",
+  "active_ingredients": [
+    {
+      "name": "ETANERCEPT",
+      "strength": "50",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "SUBCUTANEOUS"
+  ],
+  "companies": [
+    "SAMSUNG BIOEPIS CO., LTD"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "ETANERCEPT"
+  ]
+}

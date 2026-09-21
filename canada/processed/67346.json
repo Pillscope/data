@@ -1,0 +1,28 @@
+{
+  "drug_code": "67346",
+  "din": "02243435",
+  "brand_name": "PMS-ADENOSINE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "05-MAY-2015",
+  "active_ingredients": [
+    {
+      "name": "ADENOSINE",
+      "strength": "3",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "PHARMASCIENCE INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "ADENOSINE"
+  ]
+}

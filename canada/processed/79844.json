@@ -1,0 +1,34 @@
+{
+  "drug_code": "79844",
+  "din": "02312875",
+  "brand_name": "NEU QUAT",
+  "class": "Disinfectant",
+  "descriptor": "",
+  "last_update": "07-JUL-2008",
+  "active_ingredients": [
+    {
+      "name": "BENZALKONIUM CHLORIDE",
+      "strength": "5.0",
+      "unit": "%"
+    },
+    {
+      "name": "ALKYL DIMETHYL ETHYLBENZYL AMMONIUM CHLORIDE",
+      "strength": "5.0",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "DISINFECTANT (Food Premises)",
+    "DISINFECTANT (Hospital/HC Facilities)"
+  ],
+  "companies": [
+    "ARMSTRONG MANUFACTURING INC"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "TECHNICAL DISINFECTANTS"
+  ]
+}

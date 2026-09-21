@@ -1,0 +1,28 @@
+{
+  "drug_code": "19615",
+  "din": "02192691",
+  "brand_name": "3TC",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "17-FEB-2014",
+  "active_ingredients": [
+    {
+      "name": "LAMIVUDINE",
+      "strength": "10",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "VIIV HEALTHCARE ULC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "LAMIVUDINE"
+  ]
+}

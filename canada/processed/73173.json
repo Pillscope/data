@@ -1,0 +1,28 @@
+{
+  "drug_code": "73173",
+  "din": "02248804",
+  "brand_name": "TEVA-CLARITHROMYCIN",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "18-JAN-2013",
+  "active_ingredients": [
+    {
+      "name": "CLARITHROMYCIN",
+      "strength": "250",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "TEVA CANADA LIMITED"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "CLARITHROMYCIN"
+  ]
+}

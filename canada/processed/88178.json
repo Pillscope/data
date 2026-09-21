@@ -1,0 +1,28 @@
+{
+  "drug_code": "88178",
+  "din": "02396769",
+  "brand_name": "APO-ABACAVIR",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "23-MAR-2016",
+  "active_ingredients": [
+    {
+      "name": "ABACAVIR (ABACAVIR SULFATE)",
+      "strength": "300",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "APOTEX INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "ABACAVIR"
+  ]
+}

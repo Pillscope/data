@@ -1,0 +1,28 @@
+{
+  "drug_code": "64159",
+  "din": "02240588",
+  "brand_name": "APO-DOXAZOSIN",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "22-FEB-2011",
+  "active_ingredients": [
+    {
+      "name": "DOXAZOSIN (DOXAZOSIN MESYLATE)",
+      "strength": "1",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "APOTEX INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "DOXAZOSIN"
+  ]
+}

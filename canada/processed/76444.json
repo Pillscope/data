@@ -1,0 +1,34 @@
+{
+  "drug_code": "76444",
+  "din": "02278871",
+  "brand_name": "BLU-LITE DISINFECTANT BOWL CLEANER",
+  "class": "Disinfectant",
+  "descriptor": "",
+  "last_update": "03-APR-2007",
+  "active_ingredients": [
+    {
+      "name": "DIDECYL DIMETHYL AMMONIUM CHLORIDE",
+      "strength": "0.048",
+      "unit": "%"
+    },
+    {
+      "name": "BENZALKONIUM CHLORIDE",
+      "strength": "0.032",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "LIQUID"
+  ],
+  "routes": [
+    "DISINFECTANT (Food Premises)",
+    "DISINFECTANT (Hospital/HC Facilities)"
+  ],
+  "companies": [
+    "DUSTBANE PRODUCTS LTD"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "TECHNICAL DISINFECTANTS"
+  ]
+}

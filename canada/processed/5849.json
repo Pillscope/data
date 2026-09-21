@@ -1,0 +1,29 @@
+{
+  "drug_code": "5849",
+  "din": "00628891",
+  "brand_name": "LEMON TREE",
+  "class": "Disinfectant",
+  "descriptor": "",
+  "last_update": "04-JAN-2017",
+  "active_ingredients": [
+    {
+      "name": "DIDECYL DIMETHYL AMMONIUM CHLORIDE",
+      "strength": "4.5",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "DISINFECTANT (Hospital/HC Facilities)",
+    "DISINFECTANT (Institutional/Industrial)"
+  ],
+  "companies": [
+    "OSTREM CHEMICAL CO LTD."
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "TECHNICAL DISINFECTANTS"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "drug_code": "72547",
+  "din": "02248211",
+  "brand_name": "VETMEDIN (1.25MG CAPSULES FOR DOGS)",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "04-JUL-2008",
+  "active_ingredients": [
+    {
+      "name": "PIMOBENDAN",
+      "strength": "1.25",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "CAPSULE"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "BOEHRINGER INGELHEIM (CANADA) LTD LTEE"
+  ],
+  "status": "APPROVED",
+  "atc": []
+}

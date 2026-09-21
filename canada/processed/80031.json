@@ -1,0 +1,28 @@
+{
+  "drug_code": "80031",
+  "din": "02314770",
+  "brand_name": "EXTRA STRENGTH IBUPROFEN",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "09-MAR-2012",
+  "active_ingredients": [
+    {
+      "name": "IBUPROFEN",
+      "strength": "400",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "PHARMASCIENCE INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "IBUPROFEN"
+  ]
+}

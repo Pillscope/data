@@ -1,0 +1,44 @@
+{
+  "drug_code": "93285",
+  "din": "02447304",
+  "brand_name": "ALLERGENIC EXTRACTS, K-O-R-T GRASS MIXTURE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "18-JAN-2017",
+  "active_ingredients": [
+    {
+      "name": "STANDARDIZED TIMOTHY GRASS POLLEN",
+      "strength": "100000",
+      "unit": "UNIT"
+    },
+    {
+      "name": "STANDARDIZED ORCHARD GRASS POLLEN",
+      "strength": "100000",
+      "unit": "UNIT"
+    },
+    {
+      "name": "STANDARDIZED REDTOP GRASS POLLEN",
+      "strength": "100000",
+      "unit": "UNIT"
+    },
+    {
+      "name": "STANDARDIZED KENTUCKY BLUE/JUNE GRASS POLLEN",
+      "strength": "100000",
+      "unit": "UNIT"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "INTRACUTANEOUS",
+    "SUBCUTANEOUS"
+  ],
+  "companies": [
+    "GREER LABORATORIES INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "GRASS POLLEN"
+  ]
+}

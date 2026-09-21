@@ -1,0 +1,28 @@
+{
+  "drug_code": "2890",
+  "din": "00392545",
+  "brand_name": "SANDOZ DIMENHYDRINATE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "05-AUG-2015",
+  "active_ingredients": [
+    {
+      "name": "DIMENHYDRINATE",
+      "strength": "100",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SUPPOSITORY"
+  ],
+  "routes": [
+    "RECTAL"
+  ],
+  "companies": [
+    "SANDOZ CANADA INCORPORATED"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "DIPHENHYDRAMINE"
+  ]
+}

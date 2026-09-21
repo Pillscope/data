@@ -1,0 +1,28 @@
+{
+  "drug_code": "13450",
+  "din": "01966219",
+  "brand_name": "THEOLAIR",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "28-FEB-2018",
+  "active_ingredients": [
+    {
+      "name": "THEOPHYLLINE",
+      "strength": "80",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "VALEANT CANADA LP/VALEANT CANADA S.E.C."
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "THEOPHYLLINE"
+  ]
+}

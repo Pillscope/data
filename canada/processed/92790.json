@@ -1,0 +1,53 @@
+{
+  "drug_code": "92790",
+  "din": "02443279",
+  "brand_name": "NXSTAGE PUREFLOW SOLUTION RFP-204-CAN",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "30-SEP-2016",
+  "active_ingredients": [
+    {
+      "name": "POTASSIUM CHLORIDE",
+      "strength": "0.075",
+      "unit": "G"
+    },
+    {
+      "name": "SODIUM CHLORIDE",
+      "strength": "5.844",
+      "unit": "G"
+    },
+    {
+      "name": "DEXTROSE",
+      "strength": "1.1",
+      "unit": "G"
+    },
+    {
+      "name": "MAGNESIUM CHLORIDE",
+      "strength": "0.102",
+      "unit": "G"
+    },
+    {
+      "name": "CALCIUM CHLORIDE",
+      "strength": "0.221",
+      "unit": "G"
+    },
+    {
+      "name": "SODIUM LACTATE",
+      "strength": "7.473",
+      "unit": "G"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "DIALYSIS"
+  ],
+  "companies": [
+    "NXSTAGE MEDICAL INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "HEMODIALYTICS AND HEMOFILTRATES"
+  ]
+}

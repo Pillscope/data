@@ -1,0 +1,28 @@
+{
+  "drug_code": "87564",
+  "din": "02390183",
+  "brand_name": "ACT EXEMESTANE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "03-JUN-2015",
+  "active_ingredients": [
+    {
+      "name": "EXEMESTANE",
+      "strength": "25",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "ACTAVIS PHARMA COMPANY"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "EXEMESTANE"
+  ]
+}

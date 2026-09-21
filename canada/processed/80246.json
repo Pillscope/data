@@ -1,0 +1,28 @@
+{
+  "drug_code": "80246",
+  "din": "02316978",
+  "brand_name": "PAT-GALANTAMINE ER",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "02-MAR-2011",
+  "active_ingredients": [
+    {
+      "name": "GALANTAMINE (GALANTAMINE HYDROBROMIDE)",
+      "strength": "24",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "CAPSULE (EXTENDED RELEASE)"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "PATRIOT A DIVISION OF JANSSEN INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "GALANTAMINE"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "drug_code": "93171",
+  "din": "02446375",
+  "brand_name": "AURO-SOLIFENACIN",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "13-MAY-2016",
+  "active_ingredients": [
+    {
+      "name": "SOLIFENACIN SUCCINATE",
+      "strength": "5",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "AURO PHARMA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "SOLIFENACIN"
+  ]
+}

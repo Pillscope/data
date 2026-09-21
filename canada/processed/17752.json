@@ -1,0 +1,29 @@
+{
+  "drug_code": "17752",
+  "din": "02026961",
+  "brand_name": "KAYEXALATE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "20-FEB-2009",
+  "active_ingredients": [
+    {
+      "name": "SODIUM POLYSTYRENE SULFONATE",
+      "strength": "100",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "POWDER"
+  ],
+  "routes": [
+    "ORAL",
+    "RECTAL"
+  ],
+  "companies": [
+    "SANOFI-AVENTIS CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "POLYSTYRENE SULPHONATE"
+  ]
+}

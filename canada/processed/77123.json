@@ -1,0 +1,43 @@
+{
+  "drug_code": "77123",
+  "din": "02285746",
+  "brand_name": "ULTRA PROTECTION SUNSCREEN STICK SPF 60",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "29-APR-2015",
+  "active_ingredients": [
+    {
+      "name": "AVOBENZONE",
+      "strength": "3",
+      "unit": "%"
+    },
+    {
+      "name": "TITANIUM DIOXIDE",
+      "strength": "6.25",
+      "unit": "%"
+    },
+    {
+      "name": "OCTOCRYLENE",
+      "strength": "10",
+      "unit": "%"
+    },
+    {
+      "name": "DROMETRIZOLE TRISILOXANE",
+      "strength": "2",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "STICK"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "VICHY CANADA"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "COMBINATIONS OF PROTECTIVES AGAINST UV-RADIATION"
+  ]
+}

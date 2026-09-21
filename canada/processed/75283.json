@@ -1,0 +1,34 @@
+{
+  "drug_code": "75283",
+  "din": "02267411",
+  "brand_name": "COLD LIQUID",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "29-APR-2015",
+  "active_ingredients": [
+    {
+      "name": "PHENYLEPHRINE HYDROCHLORIDE",
+      "strength": "5",
+      "unit": "MG"
+    },
+    {
+      "name": "BROMPHENIRAMINE MALEATE",
+      "strength": "2",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "TANTA PHARMACEUTICALS INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "PHENYLEPHRINE, COMBINATIONS",
+    "PHENYLEPHRINE, COMBINATIONS"
+  ]
+}

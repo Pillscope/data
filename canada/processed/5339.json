@@ -1,0 +1,33 @@
+{
+  "drug_code": "5339",
+  "din": "00478288",
+  "brand_name": "0.4% LIDOCAINE HYDROCHLORIDE AND 5% DEXTROSE INJECTION USP",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "08-AUG-2008",
+  "active_ingredients": [
+    {
+      "name": "DEXTROSE",
+      "strength": "50",
+      "unit": "MG"
+    },
+    {
+      "name": "LIDOCAINE HYDROCHLORIDE",
+      "strength": "4",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "HOSPIRA HEALTHCARE CORPORATION"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "LIDOCAINE"
+  ]
+}

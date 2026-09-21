@@ -1,0 +1,28 @@
+{
+  "drug_code": "88432",
+  "din": "02399431",
+  "brand_name": "MAR-SERTRALINE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "17-FEB-2014",
+  "active_ingredients": [
+    {
+      "name": "SERTRALINE (SERTRALINE HYDROCHLORIDE)",
+      "strength": "100",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "CAPSULE"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "MARCAN PHARMACEUTICALS INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "SERTRALINE"
+  ]
+}

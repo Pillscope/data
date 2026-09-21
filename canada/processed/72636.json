@@ -1,0 +1,28 @@
+{
+  "drug_code": "72636",
+  "din": "02248296",
+  "brand_name": "ZOMETA CONCENTRATE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "26-APR-2014",
+  "active_ingredients": [
+    {
+      "name": "ZOLEDRONIC ACID (Zoledronic acid monohydrate)",
+      "strength": "4",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "NOVARTIS PHARMACEUTICALS CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "ZOLEDRONIC ACID"
+  ]
+}

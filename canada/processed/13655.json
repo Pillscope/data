@@ -1,0 +1,28 @@
+{
+  "drug_code": "13655",
+  "din": "02022141",
+  "brand_name": "TEVA-FAMOTIDINE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "05-MAY-2015",
+  "active_ingredients": [
+    {
+      "name": "FAMOTIDINE",
+      "strength": "40",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "TEVA CANADA LIMITED"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "FAMOTIDINE"
+  ]
+}

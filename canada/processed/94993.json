@@ -1,0 +1,28 @@
+{
+  "drug_code": "94993",
+  "din": "02462206",
+  "brand_name": "MINT-CLONIDINE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "27-JUN-2017",
+  "active_ingredients": [
+    {
+      "name": "CLONIDINE HYDROCHLORIDE",
+      "strength": "0.2",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "MINT PHARMACEUTICALS INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "CLONIDINE"
+  ]
+}

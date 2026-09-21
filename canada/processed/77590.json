@@ -1,0 +1,28 @@
+{
+  "drug_code": "77590",
+  "din": "02290561",
+  "brand_name": "CLINIQUE ACNE SOLUTIONS ALL-OVER CLEARING TREATMENT",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "29-APR-2015",
+  "active_ingredients": [
+    {
+      "name": "BENZOYL PEROXIDE",
+      "strength": "2.5",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "LOTION"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "CLINIQUE LABORATORIES DIST"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "BENZOYL PEROXIDE"
+  ]
+}

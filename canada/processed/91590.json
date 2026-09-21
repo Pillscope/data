@@ -1,0 +1,28 @@
+{
+  "drug_code": "91590",
+  "din": "02431491",
+  "brand_name": "SOLUPREP AQ WIPE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "19-NOV-2015",
+  "active_ingredients": [
+    {
+      "name": "CHLORHEXIDINE GLUCONATE",
+      "strength": "2",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "WIPE"
+  ],
+  "routes": [
+    "TOPICAL (HOSPITAL/HC FACILITIES)"
+  ],
+  "companies": [
+    "3M CANADA COMPANY"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "CHLORHEXIDINE"
+  ]
+}

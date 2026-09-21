@@ -1,0 +1,31 @@
+{
+  "drug_code": "90948",
+  "din": "02424819",
+  "brand_name": "BLUE VELVET TEAT DIP",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "27-APR-2017",
+  "active_ingredients": [
+    {
+      "name": "CHLORHEXIDINE ACETATE",
+      "strength": "0.5",
+      "unit": "%"
+    },
+    {
+      "name": "GLYCERINE",
+      "strength": "5",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "LONDON DAIRY SUPPLY LTD"
+  ],
+  "status": "MARKETED",
+  "atc": []
+}

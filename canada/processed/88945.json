@@ -1,0 +1,28 @@
+{
+  "drug_code": "88945",
+  "din": "02404656",
+  "brand_name": "ACT MOXIFLOXACIN",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "12-JAN-2016",
+  "active_ingredients": [
+    {
+      "name": "MOXIFLOXACIN (MOXIFLOXACIN HYDROCHLORIDE)",
+      "strength": "0.5",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "OPHTHALMIC"
+  ],
+  "companies": [
+    "ACTAVIS PHARMA COMPANY"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "MOXIFLOXACIN"
+  ]
+}

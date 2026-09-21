@@ -1,0 +1,28 @@
+{
+  "drug_code": "1530",
+  "din": "00252506",
+  "brand_name": "CYCLOGYL",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "24-MAR-2017",
+  "active_ingredients": [
+    {
+      "name": "CYCLOPENTOLATE HYDROCHLORIDE",
+      "strength": "1",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "DROPS"
+  ],
+  "routes": [
+    "OPHTHALMIC"
+  ],
+  "companies": [
+    "NOVARTIS PHARMACEUTICALS CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "CYCLOPENTOLATE"
+  ]
+}

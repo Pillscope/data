@@ -1,0 +1,92 @@
+{
+  "drug_code": "6071",
+  "din": "00613932",
+  "brand_name": "UNI PLEX 15 INJ",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "23-MAR-2005",
+  "active_ingredients": [
+    {
+      "name": "DL-METHIONINE",
+      "strength": "20",
+      "unit": "MG"
+    },
+    {
+      "name": "NICOTINAMIDE",
+      "strength": "100",
+      "unit": "MCG"
+    },
+    {
+      "name": "PYRIDOXINE HYDROCHLORIDE",
+      "strength": "10",
+      "unit": "MG"
+    },
+    {
+      "name": "RIBOFLAVIN 5'-PHOSPHATE SODIUM",
+      "strength": "10",
+      "unit": "MG"
+    },
+    {
+      "name": "BIOTIN",
+      "strength": "10",
+      "unit": "MCG"
+    },
+    {
+      "name": "FERRIC AMMONIUM CITRATE",
+      "strength": "15",
+      "unit": "MG"
+    },
+    {
+      "name": "INOSITOL",
+      "strength": "10",
+      "unit": "MG"
+    },
+    {
+      "name": "COBALT GLUCONATE",
+      "strength": ".7",
+      "unit": "MG"
+    },
+    {
+      "name": "GLYCINE",
+      "strength": "20",
+      "unit": "MG"
+    },
+    {
+      "name": "L-LYSINE HYDROCHLORIDE",
+      "strength": "20",
+      "unit": "MG"
+    },
+    {
+      "name": "COPPER GLUCONATE",
+      "strength": ".2",
+      "unit": "MG"
+    },
+    {
+      "name": "DEXPANTHENOL",
+      "strength": "15",
+      "unit": "MG"
+    },
+    {
+      "name": "CHOLINE CHLORIDE",
+      "strength": "10",
+      "unit": "MG"
+    },
+    {
+      "name": "VITAMIN B12",
+      "strength": "150",
+      "unit": "MCG"
+    }
+  ],
+  "forms": [
+    "LIQUID"
+  ],
+  "routes": [
+    "INTRAMUSCULAR",
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "UNIVET PHARMACEUTICALS LTD."
+  ],
+  "status": "MARKETED",
+  "atc": []
+}

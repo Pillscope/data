@@ -1,0 +1,26 @@
+{
+  "drug_code": "75249",
+  "din": "02267071",
+  "brand_name": "PEN VET 300",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "18-JAN-2018",
+  "active_ingredients": [
+    {
+      "name": "PENICILLIN G PROCAINE",
+      "strength": "300000",
+      "unit": "UNIT"
+    }
+  ],
+  "forms": [
+    "SUSPENSION"
+  ],
+  "routes": [
+    "INTRAMUSCULAR"
+  ],
+  "companies": [
+    "ALFASAN INTERNATIONAL B.V."
+  ],
+  "status": "MARKETED",
+  "atc": []
+}

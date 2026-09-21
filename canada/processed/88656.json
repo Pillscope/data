@@ -1,0 +1,34 @@
+{
+  "drug_code": "88656",
+  "din": "02401665",
+  "brand_name": "PMS-TELMISARTAN-HCTZ",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "21-MAY-2013",
+  "active_ingredients": [
+    {
+      "name": "TELMISARTAN",
+      "strength": "80",
+      "unit": "MG"
+    },
+    {
+      "name": "HYDROCHLOROTHIAZIDE",
+      "strength": "12.5",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "PHARMASCIENCE INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "TELMISARTAN AND DIURETICS",
+    "TELMISARTAN AND DIURETICS"
+  ]
+}

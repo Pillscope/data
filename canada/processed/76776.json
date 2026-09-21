@@ -1,0 +1,28 @@
+{
+  "drug_code": "76776",
+  "din": "02282097",
+  "brand_name": "ORENCIA",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "18-FEB-2010",
+  "active_ingredients": [
+    {
+      "name": "ABATACEPT",
+      "strength": "250",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "POWDER FOR SOLUTION"
+  ],
+  "routes": [
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "BRISTOL-MYERS SQUIBB CANADA"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "ABATACEPT"
+  ]
+}

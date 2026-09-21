@@ -1,0 +1,26 @@
+{
+  "drug_code": "19092",
+  "din": "02082101",
+  "brand_name": "CARTROPHEN VET INJ.SC 100MG/ML",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "15-APR-2011",
+  "active_ingredients": [
+    {
+      "name": "PENTOSAN POLYSULFATE SODIUM",
+      "strength": "100",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "SUBCUTANEOUS"
+  ],
+  "companies": [
+    "BIOPHARM AUSTRALIA PTY LTD."
+  ],
+  "status": "MARKETED",
+  "atc": []
+}

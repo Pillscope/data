@@ -1,0 +1,29 @@
+{
+  "drug_code": "70549",
+  "din": "02246382",
+  "brand_name": "FEBREZE ANTIBACTERIAL (DOMESTIC)",
+  "class": "Disinfectant",
+  "descriptor": "",
+  "last_update": "23-OCT-2002",
+  "active_ingredients": [
+    {
+      "name": "DIDECYL DIMETHYL AMMONIUM CHLORIDE",
+      "strength": "0.14",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "SPRAY"
+  ],
+  "routes": [
+    "DISINFECTANT (Food Premises)",
+    "DISINFECTANT (Domestic)"
+  ],
+  "companies": [
+    "PROCTER & GAMBLE INC"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "TECHNICAL DISINFECTANTS"
+  ]
+}

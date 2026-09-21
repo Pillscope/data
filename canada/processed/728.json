@@ -1,0 +1,34 @@
+{
+  "drug_code": "728",
+  "din": "00115630",
+  "brand_name": "LIBRAX",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "17-SEP-2014",
+  "active_ingredients": [
+    {
+      "name": "CLIDINIUM BROMIDE",
+      "strength": "2.5",
+      "unit": "MG"
+    },
+    {
+      "name": "CHLORDIAZEPOXIDE HYDROCHLORIDE",
+      "strength": "5",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "CAPSULE"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "VALEANT CANADA LP/VALEANT CANADA S.E.C."
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "CLIDINIUM AND PSYCHOLEPTICS",
+    "CLIDINIUM AND PSYCHOLEPTICS"
+  ]
+}

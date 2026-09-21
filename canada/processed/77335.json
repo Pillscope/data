@@ -1,0 +1,28 @@
+{
+  "drug_code": "77335",
+  "din": "02287943",
+  "brand_name": "RAMIPRIL",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "27-APR-2018",
+  "active_ingredients": [
+    {
+      "name": "RAMIPRIL",
+      "strength": "10",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "CAPSULE"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "SIVEM PHARMACEUTICALS ULC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "RAMIPRIL"
+  ]
+}

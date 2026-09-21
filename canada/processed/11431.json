@@ -1,0 +1,34 @@
+{
+  "drug_code": "11431",
+  "din": "00887331",
+  "brand_name": "D-125 DISINFECTANT CLEANER",
+  "class": "Disinfectant",
+  "descriptor": "",
+  "last_update": "15-AUG-2012",
+  "active_ingredients": [
+    {
+      "name": "BENZALKONIUM CHLORIDE",
+      "strength": "2.25",
+      "unit": "%"
+    },
+    {
+      "name": "ALKYL DIMETHYL ETHYLBENZYL AMMONIUM CHLORIDE",
+      "strength": "2.25",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "LIQUID"
+  ],
+  "routes": [
+    "DISINFECTANT (Food Premises)",
+    "DISINFECTANT (Hospital/HC Facilities)"
+  ],
+  "companies": [
+    "MICROGEN, INC."
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "TECHNICAL DISINFECTANTS"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "drug_code": "14025",
+  "din": "02015951",
+  "brand_name": "PMS-KETOPROFEN",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "05-MAY-2015",
+  "active_ingredients": [
+    {
+      "name": "KETOPROFEN",
+      "strength": "100",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SUPPOSITORY"
+  ],
+  "routes": [
+    "RECTAL"
+  ],
+  "companies": [
+    "PHARMASCIENCE INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "KETOPROFEN"
+  ]
+}

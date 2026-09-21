@@ -1,0 +1,36 @@
+{
+  "drug_code": "74044",
+  "din": "02255286",
+  "brand_name": "FORSHNER'S HOOF PACKING",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "29-JUN-2005",
+  "active_ingredients": [
+    {
+      "name": "PARAFFIN",
+      "strength": "89.6",
+      "unit": "G"
+    },
+    {
+      "name": "PINE TAR",
+      "strength": "85",
+      "unit": "G"
+    },
+    {
+      "name": "SOFT WAX (PETROLATUM)",
+      "strength": "274",
+      "unit": "G"
+    }
+  ],
+  "forms": [
+    "OINTMENT"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "FARNAM COMPANIES INC"
+  ],
+  "status": "MARKETED",
+  "atc": []
+}

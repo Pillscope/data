@@ -1,0 +1,98 @@
+{
+  "drug_code": "14077",
+  "din": "02013886",
+  "brand_name": "CLINIMIX",
+  "class": "Human",
+  "descriptor": "5% AMINO ACIDS (BLEND B) WITHOUT ELECTROLYTES IN 5% DEXTROSE INJECTION",
+  "last_update": "30-JUN-2016",
+  "active_ingredients": [
+    {
+      "name": "L-ALANINE",
+      "strength": "1.04",
+      "unit": "G"
+    },
+    {
+      "name": "METHIONINE",
+      "strength": "290",
+      "unit": "MG"
+    },
+    {
+      "name": "TRYPTOPHAN",
+      "strength": "90",
+      "unit": "MG"
+    },
+    {
+      "name": "L-PROLINE",
+      "strength": "210",
+      "unit": "MG"
+    },
+    {
+      "name": "L-ARGININE",
+      "strength": "520",
+      "unit": "MG"
+    },
+    {
+      "name": "L-PHENYLALANINE HYDROCHLORIDE",
+      "strength": "310",
+      "unit": "MG"
+    },
+    {
+      "name": "L-TYROSINE",
+      "strength": "20",
+      "unit": "MG"
+    },
+    {
+      "name": "L-ISOLEUCINE",
+      "strength": "240",
+      "unit": "MG"
+    },
+    {
+      "name": "L-THREONINE",
+      "strength": "210",
+      "unit": "MG"
+    },
+    {
+      "name": "DEXTROSE",
+      "strength": "5",
+      "unit": "G"
+    },
+    {
+      "name": "GLYCINE",
+      "strength": "1.04",
+      "unit": "G"
+    },
+    {
+      "name": "HISTIDINE",
+      "strength": "220",
+      "unit": "MG"
+    },
+    {
+      "name": "L-LYSINE HYDROCHLORIDE",
+      "strength": "290",
+      "unit": "MG"
+    },
+    {
+      "name": "L-VALINE",
+      "strength": "230",
+      "unit": "MG"
+    },
+    {
+      "name": "L-LEUCINE HYDROCHLORIDE",
+      "strength": "310",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "BAXTER CORPORATION"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "COMBINATIONS"
+  ]
+}

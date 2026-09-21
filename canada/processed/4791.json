@@ -1,0 +1,29 @@
+{
+  "drug_code": "4791",
+  "din": "00536806",
+  "brand_name": "SANIT C 16 26.5%",
+  "class": "Disinfectant",
+  "descriptor": "",
+  "last_update": "08-JUL-2011",
+  "active_ingredients": [
+    {
+      "name": "SODIUM DICHLOROISOCYANURATE",
+      "strength": "26.5",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "LIQUID"
+  ],
+  "routes": [
+    "DISINFECTANT (Medical Instruments)",
+    "DISINFECTANT (Food Premises)"
+  ],
+  "companies": [
+    "PACE CHEMICALS LTD."
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "TECHNICAL DISINFECTANTS"
+  ]
+}

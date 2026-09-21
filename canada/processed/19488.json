@@ -1,0 +1,34 @@
+{
+  "drug_code": "19488",
+  "din": "02150379",
+  "brand_name": "BACTINE FIRST AID SPRAY",
+  "class": "Human",
+  "descriptor": "LIQUID",
+  "last_update": "17-JAN-2017",
+  "active_ingredients": [
+    {
+      "name": "BENZALKONIUM CHLORIDE",
+      "strength": "0.13",
+      "unit": "%"
+    },
+    {
+      "name": "LIDOCAINE HYDROCHLORIDE",
+      "strength": "2.5",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "SPRAY"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "WELLSPRING PHARMACEUTICAL CANADA CORP"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "LIDOCAINE",
+    "LIDOCAINE"
+  ]
+}

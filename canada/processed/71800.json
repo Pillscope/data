@@ -1,0 +1,28 @@
+{
+  "drug_code": "71800",
+  "din": "02247550",
+  "brand_name": "ASAPHEN EC",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "12-JUL-2012",
+  "active_ingredients": [
+    {
+      "name": "ACETYLSALICYLIC ACID",
+      "strength": "162",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET (DELAYED-RELEASE)"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "PHARMASCIENCE INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "ACETYLSALICYLIC ACID"
+  ]
+}

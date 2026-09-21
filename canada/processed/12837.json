@@ -1,0 +1,29 @@
+{
+  "drug_code": "12837",
+  "din": "01926691",
+  "brand_name": "CALCIMAR SOLUTION INJ 200UNIT/ML",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "20-MAR-2008",
+  "active_ingredients": [
+    {
+      "name": "CALCITONIN (SALMON SYNTHETIC)",
+      "strength": "200",
+      "unit": "UNIT"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "INTRAMUSCULAR",
+    "SUBCUTANEOUS"
+  ],
+  "companies": [
+    "SANOFI-AVENTIS CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "CALCITONIN (SALMON SYNTHETIC)"
+  ]
+}

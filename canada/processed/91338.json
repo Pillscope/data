@@ -1,0 +1,34 @@
+{
+  "drug_code": "91338",
+  "din": "02428946",
+  "brand_name": "ACTIKERALL",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "01-JUN-2016",
+  "active_ingredients": [
+    {
+      "name": "SALICYLIC ACID",
+      "strength": "10",
+      "unit": "%"
+    },
+    {
+      "name": "FLUOROURACIL",
+      "strength": "0.5",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "CIPHER PHARMACEUTICALS INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "FLUOROURACIL, COMBINATIONS",
+    "FLUOROURACIL, COMBINATIONS"
+  ]
+}

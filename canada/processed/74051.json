@@ -1,0 +1,28 @@
+{
+  "drug_code": "74051",
+  "din": "02255332",
+  "brand_name": "RAMIPRIL",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "06-NOV-2017",
+  "active_ingredients": [
+    {
+      "name": "RAMIPRIL",
+      "strength": "10",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "CAPSULE"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "LABORATOIRE RIVA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "RAMIPRIL"
+  ]
+}

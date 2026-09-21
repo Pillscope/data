@@ -1,0 +1,33 @@
+{
+  "drug_code": "3546",
+  "din": "00469203",
+  "brand_name": "FORMULE L2",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "10-MAY-2016",
+  "active_ingredients": [
+    {
+      "name": "SODIUM SALICYLATE",
+      "strength": "56",
+      "unit": "MG"
+    },
+    {
+      "name": "ANTIPYRINE",
+      "strength": "10",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "LIQUID"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "HERBAGES NATURBEC LT\u00c3\u0089E."
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "ACETYLSALICYLIC ACID, COMB EXCL PSYCHOLEPTICS"
+  ]
+}

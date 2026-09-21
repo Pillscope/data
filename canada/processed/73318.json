@@ -1,0 +1,28 @@
+{
+  "drug_code": "73318",
+  "din": "02248943",
+  "brand_name": "DOM-CITALOPRAM",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "03-MAY-2004",
+  "active_ingredients": [
+    {
+      "name": "CITALOPRAM (CITALOPRAM HYDROBROMIDE)",
+      "strength": "40",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "DOMINION PHARMACAL"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "CITALOPRAM"
+  ]
+}

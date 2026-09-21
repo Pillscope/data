@@ -1,0 +1,28 @@
+{
+  "drug_code": "17954",
+  "din": "02131056",
+  "brand_name": "LIORESAL INTRATHECAL 0.5MG/ML",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "18-OCT-2008",
+  "active_ingredients": [
+    {
+      "name": "BACLOFEN",
+      "strength": "0.5",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "INTRATHECAL"
+  ],
+  "companies": [
+    "NOVARTIS PHARMACEUTICALS CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "BACLOFEN"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "drug_code": "959",
+  "din": "00004618",
+  "brand_name": "MYLERAN",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "17-JAN-2017",
+  "active_ingredients": [
+    {
+      "name": "BUSULFAN",
+      "strength": "2",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "ASPEN PHARMACARE CANADA INC."
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "BUSULFAN"
+  ]
+}

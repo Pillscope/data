@@ -1,0 +1,28 @@
+{
+  "drug_code": "80558",
+  "din": "02320134",
+  "brand_name": "AURO-TERBINAFINE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "29-JUN-2011",
+  "active_ingredients": [
+    {
+      "name": "TERBINAFINE (TERBINAFINE HYDROCHLORIDE)",
+      "strength": "250",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "AURO PHARMA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "TERBINAFINE"
+  ]
+}

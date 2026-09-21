@@ -1,0 +1,28 @@
+{
+  "drug_code": "12699",
+  "din": "00854409",
+  "brand_name": "RATIO-LACTULOSE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "22-SEP-2015",
+  "active_ingredients": [
+    {
+      "name": "LACTULOSE",
+      "strength": "667",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "TEVA CANADA LIMITED"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "LACTULOSE"
+  ]
+}

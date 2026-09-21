@@ -1,0 +1,28 @@
+{
+  "drug_code": "3228",
+  "din": "00438898",
+  "brand_name": "FORMULE C34",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "10-AUG-2007",
+  "active_ingredients": [
+    {
+      "name": "PIPERAZINE",
+      "strength": "100",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "LIQUID"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "HERBAGES NATURBEC LT\u00c3\u0089E."
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "PIPERAZINE"
+  ]
+}

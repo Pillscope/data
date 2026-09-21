@@ -1,0 +1,28 @@
+{
+  "drug_code": "88231",
+  "din": "02397358",
+  "brand_name": "AURO-ESCITALOPRAM",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "29-APR-2015",
+  "active_ingredients": [
+    {
+      "name": "ESCITALOPRAM (ESCITALOPRAM OXALATE)",
+      "strength": "10",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "AURO PHARMA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "ESCITALOPRAM"
+  ]
+}

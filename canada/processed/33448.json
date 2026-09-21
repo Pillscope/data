@@ -1,0 +1,29 @@
+{
+  "drug_code": "33448",
+  "din": "02220709",
+  "brand_name": "BISMUTH",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "11-MAR-2014",
+  "active_ingredients": [
+    {
+      "name": "BISMUTH SUBSALICYLATE",
+      "strength": "17.6",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "LIQUID"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "PERRIGO INTERNATIONAL"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "BISMUTH PREPARATIONS",
+    "BISMUTH PREPARATIONS"
+  ]
+}

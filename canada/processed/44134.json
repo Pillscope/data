@@ -1,0 +1,31 @@
+{
+  "drug_code": "44134",
+  "din": "02169495",
+  "brand_name": "DRONTAL - TAB",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "28-OCT-2013",
+  "active_ingredients": [
+    {
+      "name": "PYRANTEL (PYRANTEL PAMOATE)",
+      "strength": "72.6",
+      "unit": "MG"
+    },
+    {
+      "name": "PRAZIQUANTEL",
+      "strength": "18.2",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "BAYER INC., ANIMAL HEALTH"
+  ],
+  "status": "MARKETED",
+  "atc": []
+}

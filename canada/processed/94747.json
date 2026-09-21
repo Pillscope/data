@@ -1,0 +1,28 @@
+{
+  "drug_code": "94747",
+  "din": "02460173",
+  "brand_name": "AURO-TENOFOVIR",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "28-JUL-2017",
+  "active_ingredients": [
+    {
+      "name": "TENOFOVIR DISOPROXIL FUMARATE",
+      "strength": "300",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "AURO PHARMA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "TENOFOVIR DISOPROXIL"
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "drug_code": "3822",
+  "din": "00498785",
+  "brand_name": "STERILE WATER FOR IRRIGATION USP",
+  "class": "Human",
+  "descriptor": "SINGLE-DOSE",
+  "last_update": "06-NOV-2017",
+  "active_ingredients": [
+    {
+      "name": "WATER",
+      "strength": "100",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "LIQUID"
+  ],
+  "routes": [
+    "INTRAPERITONEAL",
+    "IRRIGATION"
+  ],
+  "companies": [
+    "ICU MEDICAL CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "SOLVENTS AND DILUTING AGENTS,INCL IRRIGAT SOLUT"
+  ]
+}

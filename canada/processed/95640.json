@@ -1,0 +1,28 @@
+{
+  "drug_code": "95640",
+  "din": "02468042",
+  "brand_name": "GALAFOLD",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "14-MAR-2018",
+  "active_ingredients": [
+    {
+      "name": "MIGALASTAT (MIGALASTAT HYDROCHLORIDE)",
+      "strength": "123",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "CAPSULE"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "AMICUS THERAPEUTICS UK LTD"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "MIGALASTAT"
+  ]
+}

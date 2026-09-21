@@ -1,0 +1,28 @@
+{
+  "drug_code": "92000",
+  "din": "02435667",
+  "brand_name": "FOMEPIZOLE FOR INJECTION",
+  "class": "Human",
+  "descriptor": "1.5G/1.5ML SINGLE DOSE VIAL",
+  "last_update": "30-DEC-2015",
+  "active_ingredients": [
+    {
+      "name": "FOMEPIZOLE",
+      "strength": "1",
+      "unit": "G"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "STERIMAX INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "FOMEPIZOLE"
+  ]
+}

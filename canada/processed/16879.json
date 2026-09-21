@@ -1,0 +1,28 @@
+{
+  "drug_code": "16879",
+  "din": "02123282",
+  "brand_name": "COVERSYL",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "15-JUL-2016",
+  "active_ingredients": [
+    {
+      "name": "PERINDOPRIL ERBUMINE",
+      "strength": "4",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "SERVIER CANADA INC"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "PERINDOPRIL"
+  ]
+}

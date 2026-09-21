@@ -1,0 +1,36 @@
+{
+  "drug_code": "86607",
+  "din": "02380250",
+  "brand_name": "HEMO-STAT POWDER",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "23-MAY-2014",
+  "active_ingredients": [
+    {
+      "name": "TANNIC ACID",
+      "strength": "10",
+      "unit": "MG"
+    },
+    {
+      "name": "ALUMINUM AMMONIUM SULFATE",
+      "strength": "50",
+      "unit": "MG"
+    },
+    {
+      "name": "FERROUS SULFATE",
+      "strength": "840",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "POWDER"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "ALBERTA VETERINARY LABORATORIES LTD"
+  ],
+  "status": "MARKETED",
+  "atc": []
+}

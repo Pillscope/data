@@ -1,0 +1,31 @@
+{
+  "drug_code": "91200",
+  "din": "02427486",
+  "brand_name": "COMPONENT TE-G IMPLANTS",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "09-APR-2018",
+  "active_ingredients": [
+    {
+      "name": "ESTRADIOL",
+      "strength": "8",
+      "unit": "MG"
+    },
+    {
+      "name": "TRENBOLONE ACETATE",
+      "strength": "40",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "IMPLANT"
+  ],
+  "routes": [
+    "SUBCUTANEOUS"
+  ],
+  "companies": [
+    "ELANCO CANADA LIMITED"
+  ],
+  "status": "APPROVED",
+  "atc": []
+}

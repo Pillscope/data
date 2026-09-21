@@ -1,0 +1,28 @@
+{
+  "drug_code": "60071",
+  "din": "02236783",
+  "brand_name": "ORCIPRENALINE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "31-JAN-2018",
+  "active_ingredients": [
+    {
+      "name": "ORCIPRENALINE SULFATE",
+      "strength": "10",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SYRUP"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "AA PHARMA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "ORCIPRENALINE"
+  ]
+}

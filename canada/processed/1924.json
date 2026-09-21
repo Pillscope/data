@@ -1,0 +1,26 @@
+{
+  "drug_code": "1924",
+  "din": "00288616",
+  "brand_name": "STRONGID T",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "17-MAR-2016",
+  "active_ingredients": [
+    {
+      "name": "PYRANTEL (PYRANTEL PAMOATE)",
+      "strength": "50",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SUSPENSION"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "ZOETIS CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": []
+}

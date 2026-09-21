@@ -1,0 +1,28 @@
+{
+  "drug_code": "94443",
+  "din": "02457377",
+  "brand_name": "MYCOPHENOLATE MOFETIL",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "30-SEP-2016",
+  "active_ingredients": [
+    {
+      "name": "MYCOPHENOLATE MOFETIL",
+      "strength": "500",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "SANIS HEALTH INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "MYCOPHENOLIC ACID"
+  ]
+}

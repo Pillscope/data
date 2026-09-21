@@ -1,0 +1,28 @@
+{
+  "drug_code": "92262",
+  "din": "02438259",
+  "brand_name": "RAN-DULOXETINE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "19-MAY-2016",
+  "active_ingredients": [
+    {
+      "name": "DULOXETINE (DULOXETINE HYDROCHLORIDE)",
+      "strength": "30",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "CAPSULE (DELAYED RELEASE)"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "RANBAXY PHARMACEUTICALS CANADA INC."
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "DULOXETINE"
+  ]
+}

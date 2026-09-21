@@ -1,0 +1,28 @@
+{
+  "drug_code": "14758",
+  "din": "02046113",
+  "brand_name": "PMS-SODIUM CROMOGLYCATE",
+  "class": "Human",
+  "descriptor": "NEBULIZER SOLUTION",
+  "last_update": "30-APR-2018",
+  "active_ingredients": [
+    {
+      "name": "CROMOLYN SODIUM",
+      "strength": "1",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "INHALATION"
+  ],
+  "companies": [
+    "PHARMASCIENCE INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "CROMOGLICIC ACID"
+  ]
+}

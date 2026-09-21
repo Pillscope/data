@@ -1,0 +1,26 @@
+{
+  "drug_code": "86194",
+  "din": "02376482",
+  "brand_name": "CORTAVANCE",
+  "class": "Veterinary",
+  "descriptor": "SPRAY PUMP",
+  "last_update": "11-APR-2016",
+  "active_ingredients": [
+    {
+      "name": "Hydrocortisone aceponate",
+      "strength": "0.584",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "VIRBAC AH INC"
+  ],
+  "status": "APPROVED",
+  "atc": []
+}

@@ -1,0 +1,33 @@
+{
+  "drug_code": "21701",
+  "din": "01924478",
+  "brand_name": "BOD SAN 4.5 LIQ",
+  "class": "Disinfectant",
+  "descriptor": "",
+  "last_update": "16-JUN-2006",
+  "active_ingredients": [
+    {
+      "name": "BENZALKONIUM CHLORIDE",
+      "strength": "2.25",
+      "unit": "%"
+    },
+    {
+      "name": "ALKYL DIMETHYL ETHYLBENZYL AMMONIUM CHLORIDE",
+      "strength": "2.25",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "LIQUID"
+  ],
+  "routes": [
+    "DISINFECTANT (Food Premises)"
+  ],
+  "companies": [
+    "LES CHIMIQUES B.O.D. INC"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "TECHNICAL DISINFECTANTS"
+  ]
+}

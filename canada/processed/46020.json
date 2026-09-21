@@ -1,0 +1,28 @@
+{
+  "drug_code": "46020",
+  "din": "01901532",
+  "brand_name": "STUD 100",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "07-MAY-2013",
+  "active_ingredients": [
+    {
+      "name": "LIDOCAINE",
+      "strength": "9.6",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "SPRAY, METERED DOSE"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "POUND INTERNATIONAL LTD."
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "LIDOCAINE"
+  ]
+}

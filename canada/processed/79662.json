@@ -1,0 +1,28 @@
+{
+  "drug_code": "79662",
+  "din": "02311011",
+  "brand_name": "PRO-HYDROXYQUINE - 200",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "01-AUG-2008",
+  "active_ingredients": [
+    {
+      "name": "HYDROXYCHLOROQUINE SULFATE",
+      "strength": "200",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "PRO DOC LIMITEE"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "HYDROXYCHLOROQUINE"
+  ]
+}

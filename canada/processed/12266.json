@@ -1,0 +1,28 @@
+{
+  "drug_code": "12266",
+  "din": "01923986",
+  "brand_name": "SOLARCAINE FIRST AID LIDOCAINE SPRAY",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "25-AUG-2017",
+  "active_ingredients": [
+    {
+      "name": "LIDOCAINE",
+      "strength": "0.5",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "AEROSOL"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "BAYER INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "LIDOCAINE"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "drug_code": "92922",
+  "din": "02444267",
+  "brand_name": "VARITHENA",
+  "class": "Human",
+  "descriptor": "FOAM IS MADE OF 1% POLIDOCANOL SOL. MIXED OXYGEN AND CARBON DIOXIDE",
+  "last_update": "29-MAR-2018",
+  "active_ingredients": [
+    {
+      "name": "POLIDOCANOL",
+      "strength": "1.3",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "FOAM"
+  ],
+  "routes": [
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "PROVENSIS LTD"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "POLIDOCANOL"
+  ]
+}

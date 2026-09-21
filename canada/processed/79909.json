@@ -1,0 +1,28 @@
+{
+  "drug_code": "79909",
+  "din": "02313588",
+  "brand_name": "ACT ESCITALOPRAM",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "20-APR-2018",
+  "active_ingredients": [
+    {
+      "name": "ESCITALOPRAM (ESCITALOPRAM OXALATE)",
+      "strength": "20",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "TEVA CANADA LIMITED"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "ESCITALOPRAM"
+  ]
+}

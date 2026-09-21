@@ -1,0 +1,28 @@
+{
+  "drug_code": "5812",
+  "din": "00609900",
+  "brand_name": "RINCE BOUCHE ANTISEPTIQUE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "10-MAY-2016",
+  "active_ingredients": [
+    {
+      "name": "CETYLPYRIDINIUM CHLORIDE",
+      "strength": "0.05",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "MOUTHWASH/GARGLE"
+  ],
+  "routes": [
+    "BUCCAL"
+  ],
+  "companies": [
+    "LABORATOIRE ATLAS INC"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "CETYLPYRIDINIUM"
+  ]
+}

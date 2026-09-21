@@ -1,0 +1,28 @@
+{
+  "drug_code": "73619",
+  "din": "02251248",
+  "brand_name": "RIVA-CIPROFLOXACIN",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "05-MAY-2015",
+  "active_ingredients": [
+    {
+      "name": "CIPROFLOXACIN (CIPROFLOXACIN HYDROCHLORIDE)",
+      "strength": "500",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "LABORATOIRE RIVA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "CIPROFLOXACIN"
+  ]
+}

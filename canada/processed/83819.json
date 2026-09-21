@@ -1,0 +1,28 @@
+{
+  "drug_code": "83819",
+  "din": "02352966",
+  "brand_name": "ALENDRONATE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "21-SEP-2017",
+  "active_ingredients": [
+    {
+      "name": "ALENDRONIC ACID (ALENDRONATE SODIUM)",
+      "strength": "70",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "SANIS HEALTH INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "ALENDRONIC ACID"
+  ]
+}

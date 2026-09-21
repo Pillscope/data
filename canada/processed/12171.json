@@ -1,0 +1,33 @@
+{
+  "drug_code": "12171",
+  "din": "00783641",
+  "brand_name": "DEXTROSE 0.2% AND 0.9% SOD CHLOR SOLUTION",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "28-JUL-2015",
+  "active_ingredients": [
+    {
+      "name": "SODIUM CHLORIDE",
+      "strength": "900",
+      "unit": "MG"
+    },
+    {
+      "name": "DEXTROSE",
+      "strength": "200",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "IRRIGATION"
+  ],
+  "companies": [
+    "BAXTER CORPORATION"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "SODIUM CHLORIDE, COMBINATIONS"
+  ]
+}

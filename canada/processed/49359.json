@@ -1,0 +1,28 @@
+{
+  "drug_code": "49359",
+  "din": "02230435",
+  "brand_name": "ACET 160",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "04-NOV-2015",
+  "active_ingredients": [
+    {
+      "name": "ACETAMINOPHEN",
+      "strength": "160",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SUPPOSITORY"
+  ],
+  "routes": [
+    "RECTAL"
+  ],
+  "companies": [
+    "PENDOPHARM DIVISION OF DE PHARMASCIENCE INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "ACETAMINOPHEN (PARACETAMOL)"
+  ]
+}

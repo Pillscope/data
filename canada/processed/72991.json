@@ -1,0 +1,33 @@
+{
+  "drug_code": "72991",
+  "din": "02248634",
+  "brand_name": "PF 300",
+  "class": "Disinfectant",
+  "descriptor": "",
+  "last_update": "17-AUG-2009",
+  "active_ingredients": [
+    {
+      "name": "DIDECYL DIMETHYL AMMONIUM CHLORIDE",
+      "strength": "6.72",
+      "unit": "%"
+    },
+    {
+      "name": "GLUTARAL",
+      "strength": "12.5",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "LIQUID"
+  ],
+  "routes": [
+    "DISINFECTANT (Barn)"
+  ],
+  "companies": [
+    "DUBOIS CHEMICALS CANADA INC."
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "TECHNICAL DISINFECTANTS"
+  ]
+}

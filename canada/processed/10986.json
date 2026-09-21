@@ -1,0 +1,28 @@
+{
+  "drug_code": "10986",
+  "din": "00870196",
+  "brand_name": "TEVA-DOCUSATE SODIUM",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "24-AUG-2015",
+  "active_ingredients": [
+    {
+      "name": "DOCUSATE SODIUM",
+      "strength": "100",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "CAPSULE"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "TEVA CANADA LIMITED"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "DOCUSATE SODIUM"
+  ]
+}

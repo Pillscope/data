@@ -1,0 +1,26 @@
+{
+  "drug_code": "6445",
+  "din": "00611980",
+  "brand_name": "THERATEC",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "27-JUL-2016",
+  "active_ingredients": [
+    {
+      "name": "IODINE (NONYL PHENOXY POLYOXYETHYLENE ETHANOL-IODINE COMPLEX)",
+      "strength": "0.5",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "GEA FARM TECHNOLOGIES INC"
+  ],
+  "status": "APPROVED",
+  "atc": []
+}

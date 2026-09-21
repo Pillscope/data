@@ -1,0 +1,28 @@
+{
+  "drug_code": "77433",
+  "din": "02288931",
+  "brand_name": "OXY-20 NW",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "06-FEB-2007",
+  "active_ingredients": [
+    {
+      "name": "OXYTOCIN",
+      "strength": "20",
+      "unit": "UNIT"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "INTRAMUSCULAR",
+    "INTRAVENOUS",
+    "SUBCUTANEOUS"
+  ],
+  "companies": [
+    "RAFTER 8 PRODUCTS INC"
+  ],
+  "status": "MARKETED",
+  "atc": []
+}

@@ -1,0 +1,28 @@
+{
+  "drug_code": "83839",
+  "din": "02353172",
+  "brand_name": "QUETIAPINE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "14-SEP-2010",
+  "active_ingredients": [
+    {
+      "name": "QUETIAPINE (QUETIAPINE FUMARATE)",
+      "strength": "100",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "SANIS HEALTH INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "QUETIAPINE"
+  ]
+}

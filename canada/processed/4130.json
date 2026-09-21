@@ -1,0 +1,28 @@
+{
+  "drug_code": "4130",
+  "din": "00337439",
+  "brand_name": "TEVA-INDOMETHACIN",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "25-SEP-2015",
+  "active_ingredients": [
+    {
+      "name": "INDOMETHACIN",
+      "strength": "50",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "CAPSULE"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "TEVA CANADA LIMITED"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "INDOMETACIN"
+  ]
+}

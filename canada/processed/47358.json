@@ -1,0 +1,28 @@
+{
+  "drug_code": "47358",
+  "din": "02229468",
+  "brand_name": "DOM-ATENOLOL - 100MG",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "29-APR-2004",
+  "active_ingredients": [
+    {
+      "name": "ATENOLOL",
+      "strength": "100",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "DOMINION PHARMACAL"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "ATENOLOL"
+  ]
+}

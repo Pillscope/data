@@ -1,0 +1,28 @@
+{
+  "drug_code": "33482",
+  "din": "02226871",
+  "brand_name": "ACETAMINOPHENE - LIQ 160 MG/5 ML",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "17-APR-2018",
+  "active_ingredients": [
+    {
+      "name": "ACETAMINOPHEN",
+      "strength": "160",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "LABORATOIRE RIVA INC"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "ACETAMINOPHEN (PARACETAMOL)"
+  ]
+}

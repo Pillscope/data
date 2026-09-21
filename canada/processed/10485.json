@@ -1,0 +1,28 @@
+{
+  "drug_code": "10485",
+  "din": "00705799",
+  "brand_name": "STATEX DPS 50MG/ML",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "08-SEP-2010",
+  "active_ingredients": [
+    {
+      "name": "MORPHINE SULFATE",
+      "strength": "50",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "DROPS"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "PALADIN LABS INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "MORPHINE"
+  ]
+}

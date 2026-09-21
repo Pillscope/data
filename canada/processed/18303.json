@@ -1,0 +1,28 @@
+{
+  "drug_code": "18303",
+  "din": "02150999",
+  "brand_name": "ANAFEN INJECTION 10MG/ML",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "05-MAY-2015",
+  "active_ingredients": [
+    {
+      "name": "KETOPROFEN",
+      "strength": "10",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "INTRAMUSCULAR",
+    "INTRAVENOUS",
+    "SUBCUTANEOUS"
+  ],
+  "companies": [
+    "MERIAL CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": []
+}

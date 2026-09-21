@@ -1,0 +1,28 @@
+{
+  "drug_code": "5688",
+  "din": "00572888",
+  "brand_name": "HELIUM 100%",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "11-JUL-2006",
+  "active_ingredients": [
+    {
+      "name": "HELIUM",
+      "strength": "100",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "GAS"
+  ],
+  "routes": [
+    "INHALATION"
+  ],
+  "companies": [
+    "AIR LIQUIDE CANADA INC."
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "HELIUM"
+  ]
+}

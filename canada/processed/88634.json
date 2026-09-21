@@ -1,0 +1,36 @@
+{
+  "drug_code": "88634",
+  "din": "02401444",
+  "brand_name": "3-BIOTIC",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "09-DEC-2016",
+  "active_ingredients": [
+    {
+      "name": "NEOMYCIN SULFATE",
+      "strength": "5",
+      "unit": "MG"
+    },
+    {
+      "name": "POLYMYXIN B SULFATE",
+      "strength": "5000",
+      "unit": "UNIT"
+    },
+    {
+      "name": "BACITRACIN ZINC",
+      "strength": "400",
+      "unit": "UNIT"
+    }
+  ],
+  "forms": [
+    "OINTMENT"
+  ],
+  "routes": [
+    "OPHTHALMIC"
+  ],
+  "companies": [
+    "SANTE ANIMALE ANIVET INC"
+  ],
+  "status": "APPROVED",
+  "atc": []
+}

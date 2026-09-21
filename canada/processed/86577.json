@@ -1,0 +1,28 @@
+{
+  "drug_code": "86577",
+  "din": "02379910",
+  "brand_name": "FAMPYRA",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "10-APR-2012",
+  "active_ingredients": [
+    {
+      "name": "FAMPRIDINE",
+      "strength": "10",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET (EXTENDED-RELEASE)"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "BIOGEN CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "FAMPRIDINE"
+  ]
+}

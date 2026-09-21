@@ -1,0 +1,26 @@
+{
+  "drug_code": "133",
+  "din": "00097187",
+  "brand_name": "SODIUM SULFAMETHAZINE SOLUTION 12.5%",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "03-JAN-2018",
+  "active_ingredients": [
+    {
+      "name": "SULFAMETHAZINE SODIUM",
+      "strength": "12.5",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "DOMINION VETERINARY LABORATORIES LTD."
+  ],
+  "status": "MARKETED",
+  "atc": []
+}

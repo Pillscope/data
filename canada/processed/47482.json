@@ -1,0 +1,28 @@
+{
+  "drug_code": "47482",
+  "din": "02229566",
+  "brand_name": "TOMUDEX",
+  "class": "Human",
+  "descriptor": "SINGLE USE VIAL",
+  "last_update": "09-AUG-2017",
+  "active_ingredients": [
+    {
+      "name": "RALTITREXED (RALTITREXED DISODIUM)",
+      "strength": "2",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "POWDER FOR SOLUTION"
+  ],
+  "routes": [
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "PFIZER CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "RALTITREXED"
+  ]
+}

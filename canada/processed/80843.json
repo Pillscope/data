@@ -1,0 +1,28 @@
+{
+  "drug_code": "80843",
+  "din": "02322951",
+  "brand_name": "VYVANSE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "25-MAY-2017",
+  "active_ingredients": [
+    {
+      "name": "LISDEXAMFETAMINE DIMESYLATE",
+      "strength": "30",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "CAPSULE"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "SHIRE PHARMA CANADA ULC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "LISDEXAMFETAMINE"
+  ]
+}

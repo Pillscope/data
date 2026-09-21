@@ -1,0 +1,28 @@
+{
+  "drug_code": "79656",
+  "din": "02310945",
+  "brand_name": "PRO-NAPROXEN EC - 375",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "06-NOV-2009",
+  "active_ingredients": [
+    {
+      "name": "NAPROXEN",
+      "strength": "375",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET (ENTERIC-COATED)"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "PRO DOC LIMITEE"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "NAPROXEN"
+  ]
+}

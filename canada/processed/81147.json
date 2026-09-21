@@ -1,0 +1,43 @@
+{
+  "drug_code": "81147",
+  "din": "02326132",
+  "brand_name": "TISSEEL",
+  "class": "Human",
+  "descriptor": "KIT(SYNTHETIC APROTININ),FAST SET(500IU)-SEALER PROTEIN CONC.&HUMAN THROMBIN(BOTH FREEZE-DRIED)FOR RECONSTITUTN WITH APROTININ&CACL2 SOL RESPECTIVELY",
+  "last_update": "12-JAN-2018",
+  "active_ingredients": [
+    {
+      "name": "THROMBIN (HUMAN)",
+      "strength": "500",
+      "unit": "UNIT"
+    },
+    {
+      "name": "CALCIUM CHLORIDE",
+      "strength": "40",
+      "unit": "MCMOL"
+    },
+    {
+      "name": "APROTININ (SYNTHETIC)",
+      "strength": "3000",
+      "unit": "KIU"
+    },
+    {
+      "name": "SEALER PROTEIN (HUMAN)",
+      "strength": "125",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "KIT"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "BAXTER CORPORATION"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "COMBINATIONS"
+  ]
+}

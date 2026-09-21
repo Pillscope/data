@@ -1,0 +1,38 @@
+{
+  "drug_code": "18554",
+  "din": "02035472",
+  "brand_name": "DORMER 211 FACE CREAM SPF 15",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "10-MAY-2016",
+  "active_ingredients": [
+    {
+      "name": "AVOBENZONE",
+      "strength": "2",
+      "unit": "%"
+    },
+    {
+      "name": "OXYBENZONE",
+      "strength": "3",
+      "unit": "%"
+    },
+    {
+      "name": "OCTINOXATE",
+      "strength": "7.5",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "CREAM"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "DORMER LABORATORIES INC."
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "COMBINATIONS OF PROTECTIVES AGAINST UV-RADIATION"
+  ]
+}

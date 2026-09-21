@@ -1,0 +1,28 @@
+{
+  "drug_code": "78319",
+  "din": "02297868",
+  "brand_name": "MYLAN-ONDANSETRON",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "04-JUL-2011",
+  "active_ingredients": [
+    {
+      "name": "ONDANSETRON (ONDANSETRON HYDROCHLORIDE DIHYDRATE)",
+      "strength": "4",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "MYLAN PHARMACEUTICALS ULC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "ONDANSETRON"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "drug_code": "42699",
+  "din": "02152827",
+  "brand_name": "MYOFLEX REGULAR STRENGTH",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "12-APR-2018",
+  "active_ingredients": [
+    {
+      "name": "TROLAMINE SALICYLATE",
+      "strength": "10",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "CREAM"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "EXZELL PHARMA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "PREPARATIONS WITH SALICYLIC ACID DERIVATIVES"
+  ]
+}

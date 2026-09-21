@@ -1,0 +1,28 @@
+{
+  "drug_code": "3166",
+  "din": "00452696",
+  "brand_name": "DEVROM CHEW TAB 200MG",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "03-AUG-2017",
+  "active_ingredients": [
+    {
+      "name": "BISMUTH SUBGALLATE",
+      "strength": "200",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET (CHEWABLE)"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "THE PARTHENON COMPANY INC."
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "BISMUTH PREPARATIONS"
+  ]
+}

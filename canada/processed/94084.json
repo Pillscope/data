@@ -1,0 +1,31 @@
+{
+  "drug_code": "94084",
+  "din": "02454327",
+  "brand_name": "STARTECT",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "14-FEB-2018",
+  "active_ingredients": [
+    {
+      "name": "ABAMECTIN",
+      "strength": "1",
+      "unit": "MG"
+    },
+    {
+      "name": "DERQUANTEL",
+      "strength": "10",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "ZOETIS CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": []
+}

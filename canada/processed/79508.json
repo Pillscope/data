@@ -1,0 +1,29 @@
+{
+  "drug_code": "79508",
+  "din": "02309483",
+  "brand_name": "XYNTHA",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "05-DEC-2014",
+  "active_ingredients": [
+    {
+      "name": "MOROCTOCOG ALFA",
+      "strength": "250",
+      "unit": "UNIT"
+    }
+  ],
+  "forms": [
+    "KIT",
+    "POWDER FOR SOLUTION"
+  ],
+  "routes": [
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "PFIZER CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "COAGULATION FACTOR VIII"
+  ]
+}

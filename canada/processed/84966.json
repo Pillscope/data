@@ -1,0 +1,33 @@
+{
+  "drug_code": "84966",
+  "din": "02364786",
+  "brand_name": "COLGATE TOTAL ADVANCED HEALTH GUM DEFENSE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "26-JUL-2011",
+  "active_ingredients": [
+    {
+      "name": "TRICLOSAN",
+      "strength": "0.300",
+      "unit": "%"
+    },
+    {
+      "name": "SODIUM FLUORIDE",
+      "strength": "0.243",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "TOOTHPASTE"
+  ],
+  "routes": [
+    "DENTAL"
+  ],
+  "companies": [
+    "COLGATE-PALMOLIVE CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "SODIUM FLUORIDE, COMBINATIONS"
+  ]
+}

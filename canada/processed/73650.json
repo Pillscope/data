@@ -1,0 +1,28 @@
+{
+  "drug_code": "73650",
+  "din": "02251582",
+  "brand_name": "APO-RAMIPRIL",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "11-JAN-2018",
+  "active_ingredients": [
+    {
+      "name": "RAMIPRIL",
+      "strength": "10",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "CAPSULE"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "APOTEX INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "RAMIPRIL"
+  ]
+}

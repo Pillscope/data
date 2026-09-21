@@ -1,0 +1,28 @@
+{
+  "drug_code": "69741",
+  "din": "02245641",
+  "brand_name": "ORGALUTRAN",
+  "class": "Human",
+  "descriptor": "SINGLE DOSE PREFILLED SYRINGE, 250 \u00c2\u00b5G/0.5ML",
+  "last_update": "24-OCT-2012",
+  "active_ingredients": [
+    {
+      "name": "GANIRELIX (GANIRELIX ACETATE)",
+      "strength": "250",
+      "unit": "MCG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "SUBCUTANEOUS"
+  ],
+  "companies": [
+    "MERCK CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "GANIRELIX"
+  ]
+}

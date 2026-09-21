@@ -1,0 +1,28 @@
+{
+  "drug_code": "85582",
+  "din": "02370697",
+  "brand_name": "PMS-RISPERIDONE ODT",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "18-DEC-2012",
+  "active_ingredients": [
+    {
+      "name": "RISPERIDONE",
+      "strength": "3",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET (ORALLY DISINTEGRATING)"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "PHARMASCIENCE INC"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "RISPERIDONE"
+  ]
+}

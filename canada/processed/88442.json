@@ -1,0 +1,28 @@
+{
+  "drug_code": "88442",
+  "din": "02399547",
+  "brand_name": "HEAD & SHOULDERS DRY SCALP CARE 2IN1",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "06-APR-2017",
+  "active_ingredients": [
+    {
+      "name": "PYRITHIONE ZINC",
+      "strength": "1",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "SHAMPOO"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "PROCTER & GAMBLE INC"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "PYRITHIONE ZINC"
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "drug_code": "79269",
+  "din": "02307014",
+  "brand_name": "BUCKLEY'S NIGHTTIME COLD AND SINUS",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "26-MAY-2017",
+  "active_ingredients": [
+    {
+      "name": "PSEUDOEPHEDRINE HYDROCHLORIDE",
+      "strength": "30",
+      "unit": "MG"
+    },
+    {
+      "name": "DOXYLAMINE SUCCINATE",
+      "strength": "6.25",
+      "unit": "MG"
+    },
+    {
+      "name": "ACETAMINOPHEN",
+      "strength": "325",
+      "unit": "MG"
+    },
+    {
+      "name": "DEXTROMETHORPHAN HYDROBROMIDE",
+      "strength": "15",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "CAPSULE"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "THE BUCKLEY'S COMPANY"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "ACETAMINOPHEN, COMB EXCL PSYCHOLEPTICS"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "drug_code": "91868",
+  "din": "02434350",
+  "brand_name": "PMS-ELETRIPTAN",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "28-MAY-2015",
+  "active_ingredients": [
+    {
+      "name": "ELETRIPTAN (ELETRIPTAN HYDROBROMIDE)",
+      "strength": "40",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "PHARMASCIENCE INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "ELETRIPTAN"
+  ]
+}

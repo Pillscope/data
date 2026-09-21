@@ -1,0 +1,28 @@
+{
+  "drug_code": "79553",
+  "din": "02309831",
+  "brand_name": "DOM-RISEDRONATE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "21-FEB-2017",
+  "active_ingredients": [
+    {
+      "name": "RISEDRONATE SODIUM (RISEDRONATE SODIUM HEMI-PENTAHYDRATE)",
+      "strength": "35",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "DOMINION PHARMACAL"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "RISEDRONIC ACID"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "drug_code": "90773",
+  "din": "02423006",
+  "brand_name": "MINT-IRBESARTAN",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "13-MAY-2015",
+  "active_ingredients": [
+    {
+      "name": "IRBESARTAN",
+      "strength": "300",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "MINT PHARMACEUTICALS INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "IRBESARTAN"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "drug_code": "86423",
+  "din": "02378434",
+  "brand_name": "LOVENOX",
+  "class": "Human",
+  "descriptor": "SINGLE DOSE PRE-FILLED SYRINGE 80MG/0.8ML",
+  "last_update": "21-SEP-2017",
+  "active_ingredients": [
+    {
+      "name": "ENOXAPARIN SODIUM",
+      "strength": "80",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "SUBCUTANEOUS"
+  ],
+  "companies": [
+    "SANOFI-AVENTIS CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "ENOXAPARIN"
+  ]
+}

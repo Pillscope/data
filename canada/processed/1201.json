@@ -1,0 +1,28 @@
+{
+  "drug_code": "1201",
+  "din": "00223107",
+  "brand_name": "CONRAY 30",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "29-JAN-2018",
+  "active_ingredients": [
+    {
+      "name": "IOTHALAMATE MEGLUMINE",
+      "strength": "300",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "INTRAVASCULAR"
+  ],
+  "companies": [
+    "LIEBEL-FLARSHEIM CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "IOTALAMIC ACID"
+  ]
+}

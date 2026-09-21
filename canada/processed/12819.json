@@ -1,0 +1,28 @@
+{
+  "drug_code": "12819",
+  "din": "01918354",
+  "brand_name": "COUMADIN TAB 5MG",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "24-AUG-2011",
+  "active_ingredients": [
+    {
+      "name": "WARFARIN SODIUM",
+      "strength": "5",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "BRISTOL-MYERS SQUIBB CANADA"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "WARFARIN"
+  ]
+}

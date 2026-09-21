@@ -1,0 +1,28 @@
+{
+  "drug_code": "78666",
+  "din": "02301334",
+  "brand_name": "BRIMONIDINE P",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "14-MAR-2016",
+  "active_ingredients": [
+    {
+      "name": "BRIMONIDINE TARTRATE",
+      "strength": "0.15",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "OPHTHALMIC"
+  ],
+  "companies": [
+    "AA PHARMA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "BRIMONIDINE"
+  ]
+}

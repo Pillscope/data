@@ -1,0 +1,29 @@
+{
+  "drug_code": "93883",
+  "din": "02452456",
+  "brand_name": "BORTEZOMIB FOR INJECTION",
+  "class": "Human",
+  "descriptor": "SINGLE USE VIAL",
+  "last_update": "29-MAR-2017",
+  "active_ingredients": [
+    {
+      "name": "BORTEZOMIB (BORTEZOMIB MANNITOL BORONIC ESTER)",
+      "strength": "3.5",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "POWDER FOR SOLUTION"
+  ],
+  "routes": [
+    "INTRAVENOUS",
+    "SUBCUTANEOUS"
+  ],
+  "companies": [
+    "DR REDDYS LABORATORIES LTD"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "BORTEZOMIB"
+  ]
+}

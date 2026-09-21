@@ -1,0 +1,28 @@
+{
+  "drug_code": "86905",
+  "din": "02383292",
+  "brand_name": "AURO-PAROXETINE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "27-MAY-2013",
+  "active_ingredients": [
+    {
+      "name": "PAROXETINE (PAROXETINE HYDROCHLORIDE HEMIHYDRATE)",
+      "strength": "30",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "AURO PHARMA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "PAROXETINE"
+  ]
+}

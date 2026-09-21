@@ -1,0 +1,28 @@
+{
+  "drug_code": "16954",
+  "din": "01934163",
+  "brand_name": "NOVAMOXIN",
+  "class": "Human",
+  "descriptor": "SUGAR REDUCED",
+  "last_update": "29-NOV-2017",
+  "active_ingredients": [
+    {
+      "name": "AMOXICILLIN (AMOXICILLIN TRIHYDRATE)",
+      "strength": "250",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "GRANULES FOR SUSPENSION"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "TEVA CANADA LIMITED"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "AMOXICILLIN"
+  ]
+}

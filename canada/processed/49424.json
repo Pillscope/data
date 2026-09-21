@@ -1,0 +1,28 @@
+{
+  "drug_code": "49424",
+  "din": "02230466",
+  "brand_name": "HEMORRHOIDAL RELIEF OINTMENT",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "26-MAR-2013",
+  "active_ingredients": [
+    {
+      "name": "PHENYLEPHRINE HYDROCHLORIDE",
+      "strength": "0.25",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "OINTMENT"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "PERRIGO INTERNATIONAL"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "OTHER PREPARATIONS, COMBINATIONS"
+  ]
+}

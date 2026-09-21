@@ -1,0 +1,31 @@
+{
+  "drug_code": "6015",
+  "din": "00631396",
+  "brand_name": "AGRO BLUE",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "04-AUG-2017",
+  "active_ingredients": [
+    {
+      "name": "CHLORHEXIDINE ACETATE",
+      "strength": ".5",
+      "unit": "%"
+    },
+    {
+      "name": "GLYCERINE",
+      "strength": "5",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "LIQUID"
+  ],
+  "routes": [
+    "TEAT-DIP"
+  ],
+  "companies": [
+    "WESTAGRO CANADA"
+  ],
+  "status": "MARKETED",
+  "atc": []
+}

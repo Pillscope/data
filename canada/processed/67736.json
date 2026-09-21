@@ -1,0 +1,26 @@
+{
+  "drug_code": "67736",
+  "din": "02243798",
+  "brand_name": "ASA BOLUS",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "09-AUG-2017",
+  "active_ingredients": [
+    {
+      "name": "ACETYLSALICYLIC ACID",
+      "strength": "15.5",
+      "unit": "G"
+    }
+  ],
+  "forms": [
+    "BOLUS"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "CAN-VET ANIMAL HEALTH SUPPLIES LTD."
+  ],
+  "status": "MARKETED",
+  "atc": []
+}

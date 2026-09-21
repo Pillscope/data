@@ -1,0 +1,34 @@
+{
+  "drug_code": "94325",
+  "din": "02456389",
+  "brand_name": "AURO-TELMISARTAN HCTZ",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "15-JAN-2018",
+  "active_ingredients": [
+    {
+      "name": "TELMISARTAN",
+      "strength": "80",
+      "unit": "MG"
+    },
+    {
+      "name": "HYDROCHLOROTHIAZIDE",
+      "strength": "12.5",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "AURO PHARMA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "TELMISARTAN AND DIURETICS",
+    "TELMISARTAN AND DIURETICS"
+  ]
+}

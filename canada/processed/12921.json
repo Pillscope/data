@@ -1,0 +1,26 @@
+{
+  "drug_code": "12921",
+  "din": "01939807",
+  "brand_name": "SODIUM SULFAMETHAZINE 25% SOLUTION",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "03-JAN-2018",
+  "active_ingredients": [
+    {
+      "name": "SULFAMETHAZINE SODIUM",
+      "strength": "25",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "CITADEL ANIMAL HEALTH"
+  ],
+  "status": "MARKETED",
+  "atc": []
+}

@@ -1,0 +1,63 @@
+{
+  "drug_code": "79806",
+  "din": "02312557",
+  "brand_name": "BOOSTRIX-POLIO",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "09-NOV-2010",
+  "active_ingredients": [
+    {
+      "name": "TETANUS TOXOID ADSORBED",
+      "strength": "5.0",
+      "unit": "LF"
+    },
+    {
+      "name": "DIPHTHERIA TOXOID ADSORBED",
+      "strength": "2.5",
+      "unit": "LF"
+    },
+    {
+      "name": "INACTIVATED POLIOVIRUS TYPE II",
+      "strength": "8",
+      "unit": "D"
+    },
+    {
+      "name": "PERTUSSIS TOXOID ADSORBED",
+      "strength": "8",
+      "unit": "MCG"
+    },
+    {
+      "name": "FILAMENTOUS HAEMAGGLUTININ ADSORBED",
+      "strength": "8",
+      "unit": "MCG"
+    },
+    {
+      "name": "PERTACTIN ADSORBED",
+      "strength": "2.5",
+      "unit": "MCG"
+    },
+    {
+      "name": "INACTIVATED POLIOVIRUS TYPE I",
+      "strength": "40",
+      "unit": "D"
+    },
+    {
+      "name": "INACTIVATED POLIOVIRUS TYPE III",
+      "strength": "32",
+      "unit": "D"
+    }
+  ],
+  "forms": [
+    "SUSPENSION"
+  ],
+  "routes": [
+    "INTRAMUSCULAR"
+  ],
+  "companies": [
+    "GLAXOSMITHKLINE INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "DIPHTHERIA-PERTUSSIS-POLIOMYELITIS-TETANUS"
+  ]
+}

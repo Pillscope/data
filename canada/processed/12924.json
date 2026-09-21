@@ -1,0 +1,43 @@
+{
+  "drug_code": "12924",
+  "din": "01941569",
+  "brand_name": "CAL MAG PHOS (STERILE INJECTION)",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "28-MAY-2009",
+  "active_ingredients": [
+    {
+      "name": "CALCIUM BOROGLUCONATE",
+      "strength": "23",
+      "unit": "%"
+    },
+    {
+      "name": "SODIUM HYPOPHOSPHITE",
+      "strength": "2.85",
+      "unit": "%"
+    },
+    {
+      "name": "DEXTROSE (DEXTROSE MONOHYDRATE)",
+      "strength": "15",
+      "unit": "%"
+    },
+    {
+      "name": "MAGNESIUM CHLORIDE (MAGNESIUM CHLORIDE)",
+      "strength": "4.5",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "INTRAPERITONEAL",
+    "INTRAVENOUS",
+    "SUBCUTANEOUS"
+  ],
+  "companies": [
+    "CITADEL ANIMAL HEALTH"
+  ],
+  "status": "MARKETED",
+  "atc": []
+}

@@ -1,0 +1,45 @@
+{
+  "drug_code": "69957",
+  "din": "02245840",
+  "brand_name": "FOSTER 40-80 HVAC & WALL DISINFECTANT",
+  "class": "Disinfectant",
+  "descriptor": "",
+  "last_update": "30-AUG-2016",
+  "active_ingredients": [
+    {
+      "name": "DIDECYL DIMETHYL AMMONIUM CHLORIDE",
+      "strength": "0.015",
+      "unit": "%"
+    },
+    {
+      "name": "BENZALKONIUM CHLORIDE",
+      "strength": "0.034",
+      "unit": "%"
+    },
+    {
+      "name": "DIOCTYL DIMETHYL AMMONIUM CHLORIDE",
+      "strength": "0.01",
+      "unit": "%"
+    },
+    {
+      "name": "OCTYL DECYL DIMETHYL AMMONIUM CHLORIDE",
+      "strength": "0.025",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "DISINFECTANT (Food Premises)",
+    "DISINFECTANT (Hospital/HC Facilities)",
+    "DISINFECTANT (Institutional/Industrial)"
+  ],
+  "companies": [
+    "H. B. FULLER CONSTRUCTION PRODUCTS, INC."
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "TECHNICAL DISINFECTANTS"
+  ]
+}

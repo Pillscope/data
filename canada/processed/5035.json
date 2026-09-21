@@ -1,0 +1,28 @@
+{
+  "drug_code": "5035",
+  "din": "00389218",
+  "brand_name": "NOVO-GESIC",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "29-APR-2015",
+  "active_ingredients": [
+    {
+      "name": "ACETAMINOPHEN",
+      "strength": "325",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "TEVA CANADA LIMITED"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "ACETAMINOPHEN (PARACETAMOL)"
+  ]
+}

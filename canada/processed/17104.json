@@ -1,0 +1,28 @@
+{
+  "drug_code": "17104",
+  "din": "02099233",
+  "brand_name": "GLUCOPHAGE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "31-AUG-2017",
+  "active_ingredients": [
+    {
+      "name": "METFORMIN HYDROCHLORIDE",
+      "strength": "500",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "SANOFI-AVENTIS CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "METFORMIN"
+  ]
+}

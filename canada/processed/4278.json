@@ -1,0 +1,28 @@
+{
+  "drug_code": "4278",
+  "din": "00522988",
+  "brand_name": "CHLORDIAZEPOXIDE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "29-APR-2015",
+  "active_ingredients": [
+    {
+      "name": "CHLORDIAZEPOXIDE HYDROCHLORIDE",
+      "strength": "10",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "CAPSULE"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "AA PHARMA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "CHLORDIAZEPOXIDE"
+  ]
+}

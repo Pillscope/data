@@ -1,0 +1,28 @@
+{
+  "drug_code": "72517",
+  "din": "02248181",
+  "brand_name": "ALFENTANIL INJECTION USP",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "06-MAY-2015",
+  "active_ingredients": [
+    {
+      "name": "ALFENTANIL (ALFENTANIL HYDROCHLORIDE)",
+      "strength": "500",
+      "unit": "MCG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "SANDOZ CANADA INCORPORATED"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "ALFENTANIL"
+  ]
+}

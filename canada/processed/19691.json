@@ -1,0 +1,28 @@
+{
+  "drug_code": "19691",
+  "din": "02171791",
+  "brand_name": "TEVA-ATENOLOL",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "23-NOV-2017",
+  "active_ingredients": [
+    {
+      "name": "ATENOLOL",
+      "strength": "50",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "TEVA CANADA LIMITED"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "ATENOLOL"
+  ]
+}

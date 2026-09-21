@@ -1,0 +1,28 @@
+{
+  "drug_code": "78912",
+  "din": "02303825",
+  "brand_name": "EURO-DOCUSATE C",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "15-AUG-2016",
+  "active_ingredients": [
+    {
+      "name": "DOCUSATE SODIUM",
+      "strength": "100",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "CAPSULE"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "SANDOZ CANADA INCORPORATED"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "DOCUSATE SODIUM"
+  ]
+}

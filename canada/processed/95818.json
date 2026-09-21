@@ -1,0 +1,28 @@
+{
+  "drug_code": "95818",
+  "din": "02469391",
+  "brand_name": "PMS-LACTULOSE-PHARMA",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "20-APR-2018",
+  "active_ingredients": [
+    {
+      "name": "LACTULOSE",
+      "strength": "667",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "PHARMASCIENCE INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "LACTULOSE"
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "drug_code": "5287",
+  "din": "00578436",
+  "brand_name": "DIPROSALIC",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "17-JAN-2013",
+  "active_ingredients": [
+    {
+      "name": "BETAMETHASONE (BETAMETHASONE DIPROPIONATE)",
+      "strength": "0.5",
+      "unit": "MG"
+    },
+    {
+      "name": "SALICYLIC ACID",
+      "strength": "30",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "OINTMENT"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "MERCK CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "BETAMETHASONE",
+    "BETAMETHASONE"
+  ]
+}

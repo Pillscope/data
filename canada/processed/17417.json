@@ -1,0 +1,28 @@
+{
+  "drug_code": "17417",
+  "din": "02064472",
+  "brand_name": "SALAZOPYRIN EN-TABS 500 MG",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "25-JAN-2013",
+  "active_ingredients": [
+    {
+      "name": "SULFASALAZINE",
+      "strength": "500",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET (ENTERIC-COATED)"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "PFIZER CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "SULFASALAZINE"
+  ]
+}

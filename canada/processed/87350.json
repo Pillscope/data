@@ -1,0 +1,28 @@
+{
+  "drug_code": "87350",
+  "din": "02387921",
+  "brand_name": "ATORVASTATIN",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "29-JUL-2016",
+  "active_ingredients": [
+    {
+      "name": "ATORVASTATIN (ATORVASTATIN CALCIUM)",
+      "strength": "80",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "SIVEM PHARMACEUTICALS ULC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "ATORVASTATIN"
+  ]
+}

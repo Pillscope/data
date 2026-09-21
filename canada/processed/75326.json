@@ -1,0 +1,28 @@
+{
+  "drug_code": "75326",
+  "din": "02267853",
+  "brand_name": "METOPROLOL TARTRATE INJECTION USP",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "23-MAR-2018",
+  "active_ingredients": [
+    {
+      "name": "METOPROLOL TARTRATE",
+      "strength": "1",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "SANDOZ CANADA INCORPORATED"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "METOPROLOL"
+  ]
+}

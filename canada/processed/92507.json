@@ -1,0 +1,34 @@
+{
+  "drug_code": "92507",
+  "din": "02440709",
+  "brand_name": "MENJUGATE LIQUID",
+  "class": "Human",
+  "descriptor": "0.5 ML SINGLE DOSE PREFILLED SYRINGES",
+  "last_update": "26-JUL-2016",
+  "active_ingredients": [
+    {
+      "name": "MENINGOCOCCAL GROUP C OLIGOSACCHARIDE",
+      "strength": "10",
+      "unit": "MCG"
+    },
+    {
+      "name": "CORYNEBACTERIUM DIPHTHERIAE CRM-197 PROTEIN",
+      "strength": "25",
+      "unit": "MCG"
+    }
+  ],
+  "forms": [
+    "SUSPENSION"
+  ],
+  "routes": [
+    "INTRAMUSCULAR"
+  ],
+  "companies": [
+    "GLAXOSMITHKLINE INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "MENINGOCOCCAL VACCINES",
+    "MENINGOCOCCAL VACCINES"
+  ]
+}

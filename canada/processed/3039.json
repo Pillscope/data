@@ -1,0 +1,29 @@
+{
+  "drug_code": "3039",
+  "din": "00388246",
+  "brand_name": "NOROMA 25 LIQ 5.625%",
+  "class": "Disinfectant",
+  "descriptor": "",
+  "last_update": "08-JUL-2011",
+  "active_ingredients": [
+    {
+      "name": "BENZALKONIUM CHLORIDE",
+      "strength": "5.625",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "SPRAY"
+  ],
+  "routes": [
+    "DISINFECTANT (Food Premises)",
+    "DISINFECTANT (Hospital/HC Facilities)"
+  ],
+  "companies": [
+    "CARTIER CHEMICALS LTD."
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "TECHNICAL DISINFECTANTS"
+  ]
+}

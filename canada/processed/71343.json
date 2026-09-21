@@ -1,0 +1,28 @@
+{
+  "drug_code": "71343",
+  "din": "02247104",
+  "brand_name": "PERIOSTAT",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "08-JAN-2013",
+  "active_ingredients": [
+    {
+      "name": "DOXYCYCLINE (DOXYCYCLINE HYCLATE)",
+      "strength": "20",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "CAPSULE"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "PENDOPHARM DIVISION OF DE PHARMASCIENCE INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "DOXYCYCLINE"
+  ]
+}

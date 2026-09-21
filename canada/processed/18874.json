@@ -1,0 +1,29 @@
+{
+  "drug_code": "18874",
+  "din": "02172712",
+  "brand_name": "MYLAN-BECLO AQ",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "16-AUG-2010",
+  "active_ingredients": [
+    {
+      "name": "BECLOMETHASONE DIPROPIONATE",
+      "strength": "50",
+      "unit": "MCG"
+    }
+  ],
+  "forms": [
+    "METERED-DOSE AEROSOL",
+    "SUSPENSION"
+  ],
+  "routes": [
+    "NASAL"
+  ],
+  "companies": [
+    "MYLAN PHARMACEUTICALS ULC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "BECLOMETHASONE"
+  ]
+}

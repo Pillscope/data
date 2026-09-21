@@ -1,0 +1,28 @@
+{
+  "drug_code": "90449",
+  "din": "02419874",
+  "brand_name": "ACCEL-DONEPEZIL",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "20-JAN-2015",
+  "active_ingredients": [
+    {
+      "name": "DONEPEZIL HYDROCHLORIDE",
+      "strength": "10",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "ACCEL PHARMA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "DONEPEZIL"
+  ]
+}

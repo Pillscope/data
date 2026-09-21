@@ -1,0 +1,28 @@
+{
+  "drug_code": "64341",
+  "din": "02240752",
+  "brand_name": "TEINT DIORLIFT",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "21-SEP-2003",
+  "active_ingredients": [
+    {
+      "name": "OCTINOXATE",
+      "strength": "3",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "EMULSION"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "PARFUMS CHRISTIAN DIOR"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "OCTYL METHOXYCINNAMATE"
+  ]
+}

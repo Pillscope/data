@@ -1,0 +1,39 @@
+{
+  "drug_code": "94512",
+  "din": "02458063",
+  "brand_name": "VENCLEXTA",
+  "class": "Human",
+  "descriptor": "STARTER KIT",
+  "last_update": "22-JAN-2018",
+  "active_ingredients": [
+    {
+      "name": "VENETOCLAX",
+      "strength": "100",
+      "unit": "MG"
+    },
+    {
+      "name": "VENETOCLAX",
+      "strength": "10",
+      "unit": "MG"
+    },
+    {
+      "name": "VENETOCLAX",
+      "strength": "50",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "KIT",
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "ABBVIE CORPORATION"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "VENETOCLAX"
+  ]
+}

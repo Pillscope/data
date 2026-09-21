@@ -1,0 +1,81 @@
+{
+  "drug_code": "12923",
+  "din": "01941151",
+  "brand_name": "STRESS-LYTE PWS",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "23-MAR-2005",
+  "active_ingredients": [
+    {
+      "name": "THIAMINE HYDROCHLORIDE",
+      "strength": ".57",
+      "unit": "MG"
+    },
+    {
+      "name": "NICOTINAMIDE",
+      "strength": "8.4",
+      "unit": "MG"
+    },
+    {
+      "name": "D-PANTOTHENIC ACID (CALCIUM D-PANTOTHENATE)",
+      "strength": "7.1",
+      "unit": "MG"
+    },
+    {
+      "name": "PYRIDOXINE HYDROCHLORIDE",
+      "strength": "1.38",
+      "unit": "MG"
+    },
+    {
+      "name": "RIBOFLAVIN 5'-PHOSPHATE SODIUM",
+      "strength": "1.2",
+      "unit": "MG"
+    },
+    {
+      "name": "BIOTIN",
+      "strength": "60.6",
+      "unit": "MCG"
+    },
+    {
+      "name": "VITAMIN E",
+      "strength": "2.42",
+      "unit": "UNIT"
+    },
+    {
+      "name": "POTASSIUM BICARBONATE",
+      "strength": "206",
+      "unit": "MG"
+    },
+    {
+      "name": "SODIUM CHLORIDE",
+      "strength": "42.6",
+      "unit": "MG"
+    },
+    {
+      "name": "SODIUM ACETATE",
+      "strength": "344",
+      "unit": "MG"
+    },
+    {
+      "name": "VITAMIN B12",
+      "strength": "2.7",
+      "unit": "MCG"
+    },
+    {
+      "name": "MENADIONE SODIUM BISULFITE",
+      "strength": "2.43",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "POWDER FOR SOLUTION"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "CITADEL ANIMAL HEALTH"
+  ],
+  "status": "MARKETED",
+  "atc": []
+}

@@ -1,0 +1,28 @@
+{
+  "drug_code": "84228",
+  "din": "02357143",
+  "brand_name": "JAMP-SERTRALINE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "18-JAN-2013",
+  "active_ingredients": [
+    {
+      "name": "SERTRALINE (SERTRALINE HYDROCHLORIDE)",
+      "strength": "25",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "CAPSULE"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "JAMP PHARMA CORPORATION"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "SERTRALINE"
+  ]
+}

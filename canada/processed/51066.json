@@ -1,0 +1,28 @@
+{
+  "drug_code": "51066",
+  "din": "02231689",
+  "brand_name": "LABETALOL HYDROCHLORIDE INJECTION USP",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "05-MAY-2015",
+  "active_ingredients": [
+    {
+      "name": "LABETALOL HYDROCHLORIDE",
+      "strength": "5",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "LIQUID"
+  ],
+  "routes": [
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "SANDOZ CANADA INCORPORATED"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "LABETALOL"
+  ]
+}

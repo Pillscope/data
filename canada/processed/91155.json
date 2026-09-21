@@ -1,0 +1,28 @@
+{
+  "drug_code": "91155",
+  "din": "02427028",
+  "brand_name": "VAN-CIPROFLOXACIN",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "19-JAN-2017",
+  "active_ingredients": [
+    {
+      "name": "CIPROFLOXACIN (CIPROFLOXACIN HYDROCHLORIDE)",
+      "strength": "750",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "VANC PHARMACEUTICALS INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "CIPROFLOXACIN"
+  ]
+}

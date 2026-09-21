@@ -1,0 +1,29 @@
+{
+  "drug_code": "9221",
+  "din": "00653047",
+  "brand_name": "D FEND",
+  "class": "Disinfectant",
+  "descriptor": "",
+  "last_update": "04-OCT-2012",
+  "active_ingredients": [
+    {
+      "name": "BENZALKONIUM CHLORIDE",
+      "strength": "2",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "DISINFECTANT (Food Premises)",
+    "DISINFECTANT (Hospital/HC Facilities)"
+  ],
+  "companies": [
+    "CONSTANT AMERICA INC"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "TECHNICAL DISINFECTANTS"
+  ]
+}

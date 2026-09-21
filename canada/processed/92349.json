@@ -1,0 +1,28 @@
+{
+  "drug_code": "92349",
+  "din": "02439107",
+  "brand_name": "PANTOPRAZOLE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "30-OCT-2015",
+  "active_ingredients": [
+    {
+      "name": "PANTOPRAZOLE (PANTOPRAZOLE SODIUM SESQUIHYDRATE)",
+      "strength": "40",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET (DELAYED-RELEASE)"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "DOMINION PHARMACAL"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "PANTOPRAZOLE"
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "drug_code": "10471",
+  "din": "00792527",
+  "brand_name": "COSAN #160 DISINFECTANT",
+  "class": "Disinfectant",
+  "descriptor": "",
+  "last_update": "20-NOV-2009",
+  "active_ingredients": [
+    {
+      "name": "BENZALKONIUM CHLORIDE",
+      "strength": "0.8",
+      "unit": "%"
+    },
+    {
+      "name": "ALKYL DIMETHYL ETHYLBENZYL AMMONIUM CHLORIDE",
+      "strength": "0.8",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "LIQUID"
+  ],
+  "routes": [
+    "DISINFECTANT (Food Premises)",
+    "DISINFECTANT (Hospital/HC Facilities)"
+  ],
+  "companies": [
+    "LES INDUSTRIES COBOL LT\u00c3\u0089E"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "TECHNICAL DISINFECTANTS"
+  ]
+}

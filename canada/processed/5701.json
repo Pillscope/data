@@ -1,0 +1,26 @@
+{
+  "drug_code": "5701",
+  "din": "00140481",
+  "brand_name": "AMPROL",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "24-AUG-2016",
+  "active_ingredients": [
+    {
+      "name": "AMPROLIUM",
+      "strength": "9.6",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "HUVEPHARMA EOOD"
+  ],
+  "status": "APPROVED",
+  "atc": []
+}

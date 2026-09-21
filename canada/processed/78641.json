@@ -1,0 +1,28 @@
+{
+  "drug_code": "78641",
+  "din": "02301067",
+  "brand_name": "EPIRUBICIN HYDROCHLORIDE FOR INJECTION",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "08-SEP-2008",
+  "active_ingredients": [
+    {
+      "name": "EPIRUBICIN HYDROCHLORIDE",
+      "strength": "50",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "POWDER FOR SOLUTION"
+  ],
+  "routes": [
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "HOSPIRA HEALTHCARE CORPORATION"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "EPIRUBICIN"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "drug_code": "69296",
+  "din": "02245273",
+  "brand_name": "AMARYL",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "15-OCT-2008",
+  "active_ingredients": [
+    {
+      "name": "GLIMEPIRIDE",
+      "strength": "2",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "SANOFI-AVENTIS CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "GLIMEPIRIDE"
+  ]
+}

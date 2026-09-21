@@ -1,0 +1,28 @@
+{
+  "drug_code": "78993",
+  "din": "02304678",
+  "brand_name": "SANDOZ ALFUZOSIN",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "30-APR-2010",
+  "active_ingredients": [
+    {
+      "name": "ALFUZOSIN HYDROCHLORIDE",
+      "strength": "10",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET (EXTENDED-RELEASE)"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "SANDOZ CANADA INCORPORATED"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "ALFUZOSIN"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "drug_code": "94156",
+  "din": "02454807",
+  "brand_name": "SANDOZ DICLOFENAC OPHTHA",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "28-OCT-2016",
+  "active_ingredients": [
+    {
+      "name": "DICLOFENAC SODIUM",
+      "strength": "0.1",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "OPHTHALMIC"
+  ],
+  "companies": [
+    "SANDOZ CANADA INCORPORATED"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "DICLOFENAC"
+  ]
+}

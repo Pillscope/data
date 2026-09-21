@@ -1,0 +1,28 @@
+{
+  "drug_code": "90012",
+  "din": "02415534",
+  "brand_name": "DUREZOL",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "17-MAR-2017",
+  "active_ingredients": [
+    {
+      "name": "Difluprednate",
+      "strength": "0.05",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "EMULSION"
+  ],
+  "routes": [
+    "OPHTHALMIC"
+  ],
+  "companies": [
+    "NOVARTIS PHARMACEUTICALS CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "CORTICOSTEROIDS, PLAIN"
+  ]
+}

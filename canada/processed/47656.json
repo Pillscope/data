@@ -1,0 +1,28 @@
+{
+  "drug_code": "47656",
+  "din": "02229668",
+  "brand_name": "PEPTO-BISMOL EXTRA",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "29-APR-2015",
+  "active_ingredients": [
+    {
+      "name": "BISMUTH SUBSALICYLATE",
+      "strength": "35.2",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "LIQUID"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "PROCTER & GAMBLE INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "BISMUTH PREPARATIONS"
+  ]
+}

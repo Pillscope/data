@@ -1,0 +1,34 @@
+{
+  "drug_code": "10052",
+  "din": "00770957",
+  "brand_name": "PRAMOX HC CREAM",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "10-MAY-2016",
+  "active_ingredients": [
+    {
+      "name": "PRAMOXINE HYDROCHLORIDE",
+      "strength": "1",
+      "unit": "%"
+    },
+    {
+      "name": "HYDROCORTISONE",
+      "strength": "1",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "CREAM"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "DERMTEK PHARMA INC"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "HYDROCORTISONE",
+    "HYDROCORTISONE"
+  ]
+}

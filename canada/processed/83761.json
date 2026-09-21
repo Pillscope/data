@@ -1,0 +1,28 @@
+{
+  "drug_code": "83761",
+  "din": "02352346",
+  "brand_name": "JAMP-ROPINIROLE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "21-JUN-2010",
+  "active_ingredients": [
+    {
+      "name": "ROPINIROLE (ROPINIROLE HYDROCHLORIDE)",
+      "strength": "1.0",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "JAMP PHARMA CORPORATION"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "ROPINIROLE"
+  ]
+}

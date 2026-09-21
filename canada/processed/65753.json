@@ -1,0 +1,28 @@
+{
+  "drug_code": "65753",
+  "din": "02242079",
+  "brand_name": "RIVA-CYCLOBENZAPRINE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "05-MAY-2015",
+  "active_ingredients": [
+    {
+      "name": "CYCLOBENZAPRINE HYDROCHLORIDE",
+      "strength": "10",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "LABORATOIRE RIVA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "CYCLOBENZAPRINE"
+  ]
+}

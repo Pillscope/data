@@ -1,0 +1,33 @@
+{
+  "drug_code": "87265",
+  "din": "02387085",
+  "brand_name": "OVIMA 21",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "28-AUG-2013",
+  "active_ingredients": [
+    {
+      "name": "LEVONORGESTREL",
+      "strength": "150",
+      "unit": "MCG"
+    },
+    {
+      "name": "ETHINYL ESTRADIOL",
+      "strength": "30",
+      "unit": "MCG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "APOTEX INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "LEVONORGESTREL AND ESTROGEN"
+  ]
+}

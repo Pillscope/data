@@ -1,0 +1,39 @@
+{
+  "drug_code": "15805",
+  "din": "02047667",
+  "brand_name": "MERSYNDOL WITH CODEINE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "16-MAY-2014",
+  "active_ingredients": [
+    {
+      "name": "CODEINE PHOSPHATE",
+      "strength": "8",
+      "unit": "MG"
+    },
+    {
+      "name": "DOXYLAMINE SUCCINATE",
+      "strength": "5",
+      "unit": "MG"
+    },
+    {
+      "name": "ACETAMINOPHEN",
+      "strength": "325",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "SANOFI-AVENTIS CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "ACETAMINOPHEN, COMB EXCL PSYCHOLEPTICS",
+    "ACETAMINOPHEN, COMB EXCL PSYCHOLEPTICS"
+  ]
+}

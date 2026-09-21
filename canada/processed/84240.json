@@ -1,0 +1,28 @@
+{
+  "drug_code": "84240",
+  "din": "02357275",
+  "brand_name": "IBUPROFEN LIQUID CAPSULES",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "09-AUG-2016",
+  "active_ingredients": [
+    {
+      "name": "IBUPROFEN",
+      "strength": "200",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "CAPSULE"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "VITA HEALTH PRODUCTS INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "IBUPROFEN"
+  ]
+}

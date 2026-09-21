@@ -1,0 +1,38 @@
+{
+  "drug_code": "92260",
+  "din": "02438232",
+  "brand_name": "RENERGIE LIFT MULTI-ACTION SPF 15 FIRMING MOISTURIZING CREAM ALL SKIN TYPES",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "24-SEP-2015",
+  "active_ingredients": [
+    {
+      "name": "AVOBENZONE",
+      "strength": "3",
+      "unit": "%"
+    },
+    {
+      "name": "OCTOCRYLENE",
+      "strength": "7",
+      "unit": "%"
+    },
+    {
+      "name": "OCTISALATE",
+      "strength": "5",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "CREAM"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "LANCOME CANADA"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "COMBINATIONS OF PROTECTIVES AGAINST UV-RADIATION"
+  ]
+}

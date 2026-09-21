@@ -1,0 +1,28 @@
+{
+  "drug_code": "50220",
+  "din": "02230942",
+  "brand_name": "PMS-BUSPIRONE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "28-MAR-2006",
+  "active_ingredients": [
+    {
+      "name": "BUSPIRONE HYDROCHLORIDE",
+      "strength": "10",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "PHARMASCIENCE INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "BUSPIRONE"
+  ]
+}

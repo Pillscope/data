@@ -1,0 +1,28 @@
+{
+  "drug_code": "87405",
+  "din": "02388529",
+  "brand_name": "RIVA-CLOPIDOGREL",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "25-MAY-2017",
+  "active_ingredients": [
+    {
+      "name": "CLOPIDOGREL (CLOPIDOGREL BISULFATE)",
+      "strength": "75",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "LABORATOIRE RIVA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "CLOPIDOGREL"
+  ]
+}

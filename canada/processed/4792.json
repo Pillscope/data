@@ -1,0 +1,33 @@
+{
+  "drug_code": "4792",
+  "din": "00316288",
+  "brand_name": "DILUENT STERILE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "01-DEC-2009",
+  "active_ingredients": [
+    {
+      "name": "PHENOL",
+      "strength": "5",
+      "unit": "MG"
+    },
+    {
+      "name": "SODIUM CHLORIDE",
+      "strength": "9",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "LIQUID"
+  ],
+  "routes": [
+    "SUBCUTANEOUS"
+  ],
+  "companies": [
+    "OMEGA LABORATORIES LTD"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "SOLVENTS AND DILUTING AGENTS,INCL IRRIGAT SOLUT"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "drug_code": "90775",
+  "din": "02423022",
+  "brand_name": "MEDICLEAN BOTANIPURE",
+  "class": "Disinfectant",
+  "descriptor": "",
+  "last_update": "01-AUG-2017",
+  "active_ingredients": [
+    {
+      "name": "THYMOL",
+      "strength": "0.051",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "LIQUID"
+  ],
+  "routes": [
+    "DISINFECTANT (Institutional/Industrial)"
+  ],
+  "companies": [
+    "PRORESTORE PRODUCTS"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "TECHNICAL DISINFECTANTS"
+  ]
+}

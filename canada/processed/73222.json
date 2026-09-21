@@ -1,0 +1,28 @@
+{
+  "drug_code": "73222",
+  "din": "02248851",
+  "brand_name": "ACTIVE 4",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "05-SEP-2017",
+  "active_ingredients": [
+    {
+      "name": "HYDROQUINONE",
+      "strength": "4",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "CREAM"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "VIVIER CANADA INCORPORATED"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "HYDROQUINONE"
+  ]
+}

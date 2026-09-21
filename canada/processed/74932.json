@@ -1,0 +1,28 @@
+{
+  "drug_code": "74932",
+  "din": "02263912",
+  "brand_name": "METHACHOLINE OMEGA",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "27-OCT-2006",
+  "active_ingredients": [
+    {
+      "name": "METHACHOLINE CHLORIDE",
+      "strength": "1600",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "POWDER FOR SOLUTION"
+  ],
+  "routes": [
+    "INHALATION"
+  ],
+  "companies": [
+    "OMEGA LABORATORIES LTD"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "OTHER DIAGNOSTIC AGENTS"
+  ]
+}

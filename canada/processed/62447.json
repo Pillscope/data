@@ -1,0 +1,28 @@
+{
+  "drug_code": "62447",
+  "din": "02238998",
+  "brand_name": "RHO-NITRO PUMPSPRAY",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "29-APR-2015",
+  "active_ingredients": [
+    {
+      "name": "NITROGLYCERIN",
+      "strength": "0.4",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "METERED-DOSE PUMP"
+  ],
+  "routes": [
+    "SUBLINGUAL"
+  ],
+  "companies": [
+    "SANDOZ CANADA INCORPORATED"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "GLYCERYL TRINITRATE"
+  ]
+}

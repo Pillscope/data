@@ -1,0 +1,28 @@
+{
+  "drug_code": "83196",
+  "din": "02346532",
+  "brand_name": "RIVA-CLARITHROMYCIN",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "23-JUN-2010",
+  "active_ingredients": [
+    {
+      "name": "CLARITHROMYCIN",
+      "strength": "500",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "LABORATOIRE RIVA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "CLARITHROMYCIN"
+  ]
+}

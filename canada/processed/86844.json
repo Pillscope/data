@@ -1,0 +1,37 @@
+{
+  "drug_code": "86844",
+  "din": "02382628",
+  "brand_name": "MONICURE COMBO",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "28-MAY-2013",
+  "active_ingredients": [
+    {
+      "name": "MICONAZOLE NITRATE",
+      "strength": "2",
+      "unit": "%"
+    },
+    {
+      "name": "FLUCONAZOLE",
+      "strength": "150",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "KIT",
+    "CAPSULE",
+    "CREAM"
+  ],
+  "routes": [
+    "ORAL",
+    "TOPICAL"
+  ],
+  "companies": [
+    "INSIGHT PHARMACEUTICALS LLC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "FLUCONAZOLE",
+    "FLUCONAZOLE"
+  ]
+}

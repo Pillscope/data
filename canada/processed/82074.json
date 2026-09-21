@@ -1,0 +1,93 @@
+{
+  "drug_code": "82074",
+  "din": "02335204",
+  "brand_name": "PREVNAR 13",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "29-APR-2013",
+  "active_ingredients": [
+    {
+      "name": "CORYNEBACTERIUM DIPHTHERIAE CRM-197 PROTEIN",
+      "strength": "34",
+      "unit": "MCG"
+    },
+    {
+      "name": "PNEUMOCOCCAL POLYSACCHARIDE SEROTYPE 14",
+      "strength": "2.2",
+      "unit": "MCG"
+    },
+    {
+      "name": "PNEUMOCOCCAL POLYSACCHARIDE SEROTYPE 18C",
+      "strength": "2.2",
+      "unit": "MCG"
+    },
+    {
+      "name": "PNEUMOCOCCAL POLYSACCHARIDE SEROTYPE 19F",
+      "strength": "2.2",
+      "unit": "MCG"
+    },
+    {
+      "name": "PNEUMOCOCCAL POLYSACCHARIDE SEROTYPE 23F",
+      "strength": "2.2",
+      "unit": "MCG"
+    },
+    {
+      "name": "PNEUMOCOCCAL POLYSACCHARIDE SEROTYPE 4",
+      "strength": "2.2",
+      "unit": "MCG"
+    },
+    {
+      "name": "PNEUMOCOCCAL POLYSACCHARIDE SEROTYPE 6B",
+      "strength": "4.4",
+      "unit": "MCG"
+    },
+    {
+      "name": "PNEUMOCOCCAL POLYSACCHARIDE SEROTYPE 9V",
+      "strength": "2.2",
+      "unit": "MCG"
+    },
+    {
+      "name": "PNEUMOCOCCAL POLYSACCHARIDE SEROTYPE 3",
+      "strength": "2.2",
+      "unit": "MCG"
+    },
+    {
+      "name": "PNEUMOCOCCAL POLYSACCHARIDE SEROTYPE 5",
+      "strength": "2.2",
+      "unit": "MCG"
+    },
+    {
+      "name": "PNEUMOCOCCAL POLYSACCHARIDE SEROTYPE 6A",
+      "strength": "2.2",
+      "unit": "MCG"
+    },
+    {
+      "name": "PNEUMOCOCCAL POLYSACCHARIDE SEROTYPE 7F",
+      "strength": "2.2",
+      "unit": "MCG"
+    },
+    {
+      "name": "PNEUMOCOCCAL POLYSACCHARIDE SEROTYPE 1",
+      "strength": "2.2",
+      "unit": "MCG"
+    },
+    {
+      "name": "PNEUMOCOCCAL POLYSACCHARIDE SEROTYPE 19A",
+      "strength": "2.2",
+      "unit": "MCG"
+    }
+  ],
+  "forms": [
+    "SUSPENSION"
+  ],
+  "routes": [
+    "INTRAMUSCULAR"
+  ],
+  "companies": [
+    "PFIZER CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "PNEUMOCOCCUS, PURIFIED POLYSACC.ANTIGEN CONJUGATED"
+  ]
+}

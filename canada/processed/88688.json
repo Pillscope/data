@@ -1,0 +1,43 @@
+{
+  "drug_code": "88688",
+  "din": "02402009",
+  "brand_name": "CLINIQUE AGE DEFENSE BB CREAM SPF 30",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "01-NOV-2013",
+  "active_ingredients": [
+    {
+      "name": "ZINC OXIDE",
+      "strength": "2.2",
+      "unit": "%"
+    },
+    {
+      "name": "TITANIUM DIOXIDE",
+      "strength": "3.5",
+      "unit": "%"
+    },
+    {
+      "name": "OCTISALATE",
+      "strength": "4.4",
+      "unit": "%"
+    },
+    {
+      "name": "OCTINOXATE",
+      "strength": "7.5",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "CREAM"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "CLINIQUE LABORATORIES DIST"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "COMBINATIONS OF PROTECTIVES AGAINST UV-RADIATION"
+  ]
+}

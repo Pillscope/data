@@ -1,0 +1,28 @@
+{
+  "drug_code": "16965",
+  "din": "02126761",
+  "brand_name": "TEVA-NADOLOL",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "05-MAY-2015",
+  "active_ingredients": [
+    {
+      "name": "NADOLOL",
+      "strength": "80",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "TEVA CANADA LIMITED"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "NADOLOL"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "drug_code": "92747",
+  "din": "02442949",
+  "brand_name": "NIFEDIPINE ER",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "16-JUN-2016",
+  "active_ingredients": [
+    {
+      "name": "NIFEDIPINE",
+      "strength": "60",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET (EXTENDED-RELEASE)"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "SIVEM PHARMACEUTICALS ULC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "NIFEDIPINE"
+  ]
+}

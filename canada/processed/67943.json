@@ -1,0 +1,28 @@
+{
+  "drug_code": "67943",
+  "din": "02244000",
+  "brand_name": "ESTRADOT 50",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "01-NOV-2017",
+  "active_ingredients": [
+    {
+      "name": "ESTRADIOL",
+      "strength": "50",
+      "unit": "MCG"
+    }
+  ],
+  "forms": [
+    "PATCH"
+  ],
+  "routes": [
+    "TRANSDERMAL"
+  ],
+  "companies": [
+    "NOVARTIS PHARMACEUTICALS CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "ESTRADIOL"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "drug_code": "16482",
+  "din": "02014181",
+  "brand_name": "UNIPHYL",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "19-MAY-2009",
+  "active_ingredients": [
+    {
+      "name": "THEOPHYLLINE",
+      "strength": "600",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET (EXTENDED-RELEASE)"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "PURDUE PHARMA"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "THEOPHYLLINE"
+  ]
+}

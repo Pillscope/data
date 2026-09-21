@@ -1,0 +1,28 @@
+{
+  "drug_code": "80970",
+  "din": "02324229",
+  "brand_name": "PMS-ZOLMITRIPTAN",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "11-JUN-2012",
+  "active_ingredients": [
+    {
+      "name": "ZOLMITRIPTAN",
+      "strength": "2.5",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "PHARMASCIENCE INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "ZOLMITRIPTAN"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "drug_code": "94823",
+  "din": "02460742",
+  "brand_name": "COSMONAUT 52",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "01-FEB-2018",
+  "active_ingredients": [
+    {
+      "name": "IODINE (NONYLPHENOXYPOLY(ETHYLENEOXY)ETHANOL-IODINE COMPLEX)",
+      "strength": "0.5",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "LONDON DAIRY SUPPLY LTD"
+  ],
+  "status": "APPROVED",
+  "atc": []
+}

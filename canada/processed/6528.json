@@ -1,0 +1,31 @@
+{
+  "drug_code": "6528",
+  "din": "00602841",
+  "brand_name": "TOPAGEN",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "13-MAY-2014",
+  "active_ingredients": [
+    {
+      "name": "BETAMETHASONE (BETAMETHASONE VALERATE)",
+      "strength": "0.284",
+      "unit": "MG"
+    },
+    {
+      "name": "GENTAMICIN (GENTAMICIN SULFATE)",
+      "strength": "0.57",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SPRAY"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "INTERVET CANADA CORP"
+  ],
+  "status": "APPROVED",
+  "atc": []
+}

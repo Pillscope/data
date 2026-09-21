@@ -1,0 +1,26 @@
+{
+  "drug_code": "6664",
+  "din": "00641987",
+  "brand_name": "REGU-MATE SOLUTION 0.22%",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "05-MAY-2015",
+  "active_ingredients": [
+    {
+      "name": "ALTRENOGEST",
+      "strength": "2.2",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "INTERVET CANADA CORP"
+  ],
+  "status": "APPROVED",
+  "atc": []
+}

@@ -1,0 +1,28 @@
+{
+  "drug_code": "49287",
+  "din": "02230417",
+  "brand_name": "HEMABATE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "13-MAY-2009",
+  "active_ingredients": [
+    {
+      "name": "CARBOPROST (CARBOPROST TROMETHAMINE)",
+      "strength": "250",
+      "unit": "MCG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "INTRAMUSCULAR"
+  ],
+  "companies": [
+    "PFIZER CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "CARBOPROST"
+  ]
+}

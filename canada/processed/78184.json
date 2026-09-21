@@ -1,0 +1,35 @@
+{
+  "drug_code": "78184",
+  "din": "02296519",
+  "brand_name": "BIS-O-NET #6",
+  "class": "Disinfectant",
+  "descriptor": "",
+  "last_update": "14-JUN-2017",
+  "active_ingredients": [
+    {
+      "name": "BENZALKONIUM CHLORIDE",
+      "strength": "0.8",
+      "unit": "%"
+    },
+    {
+      "name": "ALKYL DIMETHYL ETHYLBENZYL AMMONIUM CHLORIDE",
+      "strength": "0.8",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "LIQUID"
+  ],
+  "routes": [
+    "DISINFECTANT (Food Premises)",
+    "DISINFECTANT (Hospital/HC Facilities)",
+    "DISINFECTANT (Domestic)"
+  ],
+  "companies": [
+    "GROUPE BISSONNETTE INC"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "TECHNICAL DISINFECTANTS"
+  ]
+}

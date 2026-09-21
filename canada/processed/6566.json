@@ -1,0 +1,46 @@
+{
+  "drug_code": "6566",
+  "din": "00652814",
+  "brand_name": "ULTRA-SEL",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "04-NOV-2003",
+  "active_ingredients": [
+    {
+      "name": "COBALT SULFATE",
+      "strength": "35",
+      "unit": "MCG"
+    },
+    {
+      "name": "SODIUM SELENITE",
+      "strength": "85",
+      "unit": "MCG"
+    },
+    {
+      "name": "VITAMIN E",
+      "strength": "35",
+      "unit": "UNIT"
+    },
+    {
+      "name": "CALCIUM PHOSPHATE (DIBASIC)",
+      "strength": "11",
+      "unit": "MG"
+    },
+    {
+      "name": "ETHOXYQUIN",
+      "strength": "353",
+      "unit": "MCG"
+    }
+  ],
+  "forms": [
+    "POWDER"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "UNIVET PHARMACEUTICALS LTD."
+  ],
+  "status": "MARKETED",
+  "atc": []
+}

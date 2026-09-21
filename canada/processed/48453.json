@@ -1,0 +1,28 @@
+{
+  "drug_code": "48453",
+  "din": "02229994",
+  "brand_name": "DOM-METFORMIN",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "11-JUL-2016",
+  "active_ingredients": [
+    {
+      "name": "METFORMIN HYDROCHLORIDE",
+      "strength": "500",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "DOMINION PHARMACAL"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "METFORMIN"
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "drug_code": "85985",
+  "din": "02374528",
+  "brand_name": "LIFTACTIV UV",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "05-JUN-2012",
+  "active_ingredients": [
+    {
+      "name": "AVOBENZONE",
+      "strength": "3",
+      "unit": "%"
+    },
+    {
+      "name": "OCTOCRYLENE",
+      "strength": "7",
+      "unit": "%"
+    },
+    {
+      "name": "OCTISALATE",
+      "strength": "5",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "CREAM"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "VICHY CANADA"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "COMBINATIONS OF PROTECTIVES AGAINST UV-RADIATION"
+  ]
+}

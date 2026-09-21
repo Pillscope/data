@@ -1,0 +1,28 @@
+{
+  "drug_code": "68363",
+  "din": "02244394",
+  "brand_name": "APO-CEFUROXIME",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "02-AUG-2007",
+  "active_ingredients": [
+    {
+      "name": "CEFUROXIME (CEFUROXIME AXETIL)",
+      "strength": "500",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "APOTEX INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "CEFUROXIME"
+  ]
+}

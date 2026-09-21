@@ -1,0 +1,26 @@
+{
+  "drug_code": "64983",
+  "din": "02241352",
+  "brand_name": "HEXADENE FLUSH",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "29-OCT-2001",
+  "active_ingredients": [
+    {
+      "name": "CHLORHEXIDINE GLUCONATE",
+      "strength": "0.25",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "LIQUID"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "VIRBAC AH INC"
+  ],
+  "status": "MARKETED",
+  "atc": []
+}

@@ -1,0 +1,38 @@
+{
+  "drug_code": "94717",
+  "din": "02459868",
+  "brand_name": "ESTEE LAUDER DOUBLE WEAR NUDE WATER FRESH MAKEUP SPF 30",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "08-AUG-2017",
+  "active_ingredients": [
+    {
+      "name": "ZINC OXIDE",
+      "strength": "2.2",
+      "unit": "%"
+    },
+    {
+      "name": "TITANIUM DIOXIDE",
+      "strength": "3.1",
+      "unit": "%"
+    },
+    {
+      "name": "OCTINOXATE",
+      "strength": "5",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "LIQUID"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "ESTEE LAUDER DIST"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "OCTYL METHOXYCINNAMATE"
+  ]
+}

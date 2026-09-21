@@ -1,0 +1,44 @@
+{
+  "drug_code": "93779",
+  "din": "02451506",
+  "brand_name": "HAND TREATMENT REGIMEN",
+  "class": "Human",
+  "descriptor": "CONTAINS 1 SUNSCREEN AND 1 COSMETIC",
+  "last_update": "18-MAY-2016",
+  "active_ingredients": [
+    {
+      "name": "AVOBENZONE",
+      "strength": "3",
+      "unit": "%"
+    },
+    {
+      "name": "OCTOCRYLENE",
+      "strength": "2.7",
+      "unit": "%"
+    },
+    {
+      "name": "OCTISALATE",
+      "strength": "5",
+      "unit": "%"
+    },
+    {
+      "name": "HOMOSALATE",
+      "strength": "2.5",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "KIT",
+    "STICK"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "RODAN & FIELDS LLC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "COMBINATIONS OF PROTECTIVES AGAINST UV-RADIATION"
+  ]
+}

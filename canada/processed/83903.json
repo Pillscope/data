@@ -1,0 +1,43 @@
+{
+  "drug_code": "83903",
+  "din": "02353822",
+  "brand_name": "FIVE STAR LIP PROTECTION",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "31-JUL-2012",
+  "active_ingredients": [
+    {
+      "name": "OXYBENZONE",
+      "strength": "5.0",
+      "unit": "%"
+    },
+    {
+      "name": "OCTISALATE",
+      "strength": "5.0",
+      "unit": "%"
+    },
+    {
+      "name": "HOMOSALATE",
+      "strength": "9.6",
+      "unit": "%"
+    },
+    {
+      "name": "OCTINOXATE",
+      "strength": "7.5",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "STICK"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "BLISTEX CORPORATION"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "COMBINATIONS OF PROTECTIVES AGAINST UV-RADIATION"
+  ]
+}

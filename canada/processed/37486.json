@@ -1,0 +1,30 @@
+{
+  "drug_code": "37486",
+  "din": "02226944",
+  "brand_name": "ALLERGENIC EXTRACT - NON-POLLENS",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "29-APR-2015",
+  "active_ingredients": [
+    {
+      "name": "NON POLLEN",
+      "strength": "500",
+      "unit": "UNIT"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "INTRADERMAL",
+    "SUBCUTANEOUS",
+    "PERCUTANEOUS"
+  ],
+  "companies": [
+    "JUBILANT HOLLISTERSTIER LLC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "VARIOUS"
+  ]
+}

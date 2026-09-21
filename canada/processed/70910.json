@@ -1,0 +1,31 @@
+{
+  "drug_code": "70910",
+  "din": "02246715",
+  "brand_name": "BAYTRIL OTIC",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "28-OCT-2013",
+  "active_ingredients": [
+    {
+      "name": "SILVER SULFADIAZINE",
+      "strength": "10",
+      "unit": "MG"
+    },
+    {
+      "name": "ENROFLOXACIN",
+      "strength": "5",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "EMULSION"
+  ],
+  "routes": [
+    "OTIC"
+  ],
+  "companies": [
+    "BAYER INC., ANIMAL HEALTH"
+  ],
+  "status": "APPROVED",
+  "atc": []
+}

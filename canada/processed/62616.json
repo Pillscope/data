@@ -1,0 +1,33 @@
+{
+  "drug_code": "62616",
+  "din": "02239160",
+  "brand_name": "ZINCOFAX EXTRA STRENGTH",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "22-NOV-2012",
+  "active_ingredients": [
+    {
+      "name": "ZINC OXIDE",
+      "strength": "40",
+      "unit": "%"
+    },
+    {
+      "name": "WHITE PETROLATUM",
+      "strength": "47",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "OINTMENT"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "PALADIN LABS INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "ZINC PRODUCTS"
+  ]
+}

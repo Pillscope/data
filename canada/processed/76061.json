@@ -1,0 +1,28 @@
+{
+  "drug_code": "76061",
+  "din": "02275104",
+  "brand_name": "WELLBUTRIN XL",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "31-MAR-2014",
+  "active_ingredients": [
+    {
+      "name": "BUPROPION HYDROCHLORIDE",
+      "strength": "300",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET (EXTENDED-RELEASE)"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "VALEANT CANADA LP/VALEANT CANADA S.E.C."
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "BUPROPION"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "drug_code": "3192",
+  "din": "00406775",
+  "brand_name": "LITHANE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "15-NOV-2006",
+  "active_ingredients": [
+    {
+      "name": "LITHIUM CARBONATE",
+      "strength": "300",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "CAPSULE"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "ERFA CANADA 2012 INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "LITHIUM"
+  ]
+}

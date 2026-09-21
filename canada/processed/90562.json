@@ -1,0 +1,34 @@
+{
+  "drug_code": "90562",
+  "din": "02421038",
+  "brand_name": "AURO-CANDESARTAN HCT",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "18-JAN-2017",
+  "active_ingredients": [
+    {
+      "name": "CANDESARTAN CILEXETIL",
+      "strength": "16",
+      "unit": "MG"
+    },
+    {
+      "name": "HYDROCHLOROTHIAZIDE",
+      "strength": "12.5",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "AURO PHARMA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "CANDERSARTAN AND DIURETICS",
+    "CANDERSARTAN AND DIURETICS"
+  ]
+}

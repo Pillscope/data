@@ -1,0 +1,26 @@
+{
+  "drug_code": "4877",
+  "din": "00530646",
+  "brand_name": "ONYCIN 1000",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "02-JAN-2018",
+  "active_ingredients": [
+    {
+      "name": "TETRACYCLINE HYDROCHLORIDE",
+      "strength": "1000",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "POWDER FOR SOLUTION"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "VETOQUINOL N A INC"
+  ],
+  "status": "APPROVED",
+  "atc": []
+}

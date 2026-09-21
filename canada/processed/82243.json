@@ -1,0 +1,28 @@
+{
+  "drug_code": "82243",
+  "din": "02336812",
+  "brand_name": "ACNE TREATMENT LOTION",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "15-MAY-2014",
+  "active_ingredients": [
+    {
+      "name": "BENZOYL PEROXIDE",
+      "strength": "5",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "LOTION"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "VIVIER CANADA INCORPORATED"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "BENZOYL PEROXIDE"
+  ]
+}

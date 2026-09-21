@@ -1,0 +1,31 @@
+{
+  "drug_code": "88896",
+  "din": "02404176",
+  "brand_name": "AUTOCHLORHEX CANADA",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "08-JUL-2014",
+  "active_ingredients": [
+    {
+      "name": "GLYCERINE",
+      "strength": "3.0",
+      "unit": "%"
+    },
+    {
+      "name": "CHLORHEXIDINE (CHLORHEXIDINE ACETATE)",
+      "strength": "0.5",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "AGRISAN SPECIALTY CHEMICAL & PHARMACEUTICAL"
+  ],
+  "status": "MARKETED",
+  "atc": []
+}

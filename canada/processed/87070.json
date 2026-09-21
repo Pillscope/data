@@ -1,0 +1,28 @@
+{
+  "drug_code": "87070",
+  "din": "02385031",
+  "brand_name": "JAMP-ALENDRONATE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "08-JAN-2014",
+  "active_ingredients": [
+    {
+      "name": "ALENDRONIC ACID (ALENDRONATE SODIUM)",
+      "strength": "70",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "JAMP PHARMA CORPORATION"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "ALENDRONIC ACID"
+  ]
+}

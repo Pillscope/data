@@ -1,0 +1,43 @@
+{
+  "drug_code": "76138",
+  "din": "02275716",
+  "brand_name": "REGULAR STRENGTH TYLENOL COLD NIGHTTIME",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "03-NOV-2015",
+  "active_ingredients": [
+    {
+      "name": "PHENYLEPHRINE HYDROCHLORIDE",
+      "strength": "5",
+      "unit": "MG"
+    },
+    {
+      "name": "CHLORPHENIRAMINE MALEATE",
+      "strength": "2",
+      "unit": "MG"
+    },
+    {
+      "name": "ACETAMINOPHEN",
+      "strength": "325",
+      "unit": "MG"
+    },
+    {
+      "name": "DEXTROMETHORPHAN HYDROBROMIDE",
+      "strength": "10",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "MCNEIL CONSUMER HEALTHCARE DIVISION OF JOHNSON & JOHNSON INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "ACETAMINOPHEN, COMB EXCL PSYCHOLEPTICS"
+  ]
+}

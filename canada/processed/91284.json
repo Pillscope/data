@@ -1,0 +1,34 @@
+{
+  "drug_code": "91284",
+  "din": "02428350",
+  "brand_name": "PENNER DISINFECTANT CLEANER II",
+  "class": "Disinfectant",
+  "descriptor": "",
+  "last_update": "18-FEB-2015",
+  "active_ingredients": [
+    {
+      "name": "BENZALKONIUM CHLORIDE",
+      "strength": "2.25",
+      "unit": "%"
+    },
+    {
+      "name": "ALKYL DIMETHYL ETHYLBENZYL AMMONIUM CHLORIDE",
+      "strength": "2.25",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "LIQUID"
+  ],
+  "routes": [
+    "DISINFECTANT (Hospital/HC Facilities)",
+    "DISINFECTANT (Institutional/Industrial)"
+  ],
+  "companies": [
+    "CENTRAL SOLUTIONS INC."
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "TECHNICAL DISINFECTANTS"
+  ]
+}

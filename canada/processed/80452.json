@@ -1,0 +1,28 @@
+{
+  "drug_code": "80452",
+  "din": "02319039",
+  "brand_name": "CEFEPIME FOR INJECTION",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "12-JAN-2010",
+  "active_ingredients": [
+    {
+      "name": "CEFEPIME (CEFEPIME HYDROCHLORIDE)",
+      "strength": "2",
+      "unit": "G"
+    }
+  ],
+  "forms": [
+    "POWDER FOR SOLUTION"
+  ],
+  "routes": [
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "APOTEX INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "CEFEPIME"
+  ]
+}

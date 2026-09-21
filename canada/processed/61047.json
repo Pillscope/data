@@ -1,0 +1,28 @@
+{
+  "drug_code": "61047",
+  "din": "02237701",
+  "brand_name": "TICLOPIDINE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "01-DEC-2017",
+  "active_ingredients": [
+    {
+      "name": "TICLOPIDINE HYDROCHLORIDE",
+      "strength": "250",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "AA PHARMA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "TICLOPIDINE"
+  ]
+}

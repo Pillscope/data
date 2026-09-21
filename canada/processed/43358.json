@@ -1,0 +1,28 @@
+{
+  "drug_code": "43358",
+  "din": "02223376",
+  "brand_name": "PMS-OXYBUTYNIN",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "29-JUL-2017",
+  "active_ingredients": [
+    {
+      "name": "OXYBUTYNIN CHLORIDE",
+      "strength": "5",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SYRUP"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "PHARMASCIENCE INC"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "OXYBUTYNIN"
+  ]
+}

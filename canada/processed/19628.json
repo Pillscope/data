@@ -1,0 +1,28 @@
+{
+  "drug_code": "19628",
+  "din": "02207818",
+  "brand_name": "PMS-CLONAZEPAM-R TAB 0.5MG",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "18-SEP-2006",
+  "active_ingredients": [
+    {
+      "name": "CLONAZEPAM",
+      "strength": "0.5",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "PHARMASCIENCE INC"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "CLONAZEPAM"
+  ]
+}

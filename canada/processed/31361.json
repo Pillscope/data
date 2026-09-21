@@ -1,0 +1,29 @@
+{
+  "drug_code": "31361",
+  "din": "02139561",
+  "brand_name": "OXYTOCIN INJECTION",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "30-OCT-2015",
+  "active_ingredients": [
+    {
+      "name": "OXYTOCIN",
+      "strength": "10",
+      "unit": "UNIT"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "INTRAMUSCULAR",
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "FRESENIUS KABI CANADA LTD"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "OXYTOCIN"
+  ]
+}

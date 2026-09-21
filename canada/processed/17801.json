@@ -1,0 +1,28 @@
+{
+  "drug_code": "17801",
+  "din": "02150697",
+  "brand_name": "NEORAL ORAL SOLUTION 100MG/ML",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "16-MAR-2017",
+  "active_ingredients": [
+    {
+      "name": "CYCLOSPORINE",
+      "strength": "100",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "NOVARTIS PHARMACEUTICALS CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "CICLOSPORIN"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "drug_code": "84270",
+  "din": "02357593",
+  "brand_name": "NORVIR",
+  "class": "Human",
+  "descriptor": "FILM-COATED TABLETS",
+  "last_update": "30-APR-2014",
+  "active_ingredients": [
+    {
+      "name": "RITONAVIR",
+      "strength": "100",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "ABBVIE CORPORATION"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "RITONAVIR"
+  ]
+}

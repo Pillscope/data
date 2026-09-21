@@ -1,0 +1,28 @@
+{
+  "drug_code": "81180",
+  "din": "02326450",
+  "brand_name": "TEVA-SALBUTAMOL HFA",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "21-MAR-2018",
+  "active_ingredients": [
+    {
+      "name": "SALBUTAMOL (SALBUTAMOL SULFATE)",
+      "strength": "100",
+      "unit": "MCG"
+    }
+  ],
+  "forms": [
+    "METERED-DOSE AEROSOL"
+  ],
+  "routes": [
+    "INHALATION"
+  ],
+  "companies": [
+    "TEVA CANADA LIMITED"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "SALBUTAMOL"
+  ]
+}

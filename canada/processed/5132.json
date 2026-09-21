@@ -1,0 +1,33 @@
+{
+  "drug_code": "5132",
+  "din": "00590452",
+  "brand_name": "CONSEPT PLUS",
+  "class": "Disinfectant",
+  "descriptor": "",
+  "last_update": "11-JUL-2011",
+  "active_ingredients": [
+    {
+      "name": "BENZALKONIUM CHLORIDE",
+      "strength": "2.9",
+      "unit": "%"
+    },
+    {
+      "name": "DODICIN HYDROCHLORIDE",
+      "strength": "3.5",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "LIQUID"
+  ],
+  "routes": [
+    "DISINFECTANT (Hospital/HC Facilities)"
+  ],
+  "companies": [
+    "LABORATOIRES CHOISY LTEE"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "TECHNICAL DISINFECTANTS"
+  ]
+}

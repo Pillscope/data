@@ -1,0 +1,26 @@
+{
+  "drug_code": "15819",
+  "din": "02052415",
+  "brand_name": "ADEQUAN CANINE",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "12-JUL-2017",
+  "active_ingredients": [
+    {
+      "name": "GLYCOSAMINOGLYCAN POLYSULFATE",
+      "strength": "100",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "LIQUID"
+  ],
+  "routes": [
+    "INTRAMUSCULAR"
+  ],
+  "companies": [
+    "LUITPOLD PHARMACEUTICALS INC"
+  ],
+  "status": "MARKETED",
+  "atc": []
+}

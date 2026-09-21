@@ -1,0 +1,28 @@
+{
+  "drug_code": "75561",
+  "din": "02270226",
+  "brand_name": "TEVA-BICALUTAMIDE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "03-JUN-2015",
+  "active_ingredients": [
+    {
+      "name": "BICALUTAMIDE",
+      "strength": "50",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "TEVA CANADA LIMITED"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "BICALUTAMIDE"
+  ]
+}

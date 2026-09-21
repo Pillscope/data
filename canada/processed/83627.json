@@ -1,0 +1,28 @@
+{
+  "drug_code": "83627",
+  "din": "02351064",
+  "brand_name": "VICTOZA",
+  "class": "Human",
+  "descriptor": "MULTIDOSE PEN-INJECTOR. 30DOSES(0.6MG)-15DOSES(1.2MG)-10DOSES(1.8MG). 1/2/3",
+  "last_update": "17-AUG-2011",
+  "active_ingredients": [
+    {
+      "name": "LIRAGLUTIDE",
+      "strength": "6",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "SUBCUTANEOUS"
+  ],
+  "companies": [
+    "NOVO NORDISK CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "LIRAGLUTIDE"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "drug_code": "75144",
+  "din": "02266008",
+  "brand_name": "APO-FOSINOPRIL",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "15-JAN-2010",
+  "active_ingredients": [
+    {
+      "name": "FOSINOPRIL SODIUM",
+      "strength": "10",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "APOTEX INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "FOSINOPRIL"
+  ]
+}

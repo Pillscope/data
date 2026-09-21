@@ -1,0 +1,28 @@
+{
+  "drug_code": "80417",
+  "din": "02318695",
+  "brand_name": "PANTOPRAZOLE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "13-JUN-2014",
+  "active_ingredients": [
+    {
+      "name": "PANTOPRAZOLE (PANTOPRAZOLE SODIUM)",
+      "strength": "40",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET (DELAYED-RELEASE)"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "PRO DOC LIMITEE"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "PANTOPRAZOLE"
+  ]
+}

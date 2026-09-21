@@ -1,0 +1,28 @@
+{
+  "drug_code": "92158",
+  "din": "02437287",
+  "brand_name": "PREEMPT HLD5",
+  "class": "Disinfectant",
+  "descriptor": "",
+  "last_update": "24-NOV-2015",
+  "active_ingredients": [
+    {
+      "name": "HYDROGEN PEROXIDE",
+      "strength": "2",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "LIQUID"
+  ],
+  "routes": [
+    "DISINFECTANT (Medical Instruments)"
+  ],
+  "companies": [
+    "VIROX TECHNOLOGIES INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "TECHNICAL DISINFECTANTS"
+  ]
+}

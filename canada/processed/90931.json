@@ -1,0 +1,34 @@
+{
+  "drug_code": "90931",
+  "din": "02424630",
+  "brand_name": "NIGHTTIME PAIN RELIEF",
+  "class": "Human",
+  "descriptor": "LIQUID GEL CAPSULES",
+  "last_update": "28-FEB-2018",
+  "active_ingredients": [
+    {
+      "name": "IBUPROFEN (IBUPROFEN, Ibuprofen potassium)",
+      "strength": "200",
+      "unit": "MG"
+    },
+    {
+      "name": "DIPHENHYDRAMINE HYDROCHLORIDE",
+      "strength": "25",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "CAPSULE"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "APOTEX INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "IBUPROFEN, COMBINATIONS",
+    "IBUPROFEN, COMBINATIONS"
+  ]
+}

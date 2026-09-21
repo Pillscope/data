@@ -1,0 +1,28 @@
+{
+  "drug_code": "73888",
+  "din": "02253941",
+  "brand_name": "BOTTOM BUTTER",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "07-JUL-2005",
+  "active_ingredients": [
+    {
+      "name": "WHITE PETROLATUM",
+      "strength": "30",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "CREAM"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "E.T. BROWNE DRUG CO., INC."
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "SOFT PARAFFIN AND FAT PRODUCTS"
+  ]
+}

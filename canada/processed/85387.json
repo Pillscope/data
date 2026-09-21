@@ -1,0 +1,28 @@
+{
+  "drug_code": "85387",
+  "din": "02368900",
+  "brand_name": "JAMP-CARVEDILOL",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "18-JAN-2013",
+  "active_ingredients": [
+    {
+      "name": "CARVEDILOL",
+      "strength": "6.25",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "JAMP PHARMA CORPORATION"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "CARVEDILOL"
+  ]
+}

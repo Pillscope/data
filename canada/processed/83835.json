@@ -1,0 +1,28 @@
+{
+  "drug_code": "83835",
+  "din": "02353121",
+  "brand_name": "TERBINAFINE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "16-SEP-2010",
+  "active_ingredients": [
+    {
+      "name": "TERBINAFINE (TERBINAFINE HYDROCHLORIDE)",
+      "strength": "250",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "SANIS HEALTH INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "TERBINAFINE"
+  ]
+}

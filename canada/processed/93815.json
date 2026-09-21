@@ -1,0 +1,28 @@
+{
+  "drug_code": "93815",
+  "din": "02451808",
+  "brand_name": "AMITRIPTYLINE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "15-JAN-2018",
+  "active_ingredients": [
+    {
+      "name": "AMITRIPTYLINE HYDROCHLORIDE",
+      "strength": "50",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "SIVEM PHARMACEUTICALS ULC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "AMITRIPTYLINE"
+  ]
+}

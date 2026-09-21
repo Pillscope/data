@@ -1,0 +1,28 @@
+{
+  "drug_code": "75978",
+  "din": "02274337",
+  "brand_name": "ACT BICALUTAMIDE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "03-JUN-2015",
+  "active_ingredients": [
+    {
+      "name": "BICALUTAMIDE",
+      "strength": "50",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "ACTAVIS PHARMA COMPANY"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "BICALUTAMIDE"
+  ]
+}

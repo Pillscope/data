@@ -1,0 +1,28 @@
+{
+  "drug_code": "9861",
+  "din": "00836362",
+  "brand_name": "DDAVP SPRAY",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "26-JUN-2008",
+  "active_ingredients": [
+    {
+      "name": "DESMOPRESSIN ACETATE",
+      "strength": "10",
+      "unit": "MCG"
+    }
+  ],
+  "forms": [
+    "METERED-DOSE AEROSOL"
+  ],
+  "routes": [
+    "NASAL"
+  ],
+  "companies": [
+    "FERRING INC"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "DESMOPRESSIN"
+  ]
+}

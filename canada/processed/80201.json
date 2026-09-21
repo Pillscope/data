@@ -1,0 +1,28 @@
+{
+  "drug_code": "80201",
+  "din": "02316528",
+  "brand_name": "PRO-SOTALOL",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "23-OCT-2008",
+  "active_ingredients": [
+    {
+      "name": "SOTALOL HYDROCHLORIDE",
+      "strength": "80",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "PRO DOC LIMITEE"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "SOTALOL"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "drug_code": "87315",
+  "din": "02387549",
+  "brand_name": "CALCIUM CHLORIDE FOR HAEMODIALYSIS",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "15-JAN-2015",
+  "active_ingredients": [
+    {
+      "name": "CALCIUM CHLORIDE",
+      "strength": "7.45",
+      "unit": "G"
+    }
+  ],
+  "forms": [
+    "POWDER"
+  ],
+  "routes": [
+    "DIALYSIS"
+  ],
+  "companies": [
+    "CHIEF MEDICAL SUPPLIES LTD"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "HEMODIALYTICS, CONCENTRATES"
+  ]
+}

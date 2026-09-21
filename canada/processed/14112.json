@@ -1,0 +1,31 @@
+{
+  "drug_code": "14112",
+  "din": "01943251",
+  "brand_name": "NEO-OXYMED",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "19-DEC-2017",
+  "active_ingredients": [
+    {
+      "name": "NEOMYCIN SULFATE",
+      "strength": "200",
+      "unit": "MG"
+    },
+    {
+      "name": "OXYTETRACYCLINE HYDROCHLORIDE",
+      "strength": "200",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "POWDER FOR SOLUTION"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "BIO AGRI MIX LP"
+  ],
+  "status": "APPROVED",
+  "atc": []
+}

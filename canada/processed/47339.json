@@ -1,0 +1,28 @@
+{
+  "drug_code": "47339",
+  "din": "02229453",
+  "brand_name": "PANTOLOC",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "05-MAY-2015",
+  "active_ingredients": [
+    {
+      "name": "PANTOPRAZOLE (PANTOPRAZOLE SODIUM)",
+      "strength": "40",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET (ENTERIC-COATED)"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "TAKEDA CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "PANTOPRAZOLE"
+  ]
+}

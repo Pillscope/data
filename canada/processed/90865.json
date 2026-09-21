@@ -1,0 +1,38 @@
+{
+  "drug_code": "90865",
+  "din": "02423928",
+  "brand_name": "URBAN ENVIRONMENT OIL-FREE UV PROTECTOR",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "07-JAN-2015",
+  "active_ingredients": [
+    {
+      "name": "ZINC OXIDE",
+      "strength": "12.5",
+      "unit": "%"
+    },
+    {
+      "name": "OCTOCRYLENE",
+      "strength": "3.0",
+      "unit": "%"
+    },
+    {
+      "name": "OCTINOXATE",
+      "strength": "4.9",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "LOTION"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "SHISEIDO AMERICAS CORPORATION DIST"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "COMBINATIONS OF PROTECTIVES AGAINST UV-RADIATION"
+  ]
+}

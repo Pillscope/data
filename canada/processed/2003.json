@@ -1,0 +1,36 @@
+{
+  "drug_code": "2003",
+  "din": "00308374",
+  "brand_name": "DEXTROSE CALCIUM GLUCONATE MAGNESIUM PHOS",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "02-JUL-1999",
+  "active_ingredients": [
+    {
+      "name": "CALCIUM GLUCONATE",
+      "strength": "100",
+      "unit": "G"
+    },
+    {
+      "name": "MAGNESIUM HYPOPHOSPHITE",
+      "strength": "3",
+      "unit": "G"
+    },
+    {
+      "name": "DEXTROSE",
+      "strength": "75",
+      "unit": "G"
+    }
+  ],
+  "forms": [
+    "LIQUID"
+  ],
+  "routes": [
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "PROFESSIONAL VETERINARY LABORATORIES"
+  ],
+  "status": "MARKETED",
+  "atc": []
+}

@@ -1,0 +1,28 @@
+{
+  "drug_code": "70264",
+  "din": "02246121",
+  "brand_name": "PROVON ANTISEPTIC LOTION SOAP WITH 2% CHG",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "11-JUL-2012",
+  "active_ingredients": [
+    {
+      "name": "CHLORHEXIDINE GLUCONATE",
+      "strength": "2",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "LOTION"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "GOJO INDUSTRIES, INC."
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "METACRESOLSULPHONIC ACID-FORMALDEHYDE"
+  ]
+}

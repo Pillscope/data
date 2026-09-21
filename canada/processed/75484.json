@@ -1,0 +1,28 @@
+{
+  "drug_code": "75484",
+  "din": "02269465",
+  "brand_name": "ARICEPT RDT",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "21-AUG-2006",
+  "active_ingredients": [
+    {
+      "name": "DONEPEZIL HYDROCHLORIDE",
+      "strength": "10",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET (ORALLY DISINTEGRATING)"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "PFIZER CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "DONEPEZIL"
+  ]
+}

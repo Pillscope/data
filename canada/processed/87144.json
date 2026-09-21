@@ -1,0 +1,28 @@
+{
+  "drug_code": "87144",
+  "din": "02385821",
+  "brand_name": "ZOPICLONE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "12-APR-2018",
+  "active_ingredients": [
+    {
+      "name": "ZOPICLONE",
+      "strength": "5",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "SIVEM PHARMACEUTICALS ULC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "ZOPICLONE"
+  ]
+}

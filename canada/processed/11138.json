@@ -1,0 +1,28 @@
+{
+  "drug_code": "11138",
+  "din": "00870153",
+  "brand_name": "REFRESH CELLUVISC",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "11-JUL-2012",
+  "active_ingredients": [
+    {
+      "name": "SODIUM CARBOXYMETHYL CELLULOSE",
+      "strength": "1",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "DROPS"
+  ],
+  "routes": [
+    "OPHTHALMIC"
+  ],
+  "companies": [
+    "ALLERGAN INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "ARTIFICIAL TEARS AND OTHER INDIFFERENT PREPARATIONS."
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "drug_code": "78965",
+  "din": "02304368",
+  "brand_name": "PMS-DESMOPRESSIN",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "14-MAY-2016",
+  "active_ingredients": [
+    {
+      "name": "DESMOPRESSIN ACETATE (DESMOPRESSIN ACETATE TRIHYDRATE)",
+      "strength": "0.1",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "PHARMASCIENCE INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "DESMOPRESSIN"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "drug_code": "79692",
+  "din": "02311321",
+  "brand_name": "PRO-ISMN - 60",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "01-AUG-2008",
+  "active_ingredients": [
+    {
+      "name": "ISOSORBIDE-5-MONONITRATE",
+      "strength": "60",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET (EXTENDED-RELEASE)"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "PRO DOC LIMITEE"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "ISOSORBIDE MONONITRATE"
+  ]
+}

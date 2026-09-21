@@ -1,0 +1,32 @@
+{
+  "drug_code": "75771",
+  "din": "02272180",
+  "brand_name": "PYRAHIST-10",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "01-AUG-2017",
+  "active_ingredients": [
+    {
+      "name": "PYRILAMINE MALEATE",
+      "strength": "25",
+      "unit": "MG"
+    },
+    {
+      "name": "EPHEDRINE HYDROCHLORIDE",
+      "strength": "10",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "INTRAMUSCULAR",
+    "SUBCUTANEOUS"
+  ],
+  "companies": [
+    "RAFTER 8 PRODUCTS INC"
+  ],
+  "status": "MARKETED",
+  "atc": []
+}

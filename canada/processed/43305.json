@@ -1,0 +1,28 @@
+{
+  "drug_code": "43305",
+  "din": "02221799",
+  "brand_name": "FRISIUM TABLET 10MG",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "05-MAY-2015",
+  "active_ingredients": [
+    {
+      "name": "CLOBAZAM",
+      "strength": "10",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "LUNDBECK PHARMACEUTICALS LLC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "CLOBAZAM"
+  ]
+}

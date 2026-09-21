@@ -1,0 +1,44 @@
+{
+  "drug_code": "9449",
+  "din": "00717029",
+  "brand_name": "VIADERM KC ONT",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "10-DEC-2010",
+  "active_ingredients": [
+    {
+      "name": "TRIAMCINOLONE ACETONIDE",
+      "strength": "1",
+      "unit": "MG"
+    },
+    {
+      "name": "GRAMICIDIN",
+      "strength": "0.25",
+      "unit": "MG"
+    },
+    {
+      "name": "NYSTATIN",
+      "strength": "100000",
+      "unit": "UNIT"
+    },
+    {
+      "name": "NEOMYCIN (NEOMYCIN SULFATE)",
+      "strength": "2.5",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "OINTMENT"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "TARO PHARMACEUTICALS INC"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "TRIAMCINOLONE AND ANTIBIOTICS",
+    "TRIAMCINOLONE AND ANTIBIOTICS"
+  ]
+}

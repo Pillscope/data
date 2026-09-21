@@ -1,0 +1,26 @@
+{
+  "drug_code": "79364",
+  "din": "02307987",
+  "brand_name": "RECONCILE",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "28-JUL-2016",
+  "active_ingredients": [
+    {
+      "name": "FLUOXETINE (FLUOXETINE HYDROCHLORIDE)",
+      "strength": "64",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET (CHEWABLE)"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "NEXCYON PHARMACEUTICALS INC"
+  ],
+  "status": "APPROVED",
+  "atc": []
+}

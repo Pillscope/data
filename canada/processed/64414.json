@@ -1,0 +1,28 @@
+{
+  "drug_code": "64414",
+  "din": "02240823",
+  "brand_name": "DOM-ZOPICLONE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "30-SEP-2010",
+  "active_ingredients": [
+    {
+      "name": "ZOPICLONE",
+      "strength": "7.5",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "DOMINION PHARMACAL"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "ZOPICLONE"
+  ]
+}

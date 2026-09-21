@@ -1,0 +1,28 @@
+{
+  "drug_code": "95578",
+  "din": "02467402",
+  "brand_name": "M-PAROXETINE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "16-MAR-2018",
+  "active_ingredients": [
+    {
+      "name": "PAROXETINE (PAROXETINE HYDROCHLORIDE HEMIHYDRATE)",
+      "strength": "10",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "MANTRA PHARMA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "PAROXETINE"
+  ]
+}

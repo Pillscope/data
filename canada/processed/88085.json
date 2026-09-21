@@ -1,0 +1,28 @@
+{
+  "drug_code": "88085",
+  "din": "02395797",
+  "brand_name": "RIVA-CYPROTERONE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "08-MAY-2013",
+  "active_ingredients": [
+    {
+      "name": "CYPROTERONE ACETATE",
+      "strength": "50",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "LABORATOIRE RIVA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "CYPROTERONE"
+  ]
+}

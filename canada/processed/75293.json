@@ -1,0 +1,27 @@
+{
+  "drug_code": "75293",
+  "din": "02267527",
+  "brand_name": "PREGNECOL 6000",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "26-SEP-2015",
+  "active_ingredients": [
+    {
+      "name": "GONADOTROPHIN SERUM (PMSG)",
+      "strength": "6000",
+      "unit": "UNIT"
+    }
+  ],
+  "forms": [
+    "POWDER FOR SOLUTION"
+  ],
+  "routes": [
+    "INTRAMUSCULAR",
+    "SUBCUTANEOUS"
+  ],
+  "companies": [
+    "VETOQUINOL N A INC"
+  ],
+  "status": "APPROVED",
+  "atc": []
+}

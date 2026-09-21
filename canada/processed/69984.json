@@ -1,0 +1,28 @@
+{
+  "drug_code": "69984",
+  "din": "02245867",
+  "brand_name": "GRAVOL TASTEFREE LIQUID GEL CAPSULES",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "29-APR-2015",
+  "active_ingredients": [
+    {
+      "name": "DIMENHYDRINATE",
+      "strength": "50",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "CAPSULE"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "CHURCH & DWIGHT CANADA CORP"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "DIPHENHYDRAMINE"
+  ]
+}

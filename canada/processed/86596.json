@@ -1,0 +1,28 @@
+{
+  "drug_code": "86596",
+  "din": "02380129",
+  "brand_name": "DRIXORAL NASAL CONGESTION",
+  "class": "Human",
+  "descriptor": "SOLUTION",
+  "last_update": "25-AUG-2017",
+  "active_ingredients": [
+    {
+      "name": "OXYMETAZOLINE HYDROCHLORIDE",
+      "strength": "0.05",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "SPRAY"
+  ],
+  "routes": [
+    "NASAL"
+  ],
+  "companies": [
+    "BAYER INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "OXYMETAZOLINE"
+  ]
+}

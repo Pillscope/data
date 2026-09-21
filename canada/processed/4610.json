@@ -1,0 +1,33 @@
+{
+  "drug_code": "4610",
+  "din": "00510645",
+  "brand_name": "TEVA-TRIMEL DS",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "05-MAY-2015",
+  "active_ingredients": [
+    {
+      "name": "SULFAMETHOXAZOLE",
+      "strength": "800",
+      "unit": "MG"
+    },
+    {
+      "name": "TRIMETHOPRIM",
+      "strength": "160",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "TEVA CANADA LIMITED"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "SULFAMETHOXAZOLE AND TRIMETHOPRIM"
+  ]
+}

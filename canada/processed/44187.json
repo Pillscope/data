@@ -1,0 +1,28 @@
+{
+  "drug_code": "44187",
+  "din": "02172755",
+  "brand_name": "OMNIPAQUE 350",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "10-APR-2008",
+  "active_ingredients": [
+    {
+      "name": "IOHEXOL",
+      "strength": "755",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "INTRAVASCULAR"
+  ],
+  "companies": [
+    "GE HEALTHCARE CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "IOHEXOL"
+  ]
+}

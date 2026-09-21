@@ -1,0 +1,28 @@
+{
+  "drug_code": "88007",
+  "din": "02394936",
+  "brand_name": "SEEBRI BREEZHALER",
+  "class": "Human",
+  "descriptor": "CAPSULES TO BE USED ONLY WITH SEEBRI BREEZHALER INHALATION DEVICE - ORAL INHALATION",
+  "last_update": "06-APR-2018",
+  "active_ingredients": [
+    {
+      "name": "GLYCOPYRRONIUM (Glycopyrronium Bromide)",
+      "strength": "50",
+      "unit": "MCG"
+    }
+  ],
+  "forms": [
+    "CAPSULE"
+  ],
+  "routes": [
+    "INHALATION"
+  ],
+  "companies": [
+    "NOVARTIS PHARMACEUTICALS CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "Glycopyrronium bromide"
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "drug_code": "92679",
+  "din": "02442442",
+  "brand_name": "OCLIPSE SMART TONE BROAD-SPECTRUM SUNSCREEN SPF 50",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "21-APR-2017",
+  "active_ingredients": [
+    {
+      "name": "AVOBENZONE",
+      "strength": "3",
+      "unit": "%"
+    },
+    {
+      "name": "TITANIUM DIOXIDE",
+      "strength": "0.8965",
+      "unit": "%"
+    },
+    {
+      "name": "OCTOCRYLENE",
+      "strength": "10",
+      "unit": "%"
+    },
+    {
+      "name": "OCTISALATE",
+      "strength": "5",
+      "unit": "%"
+    },
+    {
+      "name": "HOMOSALATE",
+      "strength": "10",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "LOTION"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "ZO SKIN HEALTH INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "COMBINATIONS OF PROTECTIVES AGAINST UV-RADIATION"
+  ]
+}

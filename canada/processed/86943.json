@@ -1,0 +1,28 @@
+{
+  "drug_code": "86943",
+  "din": "02383659",
+  "brand_name": "SOLOCARE AQUA ALL-IN-ONE SOLUTION",
+  "class": "Disinfectant",
+  "descriptor": "",
+  "last_update": "10-JAN-2017",
+  "active_ingredients": [
+    {
+      "name": "POLYHEXANIDE",
+      "strength": "0.0001",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "DISINFECTANT (Contact Lens)"
+  ],
+  "companies": [
+    "MENICON CO. LTD"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "ARTIFICIAL TEARS AND OTHER INDIFFERENT PREPARATIONS."
+  ]
+}

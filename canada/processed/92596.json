@@ -1,0 +1,28 @@
+{
+  "drug_code": "92596",
+  "din": "02441586",
+  "brand_name": "MAR-VALACYCLOVIR",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "26-OCT-2015",
+  "active_ingredients": [
+    {
+      "name": "VALACYCLOVIR (VALACYCLOVIR HYDROCHLORIDE)",
+      "strength": "500",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "MARCAN PHARMACEUTICALS INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "VALACICLOVIR"
+  ]
+}

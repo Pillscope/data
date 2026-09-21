@@ -1,0 +1,71 @@
+{
+  "drug_code": "22007",
+  "din": "01936174",
+  "brand_name": "PIG STARTER",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "18-DEC-2017",
+  "active_ingredients": [
+    {
+      "name": "CALCIUM D-PANTOTHENATE",
+      "strength": "0.88",
+      "unit": "MG"
+    },
+    {
+      "name": "PYRIDOXINE HYDROCHLORIDE",
+      "strength": "0.075",
+      "unit": "MG"
+    },
+    {
+      "name": "VITAMIN D3",
+      "strength": "176.7",
+      "unit": "UNIT"
+    },
+    {
+      "name": "VITAMIN B1",
+      "strength": "0.88",
+      "unit": "MG"
+    },
+    {
+      "name": "VITAMIN B2",
+      "strength": "2.07",
+      "unit": "MG"
+    },
+    {
+      "name": "NEOMYCIN (NEOMYCIN SULFATE)",
+      "strength": "19.92",
+      "unit": "MG"
+    },
+    {
+      "name": "VITAMIN A",
+      "strength": "958.3",
+      "unit": "UNIT"
+    },
+    {
+      "name": "NICOTINIC ACID",
+      "strength": "1.47",
+      "unit": "MG"
+    },
+    {
+      "name": "STREPTOMYCIN (STREPTOMYCIN SULFATE)",
+      "strength": "15.5",
+      "unit": "MG"
+    },
+    {
+      "name": "VITAMIN B12",
+      "strength": "0.88",
+      "unit": "MCG"
+    }
+  ],
+  "forms": [
+    "SUSPENSION"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "BIO AGRI MIX LP"
+  ],
+  "status": "APPROVED",
+  "atc": []
+}

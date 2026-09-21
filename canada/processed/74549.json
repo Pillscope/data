@@ -1,0 +1,38 @@
+{
+  "drug_code": "74549",
+  "din": "02260263",
+  "brand_name": "DAYTIME COLD AND FLU RELIEF",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "17-JUL-2012",
+  "active_ingredients": [
+    {
+      "name": "PSEUDOEPHEDRINE HYDROCHLORIDE",
+      "strength": "30",
+      "unit": "MG"
+    },
+    {
+      "name": "ACETAMINOPHEN",
+      "strength": "250",
+      "unit": "MG"
+    },
+    {
+      "name": "DEXTROMETHORPHAN HYDROBROMIDE",
+      "strength": "10",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "CAPSULE"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "PHARMETICS (2011) INC"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "ACETAMINOPHEN, COMB EXCL PSYCHOLEPTICS"
+  ]
+}

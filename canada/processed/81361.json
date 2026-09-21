@@ -1,0 +1,28 @@
+{
+  "drug_code": "81361",
+  "din": "02328100",
+  "brand_name": "ACT IRBESARTAN",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "05-MAY-2015",
+  "active_ingredients": [
+    {
+      "name": "IRBESARTAN",
+      "strength": "300",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "ACTAVIS PHARMA COMPANY"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "IRBESARTAN"
+  ]
+}

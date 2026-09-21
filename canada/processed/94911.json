@@ -1,0 +1,28 @@
+{
+  "drug_code": "94911",
+  "din": "02461471",
+  "brand_name": "APO-ASA LD",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "09-AUG-2017",
+  "active_ingredients": [
+    {
+      "name": "ACETYLSALICYLIC ACID",
+      "strength": "81",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET (DELAYED-RELEASE)"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "APOTEX INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "ACETYLSALICYLIC ACID"
+  ]
+}

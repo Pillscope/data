@@ -1,0 +1,28 @@
+{
+  "drug_code": "94417",
+  "din": "02457083",
+  "brand_name": "ERASER",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "04-JAN-2018",
+  "active_ingredients": [
+    {
+      "name": "BENZOYL PEROXIDE",
+      "strength": "5",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "OINTMENT"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "THE MENTHOLATUM COMPANY OF CANADA LTD"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "BENZOYL PEROXIDE"
+  ]
+}

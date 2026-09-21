@@ -1,0 +1,27 @@
+{
+  "drug_code": "4719",
+  "din": "00553506",
+  "brand_name": "PREDNISOLONE SOD SUCCINATE INJ 10MG/ML",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "21-JUN-1999",
+  "active_ingredients": [
+    {
+      "name": "PREDNISOLONE (PREDNISOLONE 21-SUCCINATE SODIUM)",
+      "strength": "10",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "LIQUID"
+  ],
+  "routes": [
+    "INTRAMUSCULAR",
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "UNIVET PHARMACEUTICALS LTD."
+  ],
+  "status": "MARKETED",
+  "atc": []
+}

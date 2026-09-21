@@ -1,0 +1,118 @@
+{
+  "drug_code": "50094",
+  "din": "02230810",
+  "brand_name": "NUTRINEAL PD4",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "28-MAY-2009",
+  "active_ingredients": [
+    {
+      "name": "LYSINE (LYSINE MONOHYDROCHLORIDE)",
+      "strength": "95.5",
+      "unit": "MG"
+    },
+    {
+      "name": "ALANINE",
+      "strength": "95.1",
+      "unit": "MG"
+    },
+    {
+      "name": "PROLINE",
+      "strength": "59.5",
+      "unit": "MG"
+    },
+    {
+      "name": "DL-METHIONINE",
+      "strength": "85",
+      "unit": "MG"
+    },
+    {
+      "name": "ARGININE",
+      "strength": "107.1",
+      "unit": "MG"
+    },
+    {
+      "name": "TRYPTOPHAN",
+      "strength": "27",
+      "unit": "MG"
+    },
+    {
+      "name": "PHENYLALANINE",
+      "strength": "57",
+      "unit": "MG"
+    },
+    {
+      "name": "VALINE",
+      "strength": "139.3",
+      "unit": "MG"
+    },
+    {
+      "name": "TYROSINE",
+      "strength": "30",
+      "unit": "MG"
+    },
+    {
+      "name": "THREONINE",
+      "strength": "64.6",
+      "unit": "MG"
+    },
+    {
+      "name": "SERINE",
+      "strength": "51",
+      "unit": "MG"
+    },
+    {
+      "name": "LEUCINE",
+      "strength": "102",
+      "unit": "MG"
+    },
+    {
+      "name": "SODIUM CHLORIDE",
+      "strength": "538",
+      "unit": "MG"
+    },
+    {
+      "name": "GLYCINE",
+      "strength": "51",
+      "unit": "MG"
+    },
+    {
+      "name": "HISTIDINE",
+      "strength": "71.4",
+      "unit": "MG"
+    },
+    {
+      "name": "MAGNESIUM CHLORIDE",
+      "strength": "5.1",
+      "unit": "MG"
+    },
+    {
+      "name": "CALCIUM CHLORIDE",
+      "strength": "18.4",
+      "unit": "MG"
+    },
+    {
+      "name": "SODIUM LACTATE",
+      "strength": "448",
+      "unit": "MG"
+    },
+    {
+      "name": "ISOLEUCINE",
+      "strength": "85",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "LIQUID"
+  ],
+  "routes": [
+    "DIALYSIS"
+  ],
+  "companies": [
+    "BAXTER CORPORATION"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "HEMODIALYTICS, CONCENTRATES"
+  ]
+}

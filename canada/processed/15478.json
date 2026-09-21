@@ -1,0 +1,28 @@
+{
+  "drug_code": "15478",
+  "din": "01939998",
+  "brand_name": "DECONGESTANT NASAL SPRAY 0.1%",
+  "class": "Human",
+  "descriptor": "SOLUTION",
+  "last_update": "29-APR-2015",
+  "active_ingredients": [
+    {
+      "name": "XYLOMETAZOLINE HYDROCHLORIDE",
+      "strength": ".1",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "SPRAY"
+  ],
+  "routes": [
+    "NASAL"
+  ],
+  "companies": [
+    "TEVA CANADA LIMITED"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "XYLOMETAZOLINE"
+  ]
+}

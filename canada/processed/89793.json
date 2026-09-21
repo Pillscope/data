@@ -1,0 +1,28 @@
+{
+  "drug_code": "89793",
+  "din": "02413264",
+  "brand_name": "HEAD & SHOULDERS FULL & STRONG CONDITIONER",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "15-OCT-2014",
+  "active_ingredients": [
+    {
+      "name": "PYRITHIONE ZINC",
+      "strength": "0.5",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "SHAMPOO"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "PROCTER & GAMBLE INC"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "PYRITHIONE ZINC"
+  ]
+}

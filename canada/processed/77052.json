@@ -1,0 +1,28 @@
+{
+  "drug_code": "77052",
+  "din": "02284995",
+  "brand_name": "DDAVP MELT",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "30-NOV-2006",
+  "active_ingredients": [
+    {
+      "name": "DESMOPRESSIN (DESMOPRESSIN ACETATE)",
+      "strength": "60",
+      "unit": "MCG"
+    }
+  ],
+  "forms": [
+    "TABLET (ORALLY DISINTEGRATING)"
+  ],
+  "routes": [
+    "SUBLINGUAL"
+  ],
+  "companies": [
+    "FERRING INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "DESMOPRESSIN"
+  ]
+}

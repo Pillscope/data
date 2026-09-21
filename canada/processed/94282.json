@@ -1,0 +1,28 @@
+{
+  "drug_code": "94282",
+  "din": "02455951",
+  "brand_name": "DARZALEX",
+  "class": "Human",
+  "descriptor": "SINGLE USE VIAL",
+  "last_update": "13-APR-2017",
+  "active_ingredients": [
+    {
+      "name": "DARATUMUMAB",
+      "strength": "100",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "JANSSEN INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "DARATUMOMAB"
+  ]
+}

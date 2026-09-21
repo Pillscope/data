@@ -1,0 +1,28 @@
+{
+  "drug_code": "94913",
+  "din": "02461501",
+  "brand_name": "ACCEL-SEVELAMER",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "16-NOV-2017",
+  "active_ingredients": [
+    {
+      "name": "Sevelamer Carbonate",
+      "strength": "800",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "ACCEL PHARMA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "SEVELAMER"
+  ]
+}

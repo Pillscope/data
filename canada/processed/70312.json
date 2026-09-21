@@ -1,0 +1,34 @@
+{
+  "drug_code": "70312",
+  "din": "02246162",
+  "brand_name": "REACTINE COMPLETE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "05-MAY-2015",
+  "active_ingredients": [
+    {
+      "name": "PSEUDOEPHEDRINE HYDROCHLORIDE",
+      "strength": "120",
+      "unit": "MG"
+    },
+    {
+      "name": "CETIRIZINE HYDROCHLORIDE",
+      "strength": "5",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET (EXTENDED-RELEASE)"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "MCNEIL CONSUMER HEALTHCARE DIVISION OF JOHNSON & JOHNSON INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "PSEUDOEPHEDRINE, COMBINATIONS",
+    "PSEUDOEPHEDRINE, COMBINATIONS"
+  ]
+}

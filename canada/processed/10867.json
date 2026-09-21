@@ -1,0 +1,38 @@
+{
+  "drug_code": "10867",
+  "din": "00786306",
+  "brand_name": "POTASS CHLOR 40MEQ 5% DEX AND 0.9% SOD CHLOR",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "23-JUN-2006",
+  "active_ingredients": [
+    {
+      "name": "SODIUM CHLORIDE",
+      "strength": "900",
+      "unit": "MG"
+    },
+    {
+      "name": "DEXTROSE",
+      "strength": "5",
+      "unit": "G"
+    },
+    {
+      "name": "POTASSIUM CHLORIDE",
+      "strength": "300",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "BAXTER CORPORATION"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "ELECTROLYTES WITH CARBOHYDRATES"
+  ]
+}

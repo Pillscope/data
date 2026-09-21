@@ -1,0 +1,28 @@
+{
+  "drug_code": "88125",
+  "din": "02396203",
+  "brand_name": "DOM-RIZATRIPTAN RDT",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "13-JAN-2015",
+  "active_ingredients": [
+    {
+      "name": "RIZATRIPTAN (RIZATRIPTAN BENZOATE)",
+      "strength": "10",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET (ORALLY DISINTEGRATING)"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "DOMINION PHARMACAL"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "RIZATRIPTAN"
+  ]
+}

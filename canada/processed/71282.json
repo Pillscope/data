@@ -1,0 +1,28 @@
+{
+  "drug_code": "71282",
+  "din": "02247049",
+  "brand_name": "SOFT CARE NUTRA-GERM ANTIBACTERIAL LOTION SOAP",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "14-SEP-2015",
+  "active_ingredients": [
+    {
+      "name": "TRICLOSAN",
+      "strength": "0.55",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "LIQUID"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "DIVERSEY INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "TRICLOSAN"
+  ]
+}

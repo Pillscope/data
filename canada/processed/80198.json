@@ -1,0 +1,48 @@
+{
+  "drug_code": "80198",
+  "din": "02316471",
+  "brand_name": "CLINIQUE SPF 30 FACE CREAM",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "29-APR-2015",
+  "active_ingredients": [
+    {
+      "name": "AVOBENZONE",
+      "strength": "3",
+      "unit": "%"
+    },
+    {
+      "name": "OCTOCRYLENE",
+      "strength": "2.7",
+      "unit": "%"
+    },
+    {
+      "name": "OXYBENZONE",
+      "strength": "4",
+      "unit": "%"
+    },
+    {
+      "name": "OCTISALATE",
+      "strength": "5",
+      "unit": "%"
+    },
+    {
+      "name": "HOMOSALATE",
+      "strength": "5",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "CREAM"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "CLINIQUE LABORATORIES DIST"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "COMBINATIONS OF PROTECTIVES AGAINST UV-RADIATION"
+  ]
+}

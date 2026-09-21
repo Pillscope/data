@@ -1,0 +1,28 @@
+{
+  "drug_code": "16124",
+  "din": "02042266",
+  "brand_name": "INDERAL-LA",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "25-JAN-2013",
+  "active_ingredients": [
+    {
+      "name": "PROPRANOLOL HYDROCHLORIDE",
+      "strength": "120",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "CAPSULE (SUSTAINED-RELEASE)"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "PFIZER CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "PROPRANOLOL"
+  ]
+}

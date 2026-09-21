@@ -1,0 +1,28 @@
+{
+  "drug_code": "49335",
+  "din": "02230432",
+  "brand_name": "METONIA",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "21-AUG-2015",
+  "active_ingredients": [
+    {
+      "name": "METOCLOPRAMIDE HYDROCHLORIDE",
+      "strength": "10",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "PENDOPHARM DIVISION OF DE PHARMASCIENCE INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "METOCLOPRAMIDE"
+  ]
+}

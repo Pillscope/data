@@ -1,0 +1,28 @@
+{
+  "drug_code": "94026",
+  "din": "02453711",
+  "brand_name": "ALLERGY FORMULA",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "19-JAN-2018",
+  "active_ingredients": [
+    {
+      "name": "DIPHENHYDRAMINE HYDROCHLORIDE",
+      "strength": "25",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "LABORATOIRES TRIANON INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "DIPHENHYDRAMINE"
+  ]
+}

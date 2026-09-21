@@ -1,0 +1,28 @@
+{
+  "drug_code": "72809",
+  "din": "02248457",
+  "brand_name": "TEVA-GABAPENTIN",
+  "class": "Human",
+  "descriptor": "600MG",
+  "last_update": "06-MAY-2015",
+  "active_ingredients": [
+    {
+      "name": "GABAPENTIN",
+      "strength": "600",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "TEVA CANADA LIMITED"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "GABAPENTIN"
+  ]
+}

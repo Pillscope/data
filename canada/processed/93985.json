@@ -1,0 +1,44 @@
+{
+  "drug_code": "93985",
+  "din": "02453320",
+  "brand_name": "MOLD TERMINATOR",
+  "class": "Disinfectant",
+  "descriptor": "",
+  "last_update": "05-JAN-2018",
+  "active_ingredients": [
+    {
+      "name": "DIDECYL DIMETHYL AMMONIUM CHLORIDE",
+      "strength": "0.013",
+      "unit": "%"
+    },
+    {
+      "name": "DIOCTYL DIMETHYL AMMONIUM CHLORIDE",
+      "strength": "0.013",
+      "unit": "%"
+    },
+    {
+      "name": "OCTYL DECYL DIMETHYL AMMONIUM CHLORIDE",
+      "strength": "0.026",
+      "unit": "%"
+    },
+    {
+      "name": "BENZALKONIUM CHLORIDE",
+      "strength": "0.034",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "SPRAY"
+  ],
+  "routes": [
+    "DISINFECTANT (Domestic)",
+    "DISINFECTANT (Institutional/Industrial)"
+  ],
+  "companies": [
+    "C.P. INDUSTRIES LTD"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "TECHNICAL DISINFECTANTS"
+  ]
+}

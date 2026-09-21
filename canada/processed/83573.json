@@ -1,0 +1,27 @@
+{
+  "drug_code": "83573",
+  "din": "02350521",
+  "brand_name": "DEXTROSE 50%",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "27-APR-2012",
+  "active_ingredients": [
+    {
+      "name": "DEXTROSE",
+      "strength": "50",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "INTRAPERITONEAL",
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "VALESCO PHARMACEUTICALS INC"
+  ],
+  "status": "MARKETED",
+  "atc": []
+}

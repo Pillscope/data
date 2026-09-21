@@ -1,0 +1,33 @@
+{
+  "drug_code": "82315",
+  "din": "02337576",
+  "brand_name": "SUPER SHEER SUNSCREEN LOTION SPF 50",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "18-DEC-2012",
+  "active_ingredients": [
+    {
+      "name": "ZINC OXIDE",
+      "strength": "10.5",
+      "unit": "%"
+    },
+    {
+      "name": "OCTINOXATE",
+      "strength": "7.5",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "LOTION"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "DERMATOLOGIC COSMETIC LABORATORIES"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "COMBINATIONS OF PROTECTIVES AGAINST UV-RADIATION"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "drug_code": "92802",
+  "din": "02443368",
+  "brand_name": "TOBRAMYCIN INHALATION SOLUTION",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "15-MAR-2016",
+  "active_ingredients": [
+    {
+      "name": "TOBRAMYCIN (TOBRAMYCIN SULFATE)",
+      "strength": "300",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "INHALATION"
+  ],
+  "companies": [
+    "SANDOZ CANADA INCORPORATED"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "TOBRAMYCIN"
+  ]
+}

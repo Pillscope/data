@@ -1,0 +1,28 @@
+{
+  "drug_code": "94693",
+  "din": "02459620",
+  "brand_name": "ZINBRYTA",
+  "class": "Human",
+  "descriptor": "PRE-FILLED SYRINGE",
+  "last_update": "20-APR-2017",
+  "active_ingredients": [
+    {
+      "name": "DACLIZUMAB BETA",
+      "strength": "150",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "SUBCUTANEOUS"
+  ],
+  "companies": [
+    "BIOGEN CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "DACLIZUMAB"
+  ]
+}

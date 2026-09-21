@@ -1,0 +1,28 @@
+{
+  "drug_code": "71618",
+  "din": "02247373",
+  "brand_name": "TEVA-ALENDRONATE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "05-MAY-2015",
+  "active_ingredients": [
+    {
+      "name": "ALENDRONIC ACID (ALENDRONATE SODIUM)",
+      "strength": "10",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "TEVA CANADA LIMITED"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "ALENDRONIC ACID"
+  ]
+}

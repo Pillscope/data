@@ -1,0 +1,28 @@
+{
+  "drug_code": "69223",
+  "din": "02245208",
+  "brand_name": "APO-LAMOTRIGINE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "03-MAR-2006",
+  "active_ingredients": [
+    {
+      "name": "LAMOTRIGINE",
+      "strength": "25",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "APOTEX INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "LAMOTRIGINE"
+  ]
+}

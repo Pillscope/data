@@ -1,0 +1,28 @@
+{
+  "drug_code": "3946",
+  "din": "00342114",
+  "brand_name": "TEVA-CEPHALEXIN",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "15-MAY-2015",
+  "active_ingredients": [
+    {
+      "name": "CEPHALEXIN (CEPHALEXIN MONOHYDRATE)",
+      "strength": "500",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "CAPSULE"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "TEVA CANADA LIMITED"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "CEFALEXIN"
+  ]
+}

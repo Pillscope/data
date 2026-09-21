@@ -1,0 +1,29 @@
+{
+  "drug_code": "90314",
+  "din": "02418584",
+  "brand_name": "BISMUTH CAPLETS",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "20-NOV-2017",
+  "active_ingredients": [
+    {
+      "name": "BISMUTH SUBSALICYLATE",
+      "strength": "262",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "TEVA CANADA LIMITED"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "BISMUTH PREPARATIONS",
+    "BISMUTH PREPARATIONS"
+  ]
+}

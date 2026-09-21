@@ -1,0 +1,28 @@
+{
+  "drug_code": "80311",
+  "din": "02317583",
+  "brand_name": "SILDENAFIL",
+  "class": "Human",
+  "descriptor": "DIAMOND-SHAPED TABLETS",
+  "last_update": "09-AUG-2013",
+  "active_ingredients": [
+    {
+      "name": "SILDENAFIL (SILDENAFIL CITRATE)",
+      "strength": "100",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "PHARMASCIENCE INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "SILDENAFIL"
+  ]
+}

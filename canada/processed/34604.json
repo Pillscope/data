@@ -1,0 +1,28 @@
+{
+  "drug_code": "34604",
+  "din": "02171279",
+  "brand_name": "DIPHENHYDRAMINE HCL CHILDREN'S LIQUID",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "19-DEC-2017",
+  "active_ingredients": [
+    {
+      "name": "DIPHENHYDRAMINE HYDROCHLORIDE",
+      "strength": "6.25",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SYRUP"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "LABORATOIRES CONFAB INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "DIPHENHYDRAMINE"
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "drug_code": "94456",
+  "din": "02457512",
+  "brand_name": "ANTIBIOTIC DROPS",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "20-JUN-2017",
+  "active_ingredients": [
+    {
+      "name": "GRAMICIDIN",
+      "strength": "0.025",
+      "unit": "MG"
+    },
+    {
+      "name": "POLYMYXIN B SULFATE",
+      "strength": "10000",
+      "unit": "UNIT"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "OPHTHALMIC",
+    "OTIC"
+  ],
+  "companies": [
+    "SANDOZ CANADA INCORPORATED"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "ANTIINFECTIVES, COMBINATIONS"
+  ]
+}

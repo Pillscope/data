@@ -1,0 +1,28 @@
+{
+  "drug_code": "61784",
+  "din": "02238372",
+  "brand_name": "TUB DISINFECTANT CLEANER",
+  "class": "Disinfectant",
+  "descriptor": "",
+  "last_update": "30-SEP-2010",
+  "active_ingredients": [
+    {
+      "name": "DIDECYL DIMETHYL AMMONIUM CHLORIDE",
+      "strength": "7.68",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "LIQUID"
+  ],
+  "routes": [
+    "DISINFECTANT (Hospital/HC Facilities)"
+  ],
+  "companies": [
+    "MCCUAIG SOLUTIONS CORP."
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "TECHNICAL DISINFECTANTS"
+  ]
+}

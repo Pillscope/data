@@ -1,0 +1,28 @@
+{
+  "drug_code": "18371",
+  "din": "02064413",
+  "brand_name": "CYKLOKAPRON 100 MG/ML",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "14-JUN-2007",
+  "active_ingredients": [
+    {
+      "name": "TRANEXAMIC ACID",
+      "strength": "100",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "PFIZER CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "TRANEXAMIC ACID"
+  ]
+}

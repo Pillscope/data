@@ -1,0 +1,30 @@
+{
+  "drug_code": "43843",
+  "din": "02126656",
+  "brand_name": "CYTARABINE INJECTION",
+  "class": "Human",
+  "descriptor": "SINGLE-USE VIAL",
+  "last_update": "13-SEP-2017",
+  "active_ingredients": [
+    {
+      "name": "CYTARABINE",
+      "strength": "100",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "INTRATHECAL",
+    "INTRAVENOUS",
+    "SUBCUTANEOUS"
+  ],
+  "companies": [
+    "PFIZER CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "CYTARABINE"
+  ]
+}

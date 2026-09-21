@@ -1,0 +1,51 @@
+{
+  "drug_code": "233",
+  "din": "00142875",
+  "brand_name": "PINKAMIN",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "29-DEC-2017",
+  "active_ingredients": [
+    {
+      "name": "ZINC OXIDE",
+      "strength": "3",
+      "unit": "%"
+    },
+    {
+      "name": "SULFANILAMIDE",
+      "strength": "3",
+      "unit": "%"
+    },
+    {
+      "name": "O-PHENYLPHENOL",
+      "strength": "2.4",
+      "unit": "%"
+    },
+    {
+      "name": "SULFUR",
+      "strength": "3",
+      "unit": "%"
+    },
+    {
+      "name": "METHYL SALICYLATE",
+      "strength": "3.6",
+      "unit": "%"
+    },
+    {
+      "name": "SODIUM THIOSULFATE",
+      "strength": "16.5",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "OINTMENT"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "MTC PHARMACEUTICALS"
+  ],
+  "status": "MARKETED",
+  "atc": []
+}

@@ -1,0 +1,28 @@
+{
+  "drug_code": "79612",
+  "din": "02310481",
+  "brand_name": "PRO-GABAPENTIN",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "05-MAY-2015",
+  "active_ingredients": [
+    {
+      "name": "GABAPENTIN",
+      "strength": "800",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "PRO DOC LIMITEE"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "GABAPENTIN"
+  ]
+}

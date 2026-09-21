@@ -1,0 +1,43 @@
+{
+  "drug_code": "88910",
+  "din": "02404338",
+  "brand_name": "SPF/FPS 30",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "17-NOV-2016",
+  "active_ingredients": [
+    {
+      "name": "AVOBENZONE",
+      "strength": "3",
+      "unit": "%"
+    },
+    {
+      "name": "OCTOCRYLENE",
+      "strength": "10",
+      "unit": "%"
+    },
+    {
+      "name": "OCTISALATE",
+      "strength": "5",
+      "unit": "%"
+    },
+    {
+      "name": "HOMOSALATE",
+      "strength": "10",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "LOTION"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "EDGEWELL PERSONAL CARE CANADA, ULC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "COMBINATIONS OF PROTECTIVES AGAINST UV-RADIATION"
+  ]
+}

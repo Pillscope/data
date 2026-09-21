@@ -1,0 +1,43 @@
+{
+  "drug_code": "94240",
+  "din": "02455587",
+  "brand_name": "CLINIQUE SPF 30 WITH SOLARSMART+ OIL-FREE FACE CREAM",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "14-JUN-2017",
+  "active_ingredients": [
+    {
+      "name": "ZINC OXIDE",
+      "strength": "5",
+      "unit": "%"
+    },
+    {
+      "name": "TITANIUM DIOXIDE",
+      "strength": "4.6",
+      "unit": "%"
+    },
+    {
+      "name": "OCTISALATE",
+      "strength": "4.5",
+      "unit": "%"
+    },
+    {
+      "name": "OCTINOXATE",
+      "strength": "7.5",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "CREAM"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "CLINIQUE LABORATORIES DIST"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "COMBINATIONS OF PROTECTIVES AGAINST UV-RADIATION"
+  ]
+}

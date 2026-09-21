@@ -1,0 +1,28 @@
+{
+  "drug_code": "157",
+  "din": "00010332",
+  "brand_name": "ENTROPHEN 325MG TABLETS",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "21-AUG-2015",
+  "active_ingredients": [
+    {
+      "name": "ACETYLSALICYLIC ACID",
+      "strength": "325",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET (DELAYED-RELEASE)"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "PENDOPHARM DIVISION OF DE PHARMASCIENCE INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "ACETYLSALICYLIC ACID"
+  ]
+}

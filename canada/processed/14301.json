@@ -1,0 +1,31 @@
+{
+  "drug_code": "14301",
+  "din": "01983377",
+  "brand_name": "DUPLOCILLIN LA",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "26-MAR-2013",
+  "active_ingredients": [
+    {
+      "name": "PENICILLIN G PROCAINE",
+      "strength": "150000",
+      "unit": "UNIT"
+    },
+    {
+      "name": "PENICILLIN G BENZATHINE",
+      "strength": "150000",
+      "unit": "UNIT"
+    }
+  ],
+  "forms": [
+    "SUSPENSION"
+  ],
+  "routes": [
+    "INTRAMUSCULAR"
+  ],
+  "companies": [
+    "INTERVET CANADA CORP"
+  ],
+  "status": "MARKETED",
+  "atc": []
+}

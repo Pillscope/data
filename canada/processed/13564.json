@@ -1,0 +1,26 @@
+{
+  "drug_code": "13564",
+  "din": "00617598",
+  "brand_name": "SAFE-GUARD PREMIX 20%",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "29-APR-2013",
+  "active_ingredients": [
+    {
+      "name": "FENBENDAZOLE",
+      "strength": "200",
+      "unit": "G"
+    }
+  ],
+  "forms": [
+    "DRUG PREMIX"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "INTERVET CANADA CORP"
+  ],
+  "status": "APPROVED",
+  "atc": []
+}

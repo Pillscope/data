@@ -1,0 +1,28 @@
+{
+  "drug_code": "72042",
+  "din": "02247750",
+  "brand_name": "PMS-PAROXETINE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "02-JUN-2011",
+  "active_ingredients": [
+    {
+      "name": "PAROXETINE (PAROXETINE HYDROCHLORIDE)",
+      "strength": "10",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "PHARMASCIENCE INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "PAROXETINE"
+  ]
+}

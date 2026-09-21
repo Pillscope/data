@@ -1,0 +1,26 @@
+{
+  "drug_code": "43286",
+  "din": "02220563",
+  "brand_name": "FORTEKOR FLAVOR TABS",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "20-JUN-2017",
+  "active_ingredients": [
+    {
+      "name": "BENAZEPRIL HYDROCHLORIDE",
+      "strength": "5",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "ELANCO CANADA LIMITED"
+  ],
+  "status": "APPROVED",
+  "atc": []
+}

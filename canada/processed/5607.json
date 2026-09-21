@@ -1,0 +1,31 @@
+{
+  "drug_code": "5607",
+  "din": "00607223",
+  "brand_name": "CO-OP A PLUS D INJ",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "09-JUL-2004",
+  "active_ingredients": [
+    {
+      "name": "VITAMIN D3",
+      "strength": "75000",
+      "unit": "UNIT"
+    },
+    {
+      "name": "VITAMIN A",
+      "strength": "500000",
+      "unit": "UNIT"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "INTRAMUSCULAR"
+  ],
+  "companies": [
+    "INTERPROVINCIAL CO-OP LTD"
+  ],
+  "status": "MARKETED",
+  "atc": []
+}

@@ -1,0 +1,28 @@
+{
+  "drug_code": "6170",
+  "din": "00627410",
+  "brand_name": "ELIXIR DE THEOPHYLLINE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "22-OCT-2012",
+  "active_ingredients": [
+    {
+      "name": "THEOPHYLLINE",
+      "strength": "80",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "ELIXIR"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "LABORATOIRE ATLAS INC"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "THEOPHYLLINE"
+  ]
+}

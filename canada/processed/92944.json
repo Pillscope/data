@@ -1,0 +1,34 @@
+{
+  "drug_code": "92944",
+  "din": "02444402",
+  "brand_name": "PLEGRIDY",
+  "class": "Human",
+  "descriptor": "PRE-FILLED SYRINGES OR PRE-FILLED PENS",
+  "last_update": "28-MAR-2018",
+  "active_ingredients": [
+    {
+      "name": "PEGINTERFERON BETA-1A",
+      "strength": "63",
+      "unit": "MCG"
+    },
+    {
+      "name": "PEGINTERFERON BETA-1A",
+      "strength": "94",
+      "unit": "MCG"
+    }
+  ],
+  "forms": [
+    "KIT",
+    "LIQUID"
+  ],
+  "routes": [
+    "SUBCUTANEOUS"
+  ],
+  "companies": [
+    "BIOGEN CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "PEGINTERFERON BETA-1A"
+  ]
+}

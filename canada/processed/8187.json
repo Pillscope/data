@@ -1,0 +1,29 @@
+{
+  "drug_code": "8187",
+  "din": "00745626",
+  "brand_name": "HUMATROPE INJ 1MG/ML",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "26-MAY-2016",
+  "active_ingredients": [
+    {
+      "name": "SOMATROPIN",
+      "strength": "1",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "POWDER FOR SOLUTION"
+  ],
+  "routes": [
+    "INTRAMUSCULAR",
+    "SUBCUTANEOUS"
+  ],
+  "companies": [
+    "ELI LILLY CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "SOMATROPIN"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "drug_code": "70575",
+  "din": "02246403",
+  "brand_name": "JUNIOR STRENGTH ADVIL",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "23-MAY-2013",
+  "active_ingredients": [
+    {
+      "name": "IBUPROFEN",
+      "strength": "100",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET (CHEWABLE)"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "PFIZER CONSUMER HEALTHCARE A DIVISION OF PFIZER CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "IBUPROFEN"
+  ]
+}

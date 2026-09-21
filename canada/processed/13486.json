@@ -1,0 +1,28 @@
+{
+  "drug_code": "13486",
+  "din": "00786942",
+  "brand_name": "MICRO MN",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "05-MAY-2015",
+  "active_ingredients": [
+    {
+      "name": "MANGANESE (MANGANESE SULFATE)",
+      "strength": "0.1",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "SANDOZ CANADA INCORPORATED"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "OTHER MINERAL PRODUCTS"
+  ]
+}

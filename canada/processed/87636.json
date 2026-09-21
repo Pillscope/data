@@ -1,0 +1,26 @@
+{
+  "drug_code": "87636",
+  "din": "02390973",
+  "brand_name": "AVL COPPER SULFATE",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "03-APR-2013",
+  "active_ingredients": [
+    {
+      "name": "COPPER SULFATE",
+      "strength": "51",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "POWDER FOR SOLUTION"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "ALBERTA VETERINARY LABORATORIES LTD"
+  ],
+  "status": "MARKETED",
+  "atc": []
+}

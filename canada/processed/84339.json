@@ -1,0 +1,33 @@
+{
+  "drug_code": "84339",
+  "din": "02358336",
+  "brand_name": "IMIPENEM AND CILASTATIN FOR INJECTION USP",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "01-JUN-2011",
+  "active_ingredients": [
+    {
+      "name": "CILASTATIN (CILASTATIN SODIUM)",
+      "strength": "250",
+      "unit": "MG"
+    },
+    {
+      "name": "IMIPENEM",
+      "strength": "250",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "POWDER FOR SOLUTION"
+  ],
+  "routes": [
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "SANDOZ CANADA INCORPORATED"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "IMIPENEM AND CILASTATIN"
+  ]
+}

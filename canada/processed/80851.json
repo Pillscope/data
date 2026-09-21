@@ -1,0 +1,26 @@
+{
+  "drug_code": "80851",
+  "din": "02323028",
+  "brand_name": "PRACETAM 20% O.S.",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "29-JAN-2016",
+  "active_ingredients": [
+    {
+      "name": "ACETAMINOPHEN",
+      "strength": "200",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "CEVA ANIMAL HEALTH INC"
+  ],
+  "status": "APPROVED",
+  "atc": []
+}

@@ -1,0 +1,27 @@
+{
+  "drug_code": "2817",
+  "din": "00419834",
+  "brand_name": "VITAMIN K INJ 50MG/ML",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "25-JAN-2012",
+  "active_ingredients": [
+    {
+      "name": "MENADIONE SODIUM BISULFITE",
+      "strength": "50",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "LIQUID"
+  ],
+  "routes": [
+    "INTRAMUSCULAR",
+    "SUBCUTANEOUS"
+  ],
+  "companies": [
+    "PROFESSIONAL VETERINARY LABORATORIES"
+  ],
+  "status": "MARKETED",
+  "atc": []
+}

@@ -1,0 +1,29 @@
+{
+  "drug_code": "18611",
+  "din": "02167832",
+  "brand_name": "DROPERIDOL INJECTION USP 2.5MG/ML",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "23-FEB-2016",
+  "active_ingredients": [
+    {
+      "name": "DROPERIDOL",
+      "strength": "2.5",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "INTRAMUSCULAR",
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "SANDOZ CANADA INCORPORATED"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "DROPERIDOL"
+  ]
+}

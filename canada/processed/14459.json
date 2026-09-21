@@ -1,0 +1,30 @@
+{
+  "drug_code": "14459",
+  "din": "02024284",
+  "brand_name": "NOVOLIN GE TORONTO PENFILL",
+  "class": "Human",
+  "descriptor": "3ML PENFILL CARTRIDGE",
+  "last_update": "29-APR-2015",
+  "active_ingredients": [
+    {
+      "name": "INSULIN INJECTION HUMAN BIOSYNTHETIC",
+      "strength": "100",
+      "unit": "UNIT"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "INTRAMUSCULAR",
+    "INTRAVENOUS",
+    "SUBCUTANEOUS"
+  ],
+  "companies": [
+    "NOVO NORDISK CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "INSULIN (HUMAN)"
+  ]
+}

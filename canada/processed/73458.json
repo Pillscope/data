@@ -1,0 +1,28 @@
+{
+  "drug_code": "73458",
+  "din": "02249758",
+  "brand_name": "DOM-PRAVASTATIN",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "17-MAY-2004",
+  "active_ingredients": [
+    {
+      "name": "PRAVASTATIN SODIUM",
+      "strength": "40",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "DOMINION PHARMACAL"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "PRAVASTATIN"
+  ]
+}

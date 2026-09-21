@@ -1,0 +1,26 @@
+{
+  "drug_code": "93882",
+  "din": "02452448",
+  "brand_name": "METACAM FOR SWINE",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "28-OCT-2016",
+  "active_ingredients": [
+    {
+      "name": "MELOXICAM",
+      "strength": "5",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "INTRAMUSCULAR"
+  ],
+  "companies": [
+    "BOEHRINGER INGELHEIM (CANADA) LTD LTEE"
+  ],
+  "status": "APPROVED",
+  "atc": []
+}

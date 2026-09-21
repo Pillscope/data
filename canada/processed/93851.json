@@ -1,0 +1,28 @@
+{
+  "drug_code": "93851",
+  "din": "02452073",
+  "brand_name": "RAN-TADALAFIL",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "15-JUL-2016",
+  "active_ingredients": [
+    {
+      "name": "TADALAFIL",
+      "strength": "5",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "RANBAXY PHARMACEUTICALS CANADA INC."
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "TADALAFIL"
+  ]
+}

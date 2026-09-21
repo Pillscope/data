@@ -1,0 +1,26 @@
+{
+  "drug_code": "50578",
+  "din": "02231271",
+  "brand_name": "LINCOMYCIN SOLUBLE POWDER",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "24-JAN-2018",
+  "active_ingredients": [
+    {
+      "name": "LINCOMYCIN (LINCOMYCIN HYDROCHLORIDE)",
+      "strength": "400",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "POWDER"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "BIO AGRI MIX LP"
+  ],
+  "status": "APPROVED",
+  "atc": []
+}

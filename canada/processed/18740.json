@@ -1,0 +1,28 @@
+{
+  "drug_code": "18740",
+  "din": "02156016",
+  "brand_name": "FLUANXOL 3MG - TAB",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "03-MAY-2005",
+  "active_ingredients": [
+    {
+      "name": "FLUPENTIXOL (FLUPENTIXOL DIHYDROCHLORIDE)",
+      "strength": "3",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "LUNDBECK CANADA INC"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "FLUPENTIXOL"
+  ]
+}

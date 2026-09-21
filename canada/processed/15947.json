@@ -1,0 +1,33 @@
+{
+  "drug_code": "15947",
+  "din": "01938177",
+  "brand_name": "KENNELSOL LIQ",
+  "class": "Disinfectant",
+  "descriptor": "",
+  "last_update": "03-JUN-2016",
+  "active_ingredients": [
+    {
+      "name": "DIDECYL DIMETHYL AMMONIUM CHLORIDE",
+      "strength": "2.31",
+      "unit": "%"
+    },
+    {
+      "name": "BENZALKONIUM CHLORIDE",
+      "strength": "1.54",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "LIQUID"
+  ],
+  "routes": [
+    "DISINFECTANT (Hospital/HC Facilities)"
+  ],
+  "companies": [
+    "ALPHA TECH PET INC."
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "TECHNICAL DISINFECTANTS"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "drug_code": "62566",
+  "din": "02239111",
+  "brand_name": "MICODERM",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "21-OCT-2017",
+  "active_ingredients": [
+    {
+      "name": "MICONAZOLE (MICONAZOLE NITRATE)",
+      "strength": "2",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "SHAMPOO"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "NOR VET SALES INC"
+  ],
+  "status": "APPROVED",
+  "atc": []
+}

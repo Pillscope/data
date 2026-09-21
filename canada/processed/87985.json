@@ -1,0 +1,39 @@
+{
+  "drug_code": "87985",
+  "din": "02394707",
+  "brand_name": "ROBITUSSIN CHILDREN'S COUGH & COLD BEDTIME",
+  "class": "Human",
+  "descriptor": "DYE, ALCOHOL AND SUGAR FREE",
+  "last_update": "17-JUL-2013",
+  "active_ingredients": [
+    {
+      "name": "PHENYLEPHRINE HYDROCHLORIDE",
+      "strength": "5",
+      "unit": "MG"
+    },
+    {
+      "name": "BROMPHENIRAMINE MALEATE",
+      "strength": "2",
+      "unit": "MG"
+    },
+    {
+      "name": "DEXTROMETHORPHAN HYDROBROMIDE",
+      "strength": "10",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "LIQUID"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "PFIZER CONSUMER HEALTHCARE A DIVISION OF PFIZER CANADA INC"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "COMBINATIONS",
+    "COMBINATIONS"
+  ]
+}

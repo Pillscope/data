@@ -1,0 +1,28 @@
+{
+  "drug_code": "83451",
+  "din": "02349191",
+  "brand_name": "ALPRAZOLAM",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "05-MAY-2015",
+  "active_ingredients": [
+    {
+      "name": "ALPRAZOLAM",
+      "strength": "0.25",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "SANIS HEALTH INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "ALPRAZOLAM"
+  ]
+}

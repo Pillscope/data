@@ -1,0 +1,33 @@
+{
+  "drug_code": "93293",
+  "din": "02447355",
+  "brand_name": "SUNLOTION LOTIONSOLAIRE SPF/FPS 4",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "20-JUN-2016",
+  "active_ingredients": [
+    {
+      "name": "OCTOCRYLENE",
+      "strength": "1",
+      "unit": "G"
+    },
+    {
+      "name": "OXYBENZONE",
+      "strength": "0.5",
+      "unit": "G"
+    }
+  ],
+  "forms": [
+    "LOTION"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "FRUIT OF THE EARTH, INC"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "COMBINATIONS OF PROTECTIVES AGAINST UV-RADIATION"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "drug_code": "90601",
+  "din": "02421380",
+  "brand_name": "MINT-PAROXETINE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "14-JAN-2016",
+  "active_ingredients": [
+    {
+      "name": "PAROXETINE (PAROXETINE HYDROCHLORIDE HEMIHYDRATE)",
+      "strength": "20",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "MINT PHARMACEUTICALS INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "PAROXETINE"
+  ]
+}

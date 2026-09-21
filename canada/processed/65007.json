@@ -1,0 +1,31 @@
+{
+  "drug_code": "65007",
+  "din": "02241375",
+  "brand_name": "UNIPRIM ORAL POWDER",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "01-DEC-2015",
+  "active_ingredients": [
+    {
+      "name": "TRIMETHOPRIM",
+      "strength": "67",
+      "unit": "MG"
+    },
+    {
+      "name": "SULFADIAZINE",
+      "strength": "333",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "POWDER"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "NEOGEN CORPORATION"
+  ],
+  "status": "APPROVED",
+  "atc": []
+}

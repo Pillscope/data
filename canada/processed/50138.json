@@ -1,0 +1,28 @@
+{
+  "drug_code": "50138",
+  "din": "02230864",
+  "brand_name": "WASP VENOM PROTEIN MULTIDOSE 13.0 ML (1300 MCG)",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "10-OCT-2012",
+  "active_ingredients": [
+    {
+      "name": "POLISTES SPP VENOM PROTEIN EXTRACT",
+      "strength": "1300",
+      "unit": "MCG"
+    }
+  ],
+  "forms": [
+    "POWDER FOR SOLUTION"
+  ],
+  "routes": [
+    "SUBCUTANEOUS"
+  ],
+  "companies": [
+    "JUBILANT HOLLISTERSTIER LLC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "INSECTS"
+  ]
+}

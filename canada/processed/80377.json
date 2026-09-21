@@ -1,0 +1,28 @@
+{
+  "drug_code": "80377",
+  "din": "02318261",
+  "brand_name": "REBIF",
+  "class": "Human",
+  "descriptor": "PRE-FILLED CARTRIDGE (MULTIDOSE)",
+  "last_update": "02-FEB-2011",
+  "active_ingredients": [
+    {
+      "name": "INTERFERON BETA-1A",
+      "strength": "132",
+      "unit": "MCG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "SUBCUTANEOUS"
+  ],
+  "companies": [
+    "EMD SERONO A DIVISION OF EMD INC CANADA"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "INTERFERON BETA-1A"
+  ]
+}

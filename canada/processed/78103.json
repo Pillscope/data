@@ -1,0 +1,30 @@
+{
+  "drug_code": "78103",
+  "din": "02295687",
+  "brand_name": "CLOR-5 SODIUM HYPOCHLORITE",
+  "class": "Disinfectant",
+  "descriptor": "",
+  "last_update": "11-MAY-2009",
+  "active_ingredients": [
+    {
+      "name": "SODIUM HYPOCHLORITE",
+      "strength": "5.25",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "LIQUID"
+  ],
+  "routes": [
+    "DISINFECTANT (Food Premises)",
+    "DISINFECTANT (Hospital/HC Facilities)",
+    "DISINFECTANT (Institutional/Industrial)"
+  ],
+  "companies": [
+    "GLEN CHEMICALS LIMITED"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "TECHNICAL DISINFECTANTS"
+  ]
+}

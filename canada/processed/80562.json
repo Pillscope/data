@@ -1,0 +1,28 @@
+{
+  "drug_code": "80562",
+  "din": "02320177",
+  "brand_name": "TEVA-TELMISARTAN",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "04-DEC-2013",
+  "active_ingredients": [
+    {
+      "name": "TELMISARTAN",
+      "strength": "40",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "TEVA CANADA LIMITED"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "TELMISARTAN"
+  ]
+}

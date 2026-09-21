@@ -1,0 +1,28 @@
+{
+  "drug_code": "11870",
+  "din": "01916386",
+  "brand_name": "PMS HYDROMORPHONE SIROP 1MG/ML",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "23-JAN-2018",
+  "active_ingredients": [
+    {
+      "name": "HYDROMORPHONE HYDROCHLORIDE",
+      "strength": "1",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SYRUP"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "PHARMASCIENCE INC"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "HYDROMORPHONE"
+  ]
+}

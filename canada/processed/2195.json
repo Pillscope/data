@@ -1,0 +1,36 @@
+{
+  "drug_code": "2195",
+  "din": "00346675",
+  "brand_name": "COUGHTROL",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "13-AUG-2003",
+  "active_ingredients": [
+    {
+      "name": "GUAIFENESIN",
+      "strength": "31.75",
+      "unit": "G"
+    },
+    {
+      "name": "ETHYLENEDIAMINE DIHYDROIODIDE",
+      "strength": "16.6",
+      "unit": "G"
+    },
+    {
+      "name": "AMMONIUM CHLORIDE",
+      "strength": "226.8",
+      "unit": "G"
+    }
+  ],
+  "forms": [
+    "POWDER"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "PROFESSIONAL VETERINARY LABORATORIES"
+  ],
+  "status": "MARKETED",
+  "atc": []
+}

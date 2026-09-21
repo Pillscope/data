@@ -1,0 +1,41 @@
+{
+  "drug_code": "12174",
+  "din": "01916637",
+  "brand_name": "PANOLOG OINTMENT",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "19-MAY-2016",
+  "active_ingredients": [
+    {
+      "name": "TRIAMCINOLONE ACETONIDE",
+      "strength": "1",
+      "unit": "MG"
+    },
+    {
+      "name": "THIOSTREPTON (ANTIBIOTIC OF A STREPTOMYCES SPECIES)",
+      "strength": "2500",
+      "unit": "UNIT"
+    },
+    {
+      "name": "NYSTATIN",
+      "strength": "100000",
+      "unit": "UNIT"
+    },
+    {
+      "name": "NEOMYCIN (NEOMYCIN SULFATE)",
+      "strength": "2.5",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "OINTMENT"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "ELANCO CANADA LIMITED"
+  ],
+  "status": "APPROVED",
+  "atc": []
+}

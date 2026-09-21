@@ -1,0 +1,28 @@
+{
+  "drug_code": "88422",
+  "din": "02399334",
+  "brand_name": "CALCITRIOL INJECTION USP",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "02-APR-2015",
+  "active_ingredients": [
+    {
+      "name": "CALCITRIOL",
+      "strength": "1",
+      "unit": "MCG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "STERIMAX INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "CALCITRIOL"
+  ]
+}

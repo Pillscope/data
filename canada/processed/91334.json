@@ -1,0 +1,28 @@
+{
+  "drug_code": "91334",
+  "din": "02428873",
+  "brand_name": "MINT-DUTASTERIDE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "14-JAN-2016",
+  "active_ingredients": [
+    {
+      "name": "DUTASTERIDE",
+      "strength": "0.5",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "CAPSULE"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "MINT PHARMACEUTICALS INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "DUTASTERIDE"
+  ]
+}

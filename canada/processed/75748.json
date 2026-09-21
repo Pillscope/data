@@ -1,0 +1,28 @@
+{
+  "drug_code": "75748",
+  "din": "02271958",
+  "brand_name": "ACT ZOPICLONE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "14-MAY-2015",
+  "active_ingredients": [
+    {
+      "name": "ZOPICLONE",
+      "strength": "7.5",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "ACTAVIS PHARMA COMPANY"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "ZOPICLONE"
+  ]
+}

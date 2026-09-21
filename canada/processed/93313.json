@@ -1,0 +1,28 @@
+{
+  "drug_code": "93313",
+  "din": "02447541",
+  "brand_name": "FINASTERIDE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "04-JUL-2016",
+  "active_ingredients": [
+    {
+      "name": "FINASTERIDE",
+      "strength": "5",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "SIVEM PHARMACEUTICALS ULC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "FINASTERIDE"
+  ]
+}

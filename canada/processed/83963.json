@@ -1,0 +1,28 @@
+{
+  "drug_code": "83963",
+  "din": "02354462",
+  "brand_name": "ACT FINASTERIDE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "13-MAY-2015",
+  "active_ingredients": [
+    {
+      "name": "FINASTERIDE",
+      "strength": "5",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "ACTAVIS PHARMA COMPANY"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "FINASTERIDE"
+  ]
+}

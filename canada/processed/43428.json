@@ -1,0 +1,34 @@
+{
+  "drug_code": "43428",
+  "din": "02225271",
+  "brand_name": "BENZAMYCIN",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "05-MAY-2015",
+  "active_ingredients": [
+    {
+      "name": "BENZOYL PEROXIDE",
+      "strength": "50",
+      "unit": "MG"
+    },
+    {
+      "name": "ERYTHROMYCIN",
+      "strength": "30",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "GEL"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "VALEANT CANADA LP/VALEANT CANADA S.E.C."
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "ERYTHROMYCIN, COMBINATIONS",
+    "ERYTHROMYCIN, COMBINATIONS"
+  ]
+}

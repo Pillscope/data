@@ -1,0 +1,29 @@
+{
+  "drug_code": "2221",
+  "din": "00030627",
+  "brand_name": "SOLU-CORTEF 500 MG ACT-O-VIAL",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "22-APR-2009",
+  "active_ingredients": [
+    {
+      "name": "HYDROCORTISONE (HYDROCORTISONE SODIUM SUCCINATE)",
+      "strength": "500",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "POWDER FOR SOLUTION"
+  ],
+  "routes": [
+    "INTRAMUSCULAR",
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "PFIZER CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "HYDROCORTISONE"
+  ]
+}

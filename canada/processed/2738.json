@@ -1,0 +1,28 @@
+{
+  "drug_code": "2738",
+  "din": "00397423",
+  "brand_name": "LOPRESOR 50MG",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "02-MAR-2006",
+  "active_ingredients": [
+    {
+      "name": "METOPROLOL TARTRATE",
+      "strength": "50",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "NOVARTIS PHARMACEUTICALS CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "METOPROLOL"
+  ]
+}

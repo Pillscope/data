@@ -1,0 +1,48 @@
+{
+  "drug_code": "94288",
+  "din": "02456036",
+  "brand_name": "DRY BALANCE SUNSCREEN SPRAY SPF 50+",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "04-JAN-2017",
+  "active_ingredients": [
+    {
+      "name": "AVOBENZONE",
+      "strength": "3",
+      "unit": "%"
+    },
+    {
+      "name": "OCTOCRYLENE",
+      "strength": "3",
+      "unit": "%"
+    },
+    {
+      "name": "OXYBENZONE",
+      "strength": "4",
+      "unit": "%"
+    },
+    {
+      "name": "OCTISALATE",
+      "strength": "5",
+      "unit": "%"
+    },
+    {
+      "name": "HOMOSALATE",
+      "strength": "10",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "AEROSOL"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "EDGEWELL PERSONAL CARE CANADA, ULC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "COMBINATIONS OF PROTECTIVES AGAINST UV-RADIATION"
+  ]
+}

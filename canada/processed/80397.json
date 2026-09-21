@@ -1,0 +1,38 @@
+{
+  "drug_code": "80397",
+  "din": "02318482",
+  "brand_name": "GOLD BOND ANTI-ITCH LOTION",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "29-APR-2015",
+  "active_ingredients": [
+    {
+      "name": "PRAMOXINE HYDROCHLORIDE",
+      "strength": "1",
+      "unit": "%"
+    },
+    {
+      "name": "DIMETHICONE",
+      "strength": "5",
+      "unit": "%"
+    },
+    {
+      "name": "MENTHOL",
+      "strength": "0.5",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "LOTION"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "SANOFI CONSUMER HEALTH INC SANOFI SANTE GRAND PUBLIC INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "PRAMOCAINE"
+  ]
+}

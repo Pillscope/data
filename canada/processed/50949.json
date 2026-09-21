@@ -1,0 +1,29 @@
+{
+  "drug_code": "50949",
+  "din": "02231583",
+  "brand_name": "EPREX STERILE SOLUTION 1000IU/0.5ML",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "11-FEB-2008",
+  "active_ingredients": [
+    {
+      "name": "EPOETIN ALFA",
+      "strength": "1000",
+      "unit": "UNIT"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "INTRAVENOUS",
+    "SUBCUTANEOUS"
+  ],
+  "companies": [
+    "JANSSEN INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "ERYTHROPOIETIN"
+  ]
+}

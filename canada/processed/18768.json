@@ -1,0 +1,28 @@
+{
+  "drug_code": "18768",
+  "din": "02177102",
+  "brand_name": "FAMVIR TABLETS 500MG",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "22-FEB-2006",
+  "active_ingredients": [
+    {
+      "name": "FAMCICLOVIR",
+      "strength": "500",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "NOVARTIS PHARMACEUTICALS CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "FAMCICLOVIR"
+  ]
+}

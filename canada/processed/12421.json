@@ -1,0 +1,28 @@
+{
+  "drug_code": "12421",
+  "din": "01926543",
+  "brand_name": "SECTRAL",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "27-JUL-2010",
+  "active_ingredients": [
+    {
+      "name": "ACEBUTOLOL (ACEBUTOLOL HYDROCHLORIDE)",
+      "strength": "100",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "SANOFI-AVENTIS CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "ACEBUTOLOL"
+  ]
+}

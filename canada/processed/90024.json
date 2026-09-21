@@ -1,0 +1,31 @@
+{
+  "drug_code": "90024",
+  "din": "02415658",
+  "brand_name": "DISINFECTING WIPES",
+  "class": "Disinfectant",
+  "descriptor": "",
+  "last_update": "06-OCT-2017",
+  "active_ingredients": [
+    {
+      "name": "THYMOL (THYME OIL)",
+      "strength": "0.05",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "WIPE"
+  ],
+  "routes": [
+    "DISINFECTANT (Food Premises)",
+    "DISINFECTANT (Hospital/HC Facilities)",
+    "DISINFECTANT (Domestic)",
+    "DISINFECTANT (Institutional/Industrial)"
+  ],
+  "companies": [
+    "SEVENTH GENERATION"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "TECHNICAL DISINFECTANTS"
+  ]
+}

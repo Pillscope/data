@@ -1,0 +1,28 @@
+{
+  "drug_code": "63250",
+  "din": "02239768",
+  "brand_name": "VIAGRA",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "22-JAN-2017",
+  "active_ingredients": [
+    {
+      "name": "SILDENAFIL (SILDENAFIL CITRATE)",
+      "strength": "100",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "PFIZER CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "SILDENAFIL"
+  ]
+}

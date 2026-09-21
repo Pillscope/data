@@ -1,0 +1,28 @@
+{
+  "drug_code": "69609",
+  "din": "02245522",
+  "brand_name": "TARO-CLOBETASOL TOPICAL SOLUTION USP, 0.05%",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "24-JAN-2006",
+  "active_ingredients": [
+    {
+      "name": "CLOBETASOL PROPIONATE",
+      "strength": "0.05",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "TARO PHARMACEUTICALS INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "CLOBETASOL"
+  ]
+}

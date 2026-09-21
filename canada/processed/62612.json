@@ -1,0 +1,34 @@
+{
+  "drug_code": "62612",
+  "din": "02239156",
+  "brand_name": "POLYSPORIN EYE AND EAR DROPS STERILE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "29-APR-2015",
+  "active_ingredients": [
+    {
+      "name": "GRAMICIDIN",
+      "strength": "0.025",
+      "unit": "MG"
+    },
+    {
+      "name": "POLYMYXIN B (POLYMYXIN B SULFATE)",
+      "strength": "10000",
+      "unit": "UNIT"
+    }
+  ],
+  "forms": [
+    "DROPS"
+  ],
+  "routes": [
+    "OPHTHALMIC",
+    "OTIC"
+  ],
+  "companies": [
+    "JOHNSON & JOHNSON INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "ANTIINFECTIVES, COMBINATIONS"
+  ]
+}

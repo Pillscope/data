@@ -1,0 +1,34 @@
+{
+  "drug_code": "88843",
+  "din": "02403641",
+  "brand_name": "TEVA-ALENDRONATE/CHOLECALCIFEROL",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "21-OCT-2013",
+  "active_ingredients": [
+    {
+      "name": "VITAMIN D3 (CHOLECALCIFEROL)",
+      "strength": "5600",
+      "unit": "UNIT"
+    },
+    {
+      "name": "ALENDRONIC ACID (ALENDRONATE SODIUM)",
+      "strength": "70",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "TEVA CANADA LIMITED"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "ALENDRONIC ACID AND CHOLECALCIFEROL",
+    "ALENDRONIC ACID AND CHOLECALCIFEROL"
+  ]
+}

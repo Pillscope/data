@@ -1,0 +1,28 @@
+{
+  "drug_code": "88350",
+  "din": "02398559",
+  "brand_name": "LIDOCAINE HYDROCHLORIDE SOLUTION",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "25-SEP-2013",
+  "active_ingredients": [
+    {
+      "name": "LIDOCAINE HYDROCHLORIDE",
+      "strength": "1",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "SPRAY, BAG-ON-VALVE"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "PRIME ENTERPRISES INC"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "LIDOCAINE"
+  ]
+}

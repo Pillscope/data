@@ -1,0 +1,48 @@
+{
+  "drug_code": "85049",
+  "din": "02365618",
+  "brand_name": "BENYLIN EXTRA STRENGTH MUCUS & PHLEGM PLUS COLD RELIEF NIGHT",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "11-DEC-2014",
+  "active_ingredients": [
+    {
+      "name": "GUAIFENESIN",
+      "strength": "100",
+      "unit": "MG"
+    },
+    {
+      "name": "PSEUDOEPHEDRINE HYDROCHLORIDE",
+      "strength": "30",
+      "unit": "MG"
+    },
+    {
+      "name": "CHLORPHENIRAMINE MALEATE",
+      "strength": "2",
+      "unit": "MG"
+    },
+    {
+      "name": "ACETAMINOPHEN",
+      "strength": "500",
+      "unit": "MG"
+    },
+    {
+      "name": "DEXTROMETHORPHAN HYDROBROMIDE",
+      "strength": "15",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SYRUP"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "MCNEIL CONSUMER HEALTHCARE DIVISION OF JOHNSON & JOHNSON INC"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "ACETAMINOPHEN, COMB EXCL PSYCHOLEPTICS"
+  ]
+}

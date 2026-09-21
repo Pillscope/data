@@ -1,0 +1,28 @@
+{
+  "drug_code": "91364",
+  "din": "02429209",
+  "brand_name": "TARO-PEMETREXED",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "16-MAY-2017",
+  "active_ingredients": [
+    {
+      "name": "PEMETREXED (PEMETREXED DISODIUM)",
+      "strength": "500",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "POWDER FOR SOLUTION"
+  ],
+  "routes": [
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "TARO PHARMACEUTICALS INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "PEMETREXED"
+  ]
+}

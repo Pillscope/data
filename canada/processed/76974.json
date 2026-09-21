@@ -1,0 +1,28 @@
+{
+  "drug_code": "76974",
+  "din": "02284197",
+  "brand_name": "DIORSKIN SCULPT FOND DE TEINT RAFFERMISSANT LISSANT",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "10-NOV-2010",
+  "active_ingredients": [
+    {
+      "name": "OCTINOXATE",
+      "strength": "7.0",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "EMULSION"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "PARFUMS CHRISTIAN DIOR"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "OCTYL METHOXYCINNAMATE"
+  ]
+}

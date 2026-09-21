@@ -1,0 +1,28 @@
+{
+  "drug_code": "20322",
+  "din": "02216086",
+  "brand_name": "ZERIT - CAP 15MG",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "09-APR-2008",
+  "active_ingredients": [
+    {
+      "name": "STAVUDINE",
+      "strength": "15",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "CAPSULE"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "BRISTOL-MYERS SQUIBB CANADA"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "STAVUDINE"
+  ]
+}

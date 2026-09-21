@@ -1,0 +1,28 @@
+{
+  "drug_code": "2171",
+  "din": "00319589",
+  "brand_name": "STING STOP 0.1%",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "10-MAY-2016",
+  "active_ingredients": [
+    {
+      "name": "BENZALKONIUM CHLORIDE",
+      "strength": ".1",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "LIQUID"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "CANADIAN CUSTOM PACKAGING COMPANY"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "BENZALKONIUM"
+  ]
+}

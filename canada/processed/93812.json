@@ -1,0 +1,28 @@
+{
+  "drug_code": "93812",
+  "din": "02451778",
+  "brand_name": "JAMP-CETIRIZINE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "13-APR-2016",
+  "active_ingredients": [
+    {
+      "name": "CETIRIZINE HYDROCHLORIDE",
+      "strength": "10",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "JAMP PHARMA CORPORATION"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "CETIRIZINE"
+  ]
+}

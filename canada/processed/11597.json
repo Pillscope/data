@@ -1,0 +1,28 @@
+{
+  "drug_code": "11597",
+  "din": "00614505",
+  "brand_name": "DOLORAL 5 SIROP 5MG/ML",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "22-OCT-2012",
+  "active_ingredients": [
+    {
+      "name": "MORPHINE HYDROCHLORIDE",
+      "strength": "5",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SYRUP"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "LABORATOIRE ATLAS INC"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "MORPHINE"
+  ]
+}

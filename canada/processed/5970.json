@@ -1,0 +1,28 @@
+{
+  "drug_code": "5970",
+  "din": "00578657",
+  "brand_name": "EPIPEN JR",
+  "class": "Human",
+  "descriptor": "0.15MG/0.3ML AUTO-INJECTOR",
+  "last_update": "29-JUL-2017",
+  "active_ingredients": [
+    {
+      "name": "EPINEPHRINE",
+      "strength": "0.15",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "INTRAMUSCULAR"
+  ],
+  "companies": [
+    "MYLAN SPECIALTY LP"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "EPINEPHRINE"
+  ]
+}

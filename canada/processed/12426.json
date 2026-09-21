@@ -1,0 +1,28 @@
+{
+  "drug_code": "12426",
+  "din": "01926799",
+  "brand_name": "IMOVANE 7.5 - TAB 7.5MG",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "06-AUG-2007",
+  "active_ingredients": [
+    {
+      "name": "ZOPICLONE",
+      "strength": "7.5",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "SANOFI-AVENTIS CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "ZOPICLONE"
+  ]
+}

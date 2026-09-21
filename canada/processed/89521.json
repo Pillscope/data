@@ -1,0 +1,28 @@
+{
+  "drug_code": "89521",
+  "din": "02410729",
+  "brand_name": "PRESIDENT'S CHOICE ULTRA DISINFECTANT BLEACH",
+  "class": "Disinfectant",
+  "descriptor": "",
+  "last_update": "04-FEB-2015",
+  "active_ingredients": [
+    {
+      "name": "SODIUM HYPOCHLORITE",
+      "strength": "8.25",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "LIQUID"
+  ],
+  "routes": [
+    "DISINFECTANT (Domestic)"
+  ],
+  "companies": [
+    "KIK CUSTOM PRODUCTS"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "TECHNICAL DISINFECTANTS"
+  ]
+}

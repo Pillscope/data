@@ -1,0 +1,28 @@
+{
+  "drug_code": "1294",
+  "din": "00232823",
+  "brand_name": "TEVA-CHLORPROMAZINE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "29-APR-2015",
+  "active_ingredients": [
+    {
+      "name": "CHLORPROMAZINE (CHLORPROMAZINE HYDROCHLORIDE)",
+      "strength": "25.0",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "TEVA CANADA LIMITED"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "CHLORPROMAZINE"
+  ]
+}

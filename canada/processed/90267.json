@@ -1,0 +1,38 @@
+{
+  "drug_code": "90267",
+  "din": "02418088",
+  "brand_name": "CR\u00c3\u0088ME RAJEUNISSANTE HAUTE FERMET\u00c3\u0089 JOUR",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "02-JUN-2017",
+  "active_ingredients": [
+    {
+      "name": "AVOBENZONE",
+      "strength": "3",
+      "unit": "%"
+    },
+    {
+      "name": "OCTOCRYLENE",
+      "strength": "7",
+      "unit": "%"
+    },
+    {
+      "name": "OXYBENZONE",
+      "strength": "3",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "CREAM"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "GROUPE MARCELLE INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "COMBINATIONS OF PROTECTIVES AGAINST UV-RADIATION"
+  ]
+}

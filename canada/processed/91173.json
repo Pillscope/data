@@ -1,0 +1,28 @@
+{
+  "drug_code": "91173",
+  "din": "02427206",
+  "brand_name": "JAMP-ASA 81MG EC",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "25-OCT-2016",
+  "active_ingredients": [
+    {
+      "name": "ACETYLSALICYLIC ACID",
+      "strength": "81",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET (ENTERIC-COATED)"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "VITA HEALTH PRODUCTS INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "ACETYLSALICYLIC ACID"
+  ]
+}

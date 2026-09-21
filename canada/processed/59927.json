@@ -1,0 +1,28 @@
+{
+  "drug_code": "59927",
+  "din": "02236507",
+  "brand_name": "RATIO-BACLOFEN",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "29-APR-2015",
+  "active_ingredients": [
+    {
+      "name": "BACLOFEN",
+      "strength": "10",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "TEVA CANADA LIMITED"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "BACLOFEN"
+  ]
+}

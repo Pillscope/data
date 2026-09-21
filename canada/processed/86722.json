@@ -1,0 +1,28 @@
+{
+  "drug_code": "86722",
+  "din": "02381397",
+  "brand_name": "EDARBI",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "28-FEB-2017",
+  "active_ingredients": [
+    {
+      "name": "Azilsartan Medoxomil (Azilsartan Medoxomil Potassium)",
+      "strength": "80",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "VALEANT CANADA LP/VALEANT CANADA S.E.C."
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "Azilsartan medoxomil"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "drug_code": "2658",
+  "din": "00399302",
+  "brand_name": "APO CHLORPROPAMIDE TAB 100MG",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "07-FEB-2008",
+  "active_ingredients": [
+    {
+      "name": "CHLORPROPAMIDE",
+      "strength": "100",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "APOTEX INC"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "CHLORPROPAMIDE"
+  ]
+}

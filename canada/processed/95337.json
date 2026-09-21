@@ -1,0 +1,28 @@
+{
+  "drug_code": "95337",
+  "din": "02465167",
+  "brand_name": "MINT-FENOFIBRATE E",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "19-FEB-2018",
+  "active_ingredients": [
+    {
+      "name": "FENOFIBRATE",
+      "strength": "145",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "MINT PHARMACEUTICALS INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "FENOFIBRATE"
+  ]
+}

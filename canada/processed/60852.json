@@ -1,0 +1,26 @@
+{
+  "drug_code": "60852",
+  "din": "02237517",
+  "brand_name": "PROGRAM 40",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "19-FEB-2018",
+  "active_ingredients": [
+    {
+      "name": "LUFENURON",
+      "strength": "40",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SUSPENSION"
+  ],
+  "routes": [
+    "SUBCUTANEOUS"
+  ],
+  "companies": [
+    "ELANCO CANADA LIMITED"
+  ],
+  "status": "APPROVED",
+  "atc": []
+}

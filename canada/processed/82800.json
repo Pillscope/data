@@ -1,0 +1,26 @@
+{
+  "drug_code": "82800",
+  "din": "02342510",
+  "brand_name": "VETERGESIC MULTIDOSE",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "05-MAY-2015",
+  "active_ingredients": [
+    {
+      "name": "BUPRENORPHINE (BUPRENORPHINE HYDROCHLORIDE)",
+      "strength": "0.3",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "INTRAMUSCULAR"
+  ],
+  "companies": [
+    "SOGEVAL UK LIMITED"
+  ],
+  "status": "APPROVED",
+  "atc": []
+}

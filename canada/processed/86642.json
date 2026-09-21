@@ -1,0 +1,38 @@
+{
+  "drug_code": "86642",
+  "din": "02380633",
+  "brand_name": "ESTEE LAUDER RESILIENCE LIFT FIRMING/SCULPTING FACE AND NECK CREME SPF 15 FOR NORMAL/COMBINATION SKIN",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "01-MAR-2013",
+  "active_ingredients": [
+    {
+      "name": "AVOBENZONE",
+      "strength": "3",
+      "unit": "%"
+    },
+    {
+      "name": "OCTOCRYLENE",
+      "strength": "2.7",
+      "unit": "%"
+    },
+    {
+      "name": "OCTISALATE",
+      "strength": "5",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "CREAM"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "ESTEE LAUDER DIST"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "COMBINATIONS OF PROTECTIVES AGAINST UV-RADIATION"
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "drug_code": "92914",
+  "din": "02444224",
+  "brand_name": "FACE AND BODY PROTECTIVE LOTION SPF 30",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "11-JAN-2018",
+  "active_ingredients": [
+    {
+      "name": "AVOBENZONE",
+      "strength": "3",
+      "unit": "%"
+    },
+    {
+      "name": "OCTOCRYLENE",
+      "strength": "10",
+      "unit": "%"
+    },
+    {
+      "name": "OXYBENZONE",
+      "strength": "5",
+      "unit": "%"
+    },
+    {
+      "name": "OCTINOXATE",
+      "strength": "7.5",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "LOTION"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "SOMAK DISTRIBUTION, DIVISION DE SILHOUET-TONE CORPORATION"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "COMBINATIONS OF PROTECTIVES AGAINST UV-RADIATION"
+  ]
+}

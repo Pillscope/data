@@ -1,0 +1,48 @@
+{
+  "drug_code": "80537",
+  "din": "02319926",
+  "brand_name": "SPORT LOTION 50 SPF",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "09-JUN-2015",
+  "active_ingredients": [
+    {
+      "name": "OCTOCRYLENE",
+      "strength": "2.0",
+      "unit": "%"
+    },
+    {
+      "name": "OXYBENZONE",
+      "strength": "6.0",
+      "unit": "%"
+    },
+    {
+      "name": "OCTISALATE",
+      "strength": "5.0",
+      "unit": "%"
+    },
+    {
+      "name": "HOMOSALATE",
+      "strength": "12.5",
+      "unit": "%"
+    },
+    {
+      "name": "OCTINOXATE",
+      "strength": "7.5",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "LOTION"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "EMPACK SPRAYTECH INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "COMBINATIONS OF PROTECTIVES AGAINST UV-RADIATION"
+  ]
+}

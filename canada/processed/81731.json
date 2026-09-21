@@ -1,0 +1,31 @@
+{
+  "drug_code": "81731",
+  "din": "02331632",
+  "brand_name": "PROSEB",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "03-JUN-2011",
+  "active_ingredients": [
+    {
+      "name": "SALICYLIC ACID",
+      "strength": "2",
+      "unit": "%"
+    },
+    {
+      "name": "SULFUR (SODIUM THIOSULFATE)",
+      "strength": "2",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "SHAMPOO"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "NOR VET SALES INC"
+  ],
+  "status": "MARKETED",
+  "atc": []
+}

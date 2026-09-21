@@ -1,0 +1,28 @@
+{
+  "drug_code": "91520",
+  "din": "02430762",
+  "brand_name": "PROTECTIVE LIP CONDITIONER",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "28-JUL-2016",
+  "active_ingredients": [
+    {
+      "name": "OCTINOXATE",
+      "strength": "4.9",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "STICK"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "SHISEIDO AMERICAS CORPORATION DIST"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "OCTYL METHOXYCINNAMATE"
+  ]
+}

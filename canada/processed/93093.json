@@ -1,0 +1,26 @@
+{
+  "drug_code": "93093",
+  "din": "02445654",
+  "brand_name": "PROPOFLO 28",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "27-SEP-2016",
+  "active_ingredients": [
+    {
+      "name": "PROPOFOL",
+      "strength": "10",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "ZOETIS CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": []
+}

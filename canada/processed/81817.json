@@ -1,0 +1,26 @@
+{
+  "drug_code": "81817",
+  "din": "02332493",
+  "brand_name": "COMFORTIS",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "28-MAR-2018",
+  "active_ingredients": [
+    {
+      "name": "SPINOSAD",
+      "strength": "140",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET (CHEWABLE)"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "ELANCO CANADA LIMITED"
+  ],
+  "status": "APPROVED",
+  "atc": []
+}

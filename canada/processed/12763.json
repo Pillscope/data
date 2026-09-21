@@ -1,0 +1,33 @@
+{
+  "drug_code": "12763",
+  "din": "01945904",
+  "brand_name": "ANUSOL PLUS SUPPOSITORIES",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "03-MAR-2017",
+  "active_ingredients": [
+    {
+      "name": "PRAMOXINE HYDROCHLORIDE",
+      "strength": "20",
+      "unit": "MG"
+    },
+    {
+      "name": "ZINC SULFATE",
+      "strength": "10",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SUPPOSITORY"
+  ],
+  "routes": [
+    "RECTAL"
+  ],
+  "companies": [
+    "CHURCH & DWIGHT CANADA CORP"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "PRAMOCAINE"
+  ]
+}

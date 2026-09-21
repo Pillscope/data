@@ -1,0 +1,26 @@
+{
+  "drug_code": "79223",
+  "din": "02306522",
+  "brand_name": "PHOENECTIN POUR-ON FOR CATTLE",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "10-FEB-2009",
+  "active_ingredients": [
+    {
+      "name": "IVERMECTIN",
+      "strength": "5",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "BIO AGRI MIX LP"
+  ],
+  "status": "APPROVED",
+  "atc": []
+}

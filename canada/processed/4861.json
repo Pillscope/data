@@ -1,0 +1,28 @@
+{
+  "drug_code": "4861",
+  "din": "00442968",
+  "brand_name": "CLEARASIL DAILY CLEAR ACNE TREATMENT CREAM BP PLUS",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "29-APR-2015",
+  "active_ingredients": [
+    {
+      "name": "BENZOYL PEROXIDE",
+      "strength": "5",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "CREAM"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "RECKITT BENCKISER (CANADA) INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "BENZOYL PEROXIDE"
+  ]
+}

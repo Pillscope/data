@@ -1,0 +1,28 @@
+{
+  "drug_code": "86412",
+  "din": "02378302",
+  "brand_name": "MONICURE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "04-DEC-2013",
+  "active_ingredients": [
+    {
+      "name": "FLUCONAZOLE",
+      "strength": "150",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "CAPSULE"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "INSIGHT PHARMACEUTICALS LLC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "FLUCONAZOLE"
+  ]
+}

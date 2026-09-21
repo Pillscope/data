@@ -1,0 +1,28 @@
+{
+  "drug_code": "92453",
+  "din": "02440156",
+  "brand_name": "TEVA-TADALAFIL",
+  "class": "Human",
+  "descriptor": "FOR ONCE-A-DAY USE",
+  "last_update": "20-JUL-2016",
+  "active_ingredients": [
+    {
+      "name": "TADALAFIL",
+      "strength": "5",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "TEVA CANADA LIMITED"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "TADALAFIL"
+  ]
+}

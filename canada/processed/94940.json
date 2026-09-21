@@ -1,0 +1,38 @@
+{
+  "drug_code": "94940",
+  "din": "02461684",
+  "brand_name": "ALMAY HEALTHY GLOW MAKEUP + GRADUAL SELF TAN SPF 20",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "07-JUL-2017",
+  "active_ingredients": [
+    {
+      "name": "ZINC OXIDE",
+      "strength": "4.2",
+      "unit": "%"
+    },
+    {
+      "name": "TITANIUM DIOXIDE",
+      "strength": "7.1",
+      "unit": "%"
+    },
+    {
+      "name": "OCTINOXATE",
+      "strength": "7",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "LOTION"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "REVLON CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "COMBINATIONS OF PROTECTIVES AGAINST UV-RADIATION"
+  ]
+}

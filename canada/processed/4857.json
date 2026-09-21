@@ -1,0 +1,28 @@
+{
+  "drug_code": "4857",
+  "din": "00564966",
+  "brand_name": "LOZIDE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "15-JUL-2016",
+  "active_ingredients": [
+    {
+      "name": "INDAPAMIDE",
+      "strength": "2.5",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "SERVIER CANADA INC"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "INDAPAMIDE"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "drug_code": "61676",
+  "din": "02238280",
+  "brand_name": "APO-SERTRALINE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "30-SEP-2010",
+  "active_ingredients": [
+    {
+      "name": "SERTRALINE (SERTRALINE HYDROCHLORIDE)",
+      "strength": "25",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "CAPSULE"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "APOTEX INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "SERTRALINE"
+  ]
+}

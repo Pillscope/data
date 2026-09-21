@@ -1,0 +1,28 @@
+{
+  "drug_code": "86796",
+  "din": "02382091",
+  "brand_name": "TEVA-ELETRIPTAN",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "10-JAN-2014",
+  "active_ingredients": [
+    {
+      "name": "ELETRIPTAN (ELETRIPTAN HYDROBROMIDE)",
+      "strength": "20",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "TEVA CANADA LIMITED"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "ELETRIPTAN"
+  ]
+}

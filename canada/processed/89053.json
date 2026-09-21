@@ -1,0 +1,28 @@
+{
+  "drug_code": "89053",
+  "din": "02405776",
+  "brand_name": "PMS-NEVIRAPINE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "13-JAN-2015",
+  "active_ingredients": [
+    {
+      "name": "NEVIRAPINE",
+      "strength": "200",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "PHARMASCIENCE INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "NEVIRAPINE"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "drug_code": "85900",
+  "din": "02373785",
+  "brand_name": "NYDA",
+  "class": "Human",
+  "descriptor": "DIMETICONE 100 CST",
+  "last_update": "20-JAN-2012",
+  "active_ingredients": [
+    {
+      "name": "DIMETHICONE",
+      "strength": "50",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "G POHL-BOSKAMP GMBH & CO KG"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "DIMETICONE"
+  ]
+}

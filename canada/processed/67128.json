@@ -1,0 +1,39 @@
+{
+  "drug_code": "67128",
+  "din": "02243238",
+  "brand_name": "WEIMAN GERMICIDAL SOLUTION",
+  "class": "Disinfectant",
+  "descriptor": "",
+  "last_update": "29-APR-2015",
+  "active_ingredients": [
+    {
+      "name": "BENZALKONIUM CHLORIDE",
+      "strength": "0.154",
+      "unit": "%"
+    },
+    {
+      "name": "ISOPROPYL ALCOHOL",
+      "strength": "21.0",
+      "unit": "%"
+    },
+    {
+      "name": "ALKYL DIMETHYL ETHYLBENZYL AMMONIUM CHLORIDE",
+      "strength": "0.154",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "DISINFECTANT (Hospital/HC Facilities)",
+    "DISINFECTANT (Institutional/Industrial)"
+  ],
+  "companies": [
+    "WEIMAN PRODUCTS LLC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "TECHNICAL DISINFECTANTS"
+  ]
+}

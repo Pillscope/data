@@ -1,0 +1,38 @@
+{
+  "drug_code": "87053",
+  "din": "02384841",
+  "brand_name": "NO 7 RESTORE & RENEW DAY CREAM SPF 15",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "24-OCT-2014",
+  "active_ingredients": [
+    {
+      "name": "AVOBENZONE",
+      "strength": "3",
+      "unit": "%"
+    },
+    {
+      "name": "OCTOCRYLENE",
+      "strength": "4",
+      "unit": "%"
+    },
+    {
+      "name": "OCTISALATE",
+      "strength": "2",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "CREAM"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "THE BOOTS COMPANY PLC"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "COMBINATIONS OF PROTECTIVES AGAINST UV-RADIATION"
+  ]
+}

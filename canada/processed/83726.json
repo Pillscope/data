@@ -1,0 +1,68 @@
+{
+  "drug_code": "83726",
+  "din": "02352044",
+  "brand_name": "ADACEL-POLIO",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "11-JUN-2012",
+  "active_ingredients": [
+    {
+      "name": "DIPHTHERIA TOXOID",
+      "strength": "2",
+      "unit": "LF"
+    },
+    {
+      "name": "TETANUS TOXOID",
+      "strength": "5",
+      "unit": "LF"
+    },
+    {
+      "name": "INACTIVATED POLIOMYELITIS VACCINE (D.C.O.) TYPE 2 MEF1",
+      "strength": "8",
+      "unit": "UNIT"
+    },
+    {
+      "name": "PERTACTIN",
+      "strength": "3",
+      "unit": "MCG"
+    },
+    {
+      "name": "PERTUSSIS TOXOID",
+      "strength": "2.5",
+      "unit": "MCG"
+    },
+    {
+      "name": "INACTIVATED POLIOMYELITIS VACCINE (V.C.O.) TYPE 1 MAHONEY",
+      "strength": "40",
+      "unit": "UNIT"
+    },
+    {
+      "name": "INACTIVATED POLIOMYELITIS VACCINE (V.C.O.) TYPE 3 SAUKETT",
+      "strength": "32",
+      "unit": "UNIT"
+    },
+    {
+      "name": "FIMBRIAE TYPES 2 AND 3 (FIM)",
+      "strength": "5",
+      "unit": "MCG"
+    },
+    {
+      "name": "FILAMENTOUS HAEMAGGLUTININ",
+      "strength": "5",
+      "unit": "MCG"
+    }
+  ],
+  "forms": [
+    "SUSPENSION"
+  ],
+  "routes": [
+    "INTRAMUSCULAR"
+  ],
+  "companies": [
+    "SANOFI PASTEUR LIMITED"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "DIPHTHERIA-PERTUSSIS-POLIOMYELITIS-TETANUS"
+  ]
+}

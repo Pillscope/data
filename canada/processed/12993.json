@@ -1,0 +1,28 @@
+{
+  "drug_code": "12993",
+  "din": "00888354",
+  "brand_name": "IOPIDINE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "24-NOV-2017",
+  "active_ingredients": [
+    {
+      "name": "APRACLONIDINE (APRACLONIDINE HYDROCHLORIDE)",
+      "strength": "1",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "OPHTHALMIC"
+  ],
+  "companies": [
+    "NOVARTIS PHARMACEUTICALS CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "APRACLONIDINE"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "drug_code": "91574",
+  "din": "02431327",
+  "brand_name": "PANTOPRAZOLE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "17-OCT-2014",
+  "active_ingredients": [
+    {
+      "name": "PANTOPRAZOLE (PANTOPRAZOLE SODIUM SESQUIHYDRATE)",
+      "strength": "40",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET (DELAYED-RELEASE)"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "LABORATOIRE RIVA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "PANTOPRAZOLE"
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "drug_code": "87382",
+  "din": "02388286",
+  "brand_name": "ACT LOSARTAN/HCT",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "05-MAY-2015",
+  "active_ingredients": [
+    {
+      "name": "HYDROCHLOROTHIAZIDE",
+      "strength": "25",
+      "unit": "MG"
+    },
+    {
+      "name": "LOSARTAN POTASSIUM",
+      "strength": "100",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "ACTAVIS PHARMA COMPANY"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "LOSARTAN AND DIURETICS",
+    "LOSARTAN AND DIURETICS"
+  ]
+}

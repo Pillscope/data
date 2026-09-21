@@ -1,0 +1,26 @@
+{
+  "drug_code": "14333",
+  "din": "00896535",
+  "brand_name": "TETRA 250",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "10-JAN-2018",
+  "active_ingredients": [
+    {
+      "name": "TETRACYCLINE HYDROCHLORIDE",
+      "strength": "250",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "POWDER FOR SOLUTION"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "JAAPHARM CANADA INC."
+  ],
+  "status": "MARKETED",
+  "atc": []
+}

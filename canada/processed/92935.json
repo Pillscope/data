@@ -1,0 +1,26 @@
+{
+  "drug_code": "92935",
+  "din": "02444364",
+  "brand_name": "TIAMULIN HF 10%",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "13-DEC-2017",
+  "active_ingredients": [
+    {
+      "name": "TIAMULIN FUMARATE",
+      "strength": "100",
+      "unit": "G"
+    }
+  ],
+  "forms": [
+    "DRUG PREMIX"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "BIO AGRI MIX LP"
+  ],
+  "status": "APPROVED",
+  "atc": []
+}

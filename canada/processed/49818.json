@@ -1,0 +1,28 @@
+{
+  "drug_code": "49818",
+  "din": "02230642",
+  "brand_name": "DERMATOP EMOLLIENT CREAM",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "02-APR-2013",
+  "active_ingredients": [
+    {
+      "name": "PREDNICARBATE",
+      "strength": "0.1",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "CREAM"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "VALEANT CANADA LP/VALEANT CANADA S.E.C."
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "PREDNICARBATE"
+  ]
+}

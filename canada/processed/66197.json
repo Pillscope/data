@@ -1,0 +1,28 @@
+{
+  "drug_code": "66197",
+  "din": "02242473",
+  "brand_name": "ATRIDOX",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "10-AUG-2017",
+  "active_ingredients": [
+    {
+      "name": "DOXYCYCLINE (DOXYCYCLINE HYCLATE)",
+      "strength": "8.8",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "GEL (CONTROLLED-RELEASE)"
+  ],
+  "routes": [
+    "SUBGINGIVAL"
+  ],
+  "companies": [
+    "TOLMAR INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "DOXYCYCLINE"
+  ]
+}

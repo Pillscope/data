@@ -1,0 +1,28 @@
+{
+  "drug_code": "76705",
+  "din": "02281392",
+  "brand_name": "TEVA-TAMSULOSIN",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "29-APR-2015",
+  "active_ingredients": [
+    {
+      "name": "TAMSULOSIN HYDROCHLORIDE",
+      "strength": "0.4",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "CAPSULE (SUSTAINED-RELEASE)"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "TEVA CANADA LIMITED"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "TAMSULOSIN"
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "drug_code": "90872",
+  "din": "02423995",
+  "brand_name": "UV PROTECTIVE STICK FOUNDATION",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "22-SEP-2016",
+  "active_ingredients": [
+    {
+      "name": "TITANIUM DIOXIDE",
+      "strength": "7.2",
+      "unit": "%"
+    },
+    {
+      "name": "OCTINOXATE",
+      "strength": "2.9",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "STICK"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "SHISEIDO AMERICAS CORPORATION DIST"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "COMBINATIONS OF PROTECTIVES AGAINST UV-RADIATION"
+  ]
+}

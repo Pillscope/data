@@ -1,0 +1,28 @@
+{
+  "drug_code": "14475",
+  "din": "00743542",
+  "brand_name": "ACETAMINOPHEN 325 MG USP REGULAR STRENGTH",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "28-JUL-2015",
+  "active_ingredients": [
+    {
+      "name": "ACETAMINOPHEN",
+      "strength": "325",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "PHARMETICS (2011) INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "ACETAMINOPHEN (PARACETAMOL)"
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "drug_code": "85062",
+  "din": "02365731",
+  "brand_name": "EXTRA STRENGTH TYLENOL COMPLETE COLD, COUGH & FLU DAYTIME",
+  "class": "Human",
+  "descriptor": "CAPLET",
+  "last_update": "06-NOV-2014",
+  "active_ingredients": [
+    {
+      "name": "GUAIFENESIN",
+      "strength": "100",
+      "unit": "MG"
+    },
+    {
+      "name": "PSEUDOEPHEDRINE HYDROCHLORIDE",
+      "strength": "30",
+      "unit": "MG"
+    },
+    {
+      "name": "ACETAMINOPHEN",
+      "strength": "500",
+      "unit": "MG"
+    },
+    {
+      "name": "DEXTROMETHORPHAN HYDROBROMIDE",
+      "strength": "15",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "MCNEIL CONSUMER HEALTHCARE DIVISION OF JOHNSON & JOHNSON INC"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "ACETAMINOPHEN, COMB EXCL PSYCHOLEPTICS"
+  ]
+}

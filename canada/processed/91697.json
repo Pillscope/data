@@ -1,0 +1,38 @@
+{
+  "drug_code": "91697",
+  "din": "02432536",
+  "brand_name": "PREMIUM ENDURANCE SUNSCREEN 30",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "15-JAN-2018",
+  "active_ingredients": [
+    {
+      "name": "ZINC OXIDE",
+      "strength": "8",
+      "unit": "%"
+    },
+    {
+      "name": "OCTOCRYLENE",
+      "strength": "7.5",
+      "unit": "%"
+    },
+    {
+      "name": "OCTINOXATE",
+      "strength": "7.5",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "LOTION"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "SUN BUM LLC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "COMBINATIONS OF PROTECTIVES AGAINST UV-RADIATION"
+  ]
+}

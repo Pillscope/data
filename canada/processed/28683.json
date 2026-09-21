@@ -1,0 +1,31 @@
+{
+  "drug_code": "28683",
+  "din": "02094843",
+  "brand_name": "AMI-NESINE LIQ",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "01-MAY-2008",
+  "active_ingredients": [
+    {
+      "name": "GUAIFENESIN",
+      "strength": "33.33",
+      "unit": "MG"
+    },
+    {
+      "name": "AMINOPHYLLINE",
+      "strength": "66.67",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "LIQUID"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "JAAPHARM CANADA INC."
+  ],
+  "status": "MARKETED",
+  "atc": []
+}

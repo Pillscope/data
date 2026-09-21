@@ -1,0 +1,28 @@
+{
+  "drug_code": "89495",
+  "din": "02410303",
+  "brand_name": "MOVISSE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "04-JUL-2016",
+  "active_ingredients": [
+    {
+      "name": "NORETHINDRONE",
+      "strength": "0.35",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "MYLAN PHARMACEUTICALS ULC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "NORETHISTERONE"
+  ]
+}

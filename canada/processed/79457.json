@@ -1,0 +1,29 @@
+{
+  "drug_code": "79457",
+  "din": "02308967",
+  "brand_name": "CEFAZOLIN FOR INJECTION USP",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "23-MAY-2008",
+  "active_ingredients": [
+    {
+      "name": "CEFAZOLIN (CEFAZOLIN SODIUM)",
+      "strength": "10",
+      "unit": "G"
+    }
+  ],
+  "forms": [
+    "POWDER FOR SOLUTION"
+  ],
+  "routes": [
+    "INTRAMUSCULAR",
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "SANDOZ CANADA INCORPORATED"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "CEFAZOLIN"
+  ]
+}

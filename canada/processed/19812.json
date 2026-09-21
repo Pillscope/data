@@ -1,0 +1,28 @@
+{
+  "drug_code": "19812",
+  "din": "02214733",
+  "brand_name": "STERILE WATER FOR INJECTION USP",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "22-OCT-2008",
+  "active_ingredients": [
+    {
+      "name": "WATER",
+      "strength": "100",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "LIQUID"
+  ],
+  "routes": [
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "BAXTER HEALTHCARE CORPORATION"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "SOLVENTS AND DILUTING AGENTS,INCL IRRIGAT SOLUT"
+  ]
+}

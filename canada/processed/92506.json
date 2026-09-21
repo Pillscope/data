@@ -1,0 +1,164 @@
+{
+  "drug_code": "92506",
+  "din": "02440695",
+  "brand_name": "SMOFKABIVEN",
+  "class": "Human",
+  "descriptor": "CONTAINS (W/V): 5.1% AMINO ACIDS, 0.7% ELECTROLYTES, 12.7% DEXTROSE & 3.8% LIPID. SINGLE USE.",
+  "last_update": "30-JUN-2016",
+  "active_ingredients": [
+    {
+      "name": "LYSINE (LYSINE ACETATE)",
+      "strength": "0.34",
+      "unit": "G"
+    },
+    {
+      "name": "ALANINE",
+      "strength": "0.71",
+      "unit": "G"
+    },
+    {
+      "name": "PROLINE",
+      "strength": "0.57",
+      "unit": "G"
+    },
+    {
+      "name": "METHIONINE",
+      "strength": "0.22",
+      "unit": "G"
+    },
+    {
+      "name": "SODIUM GLYCEROPHOSPHATE",
+      "strength": "0.21",
+      "unit": "G"
+    },
+    {
+      "name": "THREONINE",
+      "strength": "0.22",
+      "unit": "G"
+    },
+    {
+      "name": "TRYPTOPHAN",
+      "strength": "0.10",
+      "unit": "G"
+    },
+    {
+      "name": "ARGININE",
+      "strength": "0.61",
+      "unit": "G"
+    },
+    {
+      "name": "MEDIUM CHAIN TRIGLYCERIDES (MCT)",
+      "strength": "1.14",
+      "unit": "G"
+    },
+    {
+      "name": "OLIVE OIL",
+      "strength": "0.95",
+      "unit": "G"
+    },
+    {
+      "name": "PHENYLALANINE",
+      "strength": "0.26",
+      "unit": "G"
+    },
+    {
+      "name": "VALINE",
+      "strength": "0.31",
+      "unit": "G"
+    },
+    {
+      "name": "TYROSINE",
+      "strength": "0.02",
+      "unit": "G"
+    },
+    {
+      "name": "SERINE",
+      "strength": "0.33",
+      "unit": "G"
+    },
+    {
+      "name": "LEUCINE",
+      "strength": "0.38",
+      "unit": "G"
+    },
+    {
+      "name": "NITROGEN",
+      "strength": "0.8",
+      "unit": "G"
+    },
+    {
+      "name": "MAGNESIUM SULFATE",
+      "strength": "0.061",
+      "unit": "G"
+    },
+    {
+      "name": "POTASSIUM CHLORIDE",
+      "strength": "0.23",
+      "unit": "G"
+    },
+    {
+      "name": "DEXTROSE",
+      "strength": "12.7",
+      "unit": "G"
+    },
+    {
+      "name": "SOYBEAN OIL",
+      "strength": "1.14",
+      "unit": "G"
+    },
+    {
+      "name": "GLYCINE",
+      "strength": "0.56",
+      "unit": "G"
+    },
+    {
+      "name": "HISTIDINE",
+      "strength": "0.15",
+      "unit": "G"
+    },
+    {
+      "name": "CALCIUM CHLORIDE",
+      "strength": "0.028",
+      "unit": "G"
+    },
+    {
+      "name": "TAURINE",
+      "strength": "0.05",
+      "unit": "G"
+    },
+    {
+      "name": "FISH OIL",
+      "strength": "0.57",
+      "unit": "G"
+    },
+    {
+      "name": "ISOLEUCINE",
+      "strength": "0.25",
+      "unit": "G"
+    },
+    {
+      "name": "ZINC SULFATE HEPTAHYDRATE",
+      "strength": "0.00066",
+      "unit": "G"
+    },
+    {
+      "name": "SODIUM ACETATE TRIHYDRATE",
+      "strength": "0.17",
+      "unit": "G"
+    }
+  ],
+  "forms": [
+    "EMULSION"
+  ],
+  "routes": [
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "FRESENIUS KABI CANADA LTD"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "COMBINATIONS",
+    "COMBINATIONS"
+  ]
+}

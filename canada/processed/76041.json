@@ -1,0 +1,31 @@
+{
+  "drug_code": "76041",
+  "din": "02274884",
+  "brand_name": "FUCIDERM GEL",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "21-JUL-2017",
+  "active_ingredients": [
+    {
+      "name": "BETAMETHASONE (BETAMETHASONE VALERATE)",
+      "strength": "1",
+      "unit": "MG"
+    },
+    {
+      "name": "FUSIDIC ACID",
+      "strength": "5",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "GEL"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "AVENTIX ANIMAL HEALTH CORP"
+  ],
+  "status": "APPROVED",
+  "atc": []
+}

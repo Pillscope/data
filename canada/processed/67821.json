@@ -1,0 +1,28 @@
+{
+  "drug_code": "67821",
+  "din": "02243880",
+  "brand_name": "APO-LORATADINE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "05-MAY-2015",
+  "active_ingredients": [
+    {
+      "name": "LORATADINE",
+      "strength": "10",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "APOTEX INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "LORATADINE"
+  ]
+}

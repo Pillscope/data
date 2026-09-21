@@ -1,0 +1,33 @@
+{
+  "drug_code": "92456",
+  "din": "02440180",
+  "brand_name": "TARO-CLINDAMYCIN/BENZOYL PEROXIDE GEL",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "26-OCT-2015",
+  "active_ingredients": [
+    {
+      "name": "BENZOYL PEROXIDE",
+      "strength": "5",
+      "unit": "%"
+    },
+    {
+      "name": "CLINDAMYCIN (CLINDAMYCIN PHOSPHATE)",
+      "strength": "1",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "GEL"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "TARO PHARMACEUTICALS INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "CLINDAMYCIN, COMBINATIONS"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "drug_code": "93936",
+  "din": "02452960",
+  "brand_name": "BRIVLERA",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "13-JUL-2016",
+  "active_ingredients": [
+    {
+      "name": "BRIVARACETAM",
+      "strength": "75",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "UCB CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "BRIVARACETAM"
+  ]
+}

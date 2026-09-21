@@ -1,0 +1,33 @@
+{
+  "drug_code": "81638",
+  "din": "02330652",
+  "brand_name": "DIORSKIN FOREVER",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "29-MAR-2011",
+  "active_ingredients": [
+    {
+      "name": "TITANIUM DIOXIDE",
+      "strength": "2.64",
+      "unit": "%"
+    },
+    {
+      "name": "OCTINOXATE",
+      "strength": "4.00",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "EMULSION"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "PARFUMS CHRISTIAN DIOR"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "COMBINATIONS OF PROTECTIVES AGAINST UV-RADIATION"
+  ]
+}

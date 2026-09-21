@@ -1,0 +1,28 @@
+{
+  "drug_code": "89209",
+  "din": "02407396",
+  "brand_name": "DIMENHYDRINATE CAPSULES",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "28-JUL-2014",
+  "active_ingredients": [
+    {
+      "name": "DIMENHYDRINATE",
+      "strength": "50",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "CAPSULE"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "APOTEX INC"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "DIPHENHYDRAMINE"
+  ]
+}

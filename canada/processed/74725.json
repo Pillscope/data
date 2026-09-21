@@ -1,0 +1,28 @@
+{
+  "drug_code": "74725",
+  "din": "02261898",
+  "brand_name": "TEVA-METOPROLOL",
+  "class": "Human",
+  "descriptor": "UNCOATED",
+  "last_update": "04-DEC-2013",
+  "active_ingredients": [
+    {
+      "name": "METOPROLOL TARTRATE",
+      "strength": "25",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "TEVA CANADA LIMITED"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "METOPROLOL"
+  ]
+}

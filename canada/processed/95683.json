@@ -1,0 +1,28 @@
+{
+  "drug_code": "95683",
+  "din": "02468409",
+  "brand_name": "PMS-AMITRIPTYLINE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "18-OCT-2017",
+  "active_ingredients": [
+    {
+      "name": "AMITRIPTYLINE HYDROCHLORIDE",
+      "strength": "100",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "PHARMASCIENCE INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "AMITRIPTYLINE"
+  ]
+}

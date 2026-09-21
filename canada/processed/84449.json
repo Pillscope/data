@@ -1,0 +1,28 @@
+{
+  "drug_code": "84449",
+  "din": "02359472",
+  "brand_name": "MYLAN-DONEPEZIL",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "13-JAN-2014",
+  "active_ingredients": [
+    {
+      "name": "DONEPEZIL HYDROCHLORIDE",
+      "strength": "5",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "MYLAN PHARMACEUTICALS ULC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "DONEPEZIL"
+  ]
+}

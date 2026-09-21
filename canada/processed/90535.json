@@ -1,0 +1,43 @@
+{
+  "drug_code": "90535",
+  "din": "02420783",
+  "brand_name": "FLULAVAL TETRA",
+  "class": "Human",
+  "descriptor": "QUADRIVALENT, SPLIT-VIRION, INACTIVATED INFLUENZA VACCINE",
+  "last_update": "09-AUG-2016",
+  "active_ingredients": [
+    {
+      "name": "HAEMAGGLUTININ-STRAIN A(H3N2)",
+      "strength": "15",
+      "unit": "MCG"
+    },
+    {
+      "name": "HAEMAGGLUTININ-STRAIN A(H1N1)",
+      "strength": "15",
+      "unit": "MCG"
+    },
+    {
+      "name": "HAEMAGGLUTININ-STRAIN B (Victoria)",
+      "strength": "15",
+      "unit": "MCG"
+    },
+    {
+      "name": "HAEMAGGLUTININ-STRAIN B (Yamagata)",
+      "strength": "15",
+      "unit": "MCG"
+    }
+  ],
+  "forms": [
+    "SUSPENSION"
+  ],
+  "routes": [
+    "INTRAMUSCULAR"
+  ],
+  "companies": [
+    "ID BIOMEDICAL CORPORATION OF QUEBEC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "INFLUENZA, INACTIVATED, SPLIT VIRUS OR SURFACE ANTIGEN"
+  ]
+}

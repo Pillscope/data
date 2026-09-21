@@ -1,0 +1,29 @@
+{
+  "drug_code": "89534",
+  "din": "02410699",
+  "brand_name": "DYNE-O-MIGHT",
+  "class": "Disinfectant",
+  "descriptor": "",
+  "last_update": "14-MAY-2015",
+  "active_ingredients": [
+    {
+      "name": "IODINE (POLYOXYPROPYLENE-POLYOXYETHYLENE BLOCK COPOLYMER-IODINE COMPLEX)",
+      "strength": "0.42",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "LIQUID"
+  ],
+  "routes": [
+    "DISINFECTANT (Barn)",
+    "DISINFECTANT (Institutional/Industrial)"
+  ],
+  "companies": [
+    "PRESERVE INC, DBA PRESERVE INTERNATIONAL"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "TECHNICAL DISINFECTANTS"
+  ]
+}

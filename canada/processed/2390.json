@@ -1,0 +1,30 @@
+{
+  "drug_code": "2390",
+  "din": "00328154",
+  "brand_name": "ATROPINE SULFATE INJECTION USP",
+  "class": "Human",
+  "descriptor": "10ML PREFILLED SYRINGE",
+  "last_update": "20-JAN-2018",
+  "active_ingredients": [
+    {
+      "name": "ATROPINE SULFATE",
+      "strength": "1",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "INTRAMUSCULAR",
+    "INTRAVENOUS",
+    "SUBCUTANEOUS"
+  ],
+  "companies": [
+    "PFIZER CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "ATROPINE"
+  ]
+}

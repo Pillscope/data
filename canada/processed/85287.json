@@ -1,0 +1,48 @@
+{
+  "drug_code": "85287",
+  "din": "02368056",
+  "brand_name": "TIMEWISE DAY SOLUTION SUNSCREEN SPF 35",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "10-APR-2012",
+  "active_ingredients": [
+    {
+      "name": "AVOBENZONE",
+      "strength": "2",
+      "unit": "%"
+    },
+    {
+      "name": "OCTOCRYLENE",
+      "strength": "2",
+      "unit": "%"
+    },
+    {
+      "name": "OXYBENZONE",
+      "strength": "4",
+      "unit": "%"
+    },
+    {
+      "name": "OCTISALATE",
+      "strength": "5",
+      "unit": "%"
+    },
+    {
+      "name": "HOMOSALATE",
+      "strength": "10",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "LOTION"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "MARY KAY COSMETICS LTD"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "COMBINATIONS OF PROTECTIVES AGAINST UV-RADIATION"
+  ]
+}

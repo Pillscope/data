@@ -1,0 +1,31 @@
+{
+  "drug_code": "4771",
+  "din": "00550914",
+  "brand_name": "SAVOSS",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "12-APR-1999",
+  "active_ingredients": [
+    {
+      "name": "IODINE",
+      "strength": "4",
+      "unit": "G"
+    },
+    {
+      "name": "ISOPROPYL ALCOHOL",
+      "strength": "15",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "LIQUID"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "TUTTLE'S HORSE CARE, DIVISION OF Y-TEX CORP."
+  ],
+  "status": "MARKETED",
+  "atc": []
+}

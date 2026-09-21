@@ -1,0 +1,33 @@
+{
+  "drug_code": "4459",
+  "din": "00522597",
+  "brand_name": "PROLOPA CAP 50-12.5",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "09-MAY-2008",
+  "active_ingredients": [
+    {
+      "name": "BENSERAZIDE (BENSERAZIDE HYDROCHLORIDE)",
+      "strength": "12.5",
+      "unit": "MG"
+    },
+    {
+      "name": "LEVODOPA",
+      "strength": "50",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "CAPSULE"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "HOFFMANN-LA ROCHE LIMITED"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "LEVODOPA AND DECARBOXYLASE INHIBITOR"
+  ]
+}

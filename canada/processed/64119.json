@@ -1,0 +1,28 @@
+{
+  "drug_code": "64119",
+  "din": "02240549",
+  "brand_name": "PMS-OXYBUTYNIN",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "30-DEC-2013",
+  "active_ingredients": [
+    {
+      "name": "OXYBUTYNIN CHLORIDE",
+      "strength": "2.5",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "PHARMASCIENCE INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "OXYBUTYNIN"
+  ]
+}

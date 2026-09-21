@@ -1,0 +1,34 @@
+{
+  "drug_code": "88592",
+  "din": "02401193",
+  "brand_name": "ADVIL COLD, COUGH & FLU NIGHTTIME",
+  "class": "Human",
+  "descriptor": "LIQUI-GEL",
+  "last_update": "07-AUG-2013",
+  "active_ingredients": [
+    {
+      "name": "IBUPROFEN",
+      "strength": "200",
+      "unit": "MG"
+    },
+    {
+      "name": "DIPHENHYDRAMINE HYDROCHLORIDE",
+      "strength": "25",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "CAPSULE"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "PFIZER CONSUMER HEALTHCARE A DIVISION OF PFIZER CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "IBUPROFEN, COMBINATIONS",
+    "IBUPROFEN, COMBINATIONS"
+  ]
+}

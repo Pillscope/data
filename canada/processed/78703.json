@@ -1,0 +1,28 @@
+{
+  "drug_code": "78703",
+  "din": "02301725",
+  "brand_name": "DIMETHICONE PROTECTANT",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "30-APR-2009",
+  "active_ingredients": [
+    {
+      "name": "DIMETHICONE",
+      "strength": "5.0",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "CREAM"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "SMITH & NEPHEW INC"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "SILICONE PRODUCTS"
+  ]
+}

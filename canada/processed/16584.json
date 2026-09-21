@@ -1,0 +1,28 @@
+{
+  "drug_code": "16584",
+  "din": "02041510",
+  "brand_name": "DAPSONE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "29-APR-2015",
+  "active_ingredients": [
+    {
+      "name": "DAPSONE",
+      "strength": "100",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "JACOBUS PHARMACEUTICAL COMPANY, INC."
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "DAPSONE"
+  ]
+}

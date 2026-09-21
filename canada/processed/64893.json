@@ -1,0 +1,63 @@
+{
+  "drug_code": "64893",
+  "din": "02241284",
+  "brand_name": "INFANRIX-IPV",
+  "class": "Human",
+  "descriptor": "PRE-FILLED SYRINGES",
+  "last_update": "04-DEC-2012",
+  "active_ingredients": [
+    {
+      "name": "DIPHTHERIA TOXOID",
+      "strength": "30",
+      "unit": "UNIT"
+    },
+    {
+      "name": "TETANUS TOXOID",
+      "strength": "40",
+      "unit": "UNIT"
+    },
+    {
+      "name": "PERTACTIN",
+      "strength": "8",
+      "unit": "MCG"
+    },
+    {
+      "name": "PERTUSSIS TOXOID",
+      "strength": "25",
+      "unit": "MCG"
+    },
+    {
+      "name": "INACTIVATED POLIOVIRUS TYPE II",
+      "strength": "8",
+      "unit": "UNIT"
+    },
+    {
+      "name": "FILAMENTOUS HAEMAGGLUTININ",
+      "strength": "25",
+      "unit": "MCG"
+    },
+    {
+      "name": "INACTIVATED POLIOVIRUS TYPE I",
+      "strength": "40",
+      "unit": "UNIT"
+    },
+    {
+      "name": "INACTIVATED POLIOVIRUS TYPE III",
+      "strength": "32",
+      "unit": "UNIT"
+    }
+  ],
+  "forms": [
+    "SUSPENSION"
+  ],
+  "routes": [
+    "INTRAMUSCULAR"
+  ],
+  "companies": [
+    "GLAXOSMITHKLINE INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "DIPHTHERIA-PERTUSSIS-POLIOMYELITIS-TETANUS"
+  ]
+}

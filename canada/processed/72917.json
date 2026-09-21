@@ -1,0 +1,28 @@
+{
+  "drug_code": "72917",
+  "din": "02248562",
+  "brand_name": "APO-METRONIDAZOLE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "09-APR-2018",
+  "active_ingredients": [
+    {
+      "name": "METRONIDAZOLE",
+      "strength": "500",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "CAPSULE"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "APOTEX INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "METRONIDAZOLE"
+  ]
+}

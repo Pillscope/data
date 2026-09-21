@@ -1,0 +1,29 @@
+{
+  "drug_code": "18964",
+  "din": "02139286",
+  "brand_name": "CLINDAMYCIN INJECTION",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "05-JUL-2016",
+  "active_ingredients": [
+    {
+      "name": "CLINDAMYCIN (CLINDAMYCIN PHOSPHATE)",
+      "strength": "150",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "INTRAMUSCULAR",
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "FRESENIUS KABI CANADA LTD"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "CLINDAMYCIN"
+  ]
+}

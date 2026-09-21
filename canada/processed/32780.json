@@ -1,0 +1,44 @@
+{
+  "drug_code": "32780",
+  "din": "02047349",
+  "brand_name": "HOT LEMON RELIEF FOR SYMPTOMS OF COLD AND FLU REGULAR STRENGTH",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "29-OCT-2014",
+  "active_ingredients": [
+    {
+      "name": "PHENIRAMINE MALEATE",
+      "strength": "20",
+      "unit": "MG"
+    },
+    {
+      "name": "PHENYLEPHRINE HYDROCHLORIDE",
+      "strength": "10",
+      "unit": "MG"
+    },
+    {
+      "name": "VITAMIN C",
+      "strength": "50",
+      "unit": "MG"
+    },
+    {
+      "name": "ACETAMINOPHEN",
+      "strength": "325",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "POWDER"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "PHARMETICS (2011) INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "ACETAMINOPHEN, COMB EXCL PSYCHOLEPTICS",
+    "ACETAMINOPHEN, COMB EXCL PSYCHOLEPTICS"
+  ]
+}

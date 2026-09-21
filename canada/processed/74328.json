@@ -1,0 +1,28 @@
+{
+  "drug_code": "74328",
+  "din": "02258056",
+  "brand_name": "ARIXTRA",
+  "class": "Human",
+  "descriptor": "0.6ML SINGLE USE PRE-FILLED SYRINGE",
+  "last_update": "20-APR-2017",
+  "active_ingredients": [
+    {
+      "name": "FONDAPARINUX SODIUM",
+      "strength": "7.5",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "SUBCUTANEOUS"
+  ],
+  "companies": [
+    "ASPEN PHARMACARE CANADA INC."
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "FONDAPARINUX"
+  ]
+}

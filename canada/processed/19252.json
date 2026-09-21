@@ -1,0 +1,28 @@
+{
+  "drug_code": "19252",
+  "din": "02166712",
+  "brand_name": "SANDOZ TIMOLOL",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "06-NOV-2017",
+  "active_ingredients": [
+    {
+      "name": "TIMOLOL (TIMOLOL MALEATE)",
+      "strength": "0.25",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "OPHTHALMIC"
+  ],
+  "companies": [
+    "SANDOZ CANADA INCORPORATED"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "TIMOLOL"
+  ]
+}

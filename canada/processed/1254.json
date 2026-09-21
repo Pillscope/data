@@ -1,0 +1,28 @@
+{
+  "drug_code": "1254",
+  "din": "00037613",
+  "brand_name": "NITROSTAT",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "01-AUG-2017",
+  "active_ingredients": [
+    {
+      "name": "NITROGLYCERIN",
+      "strength": "0.3",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "SUBLINGUAL"
+  ],
+  "companies": [
+    "PFIZER CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "GLYCERYL TRINITRATE"
+  ]
+}

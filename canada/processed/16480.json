@@ -1,0 +1,28 @@
+{
+  "drug_code": "16480",
+  "din": "02014238",
+  "brand_name": "MS.IR",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "09-JUN-2017",
+  "active_ingredients": [
+    {
+      "name": "MORPHINE SULFATE",
+      "strength": "20",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET (IMMEDIATE RELEASE)"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "PURDUE PHARMA"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "MORPHINE"
+  ]
+}

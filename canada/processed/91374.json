@@ -1,0 +1,43 @@
+{
+  "drug_code": "91374",
+  "din": "02429314",
+  "brand_name": "ULTRA SUN PROTECTION LOTION",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "20-DEC-2016",
+  "active_ingredients": [
+    {
+      "name": "ZINC OXIDE",
+      "strength": "16.4",
+      "unit": "%"
+    },
+    {
+      "name": "TITANIUM DIOXIDE",
+      "strength": "1.4",
+      "unit": "%"
+    },
+    {
+      "name": "OCTOCRYLENE",
+      "strength": "3.0",
+      "unit": "%"
+    },
+    {
+      "name": "OCTINOXATE",
+      "strength": "7.4",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "LOTION"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "SHISEIDO AMERICAS CORPORATION DIST"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "COMBINATIONS OF PROTECTIVES AGAINST UV-RADIATION"
+  ]
+}

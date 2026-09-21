@@ -1,0 +1,28 @@
+{
+  "drug_code": "15485",
+  "din": "02029456",
+  "brand_name": "TRYPTAN TAB 500MG",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "11-AUG-2015",
+  "active_ingredients": [
+    {
+      "name": "TRYPTOPHAN",
+      "strength": "500",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "VALEANT CANADA LP/VALEANT CANADA S.E.C."
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "TRYPTOPHAN"
+  ]
+}

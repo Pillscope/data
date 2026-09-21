@@ -1,0 +1,43 @@
+{
+  "drug_code": "95208",
+  "din": "02463989",
+  "brand_name": "UV LIP COLOR SPLASH",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "13-APR-2018",
+  "active_ingredients": [
+    {
+      "name": "AVOBENZONE",
+      "strength": "2.5",
+      "unit": "%"
+    },
+    {
+      "name": "OCTOCRYLENE",
+      "strength": "3",
+      "unit": "%"
+    },
+    {
+      "name": "OXYBENZONE",
+      "strength": "2",
+      "unit": "%"
+    },
+    {
+      "name": "OCTINOXATE",
+      "strength": "4.9",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "CREAM"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "SHISEIDO AMERICAS CORPORATION DIST"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "COMBINATIONS OF PROTECTIVES AGAINST UV-RADIATION"
+  ]
+}

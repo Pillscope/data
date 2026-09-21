@@ -1,0 +1,28 @@
+{
+  "drug_code": "3930",
+  "din": "00477095",
+  "brand_name": "CONRAY 43",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "29-JAN-2018",
+  "active_ingredients": [
+    {
+      "name": "IOTHALAMATE MEGLUMINE",
+      "strength": "430",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "INTRAVASCULAR"
+  ],
+  "companies": [
+    "LIEBEL-FLARSHEIM CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "IOTALAMIC ACID"
+  ]
+}

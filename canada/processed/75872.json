@@ -1,0 +1,28 @@
+{
+  "drug_code": "75872",
+  "din": "02273225",
+  "brand_name": "ENABLEX",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "14-JUL-2016",
+  "active_ingredients": [
+    {
+      "name": "DARIFENACIN (DARIFENACIN HYDROBROMIDE)",
+      "strength": "15",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET (EXTENDED-RELEASE)"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "MERUS LABS LUXCO S. A R.L."
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "DARIFENACIN"
+  ]
+}

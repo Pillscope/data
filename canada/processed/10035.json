@@ -1,0 +1,28 @@
+{
+  "drug_code": "10035",
+  "din": "00784354",
+  "brand_name": "APO-NAPRO-NA",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "01-AUG-2017",
+  "active_ingredients": [
+    {
+      "name": "NAPROXEN SODIUM",
+      "strength": "275",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "APOTEX INC"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "NAPROXEN"
+  ]
+}

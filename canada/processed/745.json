@@ -1,0 +1,43 @@
+{
+  "drug_code": "745",
+  "din": "00039411",
+  "brand_name": "ELLIOTT'S SOLUTION A",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "01-MAY-2015",
+  "active_ingredients": [
+    {
+      "name": "SODIUM CHLORIDE",
+      "strength": "8.6",
+      "unit": "MG"
+    },
+    {
+      "name": "POTASSIUM CHLORIDE",
+      "strength": "0.3",
+      "unit": "MG"
+    },
+    {
+      "name": "MAGNESIUM CHLORIDE",
+      "strength": "0.116",
+      "unit": "MG"
+    },
+    {
+      "name": "CALCIUM CHLORIDE",
+      "strength": "0.2",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "INTRACRANIAL"
+  ],
+  "companies": [
+    "HOSPIRA HEALTHCARE CORPORATION"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "COMBINATIONS"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "drug_code": "10136",
+  "din": "00790427",
+  "brand_name": "KETOPROFEN",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "21-MAR-2013",
+  "active_ingredients": [
+    {
+      "name": "KETOPROFEN",
+      "strength": "50",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "CAPSULE"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "AA PHARMA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "KETOPROFEN"
+  ]
+}

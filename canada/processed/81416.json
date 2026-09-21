@@ -1,0 +1,39 @@
+{
+  "drug_code": "81416",
+  "din": "02328658",
+  "brand_name": "RUNNY NOSE AND COUGH",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "10-MAR-2010",
+  "active_ingredients": [
+    {
+      "name": "PHENYLEPHRINE HYDROCHLORIDE",
+      "strength": "2.5",
+      "unit": "MG"
+    },
+    {
+      "name": "BROMPHENIRAMINE MALEATE",
+      "strength": "1.0",
+      "unit": "MG"
+    },
+    {
+      "name": "DEXTROMETHORPHAN HYDROBROMIDE",
+      "strength": "5.0",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "LIQUID"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "ACCUDIAL PHARMACEUTICAL INC"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "COMBINATIONS",
+    "COMBINATIONS"
+  ]
+}

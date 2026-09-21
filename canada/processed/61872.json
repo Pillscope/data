@@ -1,0 +1,36 @@
+{
+  "drug_code": "61872",
+  "din": "02238452",
+  "brand_name": "ZEP COMMERCIAL ANTIBACTERIAL DISINFECTANT & CLEANER",
+  "class": "Disinfectant",
+  "descriptor": "",
+  "last_update": "16-SEP-2014",
+  "active_ingredients": [
+    {
+      "name": "BENZALKONIUM CHLORIDE",
+      "strength": "0.105",
+      "unit": "%"
+    },
+    {
+      "name": "ALKYL DIMETHYL ETHYLBENZYL AMMONIUM CHLORIDE",
+      "strength": "0.105",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "SPRAY"
+  ],
+  "routes": [
+    "DISINFECTANT (Food Premises)",
+    "DISINFECTANT (Hospital/HC Facilities)",
+    "DISINFECTANT (Domestic)",
+    "DISINFECTANT (Institutional/Industrial)"
+  ],
+  "companies": [
+    "ZEP COMMERCIAL SALES & SERVICE"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "TECHNICAL DISINFECTANTS"
+  ]
+}

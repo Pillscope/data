@@ -1,0 +1,28 @@
+{
+  "drug_code": "1212",
+  "din": "00035645",
+  "brand_name": "KEFLEX",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "24-JUL-2017",
+  "active_ingredients": [
+    {
+      "name": "CEPHALEXIN",
+      "strength": "250",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "POWDER FOR SUSPENSION"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "PENDOPHARM DIVISION OF DE PHARMASCIENCE INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "CEFALEXIN"
+  ]
+}

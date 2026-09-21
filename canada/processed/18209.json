@@ -1,0 +1,29 @@
+{
+  "drug_code": "18209",
+  "din": "02087316",
+  "brand_name": "LEUCOVORIN CALCIUM INJECTION",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "05-MAY-2015",
+  "active_ingredients": [
+    {
+      "name": "LEUCOVORIN (LEUCOVORIN CALCIUM)",
+      "strength": "10",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "INTRAMUSCULAR",
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "TEVA CANADA LIMITED"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "CALCIUM FOLINATE"
+  ]
+}

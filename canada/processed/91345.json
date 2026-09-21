@@ -1,0 +1,28 @@
+{
+  "drug_code": "91345",
+  "din": "02429012",
+  "brand_name": "DUTASTERIDE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "22-OCT-2014",
+  "active_ingredients": [
+    {
+      "name": "DUTASTERIDE",
+      "strength": "0.5",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "CAPSULE"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "SIVEM PHARMACEUTICALS ULC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "DUTASTERIDE"
+  ]
+}

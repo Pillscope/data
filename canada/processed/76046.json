@@ -1,0 +1,28 @@
+{
+  "drug_code": "76046",
+  "din": "02274930",
+  "brand_name": "TEVA-PIOGLITAZONE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "05-MAY-2015",
+  "active_ingredients": [
+    {
+      "name": "PIOGLITAZONE (PIOGLITAZONE HYDROCHLORIDE)",
+      "strength": "45",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "TEVA CANADA LIMITED"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "PIOGLITAZONE"
+  ]
+}

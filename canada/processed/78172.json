@@ -1,0 +1,28 @@
+{
+  "drug_code": "78172",
+  "din": "02296381",
+  "brand_name": "TRIDURAL",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "06-FEB-2014",
+  "active_ingredients": [
+    {
+      "name": "TRAMADOL HYDROCHLORIDE",
+      "strength": "100",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET (EXTENDED-RELEASE)"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "PALADIN LABS INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "TRAMADOL"
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "drug_code": "1593",
+  "din": "00258911",
+  "brand_name": "BLUE LOTION",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "27-FEB-2010",
+  "active_ingredients": [
+    {
+      "name": "GLYCERINE",
+      "strength": "10.52",
+      "unit": "%"
+    },
+    {
+      "name": "ALCOHOL ANHYDROUS",
+      "strength": "50.00",
+      "unit": "%"
+    },
+    {
+      "name": "SODIUM PROPIONATE",
+      "strength": "2.33",
+      "unit": "%"
+    },
+    {
+      "name": "UREA",
+      "strength": "3.00",
+      "unit": "%"
+    },
+    {
+      "name": "FURFURAL",
+      "strength": "0.96",
+      "unit": "%"
+    },
+    {
+      "name": "METHYL VIOLET",
+      "strength": "0.85",
+      "unit": "%"
+    },
+    {
+      "name": "ACRIFLAVINE",
+      "strength": "0.05",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "LOTION"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "FARNAM COMPANIES INC"
+  ],
+  "status": "MARKETED",
+  "atc": []
+}

@@ -1,0 +1,29 @@
+{
+  "drug_code": "94965",
+  "din": "02461900",
+  "brand_name": "ONCASPAR",
+  "class": "Human",
+  "descriptor": "3750 UNITS / 5 ML.  SINGLE USE VIAL",
+  "last_update": "20-APR-2018",
+  "active_ingredients": [
+    {
+      "name": "PEGASPARGASE",
+      "strength": "750",
+      "unit": "UNIT"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "INTRAMUSCULAR",
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "SHIRE PHARMA CANADA ULC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "PEGASPARGASE"
+  ]
+}

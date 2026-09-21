@@ -1,0 +1,28 @@
+{
+  "drug_code": "93236",
+  "din": "02446839",
+  "brand_name": "ACTIWIPE",
+  "class": "Disinfectant",
+  "descriptor": "",
+  "last_update": "02-JAN-2018",
+  "active_ingredients": [
+    {
+      "name": "BENZALKONIUM CHLORIDE",
+      "strength": "0.05",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "WIPE"
+  ],
+  "routes": [
+    "DISINFECTANT (Institutional/Industrial)"
+  ],
+  "companies": [
+    "GENESIS BIOSCIENCES LIMITED"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "TECHNICAL DISINFECTANTS"
+  ]
+}

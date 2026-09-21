@@ -1,0 +1,28 @@
+{
+  "drug_code": "78306",
+  "din": "02297728",
+  "brand_name": "SLEEP AID EXTRA STRENGTH",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "30-OCT-2017",
+  "active_ingredients": [
+    {
+      "name": "DIPHENHYDRAMINE HYDROCHLORIDE",
+      "strength": "50",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "CAPSULE"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "APOTEX INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "DIPHENHYDRAMINE"
+  ]
+}

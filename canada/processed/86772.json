@@ -1,0 +1,28 @@
+{
+  "drug_code": "86772",
+  "din": "02381885",
+  "brand_name": "ORALAIR",
+  "class": "Human",
+  "descriptor": "GRASS POLLEN ALLERGEN EXTRACT 100 IR (COMPOSED OF COCKSFOOT, SWEET VERNAL GRASS, RYE GRASS, MEADOW GRASS & TIMOTHY)",
+  "last_update": "01-MAY-2017",
+  "active_ingredients": [
+    {
+      "name": "Grass Pollen Allergen Extract",
+      "strength": "100",
+      "unit": "UNIT"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "SUBLINGUAL"
+  ],
+  "companies": [
+    "STALLERGENES CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "GRASS POLLEN"
+  ]
+}

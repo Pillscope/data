@@ -1,0 +1,28 @@
+{
+  "drug_code": "943",
+  "din": "00050024",
+  "brand_name": "CODEINE PHOSPHATE SYRUP",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "26-JUL-2017",
+  "active_ingredients": [
+    {
+      "name": "CODEINE PHOSPHATE",
+      "strength": "25",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SYRUP"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "LABORATOIRE ATLAS INC"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "CODEINE"
+  ]
+}

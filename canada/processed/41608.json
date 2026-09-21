@@ -1,0 +1,28 @@
+{
+  "drug_code": "41608",
+  "din": "00576034",
+  "brand_name": "TINACTIN",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "25-AUG-2017",
+  "active_ingredients": [
+    {
+      "name": "TOLNAFTATE",
+      "strength": "1",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "CREAM"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "BAYER INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "TOLNAFTATE"
+  ]
+}

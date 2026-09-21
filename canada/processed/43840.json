@@ -1,0 +1,28 @@
+{
+  "drug_code": "43840",
+  "din": "02126613",
+  "brand_name": "CISPLATIN INJECTION BP",
+  "class": "Human",
+  "descriptor": "SINGLE-USE",
+  "last_update": "11-APR-2018",
+  "active_ingredients": [
+    {
+      "name": "CISPLATIN",
+      "strength": "1",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "PFIZER CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "CISPLATIN"
+  ]
+}

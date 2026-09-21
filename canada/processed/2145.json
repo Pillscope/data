@@ -1,0 +1,28 @@
+{
+  "drug_code": "2145",
+  "din": "00285455",
+  "brand_name": "ALDACTONE 100 MG",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "25-JAN-2013",
+  "active_ingredients": [
+    {
+      "name": "SPIRONOLACTONE",
+      "strength": "100",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "PFIZER CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "SPIRONOLACTONE"
+  ]
+}

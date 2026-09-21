@@ -1,0 +1,28 @@
+{
+  "drug_code": "84609",
+  "din": "02361043",
+  "brand_name": "DIGIFAB",
+  "class": "Human",
+  "descriptor": "SINGLE USE VIAL. LYOPHILIZED POWDER. PRESERVATIVE-FREE",
+  "last_update": "08-NOV-2011",
+  "active_ingredients": [
+    {
+      "name": "DIGOXIN IMMUNE FAB (OVINE)",
+      "strength": "40",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "POWDER FOR SOLUTION"
+  ],
+  "routes": [
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "BTG INTERNATIONAL INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "DIGITALIS ANTITOXIN"
+  ]
+}

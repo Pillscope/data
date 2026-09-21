@@ -1,0 +1,28 @@
+{
+  "drug_code": "72648",
+  "din": "02248307",
+  "brand_name": "FLONASE ALLERGY RELIEF",
+  "class": "Human",
+  "descriptor": "SUSPENSION",
+  "last_update": "07-FEB-2017",
+  "active_ingredients": [
+    {
+      "name": "FLUTICASONE PROPIONATE",
+      "strength": "50",
+      "unit": "MCG"
+    }
+  ],
+  "forms": [
+    "SPRAY, METERED DOSE"
+  ],
+  "routes": [
+    "NASAL"
+  ],
+  "companies": [
+    "GLAXOSMITHKLINE CONSUMER HEALTHCARE INC."
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "FLUTICASONE"
+  ]
+}

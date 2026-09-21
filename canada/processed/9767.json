@@ -1,0 +1,26 @@
+{
+  "drug_code": "9767",
+  "din": "00786098",
+  "brand_name": "TETRA 1000",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "11-JAN-2018",
+  "active_ingredients": [
+    {
+      "name": "TETRACYCLINE HYDROCHLORIDE",
+      "strength": "1000",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "POWDER FOR SOLUTION"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "JAAPHARM CANADA INC."
+  ],
+  "status": "MARKETED",
+  "atc": []
+}

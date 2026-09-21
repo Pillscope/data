@@ -1,0 +1,48 @@
+{
+  "drug_code": "86703",
+  "din": "02381257",
+  "brand_name": "ACID CONCENTRATE A1220",
+  "class": "Human",
+  "descriptor": "FOR HEMODIALYSIS USE ONLY.  NOT FOR PERITONEAL DIALYSIS.",
+  "last_update": "15-JAN-2015",
+  "active_ingredients": [
+    {
+      "name": "SODIUM CHLORIDE",
+      "strength": "263",
+      "unit": "G"
+    },
+    {
+      "name": "ACETIC ACID",
+      "strength": "10.81",
+      "unit": "G"
+    },
+    {
+      "name": "DEXTROSE",
+      "strength": "74.25",
+      "unit": "G"
+    },
+    {
+      "name": "MAGNESIUM CHLORIDE",
+      "strength": "2.14",
+      "unit": "G"
+    },
+    {
+      "name": "CALCIUM CHLORIDE",
+      "strength": "5",
+      "unit": "G"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "DIALYSIS"
+  ],
+  "companies": [
+    "CHIEF MEDICAL SUPPLIES LTD"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "HEMODIALYTICS, CONCENTRATES"
+  ]
+}

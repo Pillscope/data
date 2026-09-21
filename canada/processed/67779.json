@@ -1,0 +1,28 @@
+{
+  "drug_code": "67779",
+  "din": "02243838",
+  "brand_name": "BISACODYL TABLETS 5MG",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "02-OCT-2012",
+  "active_ingredients": [
+    {
+      "name": "BISACODYL",
+      "strength": "5",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "VITA HEALTH PRODUCTS INC"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "BISACODYL"
+  ]
+}

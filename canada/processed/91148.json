@@ -1,0 +1,28 @@
+{
+  "drug_code": "91148",
+  "din": "02426935",
+  "brand_name": "MED-LATANOPROST",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "06-JAN-2017",
+  "active_ingredients": [
+    {
+      "name": "LATANOPROST",
+      "strength": "50",
+      "unit": "MCG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "OPHTHALMIC"
+  ],
+  "companies": [
+    "GENERIC MEDICAL PARTNERS INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "LATANOPROST"
+  ]
+}

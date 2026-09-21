@@ -1,0 +1,28 @@
+{
+  "drug_code": "72766",
+  "din": "02248416",
+  "brand_name": "FASTURTEC",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "15-NOV-2007",
+  "active_ingredients": [
+    {
+      "name": "RASBURICASE",
+      "strength": "1.5",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "POWDER FOR SOLUTION"
+  ],
+  "routes": [
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "SANOFI-AVENTIS CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "RASBURICASE"
+  ]
+}

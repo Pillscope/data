@@ -1,0 +1,28 @@
+{
+  "drug_code": "3141",
+  "din": "00456349",
+  "brand_name": "AMITRIPTYLINE-50",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "19-JAN-2017",
+  "active_ingredients": [
+    {
+      "name": "AMITRIPTYLINE HYDROCHLORIDE",
+      "strength": "50",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "PRO DOC LIMITEE"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "AMITRIPTYLINE"
+  ]
+}

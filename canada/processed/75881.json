@@ -1,0 +1,28 @@
+{
+  "drug_code": "75881",
+  "din": "02273322",
+  "brand_name": "APTIVUS",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "15-JAN-2010",
+  "active_ingredients": [
+    {
+      "name": "TIPRANAVIR",
+      "strength": "250",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "CAPSULE"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "BOEHRINGER INGELHEIM (CANADA) LTD LTEE"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "TIPRANAVIR"
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "drug_code": "75436",
+  "din": "02268981",
+  "brand_name": "KLEEN & DRI XL",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "08-NOV-2005",
+  "active_ingredients": [
+    {
+      "name": "CHLORHEXIDINE ACETATE",
+      "strength": "0.002",
+      "unit": "%"
+    },
+    {
+      "name": "ALCOHOL ANHYDROUS",
+      "strength": "50",
+      "unit": "%"
+    },
+    {
+      "name": "LANOLIN",
+      "strength": "2",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "WIPE"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "BOU MATIC LLC"
+  ],
+  "status": "MARKETED",
+  "atc": []
+}

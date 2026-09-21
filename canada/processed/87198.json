@@ -1,0 +1,28 @@
+{
+  "drug_code": "87198",
+  "din": "02386399",
+  "brand_name": "JAMP-MYCOPHENOLATE CAPSULES",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "01-APR-2016",
+  "active_ingredients": [
+    {
+      "name": "MYCOPHENOLATE MOFETIL",
+      "strength": "250",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "CAPSULE"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "JAMP PHARMA CORPORATION"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "MYCOPHENOLIC ACID"
+  ]
+}

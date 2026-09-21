@@ -1,0 +1,28 @@
+{
+  "drug_code": "72108",
+  "din": "02247814",
+  "brand_name": "RIVA-RANITIDINE 150",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "01-FEB-2017",
+  "active_ingredients": [
+    {
+      "name": "RANITIDINE (RANITIDINE HYDROCHLORIDE)",
+      "strength": "150",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "LABORATOIRE RIVA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "RANITIDINE"
+  ]
+}

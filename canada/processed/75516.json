@@ -1,0 +1,34 @@
+{
+  "drug_code": "75516",
+  "din": "02269783",
+  "brand_name": "DM + EXPECTORANT EXTRA STRENGTH SYRUP",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "29-APR-2015",
+  "active_ingredients": [
+    {
+      "name": "GUAIFENESIN",
+      "strength": "200",
+      "unit": "MG"
+    },
+    {
+      "name": "DEXTROMETHORPHAN HYDROBROMIDE",
+      "strength": "15",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SYRUP"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "TEVA CANADA LIMITED"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "OPIUM DERIVATIVES AND EXPECTORANTS",
+    "OPIUM DERIVATIVES AND EXPECTORANTS"
+  ]
+}

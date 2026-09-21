@@ -1,0 +1,53 @@
+{
+  "drug_code": "91875",
+  "din": "02434415",
+  "brand_name": "ANTHELIOS MIST",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "09-JUN-2015",
+  "active_ingredients": [
+    {
+      "name": "AVOBENZONE",
+      "strength": "3",
+      "unit": "%"
+    },
+    {
+      "name": "TEREPHTHALYLIDENE DICAMPHOR SULFONIC ACID",
+      "strength": "2",
+      "unit": "%"
+    },
+    {
+      "name": "OCTOCRYLENE",
+      "strength": "5",
+      "unit": "%"
+    },
+    {
+      "name": "OCTISALATE",
+      "strength": "5",
+      "unit": "%"
+    },
+    {
+      "name": "OXYBENZONE",
+      "strength": "6",
+      "unit": "%"
+    },
+    {
+      "name": "HOMOSALATE",
+      "strength": "10",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "AEROSOL"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "LABORATOIRES LA ROCHE-POSAY CANADA"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "COMBINATIONS OF PROTECTIVES AGAINST UV-RADIATION"
+  ]
+}

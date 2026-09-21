@@ -1,0 +1,33 @@
+{
+  "drug_code": "77558",
+  "din": "02290308",
+  "brand_name": "CYESTRA-35",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "06-JUL-2016",
+  "active_ingredients": [
+    {
+      "name": "CYPROTERONE ACETATE",
+      "strength": "2",
+      "unit": "MG"
+    },
+    {
+      "name": "ETHINYL ESTRADIOL",
+      "strength": "0.035",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "PALADIN LABS INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "CYPROTERONE AND ESTROGEN"
+  ]
+}

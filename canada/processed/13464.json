@@ -1,0 +1,29 @@
+{
+  "drug_code": "13464",
+  "din": "01990403",
+  "brand_name": "PDP-AMANTADINE HYDROCHLORIDE CAPSULES",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "15-MAR-2017",
+  "active_ingredients": [
+    {
+      "name": "AMANTADINE HYDROCHLORIDE",
+      "strength": "100",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "CAPSULE"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "PENDOPHARM DIVISION OF DE PHARMASCIENCE INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "AMANTADINE",
+    "AMANTADINE"
+  ]
+}

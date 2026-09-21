@@ -1,0 +1,28 @@
+{
+  "drug_code": "84188",
+  "din": "02356759",
+  "brand_name": "SANDOZ VALSARTAN",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "05-MAY-2015",
+  "active_ingredients": [
+    {
+      "name": "VALSARTAN",
+      "strength": "80",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "SANDOZ CANADA INCORPORATED"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "VALSARTAN"
+  ]
+}

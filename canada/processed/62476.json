@@ -1,0 +1,28 @@
+{
+  "drug_code": "62476",
+  "din": "02239025",
+  "brand_name": "TEVA-CLONAZEPAM",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "05-MAY-2015",
+  "active_ingredients": [
+    {
+      "name": "CLONAZEPAM",
+      "strength": "2",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "TEVA CANADA LIMITED"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "CLONAZEPAM"
+  ]
+}

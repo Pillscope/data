@@ -1,0 +1,38 @@
+{
+  "drug_code": "86690",
+  "din": "02381133",
+  "brand_name": "GOT THE GOODS MULTI-BENEFIT FOUNDATION LOTION",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "08-JAN-2014",
+  "active_ingredients": [
+    {
+      "name": "TITANIUM DIOXIDE",
+      "strength": "2.6",
+      "unit": "%"
+    },
+    {
+      "name": "OXYBENZONE",
+      "strength": "2.0",
+      "unit": "%"
+    },
+    {
+      "name": "OCTINOXATE",
+      "strength": "7.49",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "LOTION"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "AVON CANADA INC"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "COMBINATIONS OF PROTECTIVES AGAINST UV-RADIATION"
+  ]
+}

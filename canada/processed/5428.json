@@ -1,0 +1,32 @@
+{
+  "drug_code": "5428",
+  "din": "00564370",
+  "brand_name": "BOVADINE TEAT DIP",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "04-AUG-2017",
+  "active_ingredients": [
+    {
+      "name": "POLYETHOXY POLYPROPOXY POLYETHOXY ETHANOL - IODINE COMPLEX",
+      "strength": "5.69",
+      "unit": "%"
+    },
+    {
+      "name": "NONYL PHENOXYPOLY ETHOXY ETHANOL-IODINE",
+      "strength": "5.46",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "LIQUID"
+  ],
+  "routes": [
+    "TEAT-DIP",
+    "TOPICAL"
+  ],
+  "companies": [
+    "WESTAGRO CANADA"
+  ],
+  "status": "MARKETED",
+  "atc": []
+}

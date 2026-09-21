@@ -1,0 +1,28 @@
+{
+  "drug_code": "76373",
+  "din": "02278146",
+  "brand_name": "PROVON MEDICATED FOAM HANDWASH WITH ADVANCED MOISTURIZERS",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "11-JUL-2012",
+  "active_ingredients": [
+    {
+      "name": "TRICLOSAN",
+      "strength": "0.3",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "LIQUID"
+  ],
+  "routes": [
+    "TOPICAL (HOUSEHOLD)"
+  ],
+  "companies": [
+    "GOJO INDUSTRIES, INC."
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "TRICLOSAN"
+  ]
+}

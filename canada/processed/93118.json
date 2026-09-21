@@ -1,0 +1,28 @@
+{
+  "drug_code": "93118",
+  "din": "02445905",
+  "brand_name": "ATOMOXETINE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "12-JAN-2017",
+  "active_ingredients": [
+    {
+      "name": "ATOMOXETINE (ATOMOXETINE HYDROCHLORIDE)",
+      "strength": "18",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "CAPSULE"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "SIVEM PHARMACEUTICALS ULC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "ATOMOXETINE"
+  ]
+}

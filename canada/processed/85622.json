@@ -1,0 +1,34 @@
+{
+  "drug_code": "85622",
+  "din": "02371022",
+  "brand_name": "TWYNSTA",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "03-JUL-2013",
+  "active_ingredients": [
+    {
+      "name": "TELMISARTAN",
+      "strength": "40",
+      "unit": "MG"
+    },
+    {
+      "name": "AMLODIPINE (AMLODIPINE BESYLATE)",
+      "strength": "5",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "BOEHRINGER INGELHEIM (CANADA) LTD LTEE"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "TELMISARTAN AND AMLODIPINE",
+    "TELMISARTAN AND AMLODIPINE"
+  ]
+}

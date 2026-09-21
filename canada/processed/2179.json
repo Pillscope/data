@@ -1,0 +1,39 @@
+{
+  "drug_code": "2179",
+  "din": "00293504",
+  "brand_name": "ATASOL 15",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "04-APR-2017",
+  "active_ingredients": [
+    {
+      "name": "CAFFEINE CITRATE",
+      "strength": "30",
+      "unit": "MG"
+    },
+    {
+      "name": "CODEINE PHOSPHATE",
+      "strength": "15",
+      "unit": "MG"
+    },
+    {
+      "name": "ACETAMINOPHEN",
+      "strength": "325",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "CHURCH & DWIGHT CANADA CORP"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "CODEINE AND PARACETAMOL",
+    "CODEINE AND PARACETAMOL"
+  ]
+}

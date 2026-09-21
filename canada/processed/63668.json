@@ -1,0 +1,28 @@
+{
+  "drug_code": "63668",
+  "din": "02240152",
+  "brand_name": "PSORIASIN GEL",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "09-JUL-2012",
+  "active_ingredients": [
+    {
+      "name": "COAL TAR",
+      "strength": "1.25",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "GEL"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "ALVA-AMCO PHARMACAL COMPANIES, INC."
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "TARS"
+  ]
+}

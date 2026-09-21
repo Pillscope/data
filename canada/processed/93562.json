@@ -1,0 +1,28 @@
+{
+  "drug_code": "93562",
+  "din": "02449781",
+  "brand_name": "NUCALA",
+  "class": "Human",
+  "descriptor": "100MG/ML RECONSTITUTED. SINGLE-USE VIAL. LYOPHILIZED POWDER.",
+  "last_update": "23-MAR-2018",
+  "active_ingredients": [
+    {
+      "name": "MEPOLIZUMAB",
+      "strength": "100",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "POWDER FOR SOLUTION"
+  ],
+  "routes": [
+    "SUBCUTANEOUS"
+  ],
+  "companies": [
+    "GLAXOSMITHKLINE INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "MEPOLIZUMAB"
+  ]
+}

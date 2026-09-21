@@ -1,0 +1,41 @@
+{
+  "drug_code": "9551",
+  "din": "00628859",
+  "brand_name": "FOULEX",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "06-OCT-2000",
+  "active_ingredients": [
+    {
+      "name": "IODINE",
+      "strength": ".3",
+      "unit": "%"
+    },
+    {
+      "name": "CAMPHOR",
+      "strength": "3",
+      "unit": "%"
+    },
+    {
+      "name": "ISOPROPYL ALCOHOL",
+      "strength": "2",
+      "unit": "%"
+    },
+    {
+      "name": "CRESOL",
+      "strength": "5",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "LIQUID"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "TUTTLE'S HORSE CARE, DIVISION OF Y-TEX CORP."
+  ],
+  "status": "MARKETED",
+  "atc": []
+}

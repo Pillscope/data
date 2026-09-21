@@ -1,0 +1,28 @@
+{
+  "drug_code": "74353",
+  "din": "02258315",
+  "brand_name": "TEVA-MELOXICAM",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "05-MAY-2015",
+  "active_ingredients": [
+    {
+      "name": "MELOXICAM",
+      "strength": "7.5",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "TEVA CANADA LIMITED"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "MELOXICAM"
+  ]
+}

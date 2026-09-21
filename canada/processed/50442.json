@@ -1,0 +1,28 @@
+{
+  "drug_code": "50442",
+  "din": "02231135",
+  "brand_name": "PMS-IPRATROPIUM",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "05-MAY-2015",
+  "active_ingredients": [
+    {
+      "name": "IPRATROPIUM BROMIDE",
+      "strength": "125",
+      "unit": "MCG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "INHALATION"
+  ],
+  "companies": [
+    "PHARMASCIENCE INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "IPRATROPIUM BROMIDE"
+  ]
+}

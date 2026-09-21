@@ -1,0 +1,28 @@
+{
+  "drug_code": "4255",
+  "din": "00496499",
+  "brand_name": "TEVA-PROPRANOLOL",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "29-APR-2015",
+  "active_ingredients": [
+    {
+      "name": "PROPRANOLOL HYDROCHLORIDE",
+      "strength": "40",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "TEVA CANADA LIMITED"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "PROPRANOLOL"
+  ]
+}

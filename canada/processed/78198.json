@@ -1,0 +1,28 @@
+{
+  "drug_code": "78198",
+  "din": "02296624",
+  "brand_name": "PACLITAXEL FOR INJECTION",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "15-AUG-2017",
+  "active_ingredients": [
+    {
+      "name": "PACLITAXEL",
+      "strength": "6",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "PFIZER CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "PACLITAXEL"
+  ]
+}

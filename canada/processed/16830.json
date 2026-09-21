@@ -1,0 +1,28 @@
+{
+  "drug_code": "16830",
+  "din": "02058235",
+  "brand_name": "SODIUM CHLORIDE INHALATION SOLUTION USP 0.9%",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "27-JUL-2016",
+  "active_ingredients": [
+    {
+      "name": "SODIUM CHLORIDE",
+      "strength": "0.9",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "INHALATION"
+  ],
+  "companies": [
+    "THE RITEDOSE CORPORATION"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "SODIUM CHLORIDE"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "drug_code": "1225",
+  "din": "00225851",
+  "brand_name": "DALACIN C FLAVOURED GRANULES",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "25-JAN-2013",
+  "active_ingredients": [
+    {
+      "name": "CLINDAMYCIN (CLINDAMYCIN 2-PALMITATE HYDROCHLORIDE)",
+      "strength": "75",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "POWDER FOR SOLUTION"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "PFIZER CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "CLINDAMYCIN"
+  ]
+}

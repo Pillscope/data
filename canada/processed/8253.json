@@ -1,0 +1,26 @@
+{
+  "drug_code": "8253",
+  "din": "00651966",
+  "brand_name": "HEARTGARD-30 TABLETS FOR DOGS 68MCG",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "05-MAY-2015",
+  "active_ingredients": [
+    {
+      "name": "IVERMECTIN",
+      "strength": "68",
+      "unit": "MCG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "MERIAL CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": []
+}

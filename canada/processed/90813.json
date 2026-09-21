@@ -1,0 +1,29 @@
+{
+  "drug_code": "90813",
+  "din": "02423405",
+  "brand_name": "BORTEZOMIB FOR INJECTION",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "26-MAY-2015",
+  "active_ingredients": [
+    {
+      "name": "BORTEZOMIB (BORTEZOMIB MANNITOL BORONIC ESTER)",
+      "strength": "3.5",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "POWDER FOR SOLUTION"
+  ],
+  "routes": [
+    "INTRAVENOUS",
+    "SUBCUTANEOUS"
+  ],
+  "companies": [
+    "TEVA CANADA LIMITED"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "BORTEZOMIB"
+  ]
+}

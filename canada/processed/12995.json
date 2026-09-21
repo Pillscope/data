@@ -1,0 +1,29 @@
+{
+  "drug_code": "12995",
+  "din": "01926438",
+  "brand_name": "KIDROLASE",
+  "class": "Human",
+  "descriptor": "ESCHERICHIA COLI DERIVED",
+  "last_update": "28-JUL-2017",
+  "active_ingredients": [
+    {
+      "name": "ASPARAGINASE",
+      "strength": "10000",
+      "unit": "UNIT"
+    }
+  ],
+  "forms": [
+    "POWDER FOR SOLUTION"
+  ],
+  "routes": [
+    "INTRAMUSCULAR",
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "JAZZ PHARMACEUTICALS FRANCE SAS"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "ASPARAGINASE"
+  ]
+}

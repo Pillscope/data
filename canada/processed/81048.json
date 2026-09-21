@@ -1,0 +1,28 @@
+{
+  "drug_code": "81048",
+  "din": "02325063",
+  "brand_name": "OMNITROPE",
+  "class": "Human",
+  "descriptor": "CARTRIDGE",
+  "last_update": "08-DEC-2016",
+  "active_ingredients": [
+    {
+      "name": "SOMATROPIN",
+      "strength": "5",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "SUBCUTANEOUS"
+  ],
+  "companies": [
+    "SANDOZ CANADA INCORPORATED"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "SOMATROPIN"
+  ]
+}

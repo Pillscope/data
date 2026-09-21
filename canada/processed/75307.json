@@ -1,0 +1,28 @@
+{
+  "drug_code": "75307",
+  "din": "02267659",
+  "brand_name": "ADENOSINE INJECTION",
+  "class": "Human",
+  "descriptor": "SINGLE-DOSE VIAL",
+  "last_update": "06-SEP-2016",
+  "active_ingredients": [
+    {
+      "name": "ADENOSINE",
+      "strength": "3",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "FRESENIUS KABI CANADA LTD"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "ADENOSINE"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "drug_code": "77896",
+  "din": "02293609",
+  "brand_name": "READYCLEANSE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "03-DEC-2007",
+  "active_ingredients": [
+    {
+      "name": "DIMETHICONE",
+      "strength": "3.2",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "WIPE"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "MEDLINE INDUSTRIES INCORPORATED"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "SILICONE PRODUCTS"
+  ]
+}

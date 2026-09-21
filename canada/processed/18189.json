@@ -1,0 +1,28 @@
+{
+  "drug_code": "18189",
+  "din": "02144298",
+  "brand_name": "TEVA-TRAZODONE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "19-JUL-2017",
+  "active_ingredients": [
+    {
+      "name": "TRAZODONE HYDROCHLORIDE",
+      "strength": "150",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "TEVA CANADA LIMITED"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "TRAZODONE"
+  ]
+}

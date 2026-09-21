@@ -1,0 +1,28 @@
+{
+  "drug_code": "80286",
+  "din": "02317338",
+  "brand_name": "IBUPROFEN CAPLETS",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "15-MAY-2014",
+  "active_ingredients": [
+    {
+      "name": "IBUPROFEN",
+      "strength": "400",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "PHARMETICS (2011) INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "IBUPROFEN"
+  ]
+}

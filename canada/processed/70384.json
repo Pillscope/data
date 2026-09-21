@@ -1,0 +1,28 @@
+{
+  "drug_code": "70384",
+  "din": "02246226",
+  "brand_name": "FLUDARA",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "02-SEP-2014",
+  "active_ingredients": [
+    {
+      "name": "FLUDARABINE PHOSPHATE",
+      "strength": "10",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "SANOFI-AVENTIS CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "FLUDARABINE"
+  ]
+}

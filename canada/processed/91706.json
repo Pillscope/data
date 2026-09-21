@@ -1,0 +1,28 @@
+{
+  "drug_code": "91706",
+  "din": "02432625",
+  "brand_name": "VAN-MYCOPHENOLATE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "19-JAN-2017",
+  "active_ingredients": [
+    {
+      "name": "MYCOPHENOLATE MOFETIL",
+      "strength": "500",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "VANC PHARMACEUTICALS INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "MYCOPHENOLIC ACID"
+  ]
+}

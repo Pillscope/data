@@ -1,0 +1,28 @@
+{
+  "drug_code": "43416",
+  "din": "02225158",
+  "brand_name": "SUPREFACT",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "20-FEB-2008",
+  "active_ingredients": [
+    {
+      "name": "BUSERELIN (BUSERELIN ACETATE)",
+      "strength": "1",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "NASAL"
+  ],
+  "companies": [
+    "SANOFI-AVENTIS CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "BUSERELIN"
+  ]
+}

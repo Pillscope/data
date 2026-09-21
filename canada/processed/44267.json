@@ -1,0 +1,28 @@
+{
+  "drug_code": "44267",
+  "din": "02183013",
+  "brand_name": "VINCRISTINE SULFATE INJECTION USP",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "02-JUN-2017",
+  "active_ingredients": [
+    {
+      "name": "VINCRISTINE SULFATE",
+      "strength": "1",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "PFIZER CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "VINCRISTINE"
+  ]
+}

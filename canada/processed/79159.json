@@ -1,0 +1,28 @@
+{
+  "drug_code": "79159",
+  "din": "02306034",
+  "brand_name": "PMS-RIVASTIGMINE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "21-SEP-2009",
+  "active_ingredients": [
+    {
+      "name": "RIVASTIGMINE (RIVASTIGMINE HYDROGEN TARTRATE)",
+      "strength": "1.5",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "CAPSULE"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "PHARMASCIENCE INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "RIVASTIGMINE"
+  ]
+}

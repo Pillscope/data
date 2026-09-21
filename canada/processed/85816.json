@@ -1,0 +1,28 @@
+{
+  "drug_code": "85816",
+  "din": "02373033",
+  "brand_name": "DURELA",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "05-FEB-2014",
+  "active_ingredients": [
+    {
+      "name": "TRAMADOL HYDROCHLORIDE",
+      "strength": "300",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "CAPSULE (EXTENDED RELEASE)"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "CIPHER PHARMACEUTICALS INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "TRAMADOL"
+  ]
+}

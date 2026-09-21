@@ -1,0 +1,28 @@
+{
+  "drug_code": "5108",
+  "din": "00578479",
+  "brand_name": "FLURAZEPAM 15",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "30-SEP-2010",
+  "active_ingredients": [
+    {
+      "name": "FLURAZEPAM HYDROCHLORIDE",
+      "strength": "15",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "CAPSULE"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "PRO DOC LIMITEE"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "FLURAZEPAM"
+  ]
+}

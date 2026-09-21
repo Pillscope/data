@@ -1,0 +1,28 @@
+{
+  "drug_code": "80958",
+  "din": "02324091",
+  "brand_name": "EPIRUBICIN FOR INJECTION",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "16-MAR-2017",
+  "active_ingredients": [
+    {
+      "name": "EPIRUBICIN HYDROCHLORIDE",
+      "strength": "2",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "TEVA CANADA LIMITED"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "EPIRUBICIN"
+  ]
+}

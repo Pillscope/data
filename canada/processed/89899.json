@@ -1,0 +1,28 @@
+{
+  "drug_code": "89899",
+  "din": "02414333",
+  "brand_name": "RAPICIDE OPA/28 HIGH LEVEL DISINFECTANT",
+  "class": "Disinfectant",
+  "descriptor": "",
+  "last_update": "24-SEP-2015",
+  "active_ingredients": [
+    {
+      "name": "ORTHO-PHTHALALDEHYDE",
+      "strength": "0.575",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "LIQUID"
+  ],
+  "routes": [
+    "DISINFECTANT (Medical Instruments)"
+  ],
+  "companies": [
+    "MEDIVATORS INC"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "TECHNICAL DISINFECTANTS"
+  ]
+}

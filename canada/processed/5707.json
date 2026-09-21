@@ -1,0 +1,28 @@
+{
+  "drug_code": "5707",
+  "din": "00614254",
+  "brand_name": "TOBREX",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "24-JUL-2017",
+  "active_ingredients": [
+    {
+      "name": "TOBRAMYCIN",
+      "strength": "0.3",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "OINTMENT"
+  ],
+  "routes": [
+    "OPHTHALMIC"
+  ],
+  "companies": [
+    "NOVARTIS PHARMACEUTICALS CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "TOBRAMYCIN"
+  ]
+}

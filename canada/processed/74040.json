@@ -1,0 +1,28 @@
+{
+  "drug_code": "74040",
+  "din": "02255251",
+  "brand_name": "ACETAMINOPHEN 500 MG TABLETS EXTRA STRENGTH EASY TO SWALLOW",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "08-OCT-2014",
+  "active_ingredients": [
+    {
+      "name": "ACETAMINOPHEN",
+      "strength": "500",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "PHARMETICS (2011) INC"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "ACETAMINOPHEN (PARACETAMOL)"
+  ]
+}

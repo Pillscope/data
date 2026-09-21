@@ -1,0 +1,28 @@
+{
+  "drug_code": "87771",
+  "din": "02392437",
+  "brand_name": "ISENTRESS",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "20-JUN-2017",
+  "active_ingredients": [
+    {
+      "name": "RALTEGRAVIR (RALTEGRAVIR POTASSIUM)",
+      "strength": "100",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET (CHEWABLE)"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "MERCK CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "RALTEGRAVIR"
+  ]
+}

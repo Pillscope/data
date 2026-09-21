@@ -1,0 +1,46 @@
+{
+  "drug_code": "231",
+  "din": "00142719",
+  "brand_name": "ASTRINGENT POWDER",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "11-JAN-2018",
+  "active_ingredients": [
+    {
+      "name": "ASPIDOSPERMA",
+      "strength": "117.53",
+      "unit": "G"
+    },
+    {
+      "name": "SULFAGUANIDINE",
+      "strength": "2.88",
+      "unit": "G"
+    },
+    {
+      "name": "KAOLIN",
+      "strength": "16.79",
+      "unit": "G"
+    },
+    {
+      "name": "CHARCOAL ACTIVATED",
+      "strength": "119.93",
+      "unit": "G"
+    },
+    {
+      "name": "GAMBIR",
+      "strength": "3.36",
+      "unit": "G"
+    }
+  ],
+  "forms": [
+    "POWDER"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "MTC PHARMACEUTICALS"
+  ],
+  "status": "MARKETED",
+  "atc": []
+}

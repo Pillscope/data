@@ -1,0 +1,28 @@
+{
+  "drug_code": "1731",
+  "din": "00244287",
+  "brand_name": "THAM SOLUTION 36MG/ML",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "25-JUL-2013",
+  "active_ingredients": [
+    {
+      "name": "TROMETAMOL",
+      "strength": "36",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "HOSPIRA HEALTHCARE CORPORATION"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "TROMETAMOL"
+  ]
+}

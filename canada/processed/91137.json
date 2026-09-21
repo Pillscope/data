@@ -1,0 +1,28 @@
+{
+  "drug_code": "91137",
+  "din": "02426811",
+  "brand_name": "ASA EC",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "28-AUG-2014",
+  "active_ingredients": [
+    {
+      "name": "ACETYLSALICYLIC ACID",
+      "strength": "81",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET (DELAYED-RELEASE)"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "SANIS HEALTH INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "ACETYLSALICYLIC ACID"
+  ]
+}

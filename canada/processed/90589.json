@@ -1,0 +1,28 @@
+{
+  "drug_code": "90589",
+  "din": "02421259",
+  "brand_name": "MAR-OLANZAPINE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "19-NOV-2014",
+  "active_ingredients": [
+    {
+      "name": "OLANZAPINE",
+      "strength": "7.5",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "MARCAN PHARMACEUTICALS INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "OLANZAPINE"
+  ]
+}

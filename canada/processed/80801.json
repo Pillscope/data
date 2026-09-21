@@ -1,0 +1,28 @@
+{
+  "drug_code": "80801",
+  "din": "02322560",
+  "brand_name": "TOPICAINE 5",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "09-JUN-2011",
+  "active_ingredients": [
+    {
+      "name": "LIDOCAINE",
+      "strength": "5",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "GEL"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "ESBA LABORATORIES INC"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "LIDOCAINE"
+  ]
+}

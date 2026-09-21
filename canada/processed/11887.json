@@ -1,0 +1,28 @@
+{
+  "drug_code": "11887",
+  "din": "00788503",
+  "brand_name": "VAPORISATEUR NASAL DECONGESTIONNANT",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "19-DEC-2017",
+  "active_ingredients": [
+    {
+      "name": "XYLOMETAZOLINE HYDROCHLORIDE",
+      "strength": "0.1",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "NASAL"
+  ],
+  "companies": [
+    "LABORATOIRES CONFAB INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "XYLOMETAZOLINE"
+  ]
+}

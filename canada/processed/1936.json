@@ -1,0 +1,28 @@
+{
+  "drug_code": "1936",
+  "din": "00299405",
+  "brand_name": "PRED MILD 0.12%",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "29-NOV-2005",
+  "active_ingredients": [
+    {
+      "name": "PREDNISOLONE ACETATE",
+      "strength": "0.12",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "DROPS"
+  ],
+  "routes": [
+    "OPHTHALMIC"
+  ],
+  "companies": [
+    "ALLERGAN INC"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "PREDNISOLONE"
+  ]
+}

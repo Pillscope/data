@@ -1,0 +1,38 @@
+{
+  "drug_code": "90993",
+  "din": "02425297",
+  "brand_name": "SPRAY SOLAIRE LAIT-FLUIDE DOUCEUR SPF 20",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "23-JAN-2018",
+  "active_ingredients": [
+    {
+      "name": "AVOBENZONE",
+      "strength": "3",
+      "unit": "%"
+    },
+    {
+      "name": "OCTOCRYLENE",
+      "strength": "2.7",
+      "unit": "%"
+    },
+    {
+      "name": "HOMOSALATE",
+      "strength": "10",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "LOTION"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "CLARINS CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "COMBINATIONS OF PROTECTIVES AGAINST UV-RADIATION"
+  ]
+}

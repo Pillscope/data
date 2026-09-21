@@ -1,0 +1,39 @@
+{
+  "drug_code": "73675",
+  "din": "02251841",
+  "brand_name": "SANI CART WIPES",
+  "class": "Disinfectant",
+  "descriptor": "",
+  "last_update": "12-MAY-2010",
+  "active_ingredients": [
+    {
+      "name": "BENZALKONIUM CHLORIDE",
+      "strength": "0.125",
+      "unit": "%"
+    },
+    {
+      "name": "ISOPROPYL ALCOHOL",
+      "strength": "14.85",
+      "unit": "%"
+    },
+    {
+      "name": "ALKYL DIMETHYL ETHYLBENZYL AMMONIUM CHLORIDE",
+      "strength": "0.125",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "WIPE"
+  ],
+  "routes": [
+    "DISINFECTANT (Domestic)",
+    "DISINFECTANT (Institutional/Industrial)"
+  ],
+  "companies": [
+    "NICE-PAK PRODUCTS INC"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "TECHNICAL DISINFECTANTS"
+  ]
+}

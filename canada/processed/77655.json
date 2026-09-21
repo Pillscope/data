@@ -1,0 +1,28 @@
+{
+  "drug_code": "77655",
+  "din": "02291177",
+  "brand_name": "CHAMPIX",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "05-MAY-2015",
+  "active_ingredients": [
+    {
+      "name": "VARENICLINE (VARENICLINE TARTRATE)",
+      "strength": "0.5",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "PFIZER CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "VARENICLINE"
+  ]
+}

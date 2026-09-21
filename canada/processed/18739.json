@@ -1,0 +1,28 @@
+{
+  "drug_code": "18739",
+  "din": "02156008",
+  "brand_name": "FLUANXOL 0.5MG - TAB",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "26-FEB-2009",
+  "active_ingredients": [
+    {
+      "name": "FLUPENTIXOL (FLUPENTIXOL DIHYDROCHLORIDE)",
+      "strength": "0.5",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "LUNDBECK CANADA INC"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "FLUPENTIXOL"
+  ]
+}

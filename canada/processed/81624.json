@@ -1,0 +1,34 @@
+{
+  "drug_code": "81624",
+  "din": "02330512",
+  "brand_name": "RATIO-IRBESARTAN HCTZ",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "24-MAR-2011",
+  "active_ingredients": [
+    {
+      "name": "IRBESARTAN",
+      "strength": "150",
+      "unit": "MG"
+    },
+    {
+      "name": "HYDROCHLOROTHIAZIDE",
+      "strength": "12.5",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "TEVA CANADA LIMITED"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "IRBESARTAN AND DIURETICS",
+    "IRBESARTAN AND DIURETICS"
+  ]
+}

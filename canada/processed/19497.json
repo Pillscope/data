@@ -1,0 +1,28 @@
+{
+  "drug_code": "19497",
+  "din": "02172763",
+  "brand_name": "SEVORANE AF",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "12-SEP-2014",
+  "active_ingredients": [
+    {
+      "name": "SEVOFLURANE",
+      "strength": "99.97",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "LIQUID"
+  ],
+  "routes": [
+    "INHALATION"
+  ],
+  "companies": [
+    "ABBVIE CORPORATION"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "SEVOFLURANE"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "drug_code": "94425",
+  "din": "02457172",
+  "brand_name": "MYLAN-PROPAFENONE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "20-FEB-2018",
+  "active_ingredients": [
+    {
+      "name": "PROPAFENONE HYDROCHLORIDE",
+      "strength": "150",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "MYLAN PHARMACEUTICALS ULC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "PROPAFENONE"
+  ]
+}

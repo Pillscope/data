@@ -1,0 +1,28 @@
+{
+  "drug_code": "37001",
+  "din": "02214415",
+  "brand_name": "SPECTRO ECZEMACARE MEDICATED CREAM",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "15-JAN-2015",
+  "active_ingredients": [
+    {
+      "name": "CLOBETASONE BUTYRATE",
+      "strength": "0.05",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "CREAM"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "GLAXOSMITHKLINE CONSUMER HEALTHCARE INC."
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "CLOBETASONE"
+  ]
+}

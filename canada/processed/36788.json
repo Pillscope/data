@@ -1,0 +1,34 @@
+{
+  "drug_code": "36788",
+  "din": "02209594",
+  "brand_name": "PREPARATION H-PE GEL",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "13-NOV-2012",
+  "active_ingredients": [
+    {
+      "name": "PHENYLEPHRINE HYDROCHLORIDE",
+      "strength": "0.25",
+      "unit": "%"
+    },
+    {
+      "name": "HAMAMELIS VIRGINIANA",
+      "strength": "50",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "GEL"
+  ],
+  "routes": [
+    "RECTAL",
+    "TOPICAL"
+  ],
+  "companies": [
+    "PFIZER CONSUMER HEALTHCARE A DIVISION OF PFIZER CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "OTHER PREPARATIONS, COMBINATIONS"
+  ]
+}

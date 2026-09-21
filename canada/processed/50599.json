@@ -1,0 +1,28 @@
+{
+  "drug_code": "50599",
+  "din": "02231289",
+  "brand_name": "GENTEAL",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "13-JUN-2017",
+  "active_ingredients": [
+    {
+      "name": "HYPROMELLOSE",
+      "strength": "3",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "OPHTHALMIC"
+  ],
+  "companies": [
+    "NOVARTIS PHARMACEUTICALS CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "ARTIFICIAL TEARS AND OTHER INDIFFERENT PREPARATIONS."
+  ]
+}

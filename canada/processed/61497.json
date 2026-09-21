@@ -1,0 +1,28 @@
+{
+  "drug_code": "61497",
+  "din": "02238103",
+  "brand_name": "TEVA-GLICLAZIDE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "05-MAY-2015",
+  "active_ingredients": [
+    {
+      "name": "GLICLAZIDE",
+      "strength": "80",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "TEVA CANADA LIMITED"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "GLICLAZIDE"
+  ]
+}

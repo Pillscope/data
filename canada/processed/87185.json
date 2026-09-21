@@ -1,0 +1,28 @@
+{
+  "drug_code": "87185",
+  "din": "02386275",
+  "brand_name": "SANDOZ BOSENTAN",
+  "class": "Human",
+  "descriptor": "FILM COATED TABLET",
+  "last_update": "15-OCT-2015",
+  "active_ingredients": [
+    {
+      "name": "BOSENTAN (BOSENTAN MONOHYDRATE)",
+      "strength": "62.5",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "SANDOZ CANADA INCORPORATED"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "BOSENTAN"
+  ]
+}

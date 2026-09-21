@@ -1,0 +1,37 @@
+{
+  "drug_code": "76537",
+  "din": "02279789",
+  "brand_name": "SANI/CIDE",
+  "class": "Disinfectant",
+  "descriptor": "",
+  "last_update": "01-NOV-2017",
+  "active_ingredients": [
+    {
+      "name": "BENZALKONIUM CHLORIDE",
+      "strength": "2.25",
+      "unit": "%"
+    },
+    {
+      "name": "ALKYL DIMETHYL ETHYLBENZYL AMMONIUM CHLORIDE",
+      "strength": "2.25",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "LIQUID"
+  ],
+  "routes": [
+    "DISINFECTANT (Medical Instruments)",
+    "DISINFECTANT (Food Premises)",
+    "DISINFECTANT (Hospital/HC Facilities)",
+    "DISINFECTANT (Domestic)",
+    "DISINFECTANT (Institutional/Industrial)"
+  ],
+  "companies": [
+    "CONCEPT MANUFACTURING LTD."
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "TECHNICAL DISINFECTANTS"
+  ]
+}

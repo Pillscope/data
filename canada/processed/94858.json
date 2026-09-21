@@ -1,0 +1,33 @@
+{
+  "drug_code": "94858",
+  "din": "02461080",
+  "brand_name": "MARCELLE FLAWLESS AIR SERUM FOUNDATION S\u00c3\u0089RUM DE TEINT PEAU PARFAITE SPF 15 FPS",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "22-MAR-2018",
+  "active_ingredients": [
+    {
+      "name": "OXYBENZONE",
+      "strength": "3",
+      "unit": "%"
+    },
+    {
+      "name": "OCTINOXATE",
+      "strength": "7.5",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "LOTION"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "GROUPE MARCELLE INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "COMBINATIONS OF PROTECTIVES AGAINST UV-RADIATION"
+  ]
+}

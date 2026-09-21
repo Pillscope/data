@@ -1,0 +1,38 @@
+{
+  "drug_code": "13302",
+  "din": "01985205",
+  "brand_name": "CREON MINIMICROSPHERES 25",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "04-FEB-2016",
+  "active_ingredients": [
+    {
+      "name": "LIPASE",
+      "strength": "25000",
+      "unit": "UNIT"
+    },
+    {
+      "name": "PROTEASE",
+      "strength": "1600",
+      "unit": "UNIT"
+    },
+    {
+      "name": "AMYLASE",
+      "strength": "25500",
+      "unit": "UNIT"
+    }
+  ],
+  "forms": [
+    "CAPSULE"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "BGP PHARMA ULC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "MULTIENZYMES (LIPASE, PROTEASE ETC)"
+  ]
+}

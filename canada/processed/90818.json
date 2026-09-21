@@ -1,0 +1,28 @@
+{
+  "drug_code": "90818",
+  "din": "02423464",
+  "brand_name": "RIVA-RIZATRIPTAN ODT",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "15-JAN-2016",
+  "active_ingredients": [
+    {
+      "name": "RIZATRIPTAN (RIZATRIPTAN BENZOATE)",
+      "strength": "10",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET (ORALLY DISINTEGRATING)"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "LABORATOIRE RIVA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "RIZATRIPTAN"
+  ]
+}

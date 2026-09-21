@@ -1,0 +1,28 @@
+{
+  "drug_code": "19807",
+  "din": "02213834",
+  "brand_name": "NASACORT AQ",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "05-MAY-2017",
+  "active_ingredients": [
+    {
+      "name": "TRIAMCINOLONE ACETONIDE",
+      "strength": "55",
+      "unit": "MCG"
+    }
+  ],
+  "forms": [
+    "SPRAY, METERED DOSE"
+  ],
+  "routes": [
+    "NASAL"
+  ],
+  "companies": [
+    "SANOFI-AVENTIS CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "TRIAMCINOLONE"
+  ]
+}

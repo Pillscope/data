@@ -1,0 +1,28 @@
+{
+  "drug_code": "95860",
+  "din": "02469758",
+  "brand_name": "TREMFYA",
+  "class": "Human",
+  "descriptor": "1ML PRE FILLED SYRINGE",
+  "last_update": "21-MAR-2018",
+  "active_ingredients": [
+    {
+      "name": "GUSELKUMAB",
+      "strength": "100",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "SUBCUTANEOUS"
+  ],
+  "companies": [
+    "JANSSEN INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "GUSELKUMAB"
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "drug_code": "42685",
+  "din": "02144093",
+  "brand_name": "VISINE FOR ALLERGY 3 SYMPTOM RELIEF",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "14-SEP-2015",
+  "active_ingredients": [
+    {
+      "name": "TETRAHYDROZOLINE HYDROCHLORIDE",
+      "strength": "0.05",
+      "unit": "%"
+    },
+    {
+      "name": "ZINC SULFATE",
+      "strength": "0.25",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "DROPS"
+  ],
+  "routes": [
+    "OPHTHALMIC"
+  ],
+  "companies": [
+    "JOHNSON & JOHNSON INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "TETRYZOLINE, COMBINATIONS"
+  ]
+}

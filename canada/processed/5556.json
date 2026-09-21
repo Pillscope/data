@@ -1,0 +1,28 @@
+{
+  "drug_code": "5556",
+  "din": "00594431",
+  "brand_name": "EQVALAN",
+  "class": "Veterinary",
+  "descriptor": "ORAL PASTE FOR HORSES",
+  "last_update": "05-MAY-2015",
+  "active_ingredients": [
+    {
+      "name": "IVERMECTIN",
+      "strength": "120",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "PASTE"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "MERIAL CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "IVERMECTIN"
+  ]
+}

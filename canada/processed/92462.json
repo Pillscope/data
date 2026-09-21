@@ -1,0 +1,28 @@
+{
+  "drug_code": "92462",
+  "din": "02440245",
+  "brand_name": "PRIVA-CITALOPRAM",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "26-JUL-2017",
+  "active_ingredients": [
+    {
+      "name": "CITALOPRAM (CITALOPRAM HYDROBROMIDE)",
+      "strength": "20",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "PHARMAPAR INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "CITALOPRAM"
+  ]
+}

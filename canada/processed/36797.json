@@ -1,0 +1,33 @@
+{
+  "drug_code": "36797",
+  "din": "02209756",
+  "brand_name": "BIOSURF - LIQ HOS",
+  "class": "Disinfectant",
+  "descriptor": "",
+  "last_update": "16-APR-2014",
+  "active_ingredients": [
+    {
+      "name": "ALCOHOL ANHYDROUS",
+      "strength": "70.5",
+      "unit": "%"
+    },
+    {
+      "name": "CHLORHEXIDINE GLUCONATE",
+      "strength": "0.2",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "LIQUID"
+  ],
+  "routes": [
+    "DISINFECTANT (Hospital/HC Facilities)"
+  ],
+  "companies": [
+    "MICRYLIUM LABORATORIES INC."
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "TECHNICAL DISINFECTANTS"
+  ]
+}

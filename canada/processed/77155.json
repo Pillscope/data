@@ -1,0 +1,28 @@
+{
+  "drug_code": "77155",
+  "din": "02286076",
+  "brand_name": "FLUOXETINE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "17-NOV-2015",
+  "active_ingredients": [
+    {
+      "name": "FLUOXETINE (FLUOXETINE HYDROCHLORIDE)",
+      "strength": "20",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "CAPSULE"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "SANIS HEALTH INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "FLUOXETINE"
+  ]
+}

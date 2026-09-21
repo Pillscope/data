@@ -1,0 +1,28 @@
+{
+  "drug_code": "89614",
+  "din": "02411520",
+  "brand_name": "SANDOZ MOXIFLOXACIN",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "12-NOV-2015",
+  "active_ingredients": [
+    {
+      "name": "MOXIFLOXACIN (MOXIFLOXACIN HYDROCHLORIDE)",
+      "strength": "0.5",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "OPHTHALMIC"
+  ],
+  "companies": [
+    "SANDOZ CANADA INCORPORATED"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "MOXIFLOXACIN"
+  ]
+}

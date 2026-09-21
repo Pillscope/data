@@ -1,0 +1,28 @@
+{
+  "drug_code": "78087",
+  "din": "02295563",
+  "brand_name": "LOWPRIN 80MG",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "26-OCT-2009",
+  "active_ingredients": [
+    {
+      "name": "ACETYLSALICYLIC ACID",
+      "strength": "80",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "EURO-PHARM INTERNATIONAL CANADA INC"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "ACETYLSALICYLIC ACID"
+  ]
+}

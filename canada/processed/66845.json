@@ -1,0 +1,28 @@
+{
+  "drug_code": "66845",
+  "din": "02243005",
+  "brand_name": "MIRENA",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "23-MAY-2008",
+  "active_ingredients": [
+    {
+      "name": "LEVONORGESTREL",
+      "strength": "52",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "INSERT (EXTENDED-RELEASE)"
+  ],
+  "routes": [
+    "INTRAUTERINE"
+  ],
+  "companies": [
+    "BAYER INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "PLASTIC IUD WITH PROGESTOGENS"
+  ]
+}

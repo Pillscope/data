@@ -1,0 +1,28 @@
+{
+  "drug_code": "2467",
+  "din": "00360279",
+  "brand_name": "CHLORTHALIDONE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "29-APR-2015",
+  "active_ingredients": [
+    {
+      "name": "CHLORTHALIDONE",
+      "strength": "50",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "AA PHARMA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "CHLORTALIDONE"
+  ]
+}

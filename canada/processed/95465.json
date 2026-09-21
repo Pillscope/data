@@ -1,0 +1,28 @@
+{
+  "drug_code": "95465",
+  "din": "02466325",
+  "brand_name": "TOPICAL HAPTEN GEL",
+  "class": "Human",
+  "descriptor": "SOLID ACTIVE SUBSTANCE IN SEMI-SOLID VEHICLE",
+  "last_update": "23-OCT-2017",
+  "active_ingredients": [
+    {
+      "name": "HAPTENS",
+      "strength": "50",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "GEL"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "DORMER LABORATORIES INC."
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "VARIOUS"
+  ]
+}

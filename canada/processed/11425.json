@@ -1,0 +1,28 @@
+{
+  "drug_code": "11425",
+  "din": "00885401",
+  "brand_name": "PMS-HYDROMORPHONE TAB 4MG",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "06-JUN-2008",
+  "active_ingredients": [
+    {
+      "name": "HYDROMORPHONE HYDROCHLORIDE",
+      "strength": "4",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "PHARMASCIENCE INC"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "HYDROMORPHONE"
+  ]
+}

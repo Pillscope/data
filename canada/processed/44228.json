@@ -1,0 +1,28 @@
+{
+  "drug_code": "44228",
+  "din": "02177722",
+  "brand_name": "PMS-NIZATIDINE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "30-SEP-2010",
+  "active_ingredients": [
+    {
+      "name": "NIZATIDINE",
+      "strength": "300",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "CAPSULE"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "PHARMASCIENCE INC"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "NIZATIDINE"
+  ]
+}

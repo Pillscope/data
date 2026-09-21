@@ -1,0 +1,29 @@
+{
+  "drug_code": "71683",
+  "din": "02247437",
+  "brand_name": "INVANZ",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "21-AUG-2006",
+  "active_ingredients": [
+    {
+      "name": "ERTAPENEM (ERTAPENEM SODIUM)",
+      "strength": "1",
+      "unit": "G"
+    }
+  ],
+  "forms": [
+    "POWDER FOR SOLUTION"
+  ],
+  "routes": [
+    "INTRAMUSCULAR",
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "MERCK CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "ERTAPENEM"
+  ]
+}

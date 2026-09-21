@@ -1,0 +1,28 @@
+{
+  "drug_code": "75446",
+  "din": "02269066",
+  "brand_name": "LUVERIS",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "30-JUL-2012",
+  "active_ingredients": [
+    {
+      "name": "LUTROPIN ALFA",
+      "strength": "75",
+      "unit": "UNIT"
+    }
+  ],
+  "forms": [
+    "POWDER FOR SOLUTION"
+  ],
+  "routes": [
+    "SUBCUTANEOUS"
+  ],
+  "companies": [
+    "EMD SERONO A DIVISION OF EMD INC CANADA"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "LUTROPIN ALFA"
+  ]
+}

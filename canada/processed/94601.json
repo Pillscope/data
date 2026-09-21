@@ -1,0 +1,28 @@
+{
+  "drug_code": "94601",
+  "din": "02458837",
+  "brand_name": "DOAK OIL",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "13-FEB-2018",
+  "active_ingredients": [
+    {
+      "name": "COAL TAR",
+      "strength": "2",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "ODAN LABORATORIES LTD"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "TARS"
+  ]
+}

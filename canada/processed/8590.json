@@ -1,0 +1,28 @@
+{
+  "drug_code": "8590",
+  "din": "00755850",
+  "brand_name": "TIMOLOL",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "01-MAR-2018",
+  "active_ingredients": [
+    {
+      "name": "TIMOLOL MALEATE",
+      "strength": "10",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "AA PHARMA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "TIMOLOL"
+  ]
+}

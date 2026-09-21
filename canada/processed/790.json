@@ -1,0 +1,30 @@
+{
+  "drug_code": "790",
+  "din": "00038121",
+  "brand_name": "EPHEDRINE SULFATE INJECTION USP",
+  "class": "Human",
+  "descriptor": "SINGLE-USE AMPOULE",
+  "last_update": "29-NOV-2017",
+  "active_ingredients": [
+    {
+      "name": "EPHEDRINE SULFATE",
+      "strength": "50",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "INTRAMUSCULAR",
+    "INTRAVENOUS",
+    "SUBCUTANEOUS"
+  ],
+  "companies": [
+    "PFIZER CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "EPHEDRINE"
+  ]
+}

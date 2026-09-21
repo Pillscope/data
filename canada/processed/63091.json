@@ -1,0 +1,28 @@
+{
+  "drug_code": "63091",
+  "din": "02239620",
+  "brand_name": "PMS-INDAPAMIDE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "21-SEP-2009",
+  "active_ingredients": [
+    {
+      "name": "INDAPAMIDE",
+      "strength": "2.5",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "PHARMASCIENCE INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "INDAPAMIDE"
+  ]
+}

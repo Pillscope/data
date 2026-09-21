@@ -1,0 +1,28 @@
+{
+  "drug_code": "66476",
+  "din": "02242686",
+  "brand_name": "TARO-WARFARIN",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "12-MAY-2005",
+  "active_ingredients": [
+    {
+      "name": "WARFARIN SODIUM",
+      "strength": "6",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "TARO PHARMACEUTICALS INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "WARFARIN"
+  ]
+}

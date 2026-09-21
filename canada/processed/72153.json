@@ -1,0 +1,45 @@
+{
+  "drug_code": "72153",
+  "din": "02247846",
+  "brand_name": "ATTACK",
+  "class": "Disinfectant",
+  "descriptor": "",
+  "last_update": "29-APR-2015",
+  "active_ingredients": [
+    {
+      "name": "DIDECYL DIMETHYL AMMONIUM CHLORIDE",
+      "strength": "3.255",
+      "unit": "%"
+    },
+    {
+      "name": "BENZALKONIUM CHLORIDE",
+      "strength": "8.680",
+      "unit": "%"
+    },
+    {
+      "name": "DIOCTYL DIMETHYL AMMONIUM CHLORIDE",
+      "strength": "3.255",
+      "unit": "%"
+    },
+    {
+      "name": "OCTYL DECYL DIMETHYL AMMONIUM CHLORIDE",
+      "strength": "6.510",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "DISINFECTANT (Food Premises)",
+    "DISINFECTANT (Hospital/HC Facilities)",
+    "DISINFECTANT (Institutional/Industrial)"
+  ],
+  "companies": [
+    "MAXIM TECHNOLOGIES INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "TECHNICAL DISINFECTANTS"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "drug_code": "12788",
+  "din": "01928775",
+  "brand_name": "BALMINIL DM  (3MG/ML SUCROSE FREE)",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "29-APR-2015",
+  "active_ingredients": [
+    {
+      "name": "DEXTROMETHORPHAN HYDROBROMIDE",
+      "strength": "3",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SYRUP"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "TEVA CANADA LIMITED"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "DEXTROMETHORPHAN"
+  ]
+}

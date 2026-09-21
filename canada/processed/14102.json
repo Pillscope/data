@@ -1,0 +1,26 @@
+{
+  "drug_code": "14102",
+  "din": "00894486",
+  "brand_name": "TETRAMED 1000",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "27-DEC-2017",
+  "active_ingredients": [
+    {
+      "name": "TETRACYCLINE HYDROCHLORIDE",
+      "strength": "1000",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "POWDER FOR SOLUTION"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "BIO AGRI MIX LP"
+  ],
+  "status": "APPROVED",
+  "atc": []
+}

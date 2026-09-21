@@ -1,0 +1,44 @@
+{
+  "drug_code": "37819",
+  "din": "02210940",
+  "brand_name": "AF79 CONCENTRATE - LIQ  HOM HOS",
+  "class": "Disinfectant",
+  "descriptor": "",
+  "last_update": "30-SEP-2010",
+  "active_ingredients": [
+    {
+      "name": "DIDECYL DIMETHYL AMMONIUM CHLORIDE",
+      "strength": "0.684",
+      "unit": "%"
+    },
+    {
+      "name": "BENZALKONIUM CHLORIDE",
+      "strength": "1.52",
+      "unit": "%"
+    },
+    {
+      "name": "DIOCTYL DIMETHYL AMMONIUM CHLORIDE",
+      "strength": "0.456",
+      "unit": "%"
+    },
+    {
+      "name": "OCTYL DECYL DIMETHYL AMMONIUM CHLORIDE",
+      "strength": "1.14",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "LIQUID"
+  ],
+  "routes": [
+    "DISINFECTANT (Food Premises)",
+    "DISINFECTANT (Hospital/HC Facilities)"
+  ],
+  "companies": [
+    "BETCO CORPORATION"
+  ],
+  "status": "CANCELLED POST MARKET",
+  "atc": [
+    "TECHNICAL DISINFECTANTS"
+  ]
+}

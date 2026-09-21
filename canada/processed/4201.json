@@ -1,0 +1,38 @@
+{
+  "drug_code": "4201",
+  "din": "00523755",
+  "brand_name": "TRL 132 MUL T PHENOL",
+  "class": "Disinfectant",
+  "descriptor": "",
+  "last_update": "29-SEP-2010",
+  "active_ingredients": [
+    {
+      "name": "CLOROPHENE",
+      "strength": "4",
+      "unit": "%"
+    },
+    {
+      "name": "P-TERT-PENTYLPHENOL",
+      "strength": "1",
+      "unit": "%"
+    },
+    {
+      "name": "O-PHENYLPHENOL",
+      "strength": "3",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "LIQUID"
+  ],
+  "routes": [
+    "DISINFECTANT (Hospital/HC Facilities)"
+  ],
+  "companies": [
+    "TROJAN CHEMICALS"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "TECHNICAL DISINFECTANTS"
+  ]
+}

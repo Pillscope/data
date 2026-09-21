@@ -1,0 +1,28 @@
+{
+  "drug_code": "85636",
+  "din": "02371189",
+  "brand_name": "OPTION 2",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "30-SEP-2013",
+  "active_ingredients": [
+    {
+      "name": "LEVONORGESTREL",
+      "strength": "0.75",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "PERRIGO INTERNATIONAL"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "LEVONORGESTREL"
+  ]
+}

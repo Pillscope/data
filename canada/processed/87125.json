@@ -1,0 +1,28 @@
+{
+  "drug_code": "87125",
+  "din": "02385627",
+  "brand_name": "AURO-FLUOXETINE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "15-MAY-2013",
+  "active_ingredients": [
+    {
+      "name": "FLUOXETINE (FLUOXETINE HYDROCHLORIDE)",
+      "strength": "10",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "CAPSULE"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "AURO PHARMA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "FLUOXETINE"
+  ]
+}

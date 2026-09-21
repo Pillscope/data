@@ -1,0 +1,33 @@
+{
+  "drug_code": "75534",
+  "din": "02269988",
+  "brand_name": "ACETAMINOPHEN 500MG AND CAFFEINE 65MG",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "17-JUL-2012",
+  "active_ingredients": [
+    {
+      "name": "ACETAMINOPHEN",
+      "strength": "500",
+      "unit": "MG"
+    },
+    {
+      "name": "CAFFEINE",
+      "strength": "65",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "PHARMETICS (2011) INC"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "ACETAMINOPHEN, COMB EXCL PSYCHOLEPTICS"
+  ]
+}

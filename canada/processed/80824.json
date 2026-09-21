@@ -1,0 +1,28 @@
+{
+  "drug_code": "80824",
+  "din": "02322765",
+  "brand_name": "GRANISETRON HYDROCHLORIDE INJECTION",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "05-JUN-2009",
+  "active_ingredients": [
+    {
+      "name": "GRANISETRON (GRANISETRON HYDROCHLORIDE)",
+      "strength": "1",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "LIQUID"
+  ],
+  "routes": [
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "OMEGA LABORATORIES LTD"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "GRANISETRON"
+  ]
+}

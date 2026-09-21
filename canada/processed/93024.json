@@ -1,0 +1,28 @@
+{
+  "drug_code": "93024",
+  "din": "02445034",
+  "brand_name": "BIO-DOMPERIDONE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "15-JAN-2018",
+  "active_ingredients": [
+    {
+      "name": "DOMPERIDONE (DOMPERIDONE MALEATE)",
+      "strength": "10",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "BIOMED PHARMA"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "DOMPERIDONE"
+  ]
+}

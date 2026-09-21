@@ -1,0 +1,31 @@
+{
+  "drug_code": "6075",
+  "din": "00618675",
+  "brand_name": "SYNOVEX C",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "19-MAY-2017",
+  "active_ingredients": [
+    {
+      "name": "PROGESTERONE",
+      "strength": "100",
+      "unit": "MG"
+    },
+    {
+      "name": "ESTRADIOL BENZOATE",
+      "strength": "10",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "IMPLANT"
+  ],
+  "routes": [
+    "SUBCUTANEOUS"
+  ],
+  "companies": [
+    "ZOETIS CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": []
+}

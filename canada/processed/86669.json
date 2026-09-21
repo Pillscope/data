@@ -1,0 +1,28 @@
+{
+  "drug_code": "86669",
+  "din": "02380935",
+  "brand_name": "ETOPOSIDE INJECTION USP",
+  "class": "Human",
+  "descriptor": "MULTI-DOSE VIALS OF 100MG(5ML), 200MG(10ML), 500MG(25ML), AND 1G(50ML)",
+  "last_update": "17-DEC-2013",
+  "active_ingredients": [
+    {
+      "name": "ETOPOSIDE",
+      "strength": "20",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "SANDOZ CANADA INCORPORATED"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "ETOPOSIDE"
+  ]
+}

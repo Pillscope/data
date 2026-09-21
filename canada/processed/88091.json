@@ -1,0 +1,33 @@
+{
+  "drug_code": "88091",
+  "din": "02395851",
+  "brand_name": "SUNZONE SUNSCREEN LOTION \u00c3\u0089CRAN SOLAIRE WORK TRAVAIL 60 SPF/FPS",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "08-APR-2016",
+  "active_ingredients": [
+    {
+      "name": "AVOBENZONE",
+      "strength": "3",
+      "unit": "%"
+    },
+    {
+      "name": "OCTINOXATE",
+      "strength": "4",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "LOTION"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "EMPACK SPRAYTECH INC"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "COMBINATIONS OF PROTECTIVES AGAINST UV-RADIATION"
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "drug_code": "66839",
+  "din": "02242999",
+  "brand_name": "BALMINIL NIGHT-TIME",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "29-APR-2015",
+  "active_ingredients": [
+    {
+      "name": "DIPHENHYDRAMINE HYDROCHLORIDE",
+      "strength": "12.5",
+      "unit": "MG"
+    },
+    {
+      "name": "AMMONIUM CHLORIDE",
+      "strength": "125",
+      "unit": "MG"
+    },
+    {
+      "name": "DEXTROMETHORPHAN HYDROBROMIDE",
+      "strength": "15",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SYRUP"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "TEVA CANADA LIMITED"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "COUGH SUPPRESSANTS AND EXPECTORANTS",
+    "COUGH SUPPRESSANTS AND EXPECTORANTS"
+  ]
+}

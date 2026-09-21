@@ -1,0 +1,28 @@
+{
+  "drug_code": "55841",
+  "din": "02234504",
+  "brand_name": "APO-TERAZOSIN",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "20-NOV-2014",
+  "active_ingredients": [
+    {
+      "name": "TERAZOSIN (TERAZOSIN HYDROCHLORIDE)",
+      "strength": "5",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "APOTEX INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "TERAZOSIN"
+  ]
+}

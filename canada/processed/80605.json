@@ -1,0 +1,26 @@
+{
+  "drug_code": "80605",
+  "din": "02320649",
+  "brand_name": "NOROCARP CAPLETS",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "10-MAR-2011",
+  "active_ingredients": [
+    {
+      "name": "CARPROFEN",
+      "strength": "25",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "NORBROOK LABORATORIES LTD."
+  ],
+  "status": "APPROVED",
+  "atc": []
+}

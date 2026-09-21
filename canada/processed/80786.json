@@ -1,0 +1,28 @@
+{
+  "drug_code": "80786",
+  "din": "02322412",
+  "brand_name": "ABILIFY",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "01-DEC-2017",
+  "active_ingredients": [
+    {
+      "name": "ARIPIPRAZOLE",
+      "strength": "20",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "OTSUKA PHARMACEUTICAL CO LTD"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "ARIPIPRAZOLE"
+  ]
+}

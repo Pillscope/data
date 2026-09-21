@@ -1,0 +1,28 @@
+{
+  "drug_code": "41612",
+  "din": "00576050",
+  "brand_name": "TINACTIN AEROSOL POWDER",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "21-NOV-2017",
+  "active_ingredients": [
+    {
+      "name": "TOLNAFTATE",
+      "strength": "1",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "AEROSOL"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "BAYER INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "TOLNAFTATE"
+  ]
+}

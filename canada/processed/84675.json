@@ -1,0 +1,28 @@
+{
+  "drug_code": "84675",
+  "din": "02361698",
+  "brand_name": "TARO-SUMATRIPTAN",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "26-SEP-2013",
+  "active_ingredients": [
+    {
+      "name": "SUMATRIPTAN (SUMATRIPTAN SUCCINATE)",
+      "strength": "6",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "SUBCUTANEOUS"
+  ],
+  "companies": [
+    "TARO PHARMACEUTICALS INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "SUMATRIPTAN"
+  ]
+}

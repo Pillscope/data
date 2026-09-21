@@ -1,0 +1,28 @@
+{
+  "drug_code": "66260",
+  "din": "02242513",
+  "brand_name": "SOLUPREP AQ",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "11-MAR-2014",
+  "active_ingredients": [
+    {
+      "name": "CHLORHEXIDINE GLUCONATE",
+      "strength": "2",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "3M CANADA COMPANY"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "CHLORHEXIDINE"
+  ]
+}

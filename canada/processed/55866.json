@@ -1,0 +1,28 @@
+{
+  "drug_code": "55866",
+  "din": "02234749",
+  "brand_name": "PMS-METHYLPHENIDATE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "09-JUL-2015",
+  "active_ingredients": [
+    {
+      "name": "METHYLPHENIDATE HYDROCHLORIDE",
+      "strength": "5",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "PHARMASCIENCE INC"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "METHYLPHENIDATE"
+  ]
+}

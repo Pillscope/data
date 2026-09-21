@@ -1,0 +1,44 @@
+{
+  "drug_code": "41578",
+  "din": "00545279",
+  "brand_name": "FRIAR'S BALSAM BENZOIN TINCTURE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "17-APR-2018",
+  "active_ingredients": [
+    {
+      "name": "BENZOIN",
+      "strength": "10",
+      "unit": "G"
+    },
+    {
+      "name": "MYROXYLON BALSAMUM",
+      "strength": "4",
+      "unit": "G"
+    },
+    {
+      "name": "ALOE",
+      "strength": "2",
+      "unit": "G"
+    },
+    {
+      "name": "STORAX",
+      "strength": "8",
+      "unit": "G"
+    }
+  ],
+  "forms": [
+    "TINCTURE"
+  ],
+  "routes": [
+    "INHALATION",
+    "TOPICAL"
+  ],
+  "companies": [
+    "TEVA CANADA LIMITED"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "Other cold preparations"
+  ]
+}

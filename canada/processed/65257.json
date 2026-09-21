@@ -1,0 +1,31 @@
+{
+  "drug_code": "65257",
+  "din": "02241600",
+  "brand_name": "DEFEROXAMINE MESYLATE FOR INJECTION",
+  "class": "Human",
+  "descriptor": "SINGLE-USE VIAL",
+  "last_update": "14-JUL-2017",
+  "active_ingredients": [
+    {
+      "name": "DEFEROXAMINE MESYLATE",
+      "strength": "500",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "POWDER FOR SOLUTION"
+  ],
+  "routes": [
+    "INTRAMUSCULAR",
+    "INTRAPERITONEAL",
+    "INTRAVENOUS",
+    "SUBCUTANEOUS"
+  ],
+  "companies": [
+    "PFIZER CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "DEFEROXAMINE"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "drug_code": "5677",
+  "din": "00596426",
+  "brand_name": "EPIVAL",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "06-SEP-2016",
+  "active_ingredients": [
+    {
+      "name": "VALPROIC ACID (DIVALPROEX SODIUM)",
+      "strength": "250",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET (ENTERIC-COATED)"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "BGP PHARMA ULC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "VALPROIC ACID"
+  ]
+}

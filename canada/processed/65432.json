@@ -1,0 +1,28 @@
+{
+  "drug_code": "65432",
+  "din": "02241769",
+  "brand_name": "ADVIL LIQUI-GELS",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "07-FEB-2013",
+  "active_ingredients": [
+    {
+      "name": "IBUPROFEN",
+      "strength": "200",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "CAPSULE"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "PFIZER CONSUMER HEALTHCARE A DIVISION OF PFIZER CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "IBUPROFEN"
+  ]
+}

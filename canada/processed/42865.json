@@ -1,0 +1,26 @@
+{
+  "drug_code": "42865",
+  "din": "02185385",
+  "brand_name": "GALLIMYCIN-50",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "24-DEC-2015",
+  "active_ingredients": [
+    {
+      "name": "ERYTHROMYCIN THIOCYANATE",
+      "strength": "110",
+      "unit": "G"
+    }
+  ],
+  "forms": [
+    "DRUG PREMIX"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "BIO AGRI MIX LP"
+  ],
+  "status": "APPROVED",
+  "atc": []
+}

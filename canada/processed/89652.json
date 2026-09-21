@@ -1,0 +1,28 @@
+{
+  "drug_code": "89652",
+  "din": "02411954",
+  "brand_name": "MAR-PAROXETINE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "16-SEP-2014",
+  "active_ingredients": [
+    {
+      "name": "PAROXETINE (PAROXETINE HYDROCHLORIDE HEMIHYDRATE)",
+      "strength": "20",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "MARCAN PHARMACEUTICALS INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "PAROXETINE"
+  ]
+}

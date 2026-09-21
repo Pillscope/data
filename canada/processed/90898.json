@@ -1,0 +1,28 @@
+{
+  "drug_code": "90898",
+  "din": "02424274",
+  "brand_name": "AURO-REPAGLINIDE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "19-JAN-2016",
+  "active_ingredients": [
+    {
+      "name": "REPAGLINIDE",
+      "strength": "2",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "AURO PHARMA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "REPAGLINIDE"
+  ]
+}

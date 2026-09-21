@@ -1,0 +1,28 @@
+{
+  "drug_code": "72913",
+  "din": "02248558",
+  "brand_name": "TEVA-PAROXETINE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "06-MAY-2015",
+  "active_ingredients": [
+    {
+      "name": "PAROXETINE (PAROXETINE HYDROCHLORIDE ACETONE SOLVATE)",
+      "strength": "30",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "TEVA CANADA LIMITED"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "PAROXETINE"
+  ]
+}

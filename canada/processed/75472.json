@@ -1,0 +1,28 @@
+{
+  "drug_code": "75472",
+  "din": "02269333",
+  "brand_name": "TEVA-PRAMIPEXOLE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "24-AUG-2015",
+  "active_ingredients": [
+    {
+      "name": "PRAMIPEXOLE DIHYDROCHLORIDE MONOHYDRATE",
+      "strength": "1.5",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "TEVA CANADA LIMITED"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "PRAMIPEXOLE"
+  ]
+}

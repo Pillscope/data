@@ -1,0 +1,38 @@
+{
+  "drug_code": "76811",
+  "din": "02282461",
+  "brand_name": "TB MINUTEMAN (READY TO USE TOWELETTES)",
+  "class": "Disinfectant",
+  "descriptor": "",
+  "last_update": "14-SEP-2011",
+  "active_ingredients": [
+    {
+      "name": "ALCOHOL ANHYDROUS",
+      "strength": "79",
+      "unit": "%"
+    },
+    {
+      "name": "O-PHENYLPHENOL",
+      "strength": "0.10",
+      "unit": "%"
+    },
+    {
+      "name": "BENZALKONIUM CHLORIDE",
+      "strength": "0.20",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "WIPE"
+  ],
+  "routes": [
+    "DISINFECTANT (Hospital/HC Facilities)"
+  ],
+  "companies": [
+    "MAXILL INC"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "TECHNICAL DISINFECTANTS"
+  ]
+}

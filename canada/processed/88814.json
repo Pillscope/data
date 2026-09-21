@@ -1,0 +1,28 @@
+{
+  "drug_code": "88814",
+  "din": "02403323",
+  "brand_name": "AURO-LOSARTAN",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "16-JAN-2015",
+  "active_ingredients": [
+    {
+      "name": "LOSARTAN POTASSIUM",
+      "strength": "25.0",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "AURO PHARMA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "LOSARTAN"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "drug_code": "2210",
+  "din": "00312754",
+  "brand_name": "TRIFLUOPERAZINE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "25-AUG-2011",
+  "active_ingredients": [
+    {
+      "name": "TRIFLUOPERAZINE (TRIFLUOPERAZINE HYDROCHLORIDE)",
+      "strength": "2",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "AA PHARMA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "TRIFLUOPERAZINE"
+  ]
+}

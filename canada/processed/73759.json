@@ -1,0 +1,26 @@
+{
+  "drug_code": "73759",
+  "din": "02252724",
+  "brand_name": "DEXAFER-200",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "13-NOV-2014",
+  "active_ingredients": [
+    {
+      "name": "IRON (FERRIC HYDROXIDE DEXTRAN COMPLEX)",
+      "strength": "200",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "INTRAMUSCULAR"
+  ],
+  "companies": [
+    "VETOQUINOL N A INC"
+  ],
+  "status": "APPROVED",
+  "atc": []
+}

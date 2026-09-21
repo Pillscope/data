@@ -1,0 +1,28 @@
+{
+  "drug_code": "75331",
+  "din": "02267926",
+  "brand_name": "RAN-ZOPICLONE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "03-JAN-2017",
+  "active_ingredients": [
+    {
+      "name": "ZOPICLONE",
+      "strength": "7.5",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "RANBAXY PHARMACEUTICALS CANADA INC."
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "ZOPICLONE"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "drug_code": "193",
+  "din": "00013609",
+  "brand_name": "GRAVOL COMFORT SHAPED SUPPOSITORIES",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "29-APR-2015",
+  "active_ingredients": [
+    {
+      "name": "DIMENHYDRINATE",
+      "strength": "100",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SUPPOSITORY"
+  ],
+  "routes": [
+    "RECTAL"
+  ],
+  "companies": [
+    "CHURCH & DWIGHT CANADA CORP"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "DIPHENHYDRAMINE"
+  ]
+}

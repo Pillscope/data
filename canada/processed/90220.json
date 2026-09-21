@@ -1,0 +1,28 @@
+{
+  "drug_code": "90220",
+  "din": "02417510",
+  "brand_name": "NASACORT ALLERGY 24HR",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "30-OCT-2015",
+  "active_ingredients": [
+    {
+      "name": "TRIAMCINOLONE ACETONIDE",
+      "strength": "55",
+      "unit": "MCG"
+    }
+  ],
+  "forms": [
+    "SPRAY, METERED DOSE"
+  ],
+  "routes": [
+    "NASAL"
+  ],
+  "companies": [
+    "SANOFI-AVENTIS CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "TRIAMCINOLONE"
+  ]
+}

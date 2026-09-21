@@ -1,0 +1,28 @@
+{
+  "drug_code": "63139",
+  "din": "02239665",
+  "brand_name": "ALERTEC",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "18-SEP-2015",
+  "active_ingredients": [
+    {
+      "name": "MODAFINIL",
+      "strength": "100",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "TEVA CANADA LIMITED"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "MODAFINIL"
+  ]
+}

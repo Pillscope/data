@@ -1,0 +1,28 @@
+{
+  "drug_code": "50235",
+  "din": "02230956",
+  "brand_name": "OXYGEN U.S.P.",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "10-FEB-2006",
+  "active_ingredients": [
+    {
+      "name": "OXYGEN",
+      "strength": "99.99",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "GAS"
+  ],
+  "routes": [
+    "INHALATION"
+  ],
+  "companies": [
+    "MAGGAS MEDICAL INC."
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "OXYGEN"
+  ]
+}

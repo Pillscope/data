@@ -1,0 +1,28 @@
+{
+  "drug_code": "77381",
+  "din": "02288389",
+  "brand_name": "SEBIVO",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "28-APR-2009",
+  "active_ingredients": [
+    {
+      "name": "TELBIVUDINE",
+      "strength": "600",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "NOVARTIS PHARMACEUTICALS CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "TELBIVUDINE"
+  ]
+}

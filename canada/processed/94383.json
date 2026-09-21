@@ -1,0 +1,28 @@
+{
+  "drug_code": "94383",
+  "din": "02456818",
+  "brand_name": "NINLARO",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "18-NOV-2016",
+  "active_ingredients": [
+    {
+      "name": "IXAZOMIB (IXAZOMIB CITRATE)",
+      "strength": "3",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "CAPSULE"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "TAKEDA CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "IXAZOMIB"
+  ]
+}

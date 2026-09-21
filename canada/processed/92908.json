@@ -1,0 +1,43 @@
+{
+  "drug_code": "92908",
+  "din": "02444194",
+  "brand_name": "OIL FREE MOISTURE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "29-AUG-2016",
+  "active_ingredients": [
+    {
+      "name": "AVOBENZONE",
+      "strength": "1.5",
+      "unit": "%"
+    },
+    {
+      "name": "OCTOCRYLENE",
+      "strength": "3",
+      "unit": "%"
+    },
+    {
+      "name": "OCTISALATE",
+      "strength": "5",
+      "unit": "%"
+    },
+    {
+      "name": "OXYBENZONE",
+      "strength": "4",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "LOTION"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "JOHNSON & JOHNSON INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "COMBINATIONS OF PROTECTIVES AGAINST UV-RADIATION"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "drug_code": "87883",
+  "din": "02393638",
+  "brand_name": "PULMOTIL AC",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "08-DEC-2017",
+  "active_ingredients": [
+    {
+      "name": "TILMICOSIN (TILMICOSIN PHOSPHATE)",
+      "strength": "250",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "ELANCO CANADA LIMITED"
+  ],
+  "status": "APPROVED",
+  "atc": []
+}

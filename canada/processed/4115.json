@@ -1,0 +1,26 @@
+{
+  "drug_code": "4115",
+  "din": "00474444",
+  "brand_name": "TYLAN 40",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "02-MAR-2018",
+  "active_ingredients": [
+    {
+      "name": "TYLOSIN (TYLOSIN PHOSPHATE)",
+      "strength": "88",
+      "unit": "G"
+    }
+  ],
+  "forms": [
+    "DRUG PREMIX"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "ELANCO CANADA LIMITED"
+  ],
+  "status": "APPROVED",
+  "atc": []
+}

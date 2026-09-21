@@ -1,0 +1,30 @@
+{
+  "drug_code": "229",
+  "din": "00038229",
+  "brand_name": "STERILE WATER FOR IRRIGATION USP",
+  "class": "Human",
+  "descriptor": "SINGLE-USE",
+  "last_update": "06-NOV-2017",
+  "active_ingredients": [
+    {
+      "name": "WATER",
+      "strength": "100",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "LIQUID"
+  ],
+  "routes": [
+    "INTRAPERITONEAL",
+    "IRRIGATION",
+    "TOPICAL"
+  ],
+  "companies": [
+    "ICU MEDICAL CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "SOLVENTS AND DILUTING AGENTS,INCL IRRIGAT SOLUT"
+  ]
+}

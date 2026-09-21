@@ -1,0 +1,28 @@
+{
+  "drug_code": "85934",
+  "din": "02374137",
+  "brand_name": "EMOLAX",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "06-OCT-2015",
+  "active_ingredients": [
+    {
+      "name": "POLYETHYLENE GLYCOL 3350",
+      "strength": "100",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "POWDER FOR SOLUTION"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "JAMP PHARMA CORPORATION"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "MACROGOL"
+  ]
+}

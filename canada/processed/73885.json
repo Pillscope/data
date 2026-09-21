@@ -1,0 +1,29 @@
+{
+  "drug_code": "73885",
+  "din": "02253917",
+  "brand_name": "VIRKON TABLETS",
+  "class": "Disinfectant",
+  "descriptor": "",
+  "last_update": "10-AUG-2005",
+  "active_ingredients": [
+    {
+      "name": "POTASSIUM PEROXYMONOSULFATE",
+      "strength": "21.4",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "TABLET (EFFERVESCENT)"
+  ],
+  "routes": [
+    "DISINFECTANT (Medical Instruments)",
+    "DISINFECTANT (Hospital/HC Facilities)"
+  ],
+  "companies": [
+    "VETOQUINOL N A INC"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "TECHNICAL DISINFECTANTS"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "drug_code": "11914",
+  "din": "01932268",
+  "brand_name": "PHAZYME CAP 125MG",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "29-APR-2015",
+  "active_ingredients": [
+    {
+      "name": "SIMETHICONE",
+      "strength": "125",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "CAPSULE"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "C B FLEET COMPANY INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "SILICONES"
+  ]
+}

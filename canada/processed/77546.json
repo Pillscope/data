@@ -1,0 +1,34 @@
+{
+  "drug_code": "77546",
+  "din": "02290170",
+  "brand_name": "FACILITIES MAINTENANCE QUATERNARY DISINFECTANT SPRAY CLEANER GP-20",
+  "class": "Disinfectant",
+  "descriptor": "",
+  "last_update": "03-APR-2007",
+  "active_ingredients": [
+    {
+      "name": "BENZALKONIUM CHLORIDE",
+      "strength": "0.105",
+      "unit": "%"
+    },
+    {
+      "name": "ALKYL DIMETHYL ETHYLBENZYL AMMONIUM CHLORIDE",
+      "strength": "0.105",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "SPRAY"
+  ],
+  "routes": [
+    "DISINFECTANT (Food Premises)",
+    "DISINFECTANT (Hospital/HC Facilities)"
+  ],
+  "companies": [
+    "CANBERRA CORPORATION"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "TECHNICAL DISINFECTANTS"
+  ]
+}

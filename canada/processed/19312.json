@@ -1,0 +1,28 @@
+{
+  "drug_code": "19312",
+  "din": "02163152",
+  "brand_name": "LIDEMOL EMOLLIENT CREAM 0.05%",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "22-JUL-2016",
+  "active_ingredients": [
+    {
+      "name": "FLUOCINONIDE",
+      "strength": "0.05",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "CREAM"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "VALEANT CANADA LP/VALEANT CANADA S.E.C."
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "FLUOCINONIDE"
+  ]
+}

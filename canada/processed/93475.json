@@ -1,0 +1,43 @@
+{
+  "drug_code": "93475",
+  "din": "02448947",
+  "brand_name": "OLAY COMPLETE ALL DAY MOISTURE CREME SPF 15 UVA/UVB SENSITIVE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "14-JAN-2016",
+  "active_ingredients": [
+    {
+      "name": "AVOBENZONE",
+      "strength": "3",
+      "unit": "%"
+    },
+    {
+      "name": "OCTOCRYLENE",
+      "strength": "2.6",
+      "unit": "%"
+    },
+    {
+      "name": "OCTISALATE",
+      "strength": "4.5",
+      "unit": "%"
+    },
+    {
+      "name": "HOMOSALATE",
+      "strength": "4",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "CREAM"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "PROCTER & GAMBLE INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "COMBINATIONS OF PROTECTIVES AGAINST UV-RADIATION"
+  ]
+}

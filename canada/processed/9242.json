@@ -1,0 +1,28 @@
+{
+  "drug_code": "9242",
+  "din": "00782718",
+  "brand_name": "TEVA-CARBAMAZEPINE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "05-MAY-2015",
+  "active_ingredients": [
+    {
+      "name": "CARBAMAZEPINE",
+      "strength": "200",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "TEVA CANADA LIMITED"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "CARBAMAZEPINE"
+  ]
+}

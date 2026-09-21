@@ -1,0 +1,33 @@
+{
+  "drug_code": "16640",
+  "din": "02049473",
+  "brand_name": "NOVAHISTINE DH",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "18-MAR-2009",
+  "active_ingredients": [
+    {
+      "name": "PHENYLEPHRINE HYDROCHLORIDE",
+      "strength": "10",
+      "unit": "MG"
+    },
+    {
+      "name": "HYDROCODONE BITARTRATE",
+      "strength": "1.7",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SYRUP"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "SANOFI-AVENTIS CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "COMBINATIONS"
+  ]
+}

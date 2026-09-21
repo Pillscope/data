@@ -1,0 +1,28 @@
+{
+  "drug_code": "87776",
+  "din": "02392496",
+  "brand_name": "BIO-LETROZOLE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "21-JAN-2015",
+  "active_ingredients": [
+    {
+      "name": "LETROZOLE",
+      "strength": "2.5",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "BIOMED PHARMA"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "LETROZOLE"
+  ]
+}

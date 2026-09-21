@@ -1,0 +1,28 @@
+{
+  "drug_code": "92656",
+  "din": "02442205",
+  "brand_name": "ACT OLMESARTAN",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "08-MAR-2018",
+  "active_ingredients": [
+    {
+      "name": "OLMESARTAN MEDOXOMIL",
+      "strength": "40",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "TEVA CANADA LIMITED"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "OLMESARTAN MEDOXOMIL"
+  ]
+}

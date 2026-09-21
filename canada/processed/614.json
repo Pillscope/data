@@ -1,0 +1,26 @@
+{
+  "drug_code": "614",
+  "din": "00158755",
+  "brand_name": "ANTI GAZ EMULSION FLAVOURED",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "02-JUL-2008",
+  "active_ingredients": [
+    {
+      "name": "DOCUSATE SODIUM",
+      "strength": "2",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "EMULSION"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "VETOQUINOL N A INC"
+  ],
+  "status": "APPROVED",
+  "atc": []
+}

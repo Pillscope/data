@@ -1,0 +1,48 @@
+{
+  "drug_code": "85102",
+  "din": "02366169",
+  "brand_name": "PREVAGE ANTI-AGING MOISTURE CREAM SPF 30",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "13-JUL-2015",
+  "active_ingredients": [
+    {
+      "name": "AVOBENZONE",
+      "strength": "2.0",
+      "unit": "%"
+    },
+    {
+      "name": "OCTOCRYLENE",
+      "strength": "2.2",
+      "unit": "%"
+    },
+    {
+      "name": "OXYBENZONE",
+      "strength": "5.0",
+      "unit": "%"
+    },
+    {
+      "name": "OCTISALATE",
+      "strength": "5.0",
+      "unit": "%"
+    },
+    {
+      "name": "OCTINOXATE",
+      "strength": "7.5",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "CREAM"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "ELIZABETH ARDEN (CANADA) LIMITED"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "COMBINATIONS OF PROTECTIVES AGAINST UV-RADIATION"
+  ]
+}

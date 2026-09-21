@@ -1,0 +1,28 @@
+{
+  "drug_code": "80876",
+  "din": "02323273",
+  "brand_name": "METVIX",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "08-JUL-2009",
+  "active_ingredients": [
+    {
+      "name": "METHYL AMINOLEVULINATE (METHYL AMINOLEVULINATE HYDROCHLORIDE)",
+      "strength": "168",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "CREAM"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "GALDERMA CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "METHYL AMINOLEVULINATE"
+  ]
+}

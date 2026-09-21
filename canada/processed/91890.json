@@ -1,0 +1,28 @@
+{
+  "drug_code": "91890",
+  "din": "02434571",
+  "brand_name": "DICLOFENAC TOPICAL SOLUTION",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "27-NOV-2015",
+  "active_ingredients": [
+    {
+      "name": "DICLOFENAC SODIUM",
+      "strength": "1.5",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "STERIMAX INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "DICLOFENAC"
+  ]
+}

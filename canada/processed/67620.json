@@ -1,0 +1,28 @@
+{
+  "drug_code": "67620",
+  "din": "02243690",
+  "brand_name": "CLARITIN ALLERGY DECONGESTANT",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "25-AUG-2017",
+  "active_ingredients": [
+    {
+      "name": "OXYMETAZOLINE HYDROCHLORIDE",
+      "strength": "0.05",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "NASAL"
+  ],
+  "companies": [
+    "BAYER INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "OXYMETAZOLINE"
+  ]
+}

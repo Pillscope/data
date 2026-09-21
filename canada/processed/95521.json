@@ -1,0 +1,33 @@
+{
+  "drug_code": "95521",
+  "din": "02466848",
+  "brand_name": "EUROSPORIN",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "28-FEB-2018",
+  "active_ingredients": [
+    {
+      "name": "POLYMYXIN B SULFATE",
+      "strength": "10000",
+      "unit": "UNIT"
+    },
+    {
+      "name": "BACITRACIN ZINC",
+      "strength": "500",
+      "unit": "UNIT"
+    }
+  ],
+  "forms": [
+    "OINTMENT"
+  ],
+  "routes": [
+    "OPHTHALMIC"
+  ],
+  "companies": [
+    "EURO-PHARM INTERNATIONAL CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "COMBINATIONS OF DIFFERENT ANTIBIOTICS"
+  ]
+}

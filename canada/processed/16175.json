@@ -1,0 +1,28 @@
+{
+  "drug_code": "16175",
+  "din": "02068087",
+  "brand_name": "TEVA-SELEGILINE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "25-SEP-2015",
+  "active_ingredients": [
+    {
+      "name": "SELEGILINE HYDROCHLORIDE",
+      "strength": "5",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "TEVA CANADA LIMITED"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "SELEGILINE"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "drug_code": "13624",
+  "din": "01932187",
+  "brand_name": "ROBAXIN 750",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "29-APR-2015",
+  "active_ingredients": [
+    {
+      "name": "METHOCARBAMOL",
+      "strength": "750",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "PFIZER CONSUMER HEALTHCARE A DIVISION OF PFIZER CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "METHOCARBAMOL"
+  ]
+}

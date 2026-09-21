@@ -1,0 +1,48 @@
+{
+  "drug_code": "90196",
+  "din": "02417332",
+  "brand_name": "PRO-X BY OLAY DERMATOLOGICAL ANTI-AGING AGE PROTECTION LOTION SUNSCREEN BROAD SPECTRUM SPF 30",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "01-FEB-2017",
+  "active_ingredients": [
+    {
+      "name": "AVOBENZONE",
+      "strength": "3",
+      "unit": "%"
+    },
+    {
+      "name": "OCTOCRYLENE",
+      "strength": "2.6",
+      "unit": "%"
+    },
+    {
+      "name": "OCTISALATE",
+      "strength": "5",
+      "unit": "%"
+    },
+    {
+      "name": "OXYBENZONE",
+      "strength": "6",
+      "unit": "%"
+    },
+    {
+      "name": "HOMOSALATE",
+      "strength": "15",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "LOTION"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "PROCTER & GAMBLE INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "COMBINATIONS OF PROTECTIVES AGAINST UV-RADIATION"
+  ]
+}

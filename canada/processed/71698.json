@@ -1,0 +1,44 @@
+{
+  "drug_code": "71698",
+  "din": "02247452",
+  "brand_name": "AGENTQUAT",
+  "class": "Disinfectant",
+  "descriptor": "",
+  "last_update": "11-JUL-2011",
+  "active_ingredients": [
+    {
+      "name": "DIDECYL DIMETHYL AMMONIUM CHLORIDE",
+      "strength": "0.99",
+      "unit": "%"
+    },
+    {
+      "name": "BENZALKONIUM CHLORIDE",
+      "strength": "2.2",
+      "unit": "%"
+    },
+    {
+      "name": "OCTYL DECYL DIMETHYL AMMONIUM CHLORIDE",
+      "strength": "1.65",
+      "unit": "%"
+    },
+    {
+      "name": "DIOCTYL DIMETHYL AMMONIUM CHLORIDE",
+      "strength": "0.66",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "LIQUID"
+  ],
+  "routes": [
+    "DISINFECTANT (Food Premises)",
+    "DISINFECTANT (Institutional/Industrial)"
+  ],
+  "companies": [
+    "OMNICHEM"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "TECHNICAL DISINFECTANTS"
+  ]
+}

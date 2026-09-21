@@ -1,0 +1,31 @@
+{
+  "drug_code": "76913",
+  "din": "02283530",
+  "brand_name": "OXIVIR TB WIPES",
+  "class": "Disinfectant",
+  "descriptor": "",
+  "last_update": "29-APR-2015",
+  "active_ingredients": [
+    {
+      "name": "HYDROGEN PEROXIDE",
+      "strength": "0.5",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "WIPE"
+  ],
+  "routes": [
+    "DISINFECTANT (Barn)",
+    "DISINFECTANT (Food Premises)",
+    "DISINFECTANT (Hospital/HC Facilities)",
+    "DISINFECTANT (Institutional/Industrial)"
+  ],
+  "companies": [
+    "DIVERSEY INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "TECHNICAL DISINFECTANTS"
+  ]
+}

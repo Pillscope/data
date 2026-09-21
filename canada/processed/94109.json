@@ -1,0 +1,33 @@
+{
+  "drug_code": "94109",
+  "din": "02454513",
+  "brand_name": "AURO-ABACAVIR/LAMIVUDINE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "04-OCT-2016",
+  "active_ingredients": [
+    {
+      "name": "ABACAVIR (ABACAVIR SULFATE)",
+      "strength": "600",
+      "unit": "MG"
+    },
+    {
+      "name": "LAMIVUDINE",
+      "strength": "300",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "AURO PHARMA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "LAMIVUDINE AND ABACAVIR"
+  ]
+}

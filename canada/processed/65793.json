@@ -1,0 +1,28 @@
+{
+  "drug_code": "65793",
+  "din": "02242117",
+  "brand_name": "EXELON",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "04-APR-2014",
+  "active_ingredients": [
+    {
+      "name": "RIVASTIGMINE (RIVASTIGMINE HYDROGEN TARTRATE)",
+      "strength": "4.5",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "CAPSULE"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "NOVARTIS PHARMACEUTICALS CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "RIVASTIGMINE"
+  ]
+}

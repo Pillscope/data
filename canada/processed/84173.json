@@ -1,0 +1,28 @@
+{
+  "drug_code": "84173",
+  "din": "02356597",
+  "brand_name": "HAIR REGROWTH FORMULA",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "26-MAR-2013",
+  "active_ingredients": [
+    {
+      "name": "MINOXIDIL",
+      "strength": "20",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "VITA HEALTH PRODUCTS INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "MINOXIDIL, TOPICAL"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "drug_code": "94129",
+  "din": "02454580",
+  "brand_name": "AXE SHAMPOO SIGNATURE DAILY DANDRUFF DEFENSE ANTI-DANDRUFF",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "20-JUN-2017",
+  "active_ingredients": [
+    {
+      "name": "PYRITHIONE ZINC",
+      "strength": "1",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "SHAMPOO"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "UNILEVER CANADA"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "PYRITHIONE ZINC"
+  ]
+}

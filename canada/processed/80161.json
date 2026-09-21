@@ -1,0 +1,28 @@
+{
+  "drug_code": "80161",
+  "din": "02316080",
+  "brand_name": "ACT QUETIAPINE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "30-JUN-2016",
+  "active_ingredients": [
+    {
+      "name": "QUETIAPINE (QUETIAPINE FUMARATE)",
+      "strength": "25",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "ACTAVIS PHARMA COMPANY"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "QUETIAPINE"
+  ]
+}

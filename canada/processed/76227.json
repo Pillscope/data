@@ -1,0 +1,31 @@
+{
+  "drug_code": "76227",
+  "din": "02276593",
+  "brand_name": "EQUIMAX",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "31-MAY-2010",
+  "active_ingredients": [
+    {
+      "name": "IVERMECTIN",
+      "strength": "1.87",
+      "unit": "%"
+    },
+    {
+      "name": "PRAZIQUANTEL",
+      "strength": "14.03",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "PASTE"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "VIRBAC AH INC"
+  ],
+  "status": "APPROVED",
+  "atc": []
+}

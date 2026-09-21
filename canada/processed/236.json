@@ -1,0 +1,56 @@
+{
+  "drug_code": "236",
+  "din": "00154008",
+  "brand_name": "PREDNIDERM TAB",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "11-JUL-2017",
+  "active_ingredients": [
+    {
+      "name": "INOSITOL",
+      "strength": "2.5",
+      "unit": "MG"
+    },
+    {
+      "name": "PHENIRAMINE MALEATE",
+      "strength": "10",
+      "unit": "MG"
+    },
+    {
+      "name": "VITAMIN D2",
+      "strength": "125",
+      "unit": "UNIT"
+    },
+    {
+      "name": "VITAMIN A",
+      "strength": "6000",
+      "unit": "UNIT"
+    },
+    {
+      "name": "VITAMIN E",
+      "strength": "5",
+      "unit": "UNIT"
+    },
+    {
+      "name": "PHOSPHATIDYL CHOLINE",
+      "strength": ".25",
+      "unit": "MG"
+    },
+    {
+      "name": "PREDNISONE",
+      "strength": "5",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "ORMOND VETERINARY SUPPLY LTD."
+  ],
+  "status": "MARKETED",
+  "atc": []
+}

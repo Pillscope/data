@@ -1,0 +1,35 @@
+{
+  "drug_code": "16264",
+  "din": "02052431",
+  "brand_name": "ENTOCORT ENEMA",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "10-MAR-2017",
+  "active_ingredients": [
+    {
+      "name": "BUDESONIDE",
+      "strength": "2.3",
+      "unit": "MG"
+    },
+    {
+      "name": "SODIUM CHLORIDE",
+      "strength": "115",
+      "unit": "ML"
+    }
+  ],
+  "forms": [
+    "ENEMA",
+    "KIT",
+    "TABLET"
+  ],
+  "routes": [
+    "RECTAL"
+  ],
+  "companies": [
+    "TILLOTTS PHARMA GMBH"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "BUDESONIDE"
+  ]
+}

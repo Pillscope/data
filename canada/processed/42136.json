@@ -1,0 +1,28 @@
+{
+  "drug_code": "42136",
+  "din": "02027801",
+  "brand_name": "PEDIATRIX DROPS",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "29-APR-2015",
+  "active_ingredients": [
+    {
+      "name": "ACETAMINOPHEN",
+      "strength": "80",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "DROPS"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "TEVA CANADA LIMITED"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "ACETAMINOPHEN (PARACETAMOL)"
+  ]
+}

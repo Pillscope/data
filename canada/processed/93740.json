@@ -1,0 +1,33 @@
+{
+  "drug_code": "93740",
+  "din": "02451131",
+  "brand_name": "ZEPATIER",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "09-FEB-2017",
+  "active_ingredients": [
+    {
+      "name": "GRAZOPREVIR",
+      "strength": "100",
+      "unit": "MG"
+    },
+    {
+      "name": "ELBASVIR",
+      "strength": "50",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "MERCK CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "ELBASVIR AND GRAZOPREVIR"
+  ]
+}

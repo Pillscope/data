@@ -1,0 +1,28 @@
+{
+  "drug_code": "51742",
+  "din": "02232297",
+  "brand_name": "CHILDREN'S ADVIL",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "03-AUG-2012",
+  "active_ingredients": [
+    {
+      "name": "IBUPROFEN",
+      "strength": "100",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SUSPENSION"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "PFIZER CONSUMER HEALTHCARE A DIVISION OF PFIZER CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "IBUPROFEN"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "drug_code": "86731",
+  "din": "02381451",
+  "brand_name": "POSITIVELY NOURISHING DANDRUFF CONTROL SHAMPOO",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "01-AUG-2013",
+  "active_ingredients": [
+    {
+      "name": "PYRITHIONE ZINC",
+      "strength": "1",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "SHAMPOO"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "JOHNSON & JOHNSON INC"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "PYRITHIONE ZINC"
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "drug_code": "31359",
+  "din": "02139502",
+  "brand_name": "VASOPRESSIN INJECTION",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "10-NOV-2015",
+  "active_ingredients": [
+    {
+      "name": "VASOPRESSIN",
+      "strength": "20",
+      "unit": "UNIT"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "INTRAMUSCULAR",
+    "SUBCUTANEOUS"
+  ],
+  "companies": [
+    "FRESENIUS KABI CANADA LTD"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "VASOPRESSIN (ARGIPRESSIN)"
+  ]
+}

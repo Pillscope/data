@@ -1,0 +1,28 @@
+{
+  "drug_code": "92489",
+  "din": "02440520",
+  "brand_name": "STUBBORN ACNE DAILY LEAVE-ON MASK",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "29-FEB-2016",
+  "active_ingredients": [
+    {
+      "name": "BENZOYL PEROXIDE",
+      "strength": "2.5",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "GEL"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "JOHNSON & JOHNSON INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "BENZOYL PEROXIDE"
+  ]
+}

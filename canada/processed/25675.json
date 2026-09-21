@@ -1,0 +1,39 @@
+{
+  "drug_code": "25675",
+  "din": "02004313",
+  "brand_name": "FOAMING GERMICIDAL CLEANSER",
+  "class": "Disinfectant",
+  "descriptor": "",
+  "last_update": "29-APR-2015",
+  "active_ingredients": [
+    {
+      "name": "BENZALKONIUM CHLORIDE",
+      "strength": "0.1",
+      "unit": "%"
+    },
+    {
+      "name": "EDETATE SODIUM",
+      "strength": "1.6",
+      "unit": "%"
+    },
+    {
+      "name": "ALKYL DIMETHYL ETHYLBENZYL AMMONIUM CHLORIDE",
+      "strength": "0.1",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "AEROSOL"
+  ],
+  "routes": [
+    "DISINFECTANT (Food Premises)",
+    "DISINFECTANT (Hospital/HC Facilities)"
+  ],
+  "companies": [
+    "K-G SPRAY-PAK INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "TECHNICAL DISINFECTANTS"
+  ]
+}

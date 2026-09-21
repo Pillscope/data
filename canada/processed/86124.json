@@ -1,0 +1,28 @@
+{
+  "drug_code": "86124",
+  "din": "02375842",
+  "brand_name": "ONGLYZA",
+  "class": "Human",
+  "descriptor": "FILM-COATED",
+  "last_update": "20-FEB-2015",
+  "active_ingredients": [
+    {
+      "name": "SAXAGLIPTIN (SAXAGLIPTIN HYDROCHLORIDE)",
+      "strength": "2.5",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "ASTRAZENECA CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "SAXAGLIPTIN"
+  ]
+}

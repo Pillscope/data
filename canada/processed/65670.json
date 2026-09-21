@@ -1,0 +1,28 @@
+{
+  "drug_code": "65670",
+  "din": "02242000",
+  "brand_name": "CARBOCAINE 1%",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "02-AUG-2017",
+  "active_ingredients": [
+    {
+      "name": "MEPIVACAINE HYDROCHLORIDE",
+      "strength": "1",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "BLOCK/INFILTRATION"
+  ],
+  "companies": [
+    "PFIZER CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "MEPIVACAINE"
+  ]
+}

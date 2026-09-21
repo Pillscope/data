@@ -1,0 +1,39 @@
+{
+  "drug_code": "20329",
+  "din": "02169126",
+  "brand_name": "TEVA-COTRIDIN",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "05-MAR-2018",
+  "active_ingredients": [
+    {
+      "name": "CODEINE PHOSPHATE",
+      "strength": "10",
+      "unit": "MG"
+    },
+    {
+      "name": "PSEUDOEPHEDRINE HYDROCHLORIDE",
+      "strength": "30",
+      "unit": "MG"
+    },
+    {
+      "name": "TRIPROLIDINE HYDROCHLORIDE",
+      "strength": "2",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SYRUP"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "TEVA CANADA LIMITED"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "COMBINATIONS",
+    "COMBINATIONS"
+  ]
+}

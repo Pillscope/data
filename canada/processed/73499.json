@@ -1,0 +1,28 @@
+{
+  "drug_code": "73499",
+  "din": "02250187",
+  "brand_name": "TEVA-SIMVASTATIN",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "05-MAY-2015",
+  "active_ingredients": [
+    {
+      "name": "SIMVASTATIN",
+      "strength": "80",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "TEVA CANADA LIMITED"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "SIMVASTATIN"
+  ]
+}

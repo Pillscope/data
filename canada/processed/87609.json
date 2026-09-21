@@ -1,0 +1,33 @@
+{
+  "drug_code": "87609",
+  "din": "02390671",
+  "brand_name": "FUTUR E SPF 15 MOISTURIZING LOTION",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "17-JUL-2013",
+  "active_ingredients": [
+    {
+      "name": "OCTOCRYLENE",
+      "strength": "7",
+      "unit": "%"
+    },
+    {
+      "name": "ENSULIZOLE",
+      "strength": "2",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "LOTION"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "L' OREAL CANADA"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "COMBINATIONS OF PROTECTIVES AGAINST UV-RADIATION"
+  ]
+}

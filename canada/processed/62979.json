@@ -1,0 +1,28 @@
+{
+  "drug_code": "62979",
+  "din": "02239505",
+  "brand_name": "ALDARA P",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "07-DEC-2017",
+  "active_ingredients": [
+    {
+      "name": "IMIQUIMOD",
+      "strength": "5",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "CREAM"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "VALEANT CANADA LP/VALEANT CANADA S.E.C."
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "IMIQUIMOD"
+  ]
+}

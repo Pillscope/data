@@ -1,0 +1,28 @@
+{
+  "drug_code": "94196",
+  "din": "02455129",
+  "brand_name": "AVON TRUE COLOR IDEAL NUDE LIQUID FOUNDATION BROAD SPECTRUM SPF 20 SUNSCREEN",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "12-MAY-2017",
+  "active_ingredients": [
+    {
+      "name": "OCTINOXATE",
+      "strength": "7",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "LIQUID"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "AVON CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "OCTYL METHOXYCINNAMATE"
+  ]
+}

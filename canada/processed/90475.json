@@ -1,0 +1,29 @@
+{
+  "drug_code": "90475",
+  "din": "02420147",
+  "brand_name": "JAMP-CYANOCOBALAMIN",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "14-JAN-2016",
+  "active_ingredients": [
+    {
+      "name": "VITAMIN B12",
+      "strength": "1000",
+      "unit": "MCG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "INTRAMUSCULAR",
+    "SUBCUTANEOUS"
+  ],
+  "companies": [
+    "JAMP PHARMA CORPORATION"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "CYANOCOBALAMIN"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "drug_code": "19286",
+  "din": "02113171",
+  "brand_name": "SAFE-GUARD SUSPENSION 10%",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "05-MAY-2015",
+  "active_ingredients": [
+    {
+      "name": "FENBENDAZOLE",
+      "strength": "10",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "SUSPENSION"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "INTERVET CANADA CORP"
+  ],
+  "status": "APPROVED",
+  "atc": []
+}

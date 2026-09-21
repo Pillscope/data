@@ -1,0 +1,28 @@
+{
+  "drug_code": "8482",
+  "din": "00740748",
+  "brand_name": "RANITIDINE - 150",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "25-NOV-2009",
+  "active_ingredients": [
+    {
+      "name": "RANITIDINE (RANITIDINE HYDROCHLORIDE)",
+      "strength": "150",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "PRO DOC LIMITEE"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "RANITIDINE"
+  ]
+}

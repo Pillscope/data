@@ -1,0 +1,28 @@
+{
+  "drug_code": "87127",
+  "din": "02385643",
+  "brand_name": "SANDOZ LANSOPRAZOLE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "28-NOV-2014",
+  "active_ingredients": [
+    {
+      "name": "LANSOPRAZOLE",
+      "strength": "15",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "CAPSULE (DELAYED RELEASE)"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "SANDOZ CANADA INCORPORATED"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "LANSOPRAZOLE"
+  ]
+}

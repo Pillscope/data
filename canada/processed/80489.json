@@ -1,0 +1,28 @@
+{
+  "drug_code": "80489",
+  "din": "02319403",
+  "brand_name": "TEVA-HYDROMORPHONE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "22-JAN-2013",
+  "active_ingredients": [
+    {
+      "name": "HYDROMORPHONE HYDROCHLORIDE",
+      "strength": "1",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "TEVA CANADA LIMITED"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "HYDROMORPHONE"
+  ]
+}

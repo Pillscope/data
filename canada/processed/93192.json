@@ -1,0 +1,48 @@
+{
+  "drug_code": "93192",
+  "din": "02446553",
+  "brand_name": "SPRAY FOR CHILDREN SPF 50+",
+  "class": "Human",
+  "descriptor": "SPRAY",
+  "last_update": "31-MAR-2017",
+  "active_ingredients": [
+    {
+      "name": "AVOBENZONE",
+      "strength": "3",
+      "unit": "%"
+    },
+    {
+      "name": "TITANIUM DIOXIDE",
+      "strength": "3.4",
+      "unit": "%"
+    },
+    {
+      "name": "OCTOCRYLENE",
+      "strength": "9",
+      "unit": "%"
+    },
+    {
+      "name": "BISOCTRIZOLE",
+      "strength": "4",
+      "unit": "%"
+    },
+    {
+      "name": "BEMOTRIZINOL",
+      "strength": "2",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "EMULSION"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "PIERRE FABRE DERMO-COSMETIQUE CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "COMBINATIONS OF PROTECTIVES AGAINST UV-RADIATION"
+  ]
+}

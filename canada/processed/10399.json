@@ -1,0 +1,28 @@
+{
+  "drug_code": "10399",
+  "din": "00585009",
+  "brand_name": "PMS-METHYLPHENIDATE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "09-JUL-2015",
+  "active_ingredients": [
+    {
+      "name": "METHYLPHENIDATE HYDROCHLORIDE",
+      "strength": "20",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "PHARMASCIENCE INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "METHYLPHENIDATE"
+  ]
+}

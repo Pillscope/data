@@ -1,0 +1,28 @@
+{
+  "drug_code": "88956",
+  "din": "02404761",
+  "brand_name": "GANCICLOVIR FOR INJECTION",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "04-MAR-2016",
+  "active_ingredients": [
+    {
+      "name": "GANCICLOVIR (GANCICLOVIR SODIUM)",
+      "strength": "500",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "POWDER FOR SOLUTION"
+  ],
+  "routes": [
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "FRESENIUS KABI CANADA LTD"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "GANCICLOVIR"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "drug_code": "94511",
+  "din": "02458055",
+  "brand_name": "VENCLEXTA",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "31-MAY-2017",
+  "active_ingredients": [
+    {
+      "name": "VENETOCLAX",
+      "strength": "100",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "ABBVIE CORPORATION"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "VENETOCLAX"
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "drug_code": "75829",
+  "din": "02272792",
+  "brand_name": "VICKS NYQUIL LIQUICAPS COLD & FLU MULTI-SYMPTOM RELIEF",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "23-JUN-2017",
+  "active_ingredients": [
+    {
+      "name": "DOXYLAMINE SUCCINATE",
+      "strength": "6.25",
+      "unit": "MG"
+    },
+    {
+      "name": "ACETAMINOPHEN",
+      "strength": "325",
+      "unit": "MG"
+    },
+    {
+      "name": "DEXTROMETHORPHAN HYDROBROMIDE",
+      "strength": "15",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "CAPSULE"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "PROCTER & GAMBLE INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "ACETAMINOPHEN, COMB EXCL PSYCHOLEPTICS",
+    "ACETAMINOPHEN, COMB EXCL PSYCHOLEPTICS"
+  ]
+}

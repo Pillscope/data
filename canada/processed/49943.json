@@ -1,0 +1,28 @@
+{
+  "drug_code": "49943",
+  "din": "02230684",
+  "brand_name": "DICETEL",
+  "class": "Human",
+  "descriptor": "FILM-COATED TABLET",
+  "last_update": "13-APR-2016",
+  "active_ingredients": [
+    {
+      "name": "PINAVERIUM BROMIDE",
+      "strength": "100",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "BGP PHARMA ULC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "PINAVERIUM"
+  ]
+}

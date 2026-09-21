@@ -1,0 +1,43 @@
+{
+  "drug_code": "91125",
+  "din": "02426692",
+  "brand_name": "CITY MIRACLE CC CREAM SPF 50",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "18-FEB-2015",
+  "active_ingredients": [
+    {
+      "name": "TITANIUM DIOXIDE",
+      "strength": "1.6",
+      "unit": "%"
+    },
+    {
+      "name": "OCTOCRYLENE",
+      "strength": "5",
+      "unit": "%"
+    },
+    {
+      "name": "OCTISALATE",
+      "strength": "5",
+      "unit": "%"
+    },
+    {
+      "name": "HOMOSALATE",
+      "strength": "10",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "CREAM"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "LANCOME CANADA"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "COMBINATIONS OF PROTECTIVES AGAINST UV-RADIATION"
+  ]
+}

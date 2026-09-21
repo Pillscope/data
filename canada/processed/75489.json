@@ -1,0 +1,39 @@
+{
+  "drug_code": "75489",
+  "din": "02269562",
+  "brand_name": "INFLUVAC",
+  "class": "Human",
+  "descriptor": "PRE-FILLED SYRINGES. 1 OR 10 PER PACK. PRESERVATIVE FREE.",
+  "last_update": "09-JUN-2017",
+  "active_ingredients": [
+    {
+      "name": "HAEMAGGLUTININ-STRAIN A(H1N1)",
+      "strength": "15",
+      "unit": "MCG"
+    },
+    {
+      "name": "HAEMAGGLUTININ-STRAIN B",
+      "strength": "15",
+      "unit": "MCG"
+    },
+    {
+      "name": "HAEMAGGLUTININ-STRAIN A(H3N2)",
+      "strength": "15",
+      "unit": "MCG"
+    }
+  ],
+  "forms": [
+    "SUSPENSION"
+  ],
+  "routes": [
+    "INTRAMUSCULAR",
+    "SUBCUTANEOUS"
+  ],
+  "companies": [
+    "BGP PHARMA ULC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "INFLUENZA, INACTIVATED, WHOLE VIRUS"
+  ]
+}

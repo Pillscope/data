@@ -1,0 +1,29 @@
+{
+  "drug_code": "89273",
+  "din": "02408031",
+  "brand_name": "FENTORA",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "16-MAR-2017",
+  "active_ingredients": [
+    {
+      "name": "FENTANYL (FENTANYL CITRATE)",
+      "strength": "600",
+      "unit": "MCG"
+    }
+  ],
+  "forms": [
+    "TABLET (EFFERVESCENT)"
+  ],
+  "routes": [
+    "BUCCAL",
+    "SUBLINGUAL"
+  ],
+  "companies": [
+    "TEVA CANADA LIMITED"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "FENTANYL"
+  ]
+}

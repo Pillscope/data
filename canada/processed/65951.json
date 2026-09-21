@@ -1,0 +1,28 @@
+{
+  "drug_code": "65951",
+  "din": "02242260",
+  "brand_name": "ACCLAIM",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "03-SEP-2010",
+  "active_ingredients": [
+    {
+      "name": "TRICLOSAN",
+      "strength": "0.10",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "LIQUID"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "ZEP MANUFACTURING COMPANY OF CANADA"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "TRICLOSAN"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "drug_code": "66827",
+  "din": "02242987",
+  "brand_name": "DIAMICRON MR",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "04-JAN-2018",
+  "active_ingredients": [
+    {
+      "name": "GLICLAZIDE",
+      "strength": "30",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET (EXTENDED-RELEASE)"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "SERVIER CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "GLICLAZIDE"
+  ]
+}

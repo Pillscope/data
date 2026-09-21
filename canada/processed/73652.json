@@ -1,0 +1,28 @@
+{
+  "drug_code": "73652",
+  "din": "02251604",
+  "brand_name": "GENTLE FRESH DEFENSE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "10-MAY-2004",
+  "active_ingredients": [
+    {
+      "name": "TRICLOSAN",
+      "strength": "0.5",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "LIQUID"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "STATE INDUSTRIAL PRODUCTS"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "TRICLOSAN"
+  ]
+}

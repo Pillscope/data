@@ -1,0 +1,28 @@
+{
+  "drug_code": "74073",
+  "din": "02255537",
+  "brand_name": "ACT FLUVOXAMINE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "29-APR-2015",
+  "active_ingredients": [
+    {
+      "name": "FLUVOXAMINE MALEATE",
+      "strength": "100",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "ACTAVIS PHARMA COMPANY"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "FLUVOXAMINE"
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "drug_code": "16171",
+  "din": "02088339",
+  "brand_name": "TRIPLE ANTIBIOTIC OINTMENT",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "10-MAY-2016",
+  "active_ingredients": [
+    {
+      "name": "GRAMICIDIN",
+      "strength": ".25",
+      "unit": "MG"
+    },
+    {
+      "name": "BACITRACIN (BACITRACIN ZINC)",
+      "strength": "500",
+      "unit": "UNIT"
+    },
+    {
+      "name": "POLYMYXIN B (POLYMYXIN B SULFATE)",
+      "strength": "10000",
+      "unit": "UNIT"
+    }
+  ],
+  "forms": [
+    "OINTMENT"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "MELALEUCA OF CANADA INC."
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "BACITRACIN"
+  ]
+}

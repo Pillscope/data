@@ -1,0 +1,34 @@
+{
+  "drug_code": "1619",
+  "din": "00260428",
+  "brand_name": "DEPO-MEDROL WITH LIDOCAINE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "05-MAY-2015",
+  "active_ingredients": [
+    {
+      "name": "LIDOCAINE HYDROCHLORIDE",
+      "strength": "10",
+      "unit": "MG"
+    },
+    {
+      "name": "METHYLPREDNISOLONE ACETATE",
+      "strength": "40",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "INTRA-ARTICULAR",
+    "INTRABURSAL"
+  ],
+  "companies": [
+    "PFIZER CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "METHYLPREDNISOLONE, COMBINATIONS"
+  ]
+}

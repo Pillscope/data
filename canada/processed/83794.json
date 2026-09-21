@@ -1,0 +1,29 @@
+{
+  "drug_code": "83794",
+  "din": "02352680",
+  "brand_name": "FRAGMIN",
+  "class": "Human",
+  "descriptor": "SINGLE DOSE PREFILLED SYRINGE",
+  "last_update": "21-SEP-2017",
+  "active_ingredients": [
+    {
+      "name": "DALTEPARIN SODIUM",
+      "strength": "18000",
+      "unit": "UNIT"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "INTRAVENOUS",
+    "SUBCUTANEOUS"
+  ],
+  "companies": [
+    "PFIZER CANADA INC"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "DALTEPARIN"
+  ]
+}

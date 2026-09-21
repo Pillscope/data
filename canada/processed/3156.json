@@ -1,0 +1,28 @@
+{
+  "drug_code": "3156",
+  "din": "00443832",
+  "brand_name": "DEPAKENE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "07-NOV-2017",
+  "active_ingredients": [
+    {
+      "name": "VALPROIC ACID (SODIUM VALPROATE)",
+      "strength": "250",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "BGP PHARMA ULC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "VALPROIC ACID"
+  ]
+}

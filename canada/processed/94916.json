@@ -1,0 +1,28 @@
+{
+  "drug_code": "94916",
+  "din": "02461528",
+  "brand_name": "BASAGLAR",
+  "class": "Human",
+  "descriptor": "KWIKPEN - 80 UNITS PER INJECTION DELIVERY",
+  "last_update": "11-SEP-2017",
+  "active_ingredients": [
+    {
+      "name": "INSULIN GLARGINE",
+      "strength": "100",
+      "unit": "UNIT"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "SUBCUTANEOUS"
+  ],
+  "companies": [
+    "ELI LILLY CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "INSULIN GLARGINE"
+  ]
+}

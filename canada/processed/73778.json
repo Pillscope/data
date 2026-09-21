@@ -1,0 +1,28 @@
+{
+  "drug_code": "73778",
+  "din": "02252856",
+  "brand_name": "ACETYLSALICYLIC ACID 325MG TABLETS USP",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "17-JUL-2012",
+  "active_ingredients": [
+    {
+      "name": "ACETYLSALICYLIC ACID",
+      "strength": "325",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "PHARMETICS (2011) INC"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "ACETYLSALICYLIC ACID"
+  ]
+}

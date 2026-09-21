@@ -1,0 +1,28 @@
+{
+  "drug_code": "4230",
+  "din": "00294748",
+  "brand_name": "CALCIUM CHLORIDE INJECTION USP",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "01-SEP-2017",
+  "active_ingredients": [
+    {
+      "name": "CALCIUM CHLORIDE",
+      "strength": "100",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "PFIZER CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "CALCIUM CHLORIDE"
+  ]
+}

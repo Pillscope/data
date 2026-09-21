@@ -1,0 +1,38 @@
+{
+  "drug_code": "95590",
+  "din": "02467542",
+  "brand_name": "VOSEVI",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "05-JAN-2018",
+  "active_ingredients": [
+    {
+      "name": "VOXILAPREVIR",
+      "strength": "100",
+      "unit": "MG"
+    },
+    {
+      "name": "SOFOSBUVIR",
+      "strength": "400",
+      "unit": "MG"
+    },
+    {
+      "name": "VELPATASVIR",
+      "strength": "100",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "GILEAD SCIENCES CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "SOFOSBUVIR, VELPATASVIR AND VOXILAPREVIR"
+  ]
+}

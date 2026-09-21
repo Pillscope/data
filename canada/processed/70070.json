@@ -1,0 +1,28 @@
+{
+  "drug_code": "70070",
+  "din": "02245946",
+  "brand_name": "JAMP-DOCUSATE SODIUM",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "29-JUN-2016",
+  "active_ingredients": [
+    {
+      "name": "DOCUSATE SODIUM",
+      "strength": "100",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "CAPSULE"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "JAMP PHARMA CORPORATION"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "DOCUSATE SODIUM"
+  ]
+}

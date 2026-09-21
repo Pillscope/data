@@ -1,0 +1,28 @@
+{
+  "drug_code": "84808",
+  "din": "02363062",
+  "brand_name": "RAN-VALSARTAN",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "18-DEC-2012",
+  "active_ingredients": [
+    {
+      "name": "VALSARTAN",
+      "strength": "40",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "RANBAXY PHARMACEUTICALS CANADA INC."
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "VALSARTAN"
+  ]
+}

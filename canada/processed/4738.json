@@ -1,0 +1,28 @@
+{
+  "drug_code": "4738",
+  "din": "00526061",
+  "brand_name": "ACEVET 25 INJECTABLE",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "15-APR-2011",
+  "active_ingredients": [
+    {
+      "name": "ACEPROMAZINE MALEATE",
+      "strength": "25",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "INTRAMUSCULAR",
+    "INTRAVENOUS",
+    "SUBCUTANEOUS"
+  ],
+  "companies": [
+    "VETOQUINOL N A INC"
+  ],
+  "status": "APPROVED",
+  "atc": []
+}

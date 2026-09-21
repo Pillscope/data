@@ -1,0 +1,31 @@
+{
+  "drug_code": "81050",
+  "din": "02325098",
+  "brand_name": "NEO-TERRAMYCIN 50/50",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "28-MAY-2013",
+  "active_ingredients": [
+    {
+      "name": "NEOMYCIN SULFATE",
+      "strength": "110",
+      "unit": "G"
+    },
+    {
+      "name": "OXYTETRACYCLINE HYDROCHLORIDE",
+      "strength": "110",
+      "unit": "G"
+    }
+  ],
+  "forms": [
+    "DRUG PREMIX"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "PHIBRO ANIMAL HEALTH CORPORATION"
+  ],
+  "status": "APPROVED",
+  "atc": []
+}

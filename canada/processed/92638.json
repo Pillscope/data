@@ -1,0 +1,28 @@
+{
+  "drug_code": "92638",
+  "din": "02442019",
+  "brand_name": "VALACYCLOVIR",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "26-MAY-2017",
+  "active_ingredients": [
+    {
+      "name": "VALACYCLOVIR (VALACYCLOVIR HYDROCHLORIDE)",
+      "strength": "1000",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "SIVEM PHARMACEUTICALS ULC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "VALACICLOVIR"
+  ]
+}

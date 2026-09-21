@@ -1,0 +1,28 @@
+{
+  "drug_code": "76647",
+  "din": "02280795",
+  "brand_name": "SUTENT",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "19-OCT-2010",
+  "active_ingredients": [
+    {
+      "name": "SUNITINIB (SUNITINIB MALATE)",
+      "strength": "12.5",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "CAPSULE"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "PFIZER CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "SUNITINIB"
+  ]
+}

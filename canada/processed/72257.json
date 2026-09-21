@@ -1,0 +1,28 @@
+{
+  "drug_code": "72257",
+  "din": "02247947",
+  "brand_name": "TEVA-RAMIPRIL",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "06-MAY-2015",
+  "active_ingredients": [
+    {
+      "name": "RAMIPRIL",
+      "strength": "10",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "CAPSULE"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "TEVA CANADA LIMITED"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "RAMIPRIL"
+  ]
+}

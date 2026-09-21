@@ -1,0 +1,33 @@
+{
+  "drug_code": "79676",
+  "din": "02311178",
+  "brand_name": "PRO-LEVOCARB - 100/25",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "31-JUL-2008",
+  "active_ingredients": [
+    {
+      "name": "CARBIDOPA",
+      "strength": "25",
+      "unit": "MG"
+    },
+    {
+      "name": "LEVODOPA",
+      "strength": "100",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "PRO DOC LIMITEE"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "LEVODOPA AND DECARBOXYLASE INHIBITOR"
+  ]
+}

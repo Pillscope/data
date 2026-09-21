@@ -1,0 +1,48 @@
+{
+  "drug_code": "78690",
+  "din": "02301571",
+  "brand_name": "NEUTROGENA ULTRA SHEER BODY MIST SUNSCREEN SPF 45",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "12-OCT-2010",
+  "active_ingredients": [
+    {
+      "name": "AVOBENZONE",
+      "strength": "3.00",
+      "unit": "%"
+    },
+    {
+      "name": "OCTOCRYLENE",
+      "strength": "2.35",
+      "unit": "%"
+    },
+    {
+      "name": "OXYBENZONE",
+      "strength": "6.00",
+      "unit": "%"
+    },
+    {
+      "name": "OCTISALATE",
+      "strength": "5.00",
+      "unit": "%"
+    },
+    {
+      "name": "HOMOSALATE",
+      "strength": "15.00",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "AEROSOL"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "JOHNSON & JOHNSON INC"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "COMBINATIONS OF PROTECTIVES AGAINST UV-RADIATION"
+  ]
+}

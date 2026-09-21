@@ -1,0 +1,28 @@
+{
+  "drug_code": "75821",
+  "din": "02272709",
+  "brand_name": "SUCRETS DM COUGH SUPPRESSANT-HONEY LEMON",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "05-JUL-2007",
+  "active_ingredients": [
+    {
+      "name": "DEXTROMETHORPHAN HYDROBROMIDE",
+      "strength": "10",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "LOZENGE"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "INSIGHT PHARMACEUTICALS LLC"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "DEXTROMETHORPHAN"
+  ]
+}

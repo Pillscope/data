@@ -1,0 +1,28 @@
+{
+  "drug_code": "84017",
+  "din": "02354985",
+  "brand_name": "PMS-MONTELUKAST",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "15-MAY-2015",
+  "active_ingredients": [
+    {
+      "name": "MONTELUKAST (MONTELUKAST SODIUM)",
+      "strength": "5",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET (CHEWABLE)"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "PHARMASCIENCE INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "MONTELUKAST"
+  ]
+}

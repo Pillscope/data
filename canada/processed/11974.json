@@ -1,0 +1,34 @@
+{
+  "drug_code": "11974",
+  "din": "01945157",
+  "brand_name": "CLARITIN ALLERGY + SINUS",
+  "class": "Human",
+  "descriptor": "MODIFIED RELEASE TABLETS",
+  "last_update": "25-AUG-2017",
+  "active_ingredients": [
+    {
+      "name": "LORATADINE",
+      "strength": "5",
+      "unit": "MG"
+    },
+    {
+      "name": "PSEUDOEPHEDRINE SULFATE",
+      "strength": "120",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET (IMMEDIATE AND EXTENDED RELEASE)"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "BAYER INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "PSEUDOEPHEDRINE, COMBINATIONS",
+    "PSEUDOEPHEDRINE, COMBINATIONS"
+  ]
+}

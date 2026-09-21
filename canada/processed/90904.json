@@ -1,0 +1,28 @@
+{
+  "drug_code": "90904",
+  "din": "02424339",
+  "brand_name": "JAMP-SOLIFENACIN",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "20-JAN-2017",
+  "active_ingredients": [
+    {
+      "name": "SOLIFENACIN SUCCINATE",
+      "strength": "5",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "JAMP PHARMA CORPORATION"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "SOLIFENACIN"
+  ]
+}

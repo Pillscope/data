@@ -1,0 +1,28 @@
+{
+  "drug_code": "6550",
+  "din": "00670944",
+  "brand_name": "ISDN",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "24-APR-2012",
+  "active_ingredients": [
+    {
+      "name": "ISOSORBIDE DINITRATE",
+      "strength": "5",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "SUBLINGUAL"
+  ],
+  "companies": [
+    "AA PHARMA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "ISOSORBIDE DINITRATE"
+  ]
+}

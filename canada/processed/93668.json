@@ -1,0 +1,28 @@
+{
+  "drug_code": "93668",
+  "din": "02450526",
+  "brand_name": "CETIRIZINE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "11-JUL-2016",
+  "active_ingredients": [
+    {
+      "name": "CETIRIZINE HYDROCHLORIDE",
+      "strength": "20",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "PRO DOC LIMITEE"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "CETIRIZINE"
+  ]
+}

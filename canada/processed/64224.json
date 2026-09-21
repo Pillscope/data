@@ -1,0 +1,28 @@
+{
+  "drug_code": "64224",
+  "din": "02240645",
+  "brand_name": "NEUTROGENA T/GEL THERAPEUTIC SHAMPOO",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "27-JUL-2006",
+  "active_ingredients": [
+    {
+      "name": "COAL TAR",
+      "strength": "0.50",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "SHAMPOO"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "JOHNSON & JOHNSON INC"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "TARS"
+  ]
+}

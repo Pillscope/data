@@ -1,0 +1,28 @@
+{
+  "drug_code": "85817",
+  "din": "02373041",
+  "brand_name": "GD-LATANOPROST",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "31-OCT-2011",
+  "active_ingredients": [
+    {
+      "name": "LATANOPROST",
+      "strength": "50",
+      "unit": "MCG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "OPHTHALMIC"
+  ],
+  "companies": [
+    "GENMED A DIVISION OF PFIZER CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "LATANOPROST"
+  ]
+}

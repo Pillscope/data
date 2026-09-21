@@ -1,0 +1,26 @@
+{
+  "drug_code": "94972",
+  "din": "02461978",
+  "brand_name": "LACTIFENCE",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "20-APR-2018",
+  "active_ingredients": [
+    {
+      "name": "LACTIC ACID",
+      "strength": "3.5",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "DELAVAL INC."
+  ],
+  "status": "APPROVED",
+  "atc": []
+}

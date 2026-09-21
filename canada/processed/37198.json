@@ -1,0 +1,29 @@
+{
+  "drug_code": "37198",
+  "din": "02219336",
+  "brand_name": "DIPHENIST 50MG/ML",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "11-APR-2006",
+  "active_ingredients": [
+    {
+      "name": "DIPHENHYDRAMINE HYDROCHLORIDE",
+      "strength": "50",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "LIQUID"
+  ],
+  "routes": [
+    "INTRAMUSCULAR",
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "OMEGA LABORATORIES LTD"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "DIPHENHYDRAMINE"
+  ]
+}

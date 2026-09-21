@@ -1,0 +1,29 @@
+{
+  "drug_code": "10686",
+  "din": "00888001",
+  "brand_name": "PINE-A-BAC LIQUID",
+  "class": "Disinfectant",
+  "descriptor": "",
+  "last_update": "27-JUL-2006",
+  "active_ingredients": [
+    {
+      "name": "BENZALKONIUM CHLORIDE",
+      "strength": "5",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "LIQUID"
+  ],
+  "routes": [
+    "DISINFECTANT (Food Premises)",
+    "DISINFECTANT (Hospital/HC Facilities)"
+  ],
+  "companies": [
+    "ZEP MANUFACTURING COMPANY OF CANADA"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "TECHNICAL DISINFECTANTS"
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "drug_code": "12947",
+  "din": "01939068",
+  "brand_name": "HUILE DE BAIN THERAPEUTIQUE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "10-MAY-2016",
+  "active_ingredients": [
+    {
+      "name": "LANOLIN",
+      "strength": "3",
+      "unit": "%"
+    },
+    {
+      "name": "MINERAL OIL",
+      "strength": "91.7",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "LIQUID"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "LABORATOIRE ATLAS INC"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "SOFT PARAFFIN AND FAT PRODUCTS"
+  ]
+}

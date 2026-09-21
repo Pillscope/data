@@ -1,0 +1,53 @@
+{
+  "drug_code": "15177",
+  "din": "02007967",
+  "brand_name": "AMO ENDOSOL SOLUTION",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "05-MAR-2018",
+  "active_ingredients": [
+    {
+      "name": "SODIUM CHLORIDE",
+      "strength": "0.64",
+      "unit": "%"
+    },
+    {
+      "name": "POTASSIUM CHLORIDE",
+      "strength": "0.075",
+      "unit": "%"
+    },
+    {
+      "name": "SODIUM CITRATE",
+      "strength": "0.17",
+      "unit": "%"
+    },
+    {
+      "name": "SODIUM ACETATE",
+      "strength": "0.39",
+      "unit": "%"
+    },
+    {
+      "name": "MAGNESIUM CHLORIDE",
+      "strength": "0.03",
+      "unit": "%"
+    },
+    {
+      "name": "CALCIUM CHLORIDE",
+      "strength": "0.048",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "INTRAOCULAR"
+  ],
+  "companies": [
+    "AMO CANADA COMPANY"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "ARTIFICIAL TEARS AND OTHER INDIFFERENT PREPARATIONS."
+  ]
+}

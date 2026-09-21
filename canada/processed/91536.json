@@ -1,0 +1,39 @@
+{
+  "drug_code": "91536",
+  "din": "02430932",
+  "brand_name": "TRIUMEQ",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "03-JAN-2018",
+  "active_ingredients": [
+    {
+      "name": "ABACAVIR (ABACAVIR SULFATE)",
+      "strength": "600",
+      "unit": "MG"
+    },
+    {
+      "name": "LAMIVUDINE",
+      "strength": "300",
+      "unit": "MG"
+    },
+    {
+      "name": "DOLUTEGRAVIR (DOLUTEGRAVIR SODIUM)",
+      "strength": "50",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "VIIV HEALTHCARE ULC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "LAMIVUDINE, ABACAVIR AND DOLUTEGRAVIR",
+    "LAMIVUDINE, ABACAVIR AND DOLUTEGRAVIR"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "drug_code": "68816",
+  "din": "02244826",
+  "brand_name": "TNKASE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "23-MAY-2014",
+  "active_ingredients": [
+    {
+      "name": "TENECTEPLASE",
+      "strength": "50",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "POWDER FOR SOLUTION"
+  ],
+  "routes": [
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "HOFFMANN-LA ROCHE LIMITED"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "TENECTEPLASE"
+  ]
+}

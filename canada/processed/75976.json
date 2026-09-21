@@ -1,0 +1,28 @@
+{
+  "drug_code": "75976",
+  "din": "02274310",
+  "brand_name": "SANDOZ ONDANSETRON",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "05-DEC-2006",
+  "active_ingredients": [
+    {
+      "name": "ONDANSETRON (ONDANSETRON HYDROCHLORIDE DIHYDRATE)",
+      "strength": "4",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "SANDOZ CANADA INCORPORATED"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "ONDANSETRON"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "drug_code": "8275",
+  "din": "00511234",
+  "brand_name": "TROMBOJECT 1% INJ 10MG/ML",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "30-APR-2008",
+  "active_ingredients": [
+    {
+      "name": "SODIUM TETRADECYL SULFATE",
+      "strength": "10",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "OMEGA LABORATORIES LTD"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "SODIUM TETRADECYL SULPHATE"
+  ]
+}

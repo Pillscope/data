@@ -1,0 +1,53 @@
+{
+  "drug_code": "73905",
+  "din": "02254123",
+  "brand_name": "ACID CONCENTRATE A1255",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "28-MAY-2009",
+  "active_ingredients": [
+    {
+      "name": "POTASSIUM CHLORIDE",
+      "strength": "5.02",
+      "unit": "G"
+    },
+    {
+      "name": "SODIUM CHLORIDE",
+      "strength": "275.0",
+      "unit": "G"
+    },
+    {
+      "name": "DEXTROSE",
+      "strength": "99.0",
+      "unit": "G"
+    },
+    {
+      "name": "ACETIC ACID",
+      "strength": "10.81",
+      "unit": "G"
+    },
+    {
+      "name": "MAGNESIUM CHLORIDE",
+      "strength": "1.61",
+      "unit": "G"
+    },
+    {
+      "name": "CALCIUM CHLORIDE",
+      "strength": "7.49",
+      "unit": "G"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "DIALYSIS"
+  ],
+  "companies": [
+    "CHIEF MEDICAL SUPPLIES LTD"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "HEMODIALYTICS, CONCENTRATES"
+  ]
+}

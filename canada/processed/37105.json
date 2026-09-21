@@ -1,0 +1,43 @@
+{
+  "drug_code": "37105",
+  "din": "02217147",
+  "brand_name": "NEOCITRAN ULTRA STRENGTH TOTAL FLU NIGHT",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "07-APR-2017",
+  "active_ingredients": [
+    {
+      "name": "PSEUDOEPHEDRINE HYDROCHLORIDE",
+      "strength": "60",
+      "unit": "MG"
+    },
+    {
+      "name": "CHLORPHENIRAMINE MALEATE",
+      "strength": "4",
+      "unit": "MG"
+    },
+    {
+      "name": "ACETAMINOPHEN",
+      "strength": "1000",
+      "unit": "MG"
+    },
+    {
+      "name": "DEXTROMETHORPHAN HYDROBROMIDE",
+      "strength": "30",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "POWDER"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "GLAXOSMITHKLINE CONSUMER HEALTHCARE INC."
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "ACETAMINOPHEN, COMB EXCL PSYCHOLEPTICS"
+  ]
+}

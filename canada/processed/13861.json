@@ -1,0 +1,31 @@
+{
+  "drug_code": "13861",
+  "din": "02020874",
+  "brand_name": "ANTIHISTAMINE ORAL",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "03-JUL-2008",
+  "active_ingredients": [
+    {
+      "name": "PYRILAMINE MALEATE",
+      "strength": "50",
+      "unit": "MG"
+    },
+    {
+      "name": "EPHEDRINE HYDROCHLORIDE",
+      "strength": "20",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "POWDER"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "VETOQUINOL N A INC"
+  ],
+  "status": "APPROVED",
+  "atc": []
+}

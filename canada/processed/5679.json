@@ -1,0 +1,26 @@
+{
+  "drug_code": "5679",
+  "din": "00617253",
+  "brand_name": "K.O.DYNE",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "16-OCT-2012",
+  "active_ingredients": [
+    {
+      "name": "IODINE (NONYL PHENOXYPOLY ETHOXY ETHANOL-IODINE)",
+      "strength": "1.75",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "GEA FARM TECHNOLOGIES INC"
+  ],
+  "status": "APPROVED",
+  "atc": []
+}

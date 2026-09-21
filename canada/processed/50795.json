@@ -1,0 +1,28 @@
+{
+  "drug_code": "50795",
+  "din": "02231471",
+  "brand_name": "GAMMAGARD S/D",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "29-APR-2015",
+  "active_ingredients": [
+    {
+      "name": "IMMUNE GLOBULIN (HUMAN)",
+      "strength": "10",
+      "unit": "G"
+    }
+  ],
+  "forms": [
+    "POWDER FOR SOLUTION"
+  ],
+  "routes": [
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "BAXALTA CANADA CORPORATION"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "IMMUNOGLOBULINS, NORMAL HUMAN, FOR INTRAVASC. ADM."
+  ]
+}

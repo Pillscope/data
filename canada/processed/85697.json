@@ -1,0 +1,48 @@
+{
+  "drug_code": "85697",
+  "din": "02371847",
+  "brand_name": "CERAMIDE PREMIERE INTENSE MOISTURE AND RENEWAL ACTIVATION CREAM SPF 30",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "18-JAN-2012",
+  "active_ingredients": [
+    {
+      "name": "AVOBENZONE",
+      "strength": "2.0",
+      "unit": "%"
+    },
+    {
+      "name": "OCTOCRYLENE",
+      "strength": "3.0",
+      "unit": "%"
+    },
+    {
+      "name": "OXYBENZONE",
+      "strength": "4.0",
+      "unit": "%"
+    },
+    {
+      "name": "OCTISALATE",
+      "strength": "5.0",
+      "unit": "%"
+    },
+    {
+      "name": "OCTINOXATE",
+      "strength": "7.5",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "CREAM"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "ELIZABETH ARDEN (CANADA) LIMITED"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "COMBINATIONS OF PROTECTIVES AGAINST UV-RADIATION"
+  ]
+}

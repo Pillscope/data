@@ -1,0 +1,28 @@
+{
+  "drug_code": "7426",
+  "din": "00733059",
+  "brand_name": "APO-RANITIDINE TABLET 150MG",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "11-APR-2018",
+  "active_ingredients": [
+    {
+      "name": "RANITIDINE (RANITIDINE HYDROCHLORIDE)",
+      "strength": "150",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "APOTEX INC"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "RANITIDINE"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "drug_code": "70216",
+  "din": "02246081",
+  "brand_name": "VARIVAX III",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "17-MAR-2011",
+  "active_ingredients": [
+    {
+      "name": "VARICELLA-ZOSTER VIRUS VACCINE LIVE ATTENUATED (OKA/MERCK STRAIN)",
+      "strength": "1350",
+      "unit": "UNIT"
+    }
+  ],
+  "forms": [
+    "POWDER FOR SOLUTION"
+  ],
+  "routes": [
+    "SUBCUTANEOUS"
+  ],
+  "companies": [
+    "MERCK CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "VARICELLA, LIVE ATTENUATED"
+  ]
+}

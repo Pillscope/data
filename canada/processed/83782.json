@@ -1,0 +1,28 @@
+{
+  "drug_code": "83782",
+  "din": "02352567",
+  "brand_name": "APO-MYCOPHENOLATE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "03-JAN-2012",
+  "active_ingredients": [
+    {
+      "name": "MYCOPHENOLATE MOFETIL",
+      "strength": "500",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "APOTEX INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "MYCOPHENOLIC ACID"
+  ]
+}

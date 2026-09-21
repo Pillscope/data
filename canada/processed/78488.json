@@ -1,0 +1,26 @@
+{
+  "drug_code": "78488",
+  "din": "02299496",
+  "brand_name": "CERENIA",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "08-SEP-2016",
+  "active_ingredients": [
+    {
+      "name": "MAROPITANT (MAROPITANT CITRATE)",
+      "strength": "16",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "ZOETIS CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": []
+}

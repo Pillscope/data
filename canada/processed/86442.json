@@ -1,0 +1,28 @@
+{
+  "drug_code": "86442",
+  "din": "02378639",
+  "brand_name": "MAR-METFORMIN",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "30-AUG-2017",
+  "active_ingredients": [
+    {
+      "name": "METFORMIN HYDROCHLORIDE",
+      "strength": "850",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "MARCAN PHARMACEUTICALS INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "METFORMIN"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "drug_code": "6130",
+  "din": "00618810",
+  "brand_name": "PDP-PYRAZINAMIDE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "29-APR-2015",
+  "active_ingredients": [
+    {
+      "name": "PYRAZINAMIDE",
+      "strength": "500",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "PENDOPHARM DIVISION OF DE PHARMASCIENCE INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "PYRAZINAMIDE"
+  ]
+}

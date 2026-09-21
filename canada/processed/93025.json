@@ -1,0 +1,28 @@
+{
+  "drug_code": "93025",
+  "din": "02445042",
+  "brand_name": "BIO-SERTRALINE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "15-JAN-2018",
+  "active_ingredients": [
+    {
+      "name": "SERTRALINE (SERTRALINE HYDROCHLORIDE)",
+      "strength": "25",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "CAPSULE"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "BIOMED PHARMA"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "SERTRALINE"
+  ]
+}

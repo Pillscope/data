@@ -1,0 +1,28 @@
+{
+  "drug_code": "81040",
+  "din": "02324989",
+  "brand_name": "CLEARLAX",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "10-JUL-2012",
+  "active_ingredients": [
+    {
+      "name": "POLYETHYLENE GLYCOL 3350",
+      "strength": "100",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "POWDER FOR SOLUTION"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "PERRIGO INTERNATIONAL"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "MACROGOL"
+  ]
+}

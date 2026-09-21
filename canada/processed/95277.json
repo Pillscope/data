@@ -1,0 +1,28 @@
+{
+  "drug_code": "95277",
+  "din": "02464640",
+  "brand_name": "PMS-FLUOXETINE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "28-FEB-2018",
+  "active_ingredients": [
+    {
+      "name": "FLUOXETINE (FLUOXETINE HYDROCHLORIDE)",
+      "strength": "40",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "CAPSULE"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "PHARMASCIENCE INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "FLUOXETINE"
+  ]
+}

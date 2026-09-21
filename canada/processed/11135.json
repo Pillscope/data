@@ -1,0 +1,28 @@
+{
+  "drug_code": "11135",
+  "din": "00869953",
+  "brand_name": "MESTINON-SR",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "15-DEC-2005",
+  "active_ingredients": [
+    {
+      "name": "PYRIDOSTIGMINE BROMIDE",
+      "strength": "180",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET (EXTENDED-RELEASE)"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "VALEANT CANADA LP/VALEANT CANADA S.E.C."
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "PYRIDOSTIGMINE"
+  ]
+}

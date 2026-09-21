@@ -1,0 +1,41 @@
+{
+  "drug_code": "3758",
+  "din": "00467413",
+  "brand_name": "HOOF DRESSING",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "04-APR-2013",
+  "active_ingredients": [
+    {
+      "name": "GILSONITE",
+      "strength": "2",
+      "unit": "%"
+    },
+    {
+      "name": "MINERAL OIL",
+      "strength": "91",
+      "unit": "%"
+    },
+    {
+      "name": "SOYBEAN OIL",
+      "strength": "6.25",
+      "unit": "%"
+    },
+    {
+      "name": "CRESOL",
+      "strength": "0.75",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "LIQUID"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "FIEBING CO INC."
+  ],
+  "status": "MARKETED",
+  "atc": []
+}

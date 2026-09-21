@@ -1,0 +1,28 @@
+{
+  "drug_code": "11969",
+  "din": "01940414",
+  "brand_name": "VOLTAREN OPHTHA",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "01-JUN-2017",
+  "active_ingredients": [
+    {
+      "name": "DICLOFENAC SODIUM",
+      "strength": "0.1",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "OPHTHALMIC"
+  ],
+  "companies": [
+    "NOVARTIS PHARMACEUTICALS CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "DICLOFENAC"
+  ]
+}

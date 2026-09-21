@@ -1,0 +1,28 @@
+{
+  "drug_code": "71198",
+  "din": "02246969",
+  "brand_name": "SANDOZ ESTRADIOL DERM 100",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "01-NOV-2017",
+  "active_ingredients": [
+    {
+      "name": "ESTRADIOL (ESTRADIOL HEMIHYDRATE)",
+      "strength": "100",
+      "unit": "MCG"
+    }
+  ],
+  "forms": [
+    "PATCH"
+  ],
+  "routes": [
+    "TRANSDERMAL"
+  ],
+  "companies": [
+    "SANDOZ CANADA INCORPORATED"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "ESTRADIOL"
+  ]
+}

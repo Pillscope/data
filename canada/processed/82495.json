@@ -1,0 +1,48 @@
+{
+  "drug_code": "82495",
+  "din": "02339358",
+  "brand_name": "PLASMA-LYTE A INJECTION",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "17-MAR-2011",
+  "active_ingredients": [
+    {
+      "name": "SODIUM GLUCONATE",
+      "strength": "502",
+      "unit": "MG"
+    },
+    {
+      "name": "SODIUM CHLORIDE",
+      "strength": "526",
+      "unit": "MG"
+    },
+    {
+      "name": "POTASSIUM CHLORIDE",
+      "strength": "37",
+      "unit": "MG"
+    },
+    {
+      "name": "SODIUM ACETATE",
+      "strength": "368",
+      "unit": "MG"
+    },
+    {
+      "name": "MAGNESIUM CHLORIDE",
+      "strength": "30",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "BAXTER CORPORATION"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "ELECTROLYTES"
+  ]
+}

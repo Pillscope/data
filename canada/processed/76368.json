@@ -1,0 +1,28 @@
+{
+  "drug_code": "76368",
+  "din": "02278103",
+  "brand_name": "PMS-FAMCICLOVIR",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "01-DEC-2006",
+  "active_ingredients": [
+    {
+      "name": "FAMCICLOVIR",
+      "strength": "250",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "PHARMASCIENCE INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "FAMCICLOVIR"
+  ]
+}

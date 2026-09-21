@@ -1,0 +1,26 @@
+{
+  "drug_code": "82419",
+  "din": "02338548",
+  "brand_name": "PALLADIA",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "30-JUL-2015",
+  "active_ingredients": [
+    {
+      "name": "TOCERANIB (TOCERANIB PHOSPHATE)",
+      "strength": "10",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "ZOETIS CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": []
+}

@@ -1,0 +1,28 @@
+{
+  "drug_code": "68782",
+  "din": "02244792",
+  "brand_name": "SANDOZ MORPHINE SR",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "05-MAY-2015",
+  "active_ingredients": [
+    {
+      "name": "MORPHINE SULFATE",
+      "strength": "60",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET (EXTENDED-RELEASE)"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "SANDOZ CANADA INCORPORATED"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "MORPHINE"
+  ]
+}

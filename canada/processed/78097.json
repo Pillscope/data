@@ -1,0 +1,27 @@
+{
+  "drug_code": "78097",
+  "din": "02295628",
+  "brand_name": "CONVENIA",
+  "class": "Veterinary",
+  "descriptor": "1 VIAL OF LYOPHILIZED POWDER, 1 VIAL OF DILUENT (10ML)",
+  "last_update": "14-JUN-2017",
+  "active_ingredients": [
+    {
+      "name": "CEFOVECIN (CEFOVECIN SODIUM)",
+      "strength": "80",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "KIT",
+    "POWDER FOR SOLUTION"
+  ],
+  "routes": [
+    "SUBCUTANEOUS"
+  ],
+  "companies": [
+    "ZOETIS CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": []
+}

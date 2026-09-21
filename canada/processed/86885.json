@@ -1,0 +1,28 @@
+{
+  "drug_code": "86885",
+  "din": "02383063",
+  "brand_name": "BISOPROLOL",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "14-NOV-2012",
+  "active_ingredients": [
+    {
+      "name": "BISOPROLOL FUMARATE",
+      "strength": "10",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "SIVEM PHARMACEUTICALS ULC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "BISOPROLOL"
+  ]
+}

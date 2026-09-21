@@ -1,0 +1,28 @@
+{
+  "drug_code": "12575",
+  "din": "00885533",
+  "brand_name": "YOHIMBINE HYDROCHLORIDE TAB 2MG",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "27-APR-2009",
+  "active_ingredients": [
+    {
+      "name": "YOHIMBINE HYDROCHLORIDE",
+      "strength": "2",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "ODAN LABORATORIES LTD"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "YOHIMBIN"
+  ]
+}

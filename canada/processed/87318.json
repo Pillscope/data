@@ -1,0 +1,43 @@
+{
+  "drug_code": "87318",
+  "din": "02387573",
+  "brand_name": "BLUE THERAPY MOISTURIZING CREAM NORMAL/COMBINATION SKIN SPF 15",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "15-OCT-2012",
+  "active_ingredients": [
+    {
+      "name": "AVOBENZONE",
+      "strength": "3",
+      "unit": "%"
+    },
+    {
+      "name": "OCTOCRYLENE",
+      "strength": "5",
+      "unit": "%"
+    },
+    {
+      "name": "TEREPHTHALYLIDENE DICAMPHOR SULFONIC ACID",
+      "strength": "1",
+      "unit": "%"
+    },
+    {
+      "name": "OCTISALATE",
+      "strength": "5",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "CREAM"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "BIOTHERM CANADA"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "COMBINATIONS OF PROTECTIVES AGAINST UV-RADIATION"
+  ]
+}

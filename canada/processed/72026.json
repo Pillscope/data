@@ -1,0 +1,28 @@
+{
+  "drug_code": "72026",
+  "din": "02247745",
+  "brand_name": "FAMOTIDINE OMEGA   -(WITH PRESERVATIVE,BENZYL ALCOHOL)",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "17-JAN-2007",
+  "active_ingredients": [
+    {
+      "name": "FAMOTIDINE",
+      "strength": "10",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "OMEGA LABORATORIES LTD"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "FAMOTIDINE"
+  ]
+}

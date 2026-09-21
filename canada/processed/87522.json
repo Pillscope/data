@@ -1,0 +1,28 @@
+{
+  "drug_code": "87522",
+  "din": "02389746",
+  "brand_name": "PRAVASTATIN",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "20-SEP-2017",
+  "active_ingredients": [
+    {
+      "name": "PRAVASTATIN SODIUM",
+      "strength": "40",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "SIVEM PHARMACEUTICALS ULC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "PRAVASTATIN"
+  ]
+}

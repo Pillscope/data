@@ -1,0 +1,33 @@
+{
+  "drug_code": "77440",
+  "din": "02289016",
+  "brand_name": "ADVANCED REVITALIFT DAY",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "31-JUL-2012",
+  "active_ingredients": [
+    {
+      "name": "ENSULIZOLE",
+      "strength": "2.0",
+      "unit": "%"
+    },
+    {
+      "name": "OCTINOXATE",
+      "strength": "7.5",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "CREAM"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "L' OREAL CANADA"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "COMBINATIONS OF PROTECTIVES AGAINST UV-RADIATION"
+  ]
+}

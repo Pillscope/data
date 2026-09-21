@@ -1,0 +1,28 @@
+{
+  "drug_code": "84910",
+  "din": "02364174",
+  "brand_name": "ABSTRAL",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "30-MAY-2011",
+  "active_ingredients": [
+    {
+      "name": "FENTANYL (FENTANYL CITRATE)",
+      "strength": "100",
+      "unit": "MCG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "SUBLINGUAL"
+  ],
+  "companies": [
+    "PALADIN LABS INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "FENTANYL"
+  ]
+}

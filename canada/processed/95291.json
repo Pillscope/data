@@ -1,0 +1,38 @@
+{
+  "drug_code": "95291",
+  "din": "02464772",
+  "brand_name": "SULWHASOO PERFECTING CUSHION BRIGHTENING",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "09-MAR-2018",
+  "active_ingredients": [
+    {
+      "name": "ZINC OXIDE",
+      "strength": "9.8",
+      "unit": "%"
+    },
+    {
+      "name": "TITANIUM DIOXIDE",
+      "strength": "4.15",
+      "unit": "%"
+    },
+    {
+      "name": "OCTINOXATE",
+      "strength": "7",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "LOTION"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "AMOREPACIFIC CORPORATION"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "COMBINATIONS OF PROTECTIVES AGAINST UV-RADIATION"
+  ]
+}

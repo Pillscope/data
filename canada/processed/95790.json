@@ -1,0 +1,28 @@
+{
+  "drug_code": "95790",
+  "din": "02469227",
+  "brand_name": "LARTRUVO",
+  "class": "Human",
+  "descriptor": "SINGLE-USE VIAL",
+  "last_update": "19-JAN-2018",
+  "active_ingredients": [
+    {
+      "name": "OLARATUMAB",
+      "strength": "500",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "ELI LILLY CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "OLARATUMAB"
+  ]
+}

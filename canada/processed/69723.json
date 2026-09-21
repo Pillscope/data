@@ -1,0 +1,33 @@
+{
+  "drug_code": "69723",
+  "din": "02245623",
+  "brand_name": "APO-AMOXI CLAV 875/125",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "22-AUG-2011",
+  "active_ingredients": [
+    {
+      "name": "CLAVULANIC ACID (POTASSIUM CLAVULANATE)",
+      "strength": "125",
+      "unit": "MG"
+    },
+    {
+      "name": "AMOXICILLIN (AMOXICILLIN TRIHYDRATE)",
+      "strength": "875",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "APOTEX INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "AMOXICILLIN AND BETA-LACTAMASE INHIBITOR"
+  ]
+}

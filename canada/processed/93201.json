@@ -1,0 +1,29 @@
+{
+  "drug_code": "93201",
+  "din": "02446588",
+  "brand_name": "ARNUITY ELLIPTA",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "21-FEB-2018",
+  "active_ingredients": [
+    {
+      "name": "FLUTICASONE FUROATE",
+      "strength": "200",
+      "unit": "MCG"
+    }
+  ],
+  "forms": [
+    "POWDER"
+  ],
+  "routes": [
+    "INHALATION",
+    "ORAL"
+  ],
+  "companies": [
+    "GLAXOSMITHKLINE INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "FLUTICASONE FUROATE"
+  ]
+}

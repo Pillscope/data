@@ -1,0 +1,28 @@
+{
+  "drug_code": "91210",
+  "din": "02427583",
+  "brand_name": "AURO-RIVASTIGMINE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "15-JAN-2018",
+  "active_ingredients": [
+    {
+      "name": "RIVASTIGMINE (RIVASTIGMINE HYDROGEN TARTRATE)",
+      "strength": "4.5",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "CAPSULE"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "AURO PHARMA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "RIVASTIGMINE"
+  ]
+}

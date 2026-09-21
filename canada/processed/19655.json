@@ -1,0 +1,28 @@
+{
+  "drug_code": "19655",
+  "din": "02190893",
+  "brand_name": "GLUCOBAY",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "02-NOV-2006",
+  "active_ingredients": [
+    {
+      "name": "ACARBOSE",
+      "strength": "100",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "BAYER INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "ACARBOSE"
+  ]
+}

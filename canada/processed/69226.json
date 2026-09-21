@@ -1,0 +1,33 @@
+{
+  "drug_code": "69226",
+  "din": "02245211",
+  "brand_name": "APO-LEVOCARB CR",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "17-JUL-2014",
+  "active_ingredients": [
+    {
+      "name": "CARBIDOPA",
+      "strength": "50",
+      "unit": "MG"
+    },
+    {
+      "name": "LEVODOPA",
+      "strength": "200",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET (EXTENDED-RELEASE)"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "APOTEX INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "LEVODOPA AND DECARBOXYLASE INHIBITOR"
+  ]
+}

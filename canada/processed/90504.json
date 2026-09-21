@@ -1,0 +1,28 @@
+{
+  "drug_code": "90504",
+  "din": "02420457",
+  "brand_name": "MAR-RAMIPRIL",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "24-JUN-2015",
+  "active_ingredients": [
+    {
+      "name": "RAMIPRIL",
+      "strength": "1.25",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "CAPSULE"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "MARCAN PHARMACEUTICALS INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "RAMIPRIL"
+  ]
+}

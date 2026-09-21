@@ -1,0 +1,28 @@
+{
+  "drug_code": "67674",
+  "din": "02243741",
+  "brand_name": "AVAXIM - PEDIATRIC       -(SYRINGE)",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "02-MAR-2015",
+  "active_ingredients": [
+    {
+      "name": "HEPATITIS A VACCINE, INACTIVATED",
+      "strength": "80",
+      "unit": "UNIT"
+    }
+  ],
+  "forms": [
+    "SUSPENSION"
+  ],
+  "routes": [
+    "INTRAMUSCULAR"
+  ],
+  "companies": [
+    "SANOFI PASTEUR LIMITED"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "HEPATITIS A, INACTIVATED, WHOLE VIRUS"
+  ]
+}

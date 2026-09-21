@@ -1,0 +1,28 @@
+{
+  "drug_code": "14487",
+  "din": "01994344",
+  "brand_name": "SOFLAX CAPSULES 100MG",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "10-MAY-2016",
+  "active_ingredients": [
+    {
+      "name": "DOCUSATE SODIUM",
+      "strength": "100",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "CAPSULE"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "PHARMASCIENCE INC"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "DOCUSATE SODIUM"
+  ]
+}

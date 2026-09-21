@@ -1,0 +1,48 @@
+{
+  "drug_code": "95485",
+  "din": "02466503",
+  "brand_name": "BOBBI BROWN PRIMER PLUS RADIANCE SPF 35",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "22-MAR-2018",
+  "active_ingredients": [
+    {
+      "name": "ZINC OXIDE",
+      "strength": "3.3",
+      "unit": "%"
+    },
+    {
+      "name": "TITANIUM DIOXIDE",
+      "strength": "1.1",
+      "unit": "%"
+    },
+    {
+      "name": "OXYBENZONE",
+      "strength": "2.5",
+      "unit": "%"
+    },
+    {
+      "name": "OCTISALATE",
+      "strength": "4",
+      "unit": "%"
+    },
+    {
+      "name": "OCTINOXATE",
+      "strength": "7.5",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "CREAM"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "BOBBI BROWN PROFESSIONAL COSMETICS DIST"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "COMBINATIONS OF PROTECTIVES AGAINST UV-RADIATION"
+  ]
+}

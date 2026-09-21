@@ -1,0 +1,33 @@
+{
+  "drug_code": "37547",
+  "din": "02227959",
+  "brand_name": "METRIGUARD",
+  "class": "Disinfectant",
+  "descriptor": "",
+  "last_update": "09-JUN-2011",
+  "active_ingredients": [
+    {
+      "name": "ISOPROPYL ALCOHOL",
+      "strength": "17.20",
+      "unit": "%"
+    },
+    {
+      "name": "BENZETHONIUM CHLORIDE",
+      "strength": "0.28",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "LIQUID"
+  ],
+  "routes": [
+    "DISINFECTANT (Hospital/HC Facilities)"
+  ],
+  "companies": [
+    "METREX RESEARCH"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "TECHNICAL DISINFECTANTS"
+  ]
+}

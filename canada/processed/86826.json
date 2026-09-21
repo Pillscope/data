@@ -1,0 +1,28 @@
+{
+  "drug_code": "86826",
+  "din": "02382415",
+  "brand_name": "ROCURONIUM BROMIDE INJECTION",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "25-JUL-2013",
+  "active_ingredients": [
+    {
+      "name": "ROCURONIUM BROMIDE",
+      "strength": "10",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "OMEGA LABORATORIES LTD"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "ROCURONIUM BROMIDE"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "drug_code": "91692",
+  "din": "02432463",
+  "brand_name": "LODALIS",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "25-MAY-2015",
+  "active_ingredients": [
+    {
+      "name": "Colesevelam hydrochloride",
+      "strength": "3.75",
+      "unit": "G"
+    }
+  ],
+  "forms": [
+    "POWDER FOR SUSPENSION"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "VALEANT CANADA LP/VALEANT CANADA S.E.C."
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "COLESEVELAM"
+  ]
+}

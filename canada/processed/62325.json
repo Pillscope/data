@@ -1,0 +1,28 @@
+{
+  "drug_code": "62325",
+  "din": "02238885",
+  "brand_name": "TYLENOL ARTHRITIS PAIN 8 HOUR",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "29-APR-2015",
+  "active_ingredients": [
+    {
+      "name": "ACETAMINOPHEN",
+      "strength": "650",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET (EXTENDED-RELEASE)"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "MCNEIL CONSUMER HEALTHCARE DIVISION OF JOHNSON & JOHNSON INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "ACETAMINOPHEN (PARACETAMOL)"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "drug_code": "78146",
+  "din": "02296128",
+  "brand_name": "PMS-LEVETIRACETAM",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "14-JUN-2007",
+  "active_ingredients": [
+    {
+      "name": "LEVETIRACETAM",
+      "strength": "500",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "PHARMASCIENCE INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "LEVETIRACETAM"
+  ]
+}

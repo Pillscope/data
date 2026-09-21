@@ -1,0 +1,33 @@
+{
+  "drug_code": "79742",
+  "din": "02311887",
+  "brand_name": "MARCAINE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "23-MAR-2018",
+  "active_ingredients": [
+    {
+      "name": "BUPIVACAINE HYDROCHLORIDE",
+      "strength": "5",
+      "unit": "MG"
+    },
+    {
+      "name": "EPINEPHRINE BITARTRATE",
+      "strength": "0.0091",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "BLOCK/INFILTRATION"
+  ],
+  "companies": [
+    "CARESTREAM HEALTH CANADA COMPANY"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "BUPIVACAINE, COMBINATIONS"
+  ]
+}

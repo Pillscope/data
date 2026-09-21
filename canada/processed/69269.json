@@ -1,0 +1,28 @@
+{
+  "drug_code": "69269",
+  "din": "02245247",
+  "brand_name": "APO-GLICLAZIDE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "13-MAR-2006",
+  "active_ingredients": [
+    {
+      "name": "GLICLAZIDE",
+      "strength": "80",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "APOTEX INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "GLICLAZIDE"
+  ]
+}

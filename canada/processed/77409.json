@@ -1,0 +1,29 @@
+{
+  "drug_code": "77409",
+  "din": "02288680",
+  "brand_name": "EPREX STERILE SOLUTION",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "11-FEB-2008",
+  "active_ingredients": [
+    {
+      "name": "EPOETIN ALFA",
+      "strength": "30000",
+      "unit": "UNIT"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "INTRAVENOUS",
+    "SUBCUTANEOUS"
+  ],
+  "companies": [
+    "JANSSEN INC"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "ERYTHROPOIETIN"
+  ]
+}

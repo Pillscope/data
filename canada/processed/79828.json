@@ -1,0 +1,28 @@
+{
+  "drug_code": "79828",
+  "din": "02312751",
+  "brand_name": "PRO-RISPERIDONE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "31-JUL-2008",
+  "active_ingredients": [
+    {
+      "name": "RISPERIDONE",
+      "strength": "4.0",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "PRO DOC LIMITEE"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "RISPERIDONE"
+  ]
+}

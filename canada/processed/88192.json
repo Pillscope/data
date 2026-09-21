@@ -1,0 +1,28 @@
+{
+  "drug_code": "88192",
+  "din": "02396912",
+  "brand_name": "ATOMOXETINE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "10-NOV-2017",
+  "active_ingredients": [
+    {
+      "name": "ATOMOXETINE (ATOMOXETINE HYDROCHLORIDE)",
+      "strength": "18",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "CAPSULE"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "PRO DOC LIMITEE"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "ATOMOXETINE"
+  ]
+}

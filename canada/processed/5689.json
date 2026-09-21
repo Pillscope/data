@@ -1,0 +1,33 @@
+{
+  "drug_code": "5689",
+  "din": "00572896",
+  "brand_name": "HELIUM OXYGEN MIXTURE",
+  "class": "Human",
+  "descriptor": "HE:80% BALANCED WITH O2",
+  "last_update": "14-JUL-2010",
+  "active_ingredients": [
+    {
+      "name": "OXYGEN",
+      "strength": "20",
+      "unit": "%"
+    },
+    {
+      "name": "HELIUM",
+      "strength": "80",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "GAS"
+  ],
+  "routes": [
+    "INHALATION"
+  ],
+  "companies": [
+    "AIR LIQUIDE CANADA INC."
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "MEDICAL GASES"
+  ]
+}

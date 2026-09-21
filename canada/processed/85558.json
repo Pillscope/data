@@ -1,0 +1,38 @@
+{
+  "drug_code": "85558",
+  "din": "02370425",
+  "brand_name": "CLINIQUE REDNESS SOLUTIONS MAKEUP SPF 15 WITH PROBIOTIC TECHNOLOGY",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "13-JUL-2012",
+  "active_ingredients": [
+    {
+      "name": "ZINC OXIDE",
+      "strength": "2.90",
+      "unit": "%"
+    },
+    {
+      "name": "TITANIUM DIOXIDE",
+      "strength": "3.70",
+      "unit": "%"
+    },
+    {
+      "name": "OCTINOXATE",
+      "strength": "5.90",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "EMULSION"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "CLINIQUE LABORATORIES DIST"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "COMBINATIONS OF PROTECTIVES AGAINST UV-RADIATION"
+  ]
+}

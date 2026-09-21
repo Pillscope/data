@@ -1,0 +1,28 @@
+{
+  "drug_code": "65334",
+  "din": "02241674",
+  "brand_name": "PLAN B",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "22-NOV-2017",
+  "active_ingredients": [
+    {
+      "name": "LEVONORGESTREL",
+      "strength": "0.75",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "TEVA BRANDED PHARMACEUTICAL PRODUCTS R&D INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "LEVONORGESTREL"
+  ]
+}

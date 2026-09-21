@@ -1,0 +1,26 @@
+{
+  "drug_code": "43400",
+  "din": "02224194",
+  "brand_name": "SUSTAIN III",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "22-JAN-2018",
+  "active_ingredients": [
+    {
+      "name": "SULFAMETHAZINE",
+      "strength": "32.1",
+      "unit": "G"
+    }
+  ],
+  "forms": [
+    "BOLUS"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "VETOQUINOL N A INC"
+  ],
+  "status": "APPROVED",
+  "atc": []
+}

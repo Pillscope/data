@@ -1,0 +1,28 @@
+{
+  "drug_code": "87461",
+  "din": "02389096",
+  "brand_name": "MAR-OLANZAPINE ODT",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "16-JAN-2015",
+  "active_ingredients": [
+    {
+      "name": "OLANZAPINE",
+      "strength": "10",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET (ORALLY DISINTEGRATING)"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "MARCAN PHARMACEUTICALS INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "OLANZAPINE"
+  ]
+}

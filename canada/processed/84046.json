@@ -1,0 +1,28 @@
+{
+  "drug_code": "84046",
+  "din": "02355205",
+  "brand_name": "THALOMID",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "21-FEB-2011",
+  "active_ingredients": [
+    {
+      "name": "THALIDOMIDE",
+      "strength": "100",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "CAPSULE"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "CELGENE INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "THALIDOMIDE"
+  ]
+}

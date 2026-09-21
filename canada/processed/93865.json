@@ -1,0 +1,28 @@
+{
+  "drug_code": "93865",
+  "din": "02452227",
+  "brand_name": "JADENU",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "18-MAY-2016",
+  "active_ingredients": [
+    {
+      "name": "DEFERASIROX",
+      "strength": "180",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "NOVARTIS PHARMACEUTICALS CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "DEFERASIROX"
+  ]
+}

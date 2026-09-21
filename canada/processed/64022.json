@@ -1,0 +1,27 @@
+{
+  "drug_code": "64022",
+  "din": "02240463",
+  "brand_name": "METACAM (0.5% INJECTION FOR DOGS AND CATS)",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "19-DEC-2007",
+  "active_ingredients": [
+    {
+      "name": "MELOXICAM",
+      "strength": "5",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "INTRAVENOUS",
+    "SUBCUTANEOUS"
+  ],
+  "companies": [
+    "BOEHRINGER INGELHEIM (CANADA) LTD LTEE"
+  ],
+  "status": "APPROVED",
+  "atc": []
+}

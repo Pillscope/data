@@ -1,0 +1,28 @@
+{
+  "drug_code": "31477",
+  "din": "02141728",
+  "brand_name": "ALLERGY FORMULA CAPLETS",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "29-AUG-2012",
+  "active_ingredients": [
+    {
+      "name": "DIPHENHYDRAMINE HYDROCHLORIDE",
+      "strength": "25",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "PERRIGO INTERNATIONAL"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "DIPHENHYDRAMINE"
+  ]
+}

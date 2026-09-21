@@ -1,0 +1,28 @@
+{
+  "drug_code": "79355",
+  "din": "02307871",
+  "brand_name": "PMS-PANTOPRAZOLE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "16-JUN-2008",
+  "active_ingredients": [
+    {
+      "name": "PANTOPRAZOLE (PANTOPRAZOLE SODIUM)",
+      "strength": "40",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET (DELAYED-RELEASE)"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "PHARMASCIENCE INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "PANTOPRAZOLE"
+  ]
+}

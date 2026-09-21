@@ -1,0 +1,28 @@
+{
+  "drug_code": "93070",
+  "din": "02446286",
+  "brand_name": "BIO-PRAVASTATIN",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "15-JAN-2018",
+  "active_ingredients": [
+    {
+      "name": "PRAVASTATIN SODIUM",
+      "strength": "40",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "BIOMED PHARMA"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "PRAVASTATIN"
+  ]
+}

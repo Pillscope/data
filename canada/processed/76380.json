@@ -1,0 +1,28 @@
+{
+  "drug_code": "76380",
+  "din": "02278219",
+  "brand_name": "ARESTIN MICROSPHERES",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "05-MAY-2015",
+  "active_ingredients": [
+    {
+      "name": "MINOCYCLINE (MINOCYCLINE HYDROCHLORIDE)",
+      "strength": "1",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "POWDER (EXTENDED RELEASE)"
+  ],
+  "routes": [
+    "SUBGINGIVAL"
+  ],
+  "companies": [
+    "ORAPHARMA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "MINOCYCLINE"
+  ]
+}

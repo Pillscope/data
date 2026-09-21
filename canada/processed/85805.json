@@ -1,0 +1,28 @@
+{
+  "drug_code": "85805",
+  "din": "02372940",
+  "brand_name": "MINT-SIMVASTATIN",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "22-JAN-2013",
+  "active_ingredients": [
+    {
+      "name": "SIMVASTATIN",
+      "strength": "10",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "MINT PHARMACEUTICALS INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "SIMVASTATIN"
+  ]
+}

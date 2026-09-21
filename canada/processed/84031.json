@@ -1,0 +1,28 @@
+{
+  "drug_code": "84031",
+  "din": "02355043",
+  "brand_name": "ACH-FINASTERIDE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "24-AUG-2017",
+  "active_ingredients": [
+    {
+      "name": "FINASTERIDE",
+      "strength": "5",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "ACCORD HEALTHCARE INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "FINASTERIDE"
+  ]
+}

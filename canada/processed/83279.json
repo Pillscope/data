@@ -1,0 +1,26 @@
+{
+  "drug_code": "83279",
+  "din": "02347407",
+  "brand_name": "ZACTRAN",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "16-DEC-2013",
+  "active_ingredients": [
+    {
+      "name": "GAMITHROMYCIN",
+      "strength": "150",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "SUBCUTANEOUS"
+  ],
+  "companies": [
+    "MERIAL CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": []
+}

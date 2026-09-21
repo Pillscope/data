@@ -1,0 +1,29 @@
+{
+  "drug_code": "15757",
+  "din": "02048264",
+  "brand_name": "DIGOXIN INJECTION C.S.D.",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "26-JUL-2017",
+  "active_ingredients": [
+    {
+      "name": "DIGOXIN",
+      "strength": "0.5",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "LIQUID"
+  ],
+  "routes": [
+    "INTRAMUSCULAR",
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "SANDOZ CANADA INCORPORATED"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "DIGOXIN"
+  ]
+}

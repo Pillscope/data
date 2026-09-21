@@ -1,0 +1,38 @@
+{
+  "drug_code": "3797",
+  "din": "00503851",
+  "brand_name": "GERMEX",
+  "class": "Disinfectant",
+  "descriptor": "",
+  "last_update": "29-SEP-2010",
+  "active_ingredients": [
+    {
+      "name": "P-TERT-PENTYLPHENOL",
+      "strength": "0.05",
+      "unit": "%"
+    },
+    {
+      "name": "O-PHENYLPHENOL",
+      "strength": "0.10",
+      "unit": "%"
+    },
+    {
+      "name": "ISOPROPYL ALCOHOL",
+      "strength": "53.41",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "LIQUID"
+  ],
+  "routes": [
+    "DISINFECTANT (Hospital/HC Facilities)"
+  ],
+  "companies": [
+    "KEM MFG CANADA"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "TECHNICAL DISINFECTANTS"
+  ]
+}

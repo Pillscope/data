@@ -1,0 +1,28 @@
+{
+  "drug_code": "88830",
+  "din": "02403501",
+  "brand_name": "BICART",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "10-MAY-2016",
+  "active_ingredients": [
+    {
+      "name": "SODIUM BICARBONATE",
+      "strength": "1250",
+      "unit": "G"
+    }
+  ],
+  "forms": [
+    "POWDER"
+  ],
+  "routes": [
+    "DIALYSIS"
+  ],
+  "companies": [
+    "BAXTER CORPORATION"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "HEMODIALYTICS, CONCENTRATES"
+  ]
+}

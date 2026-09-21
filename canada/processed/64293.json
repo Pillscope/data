@@ -1,0 +1,28 @@
+{
+  "drug_code": "64293",
+  "din": "02240706",
+  "brand_name": "AGGRASTAT",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "16-OCT-2013",
+  "active_ingredients": [
+    {
+      "name": "TIROFIBAN (TIROFIBAN HYDROCHLORIDE)",
+      "strength": "5",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "CORREVIO (UK) LTD"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "TIROFIBAN"
+  ]
+}

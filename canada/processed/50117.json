@@ -1,0 +1,28 @@
+{
+  "drug_code": "50117",
+  "din": "02230839",
+  "brand_name": "XYLAC",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "03-APR-2014",
+  "active_ingredients": [
+    {
+      "name": "LOXAPINE (LOXAPINE SUCCINATE)",
+      "strength": "25",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "PENDOPHARM DIVISION OF DE PHARMASCIENCE INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "LOXAPINE"
+  ]
+}

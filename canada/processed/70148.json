@@ -1,0 +1,28 @@
+{
+  "drug_code": "70148",
+  "din": "02246022",
+  "brand_name": "LONG LASTING NASAL MIST",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "18-DEC-2014",
+  "active_ingredients": [
+    {
+      "name": "OXYMETAZOLINE HYDROCHLORIDE",
+      "strength": "0.05",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "SPRAY"
+  ],
+  "routes": [
+    "NASAL"
+  ],
+  "companies": [
+    "PHARMASCIENCE INC"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "OXYMETAZOLINE"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "drug_code": "87959",
+  "din": "02394421",
+  "brand_name": "PROACTIV+ SKIN SMOOTHING EXFOLIATOR",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "03-NOV-2017",
+  "active_ingredients": [
+    {
+      "name": "BENZOYL PEROXIDE",
+      "strength": "2.5",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "GEL"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "THE PROACTIV COMPANY LLC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "BENZOYL PEROXIDE"
+  ]
+}

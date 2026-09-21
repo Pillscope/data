@@ -1,0 +1,28 @@
+{
+  "drug_code": "87378",
+  "din": "02388235",
+  "brand_name": "PAROXETINE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "27-MAY-2016",
+  "active_ingredients": [
+    {
+      "name": "PAROXETINE (PAROXETINE HYDROCHLORIDE ACETONE SOLVATE)",
+      "strength": "20",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "SIVEM PHARMACEUTICALS ULC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "PAROXETINE"
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "drug_code": "81605",
+  "din": "02330318",
+  "brand_name": "COPPERTONE OIL FREE CONTINUOUS SPRAY SPF 50 SUNSCREEN",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "25-AUG-2017",
+  "active_ingredients": [
+    {
+      "name": "AVOBENZONE",
+      "strength": "3",
+      "unit": "%"
+    },
+    {
+      "name": "OXYBENZONE",
+      "strength": "6",
+      "unit": "%"
+    },
+    {
+      "name": "OCTISALATE",
+      "strength": "5",
+      "unit": "%"
+    },
+    {
+      "name": "HOMOSALATE",
+      "strength": "15",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "SPRAY, BAG-ON-VALVE"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "BAYER INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "COMBINATIONS OF PROTECTIVES AGAINST UV-RADIATION"
+  ]
+}

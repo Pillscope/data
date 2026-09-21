@@ -1,0 +1,29 @@
+{
+  "drug_code": "84057",
+  "din": "02355329",
+  "brand_name": "EPINEPHRINE INJECTION 1MG/ML",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "04-APR-2016",
+  "active_ingredients": [
+    {
+      "name": "EPINEPHRINE",
+      "strength": "1",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "INTRACARDIAC",
+    "INTRAMUSCULAR",
+    "INTRAVENOUS",
+    "SUBCUTANEOUS"
+  ],
+  "companies": [
+    "LABITALY PHARMACEUTICALS INC"
+  ],
+  "status": "APPROVED",
+  "atc": []
+}

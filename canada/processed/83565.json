@@ -1,0 +1,28 @@
+{
+  "drug_code": "83565",
+  "din": "02350440",
+  "brand_name": "DOMPERIDONE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "05-MAY-2015",
+  "active_ingredients": [
+    {
+      "name": "DOMPERIDONE (DOMPERIDONE MALEATE)",
+      "strength": "10",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "SANIS HEALTH INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "DOMPERIDONE"
+  ]
+}

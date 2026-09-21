@@ -1,0 +1,33 @@
+{
+  "drug_code": "4389",
+  "din": "00505773",
+  "brand_name": "ANUSOL-HC OINTMENT",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "03-MAR-2017",
+  "active_ingredients": [
+    {
+      "name": "HYDROCORTISONE ACETATE",
+      "strength": "0.5",
+      "unit": "%"
+    },
+    {
+      "name": "ZINC SULFATE",
+      "strength": "0.5",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "OINTMENT"
+  ],
+  "routes": [
+    "RECTAL"
+  ],
+  "companies": [
+    "CHURCH & DWIGHT CANADA CORP"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "HYDROCORTISONE"
+  ]
+}

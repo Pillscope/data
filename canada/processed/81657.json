@@ -1,0 +1,43 @@
+{
+  "drug_code": "81657",
+  "din": "02330822",
+  "brand_name": "DAYTIME COLD MEDICATION LIQUID FASTGELS",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "05-JUN-2017",
+  "active_ingredients": [
+    {
+      "name": "GUAIFENESIN",
+      "strength": "100",
+      "unit": "MG"
+    },
+    {
+      "name": "PSEUDOEPHEDRINE HYDROCHLORIDE",
+      "strength": "30",
+      "unit": "MG"
+    },
+    {
+      "name": "ACETAMINOPHEN",
+      "strength": "250",
+      "unit": "MG"
+    },
+    {
+      "name": "DEXTROMETHORPHAN HYDROBROMIDE",
+      "strength": "10",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "CAPSULE"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "VITA HEALTH PRODUCTS INC"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "ACETAMINOPHEN, COMB EXCL PSYCHOLEPTICS"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "drug_code": "67341",
+  "din": "02243432",
+  "brand_name": "MYLAN-NAPROXEN EC",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "19-MAY-2010",
+  "active_ingredients": [
+    {
+      "name": "NAPROXEN",
+      "strength": "375",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET (ENTERIC-COATED)"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "MYLAN PHARMACEUTICALS ULC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "NAPROXEN"
+  ]
+}

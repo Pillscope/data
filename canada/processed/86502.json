@@ -1,0 +1,28 @@
+{
+  "drug_code": "86502",
+  "din": "02379139",
+  "brand_name": "MYLAN-CANDESARTAN",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "12-MAR-2012",
+  "active_ingredients": [
+    {
+      "name": "CANDESARTAN CILEXETIL",
+      "strength": "8",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "MYLAN PHARMACEUTICALS ULC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "CANDESARTAN"
+  ]
+}

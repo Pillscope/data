@@ -1,0 +1,29 @@
+{
+  "drug_code": "16274",
+  "din": "02046210",
+  "brand_name": "LUTREPULSE PWS 0.8MG/VIAL",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "22-NOV-2005",
+  "active_ingredients": [
+    {
+      "name": "GONADORELIN ACETATE",
+      "strength": "0.8",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "POWDER FOR SOLUTION"
+  ],
+  "routes": [
+    "INTRAVENOUS",
+    "SUBCUTANEOUS"
+  ],
+  "companies": [
+    "FERRING INC"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "GONADORELIN"
+  ]
+}

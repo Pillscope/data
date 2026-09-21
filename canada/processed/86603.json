@@ -1,0 +1,28 @@
+{
+  "drug_code": "86603",
+  "din": "02380218",
+  "brand_name": "JAMP-METFORMIN",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "29-NOV-2017",
+  "active_ingredients": [
+    {
+      "name": "METFORMIN HYDROCHLORIDE",
+      "strength": "850",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "JAMP PHARMA CORPORATION"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "METFORMIN"
+  ]
+}

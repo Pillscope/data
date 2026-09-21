@@ -1,0 +1,28 @@
+{
+  "drug_code": "91311",
+  "din": "02428660",
+  "brand_name": "EXTRA MOISTURIZING NASAL SPRAY",
+  "class": "Human",
+  "descriptor": "SOLUTION",
+  "last_update": "05-APR-2017",
+  "active_ingredients": [
+    {
+      "name": "OXYMETAZOLINE HYDROCHLORIDE",
+      "strength": "0.05",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "SPRAY, METERED DOSE"
+  ],
+  "routes": [
+    "NASAL"
+  ],
+  "companies": [
+    "TEVA CANADA LIMITED"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "OXYMETAZOLINE"
+  ]
+}

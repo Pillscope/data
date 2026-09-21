@@ -1,0 +1,28 @@
+{
+  "drug_code": "77963",
+  "din": "02294273",
+  "brand_name": "PMS-TERBINAFINE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "25-OCT-2010",
+  "active_ingredients": [
+    {
+      "name": "TERBINAFINE (TERBINAFINE HYDROCHLORIDE)",
+      "strength": "250",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "PHARMASCIENCE INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "TERBINAFINE"
+  ]
+}

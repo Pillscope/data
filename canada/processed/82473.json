@@ -1,0 +1,28 @@
+{
+  "drug_code": "82473",
+  "din": "02339102",
+  "brand_name": "APO-ESOMEPRAZOLE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "18-DEC-2012",
+  "active_ingredients": [
+    {
+      "name": "ESOMEPRAZOLE (ESOMEPRAZOLE MAGNESIUM)",
+      "strength": "40",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET (DELAYED-RELEASE)"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "APOTEX INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "ESOMEPRAZOLE"
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "drug_code": "94412",
+  "din": "02457008",
+  "brand_name": "GENTAMICIN INJECTION USP",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "26-JAN-2017",
+  "active_ingredients": [
+    {
+      "name": "GENTAMICIN (GENTAMICIN SULFATE)",
+      "strength": "40",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "INTRAMUSCULAR",
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "TELIGENT OU"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "GENTAMICIN"
+  ]
+}

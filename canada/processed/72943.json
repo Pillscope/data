@@ -1,0 +1,28 @@
+{
+  "drug_code": "72943",
+  "din": "02248588",
+  "brand_name": "INFACOL",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "31-OCT-2014",
+  "active_ingredients": [
+    {
+      "name": "SIMETHICONE",
+      "strength": "40",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SUSPENSION"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "FOREST LABORATORIES UK LTD"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "SILICONES"
+  ]
+}

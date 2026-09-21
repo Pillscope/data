@@ -1,0 +1,43 @@
+{
+  "drug_code": "64887",
+  "din": "02241277",
+  "brand_name": "OMBRELLE - LOTION EXTREME SPF 30",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "31-JUL-2012",
+  "active_ingredients": [
+    {
+      "name": "AVOBENZONE",
+      "strength": "3.0",
+      "unit": "%"
+    },
+    {
+      "name": "TITANIUM DIOXIDE",
+      "strength": "2.2",
+      "unit": "%"
+    },
+    {
+      "name": "TEREPHTHALYLIDENE DICAMPHOR SULFONIC ACID",
+      "strength": "1.0",
+      "unit": "%"
+    },
+    {
+      "name": "OCTOCRYLENE",
+      "strength": "10",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "LOTION"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "OMBRELLE CANADA"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "COMBINATIONS OF PROTECTIVES AGAINST UV-RADIATION"
+  ]
+}

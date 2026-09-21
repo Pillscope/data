@@ -1,0 +1,28 @@
+{
+  "drug_code": "74335",
+  "din": "02258110",
+  "brand_name": "ACT ALENDRONATE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "06-JUL-2016",
+  "active_ingredients": [
+    {
+      "name": "ALENDRONIC ACID (ALENDRONATE SODIUM TRIHYDRATE)",
+      "strength": "70",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "ACTAVIS PHARMA COMPANY"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "ALENDRONIC ACID"
+  ]
+}

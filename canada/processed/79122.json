@@ -1,0 +1,39 @@
+{
+  "drug_code": "79122",
+  "din": "02305666",
+  "brand_name": "BENYLIN FOR CHILDREN ALL-IN-ONE COLD & FEVER NIGHTIME",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "21-JAN-2011",
+  "active_ingredients": [
+    {
+      "name": "ACETAMINOPHEN",
+      "strength": "160",
+      "unit": "MG"
+    },
+    {
+      "name": "DIPHENHYDRAMINE HYDROCHLORIDE",
+      "strength": "6.25",
+      "unit": "MG"
+    },
+    {
+      "name": "DEXTROMETHORPHAN HYDROBROMIDE",
+      "strength": "5",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SUSPENSION"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "MCNEIL CONSUMER HEALTHCARE DIVISION OF JOHNSON & JOHNSON INC"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "ACETAMINOPHEN, COMB EXCL PSYCHOLEPTICS",
+    "ACETAMINOPHEN, COMB EXCL PSYCHOLEPTICS"
+  ]
+}

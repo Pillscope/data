@@ -1,0 +1,33 @@
+{
+  "drug_code": "90273",
+  "din": "02418150",
+  "brand_name": "BURN RELIEF GEL",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "19-JAN-2017",
+  "active_ingredients": [
+    {
+      "name": "LIDOCAINE",
+      "strength": "0.7",
+      "unit": "%"
+    },
+    {
+      "name": "MENTHOL",
+      "strength": "0.2",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "GEL"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "EDGEWELL PERSONAL CARE CANADA, ULC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "LIDOCAINE, COMBINATIONS"
+  ]
+}

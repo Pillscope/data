@@ -1,0 +1,28 @@
+{
+  "drug_code": "94350",
+  "din": "02456532",
+  "brand_name": "BEPREVE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "05-APR-2017",
+  "active_ingredients": [
+    {
+      "name": "BEPOTASTINE BESILATE",
+      "strength": "1.5",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "OPHTHALMIC"
+  ],
+  "companies": [
+    "BAUSCH & LOMB INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "OPHTHALMOLOGICALS"
+  ]
+}

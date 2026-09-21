@@ -1,0 +1,28 @@
+{
+  "drug_code": "37356",
+  "din": "02224550",
+  "brand_name": "DIABETA",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "15-OCT-2008",
+  "active_ingredients": [
+    {
+      "name": "GLYBURIDE",
+      "strength": "2.5",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "SANOFI-AVENTIS CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "GLIBENCLAMIDE"
+  ]
+}

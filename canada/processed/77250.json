@@ -1,0 +1,28 @@
+{
+  "drug_code": "77250",
+  "din": "02287072",
+  "brand_name": "GLICLAZIDE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "05-MAY-2015",
+  "active_ingredients": [
+    {
+      "name": "GLICLAZIDE",
+      "strength": "80",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "SANIS HEALTH INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "GLICLAZIDE"
+  ]
+}

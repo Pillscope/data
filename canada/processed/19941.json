@@ -1,0 +1,28 @@
+{
+  "drug_code": "19941",
+  "din": "02164426",
+  "brand_name": "ACEBUTOLOL - 400 - TAB 400MG",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "03-MAR-2006",
+  "active_ingredients": [
+    {
+      "name": "ACEBUTOLOL (ACEBUTOLOL HYDROCHLORIDE)",
+      "strength": "400",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "PRO DOC LIMITEE"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "ACEBUTOLOL"
+  ]
+}

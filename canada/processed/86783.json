@@ -1,0 +1,28 @@
+{
+  "drug_code": "86783",
+  "din": "02381966",
+  "brand_name": "VORICONAZOLE FOR INJECTION",
+  "class": "Human",
+  "descriptor": "SINGLE DOSE VIAL. 10MG/ML AFTER RECONSTITUTION",
+  "last_update": "14-MAY-2014",
+  "active_ingredients": [
+    {
+      "name": "VORICONAZOLE",
+      "strength": "200",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "POWDER FOR SOLUTION"
+  ],
+  "routes": [
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "SANDOZ CANADA INCORPORATED"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "VORICONAZOLE"
+  ]
+}

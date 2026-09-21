@@ -1,0 +1,28 @@
+{
+  "drug_code": "90057",
+  "din": "02415976",
+  "brand_name": "REPAGLINIDE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "16-DEC-2016",
+  "active_ingredients": [
+    {
+      "name": "REPAGLINIDE",
+      "strength": "1",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "PRO DOC LIMITEE"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "REPAGLINIDE"
+  ]
+}

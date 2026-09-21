@@ -1,0 +1,28 @@
+{
+  "drug_code": "93060",
+  "din": "02445395",
+  "brand_name": "PRIVA-PRAVASTATIN",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "16-JAN-2018",
+  "active_ingredients": [
+    {
+      "name": "PRAVASTATIN SODIUM",
+      "strength": "20",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "PHARMAPAR INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "PRAVASTATIN"
+  ]
+}

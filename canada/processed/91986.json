@@ -1,0 +1,31 @@
+{
+  "drug_code": "91986",
+  "din": "02435519",
+  "brand_name": "LC-PROTECT 1",
+  "class": "Veterinary",
+  "descriptor": "TEAT DIP",
+  "last_update": "27-JUL-2016",
+  "active_ingredients": [
+    {
+      "name": "IODINE (NONYL PHENOXY POLYOXYETHYLENE ETHANOL-IODINE COMPLEX)",
+      "strength": "1.0",
+      "unit": "%"
+    },
+    {
+      "name": "GLYCERINE",
+      "strength": "5.1",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "LIBERCHEM INC"
+  ],
+  "status": "APPROVED",
+  "atc": []
+}

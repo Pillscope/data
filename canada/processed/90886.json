@@ -1,0 +1,26 @@
+{
+  "drug_code": "90886",
+  "din": "02424150",
+  "brand_name": "OVUGEL",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "02-FEB-2018",
+  "active_ingredients": [
+    {
+      "name": "TRIPTORELIN (Triptorelin Acetate)",
+      "strength": "100",
+      "unit": "MCG"
+    }
+  ],
+  "forms": [
+    "GEL"
+  ],
+  "routes": [
+    "VAGINAL"
+  ],
+  "companies": [
+    "UNITED-AH II LLC"
+  ],
+  "status": "APPROVED",
+  "atc": []
+}

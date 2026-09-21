@@ -1,0 +1,28 @@
+{
+  "drug_code": "61016",
+  "din": "02237671",
+  "brand_name": "NEORAL 10MG",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "16-MAR-2017",
+  "active_ingredients": [
+    {
+      "name": "CYCLOSPORINE",
+      "strength": "10",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "CAPSULE"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "NOVARTIS PHARMACEUTICALS CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "CICLOSPORIN"
+  ]
+}

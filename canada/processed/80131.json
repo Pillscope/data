@@ -1,0 +1,33 @@
+{
+  "drug_code": "80131",
+  "din": "02315793",
+  "brand_name": "BAZA PROTECT II",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "08-MAR-2017",
+  "active_ingredients": [
+    {
+      "name": "ZINC OXIDE",
+      "strength": "12",
+      "unit": "%"
+    },
+    {
+      "name": "DIMETHICONE",
+      "strength": "1",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "CREAM"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "COLOPLAST A/S"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "ZINC PRODUCTS"
+  ]
+}

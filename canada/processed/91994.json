@@ -1,0 +1,28 @@
+{
+  "drug_code": "91994",
+  "din": "02435608",
+  "brand_name": "JAMP-TOPIRAMATE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "20-JAN-2017",
+  "active_ingredients": [
+    {
+      "name": "TOPIRAMATE",
+      "strength": "25",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "JAMP PHARMA CORPORATION"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "TOPIRAMATE"
+  ]
+}

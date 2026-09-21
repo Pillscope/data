@@ -1,0 +1,43 @@
+{
+  "drug_code": "72560",
+  "din": "02248224",
+  "brand_name": "MANORAPID SYNERGY",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "10-JUL-2012",
+  "active_ingredients": [
+    {
+      "name": "ALCOHOL ANHYDROUS",
+      "strength": "54.1",
+      "unit": "%"
+    },
+    {
+      "name": "PROPYL ALCOHOL",
+      "strength": "10.0",
+      "unit": "%"
+    },
+    {
+      "name": "PROPYLENE GLYCOL",
+      "strength": "5.9",
+      "unit": "%"
+    },
+    {
+      "name": "BUTANEDIOL",
+      "strength": "5.7",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "TOPICAL (HOSPITAL/HC FACILITIES)"
+  ],
+  "companies": [
+    "REMINGTON MEDICAL EQUIPMENT LTD."
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "ETHANOL, COMBINATIONS"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "drug_code": "88392",
+  "din": "02399016",
+  "brand_name": "BYSTOLIC",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "15-APR-2013",
+  "active_ingredients": [
+    {
+      "name": "Nebivolol (Nebivolol Hydrochloride)",
+      "strength": "10.0",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "FOREST LABORATORIES CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "NEBIVOLOL"
+  ]
+}

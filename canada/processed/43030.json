@@ -1,0 +1,27 @@
+{
+  "drug_code": "43030",
+  "din": "02208210",
+  "brand_name": "OXYMYCINE LP",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "11-DEC-2017",
+  "active_ingredients": [
+    {
+      "name": "OXYTETRACYCLINE HYDROCHLORIDE",
+      "strength": "100",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "INTRAMUSCULAR",
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "ZOETIS CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": []
+}

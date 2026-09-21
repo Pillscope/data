@@ -1,0 +1,28 @@
+{
+  "drug_code": "93911",
+  "din": "02452707",
+  "brand_name": "APO-CINACALCET",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "30-MAY-2016",
+  "active_ingredients": [
+    {
+      "name": "CINACALCET (CINACALCET HYDROCHLORIDE)",
+      "strength": "60",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "APOTEX INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "CINACALCET"
+  ]
+}

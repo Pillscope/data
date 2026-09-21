@@ -1,0 +1,28 @@
+{
+  "drug_code": "71740",
+  "din": "02247490",
+  "brand_name": "PMS-DIAZEPAM",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "05-MAY-2015",
+  "active_ingredients": [
+    {
+      "name": "DIAZEPAM",
+      "strength": "2",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "PHARMASCIENCE INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "DIAZEPAM"
+  ]
+}

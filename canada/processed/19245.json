@@ -1,0 +1,28 @@
+{
+  "drug_code": "19245",
+  "din": "02163705",
+  "brand_name": "ATROVENT NASAL SPRAY",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "30-APR-2018",
+  "active_ingredients": [
+    {
+      "name": "IPRATROPIUM BROMIDE",
+      "strength": "21",
+      "unit": "MCG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "NASAL"
+  ],
+  "companies": [
+    "SANOFI-AVENTIS CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "IPRATROPIUM BROMIDE"
+  ]
+}

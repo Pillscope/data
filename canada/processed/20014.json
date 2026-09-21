@@ -1,0 +1,28 @@
+{
+  "drug_code": "20014",
+  "din": "02216248",
+  "brand_name": "DESIPRAMINE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "20-MAR-2013",
+  "active_ingredients": [
+    {
+      "name": "DESIPRAMINE (DESIPRAMINE HYDROCHLORIDE)",
+      "strength": "10",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "AA PHARMA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "DESIPRAMINE"
+  ]
+}

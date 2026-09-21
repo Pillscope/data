@@ -1,0 +1,39 @@
+{
+  "drug_code": "55837",
+  "din": "02234466",
+  "brand_name": "PROCTODAN-HC OINTMENT",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "09-JAN-2015",
+  "active_ingredients": [
+    {
+      "name": "HYDROCORTISONE ACETATE",
+      "strength": "0.5",
+      "unit": "%"
+    },
+    {
+      "name": "PRAMOXINE HYDROCHLORIDE",
+      "strength": "1",
+      "unit": "%"
+    },
+    {
+      "name": "ZINC SULFATE",
+      "strength": "0.5",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "OINTMENT"
+  ],
+  "routes": [
+    "RECTAL",
+    "TOPICAL"
+  ],
+  "companies": [
+    "ODAN LABORATORIES LTD"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "HYDROCORTISONE"
+  ]
+}

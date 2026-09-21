@@ -1,0 +1,28 @@
+{
+  "drug_code": "19313",
+  "din": "02162717",
+  "brand_name": "ANAPROX DS",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "27-JUN-2016",
+  "active_ingredients": [
+    {
+      "name": "NAPROXEN SODIUM",
+      "strength": "550",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "ATNAHS PHARMA UK LIMITED"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "NAPROXEN"
+  ]
+}

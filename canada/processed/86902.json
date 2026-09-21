@@ -1,0 +1,28 @@
+{
+  "drug_code": "86902",
+  "din": "02383268",
+  "brand_name": "ZZZQUIL",
+  "class": "Human",
+  "descriptor": "LIQUID CAPSULES",
+  "last_update": "06-FEB-2014",
+  "active_ingredients": [
+    {
+      "name": "DIPHENHYDRAMINE HYDROCHLORIDE",
+      "strength": "25",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "CAPSULE"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "PROCTER & GAMBLE INC"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "DIPHENHYDRAMINE"
+  ]
+}

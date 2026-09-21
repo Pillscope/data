@@ -1,0 +1,28 @@
+{
+  "drug_code": "85454",
+  "din": "02369613",
+  "brand_name": "BANZEL",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "30-MAY-2013",
+  "active_ingredients": [
+    {
+      "name": "RUFINAMIDE",
+      "strength": "100",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "EISAI LIMITED"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "RUFINAMIDE"
+  ]
+}

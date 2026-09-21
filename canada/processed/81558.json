@@ -1,0 +1,28 @@
+{
+  "drug_code": "81558",
+  "din": "02329840",
+  "brand_name": "CAYSTON",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "05-MAY-2015",
+  "active_ingredients": [
+    {
+      "name": "AZTREONAM",
+      "strength": "75",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "POWDER FOR SOLUTION"
+  ],
+  "routes": [
+    "INHALATION"
+  ],
+  "companies": [
+    "GILEAD SCIENCES CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "AZTREONAM"
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "drug_code": "15606",
+  "din": "00878618",
+  "brand_name": "HYDROCORTISONE SODIUM SUCCINATE FOR INJECTION",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "29-APR-2015",
+  "active_ingredients": [
+    {
+      "name": "HYDROCORTISONE (HYDROCORTISONE SODIUM SUCCINATE)",
+      "strength": "500",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "POWDER FOR SOLUTION"
+  ],
+  "routes": [
+    "INTRAMUSCULAR",
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "TEVA CANADA LIMITED"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "HYDROCORTISONE"
+  ]
+}

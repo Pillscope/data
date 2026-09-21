@@ -1,0 +1,56 @@
+{
+  "drug_code": "2842",
+  "din": "00391034",
+  "brand_name": "THREE IN ONE",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "29-APR-2015",
+  "active_ingredients": [
+    {
+      "name": "OIL OF HEMLOCK CANADIAN",
+      "strength": "5",
+      "unit": "MG"
+    },
+    {
+      "name": "CAMPHOR",
+      "strength": "25",
+      "unit": "MG"
+    },
+    {
+      "name": "THYMOL",
+      "strength": "5",
+      "unit": "MG"
+    },
+    {
+      "name": "OIL OF TURPENTINE",
+      "strength": "125",
+      "unit": "MG"
+    },
+    {
+      "name": "CAPSICUM OLEORESIN",
+      "strength": "0.05",
+      "unit": "MG"
+    },
+    {
+      "name": "MENTHOL",
+      "strength": "20",
+      "unit": "MG"
+    },
+    {
+      "name": "METHYL SALICYLATE",
+      "strength": "50",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "LIQUID"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "DOMINION VETERINARY LABORATORIES LTD."
+  ],
+  "status": "APPROVED",
+  "atc": []
+}

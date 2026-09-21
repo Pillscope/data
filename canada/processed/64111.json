@@ -1,0 +1,33 @@
+{
+  "drug_code": "64111",
+  "din": "02240541",
+  "brand_name": "SEBAMED DIAPER RASH CREAM",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "23-MAR-2001",
+  "active_ingredients": [
+    {
+      "name": "PETROLATUM",
+      "strength": "10.00",
+      "unit": "%"
+    },
+    {
+      "name": "MINERAL OIL",
+      "strength": "7.00",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "CREAM"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "LOFCO CANADA INC."
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "SOFT PARAFFIN AND FAT PRODUCTS"
+  ]
+}

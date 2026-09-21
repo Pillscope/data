@@ -1,0 +1,26 @@
+{
+  "drug_code": "11817",
+  "din": "00844977",
+  "brand_name": "TORBUTROL",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "04-MAY-2017",
+  "active_ingredients": [
+    {
+      "name": "BUTORPHANOL (BUTORPHANOL TARTRATE)",
+      "strength": "1",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "ZOETIS CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": []
+}

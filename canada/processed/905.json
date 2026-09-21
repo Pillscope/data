@@ -1,0 +1,26 @@
+{
+  "drug_code": "905",
+  "din": "00097284",
+  "brand_name": "SODIUM ARSANILATE SOLUTION 35GR",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "09-MAY-2016",
+  "active_ingredients": [
+    {
+      "name": "SODIUM ARSANILATE",
+      "strength": "2.275",
+      "unit": "G"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "DOMINION VETERINARY LABORATORIES LTD."
+  ],
+  "status": "MARKETED",
+  "atc": []
+}

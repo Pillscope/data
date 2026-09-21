@@ -1,0 +1,28 @@
+{
+  "drug_code": "36346",
+  "din": "02202352",
+  "brand_name": "RIVASA 80MG CROQUABLE - TAB",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "08-OCT-2010",
+  "active_ingredients": [
+    {
+      "name": "ACETYLSALICYLIC ACID",
+      "strength": "80",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET (CHEWABLE)"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "LABORATOIRE RIVA INC"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "ACETYLSALICYLIC ACID"
+  ]
+}

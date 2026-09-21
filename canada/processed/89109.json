@@ -1,0 +1,28 @@
+{
+  "drug_code": "89109",
+  "din": "02406373",
+  "brand_name": "APO-MOXIFLOXACIN",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "20-NOV-2015",
+  "active_ingredients": [
+    {
+      "name": "MOXIFLOXACIN (MOXIFLOXACIN HYDROCHLORIDE)",
+      "strength": "0.5",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "OPHTHALMIC"
+  ],
+  "companies": [
+    "APOTEX INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "MOXIFLOXACIN"
+  ]
+}

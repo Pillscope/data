@@ -1,0 +1,28 @@
+{
+  "drug_code": "75964",
+  "din": "02274183",
+  "brand_name": "ACT LEVETIRACETAM",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "05-MAY-2015",
+  "active_ingredients": [
+    {
+      "name": "LEVETIRACETAM",
+      "strength": "250",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "ACTAVIS PHARMA COMPANY"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "LEVETIRACETAM"
+  ]
+}

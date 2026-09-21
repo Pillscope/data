@@ -1,0 +1,28 @@
+{
+  "drug_code": "68830",
+  "din": "02244840",
+  "brand_name": "PMS-SERTRALINE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "31-MAR-2006",
+  "active_ingredients": [
+    {
+      "name": "SERTRALINE (SERTRALINE HYDROCHLORIDE)",
+      "strength": "100",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "CAPSULE"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "PHARMASCIENCE INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "SERTRALINE"
+  ]
+}

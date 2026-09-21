@@ -1,0 +1,28 @@
+{
+  "drug_code": "94594",
+  "din": "02458799",
+  "brand_name": "CCP-ANASTROZOLE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "23-AUG-2017",
+  "active_ingredients": [
+    {
+      "name": "ANASTROZOLE",
+      "strength": "1",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "CELLCHEM PHARMACEUTICALS INC."
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "ANASTROZOLE"
+  ]
+}

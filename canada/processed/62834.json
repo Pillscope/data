@@ -1,0 +1,28 @@
+{
+  "drug_code": "62834",
+  "din": "02239365",
+  "brand_name": "RATIO-SALBUTAMOL",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "05-MAY-2015",
+  "active_ingredients": [
+    {
+      "name": "SALBUTAMOL (SALBUTAMOL SULFATE)",
+      "strength": "0.5",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "INHALATION"
+  ],
+  "companies": [
+    "TEVA CANADA LIMITED"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "SALBUTAMOL"
+  ]
+}

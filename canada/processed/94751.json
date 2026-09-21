@@ -1,0 +1,28 @@
+{
+  "drug_code": "94751",
+  "din": "02460211",
+  "brand_name": "EURO-ERYTHROMYCIN OPHTHALMIC OINTMENT USP",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "28-FEB-2018",
+  "active_ingredients": [
+    {
+      "name": "ERYTHROMYCIN",
+      "strength": "5",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "OINTMENT"
+  ],
+  "routes": [
+    "OPHTHALMIC"
+  ],
+  "companies": [
+    "EURO-PHARM INTERNATIONAL CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "ERYTHROMYCIN"
+  ]
+}

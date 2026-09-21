@@ -1,0 +1,28 @@
+{
+  "drug_code": "67776",
+  "din": "02243835",
+  "brand_name": "ARGATROBAN",
+  "class": "Human",
+  "descriptor": "SINGLE-DOSE VIAL",
+  "last_update": "30-MAY-2017",
+  "active_ingredients": [
+    {
+      "name": "ARGATROBAN",
+      "strength": "100",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "NOVARTIS PHARMACEUTICALS CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "ARGATROBAN"
+  ]
+}

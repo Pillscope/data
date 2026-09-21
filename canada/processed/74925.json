@@ -1,0 +1,33 @@
+{
+  "drug_code": "74925",
+  "din": "02263866",
+  "brand_name": "ACT ETIDROCAL",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "03-JUN-2015",
+  "active_ingredients": [
+    {
+      "name": "ETIDRONATE DISODIUM",
+      "strength": "400",
+      "unit": "MG"
+    },
+    {
+      "name": "CALCIUM (CALCIUM CARBONATE)",
+      "strength": "500",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "ACTAVIS PHARMA COMPANY"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "ETIDRONIC ACID AND CALCIUM, SEQUENTIAL"
+  ]
+}

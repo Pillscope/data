@@ -1,0 +1,28 @@
+{
+  "drug_code": "78388",
+  "din": "02298589",
+  "brand_name": "AVAMYS",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "29-MAY-2009",
+  "active_ingredients": [
+    {
+      "name": "FLUTICASONE FUROATE",
+      "strength": "27.5",
+      "unit": "MCG"
+    }
+  ],
+  "forms": [
+    "SPRAY, METERED DOSE"
+  ],
+  "routes": [
+    "NASAL"
+  ],
+  "companies": [
+    "GLAXOSMITHKLINE INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "FLUTICASONE FUROATE"
+  ]
+}

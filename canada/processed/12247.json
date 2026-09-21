@@ -1,0 +1,33 @@
+{
+  "drug_code": "12247",
+  "din": "01910604",
+  "brand_name": "G-NOL DISINFECTANT SOL",
+  "class": "Disinfectant",
+  "descriptor": "",
+  "last_update": "22-OCT-2009",
+  "active_ingredients": [
+    {
+      "name": "CLOROPHENE",
+      "strength": "1",
+      "unit": "%"
+    },
+    {
+      "name": "O-PHENYLPHENOL",
+      "strength": "9",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "LIQUID"
+  ],
+  "routes": [
+    "DISINFECTANT (Medical Instruments)"
+  ],
+  "companies": [
+    "GERMIPHENE CORPORATION"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "TECHNICAL DISINFECTANTS"
+  ]
+}

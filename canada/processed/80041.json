@@ -1,0 +1,29 @@
+{
+  "drug_code": "80041",
+  "din": "02314886",
+  "brand_name": "PCS 7500 OXIDIZING DISINFECTANT/DISINFECTANT CLEANER",
+  "class": "Disinfectant",
+  "descriptor": "",
+  "last_update": "15-OCT-2009",
+  "active_ingredients": [
+    {
+      "name": "SODIUM HYPOCHLORITE",
+      "strength": "0.75",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "LIQUID"
+  ],
+  "routes": [
+    "DISINFECTANT (Hospital/HC Facilities)",
+    "DISINFECTANT (Institutional/Industrial)"
+  ],
+  "companies": [
+    "PROCESS CLEANING SOLUTIONS LTD"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "TECHNICAL DISINFECTANTS"
+  ]
+}

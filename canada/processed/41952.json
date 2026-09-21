@@ -1,0 +1,34 @@
+{
+  "drug_code": "41952",
+  "din": "01929313",
+  "brand_name": "DRISTAN NASAL MIST",
+  "class": "Human",
+  "descriptor": "SOLUTION",
+  "last_update": "24-SEP-2012",
+  "active_ingredients": [
+    {
+      "name": "PHENIRAMINE MALEATE",
+      "strength": "0.20",
+      "unit": "%"
+    },
+    {
+      "name": "PHENYLEPHRINE HYDROCHLORIDE",
+      "strength": "0.50",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "SPRAY"
+  ],
+  "routes": [
+    "NASAL"
+  ],
+  "companies": [
+    "PFIZER CONSUMER HEALTHCARE A DIVISION OF PFIZER CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "PHENYLEPHRINE",
+    "PHENYLEPHRINE"
+  ]
+}

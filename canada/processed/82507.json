@@ -1,0 +1,28 @@
+{
+  "drug_code": "82507",
+  "din": "02339455",
+  "brand_name": "MYLAN-GALANTAMINE ER",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "05-MAY-2015",
+  "active_ingredients": [
+    {
+      "name": "GALANTAMINE (GALANTAMINE HYDROBROMIDE)",
+      "strength": "24",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "CAPSULE (EXTENDED RELEASE)"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "MYLAN PHARMACEUTICALS ULC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "GALANTAMINE"
+  ]
+}

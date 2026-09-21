@@ -1,0 +1,28 @@
+{
+  "drug_code": "92528",
+  "din": "02440911",
+  "brand_name": "HEAD & SHOULDERS NOURISHING HAIR & SCALP CARE CONDITIONER",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "08-JAN-2016",
+  "active_ingredients": [
+    {
+      "name": "PYRITHIONE ZINC",
+      "strength": "0.5",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "SHAMPOO"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "PROCTER & GAMBLE INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "PYRITHIONE ZINC"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "drug_code": "89435",
+  "din": "02409674",
+  "brand_name": "APO-VORICONAZOLE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "16-MAY-2014",
+  "active_ingredients": [
+    {
+      "name": "VORICONAZOLE",
+      "strength": "50",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "APOTEX INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "VORICONAZOLE"
+  ]
+}

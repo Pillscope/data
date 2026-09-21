@@ -1,0 +1,28 @@
+{
+  "drug_code": "77636",
+  "din": "02290960",
+  "brand_name": "MABCAMPATH",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "25-JAN-2010",
+  "active_ingredients": [
+    {
+      "name": "ALEMTUZUMAB",
+      "strength": "30",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "SANOFI GENZYME, A DIVISION OF SANOFI-AVENTIS CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "ALEMTUZUMAB"
+  ]
+}

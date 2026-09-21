@@ -1,0 +1,33 @@
+{
+  "drug_code": "69061",
+  "din": "02245057",
+  "brand_name": "NEISVAC-C",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "24-DEC-2015",
+  "active_ingredients": [
+    {
+      "name": "MENINGOCOCCAL POLYSACCHARIDE VACCINE GRP C",
+      "strength": "10",
+      "unit": "MCG"
+    },
+    {
+      "name": "TETANUS TOXOID",
+      "strength": "20",
+      "unit": "MCG"
+    }
+  ],
+  "forms": [
+    "SUSPENSION"
+  ],
+  "routes": [
+    "INTRAMUSCULAR"
+  ],
+  "companies": [
+    "PFIZER CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "MENINGOCOCCUS C, PURIFIED POLYSACCHARIDES ANTIGEN CONJUGATED"
+  ]
+}

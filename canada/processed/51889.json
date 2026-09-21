@@ -1,0 +1,33 @@
+{
+  "drug_code": "51889",
+  "din": "02232453",
+  "brand_name": "SANI RINSE",
+  "class": "Disinfectant",
+  "descriptor": "",
+  "last_update": "03-FEB-2009",
+  "active_ingredients": [
+    {
+      "name": "BENZALKONIUM CHLORIDE",
+      "strength": "6.25",
+      "unit": "%"
+    },
+    {
+      "name": "ALKYL DIMETHYL ETHYLBENZYL AMMONIUM CHLORIDE",
+      "strength": "6.25",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "LIQUID"
+  ],
+  "routes": [
+    "DISINFECTANT (Food Premises)"
+  ],
+  "companies": [
+    "C.P. INDUSTRIES LTD"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "TECHNICAL DISINFECTANTS"
+  ]
+}

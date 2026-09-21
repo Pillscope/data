@@ -1,0 +1,28 @@
+{
+  "drug_code": "44076",
+  "din": "02161753",
+  "brand_name": "TEVA-CIPROFLOXACIN",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "24-AUG-2015",
+  "active_ingredients": [
+    {
+      "name": "CIPROFLOXACIN (CIPROFLOXACIN HYDROCHLORIDE)",
+      "strength": "750",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "TEVA CANADA LIMITED"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "CIPROFLOXACIN"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "drug_code": "78035",
+  "din": "02295024",
+  "brand_name": "APO-ESCITALOPRAM",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "10-DEC-2014",
+  "active_ingredients": [
+    {
+      "name": "ESCITALOPRAM (ESCITALOPRAM OXALATE)",
+      "strength": "20",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "APOTEX INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "ESCITALOPRAM"
+  ]
+}

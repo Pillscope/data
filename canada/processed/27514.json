@@ -1,0 +1,28 @@
+{
+  "drug_code": "27514",
+  "din": "02060841",
+  "brand_name": "BARRIERE CREAM 20%",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "10-JUL-2012",
+  "active_ingredients": [
+    {
+      "name": "SILICONE",
+      "strength": "20",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "CREAM"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "WELLSPRING PHARMACEUTICAL CANADA CORP"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "SILICONE PRODUCTS"
+  ]
+}

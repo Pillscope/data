@@ -1,0 +1,34 @@
+{
+  "drug_code": "85643",
+  "din": "02371251",
+  "brand_name": "APO-LOSARTAN/HCTZ",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "04-DEC-2013",
+  "active_ingredients": [
+    {
+      "name": "HYDROCHLOROTHIAZIDE",
+      "strength": "25",
+      "unit": "MG"
+    },
+    {
+      "name": "LOSARTAN POTASSIUM",
+      "strength": "100",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "APOTEX INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "LOSARTAN AND DIURETICS",
+    "LOSARTAN AND DIURETICS"
+  ]
+}

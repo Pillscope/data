@@ -1,0 +1,31 @@
+{
+  "drug_code": "92100",
+  "din": "02436671",
+  "brand_name": "PREEMPT WIPES",
+  "class": "Disinfectant",
+  "descriptor": "",
+  "last_update": "28-OCT-2015",
+  "active_ingredients": [
+    {
+      "name": "HYDROGEN PEROXIDE",
+      "strength": "0.5",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "WIPE"
+  ],
+  "routes": [
+    "DISINFECTANT (Barn)",
+    "DISINFECTANT (Food Premises)",
+    "DISINFECTANT (Hospital/HC Facilities)",
+    "DISINFECTANT (Institutional/Industrial)"
+  ],
+  "companies": [
+    "VIROX TECHNOLOGIES INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "TECHNICAL DISINFECTANTS"
+  ]
+}

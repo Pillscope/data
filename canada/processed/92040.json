@@ -1,0 +1,29 @@
+{
+  "drug_code": "92040",
+  "din": "02436078",
+  "brand_name": "BERINERT 1500",
+  "class": "Human",
+  "descriptor": "HUMAN C1 ESTERASE INHIBITOR 1200 - 1875IU. SINGLE-USE VIAL & DILUENT",
+  "last_update": "09-JUN-2015",
+  "active_ingredients": [
+    {
+      "name": "C1 Esterase Inhibitor (Human)",
+      "strength": "1500",
+      "unit": "UNIT"
+    }
+  ],
+  "forms": [
+    "KIT",
+    "POWDER FOR SOLUTION"
+  ],
+  "routes": [
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "CSL BEHRING CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "C1-INHIBITOR, plasma derived"
+  ]
+}

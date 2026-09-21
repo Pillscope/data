@@ -1,0 +1,27 @@
+{
+  "drug_code": "44143",
+  "din": "02169606",
+  "brand_name": "ROMPUN 100MG/ML INJECTABLE - IM IV",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "28-OCT-2013",
+  "active_ingredients": [
+    {
+      "name": "XYLAZINE (XYLAZINE HYDROCHLORIDE)",
+      "strength": "100",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "LIQUID"
+  ],
+  "routes": [
+    "INTRAMUSCULAR",
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "BAYER INC., ANIMAL HEALTH"
+  ],
+  "status": "MARKETED",
+  "atc": []
+}

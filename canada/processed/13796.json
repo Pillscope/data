@@ -1,0 +1,29 @@
+{
+  "drug_code": "13796",
+  "din": "02020017",
+  "brand_name": "LIVOSTIN SUS NAS 0.5MG/ML",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "19-AUG-2010",
+  "active_ingredients": [
+    {
+      "name": "LEVOCABASTINE (LEVOCABASTINE HYDROCHLORIDE)",
+      "strength": "0.5",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SUSPENSION",
+    "SPRAY"
+  ],
+  "routes": [
+    "NASAL"
+  ],
+  "companies": [
+    "JANSSEN INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "LEVOCABASTINE"
+  ]
+}

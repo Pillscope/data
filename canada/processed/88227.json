@@ -1,0 +1,28 @@
+{
+  "drug_code": "88227",
+  "din": "02397307",
+  "brand_name": "JAMP-PIOGLITAZONE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "14-JAN-2016",
+  "active_ingredients": [
+    {
+      "name": "PIOGLITAZONE (PIOGLITAZONE HYDROCHLORIDE)",
+      "strength": "15",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "JAMP PHARMA CORPORATION"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "PIOGLITAZONE"
+  ]
+}

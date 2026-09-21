@@ -1,0 +1,28 @@
+{
+  "drug_code": "73484",
+  "din": "02250020",
+  "brand_name": "ACT MELOXICAM",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "08-SEP-2017",
+  "active_ingredients": [
+    {
+      "name": "MELOXICAM",
+      "strength": "15",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "TEVA CANADA LIMITED"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "MELOXICAM"
+  ]
+}

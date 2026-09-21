@@ -1,0 +1,28 @@
+{
+  "drug_code": "50327",
+  "din": "02231047",
+  "brand_name": "CERVIDIL",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "04-MAY-2006",
+  "active_ingredients": [
+    {
+      "name": "DINOPROSTONE",
+      "strength": "10",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "INSERT"
+  ],
+  "routes": [
+    "VAGINAL"
+  ],
+  "companies": [
+    "FERRING INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "DINOPROSTONE"
+  ]
+}

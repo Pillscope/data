@@ -1,0 +1,28 @@
+{
+  "drug_code": "4591",
+  "din": "00042579",
+  "brand_name": "MAXIDEX",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "31-JUL-2017",
+  "active_ingredients": [
+    {
+      "name": "DEXAMETHASONE",
+      "strength": "0.1",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "OINTMENT"
+  ],
+  "routes": [
+    "OPHTHALMIC"
+  ],
+  "companies": [
+    "NOVARTIS PHARMACEUTICALS CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "DEXAMETHASONE"
+  ]
+}

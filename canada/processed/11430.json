@@ -1,0 +1,33 @@
+{
+  "drug_code": "11430",
+  "din": "01909169",
+  "brand_name": "MOISTUREL SENSITIVE SKIN LOTION",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "07-APR-2017",
+  "active_ingredients": [
+    {
+      "name": "DIMETHICONE",
+      "strength": "3",
+      "unit": "%"
+    },
+    {
+      "name": "PETROLATUM",
+      "strength": "6",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "LOTION"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "GLAXOSMITHKLINE CONSUMER HEALTHCARE INC."
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "SILICONE PRODUCTS"
+  ]
+}

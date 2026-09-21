@@ -1,0 +1,41 @@
+{
+  "drug_code": "3297",
+  "din": "00455458",
+  "brand_name": "FREEZEX HOOF FREEZE",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "08-DEC-2015",
+  "active_ingredients": [
+    {
+      "name": "IODINE",
+      "strength": "60",
+      "unit": "G"
+    },
+    {
+      "name": "CHLOROFORM",
+      "strength": "112.5",
+      "unit": "G"
+    },
+    {
+      "name": "ETHYL ETHER",
+      "strength": "37.5",
+      "unit": "G"
+    },
+    {
+      "name": "ARNICA",
+      "strength": "30",
+      "unit": "G"
+    }
+  ],
+  "forms": [
+    "LIQUID"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "HAWTHORNE PRODUCTS INC."
+  ],
+  "status": "MARKETED",
+  "atc": []
+}

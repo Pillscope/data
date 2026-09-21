@@ -1,0 +1,56 @@
+{
+  "drug_code": "66863",
+  "din": "02243017",
+  "brand_name": "SCOUR PLUG",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "04-JAN-2018",
+  "active_ingredients": [
+    {
+      "name": "SULFAMETHAZINE",
+      "strength": "2000",
+      "unit": "MG"
+    },
+    {
+      "name": "NEOMYCIN (NEOMYCIN SULFATE)",
+      "strength": "250",
+      "unit": "MG"
+    },
+    {
+      "name": "SODIUM CHLORIDE",
+      "strength": "209",
+      "unit": "MG"
+    },
+    {
+      "name": "SODIUM ACETATE",
+      "strength": "229",
+      "unit": "MG"
+    },
+    {
+      "name": "MAGNESIUM CHLORIDE",
+      "strength": "11",
+      "unit": "MG"
+    },
+    {
+      "name": "CALCIUM CHLORIDE",
+      "strength": "11",
+      "unit": "MG"
+    },
+    {
+      "name": "POTASSIUM ACETATE",
+      "strength": "38",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "BOLUS"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "CAN-VET ANIMAL HEALTH SUPPLIES LTD."
+  ],
+  "status": "MARKETED",
+  "atc": []
+}

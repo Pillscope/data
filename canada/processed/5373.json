@@ -1,0 +1,57 @@
+{
+  "drug_code": "5373",
+  "din": "00596639",
+  "brand_name": "UNILYTE INJ",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "28-MAY-2009",
+  "active_ingredients": [
+    {
+      "name": "SORBITOL",
+      "strength": "25",
+      "unit": "MG"
+    },
+    {
+      "name": "SODIUM CHLORIDE",
+      "strength": "4.853",
+      "unit": "MG"
+    },
+    {
+      "name": "DEXTROSE",
+      "strength": "25",
+      "unit": "MG"
+    },
+    {
+      "name": "POTASSIUM CHLORIDE",
+      "strength": "0.747",
+      "unit": "MG"
+    },
+    {
+      "name": "MAGNESIUM CHLORIDE",
+      "strength": "0.407",
+      "unit": "MG"
+    },
+    {
+      "name": "CALCIUM CHLORIDE",
+      "strength": ".367",
+      "unit": "MG"
+    },
+    {
+      "name": "SODIUM LACTATE",
+      "strength": "7.842",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "INTRAPERITONEAL",
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "UNIVET PHARMACEUTICALS LTD."
+  ],
+  "status": "MARKETED",
+  "atc": []
+}

@@ -1,0 +1,28 @@
+{
+  "drug_code": "14142",
+  "din": "02014327",
+  "brand_name": "MS CONTIN SRT 200MG",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "02-OCT-2010",
+  "active_ingredients": [
+    {
+      "name": "MORPHINE SULFATE",
+      "strength": "200",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET (EXTENDED-RELEASE)"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "PURDUE PHARMA"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "MORPHINE"
+  ]
+}

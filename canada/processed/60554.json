@@ -1,0 +1,28 @@
+{
+  "drug_code": "60554",
+  "din": "02237235",
+  "brand_name": "APO-KETOCONAZOLE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "30-SEP-2010",
+  "active_ingredients": [
+    {
+      "name": "KETOCONAZOLE",
+      "strength": "200",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "APOTEX INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "KETOCONAZOLE"
+  ]
+}

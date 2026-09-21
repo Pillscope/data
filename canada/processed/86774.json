@@ -1,0 +1,26 @@
+{
+  "drug_code": "86774",
+  "din": "02381915",
+  "brand_name": "BOVITEC",
+  "class": "Veterinary",
+  "descriptor": "0.5% IODINE PRE AND POST ANTISEPTIC TEAT DIP",
+  "last_update": "20-DEC-2012",
+  "active_ingredients": [
+    {
+      "name": "IODINE (NONYLPHENOXYPOLY(ETHYLENEOXY)ETHANOL IODINE COMPLEX)",
+      "strength": "0.5",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "AGRISAN SPECIALTY CHEMICAL & PHARMACEUTICAL"
+  ],
+  "status": "APPROVED",
+  "atc": []
+}

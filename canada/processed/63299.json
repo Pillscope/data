@@ -1,0 +1,38 @@
+{
+  "drug_code": "63299",
+  "din": "02239813",
+  "brand_name": "EXTRA STRENGTH MULTI-SYMPTOM PMS RELIEF",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "27-NOV-2013",
+  "active_ingredients": [
+    {
+      "name": "PAMABROM",
+      "strength": "25",
+      "unit": "MG"
+    },
+    {
+      "name": "PYRILAMINE MALEATE",
+      "strength": "15",
+      "unit": "MG"
+    },
+    {
+      "name": "ACETAMINOPHEN",
+      "strength": "500",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "VITA HEALTH PRODUCTS INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "ACETAMINOPHEN, COMB EXCL PSYCHOLEPTICS"
+  ]
+}

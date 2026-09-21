@@ -1,0 +1,28 @@
+{
+  "drug_code": "91572",
+  "din": "02431300",
+  "brand_name": "EZETIMIBE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "22-JUL-2016",
+  "active_ingredients": [
+    {
+      "name": "EZETIMIBE",
+      "strength": "10",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "SANIS HEALTH INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "EZETIMIBE"
+  ]
+}

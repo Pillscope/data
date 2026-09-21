@@ -1,0 +1,26 @@
+{
+  "drug_code": "1144",
+  "din": "00104892",
+  "brand_name": "METHIGEL",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "29-APR-2015",
+  "active_ingredients": [
+    {
+      "name": "DL-METHIONINE",
+      "strength": "80",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "GEL"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "VETOQUINOL N A INC"
+  ],
+  "status": "APPROVED",
+  "atc": []
+}

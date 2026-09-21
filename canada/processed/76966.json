@@ -1,0 +1,26 @@
+{
+  "drug_code": "76966",
+  "din": "02284103",
+  "brand_name": "GLYCOL KT",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "02-MAR-2016",
+  "active_ingredients": [
+    {
+      "name": "PROPYLENE GLYCOL",
+      "strength": "100",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "AGRISAN SPECIALTY CHEMICAL & PHARMACEUTICAL"
+  ],
+  "status": "APPROVED",
+  "atc": []
+}

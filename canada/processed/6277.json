@@ -1,0 +1,27 @@
+{
+  "drug_code": "6277",
+  "din": "00613924",
+  "brand_name": "VITAMIN B1 INJ 100MG/ML",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "17-NOV-2000",
+  "active_ingredients": [
+    {
+      "name": "THIAMINE HYDROCHLORIDE",
+      "strength": "100",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "LIQUID"
+  ],
+  "routes": [
+    "INTRAMUSCULAR",
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "UNIVET PHARMACEUTICALS LTD."
+  ],
+  "status": "MARKETED",
+  "atc": []
+}

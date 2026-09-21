@@ -1,0 +1,28 @@
+{
+  "drug_code": "6799",
+  "din": "00610461",
+  "brand_name": "TRIPLE D LIQ 4.5%",
+  "class": "Disinfectant",
+  "descriptor": "",
+  "last_update": "29-SEP-2010",
+  "active_ingredients": [
+    {
+      "name": "DIDECYL DIMETHYL AMMONIUM CHLORIDE",
+      "strength": "4.5",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "LIQUID"
+  ],
+  "routes": [
+    "DISINFECTANT (Food Premises)"
+  ],
+  "companies": [
+    "CHEMFAX PRODUCTS LTD."
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "TECHNICAL DISINFECTANTS"
+  ]
+}

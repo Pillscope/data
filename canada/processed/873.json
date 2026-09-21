@@ -1,0 +1,44 @@
+{
+  "drug_code": "873",
+  "din": "00176206",
+  "brand_name": "FIORINAL C1/2",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "23-MAR-2017",
+  "active_ingredients": [
+    {
+      "name": "CODEINE PHOSPHATE",
+      "strength": "30",
+      "unit": "MG"
+    },
+    {
+      "name": "BUTALBITAL",
+      "strength": "50",
+      "unit": "MG"
+    },
+    {
+      "name": "ACETYLSALICYLIC ACID",
+      "strength": "330",
+      "unit": "MG"
+    },
+    {
+      "name": "CAFFEINE",
+      "strength": "40",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "CAPSULE"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "TRIBUTE PHARMACEUTICALS CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "CODEIN, COMBINATIONS WITH PSYCHOLEPTICS",
+    "CODEIN, COMBINATIONS WITH PSYCHOLEPTICS"
+  ]
+}

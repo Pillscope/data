@@ -1,0 +1,36 @@
+{
+  "drug_code": "11012",
+  "din": "00896454",
+  "brand_name": "UNI-BOL",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "26-JUL-2006",
+  "active_ingredients": [
+    {
+      "name": "ESTRADIOL ENANTHATE",
+      "strength": "7.5",
+      "unit": "MG"
+    },
+    {
+      "name": "ESTRADIOL BENZOATE",
+      "strength": "1",
+      "unit": "MG"
+    },
+    {
+      "name": "TESTOSTERONE ENANTHATE",
+      "strength": "100",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "LIQUID"
+  ],
+  "routes": [
+    "INTRAMUSCULAR"
+  ],
+  "companies": [
+    "UNIVET PHARMACEUTICALS LTD."
+  ],
+  "status": "MARKETED",
+  "atc": []
+}

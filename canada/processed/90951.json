@@ -1,0 +1,28 @@
+{
+  "drug_code": "90951",
+  "din": "02424843",
+  "brand_name": "DIVIGEL",
+  "class": "Human",
+  "descriptor": "1MG PACK",
+  "last_update": "21-APR-2015",
+  "active_ingredients": [
+    {
+      "name": "ESTRADIOL",
+      "strength": "0.1",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "GEL"
+  ],
+  "routes": [
+    "TRANSDERMAL"
+  ],
+  "companies": [
+    "TEVA CANADA LIMITED"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "ESTRADIOL"
+  ]
+}

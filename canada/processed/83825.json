@@ -1,0 +1,28 @@
+{
+  "drug_code": "83825",
+  "din": "02353024",
+  "brand_name": "RANITIDINE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "02-AUG-2016",
+  "active_ingredients": [
+    {
+      "name": "RANITIDINE (RANITIDINE HYDROCHLORIDE)",
+      "strength": "300",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "SANIS HEALTH INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "RANITIDINE"
+  ]
+}

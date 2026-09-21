@@ -1,0 +1,33 @@
+{
+  "drug_code": "87581",
+  "din": "02390361",
+  "brand_name": "ALEXANDER'S RASH EASE FOR ADULTS",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "09-JUN-2017",
+  "active_ingredients": [
+    {
+      "name": "ZINC OXIDE",
+      "strength": "5.0",
+      "unit": "%"
+    },
+    {
+      "name": "WHITE PETROLATUM",
+      "strength": "88.7",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "CREAM"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "ALTACOMP ENTREPRISES INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "ZINC PRODUCTS"
+  ]
+}

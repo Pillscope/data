@@ -1,0 +1,31 @@
+{
+  "drug_code": "67195",
+  "din": "02243297",
+  "brand_name": "GLUCAGON",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "19-OCT-2009",
+  "active_ingredients": [
+    {
+      "name": "GLUCAGON (RECOMBINANT DNA ORIGIN)",
+      "strength": "1",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "KIT",
+    "POWDER FOR SOLUTION"
+  ],
+  "routes": [
+    "INTRAMUSCULAR",
+    "INTRAVENOUS",
+    "SUBCUTANEOUS"
+  ],
+  "companies": [
+    "ELI LILLY CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "GLUCAGON"
+  ]
+}

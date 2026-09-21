@@ -1,0 +1,28 @@
+{
+  "drug_code": "43063",
+  "din": "02212021",
+  "brand_name": "ZITHROMAX",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "09-DEC-2016",
+  "active_ingredients": [
+    {
+      "name": "AZITHROMYCIN",
+      "strength": "250",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "PFIZER CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "AZITHROMYCIN"
+  ]
+}

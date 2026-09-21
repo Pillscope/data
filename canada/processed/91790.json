@@ -1,0 +1,28 @@
+{
+  "drug_code": "91790",
+  "din": "02433532",
+  "brand_name": "BACKUP PLAN ONESTEP",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "13-JUN-2016",
+  "active_ingredients": [
+    {
+      "name": "LEVONORGESTREL",
+      "strength": "1.5",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "APOTEX INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "LEVONORGESTREL"
+  ]
+}

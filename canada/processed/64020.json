@@ -1,0 +1,28 @@
+{
+  "drug_code": "64020",
+  "din": "02240457",
+  "brand_name": "NOVO-NIZATIDINE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "30-SEP-2010",
+  "active_ingredients": [
+    {
+      "name": "NIZATIDINE",
+      "strength": "150",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "CAPSULE"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "NOVOPHARM LIMITED"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "NIZATIDINE"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "drug_code": "86373",
+  "din": "02377942",
+  "brand_name": "CANDESARTAN",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "29-JUN-2016",
+  "active_ingredients": [
+    {
+      "name": "CANDESARTAN CILEXETIL",
+      "strength": "16",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "PRO DOC LIMITEE"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "CANDESARTAN"
+  ]
+}

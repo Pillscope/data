@@ -1,0 +1,28 @@
+{
+  "drug_code": "7267",
+  "din": "00649236",
+  "brand_name": "CHARACTOL-50",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "29-APR-2015",
+  "active_ingredients": [
+    {
+      "name": "CHARCOAL ACTIVATED",
+      "strength": "50",
+      "unit": "G"
+    }
+  ],
+  "forms": [
+    "SUSPENSION"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "OMEGA LABORATORIES LTD"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "MEDICINAL CHARCOAL"
+  ]
+}

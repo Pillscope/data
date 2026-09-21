@@ -1,0 +1,43 @@
+{
+  "drug_code": "83677",
+  "din": "02351498",
+  "brand_name": "VITAMIN C GLOW-PROTECT LOTION SPF 30",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "25-MAY-2016",
+  "active_ingredients": [
+    {
+      "name": "AVOBENZONE",
+      "strength": "2",
+      "unit": "%"
+    },
+    {
+      "name": "OCTOCRYLENE",
+      "strength": "5",
+      "unit": "%"
+    },
+    {
+      "name": "OCTISALATE",
+      "strength": "5",
+      "unit": "%"
+    },
+    {
+      "name": "OCTINOXATE",
+      "strength": "7.5",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "LOTION"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "THE BODY SHOP CANADA LIMITED"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "COMBINATIONS OF PROTECTIVES AGAINST UV-RADIATION"
+  ]
+}

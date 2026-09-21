@@ -1,0 +1,28 @@
+{
+  "drug_code": "70531",
+  "din": "02246365",
+  "brand_name": "TRANEXAMIC ACID INJECTION BP",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "25-NOV-2010",
+  "active_ingredients": [
+    {
+      "name": "TRANEXAMIC ACID",
+      "strength": "100",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "SANDOZ CANADA INCORPORATED"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "TRANEXAMIC ACID"
+  ]
+}

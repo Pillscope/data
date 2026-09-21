@@ -1,0 +1,28 @@
+{
+  "drug_code": "50175",
+  "din": "02230897",
+  "brand_name": "BILTRICIDE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "12-AUG-2008",
+  "active_ingredients": [
+    {
+      "name": "PRAZIQUANTEL",
+      "strength": "600",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "BAYER INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "PRAZIQUANTEL"
+  ]
+}

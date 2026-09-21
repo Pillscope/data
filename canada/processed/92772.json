@@ -1,0 +1,34 @@
+{
+  "drug_code": "92772",
+  "din": "02443139",
+  "brand_name": "ACT OLMESARTAN HCT",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "19-MAR-2018",
+  "active_ingredients": [
+    {
+      "name": "HYDROCHLOROTHIAZIDE",
+      "strength": "25",
+      "unit": "MG"
+    },
+    {
+      "name": "OLMESARTAN MEDOXOMIL",
+      "strength": "40",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "TEVA CANADA LIMITED"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "OLMESARTAN MEDOXOMIL AND DIURETICS",
+    "OLMESARTAN MEDOXOMIL AND DIURETICS"
+  ]
+}

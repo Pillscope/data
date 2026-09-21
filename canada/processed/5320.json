@@ -1,0 +1,26 @@
+{
+  "drug_code": "5320",
+  "din": "00546712",
+  "brand_name": "OXY TETRA FORTE",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "02-JAN-2018",
+  "active_ingredients": [
+    {
+      "name": "OXYTETRACYCLINE HYDROCHLORIDE",
+      "strength": "220",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "POWDER FOR SOLUTION"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "DOMINION VETERINARY LABORATORIES LTD."
+  ],
+  "status": "MARKETED",
+  "atc": []
+}

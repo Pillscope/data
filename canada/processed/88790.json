@@ -1,0 +1,28 @@
+{
+  "drug_code": "88790",
+  "din": "02403072",
+  "brand_name": "RAN-OLANZAPINE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "19-JAN-2015",
+  "active_ingredients": [
+    {
+      "name": "OLANZAPINE",
+      "strength": "5.0",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "RANBAXY PHARMACEUTICALS CANADA INC."
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "OLANZAPINE"
+  ]
+}

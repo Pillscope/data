@@ -1,0 +1,33 @@
+{
+  "drug_code": "18634",
+  "din": "02125447",
+  "brand_name": "R & C SHAMPOO WITH CONDITIONER",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "26-MAR-2013",
+  "active_ingredients": [
+    {
+      "name": "PIPERONYL BUTOXIDE",
+      "strength": "3",
+      "unit": "%"
+    },
+    {
+      "name": "PYRETHRINS",
+      "strength": "0.33",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "SHAMPOO"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "MEDTECH PRODUCTS INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "PYRETHRUM, COMBINATIONS"
+  ]
+}

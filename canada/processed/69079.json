@@ -1,0 +1,34 @@
+{
+  "drug_code": "69079",
+  "din": "02245075",
+  "brand_name": "DIMETAPP EXTRA STRENGTH",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "21-DEC-2011",
+  "active_ingredients": [
+    {
+      "name": "PHENYLEPHRINE HYDROCHLORIDE",
+      "strength": "10",
+      "unit": "MG"
+    },
+    {
+      "name": "BROMPHENIRAMINE MALEATE",
+      "strength": "4",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "LIQUID"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "PFIZER CONSUMER HEALTHCARE A DIVISION OF PFIZER CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "PHENYLEPHRINE, COMBINATIONS",
+    "PHENYLEPHRINE, COMBINATIONS"
+  ]
+}

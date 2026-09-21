@@ -1,0 +1,38 @@
+{
+  "drug_code": "79082",
+  "din": "02305283",
+  "brand_name": "LIP BALM SPF 30",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "10-JUL-2008",
+  "active_ingredients": [
+    {
+      "name": "OXYBENZONE",
+      "strength": "5.5",
+      "unit": "%"
+    },
+    {
+      "name": "OCTISALATE",
+      "strength": "3.0",
+      "unit": "%"
+    },
+    {
+      "name": "OCTINOXATE",
+      "strength": "7.5",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "STICK"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "CROC BLOC PRODUCTS INC."
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "COMBINATIONS OF PROTECTIVES AGAINST UV-RADIATION"
+  ]
+}

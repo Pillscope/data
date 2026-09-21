@@ -1,0 +1,30 @@
+{
+  "drug_code": "18136",
+  "din": "02150204",
+  "brand_name": "SODIUM CHLORIDE INJECTION USP",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "11-APR-2006",
+  "active_ingredients": [
+    {
+      "name": "SODIUM CHLORIDE",
+      "strength": "9",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "INTRAMUSCULAR",
+    "INTRAVENOUS",
+    "SUBCUTANEOUS"
+  ],
+  "companies": [
+    "OMEGA LABORATORIES LTD"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "SODIUM CHLORIDE"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "drug_code": "77131",
+  "din": "02285827",
+  "brand_name": "GD-GABAPENTIN",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "18-DEC-2012",
+  "active_ingredients": [
+    {
+      "name": "GABAPENTIN",
+      "strength": "300",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "CAPSULE"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "GENMED A DIVISION OF PFIZER CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "GABAPENTIN"
+  ]
+}

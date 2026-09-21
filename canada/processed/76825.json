@@ -1,0 +1,28 @@
+{
+  "drug_code": "76825",
+  "din": "02282615",
+  "brand_name": "ACT RISPERIDONE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "28-SEP-2017",
+  "active_ingredients": [
+    {
+      "name": "RISPERIDONE",
+      "strength": "2",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "ACTAVIS PHARMA COMPANY"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "RISPERIDONE"
+  ]
+}

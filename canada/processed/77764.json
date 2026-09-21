@@ -1,0 +1,29 @@
+{
+  "drug_code": "77764",
+  "din": "02292289",
+  "brand_name": "CEFTRIAXONE SOIDUM FOR INJECTION BP",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "19-MAR-2018",
+  "active_ingredients": [
+    {
+      "name": "CEFTRIAXONE (CEFTRIAXONE SODIUM)",
+      "strength": "2",
+      "unit": "G"
+    }
+  ],
+  "forms": [
+    "POWDER FOR SOLUTION"
+  ],
+  "routes": [
+    "INTRAMUSCULAR",
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "SANDOZ CANADA INCORPORATED"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "CEFTRIAXONE"
+  ]
+}

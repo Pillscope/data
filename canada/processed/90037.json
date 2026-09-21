@@ -1,0 +1,43 @@
+{
+  "drug_code": "90037",
+  "din": "02415763",
+  "brand_name": "PC SPF FPS 30 SPORT SUNSCREEN CONTINUOUS SPRAY",
+  "class": "Human",
+  "descriptor": "SUSPENSION",
+  "last_update": "08-APR-2016",
+  "active_ingredients": [
+    {
+      "name": "AVOBENZONE",
+      "strength": "2.0",
+      "unit": "%"
+    },
+    {
+      "name": "OCTISALATE",
+      "strength": "5.0",
+      "unit": "%"
+    },
+    {
+      "name": "OXYBENZONE",
+      "strength": "4.0",
+      "unit": "%"
+    },
+    {
+      "name": "HOMOSALATE",
+      "strength": "15.0",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "SPRAY, BAG-ON-VALVE"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "EMPACK SPRAYTECH INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "COMBINATIONS OF PROTECTIVES AGAINST UV-RADIATION"
+  ]
+}

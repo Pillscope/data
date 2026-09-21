@@ -1,0 +1,34 @@
+{
+  "drug_code": "88879",
+  "din": "02404044",
+  "brand_name": "XERESE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "09-AUG-2013",
+  "active_ingredients": [
+    {
+      "name": "HYDROCORTISONE",
+      "strength": "1",
+      "unit": "%"
+    },
+    {
+      "name": "ACYCLOVIR",
+      "strength": "5",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "CREAM"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "VALEANT CANADA LP/VALEANT CANADA S.E.C."
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "ACICLOVIR, COMBINATIONS",
+    "ACICLOVIR, COMBINATIONS"
+  ]
+}

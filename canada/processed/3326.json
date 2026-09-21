@@ -1,0 +1,47 @@
+{
+  "drug_code": "3326",
+  "din": "00468959",
+  "brand_name": "CAL MAG K SOLUTION",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "11-AUG-2010",
+  "active_ingredients": [
+    {
+      "name": "CALCIUM BOROGLUCONATE",
+      "strength": "23",
+      "unit": "%"
+    },
+    {
+      "name": "SODIUM HYPOPHOSPHITE",
+      "strength": "3.43",
+      "unit": "%"
+    },
+    {
+      "name": "DEXTROSE",
+      "strength": "25",
+      "unit": "%"
+    },
+    {
+      "name": "POTASSIUM CHLORIDE",
+      "strength": "0.2",
+      "unit": "%"
+    },
+    {
+      "name": "MAGNESIUM CHLORIDE",
+      "strength": "4.5",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "INTRAPERITONEAL",
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "MTC PHARMACEUTICALS"
+  ],
+  "status": "MARKETED",
+  "atc": []
+}

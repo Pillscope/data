@@ -1,0 +1,28 @@
+{
+  "drug_code": "91826",
+  "din": "02433877",
+  "brand_name": "AURO-PREGABALIN",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "18-JAN-2017",
+  "active_ingredients": [
+    {
+      "name": "PREGABALIN",
+      "strength": "50",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "CAPSULE"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "AURO PHARMA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "PREGABALIN"
+  ]
+}

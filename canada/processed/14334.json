@@ -1,0 +1,28 @@
+{
+  "drug_code": "14334",
+  "din": "00728284",
+  "brand_name": "BURINEX TAB 1MG",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "14-JAN-2010",
+  "active_ingredients": [
+    {
+      "name": "BUMETANIDE",
+      "strength": "1",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "LEO PHARMA INC"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "BUMETANIDE"
+  ]
+}

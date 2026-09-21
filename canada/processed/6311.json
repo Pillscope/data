@@ -1,0 +1,28 @@
+{
+  "drug_code": "6311",
+  "din": "00658855",
+  "brand_name": "LOPRESOR SR 100MG",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "02-MAR-2006",
+  "active_ingredients": [
+    {
+      "name": "METOPROLOL TARTRATE",
+      "strength": "100",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET (EXTENDED-RELEASE)"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "NOVARTIS PHARMACEUTICALS CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "METOPROLOL"
+  ]
+}

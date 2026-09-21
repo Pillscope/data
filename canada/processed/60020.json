@@ -1,0 +1,28 @@
+{
+  "drug_code": "60020",
+  "din": "02236734",
+  "brand_name": "PMS-GLYBURIDE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "30-SEP-2010",
+  "active_ingredients": [
+    {
+      "name": "GLYBURIDE",
+      "strength": "5",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "PHARMASCIENCE INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "GLIBENCLAMIDE"
+  ]
+}

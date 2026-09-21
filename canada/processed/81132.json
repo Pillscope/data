@@ -1,0 +1,28 @@
+{
+  "drug_code": "81132",
+  "din": "02325977",
+  "brand_name": "OXYCODONE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "21-SEP-2009",
+  "active_ingredients": [
+    {
+      "name": "OXYCODONE HYDROCHLORIDE",
+      "strength": "20",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "PRO DOC LIMITEE"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "OXYCODONE"
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "drug_code": "6645",
+  "din": "00319716",
+  "brand_name": "DEMO-CINEOL ADULTES/ADULTS",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "15-MAY-2014",
+  "active_ingredients": [
+    {
+      "name": "CAMPHOR",
+      "strength": "40",
+      "unit": "MG"
+    },
+    {
+      "name": "GUAIACOL",
+      "strength": "180",
+      "unit": "MG"
+    },
+    {
+      "name": "EUCALYPTOL",
+      "strength": "370",
+      "unit": "MG"
+    },
+    {
+      "name": "GUAIACOL CARBONATE",
+      "strength": "200",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SUPPOSITORY"
+  ],
+  "routes": [
+    "RECTAL"
+  ],
+  "companies": [
+    "SANDOZ CANADA INCORPORATED"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "COMBINATIONS"
+  ]
+}

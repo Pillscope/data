@@ -1,0 +1,33 @@
+{
+  "drug_code": "88967",
+  "din": "02404842",
+  "brand_name": "ANTI-AGING COMPLEX EYE TREATMENT BROAD SPECTRUM SPF 15",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "16-JAN-2015",
+  "active_ingredients": [
+    {
+      "name": "ZINC OXIDE",
+      "strength": "6.5",
+      "unit": "%"
+    },
+    {
+      "name": "OCTINOXATE",
+      "strength": "7.4",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "LOTION"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "MERLE NORMAN COSMETICS INC"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "COMBINATIONS OF PROTECTIVES AGAINST UV-RADIATION"
+  ]
+}

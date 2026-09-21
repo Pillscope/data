@@ -1,0 +1,34 @@
+{
+  "drug_code": "80442",
+  "din": "02318946",
+  "brand_name": "POLYSPORIN POLY TO GO",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "17-JUN-2011",
+  "active_ingredients": [
+    {
+      "name": "PRAMOXINE HYDROCHLORIDE",
+      "strength": "1",
+      "unit": "%"
+    },
+    {
+      "name": "BENZALKONIUM CHLORIDE",
+      "strength": "0.13",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "SPRAY"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "JOHNSON & JOHNSON INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "PRAMOCAINE",
+    "PRAMOCAINE"
+  ]
+}

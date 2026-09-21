@@ -1,0 +1,28 @@
+{
+  "drug_code": "83610",
+  "din": "02350912",
+  "brand_name": "MORPHINE SR",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "05-MAY-2015",
+  "active_ingredients": [
+    {
+      "name": "MORPHINE SULFATE",
+      "strength": "60",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET (EXTENDED-RELEASE)"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "SANIS HEALTH INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "MORPHINE"
+  ]
+}

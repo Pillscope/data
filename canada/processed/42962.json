@@ -1,0 +1,26 @@
+{
+  "drug_code": "42962",
+  "din": "02200791",
+  "brand_name": "TOLNOXEQUINE THRUSH TREATMENT CREAM 1%",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "05-MAY-2015",
+  "active_ingredients": [
+    {
+      "name": "TOLNAFTATE",
+      "strength": "1",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "CREAM"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "DOMINION VETERINARY LABORATORIES LTD."
+  ],
+  "status": "APPROVED",
+  "atc": []
+}

@@ -1,0 +1,28 @@
+{
+  "drug_code": "18777",
+  "din": "02171880",
+  "brand_name": "TIMOPTIC-XE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "24-FEB-2018",
+  "active_ingredients": [
+    {
+      "name": "TIMOLOL (TIMOLOL MALEATE)",
+      "strength": "0.25",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "SOLUTION (EXTENDED RELEASE)"
+  ],
+  "routes": [
+    "OPHTHALMIC"
+  ],
+  "companies": [
+    "PURDUE PHARMA"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "TIMOLOL"
+  ]
+}

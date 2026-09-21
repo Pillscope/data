@@ -1,0 +1,28 @@
+{
+  "drug_code": "50032",
+  "din": "02230770",
+  "brand_name": "METHYLENE BLUE INJECTION USP",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "15-MAY-2014",
+  "active_ingredients": [
+    {
+      "name": "METHYLENE BLUE",
+      "strength": "10",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "LIQUID"
+  ],
+  "routes": [
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "OMEGA LABORATORIES LTD"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "METHYLTHIONINIUM CHLORIDE"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "drug_code": "42847",
+  "din": "02184443",
+  "brand_name": "KADIAN",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "06-OCT-2016",
+  "active_ingredients": [
+    {
+      "name": "MORPHINE SULFATE",
+      "strength": "50",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "CAPSULE (SUSTAINED-RELEASE)"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "BGP PHARMA ULC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "MORPHINE"
+  ]
+}

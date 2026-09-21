@@ -1,0 +1,34 @@
+{
+  "drug_code": "94639",
+  "din": "02459205",
+  "brand_name": "RIVA-LATANOPROST/TIMOLOL",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "03-JAN-2017",
+  "active_ingredients": [
+    {
+      "name": "LATANOPROST",
+      "strength": "50",
+      "unit": "MCG"
+    },
+    {
+      "name": "TIMOLOL (TIMOLOL MALEATE)",
+      "strength": "5",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "OPHTHALMIC"
+  ],
+  "companies": [
+    "LABORATOIRE RIVA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "TIMOLOL, COMBINATIONS",
+    "TIMOLOL, COMBINATIONS"
+  ]
+}

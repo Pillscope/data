@@ -1,0 +1,28 @@
+{
+  "drug_code": "50975",
+  "din": "02231603",
+  "brand_name": "APO-CETIRIZINE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "11-JUL-2012",
+  "active_ingredients": [
+    {
+      "name": "CETIRIZINE HYDROCHLORIDE",
+      "strength": "10",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "APOTEX INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "CETIRIZINE"
+  ]
+}

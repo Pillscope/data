@@ -1,0 +1,28 @@
+{
+  "drug_code": "92762",
+  "din": "02443082",
+  "brand_name": "MEMANTINE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "30-JUN-2017",
+  "active_ingredients": [
+    {
+      "name": "MEMANTINE HYDROCHLORIDE",
+      "strength": "10",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "SANIS HEALTH INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "MEMANTINE"
+  ]
+}

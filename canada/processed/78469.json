@@ -1,0 +1,28 @@
+{
+  "drug_code": "78469",
+  "din": "02299305",
+  "brand_name": "DOM-VENLAFAXINE XR",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "13-JAN-2015",
+  "active_ingredients": [
+    {
+      "name": "VENLAFAXINE (VENLAFAXINE HYDROCHLORIDE)",
+      "strength": "75",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "CAPSULE (EXTENDED RELEASE)"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "DOMINION PHARMACAL"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "VENLAFAXINE"
+  ]
+}

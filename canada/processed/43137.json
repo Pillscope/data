@@ -1,0 +1,28 @@
+{
+  "drug_code": "43137",
+  "din": "02213745",
+  "brand_name": "ZOFRAN",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "25-JAN-2017",
+  "active_ingredients": [
+    {
+      "name": "ONDANSETRON (ONDANSETRON HYDROCHLORIDE DIHYDRATE)",
+      "strength": "2",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "NOVARTIS PHARMACEUTICALS CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "ONDANSETRON"
+  ]
+}

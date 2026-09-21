@@ -1,0 +1,28 @@
+{
+  "drug_code": "9828",
+  "din": "00799955",
+  "brand_name": "GLYCINE 1.5% IRRIGATION USP SOL",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "21-JUN-2006",
+  "active_ingredients": [
+    {
+      "name": "GLYCINE",
+      "strength": "1.5",
+      "unit": "G"
+    }
+  ],
+  "forms": [
+    "LIQUID"
+  ],
+  "routes": [
+    "IRRIGATION"
+  ],
+  "companies": [
+    "BAXTER CORPORATION"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "GLYCINE"
+  ]
+}

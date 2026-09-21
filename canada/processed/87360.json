@@ -1,0 +1,50 @@
+{
+  "drug_code": "87360",
+  "din": "02388030",
+  "brand_name": "COLD + SINUS DAYTIME COLD + SINUS NIGHTTIME",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "13-JUN-2014",
+  "active_ingredients": [
+    {
+      "name": "IBUPROFEN",
+      "strength": "200",
+      "unit": "MG"
+    },
+    {
+      "name": "IBUPROFEN",
+      "strength": "200",
+      "unit": "MG"
+    },
+    {
+      "name": "PSEUDOEPHEDRINE HYDROCHLORIDE",
+      "strength": "30",
+      "unit": "MG"
+    },
+    {
+      "name": "PSEUDOEPHEDRINE HYDROCHLORIDE",
+      "strength": "30",
+      "unit": "MG"
+    },
+    {
+      "name": "CHLORPHENIRAMINE MALEATE",
+      "strength": "2",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "KIT",
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "VITA HEALTH PRODUCTS INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "IBUPROFEN, COMBINATIONS",
+    "IBUPROFEN, COMBINATIONS"
+  ]
+}

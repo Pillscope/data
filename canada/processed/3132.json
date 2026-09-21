@@ -1,0 +1,38 @@
+{
+  "drug_code": "3132",
+  "din": "00438014",
+  "brand_name": "(20 MMOL/L) POTASSIUM CHLORIDE IN 3.3% DEXTROSE AND 0.3% SODIUM CHLORIDE INJECTION USP",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "07-MAY-2013",
+  "active_ingredients": [
+    {
+      "name": "SODIUM CHLORIDE",
+      "strength": "300",
+      "unit": "MG"
+    },
+    {
+      "name": "DEXTROSE",
+      "strength": "3.3",
+      "unit": "G"
+    },
+    {
+      "name": "POTASSIUM CHLORIDE",
+      "strength": "150",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "BAXTER CORPORATION"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "ELECTROLYTES WITH CARBOHYDRATES"
+  ]
+}

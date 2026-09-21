@@ -1,0 +1,26 @@
+{
+  "drug_code": "18630",
+  "din": "02139219",
+  "brand_name": "PENICILLIN G POTASSIUM USP SOLUBLE POWDER",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "18-JAN-2018",
+  "active_ingredients": [
+    {
+      "name": "PENICILLIN G POTASSIUM",
+      "strength": "500000000",
+      "unit": "UNIT"
+    }
+  ],
+  "forms": [
+    "POWDER FOR SOLUTION"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "BIO AGRI MIX LP"
+  ],
+  "status": "MARKETED",
+  "atc": []
+}

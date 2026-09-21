@@ -1,0 +1,28 @@
+{
+  "drug_code": "88428",
+  "din": "02399393",
+  "brand_name": "PMS-ATORVASTATIN",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "03-APR-2013",
+  "active_ingredients": [
+    {
+      "name": "ATORVASTATIN (ATORVASTATIN CALCIUM)",
+      "strength": "40",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "PHARMASCIENCE INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "ATORVASTATIN"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "drug_code": "16950",
+  "din": "02108143",
+  "brand_name": "TEVA-MINOCYCLINE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "11-SEP-2015",
+  "active_ingredients": [
+    {
+      "name": "MINOCYCLINE (MINOCYCLINE HYDROCHLORIDE)",
+      "strength": "50",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "CAPSULE"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "TEVA CANADA LIMITED"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "MINOCYCLINE"
+  ]
+}

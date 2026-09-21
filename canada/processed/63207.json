@@ -1,0 +1,38 @@
+{
+  "drug_code": "63207",
+  "din": "02239726",
+  "brand_name": "VIROCID",
+  "class": "Disinfectant",
+  "descriptor": "",
+  "last_update": "15-NOV-2017",
+  "active_ingredients": [
+    {
+      "name": "DIDECYL DIMETHYL AMMONIUM CHLORIDE",
+      "strength": "7.8",
+      "unit": "%"
+    },
+    {
+      "name": "GLUTARAL",
+      "strength": "10.725",
+      "unit": "%"
+    },
+    {
+      "name": "BENZALKONIUM CHLORIDE",
+      "strength": "17.06",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "LIQUID"
+  ],
+  "routes": [
+    "DISINFECTANT (Food Premises)"
+  ],
+  "companies": [
+    "CID LINES"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "TECHNICAL DISINFECTANTS"
+  ]
+}

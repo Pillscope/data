@@ -1,0 +1,28 @@
+{
+  "drug_code": "13342",
+  "din": "01924486",
+  "brand_name": "DESI FOME LIQ 3.5%",
+  "class": "Disinfectant",
+  "descriptor": "",
+  "last_update": "08-AUG-2005",
+  "active_ingredients": [
+    {
+      "name": "SODIUM HYPOCHLORITE",
+      "strength": "3.5",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "LIQUID"
+  ],
+  "routes": [
+    "DISINFECTANT (Food Premises)"
+  ],
+  "companies": [
+    "CONSTANT AMERICA INC"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "TECHNICAL DISINFECTANTS"
+  ]
+}

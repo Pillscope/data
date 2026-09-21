@@ -1,0 +1,28 @@
+{
+  "drug_code": "90113",
+  "din": "02416530",
+  "brand_name": "PREZISTA",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "19-JAN-2016",
+  "active_ingredients": [
+    {
+      "name": "DARUNAVIR (DARUNAVIR ETHANOLATE)",
+      "strength": "100",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SUSPENSION"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "JANSSEN INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "DARUNAVIR"
+  ]
+}

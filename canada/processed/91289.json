@@ -1,0 +1,38 @@
+{
+  "drug_code": "91289",
+  "din": "02428415",
+  "brand_name": "DAILY RADIANCE MOISTURIZING LOTION WITH SPF 15",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "08-JAN-2016",
+  "active_ingredients": [
+    {
+      "name": "AVOBENZONE",
+      "strength": "3.0",
+      "unit": "%"
+    },
+    {
+      "name": "OCTISALATE",
+      "strength": "2.0",
+      "unit": "%"
+    },
+    {
+      "name": "OCTINOXATE",
+      "strength": "7.5",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "LOTION"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "APOLLO HEALTH AND BEAUTY CARE INC."
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "COMBINATIONS OF PROTECTIVES AGAINST UV-RADIATION"
+  ]
+}

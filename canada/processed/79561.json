@@ -1,0 +1,29 @@
+{
+  "drug_code": "79561",
+  "din": "02309920",
+  "brand_name": "BIO-SAN",
+  "class": "Disinfectant",
+  "descriptor": "",
+  "last_update": "18-FEB-2010",
+  "active_ingredients": [
+    {
+      "name": "DIDECYL DIMETHYL AMMONIUM CHLORIDE",
+      "strength": "7.5",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "DISINFECTANT (Food Premises)",
+    "DISINFECTANT (Institutional/Industrial)"
+  ],
+  "companies": [
+    "WEST PENETONE INC"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "TECHNICAL DISINFECTANTS"
+  ]
+}

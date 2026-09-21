@@ -1,0 +1,28 @@
+{
+  "drug_code": "77228",
+  "din": "02286823",
+  "brand_name": "TEVA-SUMATRIPTAN DF",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "05-MAY-2015",
+  "active_ingredients": [
+    {
+      "name": "SUMATRIPTAN (SUMATRIPTAN SUCCINATE)",
+      "strength": "50",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "TEVA CANADA LIMITED"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "SUMATRIPTAN"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "drug_code": "679",
+  "din": "00097268",
+  "brand_name": "MINERAL OIL VETERINARY",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "27-JAN-2010",
+  "active_ingredients": [
+    {
+      "name": "MINERAL OIL",
+      "strength": "0",
+      "unit": "NIL"
+    }
+  ],
+  "forms": [
+    "LIQUID"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "DOMINION VETERINARY LABORATORIES LTD."
+  ],
+  "status": "MARKETED",
+  "atc": []
+}

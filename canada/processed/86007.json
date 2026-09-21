@@ -1,0 +1,28 @@
+{
+  "drug_code": "86007",
+  "din": "02374757",
+  "brand_name": "ACT BETAHISTINE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "27-OCT-2015",
+  "active_ingredients": [
+    {
+      "name": "BETAHISTINE HYDROCHLORIDE",
+      "strength": "16",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "ACTAVIS PHARMA COMPANY"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "BETAHISTINE"
+  ]
+}

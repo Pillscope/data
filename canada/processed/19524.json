@@ -1,0 +1,28 @@
+{
+  "drug_code": "19524",
+  "din": "02171929",
+  "brand_name": "TEVA-5 ASA",
+  "class": "Human",
+  "descriptor": "ALSO KNOWN AS MESALAMINE",
+  "last_update": "23-MAR-2018",
+  "active_ingredients": [
+    {
+      "name": "MESALAZINE",
+      "strength": "400",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET (ENTERIC-COATED)"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "TEVA CANADA LIMITED"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "MESALAZINE"
+  ]
+}

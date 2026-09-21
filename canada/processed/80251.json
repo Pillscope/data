@@ -1,0 +1,31 @@
+{
+  "drug_code": "80251",
+  "din": "02316994",
+  "brand_name": "REVALOR-XS",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "08-FEB-2012",
+  "active_ingredients": [
+    {
+      "name": "ESTRADIOL",
+      "strength": "40",
+      "unit": "MG"
+    },
+    {
+      "name": "TRENBOLONE ACETATE",
+      "strength": "200",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "IMPLANT"
+  ],
+  "routes": [
+    "SUBCUTANEOUS"
+  ],
+  "companies": [
+    "INTERVET CANADA CORP"
+  ],
+  "status": "APPROVED",
+  "atc": []
+}

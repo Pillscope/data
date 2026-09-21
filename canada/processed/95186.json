@@ -1,0 +1,28 @@
+{
+  "drug_code": "95186",
+  "din": "02463768",
+  "brand_name": "ACCEL-CANDESARTAN",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "01-FEB-2018",
+  "active_ingredients": [
+    {
+      "name": "CANDESARTAN CILEXETIL",
+      "strength": "8",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "ACCEL PHARMA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "CANDESARTAN"
+  ]
+}

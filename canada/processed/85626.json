@@ -1,0 +1,28 @@
+{
+  "drug_code": "85626",
+  "din": "02371065",
+  "brand_name": "ZYTIGA",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "23-AUG-2016",
+  "active_ingredients": [
+    {
+      "name": "Abiraterone acetate",
+      "strength": "250",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "JANSSEN INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "Abiraterone"
+  ]
+}

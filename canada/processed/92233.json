@@ -1,0 +1,28 @@
+{
+  "drug_code": "92233",
+  "din": "02437961",
+  "brand_name": "ACT PROPOFOL",
+  "class": "Human",
+  "descriptor": "20ML/50ML/100ML SINGLE USE VIALS",
+  "last_update": "02-DEC-2015",
+  "active_ingredients": [
+    {
+      "name": "PROPOFOL",
+      "strength": "10",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "EMULSION"
+  ],
+  "routes": [
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "ACTAVIS PHARMA COMPANY"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "PROPOFOL"
+  ]
+}

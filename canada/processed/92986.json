@@ -1,0 +1,28 @@
+{
+  "drug_code": "92986",
+  "din": "02444712",
+  "brand_name": "NEXIUM 24HR",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "27-OCT-2016",
+  "active_ingredients": [
+    {
+      "name": "ESOMEPRAZOLE (ESOMEPRAZOLE MAGNESIUM TRIHYDRATE)",
+      "strength": "20",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "CAPSULE (DELAYED RELEASE)"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "PFIZER CONSUMER HEALTHCARE A DIVISION OF PFIZER CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "ESOMEPRAZOLE"
+  ]
+}

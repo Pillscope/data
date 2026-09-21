@@ -1,0 +1,31 @@
+{
+  "drug_code": "15482",
+  "din": "01999761",
+  "brand_name": "KENALOG-10 INJECTION 10MG/ML",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "29-APR-2015",
+  "active_ingredients": [
+    {
+      "name": "TRIAMCINOLONE ACETONIDE",
+      "strength": "10",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SUSPENSION"
+  ],
+  "routes": [
+    "INTRA-ARTICULAR",
+    "INTRABURSAL",
+    "INTRADERMAL",
+    "INTRASYNOVIAL"
+  ],
+  "companies": [
+    "BRISTOL-MYERS SQUIBB CANADA"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "TRIAMCINOLONE"
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "drug_code": "3407",
+  "din": "00467189",
+  "brand_name": "ELECTROLYTES CONCENTRATED",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "28-MAY-2009",
+  "active_ingredients": [
+    {
+      "name": "DEXTROSE",
+      "strength": "27",
+      "unit": "G"
+    },
+    {
+      "name": "SODIUM CHLORIDE",
+      "strength": "5.9",
+      "unit": "G"
+    },
+    {
+      "name": "SODIUM ACETATE",
+      "strength": "3.8",
+      "unit": "G"
+    },
+    {
+      "name": "MAGNESIUM CHLORIDE",
+      "strength": "300",
+      "unit": "MG"
+    },
+    {
+      "name": "CALCIUM CHLORIDE",
+      "strength": "230",
+      "unit": "MG"
+    },
+    {
+      "name": "POTASSIUM ACETATE",
+      "strength": "1",
+      "unit": "G"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "VETOQUINOL N A INC"
+  ],
+  "status": "APPROVED",
+  "atc": []
+}

@@ -1,0 +1,28 @@
+{
+  "drug_code": "88652",
+  "din": "02401630",
+  "brand_name": "MED-RIVASTIGMINE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "08-JAN-2016",
+  "active_ingredients": [
+    {
+      "name": "RIVASTIGMINE (RIVASTIGMINE HYDROGEN TARTRATE)",
+      "strength": "4.5",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "CAPSULE"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "GENERIC MEDICAL PARTNERS INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "RIVASTIGMINE"
+  ]
+}

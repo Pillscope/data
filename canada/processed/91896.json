@@ -1,0 +1,28 @@
+{
+  "drug_code": "91896",
+  "din": "02434652",
+  "brand_name": "ACH-ESCITALOPRAM",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "11-JAN-2018",
+  "active_ingredients": [
+    {
+      "name": "ESCITALOPRAM (ESCITALOPRAM OXALATE)",
+      "strength": "10",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "ACCORD HEALTHCARE INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "ESCITALOPRAM"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "drug_code": "92853",
+  "din": "02443783",
+  "brand_name": "COLGATE TOTAL",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "06-FEB-2017",
+  "active_ingredients": [
+    {
+      "name": "CETYLPYRIDINIUM CHLORIDE",
+      "strength": "0.075",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "MOUTHWASH/GARGLE"
+  ],
+  "routes": [
+    "BUCCAL"
+  ],
+  "companies": [
+    "COLGATE-PALMOLIVE CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "CETYLPYRIDINIUM"
+  ]
+}

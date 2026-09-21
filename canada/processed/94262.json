@@ -1,0 +1,28 @@
+{
+  "drug_code": "94262",
+  "din": "02455781",
+  "brand_name": "CONCROBIUM LUXURY VINYL FLOOR DISINFECTANT & CLEANER",
+  "class": "Disinfectant",
+  "descriptor": "SOLUTION",
+  "last_update": "22-AUG-2017",
+  "active_ingredients": [
+    {
+      "name": "HYDROGEN PEROXIDE",
+      "strength": "0.55",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "SPRAY"
+  ],
+  "routes": [
+    "DISINFECTANT (Domestic)"
+  ],
+  "companies": [
+    "SIAMONS INTERNATIONAL INC."
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "TECHNICAL DISINFECTANTS"
+  ]
+}

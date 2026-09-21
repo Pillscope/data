@@ -1,0 +1,33 @@
+{
+  "drug_code": "95175",
+  "din": "02463652",
+  "brand_name": "REFRESH OPTIVE GEL DROPS",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "11-AUG-2017",
+  "active_ingredients": [
+    {
+      "name": "GLYCERINE",
+      "strength": "0.9",
+      "unit": "%"
+    },
+    {
+      "name": "SODIUM CARBOXYMETHYL CELLULOSE",
+      "strength": "1",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "OPHTHALMIC"
+  ],
+  "companies": [
+    "ALLERGAN INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "ARTIFICIAL TEARS AND OTHER INDIFFERENT PREPARATIONS."
+  ]
+}

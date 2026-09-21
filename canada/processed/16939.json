@@ -1,0 +1,36 @@
+{
+  "drug_code": "16939",
+  "din": "02132605",
+  "brand_name": "OXY-GARD",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "05-MAY-2015",
+  "active_ingredients": [
+    {
+      "name": "HYDROGEN PEROXIDE",
+      "strength": "0.5",
+      "unit": "%"
+    },
+    {
+      "name": "SODIUM LINEAR ALKYLATE SULFONATE",
+      "strength": "0.5",
+      "unit": "%"
+    },
+    {
+      "name": "LACTIC ACID",
+      "strength": "1.7",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "ECOLAB CO"
+  ],
+  "status": "APPROVED",
+  "atc": []
+}

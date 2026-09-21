@@ -1,0 +1,28 @@
+{
+  "drug_code": "88725",
+  "din": "02402416",
+  "brand_name": "RIVA-OMEPRAZOLE DR",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "06-JUL-2016",
+  "active_ingredients": [
+    {
+      "name": "OMEPRAZOLE (OMEPRAZOLE MAGNESIUM)",
+      "strength": "20",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET (DELAYED-RELEASE)"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "LABORATOIRE RIVA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "OMEPRAZOLE"
+  ]
+}

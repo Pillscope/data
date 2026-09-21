@@ -1,0 +1,28 @@
+{
+  "drug_code": "89677",
+  "din": "02412209",
+  "brand_name": "TEVA-TOLTERODINE LA",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "21-MAR-2016",
+  "active_ingredients": [
+    {
+      "name": "TOLTERODINE TARTRATE",
+      "strength": "4",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "CAPSULE (EXTENDED RELEASE)"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "TEVA CANADA LIMITED"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "TOLTERODINE"
+  ]
+}

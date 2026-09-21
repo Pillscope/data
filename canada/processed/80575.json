@@ -1,0 +1,28 @@
+{
+  "drug_code": "80575",
+  "din": "02320312",
+  "brand_name": "SANDOZ METHYLPHENIDATE SR",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "08-NOV-2013",
+  "active_ingredients": [
+    {
+      "name": "METHYLPHENIDATE HYDROCHLORIDE",
+      "strength": "20",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET (EXTENDED-RELEASE)"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "SANDOZ CANADA INCORPORATED"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "METHYLPHENIDATE"
+  ]
+}

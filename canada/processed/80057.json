@@ -1,0 +1,39 @@
+{
+  "drug_code": "80057",
+  "din": "02315033",
+  "brand_name": "ANTIBIOTIC CREAM FOR KIDS",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "14-AUG-2012",
+  "active_ingredients": [
+    {
+      "name": "GRAMICIDIN",
+      "strength": "0.25",
+      "unit": "MG"
+    },
+    {
+      "name": "POLYMYXIN B SULFATE",
+      "strength": "10000",
+      "unit": "UNIT"
+    },
+    {
+      "name": "LIDOCAINE HYDROCHLORIDE",
+      "strength": "50",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "CREAM"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "TARO PHARMACEUTICALS INC"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "COMBINATIONS OF ANTIBIOTICS",
+    "COMBINATIONS OF ANTIBIOTICS"
+  ]
+}

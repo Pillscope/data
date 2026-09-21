@@ -1,0 +1,30 @@
+{
+  "drug_code": "11642",
+  "din": "00897639",
+  "brand_name": "ISOPROTERENOL HYDROCHLORIDE INJECTION USP",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "29-APR-2015",
+  "active_ingredients": [
+    {
+      "name": "ISOPROTERENOL HYDROCHLORIDE",
+      "strength": "0.2",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "INTRAMUSCULAR",
+    "INTRAVENOUS",
+    "SUBCUTANEOUS"
+  ],
+  "companies": [
+    "SANDOZ CANADA INCORPORATED"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "ISOPRENALINE"
+  ]
+}

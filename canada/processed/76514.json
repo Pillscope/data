@@ -1,0 +1,28 @@
+{
+  "drug_code": "76514",
+  "din": "02279525",
+  "brand_name": "D.O.R.C. VISION BLUE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "17-APR-2008",
+  "active_ingredients": [
+    {
+      "name": "TRYPAN BLUE",
+      "strength": "0.06",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "DROPS"
+  ],
+  "routes": [
+    "INTRAOCULAR"
+  ],
+  "companies": [
+    "DUTCH OPHTHALMIC RESEARCH CENTER INTERNATIONAL BV"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "TRYPAN BLUE"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "drug_code": "79220",
+  "din": "02306492",
+  "brand_name": "FOOT CURE",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "12-JUL-2017",
+  "active_ingredients": [
+    {
+      "name": "COPPER NAPHTHENATE",
+      "strength": "37.5",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "PARTNAR ANIMAL HEALTH INC"
+  ],
+  "status": "MARKETED",
+  "atc": []
+}

@@ -1,0 +1,28 @@
+{
+  "drug_code": "82675",
+  "din": "02341212",
+  "brand_name": "BUTRANS 10",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "15-JUN-2011",
+  "active_ingredients": [
+    {
+      "name": "BUPRENORPHINE",
+      "strength": "10",
+      "unit": "MCG"
+    }
+  ],
+  "forms": [
+    "PATCH"
+  ],
+  "routes": [
+    "TRANSDERMAL"
+  ],
+  "companies": [
+    "PURDUE PHARMA"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "BUPRENORPHINE"
+  ]
+}

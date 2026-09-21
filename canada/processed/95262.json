@@ -1,0 +1,28 @@
+{
+  "drug_code": "95262",
+  "din": "02464489",
+  "brand_name": "ESBRIET",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "28-JUL-2017",
+  "active_ingredients": [
+    {
+      "name": "PIRFENIDONE",
+      "strength": "267",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "HOFFMANN-LA ROCHE LIMITED"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "PIRFENIDONE"
+  ]
+}

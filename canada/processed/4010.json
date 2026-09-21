@@ -1,0 +1,28 @@
+{
+  "drug_code": "4010",
+  "din": "00514500",
+  "brand_name": "LONITEN 10MG",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "17-MAY-2011",
+  "active_ingredients": [
+    {
+      "name": "MINOXIDIL",
+      "strength": "10",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "PFIZER CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "MINOXIDIL"
+  ]
+}

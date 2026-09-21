@@ -1,0 +1,28 @@
+{
+  "drug_code": "19074",
+  "din": "02177579",
+  "brand_name": "PMS-FLUOXETINE - CAP 10MG",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "01-MAY-2015",
+  "active_ingredients": [
+    {
+      "name": "FLUOXETINE (FLUOXETINE HYDROCHLORIDE)",
+      "strength": "10",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "CAPSULE"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "PHARMASCIENCE INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "FLUOXETINE"
+  ]
+}

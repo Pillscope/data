@@ -1,0 +1,28 @@
+{
+  "drug_code": "74515",
+  "din": "02259893",
+  "brand_name": "TIZANIDINE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "14-MAR-2016",
+  "active_ingredients": [
+    {
+      "name": "TIZANIDINE (TIZANIDINE HYDROCHLORIDE)",
+      "strength": "4",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "AA PHARMA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "TIZANIDINE"
+  ]
+}

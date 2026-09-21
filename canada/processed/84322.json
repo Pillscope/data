@@ -1,0 +1,28 @@
+{
+  "drug_code": "84322",
+  "din": "02358166",
+  "brand_name": "INNOHEP",
+  "class": "Human",
+  "descriptor": "UNIT DOSE 0.45ML PRE-FILLED SYRINGES 10000 ANTI-XA IU/ML PRESERVATIVE FREE",
+  "last_update": "21-SEP-2017",
+  "active_ingredients": [
+    {
+      "name": "TINZAPARIN SODIUM",
+      "strength": "10000",
+      "unit": "UNIT"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "SUBCUTANEOUS"
+  ],
+  "companies": [
+    "LEO PHARMA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "TINZAPARIN"
+  ]
+}

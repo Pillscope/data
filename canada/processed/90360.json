@@ -1,0 +1,43 @@
+{
+  "drug_code": "90360",
+  "din": "02419068",
+  "brand_name": "VITA LIFT SPF 15 DAILY MOISTURIZER",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "07-AUG-2014",
+  "active_ingredients": [
+    {
+      "name": "AVOBENZONE",
+      "strength": "3.0",
+      "unit": "%"
+    },
+    {
+      "name": "OCTOCRYLENE",
+      "strength": "5.5",
+      "unit": "%"
+    },
+    {
+      "name": "OCTISALATE",
+      "strength": "5.0",
+      "unit": "%"
+    },
+    {
+      "name": "HOMOSALATE",
+      "strength": "2.0",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "CREAM"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "L' OREAL CANADA"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "COMBINATIONS OF PROTECTIVES AGAINST UV-RADIATION"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "drug_code": "92869",
+  "din": "02443910",
+  "brand_name": "BELKYRA",
+  "class": "Human",
+  "descriptor": "2ML SINGLE USE VIALS",
+  "last_update": "09-FEB-2017",
+  "active_ingredients": [
+    {
+      "name": "DEOXYCHOLIC ACID",
+      "strength": "10",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "SUBCUTANEOUS"
+  ],
+  "companies": [
+    "KYTHERA BIOPHARMACEUTICALS, INC."
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "DEOXYCHOLIC ACID"
+  ]
+}

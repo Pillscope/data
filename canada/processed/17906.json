@@ -1,0 +1,28 @@
+{
+  "drug_code": "17906",
+  "din": "02039540",
+  "brand_name": "TENORMIN 100MG",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "23-DEC-2008",
+  "active_ingredients": [
+    {
+      "name": "ATENOLOL",
+      "strength": "100",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "ASTRAZENECA CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "ATENOLOL"
+  ]
+}

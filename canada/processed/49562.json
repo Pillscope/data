@@ -1,0 +1,26 @@
+{
+  "drug_code": "49562",
+  "din": "02230508",
+  "brand_name": "SACOX 120",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "24-AUG-2016",
+  "active_ingredients": [
+    {
+      "name": "SALINOMYCIN SODIUM",
+      "strength": "120",
+      "unit": "G"
+    }
+  ],
+  "forms": [
+    "DRUG PREMIX"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "HUVEPHARMA EOOD"
+  ],
+  "status": "APPROVED",
+  "atc": []
+}

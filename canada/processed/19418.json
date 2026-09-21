@@ -1,0 +1,28 @@
+{
+  "drug_code": "19418",
+  "din": "01977415",
+  "brand_name": "ACETAMINOPHEN CAPLET 325MG USP",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "10-MAY-2016",
+  "active_ingredients": [
+    {
+      "name": "ACETAMINOPHEN",
+      "strength": "325",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "LABORATOIRES TRIANON INC"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "ACETAMINOPHEN (PARACETAMOL)"
+  ]
+}

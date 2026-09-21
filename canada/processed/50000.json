@@ -1,0 +1,28 @@
+{
+  "drug_code": "50000",
+  "din": "02230737",
+  "brand_name": "LOSEC 10 MG",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "17-MAY-2006",
+  "active_ingredients": [
+    {
+      "name": "OMEPRAZOLE (OMEPRAZOLE MAGNESIUM)",
+      "strength": "10",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET (DELAYED-RELEASE)"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "ASTRAZENECA CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "OMEPRAZOLE"
+  ]
+}

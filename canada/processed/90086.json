@@ -1,0 +1,28 @@
+{
+  "drug_code": "90086",
+  "din": "02416298",
+  "brand_name": "MED-DUTASTERIDE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "08-JAN-2016",
+  "active_ingredients": [
+    {
+      "name": "DUTASTERIDE",
+      "strength": "0.5",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "CAPSULE"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "GENERIC MEDICAL PARTNERS INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "DUTASTERIDE"
+  ]
+}

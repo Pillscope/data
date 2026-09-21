@@ -1,0 +1,28 @@
+{
+  "drug_code": "95055",
+  "din": "02462729",
+  "brand_name": "DOBUTAMINE INJECTION USP",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "01-FEB-2018",
+  "active_ingredients": [
+    {
+      "name": "DOBUTAMINE (DOBUTAMINE HYDROCHLORIDE)",
+      "strength": "12.5",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "TELIGENT OU"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "DOBUTAMINE"
+  ]
+}

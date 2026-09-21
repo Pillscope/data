@@ -1,0 +1,28 @@
+{
+  "drug_code": "92127",
+  "din": "02436957",
+  "brand_name": "OXALIPLATIN INJECTION",
+  "class": "Human",
+  "descriptor": "SINGLE USE VIALS",
+  "last_update": "08-JAN-2016",
+  "active_ingredients": [
+    {
+      "name": "OXALIPLATIN",
+      "strength": "5",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "SANDOZ CANADA INCORPORATED"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "OXALIPLATIN"
+  ]
+}

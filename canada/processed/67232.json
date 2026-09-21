@@ -1,0 +1,33 @@
+{
+  "drug_code": "67232",
+  "din": "02243329",
+  "brand_name": "CETAPHIL DAILY FACIAL MOISTURIZER SPF 15",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "01-DEC-2005",
+  "active_ingredients": [
+    {
+      "name": "AVOBENZONE",
+      "strength": "3",
+      "unit": "%"
+    },
+    {
+      "name": "OCTOCRYLENE",
+      "strength": "10",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "LOTION"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "GALDERMA CANADA INC"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "COMBINATIONS OF PROTECTIVES AGAINST UV-RADIATION"
+  ]
+}

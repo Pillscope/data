@@ -1,0 +1,28 @@
+{
+  "drug_code": "87868",
+  "din": "02393468",
+  "brand_name": "APO-RIZATRIPTAN",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "12-MAR-2013",
+  "active_ingredients": [
+    {
+      "name": "RIZATRIPTAN (RIZATRIPTAN BENZOATE)",
+      "strength": "5",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "APOTEX INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "RIZATRIPTAN"
+  ]
+}

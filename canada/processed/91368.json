@@ -1,0 +1,28 @@
+{
+  "drug_code": "91368",
+  "din": "02429241",
+  "brand_name": "JAMP-RIZATRIPTAN IR",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "06-JUL-2016",
+  "active_ingredients": [
+    {
+      "name": "RIZATRIPTAN (RIZATRIPTAN BENZOATE)",
+      "strength": "10",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "JAMP PHARMA CORPORATION"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "RIZATRIPTAN"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "drug_code": "5863",
+  "din": "00584908",
+  "brand_name": "BACITIN",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "29-APR-2015",
+  "active_ingredients": [
+    {
+      "name": "BACITRACIN",
+      "strength": "500",
+      "unit": "UNIT"
+    }
+  ],
+  "forms": [
+    "OINTMENT"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "PENDOPHARM DIVISION OF DE PHARMASCIENCE INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "BACITRACIN"
+  ]
+}

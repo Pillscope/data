@@ -1,0 +1,34 @@
+{
+  "drug_code": "88252",
+  "din": "02397587",
+  "brand_name": "FOOTWORKS HEALTHY CRACKED HEEL CREAM",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "13-MAR-2015",
+  "active_ingredients": [
+    {
+      "name": "LIDOCAINE",
+      "strength": "4",
+      "unit": "%"
+    },
+    {
+      "name": "BENZALKONIUM CHLORIDE",
+      "strength": "0.13",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "CREAM"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "AVON CANADA INC"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "LIDOCAINE",
+    "LIDOCAINE"
+  ]
+}

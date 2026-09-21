@@ -1,0 +1,28 @@
+{
+  "drug_code": "85445",
+  "din": "02369524",
+  "brand_name": "JEVTANA",
+  "class": "Human",
+  "descriptor": "1.5ML SINGLE-USE VIALS. FOR I.V. INFUSION ONLY.",
+  "last_update": "30-MAY-2013",
+  "active_ingredients": [
+    {
+      "name": "CABAZITAXEL",
+      "strength": "40",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "SANOFI-AVENTIS CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "Cabazitaxel"
+  ]
+}

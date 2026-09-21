@@ -1,0 +1,28 @@
+{
+  "drug_code": "95524",
+  "din": "02466864",
+  "brand_name": "ENTUZITY KWIKPEN",
+  "class": "Human",
+  "descriptor": "PREFILLED PENS",
+  "last_update": "21-NOV-2017",
+  "active_ingredients": [
+    {
+      "name": "INSULIN INJECTION HUMAN BIOSYNTHETIC",
+      "strength": "500",
+      "unit": "UNIT"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "SUBCUTANEOUS"
+  ],
+  "companies": [
+    "ELI LILLY CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "INSULIN (HUMAN)"
+  ]
+}

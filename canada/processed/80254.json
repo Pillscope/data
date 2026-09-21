@@ -1,0 +1,38 @@
+{
+  "drug_code": "80254",
+  "din": "02317036",
+  "brand_name": "SPORT PERFORMANCE SUNSCREEN STICK ECRAN SOLAIRE EN B\u00c3\u0082TONNET SPF FPS 50",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "28-JAN-2016",
+  "active_ingredients": [
+    {
+      "name": "AVOBENZONE",
+      "strength": "2",
+      "unit": "%"
+    },
+    {
+      "name": "OCTOCRYLENE",
+      "strength": "10",
+      "unit": "%"
+    },
+    {
+      "name": "OXYBENZONE",
+      "strength": "6",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "STICK"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "EDGEWELL PERSONAL CARE CANADA, ULC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "COMBINATIONS OF PROTECTIVES AGAINST UV-RADIATION"
+  ]
+}

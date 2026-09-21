@@ -1,0 +1,43 @@
+{
+  "drug_code": "13920",
+  "din": "02014424",
+  "brand_name": "CARBON MONOX, HELIUM, OXYGEN, NITROGEN L.D.M.",
+  "class": "Human",
+  "descriptor": "CO:0.2-3%, HE:9.5-10.5%, O2:20.5-21.5%, BALANCED WITH N2",
+  "last_update": "14-JUL-2010",
+  "active_ingredients": [
+    {
+      "name": "OXYGEN",
+      "strength": "21.5",
+      "unit": "%"
+    },
+    {
+      "name": "HELIUM",
+      "strength": "10.5",
+      "unit": "%"
+    },
+    {
+      "name": "NITROGEN",
+      "strength": "67.7",
+      "unit": "%"
+    },
+    {
+      "name": "CARBON MONOXIDE",
+      "strength": "0.3",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "GAS"
+  ],
+  "routes": [
+    "INHALATION"
+  ],
+  "companies": [
+    "PRAXAIR CANADA INC"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "MEDICAL GASES"
+  ]
+}

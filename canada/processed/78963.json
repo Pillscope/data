@@ -1,0 +1,30 @@
+{
+  "drug_code": "78963",
+  "din": "02304341",
+  "brand_name": "SODIUM CHLORIDE INJECTION USP 0.9%",
+  "class": "Human",
+  "descriptor": "SINGLE-USE",
+  "last_update": "14-FEB-2018",
+  "active_ingredients": [
+    {
+      "name": "SODIUM CHLORIDE",
+      "strength": "9",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "INTRAMUSCULAR",
+    "INTRAVENOUS",
+    "SUBCUTANEOUS"
+  ],
+  "companies": [
+    "TELIGENT OU"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "SOLVENTS AND DILUTING AGENTS,INCL IRRIGAT SOLUT"
+  ]
+}

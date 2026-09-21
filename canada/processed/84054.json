@@ -1,0 +1,28 @@
+{
+  "drug_code": "84054",
+  "din": "02355299",
+  "brand_name": "JAMP - ACETAMINOPHEN BLAZON 500MG TABLETS",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "18-JAN-2013",
+  "active_ingredients": [
+    {
+      "name": "ACETAMINOPHEN",
+      "strength": "500",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "JAMP PHARMA CORPORATION"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "ACETAMINOPHEN (PARACETAMOL)"
+  ]
+}

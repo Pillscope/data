@@ -1,0 +1,48 @@
+{
+  "drug_code": "91917",
+  "din": "02434873",
+  "brand_name": "ARTISTRY IDEAL RADIANCE ILLUMINATING CC CREAM",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "19-MAY-2015",
+  "active_ingredients": [
+    {
+      "name": "ZINC OXIDE",
+      "strength": "9.8",
+      "unit": "%"
+    },
+    {
+      "name": "TITANIUM DIOXIDE",
+      "strength": "0.84",
+      "unit": "%"
+    },
+    {
+      "name": "OXYBENZONE",
+      "strength": "0.5",
+      "unit": "%"
+    },
+    {
+      "name": "ENSULIZOLE",
+      "strength": "2.0",
+      "unit": "%"
+    },
+    {
+      "name": "OCTINOXATE",
+      "strength": "5.5",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "CREAM"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "AMWAY CANADA CORPORATION"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "COMBINATIONS OF PROTECTIVES AGAINST UV-RADIATION"
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "drug_code": "89205",
+  "din": "02407345",
+  "brand_name": "WOUND CLEAR SPRAY",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "15-DEC-2017",
+  "active_ingredients": [
+    {
+      "name": "GENTIAN VIOLET",
+      "strength": "2.4",
+      "unit": "MG"
+    },
+    {
+      "name": "NEOMYCIN (NEOMYCIN SULFATE)",
+      "strength": "1",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "DOMINION VETERINARY LABORATORIES LTD."
+  ],
+  "status": "APPROVED",
+  "atc": []
+}

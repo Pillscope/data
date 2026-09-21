@@ -1,0 +1,28 @@
+{
+  "drug_code": "78724",
+  "din": "02301911",
+  "brand_name": "OSTO-D2",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "02-OCT-2015",
+  "active_ingredients": [
+    {
+      "name": "VITAMIN D2",
+      "strength": "50000",
+      "unit": "UNIT"
+    }
+  ],
+  "forms": [
+    "CAPSULE"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "PALADIN LABS INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "ERGOCALCIFEROL"
+  ]
+}

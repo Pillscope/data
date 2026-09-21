@@ -1,0 +1,26 @@
+{
+  "drug_code": "62370",
+  "din": "02238928",
+  "brand_name": "PROGRAM",
+  "class": "Veterinary",
+  "descriptor": "FLAVOR TABS",
+  "last_update": "25-JUL-2017",
+  "active_ingredients": [
+    {
+      "name": "LUFENURON",
+      "strength": "90",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "ELANCO CANADA LIMITED"
+  ],
+  "status": "APPROVED",
+  "atc": []
+}

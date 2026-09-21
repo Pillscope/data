@@ -1,0 +1,26 @@
+{
+  "drug_code": "14300",
+  "din": "01983253",
+  "brand_name": "DEPOCILLIN",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "03-JAN-2018",
+  "active_ingredients": [
+    {
+      "name": "PENICILLIN G PROCAINE",
+      "strength": "300000",
+      "unit": "UNIT"
+    }
+  ],
+  "forms": [
+    "SUSPENSION"
+  ],
+  "routes": [
+    "INTRAMUSCULAR"
+  ],
+  "companies": [
+    "INTERVET CANADA CORP"
+  ],
+  "status": "MARKETED",
+  "atc": []
+}

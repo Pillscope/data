@@ -1,0 +1,28 @@
+{
+  "drug_code": "94502",
+  "din": "02457997",
+  "brand_name": "IZBA",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "24-MAY-2017",
+  "active_ingredients": [
+    {
+      "name": "TRAVOPROST",
+      "strength": "0.003",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "OPHTHALMIC"
+  ],
+  "companies": [
+    "NOVARTIS PHARMACEUTICALS CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "TRAVOPROST"
+  ]
+}

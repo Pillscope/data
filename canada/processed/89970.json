@@ -1,0 +1,28 @@
+{
+  "drug_code": "89970",
+  "din": "02415097",
+  "brand_name": "OLD DUTCH BIODEGRADABLE ALL PURPOSE TOUT USAGE DISINFECTANT D\u00c3\u0089SINFECTANT",
+  "class": "Disinfectant",
+  "descriptor": "LIQUID",
+  "last_update": "27-SEP-2016",
+  "active_ingredients": [
+    {
+      "name": "BENZALKONIUM CHLORIDE",
+      "strength": "0.072",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "SPRAY"
+  ],
+  "routes": [
+    "DISINFECTANT (Domestic)"
+  ],
+  "companies": [
+    "LAVO"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "TECHNICAL DISINFECTANTS"
+  ]
+}

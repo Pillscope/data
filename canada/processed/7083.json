@@ -1,0 +1,28 @@
+{
+  "drug_code": "7083",
+  "din": "00658529",
+  "brand_name": "DAKIN'S SOLUTION 0.5% MODIFIED",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "10-MAY-2016",
+  "active_ingredients": [
+    {
+      "name": "SODIUM HYPOCHLORITE",
+      "strength": "5",
+      "unit": "G"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "CENTURY PHARMACEUTICALS INC."
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "SODIUM HYPOCHLORITE"
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "drug_code": "79858",
+  "din": "02313030",
+  "brand_name": "SIMPLE GREEN D PRO 3",
+  "class": "Disinfectant",
+  "descriptor": "",
+  "last_update": "11-MAR-2010",
+  "active_ingredients": [
+    {
+      "name": "DIDECYL DIMETHYL AMMONIUM CHLORIDE",
+      "strength": "1.875",
+      "unit": "%"
+    },
+    {
+      "name": "BENZALKONIUM CHLORIDE",
+      "strength": "1.248",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "LIQUID"
+  ],
+  "routes": [
+    "DISINFECTANT (Food Premises)",
+    "DISINFECTANT (Hospital/HC Facilities)"
+  ],
+  "companies": [
+    "SUNSHINE MAKERS, INC."
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "TECHNICAL DISINFECTANTS"
+  ]
+}

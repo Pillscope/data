@@ -1,0 +1,33 @@
+{
+  "drug_code": "89055",
+  "din": "02405784",
+  "brand_name": "COMPLETE REVITALENS MULTI-PURPOSE DISINFECTING SOLUTION",
+  "class": "Disinfectant",
+  "descriptor": "",
+  "last_update": "29-AUG-2014",
+  "active_ingredients": [
+    {
+      "name": "POLYQUATERNIUM 1",
+      "strength": "0.0003",
+      "unit": "%"
+    },
+    {
+      "name": "Alexidine Dihydrochloride",
+      "strength": "0.00016",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "DISINFECTANT (Contact Lens)"
+  ],
+  "companies": [
+    "AMO CANADA COMPANY"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "ARTIFICIAL TEARS AND OTHER INDIFFERENT PREPARATIONS."
+  ]
+}

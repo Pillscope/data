@@ -1,0 +1,28 @@
+{
+  "drug_code": "95031",
+  "din": "02462559",
+  "brand_name": "MINT-ITRACONAZOLE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "30-MAY-2017",
+  "active_ingredients": [
+    {
+      "name": "ITRACONAZOLE",
+      "strength": "100",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "CAPSULE"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "MINT PHARMACEUTICALS INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "ITRACONAZOLE"
+  ]
+}

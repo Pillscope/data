@@ -1,0 +1,28 @@
+{
+  "drug_code": "18742",
+  "din": "02148382",
+  "brand_name": "MINIMS CYCLOPENTOLATE HYDROCHLORIDE 1%",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "14-OCT-2016",
+  "active_ingredients": [
+    {
+      "name": "CYCLOPENTOLATE HYDROCHLORIDE",
+      "strength": "1",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "DROPS"
+  ],
+  "routes": [
+    "OPHTHALMIC"
+  ],
+  "companies": [
+    "VALEANT CANADA LP/VALEANT CANADA S.E.C."
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "CYCLOPENTOLATE"
+  ]
+}

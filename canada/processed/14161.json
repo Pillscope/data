@@ -1,0 +1,28 @@
+{
+  "drug_code": "14161",
+  "din": "02029448",
+  "brand_name": "ELMIRON",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "04-DEC-2015",
+  "active_ingredients": [
+    {
+      "name": "PENTOSAN POLYSULFATE SODIUM",
+      "strength": "100",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "CAPSULE"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "JANSSEN INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "PENTOSTAN POLYSULFATE SODIUM"
+  ]
+}

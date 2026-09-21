@@ -1,0 +1,34 @@
+{
+  "drug_code": "86317",
+  "din": "02377462",
+  "brand_name": "ANALGESIC AND MUSCLE RELAXANT",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "28-NOV-2017",
+  "active_ingredients": [
+    {
+      "name": "IBUPROFEN",
+      "strength": "400",
+      "unit": "MG"
+    },
+    {
+      "name": "METHOCARBAMOL",
+      "strength": "500",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "PHARMASCIENCE INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "METHOCARBAMOL, COMBINATIONS EXCL PSYCHOLEPTICS",
+    "METHOCARBAMOL, COMBINATIONS EXCL PSYCHOLEPTICS"
+  ]
+}

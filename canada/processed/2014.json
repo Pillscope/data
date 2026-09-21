@@ -1,0 +1,28 @@
+{
+  "drug_code": "2014",
+  "din": "00319406",
+  "brand_name": "DIPYRONE INJ 50%",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "02-JUL-1999",
+  "active_ingredients": [
+    {
+      "name": "DIPYRONE",
+      "strength": "50",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "LIQUID"
+  ],
+  "routes": [
+    "INTRAMUSCULAR",
+    "INTRAVENOUS",
+    "SUBCUTANEOUS"
+  ],
+  "companies": [
+    "PROFESSIONAL VETERINARY LABORATORIES"
+  ],
+  "status": "MARKETED",
+  "atc": []
+}

@@ -1,0 +1,28 @@
+{
+  "drug_code": "90279",
+  "din": "02418215",
+  "brand_name": "JAMP-IRBESARTAN",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "14-JAN-2016",
+  "active_ingredients": [
+    {
+      "name": "IRBESARTAN",
+      "strength": "300",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "JAMP PHARMA CORPORATION"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "IRBESARTAN"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "drug_code": "82276",
+  "din": "02337150",
+  "brand_name": "RIVA-OLANZAPINE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "20-MAY-2010",
+  "active_ingredients": [
+    {
+      "name": "OLANZAPINE",
+      "strength": "10",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "LABORATOIRE RIVA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "OLANZAPINE"
+  ]
+}

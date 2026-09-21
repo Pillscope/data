@@ -1,0 +1,28 @@
+{
+  "drug_code": "5917",
+  "din": "00585114",
+  "brand_name": "APO IBUPROFEN TAB 600MG",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "09-MAR-2006",
+  "active_ingredients": [
+    {
+      "name": "IBUPROFEN",
+      "strength": "600",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "APOTEX INC"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "IBUPROFEN"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "drug_code": "81019",
+  "din": "02324768",
+  "brand_name": "PMS-ZOLMITRIPTAN ODT",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "11-JUN-2012",
+  "active_ingredients": [
+    {
+      "name": "ZOLMITRIPTAN",
+      "strength": "2.5",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET (ORALLY DISINTEGRATING)"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "PHARMASCIENCE INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "ZOLMITRIPTAN"
+  ]
+}

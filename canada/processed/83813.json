@@ -1,0 +1,28 @@
+{
+  "drug_code": "83813",
+  "din": "02352893",
+  "brand_name": "TEVA-NEVIRAPINE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "09-AUG-2012",
+  "active_ingredients": [
+    {
+      "name": "NEVIRAPINE",
+      "strength": "200",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "TEVA CANADA LIMITED"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "NEVIRAPINE"
+  ]
+}

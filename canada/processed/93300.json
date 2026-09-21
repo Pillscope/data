@@ -1,0 +1,28 @@
+{
+  "drug_code": "93300",
+  "din": "02447401",
+  "brand_name": "OBIZUR",
+  "class": "Human",
+  "descriptor": "SINGLE DOSE VIAL",
+  "last_update": "25-APR-2018",
+  "active_ingredients": [
+    {
+      "name": "ANTIHEMOPHILIC FACTOR (RECOMBINANT) PORCINE SEQUENCE",
+      "strength": "500",
+      "unit": "UNIT"
+    }
+  ],
+  "forms": [
+    "POWDER FOR SOLUTION"
+  ],
+  "routes": [
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "BAXALTA CANADA CORPORATION"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "COAGULATION FACTOR VIII"
+  ]
+}

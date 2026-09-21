@@ -1,0 +1,30 @@
+{
+  "drug_code": "66965",
+  "din": "02243098",
+  "brand_name": "ACETYLCYSTEINE SOLUTION",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "05-MAY-2015",
+  "active_ingredients": [
+    {
+      "name": "ACETYLCYSTEINE",
+      "strength": "200",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "INHALATION",
+    "INTRAVENOUS",
+    "ORAL"
+  ],
+  "companies": [
+    "SANDOZ CANADA INCORPORATED"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "ACETYLCYSTEINE"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "drug_code": "86843",
+  "din": "02382601",
+  "brand_name": "NALOXONE HYDROCHLORIDE INJECTION SDZ PRESERVATIVE FREE",
+  "class": "Human",
+  "descriptor": "SINGLE USE 1 ML AMPOULE",
+  "last_update": "17-JUL-2013",
+  "active_ingredients": [
+    {
+      "name": "NALOXONE HYDROCHLORIDE (NALOXONE HYDROCHLORIDE DIHYDRATE)",
+      "strength": "0.4",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "INTRAMUSCULAR",
+    "INTRAVENOUS",
+    "SUBCUTANEOUS"
+  ],
+  "companies": [
+    "SANDOZ CANADA INCORPORATED"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "NALOXONE"
+  ]
+}

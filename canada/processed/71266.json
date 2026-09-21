@@ -1,0 +1,26 @@
+{
+  "drug_code": "71266",
+  "din": "02247031",
+  "brand_name": "PROPALIN (PHENYLPROPANOLAMINE HYDROCHLORIDE) SYRUP FOR DOGS",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "22-JUN-2005",
+  "active_ingredients": [
+    {
+      "name": "PHENYLPROPANOLAMINE HYDROCHLORIDE",
+      "strength": "50",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SYRUP"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "VETOQUINOL N A INC"
+  ],
+  "status": "APPROVED",
+  "atc": []
+}

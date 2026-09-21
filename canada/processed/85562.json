@@ -1,0 +1,28 @@
+{
+  "drug_code": "85562",
+  "din": "02370476",
+  "brand_name": "SAMSCA",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "02-NOV-2016",
+  "active_ingredients": [
+    {
+      "name": "Tolvaptan",
+      "strength": "30",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "OTSUKA PHARMACEUTICAL CO LTD"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "TOLVAPTAN"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "drug_code": "85673",
+  "din": "02371588",
+  "brand_name": "OVIDREL",
+  "class": "Human",
+  "descriptor": "1 PRE-FILLED PEN OF 250 \u00c2\u00b5G SOLUTION FOR INJECTION",
+  "last_update": "25-SEP-2013",
+  "active_ingredients": [
+    {
+      "name": "CHORIOGONADOTROPIN ALPHA",
+      "strength": "250",
+      "unit": "MCG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "SUBCUTANEOUS"
+  ],
+  "companies": [
+    "EMD SERONO A DIVISION OF EMD INC CANADA"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "CHORIOGONADOTROPIN ALFA"
+  ]
+}

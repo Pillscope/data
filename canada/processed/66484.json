@@ -1,0 +1,28 @@
+{
+  "drug_code": "66484",
+  "din": "02242692",
+  "brand_name": "LOVENOX HP",
+  "class": "Human",
+  "descriptor": "SINGLE DOSE PRE-FILLED SYRINGE 120MG/0.8ML",
+  "last_update": "21-SEP-2017",
+  "active_ingredients": [
+    {
+      "name": "ENOXAPARIN SODIUM",
+      "strength": "120",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "SUBCUTANEOUS"
+  ],
+  "companies": [
+    "SANOFI-AVENTIS CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "ENOXAPARIN"
+  ]
+}

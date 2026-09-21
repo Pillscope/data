@@ -1,0 +1,28 @@
+{
+  "drug_code": "82485",
+  "din": "02339242",
+  "brand_name": "VENLAFAXINE XR",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "03-JAN-2013",
+  "active_ingredients": [
+    {
+      "name": "VENLAFAXINE (VENLAFAXINE HYDROCHLORIDE)",
+      "strength": "37.5",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "CAPSULE (EXTENDED RELEASE)"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "PRO DOC LIMITEE"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "VENLAFAXINE"
+  ]
+}

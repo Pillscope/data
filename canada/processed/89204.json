@@ -1,0 +1,36 @@
+{
+  "drug_code": "89204",
+  "din": "02407337",
+  "brand_name": "GUARD AND WOUND SPRAY",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "30-JUN-2015",
+  "active_ingredients": [
+    {
+      "name": "GENTIAN VIOLET",
+      "strength": "2",
+      "unit": "MG"
+    },
+    {
+      "name": "UREA",
+      "strength": "12",
+      "unit": "MG"
+    },
+    {
+      "name": "BORIC ACID",
+      "strength": "5",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "DOMINION VETERINARY LABORATORIES LTD."
+  ],
+  "status": "APPROVED",
+  "atc": []
+}

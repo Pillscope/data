@@ -1,0 +1,28 @@
+{
+  "drug_code": "87658",
+  "din": "02391236",
+  "brand_name": "PMS-TELMISARTAN",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "20-DEC-2013",
+  "active_ingredients": [
+    {
+      "name": "TELMISARTAN",
+      "strength": "40",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "PHARMASCIENCE INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "TELMISARTAN"
+  ]
+}

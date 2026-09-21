@@ -1,0 +1,28 @@
+{
+  "drug_code": "91722",
+  "din": "02432803",
+  "brand_name": "EXELON PATCH 15",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "01-NOV-2017",
+  "active_ingredients": [
+    {
+      "name": "RIVASTIGMINE",
+      "strength": "13.3",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "PATCH"
+  ],
+  "routes": [
+    "TRANSDERMAL"
+  ],
+  "companies": [
+    "NOVARTIS PHARMACEUTICALS CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "RIVASTIGMINE"
+  ]
+}

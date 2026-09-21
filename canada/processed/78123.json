@@ -1,0 +1,28 @@
+{
+  "drug_code": "78123",
+  "din": "02295873",
+  "brand_name": "FLEXITOL MEDICATED ANTI-FUNGAL CREAM",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "30-SEP-2015",
+  "active_ingredients": [
+    {
+      "name": "TOLNAFTATE",
+      "strength": "1",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "CREAM"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "LACORIUM HEALTH INTERNATIONAL PTY LTD."
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "TOLNAFTATE"
+  ]
+}

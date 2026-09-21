@@ -1,0 +1,38 @@
+{
+  "drug_code": "77120",
+  "din": "02285703",
+  "brand_name": "DENOREX EXTRA STRENGTH MEDICATED SHAMPOO",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "14-DEC-2016",
+  "active_ingredients": [
+    {
+      "name": "COAL TAR",
+      "strength": "2.4",
+      "unit": "%"
+    },
+    {
+      "name": "CHLOROXYLENOL",
+      "strength": "0.5",
+      "unit": "%"
+    },
+    {
+      "name": "MENTHOL",
+      "strength": "1.5",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "SHAMPOO"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "NEOTERIC COSMETICS INC."
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "TARS"
+  ]
+}

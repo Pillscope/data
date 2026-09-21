@@ -1,0 +1,28 @@
+{
+  "drug_code": "20312",
+  "din": "02186926",
+  "brand_name": "LANSOYL SUGAR FREE - JELLY - 78%",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "18-JUL-2006",
+  "active_ingredients": [
+    {
+      "name": "MINERAL OIL",
+      "strength": "78",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "GEL"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "AURIUM PHARMA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "LIQUID PARAFFIN"
+  ]
+}

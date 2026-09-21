@@ -1,0 +1,28 @@
+{
+  "drug_code": "81650",
+  "din": "02330741",
+  "brand_name": "PAIN AND FEVER",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "03-AUG-2011",
+  "active_ingredients": [
+    {
+      "name": "ACETAMINOPHEN",
+      "strength": "160",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SUSPENSION"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "ACCUDIAL PHARMACEUTICAL INC"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "ACETAMINOPHEN (PARACETAMOL)"
+  ]
+}

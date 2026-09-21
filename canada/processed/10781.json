@@ -1,0 +1,28 @@
+{
+  "drug_code": "10781",
+  "din": "00828920",
+  "brand_name": "DEPO-MEDROL",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "28-OCT-2015",
+  "active_ingredients": [
+    {
+      "name": "METHYLPREDNISOLONE ACETATE",
+      "strength": "40",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SUSPENSION"
+  ],
+  "routes": [
+    "INTRALESIONAL",
+    "INTRAMUSCULAR",
+    "INTRASYNOVIAL"
+  ],
+  "companies": [
+    "ZOETIS CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": []
+}

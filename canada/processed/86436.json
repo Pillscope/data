@@ -1,0 +1,28 @@
+{
+  "drug_code": "86436",
+  "din": "02378574",
+  "brand_name": "MYCOPHENOLATE MOFETIL TABLETS",
+  "class": "Human",
+  "descriptor": "FILM-COATED TABLETS",
+  "last_update": "02-MAR-2012",
+  "active_ingredients": [
+    {
+      "name": "MYCOPHENOLATE MOFETIL",
+      "strength": "500",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "ACCORD HEALTHCARE INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "MYCOPHENOLIC ACID"
+  ]
+}

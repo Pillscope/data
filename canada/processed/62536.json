@@ -1,0 +1,28 @@
+{
+  "drug_code": "62536",
+  "din": "02239081",
+  "brand_name": "RIVA-METFORMIN",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "18-JAN-2017",
+  "active_ingredients": [
+    {
+      "name": "METFORMIN HYDROCHLORIDE",
+      "strength": "500",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "LABORATOIRE RIVA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "METFORMIN"
+  ]
+}

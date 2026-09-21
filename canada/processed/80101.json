@@ -1,0 +1,34 @@
+{
+  "drug_code": "80101",
+  "din": "02315475",
+  "brand_name": "COLD LIQUID GRAPE FLAVOUR",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "04-APR-2016",
+  "active_ingredients": [
+    {
+      "name": "PHENYLEPHRINE HYDROCHLORIDE",
+      "strength": "5",
+      "unit": "MG"
+    },
+    {
+      "name": "BROMPHENIRAMINE MALEATE",
+      "strength": "2",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "LIQUID"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "PHARMETICS (2011) INC"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "PHENYLEPHRINE, COMBINATIONS",
+    "PHENYLEPHRINE, COMBINATIONS"
+  ]
+}

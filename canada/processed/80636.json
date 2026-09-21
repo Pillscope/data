@@ -1,0 +1,33 @@
+{
+  "drug_code": "80636",
+  "din": "02320940",
+  "brand_name": "BENYLIN EXTRA STRENGTH MUCUS & PHLEGM",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "22-NOV-2017",
+  "active_ingredients": [
+    {
+      "name": "GUAIFENESIN",
+      "strength": "200",
+      "unit": "MG"
+    },
+    {
+      "name": "MENTHOL",
+      "strength": "15",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SYRUP"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "MCNEIL CONSUMER HEALTHCARE DIVISION OF JOHNSON & JOHNSON INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "GUAIFENESIN"
+  ]
+}

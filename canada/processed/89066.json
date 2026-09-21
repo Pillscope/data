@@ -1,0 +1,33 @@
+{
+  "drug_code": "89066",
+  "din": "02405903",
+  "brand_name": "CHILDREN'S COUGH & COLD RELIEF",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "13-JAN-2015",
+  "active_ingredients": [
+    {
+      "name": "PSEUDOEPHEDRINE HYDROCHLORIDE",
+      "strength": "15",
+      "unit": "MG"
+    },
+    {
+      "name": "DEXTROMETHORPHAN HYDROBROMIDE",
+      "strength": "7.5",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SYRUP"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "TRILLIUM HEALTH CARE PRODUCTS INC"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "COMBINATIONS"
+  ]
+}

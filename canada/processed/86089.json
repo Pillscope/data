@@ -1,0 +1,31 @@
+{
+  "drug_code": "86089",
+  "din": "02375486",
+  "brand_name": "TRIFEXIS",
+  "class": "Veterinary",
+  "descriptor": "9.2 TO 18.2 KG BODY WEIGHT",
+  "last_update": "28-MAR-2018",
+  "active_ingredients": [
+    {
+      "name": "MILBEMYCIN OXIME",
+      "strength": "9.3",
+      "unit": "MG"
+    },
+    {
+      "name": "SPINOSAD",
+      "strength": "560",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET (CHEWABLE)"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "ELANCO CANADA LIMITED"
+  ],
+  "status": "APPROVED",
+  "atc": []
+}

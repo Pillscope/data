@@ -1,0 +1,28 @@
+{
+  "drug_code": "89148",
+  "din": "02406802",
+  "brand_name": "SOFTSOAP ANTIBACTERIAL",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "06-FEB-2014",
+  "active_ingredients": [
+    {
+      "name": "BENZALKONIUM CHLORIDE",
+      "strength": "0.13",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "LIQUID"
+  ],
+  "routes": [
+    "TOPICAL (HOUSEHOLD)"
+  ],
+  "companies": [
+    "COLGATE-PALMOLIVE CANADA INC"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "BENZALKONIUM"
+  ]
+}

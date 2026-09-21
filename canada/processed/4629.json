@@ -1,0 +1,38 @@
+{
+  "drug_code": "4629",
+  "din": "00476242",
+  "brand_name": "ANUGESIC-HC SUPPOSITORIES",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "29-APR-2015",
+  "active_ingredients": [
+    {
+      "name": "HYDROCORTISONE ACETATE",
+      "strength": "10",
+      "unit": "MG"
+    },
+    {
+      "name": "PRAMOXINE HYDROCHLORIDE",
+      "strength": "20",
+      "unit": "MG"
+    },
+    {
+      "name": "ZINC SULFATE",
+      "strength": "10",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SUPPOSITORY"
+  ],
+  "routes": [
+    "RECTAL"
+  ],
+  "companies": [
+    "MCNEIL CONSUMER HEALTHCARE DIVISION OF JOHNSON & JOHNSON INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "HYDROCORTISONE, COMBINATIONS"
+  ]
+}

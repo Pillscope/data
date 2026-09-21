@@ -1,0 +1,28 @@
+{
+  "drug_code": "94136",
+  "din": "02454653",
+  "brand_name": "LEVETIRACETAM",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "11-JAN-2018",
+  "active_ingredients": [
+    {
+      "name": "LEVETIRACETAM",
+      "strength": "250",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "PHARMASCIENCE INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "LEVETIRACETAM"
+  ]
+}

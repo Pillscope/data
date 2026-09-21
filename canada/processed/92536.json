@@ -1,0 +1,28 @@
+{
+  "drug_code": "92536",
+  "din": "02441004",
+  "brand_name": "FETZIMA",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "17-FEB-2017",
+  "active_ingredients": [
+    {
+      "name": "LEVOMILNACIPRAN (LEVOMILNACIPRAN HYDROCHLORIDE)",
+      "strength": "120",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "CAPSULE (EXTENDED RELEASE)"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "ALLERGAN PHARMA CO."
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "OTHER ANTIDEPRESSANTS"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "drug_code": "25821",
+  "din": "02006669",
+  "brand_name": "DIMENHYDRINATE TABLETS",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "03-DEC-2012",
+  "active_ingredients": [
+    {
+      "name": "DIMENHYDRINATE",
+      "strength": "50",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "TANTA PHARMACEUTICALS INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "DIPHENHYDRAMINE"
+  ]
+}

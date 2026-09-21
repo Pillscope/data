@@ -1,0 +1,28 @@
+{
+  "drug_code": "12757",
+  "din": "00885754",
+  "brand_name": "APO-GAIN LIQ 20MG/ML",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "27-OCT-2017",
+  "active_ingredients": [
+    {
+      "name": "MINOXIDIL",
+      "strength": "20",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "APOTEX INC"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "MINOXIDIL, TOPICAL"
+  ]
+}

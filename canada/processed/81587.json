@@ -1,0 +1,28 @@
+{
+  "drug_code": "81587",
+  "din": "02330113",
+  "brand_name": "RAN-FENTANYL MATRIX PATCH",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "02-NOV-2009",
+  "active_ingredients": [
+    {
+      "name": "FENTANYL",
+      "strength": "25",
+      "unit": "MCG"
+    }
+  ],
+  "forms": [
+    "PATCH"
+  ],
+  "routes": [
+    "TRANSDERMAL"
+  ],
+  "companies": [
+    "RANBAXY PHARMACEUTICALS CANADA INC."
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "FENTANYL"
+  ]
+}

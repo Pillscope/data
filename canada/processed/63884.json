@@ -1,0 +1,28 @@
+{
+  "drug_code": "63884",
+  "din": "02240344",
+  "brand_name": "SIALOR",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "12-JUL-2012",
+  "active_ingredients": [
+    {
+      "name": "ANETHOLE TRITHIONE",
+      "strength": "25.0",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "PHARMASCIENCE INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "ANETHOLE TRITHIONE"
+  ]
+}

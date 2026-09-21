@@ -1,0 +1,28 @@
+{
+  "drug_code": "89089",
+  "din": "02406160",
+  "brand_name": "SILDENAFIL",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "27-SEP-2013",
+  "active_ingredients": [
+    {
+      "name": "SILDENAFIL (SILDENAFIL CITRATE)",
+      "strength": "100",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "SANIS HEALTH INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "SILDENAFIL"
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "drug_code": "2002",
+  "din": "00308366",
+  "brand_name": "DEXTROSE PLUS ELECTROLYTES",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "28-MAY-2009",
+  "active_ingredients": [
+    {
+      "name": "DEXTROSE",
+      "strength": "250",
+      "unit": "G"
+    },
+    {
+      "name": "SODIUM CHLORIDE",
+      "strength": "4.59",
+      "unit": "G"
+    },
+    {
+      "name": "SODIUM ACETATE",
+      "strength": "4.68",
+      "unit": "G"
+    },
+    {
+      "name": "MAGNESIUM CHLORIDE",
+      "strength": "270",
+      "unit": "MG"
+    },
+    {
+      "name": "CALCIUM CHLORIDE",
+      "strength": "490",
+      "unit": "MG"
+    },
+    {
+      "name": "POTASSIUM ACETATE",
+      "strength": "900",
+      "unit": "MG"
+    },
+    {
+      "name": "SODIUM BISULFITE",
+      "strength": "1.8",
+      "unit": "G"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "INTRAMUSCULAR",
+    "INTRAPERITONEAL",
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "PROFESSIONAL VETERINARY LABORATORIES"
+  ],
+  "status": "MARKETED",
+  "atc": []
+}

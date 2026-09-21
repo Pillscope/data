@@ -1,0 +1,28 @@
+{
+  "drug_code": "13626",
+  "din": "02013231",
+  "brand_name": "LITHANE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "26-JUL-2006",
+  "active_ingredients": [
+    {
+      "name": "LITHIUM CARBONATE",
+      "strength": "150",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "CAPSULE"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "ERFA CANADA 2012 INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "LITHIUM"
+  ]
+}

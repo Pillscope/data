@@ -1,0 +1,32 @@
+{
+  "drug_code": "2548",
+  "din": "00387371",
+  "brand_name": "ANTIHISTAMINE SOLUTION INJ",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "24-AUG-2004",
+  "active_ingredients": [
+    {
+      "name": "PYRILAMINE MALEATE",
+      "strength": "25",
+      "unit": "MG"
+    },
+    {
+      "name": "L-EPHEDRINE HYDROCHLORIDE",
+      "strength": "10",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "INTRAMUSCULAR",
+    "SUBCUTANEOUS"
+  ],
+  "companies": [
+    "DOMINION VETERINARY LABORATORIES LTD."
+  ],
+  "status": "MARKETED",
+  "atc": []
+}

@@ -1,0 +1,28 @@
+{
+  "drug_code": "77316",
+  "din": "02287765",
+  "brand_name": "ACT TOPIRAMATE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "14-MAY-2015",
+  "active_ingredients": [
+    {
+      "name": "TOPIRAMATE",
+      "strength": "25",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "ACTAVIS PHARMA COMPANY"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "TOPIRAMATE"
+  ]
+}

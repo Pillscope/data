@@ -1,0 +1,28 @@
+{
+  "drug_code": "6512",
+  "din": "00648019",
+  "brand_name": "METOPROLOL-50 TAB 50MG",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "10-MAR-2006",
+  "active_ingredients": [
+    {
+      "name": "METOPROLOL TARTRATE",
+      "strength": "50",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "PRO DOC LIMITEE"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "METOPROLOL"
+  ]
+}

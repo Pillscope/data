@@ -1,0 +1,28 @@
+{
+  "drug_code": "87104",
+  "din": "02385414",
+  "brand_name": "GRANISETRON HYDROCHLORIDE INJECTION SDZ",
+  "class": "Human",
+  "descriptor": "PRESERVATIVE FREE",
+  "last_update": "14-JAN-2013",
+  "active_ingredients": [
+    {
+      "name": "GRANISETRON (GRANISETRON HYDROCHLORIDE)",
+      "strength": "1",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "SANDOZ CANADA INCORPORATED"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "GRANISETRON"
+  ]
+}

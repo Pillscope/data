@@ -1,0 +1,33 @@
+{
+  "drug_code": "92491",
+  "din": "02440539",
+  "brand_name": "CLINIQUE REPAIRWEAR LASER FOCUS LINE SMOOTHING CREAM SPF 15 COMBINATION OILY TO OILY",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "01-DEC-2015",
+  "active_ingredients": [
+    {
+      "name": "TITANIUM DIOXIDE",
+      "strength": "1.5",
+      "unit": "%"
+    },
+    {
+      "name": "OCTINOXATE",
+      "strength": "7.5",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "CREAM"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "CLINIQUE LABORATORIES DIST"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "COMBINATIONS OF PROTECTIVES AGAINST UV-RADIATION"
+  ]
+}

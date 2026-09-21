@@ -1,0 +1,28 @@
+{
+  "drug_code": "91411",
+  "din": "02429667",
+  "brand_name": "TAMSULOSIN CR",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "23-APR-2015",
+  "active_ingredients": [
+    {
+      "name": "TAMSULOSIN HYDROCHLORIDE",
+      "strength": "0.4",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET (EXTENDED-RELEASE)"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "SIVEM PHARMACEUTICALS ULC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "TAMSULOSIN"
+  ]
+}

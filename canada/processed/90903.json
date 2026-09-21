@@ -1,0 +1,28 @@
+{
+  "drug_code": "90903",
+  "din": "02424320",
+  "brand_name": "SILDENAFIL",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "09-OCT-2014",
+  "active_ingredients": [
+    {
+      "name": "SILDENAFIL (SILDENAFIL CITRATE)",
+      "strength": "100",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "PRO DOC LIMITEE"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "SILDENAFIL"
+  ]
+}

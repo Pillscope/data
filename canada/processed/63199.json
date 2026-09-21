@@ -1,0 +1,28 @@
+{
+  "drug_code": "63199",
+  "din": "02239717",
+  "brand_name": "NEURONTIN 600MG",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "05-MAY-2015",
+  "active_ingredients": [
+    {
+      "name": "GABAPENTIN",
+      "strength": "600",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "PFIZER CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "GABAPENTIN"
+  ]
+}

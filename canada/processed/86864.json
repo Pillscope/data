@@ -1,0 +1,28 @@
+{
+  "drug_code": "86864",
+  "din": "02382830",
+  "brand_name": "PMS-MEMANTINE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "19-MAR-2015",
+  "active_ingredients": [
+    {
+      "name": "MEMANTINE HYDROCHLORIDE",
+      "strength": "5.0",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "PHARMASCIENCE INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "MEMANTINE"
+  ]
+}

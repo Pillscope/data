@@ -1,0 +1,28 @@
+{
+  "drug_code": "2901",
+  "din": "00405671",
+  "brand_name": "GERMICIDAL DETERGENT NO 1492",
+  "class": "Disinfectant",
+  "descriptor": "",
+  "last_update": "01-AUG-2008",
+  "active_ingredients": [
+    {
+      "name": "BENZALKONIUM CHLORIDE",
+      "strength": "3.89",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "LIQUID"
+  ],
+  "routes": [
+    "DISINFECTANT (Hospital/HC Facilities)"
+  ],
+  "companies": [
+    "WOOD WYANT INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "TECHNICAL DISINFECTANTS"
+  ]
+}

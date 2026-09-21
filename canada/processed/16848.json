@@ -1,0 +1,28 @@
+{
+  "drug_code": "16848",
+  "din": "00860778",
+  "brand_name": "NITROGLYCERIN INJECTION USP",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "02-AUG-2017",
+  "active_ingredients": [
+    {
+      "name": "NITROGLYCERIN",
+      "strength": "50",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "SANDOZ CANADA INCORPORATED"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "GLYCERYL TRINITRATE"
+  ]
+}

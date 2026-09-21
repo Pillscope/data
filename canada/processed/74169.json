@@ -1,0 +1,28 @@
+{
+  "drug_code": "74169",
+  "din": "02256452",
+  "brand_name": "DIARRHEA RELIEF",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "28-NOV-2012",
+  "active_ingredients": [
+    {
+      "name": "LOPERAMIDE HYDROCHLORIDE",
+      "strength": "2",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "VITA HEALTH PRODUCTS INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "LOPERAMIDE"
+  ]
+}

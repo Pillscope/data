@@ -1,0 +1,28 @@
+{
+  "drug_code": "89596",
+  "din": "02411350",
+  "brand_name": "ATORVASTATIN-10",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "31-JAN-2017",
+  "active_ingredients": [
+    {
+      "name": "ATORVASTATIN (ATORVASTATIN CALCIUM PROPYLENE GLYCOL SOLVATE)",
+      "strength": "10",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "SIVEM PHARMACEUTICALS ULC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "ATORVASTATIN"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "drug_code": "86350",
+  "din": "02377683",
+  "brand_name": "COATED DAILY LOW DOSE ASA 81 MG",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "22-NOV-2017",
+  "active_ingredients": [
+    {
+      "name": "ACETYLSALICYLIC ACID",
+      "strength": "81",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET (DELAYED-RELEASE)"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "APOTEX INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "ACETYLSALICYLIC ACID"
+  ]
+}

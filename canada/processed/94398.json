@@ -1,0 +1,28 @@
+{
+  "drug_code": "94398",
+  "din": "02456915",
+  "brand_name": "COPAXONE",
+  "class": "Human",
+  "descriptor": "PRE-FILLED SYRINGE",
+  "last_update": "06-SEP-2016",
+  "active_ingredients": [
+    {
+      "name": "GLATIRAMER ACETATE",
+      "strength": "40",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "SUBCUTANEOUS"
+  ],
+  "companies": [
+    "TEVA CANADA LIMITED"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "GLATIRAMER ACETATE"
+  ]
+}

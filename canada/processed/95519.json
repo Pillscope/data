@@ -1,0 +1,28 @@
+{
+  "drug_code": "95519",
+  "din": "02466821",
+  "brand_name": "ALMOTRIPTAN",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "19-MAR-2018",
+  "active_ingredients": [
+    {
+      "name": "ALMOTRIPTAN (ALMOTRIPTAN MALATE)",
+      "strength": "12.5",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "SANIS HEALTH INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "ALMOTRIPTAN"
+  ]
+}

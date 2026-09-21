@@ -1,0 +1,39 @@
+{
+  "drug_code": "68031",
+  "din": "02244078",
+  "brand_name": "DIMETAPP-C",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "08-NOV-2011",
+  "active_ingredients": [
+    {
+      "name": "CODEINE PHOSPHATE",
+      "strength": "10",
+      "unit": "MG"
+    },
+    {
+      "name": "PHENYLEPHRINE HYDROCHLORIDE",
+      "strength": "5",
+      "unit": "MG"
+    },
+    {
+      "name": "BROMPHENIRAMINE MALEATE",
+      "strength": "2",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SYRUP"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "PFIZER CONSUMER HEALTHCARE A DIVISION OF PFIZER CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "COMBINATIONS",
+    "COMBINATIONS"
+  ]
+}

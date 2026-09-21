@@ -1,0 +1,28 @@
+{
+  "drug_code": "92897",
+  "din": "02444135",
+  "brand_name": "LYSOL DISINFECTANT BATHROOM FOAM CLEANER",
+  "class": "Disinfectant",
+  "descriptor": "",
+  "last_update": "18-MAR-2016",
+  "active_ingredients": [
+    {
+      "name": "CITRIC ACID",
+      "strength": "2.5",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "SPRAY"
+  ],
+  "routes": [
+    "DISINFECTANT (Domestic)"
+  ],
+  "companies": [
+    "RECKITT BENCKISER (CANADA) INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "TECHNICAL DISINFECTANTS"
+  ]
+}

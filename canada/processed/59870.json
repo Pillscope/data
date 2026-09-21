@@ -1,0 +1,28 @@
+{
+  "drug_code": "59870",
+  "din": "02236396",
+  "brand_name": "CLEAN & CLEAR PERSA-GEL 5",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "05-DEC-2011",
+  "active_ingredients": [
+    {
+      "name": "BENZOYL PEROXIDE",
+      "strength": "5",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "LOTION"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "JOHNSON & JOHNSON INC"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "BENZOYL PEROXIDE"
+  ]
+}

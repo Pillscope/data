@@ -1,0 +1,28 @@
+{
+  "drug_code": "19241",
+  "din": "02169649",
+  "brand_name": "BETASERON",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "26-OCT-2012",
+  "active_ingredients": [
+    {
+      "name": "INTERFERON BETA-1B",
+      "strength": "0.3",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "POWDER FOR SOLUTION"
+  ],
+  "routes": [
+    "SUBCUTANEOUS"
+  ],
+  "companies": [
+    "BAYER INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "INTERFERON BETA-1B"
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "drug_code": "77560",
+  "din": "02290324",
+  "brand_name": "ANEW AGE-TRANSFORMING CREAM CONCEALER",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "08-JAN-2013",
+  "active_ingredients": [
+    {
+      "name": "TITANIUM DIOXIDE",
+      "strength": "6.62",
+      "unit": "%"
+    },
+    {
+      "name": "OCTINOXATE",
+      "strength": "2.5",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "CREAM"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "AVON CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "COMBINATIONS OF PROTECTIVES AGAINST UV-RADIATION"
+  ]
+}

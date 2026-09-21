@@ -1,0 +1,28 @@
+{
+  "drug_code": "86592",
+  "din": "02380080",
+  "brand_name": "RAN-VENLAFAXINE XR",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "25-MAY-2015",
+  "active_ingredients": [
+    {
+      "name": "VENLAFAXINE (VENLAFAXINE HYDROCHLORIDE)",
+      "strength": "75",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "CAPSULE (EXTENDED RELEASE)"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "RANBAXY PHARMACEUTICALS CANADA INC."
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "VENLAFAXINE"
+  ]
+}

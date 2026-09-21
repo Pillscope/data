@@ -1,0 +1,28 @@
+{
+  "drug_code": "85942",
+  "din": "02374226",
+  "brand_name": "MUSCLE & JOINT",
+  "class": "Human",
+  "descriptor": "CAPLET",
+  "last_update": "14-NOV-2016",
+  "active_ingredients": [
+    {
+      "name": "IBUPROFEN",
+      "strength": "400",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "VITA HEALTH PRODUCTS INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "IBUPROFEN"
+  ]
+}

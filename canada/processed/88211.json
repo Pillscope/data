@@ -1,0 +1,28 @@
+{
+  "drug_code": "88211",
+  "din": "02397110",
+  "brand_name": "RAN-QUETIAPINE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "19-JAN-2015",
+  "active_ingredients": [
+    {
+      "name": "QUETIAPINE (QUETIAPINE FUMARATE)",
+      "strength": "200",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "RANBAXY PHARMACEUTICALS CANADA INC."
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "QUETIAPINE"
+  ]
+}

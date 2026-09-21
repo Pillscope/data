@@ -1,0 +1,26 @@
+{
+  "drug_code": "79353",
+  "din": "02307855",
+  "brand_name": "CIDR 1380",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "10-OCT-2014",
+  "active_ingredients": [
+    {
+      "name": "PROGESTERONE",
+      "strength": "1.38",
+      "unit": "G"
+    }
+  ],
+  "forms": [
+    "INSERT"
+  ],
+  "routes": [
+    "VAGINAL"
+  ],
+  "companies": [
+    "ZOETIS CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": []
+}

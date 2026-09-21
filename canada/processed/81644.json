@@ -1,0 +1,28 @@
+{
+  "drug_code": "81644",
+  "din": "02330695",
+  "brand_name": "ERAXIS",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "20-AUG-2013",
+  "active_ingredients": [
+    {
+      "name": "ANIDULAFUNGIN",
+      "strength": "100",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "POWDER FOR SOLUTION"
+  ],
+  "routes": [
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "PFIZER CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "ANIDULAFUNGIN"
+  ]
+}

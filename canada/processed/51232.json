@@ -1,0 +1,28 @@
+{
+  "drug_code": "51232",
+  "din": "02231799",
+  "brand_name": "SANDOZ INDOMETHACIN",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "05-MAY-2015",
+  "active_ingredients": [
+    {
+      "name": "INDOMETHACIN",
+      "strength": "50",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SUPPOSITORY"
+  ],
+  "routes": [
+    "RECTAL"
+  ],
+  "companies": [
+    "SANDOZ CANADA INCORPORATED"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "INDOMETACIN"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "drug_code": "19762",
+  "din": "02208237",
+  "brand_name": "PMS-SALBUTAMOL",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "05-MAY-2015",
+  "active_ingredients": [
+    {
+      "name": "SALBUTAMOL (SALBUTAMOL SULFATE)",
+      "strength": "2",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "INHALATION"
+  ],
+  "companies": [
+    "PHARMASCIENCE INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "SALBUTAMOL"
+  ]
+}

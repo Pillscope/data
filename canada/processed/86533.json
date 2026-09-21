@@ -1,0 +1,28 @@
+{
+  "drug_code": "86533",
+  "din": "02379430",
+  "brand_name": "NOBAC INSTANT FOAMING HAND SANITIZER",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "04-JUN-2015",
+  "active_ingredients": [
+    {
+      "name": "BENZALKONIUM CHLORIDE",
+      "strength": "0.1",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "TOPICAL (HOUSEHOLD)"
+  ],
+  "companies": [
+    "MASON CHEMICAL COMPANY"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "BENZALKONIUM"
+  ]
+}

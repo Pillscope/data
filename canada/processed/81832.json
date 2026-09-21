@@ -1,0 +1,26 @@
+{
+  "drug_code": "81832",
+  "din": "02332655",
+  "brand_name": "FELIMAZOLE 2.5MG",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "03-FEB-2010",
+  "active_ingredients": [
+    {
+      "name": "THIAMAZOLE",
+      "strength": "2.5",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "DECHRA LTD"
+  ],
+  "status": "APPROVED",
+  "atc": []
+}

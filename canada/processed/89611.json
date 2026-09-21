@@ -1,0 +1,28 @@
+{
+  "drug_code": "89611",
+  "din": "02411490",
+  "brand_name": "GREAT VALUE BLEACH DISINFECTANT D\u00c3\u0089SINFECTANTE EAU DE JAVEL",
+  "class": "Disinfectant",
+  "descriptor": "",
+  "last_update": "01-SEP-2017",
+  "active_ingredients": [
+    {
+      "name": "SODIUM HYPOCHLORITE",
+      "strength": "7.4",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "DISINFECTANT (Domestic)"
+  ],
+  "companies": [
+    "LAVO"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "TECHNICAL DISINFECTANTS"
+  ]
+}

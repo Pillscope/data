@@ -1,0 +1,28 @@
+{
+  "drug_code": "84419",
+  "din": "02359162",
+  "brand_name": "HERTEL CR\u00c3\u0088ME D\u00c3\u0089SINFECTANT/ HERTEL CREAM DISINFECTANT",
+  "class": "Disinfectant",
+  "descriptor": "",
+  "last_update": "29-MAY-2015",
+  "active_ingredients": [
+    {
+      "name": "BENZALKONIUM CHLORIDE",
+      "strength": "0.072",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "CREAM"
+  ],
+  "routes": [
+    "DISINFECTANT (Domestic)"
+  ],
+  "companies": [
+    "LAVO"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "TECHNICAL DISINFECTANTS"
+  ]
+}

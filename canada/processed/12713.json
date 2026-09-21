@@ -1,0 +1,28 @@
+{
+  "drug_code": "12713",
+  "din": "01930087",
+  "brand_name": "GERMI STAT GEL 4%",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "10-MAY-2016",
+  "active_ingredients": [
+    {
+      "name": "CHLORHEXIDINE GLUCONATE",
+      "strength": "4",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "GEL"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "GERMIPHENE CORPORATION"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "CHLORHEXIDINE"
+  ]
+}

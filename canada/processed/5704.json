@@ -1,0 +1,28 @@
+{
+  "drug_code": "5704",
+  "din": "00582654",
+  "brand_name": "AMINOPHYLLINE INJ 50MG/ML",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "11-APR-2006",
+  "active_ingredients": [
+    {
+      "name": "AMINOPHYLLINE",
+      "strength": "50",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "OMEGA LABORATORIES LTD"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "AMINOPHYLLINE"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "drug_code": "43182",
+  "din": "02216345",
+  "brand_name": "SALAGEN TABLETS",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "17-DEC-2013",
+  "active_ingredients": [
+    {
+      "name": "PILOCARPINE HYDROCHLORIDE",
+      "strength": "5",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "PFIZER CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "PILOCARPINE"
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "drug_code": "81730",
+  "din": "02331624",
+  "brand_name": "AZARGA",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "24-MAR-2017",
+  "active_ingredients": [
+    {
+      "name": "BRINZOLAMIDE",
+      "strength": "1",
+      "unit": "%"
+    },
+    {
+      "name": "TIMOLOL (TIMOLOL MALEATE)",
+      "strength": "0.5",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "SUSPENSION"
+  ],
+  "routes": [
+    "OPHTHALMIC"
+  ],
+  "companies": [
+    "NOVARTIS PHARMACEUTICALS CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "TIMOLOL, COMBINATIONS",
+    "TIMOLOL, COMBINATIONS"
+  ]
+}

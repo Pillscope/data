@@ -1,0 +1,28 @@
+{
+  "drug_code": "87741",
+  "din": "02392127",
+  "brand_name": "BIO-AMLODIPINE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "21-JAN-2015",
+  "active_ingredients": [
+    {
+      "name": "AMLODIPINE (AMLODIPINE BESYLATE)",
+      "strength": "2.5",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "BIOMED PHARMA"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "AMLODIPINE"
+  ]
+}

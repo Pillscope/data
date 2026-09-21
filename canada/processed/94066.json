@@ -1,0 +1,28 @@
+{
+  "drug_code": "94066",
+  "din": "02454130",
+  "brand_name": "BLEXTEN",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "20-DEC-2016",
+  "active_ingredients": [
+    {
+      "name": "Bilastine",
+      "strength": "20",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "ARALEZ PHARMACEUTICALS TRADING DAC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "BILASTINE"
+  ]
+}

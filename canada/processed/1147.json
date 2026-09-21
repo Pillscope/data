@@ -1,0 +1,28 @@
+{
+  "drug_code": "1147",
+  "din": "00027944",
+  "brand_name": "VALISONE SCALP LOTION",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "29-APR-2015",
+  "active_ingredients": [
+    {
+      "name": "BETAMETHASONE (BETAMETHASONE VALERATE)",
+      "strength": "0.1",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "LOTION"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "VALEANT CANADA LP/VALEANT CANADA S.E.C."
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "BETAMETHASONE"
+  ]
+}

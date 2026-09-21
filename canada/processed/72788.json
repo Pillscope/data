@@ -1,0 +1,28 @@
+{
+  "drug_code": "72788",
+  "din": "02248437",
+  "brand_name": "PMS-CIPROFLOXACIN",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "20-SEP-2006",
+  "active_ingredients": [
+    {
+      "name": "CIPROFLOXACIN (CIPROFLOXACIN HYDROCHLORIDE)",
+      "strength": "250",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "PHARMASCIENCE INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "CIPROFLOXACIN"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "drug_code": "18516",
+  "din": "02165511",
+  "brand_name": "PREVACID",
+  "class": "Human",
+  "descriptor": "SRC 30MG",
+  "last_update": "05-MAY-2015",
+  "active_ingredients": [
+    {
+      "name": "LANSOPRAZOLE",
+      "strength": "30",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "CAPSULE (DELAYED RELEASE)"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "TAKEDA PHARMACEUTICALS AMERICA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "LANSOPRAZOLE"
+  ]
+}

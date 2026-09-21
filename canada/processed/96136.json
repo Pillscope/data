@@ -1,0 +1,26 @@
+{
+  "drug_code": "96136",
+  "din": "02472090",
+  "brand_name": "RACTOPAMINE 4",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "26-APR-2018",
+  "active_ingredients": [
+    {
+      "name": "RACTOPAMINE HYDROCHLORIDE",
+      "strength": "4",
+      "unit": "G"
+    }
+  ],
+  "forms": [
+    "DRUG PREMIX"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "BIO AGRI MIX LP"
+  ],
+  "status": "APPROVED",
+  "atc": []
+}

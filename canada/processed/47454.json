@@ -1,0 +1,26 @@
+{
+  "drug_code": "47454",
+  "din": "02229543",
+  "brand_name": "AVIAX",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "05-MAY-2015",
+  "active_ingredients": [
+    {
+      "name": "SEMDURAMICIN (SEMDURAMICIN SODIUM)",
+      "strength": "50",
+      "unit": "G"
+    }
+  ],
+  "forms": [
+    "DRUG PREMIX"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "PHIBRO ANIMAL HEALTH CORPORATION"
+  ],
+  "status": "APPROVED",
+  "atc": []
+}

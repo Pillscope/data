@@ -1,0 +1,31 @@
+{
+  "drug_code": "74902",
+  "din": "02263645",
+  "brand_name": "ULTRA DIP",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "09-MAR-2005",
+  "active_ingredients": [
+    {
+      "name": "CHLORHEXIDINE ACETATE",
+      "strength": "0.5",
+      "unit": "%"
+    },
+    {
+      "name": "GLYCERINE",
+      "strength": "3.0",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "AGRISAN SPECIALTY CHEMICAL & PHARMACEUTICAL"
+  ],
+  "status": "MARKETED",
+  "atc": []
+}

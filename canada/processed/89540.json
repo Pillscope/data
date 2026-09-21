@@ -1,0 +1,53 @@
+{
+  "drug_code": "89540",
+  "din": "02410826",
+  "brand_name": "BERIPLEX P/N 1000",
+  "class": "Human",
+  "descriptor": "FACTOR II 760-1600IU,FACTOR VII 400-1000IU,FACTOR IX 800-1240IU,FACTOR X 1000-2040IU,PROTEIN C 840-1640IU,PROTEIN S 480-1360IU",
+  "last_update": "10-SEP-2015",
+  "active_ingredients": [
+    {
+      "name": "COAGULATION FACTOR II (HUMAN)",
+      "strength": "1600",
+      "unit": "UNIT"
+    },
+    {
+      "name": "COAGULATION FACTOR X (HUMAN)",
+      "strength": "2040",
+      "unit": "UNIT"
+    },
+    {
+      "name": "COAGULATION FACTOR VII (HUMAN)",
+      "strength": "1000",
+      "unit": "UNIT"
+    },
+    {
+      "name": "COAGULATION FACTOR IX (HUMAN)",
+      "strength": "1240",
+      "unit": "UNIT"
+    },
+    {
+      "name": "PROTEIN C",
+      "strength": "1640",
+      "unit": "UNIT"
+    },
+    {
+      "name": "PROTEIN S",
+      "strength": "1360",
+      "unit": "UNIT"
+    }
+  ],
+  "forms": [
+    "POWDER FOR SOLUTION"
+  ],
+  "routes": [
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "CSL BEHRING CANADA INC"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "COAGULATION FACTOR IX, II, VII AND X IN COMB"
+  ]
+}

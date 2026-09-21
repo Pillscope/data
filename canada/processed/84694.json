@@ -1,0 +1,33 @@
+{
+  "drug_code": "84694",
+  "din": "02361906",
+  "brand_name": "ORABLOC 1:200,000",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "12-JAN-2018",
+  "active_ingredients": [
+    {
+      "name": "ARTICAINE HYDROCHLORIDE",
+      "strength": "40",
+      "unit": "MG"
+    },
+    {
+      "name": "EPINEPHRINE BITARTRATE",
+      "strength": "0.009",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "BLOCK/INFILTRATION"
+  ],
+  "companies": [
+    "PIERREL PHARMA S.R.L."
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "ARTICAINE, COMBINATIONS"
+  ]
+}

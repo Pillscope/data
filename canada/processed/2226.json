@@ -1,0 +1,28 @@
+{
+  "drug_code": "2226",
+  "din": "00346314",
+  "brand_name": "HALOTHANE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "21-NOV-2016",
+  "active_ingredients": [
+    {
+      "name": "HALOTHANE",
+      "strength": "99.99",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "INHALATION"
+  ],
+  "companies": [
+    "BIMEDA-MTC ANIMAL HEALTH INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "HALOTHANE"
+  ]
+}

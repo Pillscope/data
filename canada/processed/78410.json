@@ -1,0 +1,28 @@
+{
+  "drug_code": "78410",
+  "din": "02298791",
+  "brand_name": "EMEND",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "13-JUL-2016",
+  "active_ingredients": [
+    {
+      "name": "APREPITANT",
+      "strength": "80",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "CAPSULE"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "MERCK CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "APREPITANT"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "drug_code": "94407",
+  "din": "02456958",
+  "brand_name": "HEPARIN SODIUM INJECTION USP",
+  "class": "Human",
+  "descriptor": "SINGLE DOSE PREFILLED SYRINGE",
+  "last_update": "16-NOV-2017",
+  "active_ingredients": [
+    {
+      "name": "HEPARIN SODIUM",
+      "strength": "5000",
+      "unit": "UNIT"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "SUBCUTANEOUS"
+  ],
+  "companies": [
+    "STERINOVA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "HEPARIN"
+  ]
+}

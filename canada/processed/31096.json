@@ -1,0 +1,28 @@
+{
+  "drug_code": "31096",
+  "din": "02133326",
+  "brand_name": "MIOCHOL E",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "20-OCT-2011",
+  "active_ingredients": [
+    {
+      "name": "ACETYLCHOLINE CHLORIDE",
+      "strength": "10",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "POWDER FOR SOLUTION"
+  ],
+  "routes": [
+    "OPHTHALMIC"
+  ],
+  "companies": [
+    "BAUSCH & LOMB INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "ACETYLCHOLINE"
+  ]
+}

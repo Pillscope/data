@@ -1,0 +1,28 @@
+{
+  "drug_code": "86635",
+  "din": "02380560",
+  "brand_name": "MINT-FLUOXETINE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "20-MAR-2014",
+  "active_ingredients": [
+    {
+      "name": "FLUOXETINE (FLUOXETINE HYDROCHLORIDE)",
+      "strength": "10",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "CAPSULE"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "MINT PHARMACEUTICALS INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "FLUOXETINE"
+  ]
+}

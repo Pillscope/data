@@ -1,0 +1,28 @@
+{
+  "drug_code": "76022",
+  "din": "02274752",
+  "brand_name": "APO-CLARITHROMYCIN",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "23-AUG-2007",
+  "active_ingredients": [
+    {
+      "name": "CLARITHROMYCIN",
+      "strength": "500",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "APOTEX INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "CLARITHROMYCIN"
+  ]
+}

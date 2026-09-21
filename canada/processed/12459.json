@@ -1,0 +1,28 @@
+{
+  "drug_code": "12459",
+  "din": "00851787",
+  "brand_name": "PLENDIL 10 MG",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "03-AUG-2007",
+  "active_ingredients": [
+    {
+      "name": "FELODIPINE",
+      "strength": "10",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET (EXTENDED-RELEASE)"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "ASTRAZENECA CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "FELODIPINE"
+  ]
+}

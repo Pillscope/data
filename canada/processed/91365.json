@@ -1,0 +1,28 @@
+{
+  "drug_code": "91365",
+  "din": "02429217",
+  "brand_name": "AMLODIPINE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "19-APR-2016",
+  "active_ingredients": [
+    {
+      "name": "AMLODIPINE (AMLODIPINE BESYLATE)",
+      "strength": "5",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "JAMP PHARMA CORPORATION"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "AMLODIPINE"
+  ]
+}

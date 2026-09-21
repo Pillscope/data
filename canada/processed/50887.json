@@ -1,0 +1,28 @@
+{
+  "drug_code": "50887",
+  "din": "02231544",
+  "brand_name": "PMS-CARBAMAZEPINE-CR",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "22-FEB-2008",
+  "active_ingredients": [
+    {
+      "name": "CARBAMAZEPINE",
+      "strength": "400",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET (EXTENDED-RELEASE)"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "PHARMASCIENCE INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "CARBAMAZEPINE"
+  ]
+}

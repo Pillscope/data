@@ -1,0 +1,28 @@
+{
+  "drug_code": "13384",
+  "din": "01989987",
+  "brand_name": "MAGNEVIST",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "11-AUG-2010",
+  "active_ingredients": [
+    {
+      "name": "GADOPENTETATE DIMEGLUMINE",
+      "strength": "469",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "BAYER INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "GADOPENTETIC ACID"
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "drug_code": "10515",
+  "din": "00060712",
+  "brand_name": "DEXTROSE 3.3% AND 0.3% SOD CHLORIDE INJ",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "22-JUN-2006",
+  "active_ingredients": [
+    {
+      "name": "SODIUM CHLORIDE",
+      "strength": "300",
+      "unit": "MG"
+    },
+    {
+      "name": "DEXTROSE",
+      "strength": "3.3",
+      "unit": "G"
+    }
+  ],
+  "forms": [
+    "LIQUID"
+  ],
+  "routes": [
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "BAXTER CORPORATION"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "ELECTROLYTES WITH CARBOHYDRATES"
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "drug_code": "85647",
+  "din": "02371316",
+  "brand_name": "ESTEE LAUDER DAYWEAR MULTI-PROTECTION 24H-MOISTURE CREME OIL-FREE SPF 25",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "30-JUN-2017",
+  "active_ingredients": [
+    {
+      "name": "AVOBENZONE",
+      "strength": "3",
+      "unit": "%"
+    },
+    {
+      "name": "OCTOCRYLENE",
+      "strength": "2.7",
+      "unit": "%"
+    },
+    {
+      "name": "OCTISALATE",
+      "strength": "5",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "CREAM"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "ESTEE LAUDER DIST"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "COMBINATIONS OF PROTECTIVES AGAINST UV-RADIATION"
+  ]
+}

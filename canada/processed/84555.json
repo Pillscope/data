@@ -1,0 +1,27 @@
+{
+  "drug_code": "84555",
+  "din": "02360586",
+  "brand_name": "EXCEDE 200",
+  "class": "Veterinary",
+  "descriptor": "I.M. FOR HORSE; S.C. FOR CATTLE.",
+  "last_update": "08-SEP-2014",
+  "active_ingredients": [
+    {
+      "name": "CEFTIOFUR (CEFTIOFUR CRYSTALLINE FREE ACID)",
+      "strength": "200",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SUSPENSION"
+  ],
+  "routes": [
+    "INTRAMUSCULAR",
+    "SUBCUTANEOUS"
+  ],
+  "companies": [
+    "ZOETIS CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": []
+}

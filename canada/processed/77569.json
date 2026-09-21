@@ -1,0 +1,28 @@
+{
+  "drug_code": "77569",
+  "din": "02290375",
+  "brand_name": "VOLTAREN EMULGEL",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "30-AUG-2016",
+  "active_ingredients": [
+    {
+      "name": "DICLOFENAC DIETHYLAMINE",
+      "strength": "1.16",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "GEL"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "GLAXOSMITHKLINE CONSUMER HEALTHCARE INC."
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "DICLOFENAC"
+  ]
+}

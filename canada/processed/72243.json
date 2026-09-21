@@ -1,0 +1,28 @@
+{
+  "drug_code": "72243",
+  "din": "02247933",
+  "brand_name": "APO-CARVEDILOL",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "25-JUL-2007",
+  "active_ingredients": [
+    {
+      "name": "CARVEDILOL",
+      "strength": "3.125",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "APOTEX INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "CARVEDILOL"
+  ]
+}

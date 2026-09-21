@@ -1,0 +1,33 @@
+{
+  "drug_code": "87346",
+  "din": "02387883",
+  "brand_name": "ALYSENA 28",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "24-JUN-2014",
+  "active_ingredients": [
+    {
+      "name": "LEVONORGESTREL",
+      "strength": "100",
+      "unit": "MCG"
+    },
+    {
+      "name": "ETHINYL ESTRADIOL",
+      "strength": "20",
+      "unit": "MCG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "APOTEX INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "LEVONORGESTREL AND ESTROGEN"
+  ]
+}

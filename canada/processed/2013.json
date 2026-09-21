@@ -1,0 +1,31 @@
+{
+  "drug_code": "2013",
+  "din": "00319384",
+  "brand_name": "EPIDURAL SOLUTION INJ",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "13-OCT-2004",
+  "active_ingredients": [
+    {
+      "name": "PROCAINE HYDROCHLORIDE",
+      "strength": "2.5",
+      "unit": "%"
+    },
+    {
+      "name": "L-EPHEDRINE HYDROCHLORIDE",
+      "strength": ".01",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "EPIDURAL"
+  ],
+  "companies": [
+    "PROFESSIONAL VETERINARY LABORATORIES"
+  ],
+  "status": "MARKETED",
+  "atc": []
+}

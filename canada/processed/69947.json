@@ -1,0 +1,26 @@
+{
+  "drug_code": "69947",
+  "din": "02245831",
+  "brand_name": "NV-CLINDAMYCIN",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "05-MAY-2015",
+  "active_ingredients": [
+    {
+      "name": "CLINDAMYCIN (CLINDAMYCIN HYDROCHLORIDE)",
+      "strength": "75",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "CAPSULE"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "TEVA CANADA LIMITED"
+  ],
+  "status": "APPROVED",
+  "atc": []
+}

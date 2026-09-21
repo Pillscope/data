@@ -1,0 +1,28 @@
+{
+  "drug_code": "94755",
+  "din": "02460262",
+  "brand_name": "MICTORYL",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "02-JUN-2017",
+  "active_ingredients": [
+    {
+      "name": "PROPIVERINE HYDROCHLORIDE",
+      "strength": "30",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "CAPSULE (CONTROLLED-DELIVERY)"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "DUCHESNAY INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "PROPIVERINE"
+  ]
+}

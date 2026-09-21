@@ -1,0 +1,28 @@
+{
+  "drug_code": "7263",
+  "din": "00718149",
+  "brand_name": "TRYPTAN CAP 500MG",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "11-AUG-2015",
+  "active_ingredients": [
+    {
+      "name": "TRYPTOPHAN",
+      "strength": "500",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "CAPSULE"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "VALEANT CANADA LP/VALEANT CANADA S.E.C."
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "TRYPTOPHAN"
+  ]
+}

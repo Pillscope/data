@@ -1,0 +1,28 @@
+{
+  "drug_code": "19894",
+  "din": "02216132",
+  "brand_name": "PMS-LITHIUM CARBONATE - CAP 150MG",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "26-AUG-2015",
+  "active_ingredients": [
+    {
+      "name": "LITHIUM CARBONATE",
+      "strength": "150",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "CAPSULE"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "PHARMASCIENCE INC"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "LITHIUM"
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "drug_code": "37353",
+  "din": "02223988",
+  "brand_name": "ALLERGENIC EXTRACT MIXTURE OF STANDARDIZED MITES (15,000 AU/ML)",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "05-NOV-2012",
+  "active_ingredients": [
+    {
+      "name": "DERMATOPHAGOIDES FARINAE",
+      "strength": "15000",
+      "unit": "UNIT"
+    },
+    {
+      "name": "DERMATOPHAGOIDES PTERONYSSINUS",
+      "strength": "15000",
+      "unit": "UNIT"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "SUBCUTANEOUS",
+    "PERCUTANEOUS"
+  ],
+  "companies": [
+    "JUBILANT HOLLISTERSTIER LLC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "HOUSE DUST MITES"
+  ]
+}

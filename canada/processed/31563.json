@@ -1,0 +1,28 @@
+{
+  "drug_code": "31563",
+  "din": "02143879",
+  "brand_name": "LIDODAN JELLY 2%",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "18-JUL-2012",
+  "active_ingredients": [
+    {
+      "name": "LIDOCAINE HYDROCHLORIDE",
+      "strength": "20",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "JELLY"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "ODAN LABORATORIES LTD"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "LIDOCAINE"
+  ]
+}

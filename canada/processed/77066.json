@@ -1,0 +1,28 @@
+{
+  "drug_code": "77066",
+  "din": "02285150",
+  "brand_name": "TOBRAMYCIN FOR INJECTION U.S.P.",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "26-APR-2011",
+  "active_ingredients": [
+    {
+      "name": "TOBRAMYCIN (TOBRAMYCIN SULFATE)",
+      "strength": "1.2",
+      "unit": "G"
+    }
+  ],
+  "forms": [
+    "POWDER FOR SOLUTION"
+  ],
+  "routes": [
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "STERIMAX INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "TOBRAMYCIN"
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "drug_code": "93088",
+  "din": "02445603",
+  "brand_name": "ADAPTASUN CR\u00c3\u0088ME DE SOIN SOLAIRE VISAGE FPS/SPF 15",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "11-JAN-2018",
+  "active_ingredients": [
+    {
+      "name": "AVOBENZONE",
+      "strength": "2.5",
+      "unit": "%"
+    },
+    {
+      "name": "OCTINOXATE",
+      "strength": "4",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "CREAM"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "NAOS"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "COMBINATIONS OF PROTECTIVES AGAINST UV-RADIATION"
+  ]
+}

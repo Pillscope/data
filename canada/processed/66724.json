@@ -1,0 +1,28 @@
+{
+  "drug_code": "66724",
+  "din": "02242892",
+  "brand_name": "EXPECTORANT (EXTRA STRENGTH) SYRUP",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "28-JUL-2008",
+  "active_ingredients": [
+    {
+      "name": "GUAIFENESIN",
+      "strength": "200",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SYRUP"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "TRILLIUM HEALTH CARE PRODUCTS INC"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "GUAIFENESIN"
+  ]
+}

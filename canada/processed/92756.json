@@ -1,0 +1,28 @@
+{
+  "drug_code": "92756",
+  "din": "02443066",
+  "brand_name": "OFEV",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "09-MAY-2016",
+  "active_ingredients": [
+    {
+      "name": "NINTEDANIB (NINTEDANIB ESILATE)",
+      "strength": "100",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "CAPSULE"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "BOEHRINGER INGELHEIM (CANADA) LTD LTEE"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "NINTEDANIB"
+  ]
+}

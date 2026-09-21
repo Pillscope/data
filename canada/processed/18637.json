@@ -1,0 +1,46 @@
+{
+  "drug_code": "18637",
+  "din": "02143100",
+  "brand_name": "OXAMIN POWDER",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "22-FEB-2013",
+  "active_ingredients": [
+    {
+      "name": "GINGER",
+      "strength": "75",
+      "unit": "MG"
+    },
+    {
+      "name": "CAPSICUM",
+      "strength": "75",
+      "unit": "MG"
+    },
+    {
+      "name": "MAGNESIUM OXIDE",
+      "strength": "15",
+      "unit": "G"
+    },
+    {
+      "name": "KAOLIN",
+      "strength": "12.37",
+      "unit": "G"
+    },
+    {
+      "name": "SODIUM THIOSULFATE",
+      "strength": "1.1",
+      "unit": "G"
+    }
+  ],
+  "forms": [
+    "POWDER"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "MTC PHARMACEUTICALS"
+  ],
+  "status": "MARKETED",
+  "atc": []
+}

@@ -1,0 +1,33 @@
+{
+  "drug_code": "84266",
+  "din": "02357550",
+  "brand_name": "CERAMIDE LIFT AND FIRM CREAM MAKEUP SPF 15",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "02-JUN-2015",
+  "active_ingredients": [
+    {
+      "name": "TITANIUM DIOXIDE",
+      "strength": "3.0",
+      "unit": "%"
+    },
+    {
+      "name": "OCTINOXATE",
+      "strength": "4.0",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "CREAM"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "ELIZABETH ARDEN (CANADA) LIMITED"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "COMBINATIONS OF PROTECTIVES AGAINST UV-RADIATION"
+  ]
+}

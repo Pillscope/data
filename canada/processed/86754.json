@@ -1,0 +1,28 @@
+{
+  "drug_code": "86754",
+  "din": "02381680",
+  "brand_name": "CAMBIA",
+  "class": "Human",
+  "descriptor": "EACH INDIVIDUAL DOSE SACHET DELIVERS A DOSE OF 50MG DICLOFENACE POTASSIUM WHEN MIXED IN WATER",
+  "last_update": "03-AUG-2012",
+  "active_ingredients": [
+    {
+      "name": "DICLOFENAC POTASSIUM",
+      "strength": "50",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "POWDER FOR SOLUTION"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "TRIBUTE PHARMACEUTICALS CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "DICLOFENAC"
+  ]
+}

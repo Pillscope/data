@@ -1,0 +1,28 @@
+{
+  "drug_code": "87819",
+  "din": "02392925",
+  "brand_name": "TEVA-NABILONE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "03-JUN-2013",
+  "active_ingredients": [
+    {
+      "name": "NABILONE",
+      "strength": "0.25",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "CAPSULE"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "TEVA CANADA LIMITED"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "NABILONE"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "drug_code": "92319",
+  "din": "02438801",
+  "brand_name": "ZYDELIG",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "30-SEP-2015",
+  "active_ingredients": [
+    {
+      "name": "Idelalisib",
+      "strength": "150",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "GILEAD SCIENCES CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "IDELALISIB"
+  ]
+}

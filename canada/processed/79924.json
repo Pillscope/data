@@ -1,0 +1,34 @@
+{
+  "drug_code": "79924",
+  "din": "02313731",
+  "brand_name": "TEVA-CILAZAPRIL/HCTZ",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "02-MAR-2018",
+  "active_ingredients": [
+    {
+      "name": "HYDROCHLOROTHIAZIDE",
+      "strength": "12.5",
+      "unit": "MG"
+    },
+    {
+      "name": "CILAZAPRIL (CILAZAPRIL MONOHYDRATE)",
+      "strength": "5",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "TEVA CANADA LIMITED"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "CILAZAPRIL AND DIURETICS",
+    "CILAZAPRIL AND DIURETICS"
+  ]
+}

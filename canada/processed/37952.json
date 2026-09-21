@@ -1,0 +1,29 @@
+{
+  "drug_code": "37952",
+  "din": "02227223",
+  "brand_name": "ALI-FLEX - LIQ 2.4%",
+  "class": "Disinfectant",
+  "descriptor": "",
+  "last_update": "26-JUL-2006",
+  "active_ingredients": [
+    {
+      "name": "SODIUM HYPOCHLORITE",
+      "strength": "2.4",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "LIQUID"
+  ],
+  "routes": [
+    "DISINFECTANT (Food Premises)",
+    "DISINFECTANT (Hospital/HC Facilities)"
+  ],
+  "companies": [
+    "LALEMA INC"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "TECHNICAL DISINFECTANTS"
+  ]
+}

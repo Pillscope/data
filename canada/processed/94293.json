@@ -1,0 +1,28 @@
+{
+  "drug_code": "94293",
+  "din": "02456087",
+  "brand_name": "PANZYGA",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "12-JAN-2017",
+  "active_ingredients": [
+    {
+      "name": "IMMUNE GLOBULIN (HUMAN)",
+      "strength": "100",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "OCTAPHARMA PHARMAZEUTIKA PRODUKTIONSGES M B H"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "IMMUNOGLOBULINS, NORMAL HUMAN, FOR INTRAVASC. ADM."
+  ]
+}

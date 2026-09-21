@@ -1,0 +1,31 @@
+{
+  "drug_code": "10785",
+  "din": "00813893",
+  "brand_name": "LINCO-SPECTIN",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "11-DEC-2017",
+  "active_ingredients": [
+    {
+      "name": "SPECTINOMYCIN (SPECTINOMYCIN SULFATE)",
+      "strength": "100",
+      "unit": "MG"
+    },
+    {
+      "name": "LINCOMYCIN (LINCOMYCIN HYDROCHLORIDE)",
+      "strength": "50",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "INTRAMUSCULAR"
+  ],
+  "companies": [
+    "ZOETIS CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": []
+}

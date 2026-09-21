@@ -1,0 +1,28 @@
+{
+  "drug_code": "4980",
+  "din": "00522651",
+  "brand_name": "APO-NAPROXEN",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "01-AUG-2017",
+  "active_ingredients": [
+    {
+      "name": "NAPROXEN",
+      "strength": "250",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "APOTEX INC"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "NAPROXEN"
+  ]
+}

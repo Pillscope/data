@@ -1,0 +1,29 @@
+{
+  "drug_code": "87731",
+  "din": "02392011",
+  "brand_name": "METHOD ANTIBAC DISINFECTING ALL-PURPOSE CLEANER",
+  "class": "Disinfectant",
+  "descriptor": "LIQUID",
+  "last_update": "24-JUN-2015",
+  "active_ingredients": [
+    {
+      "name": "CITRIC ACID",
+      "strength": "5",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "SPRAY"
+  ],
+  "routes": [
+    "DISINFECTANT (Domestic)",
+    "DISINFECTANT (Institutional/Industrial)"
+  ],
+  "companies": [
+    "METHOD PRODUCTS INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "TECHNICAL DISINFECTANTS"
+  ]
+}

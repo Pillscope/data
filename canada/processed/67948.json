@@ -1,0 +1,28 @@
+{
+  "drug_code": "67948",
+  "din": "02244005",
+  "brand_name": "MONISTAT 3 VAGINAL CREAM",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "06-NOV-2012",
+  "active_ingredients": [
+    {
+      "name": "MICONAZOLE NITRATE",
+      "strength": "4",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "CREAM"
+  ],
+  "routes": [
+    "VAGINAL"
+  ],
+  "companies": [
+    "INSIGHT PHARMACEUTICALS LLC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "MICONAZOLE"
+  ]
+}

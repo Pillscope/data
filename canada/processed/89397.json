@@ -1,0 +1,28 @@
+{
+  "drug_code": "89397",
+  "din": "02409259",
+  "brand_name": "EXTRA STRENGTH DORMEX CAPLETS",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "14-JAN-2015",
+  "active_ingredients": [
+    {
+      "name": "DIPHENHYDRAMINE HYDROCHLORIDE",
+      "strength": "50",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "VITA HEALTH PRODUCTS INC"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "DIPHENHYDRAMINE"
+  ]
+}

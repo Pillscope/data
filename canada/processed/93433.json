@@ -1,0 +1,29 @@
+{
+  "drug_code": "93433",
+  "din": "02448610",
+  "brand_name": "BYDUREON",
+  "class": "Human",
+  "descriptor": "4 SINGLE DOSE DUAL-CHAMBER  PENS",
+  "last_update": "02-FEB-2017",
+  "active_ingredients": [
+    {
+      "name": "EXENATIDE",
+      "strength": "2",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "POWDER FOR SUSPENSION, SUSTAINED-RELEASE",
+    "KIT"
+  ],
+  "routes": [
+    "SUBCUTANEOUS"
+  ],
+  "companies": [
+    "ASTRAZENECA CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "EXENATIDE"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "drug_code": "43507",
+  "din": "02229056",
+  "brand_name": "PROHANCE - LIQ IV 279.3MG/ML",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "27-NOV-2009",
+  "active_ingredients": [
+    {
+      "name": "GADOTERIDOL",
+      "strength": "279.3",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "BRACCO IMAGING CANADA"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "GADOTERIDOL"
+  ]
+}

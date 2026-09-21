@@ -1,0 +1,28 @@
+{
+  "drug_code": "87629",
+  "din": "02390906",
+  "brand_name": "AURO-SERTRALINE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "21-NOV-2012",
+  "active_ingredients": [
+    {
+      "name": "SERTRALINE (SERTRALINE HYDROCHLORIDE)",
+      "strength": "25",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "CAPSULE"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "AURO PHARMA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "SERTRALINE"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "drug_code": "19661",
+  "din": "02162431",
+  "brand_name": "PEDIAPHARM NAPROXEN SUSPENSION",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "01-SEP-2017",
+  "active_ingredients": [
+    {
+      "name": "NAPROXEN",
+      "strength": "125",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SUSPENSION"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "PEDIAPHARM INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "NAPROXEN"
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "drug_code": "86872",
+  "din": "02382938",
+  "brand_name": "CEPACOL SENSATIONS",
+  "class": "Human",
+  "descriptor": "SUCROSE AND SUCROSE-FREE FORMULATIONS",
+  "last_update": "26-FEB-2013",
+  "active_ingredients": [
+    {
+      "name": "AMYLMETACRESOL",
+      "strength": "0.6",
+      "unit": "MG"
+    },
+    {
+      "name": "DICHLOROBENZYL ALCOHOL",
+      "strength": "1.2",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "LOZENGE"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "RECKITT BENCKISER (CANADA) INC"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "DICHLOROBENZYL ALCOHOL"
+  ]
+}

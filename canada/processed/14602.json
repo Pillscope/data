@@ -1,0 +1,29 @@
+{
+  "drug_code": "14602",
+  "din": "01948903",
+  "brand_name": "PHARMALGEN HONEY BEE VENOM",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "19-MAR-2009",
+  "active_ingredients": [
+    {
+      "name": "APIS MELLIFERA VENOM PROTEIN EXTRACT",
+      "strength": "1.1",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "POWDER FOR SOLUTION"
+  ],
+  "routes": [
+    "INTRADERMAL",
+    "SUBCUTANEOUS"
+  ],
+  "companies": [
+    "ALK - ABELLO A/S"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "INSECTS"
+  ]
+}

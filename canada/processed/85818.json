@@ -1,0 +1,34 @@
+{
+  "drug_code": "85818",
+  "din": "02373068",
+  "brand_name": "GD-LATANOPROST/TIMOLOL",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "17-MAY-2013",
+  "active_ingredients": [
+    {
+      "name": "LATANOPROST",
+      "strength": "50",
+      "unit": "MCG"
+    },
+    {
+      "name": "TIMOLOL (TIMOLOL MALEATE)",
+      "strength": "5",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "OPHTHALMIC"
+  ],
+  "companies": [
+    "GENMED A DIVISION OF PFIZER CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "TIMOLOL, COMBINATIONS",
+    "TIMOLOL, COMBINATIONS"
+  ]
+}

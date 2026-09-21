@@ -1,0 +1,28 @@
+{
+  "drug_code": "90287",
+  "din": "02418290",
+  "brand_name": "WINDEX MULTI-SURFACE DISINFECTANT II",
+  "class": "Disinfectant",
+  "descriptor": "",
+  "last_update": "11-JAN-2016",
+  "active_ingredients": [
+    {
+      "name": "LACTIC ACID",
+      "strength": "0.19",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "DISINFECTANT (Domestic)"
+  ],
+  "companies": [
+    "S.C. JOHNSON AND SON LTD"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "TECHNICAL DISINFECTANTS"
+  ]
+}

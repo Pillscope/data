@@ -1,0 +1,28 @@
+{
+  "drug_code": "80062",
+  "din": "02315068",
+  "brand_name": "TEVA-METHYLPHENIDATE ER-C",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "29-APR-2015",
+  "active_ingredients": [
+    {
+      "name": "METHYLPHENIDATE HYDROCHLORIDE",
+      "strength": "18",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET (EXTENDED-RELEASE)"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "TEVA CANADA LIMITED"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "METHYLPHENIDATE"
+  ]
+}

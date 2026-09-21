@@ -1,0 +1,28 @@
+{
+  "drug_code": "17399",
+  "din": "02060205",
+  "brand_name": "CHARACTOL-25",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "29-APR-2015",
+  "active_ingredients": [
+    {
+      "name": "CHARCOAL ACTIVATED",
+      "strength": "200",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SUSPENSION"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "OMEGA LABORATORIES LTD"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "MEDICINAL CHARCOAL"
+  ]
+}

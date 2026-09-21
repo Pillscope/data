@@ -1,0 +1,39 @@
+{
+  "drug_code": "80335",
+  "din": "02317834",
+  "brand_name": "ANTIBIOTIC CREAM PLUS PAIN RELIEF",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "17-JUL-2012",
+  "active_ingredients": [
+    {
+      "name": "GRAMICIDIN",
+      "strength": "0.25",
+      "unit": "MG"
+    },
+    {
+      "name": "POLYMYXIN B SULFATE",
+      "strength": "10000",
+      "unit": "UNIT"
+    },
+    {
+      "name": "LIDOCAINE HYDROCHLORIDE",
+      "strength": "50",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "CREAM"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "PHARMETICS (2011) INC"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "COMBINATIONS OF ANTIBIOTICS",
+    "COMBINATIONS OF ANTIBIOTICS"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "drug_code": "93817",
+  "din": "02451816",
+  "brand_name": "BRIDION",
+  "class": "Human",
+  "descriptor": "2ML & 5ML SINGLE USE VIALS",
+  "last_update": "01-SEP-2016",
+  "active_ingredients": [
+    {
+      "name": "SUGAMMADEX (SUGAMMADEX SODIUM)",
+      "strength": "100",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "MERCK CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "SUGAMMADEX"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "drug_code": "70586",
+  "din": "02246414",
+  "brand_name": "AVELOX I.V.",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "08-MAY-2006",
+  "active_ingredients": [
+    {
+      "name": "MOXIFLOXACIN (MOXIFLOXACIN HYDROCHLORIDE)",
+      "strength": "400",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "BAYER INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "MOXIFLOXACIN"
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "drug_code": "4037",
+  "din": "00510335",
+  "brand_name": "TARGEL SA",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "10-MAY-2016",
+  "active_ingredients": [
+    {
+      "name": "SALICYLIC ACID",
+      "strength": "3",
+      "unit": "%"
+    },
+    {
+      "name": "COAL TAR",
+      "strength": "10",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "LIQUID"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "ODAN LABORATORIES LTD"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "TARS",
+    "TARS"
+  ]
+}

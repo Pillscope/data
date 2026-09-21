@@ -1,0 +1,28 @@
+{
+  "drug_code": "86706",
+  "din": "02381281",
+  "brand_name": "MYLAN-ROSUVASTATIN",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "29-MAY-2013",
+  "active_ingredients": [
+    {
+      "name": "ROSUVASTATIN (ROSUVASTATIN CALCIUM)",
+      "strength": "20",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "MYLAN PHARMACEUTICALS ULC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "ROSUVASTATIN"
+  ]
+}

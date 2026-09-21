@@ -1,0 +1,33 @@
+{
+  "drug_code": "34222",
+  "din": "02160757",
+  "brand_name": "CHLORAPREP ONE-STEP",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "16-NOV-2011",
+  "active_ingredients": [
+    {
+      "name": "CHLORHEXIDINE GLUCONATE",
+      "strength": "2",
+      "unit": "%"
+    },
+    {
+      "name": "ISOPROPYL ALCOHOL",
+      "strength": "70",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "CAREFUSION CANADA ULC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "CHLORHEXIDINE, COMBINATIONS"
+  ]
+}

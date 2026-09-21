@@ -1,0 +1,28 @@
+{
+  "drug_code": "1290",
+  "din": "00037605",
+  "brand_name": "MICRONOR TABLETS 28-DAY",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "23-MAR-2006",
+  "active_ingredients": [
+    {
+      "name": "NORETHINDRONE",
+      "strength": "0.35",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "JANSSEN INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "NORETHISTERONE"
+  ]
+}

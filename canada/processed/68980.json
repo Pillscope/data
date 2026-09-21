@@ -1,0 +1,28 @@
+{
+  "drug_code": "68980",
+  "din": "02244982",
+  "brand_name": "TRACLEER",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "15-OCT-2015",
+  "active_ingredients": [
+    {
+      "name": "BOSENTAN (BOSENTAN MONOHYDRATE)",
+      "strength": "125",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "ACTELION PHARMACEUTICALS LTD"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "BOSENTAN"
+  ]
+}

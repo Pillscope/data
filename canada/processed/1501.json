@@ -1,0 +1,27 @@
+{
+  "drug_code": "1501",
+  "din": "00250325",
+  "brand_name": "DEXAMETHASONE INJ 2MG/ML",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "20-SEP-2004",
+  "active_ingredients": [
+    {
+      "name": "DEXAMETHASONE PHOSPHATE",
+      "strength": "2",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "INTRAMUSCULAR",
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "DOMINION VETERINARY LABORATORIES LTD."
+  ],
+  "status": "MARKETED",
+  "atc": []
+}

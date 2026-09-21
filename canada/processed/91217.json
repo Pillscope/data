@@ -1,0 +1,34 @@
+{
+  "drug_code": "91217",
+  "din": "02427664",
+  "brand_name": "LOSARTAN/HCTZ",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "28-AUG-2014",
+  "active_ingredients": [
+    {
+      "name": "HYDROCHLOROTHIAZIDE",
+      "strength": "25",
+      "unit": "MG"
+    },
+    {
+      "name": "LOSARTAN POTASSIUM",
+      "strength": "100",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "SANIS HEALTH INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "LOSARTAN AND DIURETICS",
+    "LOSARTAN AND DIURETICS"
+  ]
+}

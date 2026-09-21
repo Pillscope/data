@@ -1,0 +1,48 @@
+{
+  "drug_code": "96187",
+  "din": "02472562",
+  "brand_name": "30 SPRAY GEL SUNSCREEN WITH INSTANT BRONZER",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "24-APR-2018",
+  "active_ingredients": [
+    {
+      "name": "AVOBENZONE",
+      "strength": "3",
+      "unit": "%"
+    },
+    {
+      "name": "OCTOCRYLENE",
+      "strength": "2.75",
+      "unit": "%"
+    },
+    {
+      "name": "OXYBENZONE",
+      "strength": "2",
+      "unit": "%"
+    },
+    {
+      "name": "OCTISALATE",
+      "strength": "5",
+      "unit": "%"
+    },
+    {
+      "name": "HOMOSALATE",
+      "strength": "7.5",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "GEL"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "PRIME ENTERPRISES INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "COMBINATIONS OF PROTECTIVES AGAINST UV-RADIATION"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "drug_code": "2010",
+  "din": "00308498",
+  "brand_name": "IRON DEXTRAN INJ 100MG/ML",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "05-JUL-1999",
+  "active_ingredients": [
+    {
+      "name": "IRON (IRON DEXTRAN COMPLEX)",
+      "strength": "100",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "LIQUID"
+  ],
+  "routes": [
+    "INTRAMUSCULAR"
+  ],
+  "companies": [
+    "PROFESSIONAL VETERINARY LABORATORIES"
+  ],
+  "status": "MARKETED",
+  "atc": []
+}

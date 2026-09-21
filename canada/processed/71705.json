@@ -1,0 +1,29 @@
+{
+  "drug_code": "71705",
+  "din": "02247459",
+  "brand_name": "CHORIONIC GONADOTROPIN FOR INJECTION, USP",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "19-NOV-2015",
+  "active_ingredients": [
+    {
+      "name": "CHORIONIC GONADOTROPIN",
+      "strength": "10000",
+      "unit": "UNIT"
+    }
+  ],
+  "forms": [
+    "POWDER FOR SOLUTION"
+  ],
+  "routes": [
+    "INTRAMUSCULAR",
+    "SUBCUTANEOUS"
+  ],
+  "companies": [
+    "FRESENIUS KABI CANADA LTD"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "CHORIONIC GONADOTROPHIN"
+  ]
+}

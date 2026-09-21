@@ -1,0 +1,28 @@
+{
+  "drug_code": "95539",
+  "din": "02466988",
+  "brand_name": "APO-DESVENLAFAXINE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "24-OCT-2017",
+  "active_ingredients": [
+    {
+      "name": "DESVENLAFAXINE",
+      "strength": "50",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET (EXTENDED-RELEASE)"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "APOTEX INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "DESVENLAFAXINE"
+  ]
+}

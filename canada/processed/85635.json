@@ -1,0 +1,43 @@
+{
+  "drug_code": "85635",
+  "din": "02371170",
+  "brand_name": "SMASHBOX CAMERA READY BB CREAM SPF 35",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "29-APR-2015",
+  "active_ingredients": [
+    {
+      "name": "TITANIUM DIOXIDE",
+      "strength": "1.1",
+      "unit": "%"
+    },
+    {
+      "name": "OXYBENZONE",
+      "strength": "2.5",
+      "unit": "%"
+    },
+    {
+      "name": "OCTISALATE",
+      "strength": "4",
+      "unit": "%"
+    },
+    {
+      "name": "OCTINOXATE",
+      "strength": "7.5",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "CREAM"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "SMASHBOX COSMETICS DIST"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "COMBINATIONS OF PROTECTIVES AGAINST UV-RADIATION"
+  ]
+}

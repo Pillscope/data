@@ -1,0 +1,28 @@
+{
+  "drug_code": "92470",
+  "din": "02440342",
+  "brand_name": "ROSIVER",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "23-FEB-2016",
+  "active_ingredients": [
+    {
+      "name": "IVERMECTIN",
+      "strength": "1",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "CREAM"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "GALDERMA CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "IVERMECTIN"
+  ]
+}

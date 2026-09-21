@@ -1,0 +1,28 @@
+{
+  "drug_code": "93872",
+  "din": "02452340",
+  "brand_name": "COTELLIC",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "16-JAN-2017",
+  "active_ingredients": [
+    {
+      "name": "COBIMETINIB (COBIMETINIB FUMARATE)",
+      "strength": "20",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "HOFFMANN-LA ROCHE LIMITED"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "COBIMETINIB"
+  ]
+}

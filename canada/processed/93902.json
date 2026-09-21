@@ -1,0 +1,28 @@
+{
+  "drug_code": "93902",
+  "din": "02452650",
+  "brand_name": "DULOXETINE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "04-APR-2018",
+  "active_ingredients": [
+    {
+      "name": "DULOXETINE (DULOXETINE HYDROCHLORIDE)",
+      "strength": "30",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "CAPSULE (DELAYED RELEASE)"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "PRO DOC LIMITEE"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "DULOXETINE"
+  ]
+}

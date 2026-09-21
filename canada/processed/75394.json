@@ -1,0 +1,29 @@
+{
+  "drug_code": "75394",
+  "din": "02268531",
+  "brand_name": "GENTAMICIN INJECTION USP",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "23-SEP-2005",
+  "active_ingredients": [
+    {
+      "name": "GENTAMICIN (GENTAMICIN SULFATE)",
+      "strength": "10",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "INTRAMUSCULAR",
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "SANDOZ CANADA INCORPORATED"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "GENTAMICIN"
+  ]
+}

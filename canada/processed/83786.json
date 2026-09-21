@@ -1,0 +1,33 @@
+{
+  "drug_code": "83786",
+  "din": "02352605",
+  "brand_name": "ESTEE LAUDER DAYWEAR MULTI-PROTECTION 24H-MOISTURE CREME SPF 15 FOR NORMAL/ COMBINATION SKIN",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "30-JUN-2017",
+  "active_ingredients": [
+    {
+      "name": "AVOBENZONE",
+      "strength": "3",
+      "unit": "%"
+    },
+    {
+      "name": "OCTISALATE",
+      "strength": "5",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "CREAM"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "ESTEE LAUDER DIST"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "COMBINATIONS OF PROTECTIVES AGAINST UV-RADIATION"
+  ]
+}

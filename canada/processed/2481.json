@@ -1,0 +1,28 @@
+{
+  "drug_code": "2481",
+  "din": "00363812",
+  "brand_name": "BUSCOPAN",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "27-APR-2017",
+  "active_ingredients": [
+    {
+      "name": "HYOSCINE BUTYLBROMIDE",
+      "strength": "10",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "SANOFI-AVENTIS CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "BUTYLSCOPOLAMINE"
+  ]
+}

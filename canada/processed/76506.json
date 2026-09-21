@@ -1,0 +1,28 @@
+{
+  "drug_code": "76506",
+  "din": "02279460",
+  "brand_name": "APIDRA",
+  "class": "Human",
+  "descriptor": "10ML VIAL",
+  "last_update": "08-DEC-2016",
+  "active_ingredients": [
+    {
+      "name": "INSULIN GLULISINE (RECOMBINANT DNA ORIGIN)",
+      "strength": "100",
+      "unit": "UNIT"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "SUBCUTANEOUS"
+  ],
+  "companies": [
+    "SANOFI-AVENTIS CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "INSULIN GLULISINE"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "drug_code": "87156",
+  "din": "02385953",
+  "brand_name": "RANITIDINE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "24-APR-2018",
+  "active_ingredients": [
+    {
+      "name": "RANITIDINE (RANITIDINE HYDROCHLORIDE)",
+      "strength": "150",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "SIVEM PHARMACEUTICALS ULC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "RANITIDINE"
+  ]
+}

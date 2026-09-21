@@ -1,0 +1,28 @@
+{
+  "drug_code": "74247",
+  "din": "02257270",
+  "brand_name": "ZYMAR",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "08-JUN-2006",
+  "active_ingredients": [
+    {
+      "name": "GATIFLOXACIN",
+      "strength": "0.3",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "OPHTHALMIC"
+  ],
+  "companies": [
+    "ALLERGAN INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "GATIFLOXACIN"
+  ]
+}

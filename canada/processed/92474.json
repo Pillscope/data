@@ -1,0 +1,43 @@
+{
+  "drug_code": "92474",
+  "din": "02440377",
+  "brand_name": "PMS-AMPHETAMINES XR",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "27-JAN-2017",
+  "active_ingredients": [
+    {
+      "name": "DEXTROAMPHETAMINE SACCHARATE",
+      "strength": "2.5",
+      "unit": "MG"
+    },
+    {
+      "name": "DEXTROAMPHETAMINE SULFATE",
+      "strength": "2.5",
+      "unit": "MG"
+    },
+    {
+      "name": "AMPHETAMINE ASPARTATE MONOHYDRATE",
+      "strength": "2.5",
+      "unit": "MG"
+    },
+    {
+      "name": "AMPHETAMINE SULFATE",
+      "strength": "2.5",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "CAPSULE (EXTENDED RELEASE)"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "PHARMASCIENCE INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "AMFETAMINE"
+  ]
+}

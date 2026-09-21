@@ -1,0 +1,38 @@
+{
+  "drug_code": "74217",
+  "din": "02256940",
+  "brand_name": "HYDRAPHASE UV",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "31-JUL-2012",
+  "active_ingredients": [
+    {
+      "name": "TITANIUM DIOXIDE",
+      "strength": "2.5",
+      "unit": "%"
+    },
+    {
+      "name": "TEREPHTHALYLIDENE DICAMPHOR SULFONIC ACID",
+      "strength": "4.0",
+      "unit": "%"
+    },
+    {
+      "name": "OCTINOXATE",
+      "strength": "7.5",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "CREAM"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "LABORATOIRES LA ROCHE-POSAY CANADA"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "COMBINATIONS OF PROTECTIVES AGAINST UV-RADIATION"
+  ]
+}

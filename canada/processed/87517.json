@@ -1,0 +1,34 @@
+{
+  "drug_code": "87517",
+  "din": "02389673",
+  "brand_name": "MINT-LOSARTAN/HCTZ DS",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "20-MAR-2014",
+  "active_ingredients": [
+    {
+      "name": "HYDROCHLOROTHIAZIDE",
+      "strength": "25.0",
+      "unit": "MG"
+    },
+    {
+      "name": "LOSARTAN POTASSIUM",
+      "strength": "100.0",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "MINT PHARMACEUTICALS INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "LOSARTAN AND DIURETICS",
+    "LOSARTAN AND DIURETICS"
+  ]
+}

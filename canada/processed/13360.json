@@ -1,0 +1,28 @@
+{
+  "drug_code": "13360",
+  "din": "01964054",
+  "brand_name": "ORACORT DENTAL PASTE 0.1%",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "10-AUG-2005",
+  "active_ingredients": [
+    {
+      "name": "TRIAMCINOLONE ACETONIDE",
+      "strength": ".1",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "PASTE"
+  ],
+  "routes": [
+    "DENTAL"
+  ],
+  "companies": [
+    "TARO PHARMACEUTICALS INC"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "TRIAMCINOLONE"
+  ]
+}

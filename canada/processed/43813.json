@@ -1,0 +1,28 @@
+{
+  "drug_code": "43813",
+  "din": "02103613",
+  "brand_name": "APO-DOMPERIDONE - TAB 10MG",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "05-MAY-2015",
+  "active_ingredients": [
+    {
+      "name": "DOMPERIDONE (DOMPERIDONE MALEATE)",
+      "strength": "10",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "APOTEX INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "DOMPERIDONE"
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "drug_code": "93563",
+  "din": "02449803",
+  "brand_name": "COMPONENT TE-G IMPLANTS WITH TYLAN",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "14-FEB-2018",
+  "active_ingredients": [
+    {
+      "name": "ESTRADIOL",
+      "strength": "8",
+      "unit": "MG"
+    },
+    {
+      "name": "TYLOSIN TARTRATE",
+      "strength": "29",
+      "unit": "MG"
+    },
+    {
+      "name": "TRENBOLONE ACETATE",
+      "strength": "40",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "IMPLANT"
+  ],
+  "routes": [
+    "SUBCUTANEOUS"
+  ],
+  "companies": [
+    "ELANCO CANADA LIMITED"
+  ],
+  "status": "APPROVED",
+  "atc": []
+}

@@ -1,0 +1,28 @@
+{
+  "drug_code": "86646",
+  "din": "02380684",
+  "brand_name": "RAN-CANDESARTAN",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "19-JAN-2015",
+  "active_ingredients": [
+    {
+      "name": "CANDESARTAN CILEXETIL",
+      "strength": "4",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "RANBAXY PHARMACEUTICALS CANADA INC."
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "CANDESARTAN"
+  ]
+}

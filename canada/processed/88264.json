@@ -1,0 +1,28 @@
+{
+  "drug_code": "88264",
+  "din": "02397714",
+  "brand_name": "ELIQUIS",
+  "class": "Human",
+  "descriptor": "FILM-COATED",
+  "last_update": "15-JAN-2014",
+  "active_ingredients": [
+    {
+      "name": "Apixaban",
+      "strength": "5.0",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "BRISTOL-MYERS SQUIBB CANADA"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "APIXABAN"
+  ]
+}

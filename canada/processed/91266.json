@@ -1,0 +1,28 @@
+{
+  "drug_code": "91266",
+  "din": "02428180",
+  "brand_name": "PANTOPRAZOLE-40",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "11-AUG-2014",
+  "active_ingredients": [
+    {
+      "name": "PANTOPRAZOLE (PANTOPRAZOLE SODIUM SESQUIHYDRATE)",
+      "strength": "40",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET (DELAYED-RELEASE)"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "SIVEM PHARMACEUTICALS ULC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "PANTOPRAZOLE"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "drug_code": "76054",
+  "din": "02275023",
+  "brand_name": "TEVA-VENLAFAXINE XR",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "05-MAY-2015",
+  "active_ingredients": [
+    {
+      "name": "VENLAFAXINE (VENLAFAXINE HYDROCHLORIDE)",
+      "strength": "37.5",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "CAPSULE (EXTENDED RELEASE)"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "TEVA CANADA LIMITED"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "VENLAFAXINE"
+  ]
+}

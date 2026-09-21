@@ -1,0 +1,28 @@
+{
+  "drug_code": "43506",
+  "din": "02229048",
+  "brand_name": "ISOVUE 370 INJECTION",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "07-JUL-2008",
+  "active_ingredients": [
+    {
+      "name": "IOPAMIDOL",
+      "strength": "76",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "LIQUID"
+  ],
+  "routes": [
+    "INTRAVASCULAR"
+  ],
+  "companies": [
+    "BRACCO IMAGING CANADA"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "IOPAMIDOL"
+  ]
+}

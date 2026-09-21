@@ -1,0 +1,28 @@
+{
+  "drug_code": "94698",
+  "din": "02459671",
+  "brand_name": "STELARA",
+  "class": "Human",
+  "descriptor": "SINGLE-USE VIAL",
+  "last_update": "31-MAY-2017",
+  "active_ingredients": [
+    {
+      "name": "USTEKINUMAB",
+      "strength": "5",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "JANSSEN INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "USTEKINUMAB"
+  ]
+}

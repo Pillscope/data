@@ -1,0 +1,27 @@
+{
+  "drug_code": "13831",
+  "din": "00824240",
+  "brand_name": "AQUACALM",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "11-JUL-2011",
+  "active_ingredients": [
+    {
+      "name": "METOMIDATE HYDROCHLORIDE",
+      "strength": "1000",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "POWDER FOR SOLUTION"
+  ],
+  "routes": [
+    "INTRABRANCHIAL",
+    "TOPICAL"
+  ],
+  "companies": [
+    "SYNDEL CANADA"
+  ],
+  "status": "APPROVED",
+  "atc": []
+}

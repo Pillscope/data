@@ -1,0 +1,28 @@
+{
+  "drug_code": "72606",
+  "din": "02248267",
+  "brand_name": "PMS-MELOXICAM",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "03-APR-2006",
+  "active_ingredients": [
+    {
+      "name": "MELOXICAM",
+      "strength": "7.5",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "PHARMASCIENCE INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "MELOXICAM"
+  ]
+}

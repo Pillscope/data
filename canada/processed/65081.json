@@ -1,0 +1,28 @@
+{
+  "drug_code": "65081",
+  "din": "02241445",
+  "brand_name": "DACARBAZINE FOR INJECTION BP",
+  "class": "Human",
+  "descriptor": "SINGLE-USE VIAL",
+  "last_update": "01-JUN-2017",
+  "active_ingredients": [
+    {
+      "name": "DACARBAZINE",
+      "strength": "600",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "POWDER FOR SOLUTION"
+  ],
+  "routes": [
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "PFIZER CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "DACARBAZINE"
+  ]
+}

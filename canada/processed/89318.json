@@ -1,0 +1,28 @@
+{
+  "drug_code": "89318",
+  "din": "02408430",
+  "brand_name": "SOLUPREP AQ SPONGE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "11-MAR-2014",
+  "active_ingredients": [
+    {
+      "name": "CHLORHEXIDINE GLUCONATE",
+      "strength": "2",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "SPONGE"
+  ],
+  "routes": [
+    "TOPICAL (HOSPITAL/HC FACILITIES)"
+  ],
+  "companies": [
+    "3M CANADA COMPANY"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "CHLORHEXIDINE"
+  ]
+}

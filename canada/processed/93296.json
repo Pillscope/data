@@ -1,0 +1,28 @@
+{
+  "drug_code": "93296",
+  "din": "02447371",
+  "brand_name": "PRIVA-MOXIFLOXACIN",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "16-JAN-2018",
+  "active_ingredients": [
+    {
+      "name": "MOXIFLOXACIN (MOXIFLOXACIN HYDROCHLORIDE)",
+      "strength": "400",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "PHARMAPAR INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "MOXIFLOXACIN"
+  ]
+}

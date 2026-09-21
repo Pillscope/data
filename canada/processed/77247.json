@@ -1,0 +1,28 @@
+{
+  "drug_code": "77247",
+  "din": "02287048",
+  "brand_name": "BACLOFEN",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "18-MAR-2010",
+  "active_ingredients": [
+    {
+      "name": "BACLOFEN",
+      "strength": "20",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "SANIS HEALTH INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "BACLOFEN"
+  ]
+}

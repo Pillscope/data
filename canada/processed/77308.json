@@ -1,0 +1,28 @@
+{
+  "drug_code": "77308",
+  "din": "02287684",
+  "brand_name": "SONOVUE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "13-JUN-2017",
+  "active_ingredients": [
+    {
+      "name": "SULFUR HEXAFLUORIDE",
+      "strength": "8",
+      "unit": "MCL"
+    }
+  ],
+  "forms": [
+    "POWDER FOR SUSPENSION"
+  ],
+  "routes": [
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "BRACCO IMAGING CANADA"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "SULFUR HEXAFLUORIDE"
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "drug_code": "66735",
+  "din": "02242903",
+  "brand_name": "ENBREL",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "15-JUN-2016",
+  "active_ingredients": [
+    {
+      "name": "ETANERCEPT",
+      "strength": "25",
+      "unit": "MG"
+    },
+    {
+      "name": "WATER",
+      "strength": "1",
+      "unit": "ML"
+    }
+  ],
+  "forms": [
+    "KIT",
+    "LIQUID",
+    "POWDER FOR SOLUTION"
+  ],
+  "routes": [
+    "SUBCUTANEOUS"
+  ],
+  "companies": [
+    "IMMUNEX CORPORATION"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "ETANERCEPT"
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "drug_code": "3139",
+  "din": "00444863",
+  "brand_name": "ZINCODERM (ZINC OXIDE OINTMENT)",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "23-JUN-2008",
+  "active_ingredients": [
+    {
+      "name": "ZINC OXIDE",
+      "strength": "15.63",
+      "unit": "%"
+    },
+    {
+      "name": "LANOLIN - ANHYDROUS",
+      "strength": "7.19",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "OINTMENT"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "VETOQUINOL N A INC"
+  ],
+  "status": "APPROVED",
+  "atc": []
+}

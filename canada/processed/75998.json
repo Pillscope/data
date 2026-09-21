@@ -1,0 +1,28 @@
+{
+  "drug_code": "75998",
+  "din": "02274531",
+  "brand_name": "GD-AZITHROMYCIN",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "29-AUG-2011",
+  "active_ingredients": [
+    {
+      "name": "AZITHROMYCIN",
+      "strength": "250",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "GENMED A DIVISION OF PFIZER CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "AZITHROMYCIN"
+  ]
+}

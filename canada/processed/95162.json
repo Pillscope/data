@@ -1,0 +1,28 @@
+{
+  "drug_code": "95162",
+  "din": "02463539",
+  "brand_name": "TARO-DEFERASIROX",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "12-JUL-2017",
+  "active_ingredients": [
+    {
+      "name": "DEFERASIROX",
+      "strength": "250",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET FOR SUSPENSION"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "TARO PHARMACEUTICALS INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "DEFERASIROX"
+  ]
+}

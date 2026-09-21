@@ -1,0 +1,28 @@
+{
+  "drug_code": "63249",
+  "din": "02239767",
+  "brand_name": "VIAGRA",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "24-APR-2014",
+  "active_ingredients": [
+    {
+      "name": "SILDENAFIL (SILDENAFIL CITRATE)",
+      "strength": "50",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "PFIZER CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "SILDENAFIL"
+  ]
+}

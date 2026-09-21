@@ -1,0 +1,28 @@
+{
+  "drug_code": "80181",
+  "din": "02316307",
+  "brand_name": "SANDOZ DORZOLAMIDE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "27-FEB-2018",
+  "active_ingredients": [
+    {
+      "name": "DORZOLAMIDE (DORZOLAMIDE HYDROCHLORIDE)",
+      "strength": "2",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "OPHTHALMIC"
+  ],
+  "companies": [
+    "SANDOZ CANADA INCORPORATED"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "DORZOLAMIDE"
+  ]
+}

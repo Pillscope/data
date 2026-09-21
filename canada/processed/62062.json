@@ -1,0 +1,28 @@
+{
+  "drug_code": "62062",
+  "din": "02238634",
+  "brand_name": "DOM-SOTALOL",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "30-SEP-2010",
+  "active_ingredients": [
+    {
+      "name": "SOTALOL HYDROCHLORIDE",
+      "strength": "80",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "DOMINION PHARMACAL"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "SOTALOL"
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "drug_code": "6262",
+  "din": "00626112",
+  "brand_name": "B-12 1000 INJ 1000MCG/ML",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "20-FEB-2018",
+  "active_ingredients": [
+    {
+      "name": "VITAMIN B12",
+      "strength": "1",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "INTRAMUSCULAR",
+    "SUBCUTANEOUS"
+  ],
+  "companies": [
+    "OMEGA LABORATORIES LTD"
+  ],
+  "status": "DORMANT",
+  "atc": [
+    "CYANOCOBALAMIN"
+  ]
+}

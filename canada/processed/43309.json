@@ -1,0 +1,28 @@
+{
+  "drug_code": "43309",
+  "din": "02221837",
+  "brand_name": "ALTACE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "25-AUG-2016",
+  "active_ingredients": [
+    {
+      "name": "RAMIPRIL",
+      "strength": "2.5",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "CAPSULE"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "VALEANT CANADA LP/VALEANT CANADA S.E.C."
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "RAMIPRIL"
+  ]
+}

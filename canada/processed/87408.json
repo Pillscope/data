@@ -1,0 +1,28 @@
+{
+  "drug_code": "87408",
+  "din": "02388553",
+  "brand_name": "AURO-ALENDRONATE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "03-OCT-2012",
+  "active_ingredients": [
+    {
+      "name": "ALENDRONIC ACID (ALENDRONATE SODIUM)",
+      "strength": "70",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "AURO PHARMA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "ALENDRONIC ACID"
+  ]
+}

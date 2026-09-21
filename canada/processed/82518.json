@@ -1,0 +1,28 @@
+{
+  "drug_code": "82518",
+  "din": "02339587",
+  "brand_name": "ACH-PIOGLITAZONE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "05-MAY-2015",
+  "active_ingredients": [
+    {
+      "name": "PIOGLITAZONE (PIOGLITAZONE HYDROCHLORIDE)",
+      "strength": "30",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "ACCORD HEALTHCARE INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "PIOGLITAZONE"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "drug_code": "69611",
+  "din": "02245524",
+  "brand_name": "TARO-CLOBETASOL OINTMENT USP, 0.05%",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "20-OCT-2005",
+  "active_ingredients": [
+    {
+      "name": "CLOBETASOL PROPIONATE",
+      "strength": "0.05",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "OINTMENT"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "TARO PHARMACEUTICALS INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "CLOBETASOL"
+  ]
+}

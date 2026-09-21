@@ -1,0 +1,28 @@
+{
+  "drug_code": "83718",
+  "din": "02351935",
+  "brand_name": "SANI HANDS FOAM - AF",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "13-JUL-2011",
+  "active_ingredients": [
+    {
+      "name": "BENZALKONIUM CHLORIDE",
+      "strength": "0.1",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "LIQUID"
+  ],
+  "routes": [
+    "TOPICAL (HOUSEHOLD)"
+  ],
+  "companies": [
+    "OSTREM CHEMICAL CO LTD."
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "BENZALKONIUM"
+  ]
+}

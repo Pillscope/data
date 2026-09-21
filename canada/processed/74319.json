@@ -1,0 +1,28 @@
+{
+  "drug_code": "74319",
+  "din": "02257955",
+  "brand_name": "CLARUS",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "08-APR-2010",
+  "active_ingredients": [
+    {
+      "name": "ISOTRETINOIN",
+      "strength": "10",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "CAPSULE"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "MYLAN PHARMACEUTICALS ULC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "ISOTRETINOIN"
+  ]
+}

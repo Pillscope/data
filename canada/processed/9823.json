@@ -1,0 +1,28 @@
+{
+  "drug_code": "9823",
+  "din": "00846503",
+  "brand_name": "LOSEC CAPSULES 20MG",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "28-NOV-2006",
+  "active_ingredients": [
+    {
+      "name": "OMEPRAZOLE",
+      "strength": "20",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "CAPSULE (DELAYED RELEASE)"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "ASTRAZENECA CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "OMEPRAZOLE"
+  ]
+}

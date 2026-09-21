@@ -1,0 +1,26 @@
+{
+  "drug_code": "87211",
+  "din": "02386542",
+  "brand_name": "FURANTOIN SUSPENSION",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "19-SEP-2013",
+  "active_ingredients": [
+    {
+      "name": "NITROFURANTOIN",
+      "strength": "15",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SUSPENSION"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "WECAN SALES LTD"
+  ],
+  "status": "MARKETED",
+  "atc": []
+}

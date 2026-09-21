@@ -1,0 +1,29 @@
+{
+  "drug_code": "10667",
+  "din": "00852074",
+  "brand_name": "PULMICORT TURBUHALER 100 MCG/DOSE",
+  "class": "Human",
+  "descriptor": "POWDER FOR ORAL INHALATION",
+  "last_update": "20-JUN-2017",
+  "active_ingredients": [
+    {
+      "name": "BUDESONIDE",
+      "strength": "100",
+      "unit": "MCG"
+    }
+  ],
+  "forms": [
+    "METERED-DOSE AEROSOL",
+    "POWDER"
+  ],
+  "routes": [
+    "INHALATION"
+  ],
+  "companies": [
+    "ASTRAZENECA CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "BUDESONIDE"
+  ]
+}

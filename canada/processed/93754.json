@@ -1,0 +1,37 @@
+{
+  "drug_code": "93754",
+  "din": "02451263",
+  "brand_name": "BETCO DAILY DISINFECTANT DUAL",
+  "class": "Disinfectant",
+  "descriptor": "",
+  "last_update": "13-SEP-2017",
+  "active_ingredients": [
+    {
+      "name": "DIDECYL DIMETHYL AMMONIUM CHLORIDE",
+      "strength": "10.14",
+      "unit": "%"
+    },
+    {
+      "name": "BENZALKONIUM CHLORIDE",
+      "strength": "6.76",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "LIQUID",
+    "SPRAY"
+  ],
+  "routes": [
+    "DISINFECTANT (Barn)",
+    "DISINFECTANT (Food Premises)",
+    "DISINFECTANT (Hospital/HC Facilities)",
+    "DISINFECTANT (Institutional/Industrial)"
+  ],
+  "companies": [
+    "BETCO CORPORATION"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "TECHNICAL DISINFECTANTS"
+  ]
+}

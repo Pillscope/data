@@ -1,0 +1,28 @@
+{
+  "drug_code": "8376",
+  "din": "00755907",
+  "brand_name": "NIFEDIPINE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "25-JAN-2011",
+  "active_ingredients": [
+    {
+      "name": "NIFEDIPINE",
+      "strength": "10",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "CAPSULE"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "AA PHARMA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "NIFEDIPINE"
+  ]
+}

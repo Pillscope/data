@@ -1,0 +1,26 @@
+{
+  "drug_code": "9508",
+  "din": "00755710",
+  "brand_name": "STRESNIL",
+  "class": "Veterinary",
+  "descriptor": "INJECTION",
+  "last_update": "16-JAN-2018",
+  "active_ingredients": [
+    {
+      "name": "AZAPERONE",
+      "strength": "40",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "INTRAMUSCULAR"
+  ],
+  "companies": [
+    "ELANCO CANADA LIMITED"
+  ],
+  "status": "APPROVED",
+  "atc": []
+}

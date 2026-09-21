@@ -1,0 +1,28 @@
+{
+  "drug_code": "51594",
+  "din": "02232148",
+  "brand_name": "MOCLOBEMIDE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "16-NOV-2017",
+  "active_ingredients": [
+    {
+      "name": "MOCLOBEMIDE",
+      "strength": "100",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "AA PHARMA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "MOCLOBEMIDE"
+  ]
+}

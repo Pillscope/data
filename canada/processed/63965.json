@@ -1,0 +1,28 @@
+{
+  "drug_code": "63965",
+  "din": "02240416",
+  "brand_name": "ENDURE 420 CIDA-STAT",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "28-APR-2012",
+  "active_ingredients": [
+    {
+      "name": "CHLORHEXIDINE GLUCONATE",
+      "strength": "2",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "LIQUID"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "ECOLAB CO"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "CHLORHEXIDINE"
+  ]
+}

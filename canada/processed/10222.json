@@ -1,0 +1,27 @@
+{
+  "drug_code": "10222",
+  "din": "00813869",
+  "brand_name": "PREDEF 2X",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "29-OCT-2015",
+  "active_ingredients": [
+    {
+      "name": "ISOFLUPREDONE ACETATE",
+      "strength": "2",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SUSPENSION"
+  ],
+  "routes": [
+    "INTRAMUSCULAR",
+    "INTRASYNOVIAL"
+  ],
+  "companies": [
+    "ZOETIS CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": []
+}

@@ -1,0 +1,33 @@
+{
+  "drug_code": "79517",
+  "din": "02309556",
+  "brand_name": "TEVA-CYPROTERONE / ETHINYL ESTRADIOL",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "09-MAR-2018",
+  "active_ingredients": [
+    {
+      "name": "CYPROTERONE ACETATE",
+      "strength": "2",
+      "unit": "MG"
+    },
+    {
+      "name": "ETHINYL ESTRADIOL",
+      "strength": "0.035",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "TEVA CANADA LIMITED"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "CYPROTERONE AND ESTROGEN"
+  ]
+}

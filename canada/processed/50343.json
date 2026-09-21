@@ -1,0 +1,28 @@
+{
+  "drug_code": "50343",
+  "din": "02231061",
+  "brand_name": "TEVA-KETOCONAZOLE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "05-MAY-2015",
+  "active_ingredients": [
+    {
+      "name": "KETOCONAZOLE",
+      "strength": "200",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "TEVA CANADA LIMITED"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "KETOCONAZOLE"
+  ]
+}

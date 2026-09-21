@@ -1,0 +1,28 @@
+{
+  "drug_code": "91027",
+  "din": "02425637",
+  "brand_name": "ELELYSO",
+  "class": "Human",
+  "descriptor": "SINGLE-USE VIAL",
+  "last_update": "17-SEP-2014",
+  "active_ingredients": [
+    {
+      "name": "Taliglucerase Alfa",
+      "strength": "200",
+      "unit": "UNIT"
+    }
+  ],
+  "forms": [
+    "POWDER FOR SOLUTION"
+  ],
+  "routes": [
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "PFIZER CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "TALIGLUCERASE ALFA"
+  ]
+}

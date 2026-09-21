@@ -1,0 +1,29 @@
+{
+  "drug_code": "65047",
+  "din": "02241411",
+  "brand_name": "UROMITEXAN",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "19-AUG-2010",
+  "active_ingredients": [
+    {
+      "name": "MESNA",
+      "strength": "100",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "INTRAVENOUS",
+    "ORAL"
+  ],
+  "companies": [
+    "BAXTER CORPORATION"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "MESNA"
+  ]
+}

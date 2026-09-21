@@ -1,0 +1,28 @@
+{
+  "drug_code": "82433",
+  "din": "02338661",
+  "brand_name": "OLANZAPINE ODT",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "18-MAR-2010",
+  "active_ingredients": [
+    {
+      "name": "OLANZAPINE",
+      "strength": "15",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET (ORALLY DISINTEGRATING)"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "PRO DOC LIMITEE"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "OLANZAPINE"
+  ]
+}

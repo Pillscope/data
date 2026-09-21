@@ -1,0 +1,43 @@
+{
+  "drug_code": "93424",
+  "din": "02448556",
+  "brand_name": "SPF FPS 50 KIDS SUNSCREEN",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "04-JUL-2016",
+  "active_ingredients": [
+    {
+      "name": "AVOBENZONE",
+      "strength": "3",
+      "unit": "G"
+    },
+    {
+      "name": "OXYBENZONE",
+      "strength": "6",
+      "unit": "G"
+    },
+    {
+      "name": "OCTISALATE",
+      "strength": "5",
+      "unit": "G"
+    },
+    {
+      "name": "HOMOSALATE",
+      "strength": "15",
+      "unit": "G"
+    }
+  ],
+  "forms": [
+    "SPRAY, BAG-ON-VALVE"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "FRUIT OF THE EARTH, INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "COMBINATIONS OF PROTECTIVES AGAINST UV-RADIATION"
+  ]
+}

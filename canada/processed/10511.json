@@ -1,0 +1,28 @@
+{
+  "drug_code": "10511",
+  "din": "00060348",
+  "brand_name": "DEXTROSE 5% INJ 5GM/100ML USP",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "22-JUN-2006",
+  "active_ingredients": [
+    {
+      "name": "DEXTROSE",
+      "strength": "5",
+      "unit": "G"
+    }
+  ],
+  "forms": [
+    "LIQUID"
+  ],
+  "routes": [
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "BAXTER CORPORATION"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "CARBOHYDRATES"
+  ]
+}

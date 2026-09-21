@@ -1,0 +1,28 @@
+{
+  "drug_code": "87402",
+  "din": "02388499",
+  "brand_name": "ENALAPRILAT INJECTION USP",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "19-SEP-2012",
+  "active_ingredients": [
+    {
+      "name": "ENALAPRILAT",
+      "strength": "1.25",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "STERIMAX INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "ENALAPRIL"
+  ]
+}

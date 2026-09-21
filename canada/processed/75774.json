@@ -1,0 +1,29 @@
+{
+  "drug_code": "75774",
+  "din": "02272202",
+  "brand_name": "SOMAVERT",
+  "class": "Human",
+  "descriptor": "KIT INCLUDES 1 SINGLE DOSE VIAL & STERILE WATER",
+  "last_update": "10-NOV-2015",
+  "active_ingredients": [
+    {
+      "name": "PEGVISOMANT",
+      "strength": "15",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "KIT",
+    "POWDER FOR SOLUTION"
+  ],
+  "routes": [
+    "SUBCUTANEOUS"
+  ],
+  "companies": [
+    "PFIZER CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "PEGVISOMANT"
+  ]
+}

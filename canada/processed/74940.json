@@ -1,0 +1,33 @@
+{
+  "drug_code": "74940",
+  "din": "02263998",
+  "brand_name": "STREPSILS EXTRA BLACK CHERRY",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "01-MAR-2011",
+  "active_ingredients": [
+    {
+      "name": "HEXYLRESORCINOL",
+      "strength": "2.4",
+      "unit": "MG"
+    },
+    {
+      "name": "L-MENTHOL",
+      "strength": "4.0",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "LOZENGE"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "RECKITT BENCKISER (CANADA) INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "HEXYLRESORCINOL"
+  ]
+}

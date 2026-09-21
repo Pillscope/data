@@ -1,0 +1,28 @@
+{
+  "drug_code": "81671",
+  "din": "02330970",
+  "brand_name": "JAMP-PRAVASTATIN",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "02-NOV-2015",
+  "active_ingredients": [
+    {
+      "name": "PRAVASTATIN SODIUM",
+      "strength": "40",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "JAMP PHARMA CORPORATION"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "PRAVASTATIN"
+  ]
+}

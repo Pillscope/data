@@ -1,0 +1,28 @@
+{
+  "drug_code": "70886",
+  "din": "02246691",
+  "brand_name": "APO-HYDROXYQUINE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "03-MAR-2006",
+  "active_ingredients": [
+    {
+      "name": "HYDROXYCHLOROQUINE SULFATE",
+      "strength": "200",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "APOTEX INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "HYDROXYCHLOROQUINE"
+  ]
+}

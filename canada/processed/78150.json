@@ -1,0 +1,28 @@
+{
+  "drug_code": "78150",
+  "din": "02296160",
+  "brand_name": "ACID REDUCER",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "28-APR-2014",
+  "active_ingredients": [
+    {
+      "name": "RANITIDINE (RANITIDINE HYDROCHLORIDE)",
+      "strength": "150",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "APOTEX INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "RANITIDINE"
+  ]
+}

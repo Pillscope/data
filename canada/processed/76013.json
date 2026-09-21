@@ -1,0 +1,28 @@
+{
+  "drug_code": "76013",
+  "din": "02274655",
+  "brand_name": "ALBUREX - 5",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "11-SEP-2008",
+  "active_ingredients": [
+    {
+      "name": "ALBUMIN (HUMAN)",
+      "strength": "5",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "CSL BEHRING CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "ALBUMIN"
+  ]
+}

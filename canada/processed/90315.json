@@ -1,0 +1,29 @@
+{
+  "drug_code": "90315",
+  "din": "02418592",
+  "brand_name": "BISMUTH CHEWABLES",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "16-NOV-2017",
+  "active_ingredients": [
+    {
+      "name": "BISMUTH SUBSALICYLATE",
+      "strength": "262",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET (CHEWABLE)"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "TEVA CANADA LIMITED"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "BISMUTH PREPARATIONS",
+    "BISMUTH PREPARATIONS"
+  ]
+}

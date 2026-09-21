@@ -1,0 +1,28 @@
+{
+  "drug_code": "83619",
+  "din": "02351013",
+  "brand_name": "NAPROXEN SODIUM",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "05-MAY-2015",
+  "active_ingredients": [
+    {
+      "name": "NAPROXEN SODIUM",
+      "strength": "275",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "SANIS HEALTH INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "NAPROXEN"
+  ]
+}

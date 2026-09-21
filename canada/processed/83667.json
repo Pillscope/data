@@ -1,0 +1,28 @@
+{
+  "drug_code": "83667",
+  "din": "02351404",
+  "brand_name": "METOPROLOL SR",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "16-NOV-2010",
+  "active_ingredients": [
+    {
+      "name": "METOPROLOL TARTRATE",
+      "strength": "100",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET (EXTENDED-RELEASE)"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "PRO DOC LIMITEE"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "METOPROLOL"
+  ]
+}

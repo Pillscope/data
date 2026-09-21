@@ -1,0 +1,28 @@
+{
+  "drug_code": "73487",
+  "din": "02250055",
+  "brand_name": "APO-DEXAMETHASONE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "07-MAR-2006",
+  "active_ingredients": [
+    {
+      "name": "DEXAMETHASONE",
+      "strength": "4",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "APOTEX INC"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "DEXAMETHASONE"
+  ]
+}

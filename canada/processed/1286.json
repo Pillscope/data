@@ -1,0 +1,28 @@
+{
+  "drug_code": "1286",
+  "din": "00232378",
+  "brand_name": "TEVA-PREDNISONE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "31-MAY-2016",
+  "active_ingredients": [
+    {
+      "name": "PREDNISONE",
+      "strength": "50",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "TEVA CANADA LIMITED"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "PREDNISONE"
+  ]
+}

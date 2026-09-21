@@ -1,0 +1,28 @@
+{
+  "drug_code": "49219",
+  "din": "02230394",
+  "brand_name": "TEVA-OXYBUTYNIN",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "25-SEP-2015",
+  "active_ingredients": [
+    {
+      "name": "OXYBUTYNIN CHLORIDE",
+      "strength": "5",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "TEVA CANADA LIMITED"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "OXYBUTYNIN"
+  ]
+}

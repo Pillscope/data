@@ -1,0 +1,41 @@
+{
+  "drug_code": "89526",
+  "din": "02410591",
+  "brand_name": "BOOST 3200",
+  "class": "Disinfectant",
+  "descriptor": "SOLUTION 1 AND SOLUTION 2",
+  "last_update": "12-NOV-2015",
+  "active_ingredients": [
+    {
+      "name": "HYDROGEN PEROXIDE",
+      "strength": "6.30",
+      "unit": "%"
+    },
+    {
+      "name": "BENZALKONIUM CHLORIDE",
+      "strength": "3",
+      "unit": "%"
+    },
+    {
+      "name": "ALKYL DIMETHYL ETHYLBENZYL AMMONIUM CHLORIDE",
+      "strength": "3",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "SOLUTION",
+    "KIT"
+  ],
+  "routes": [
+    "DISINFECTANT (Barn)",
+    "DISINFECTANT (Food Premises)",
+    "DISINFECTANT (Institutional/Industrial)"
+  ],
+  "companies": [
+    "ECOLAB CO"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "TECHNICAL DISINFECTANTS"
+  ]
+}

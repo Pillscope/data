@@ -1,0 +1,45 @@
+{
+  "drug_code": "88208",
+  "din": "02397137",
+  "brand_name": "STRIBILD",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "03-FEB-2016",
+  "active_ingredients": [
+    {
+      "name": "TENOFOVIR DISOPROXIL FUMARATE",
+      "strength": "300",
+      "unit": "MG"
+    },
+    {
+      "name": "EMTRICITABINE",
+      "strength": "200",
+      "unit": "MG"
+    },
+    {
+      "name": "Elvitegravir",
+      "strength": "150",
+      "unit": "MG"
+    },
+    {
+      "name": "COBICISTAT",
+      "strength": "150",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "GILEAD SCIENCES CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "EMTRICITABINE,TENOFOVIR DISOPROXIL, ELVITEGRAVIR AND COBICISTAT",
+    "EMTRICITABINE,TENOFOVIR DISOPROXIL, ELVITEGRAVIR AND COBICISTAT",
+    "EMTRICITABINE,TENOFOVIR DISOPROXIL, ELVITEGRAVIR AND COBICISTAT"
+  ]
+}

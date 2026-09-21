@@ -1,0 +1,173 @@
+{
+  "drug_code": "6073",
+  "din": "00626368",
+  "brand_name": "AMINO ACID INJECTABLE",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "25-FEB-2009",
+  "active_ingredients": [
+    {
+      "name": "LYSINE",
+      "strength": "4.9",
+      "unit": "MG"
+    },
+    {
+      "name": "ALANINE",
+      "strength": "2",
+      "unit": "MG"
+    },
+    {
+      "name": "PROLINE",
+      "strength": "6.4",
+      "unit": "MG"
+    },
+    {
+      "name": "DL-METHIONINE",
+      "strength": "1.7",
+      "unit": "MG"
+    },
+    {
+      "name": "THIAMINE HYDROCHLORIDE",
+      "strength": "10",
+      "unit": "MG"
+    },
+    {
+      "name": "NICOTINAMIDE",
+      "strength": "150",
+      "unit": "MG"
+    },
+    {
+      "name": "PYRIDOXINE HYDROCHLORIDE",
+      "strength": "10",
+      "unit": "MG"
+    },
+    {
+      "name": "GLUTAMIC ACID",
+      "strength": "12.8",
+      "unit": "MG"
+    },
+    {
+      "name": "ARGININE",
+      "strength": "2.2",
+      "unit": "MG"
+    },
+    {
+      "name": "TRYPTOPHAN",
+      "strength": ".7",
+      "unit": "MG"
+    },
+    {
+      "name": "THREONINE",
+      "strength": "2.7",
+      "unit": "MG"
+    },
+    {
+      "name": "PHENYLALANINE",
+      "strength": "2.9",
+      "unit": "MG"
+    },
+    {
+      "name": "VITAMIN B2",
+      "strength": "4",
+      "unit": "MG"
+    },
+    {
+      "name": "VALINE",
+      "strength": "4.2",
+      "unit": "MG"
+    },
+    {
+      "name": "SODIUM GLUTAMATE",
+      "strength": "4",
+      "unit": "MG"
+    },
+    {
+      "name": "TYROSINE",
+      "strength": ".9",
+      "unit": "MG"
+    },
+    {
+      "name": "L-ASPARTIC ACID",
+      "strength": "4.7",
+      "unit": "MG"
+    },
+    {
+      "name": "SERINE",
+      "strength": "3.6",
+      "unit": "MG"
+    },
+    {
+      "name": "LEUCINE",
+      "strength": "5.4",
+      "unit": "MG"
+    },
+    {
+      "name": "MAGNESIUM SULFATE",
+      "strength": "20",
+      "unit": "MG"
+    },
+    {
+      "name": "DEXTROSE",
+      "strength": "5",
+      "unit": "G"
+    },
+    {
+      "name": "POTASSIUM CHLORIDE",
+      "strength": "20",
+      "unit": "MG"
+    },
+    {
+      "name": "GLYCINE",
+      "strength": "1.2",
+      "unit": "MG"
+    },
+    {
+      "name": "HISTIDINE",
+      "strength": "1.7",
+      "unit": "MG"
+    },
+    {
+      "name": "SODIUM ACETATE",
+      "strength": "250",
+      "unit": "MG"
+    },
+    {
+      "name": "CALCIUM CHLORIDE",
+      "strength": "15",
+      "unit": "MG"
+    },
+    {
+      "name": "ISOLEUCINE",
+      "strength": "3.3",
+      "unit": "MG"
+    },
+    {
+      "name": "DEXPANTHENOL",
+      "strength": "5",
+      "unit": "MG"
+    },
+    {
+      "name": "VITAMIN B12",
+      "strength": "5",
+      "unit": "MCG"
+    },
+    {
+      "name": "CASEIN HYDROLYSATE",
+      "strength": "71.3",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "INTRAPERITONEAL",
+    "INTRAVENOUS",
+    "SUBCUTANEOUS"
+  ],
+  "companies": [
+    "UNIVET PHARMACEUTICALS LTD."
+  ],
+  "status": "MARKETED",
+  "atc": []
+}

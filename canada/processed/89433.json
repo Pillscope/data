@@ -1,0 +1,28 @@
+{
+  "drug_code": "89433",
+  "din": "02409658",
+  "brand_name": "MEKINIST",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "15-SEP-2016",
+  "active_ingredients": [
+    {
+      "name": "Trametinib",
+      "strength": "2",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "NOVARTIS PHARMACEUTICALS CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "TRAMETINIB"
+  ]
+}

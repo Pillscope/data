@@ -1,0 +1,28 @@
+{
+  "drug_code": "63229",
+  "din": "02239747",
+  "brand_name": "TEVA-MOCLOBEMIDE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "05-MAY-2015",
+  "active_ingredients": [
+    {
+      "name": "MOCLOBEMIDE",
+      "strength": "150",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "TEVA CANADA LIMITED"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "MOCLOBEMIDE"
+  ]
+}

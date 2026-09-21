@@ -1,0 +1,28 @@
+{
+  "drug_code": "95581",
+  "din": "02467437",
+  "brand_name": "M-EZETIMIBE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "19-JAN-2018",
+  "active_ingredients": [
+    {
+      "name": "EZETIMIBE",
+      "strength": "10",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "MANTRA PHARMA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "EZETIMIBE"
+  ]
+}

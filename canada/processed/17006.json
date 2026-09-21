@@ -1,0 +1,28 @@
+{
+  "drug_code": "17006",
+  "din": "00832146",
+  "brand_name": "CHLORHEXIDINE GLUCONATE SOLUTION 0.05%",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "22-OCT-2012",
+  "active_ingredients": [
+    {
+      "name": "CHLORHEXIDINE GLUCONATE",
+      "strength": "0.05",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "LABORATOIRE ATLAS INC"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "CHLORHEXIDINE"
+  ]
+}

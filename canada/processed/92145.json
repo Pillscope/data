@@ -1,0 +1,28 @@
+{
+  "drug_code": "92145",
+  "din": "02437147",
+  "brand_name": "PRECEDEX",
+  "class": "Human",
+  "descriptor": " SINGLE-USE VIAL",
+  "last_update": "08-MAR-2018",
+  "active_ingredients": [
+    {
+      "name": "DEXMEDETOMIDINE (DEXMEDETOMIDINE HYDROCHLORIDE)",
+      "strength": "4",
+      "unit": "MCG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "PFIZER CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "DEXMEDETOMIDINE"
+  ]
+}

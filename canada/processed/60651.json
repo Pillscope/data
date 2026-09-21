@@ -1,0 +1,28 @@
+{
+  "drug_code": "60651",
+  "din": "02237328",
+  "brand_name": "IMOGAM RABIES PASTEURIZED",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "08-JUN-2010",
+  "active_ingredients": [
+    {
+      "name": "RABIES IMMUNE GLOBULIN HUMAN",
+      "strength": "150",
+      "unit": "UNIT"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "INTRAMUSCULAR"
+  ],
+  "companies": [
+    "SANOFI PASTEUR LIMITED"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "RABIES IMMUNOGLOBULIN"
+  ]
+}

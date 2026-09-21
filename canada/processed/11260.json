@@ -1,0 +1,28 @@
+{
+  "drug_code": "11260",
+  "din": "00582301",
+  "brand_name": "DALACIN T 1%",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "20-MAR-2006",
+  "active_ingredients": [
+    {
+      "name": "CLINDAMYCIN (CLINDAMYCIN PHOSPHATE)",
+      "strength": "1",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "PFIZER CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "CLINDAMYCIN"
+  ]
+}

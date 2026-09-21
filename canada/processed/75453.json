@@ -1,0 +1,28 @@
+{
+  "drug_code": "75453",
+  "din": "02269139",
+  "brand_name": "ACETYLSALICYLIC ACID 80 MG CHEWABLE TABLETS",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "06-NOV-2006",
+  "active_ingredients": [
+    {
+      "name": "ACETYLSALICYLIC ACID",
+      "strength": "80",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "JAMP PHARMA CORPORATION"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "ACETYLSALICYLIC ACID"
+  ]
+}

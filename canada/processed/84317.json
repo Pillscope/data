@@ -1,0 +1,29 @@
+{
+  "drug_code": "84317",
+  "din": "02358107",
+  "brand_name": "LAVO PRO 6",
+  "class": "Disinfectant",
+  "descriptor": "",
+  "last_update": "16-JUN-2011",
+  "active_ingredients": [
+    {
+      "name": "SODIUM HYPOCHLORITE",
+      "strength": "6",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "LIQUID"
+  ],
+  "routes": [
+    "DISINFECTANT (Hospital/HC Facilities)",
+    "DISINFECTANT (Domestic)"
+  ],
+  "companies": [
+    "LAVO"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "TECHNICAL DISINFECTANTS"
+  ]
+}

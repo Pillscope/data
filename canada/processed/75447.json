@@ -1,0 +1,28 @@
+{
+  "drug_code": "75447",
+  "din": "02269074",
+  "brand_name": "LIPIDIL EZ",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "20-JUL-2016",
+  "active_ingredients": [
+    {
+      "name": "FENOFIBRATE",
+      "strength": "48",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "BGP PHARMA ULC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "FENOFIBRATE"
+  ]
+}

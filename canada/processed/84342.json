@@ -1,0 +1,38 @@
+{
+  "drug_code": "84342",
+  "din": "02358360",
+  "brand_name": "MINERAL PROTECTIVE AM SPF 15",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "09-DEC-2014",
+  "active_ingredients": [
+    {
+      "name": "OCTOCRYLENE",
+      "strength": "5",
+      "unit": "%"
+    },
+    {
+      "name": "OXYBENZONE",
+      "strength": "5",
+      "unit": "%"
+    },
+    {
+      "name": "OCTINOXATE",
+      "strength": "5",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "SUSPENSION"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "SPA DE SOLEIL"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "COMBINATIONS OF PROTECTIVES AGAINST UV-RADIATION"
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "drug_code": "94385",
+  "din": "02456834",
+  "brand_name": "PERIDOXRTU",
+  "class": "Disinfectant",
+  "descriptor": "SOLUTION",
+  "last_update": "26-JUN-2017",
+  "active_ingredients": [
+    {
+      "name": "HYDROGEN PEROXIDE",
+      "strength": "4.4",
+      "unit": "%"
+    },
+    {
+      "name": "PERACETIC ACID",
+      "strength": "0.23",
+      "unit": "%"
+    },
+    {
+      "name": "ACETIC ACID",
+      "strength": "4.9",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "SPRAY"
+  ],
+  "routes": [
+    "DISINFECTANT (Barn)",
+    "DISINFECTANT (Food Premises)",
+    "DISINFECTANT (Hospital/HC Facilities)",
+    "DISINFECTANT (Domestic)",
+    "DISINFECTANT (Institutional/Industrial)"
+  ],
+  "companies": [
+    "CONTEC INCORPORATED"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "TECHNICAL DISINFECTANTS"
+  ]
+}

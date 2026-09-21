@@ -1,0 +1,28 @@
+{
+  "drug_code": "90415",
+  "din": "02419521",
+  "brand_name": "MINT-ZOLMITRIPTAN",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "14-JAN-2016",
+  "active_ingredients": [
+    {
+      "name": "ZOLMITRIPTAN",
+      "strength": "2.5",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "MINT PHARMACEUTICALS INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "ZOLMITRIPTAN"
+  ]
+}

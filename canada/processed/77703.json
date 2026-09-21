@@ -1,0 +1,28 @@
+{
+  "drug_code": "77703",
+  "din": "02291665",
+  "brand_name": "PMS-PANTOPRAZOLE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "27-JUL-2007",
+  "active_ingredients": [
+    {
+      "name": "PANTOPRAZOLE (PANTOPRAZOLE SODIUM SESQUIHYDRATE)",
+      "strength": "40",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "POWDER FOR SOLUTION"
+  ],
+  "routes": [
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "PHARMASCIENCE INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "PANTOPRAZOLE"
+  ]
+}

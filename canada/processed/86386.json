@@ -1,0 +1,34 @@
+{
+  "drug_code": "86386",
+  "din": "02378086",
+  "brand_name": "MYLAN-LOSARTAN HCTZ",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "23-FEB-2012",
+  "active_ingredients": [
+    {
+      "name": "HYDROCHLOROTHIAZIDE",
+      "strength": "12.5",
+      "unit": "MG"
+    },
+    {
+      "name": "LOSARTAN POTASSIUM",
+      "strength": "100",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "MYLAN PHARMACEUTICALS ULC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "LOSARTAN AND DIURETICS",
+    "LOSARTAN AND DIURETICS"
+  ]
+}

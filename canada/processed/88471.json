@@ -1,0 +1,28 @@
+{
+  "drug_code": "88471",
+  "din": "02399865",
+  "brand_name": "MAR-MONTELUKAST",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "13-FEB-2014",
+  "active_ingredients": [
+    {
+      "name": "MONTELUKAST (MONTELUKAST SODIUM)",
+      "strength": "4",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET (CHEWABLE)"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "MARCAN PHARMACEUTICALS INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "MONTELUKAST"
+  ]
+}

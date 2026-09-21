@@ -1,0 +1,28 @@
+{
+  "drug_code": "85450",
+  "din": "02369575",
+  "brand_name": "X3 ON-THE-GO ANTISEPTIC SPRAY",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "10-MAR-2017",
+  "active_ingredients": [
+    {
+      "name": "BENZALKONIUM CHLORIDE",
+      "strength": "0.13",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "SPRAY"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "NATURAL ESSENTIALS INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "BENZALKONIUM"
+  ]
+}

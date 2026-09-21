@@ -1,0 +1,31 @@
+{
+  "drug_code": "15006",
+  "din": "02038358",
+  "brand_name": "CLAVAMOX",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "03-AUG-2016",
+  "active_ingredients": [
+    {
+      "name": "AMOXICILLIN (AMOXICILLIN TRIHYDRATE)",
+      "strength": "300",
+      "unit": "MG"
+    },
+    {
+      "name": "CLAVULANIC ACID (CLAVULANATE POTASSIUM)",
+      "strength": "75",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "ZOETIS CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": []
+}

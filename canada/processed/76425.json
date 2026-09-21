@@ -1,0 +1,28 @@
+{
+  "drug_code": "76425",
+  "din": "02278677",
+  "brand_name": "MIDODRINE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "25-AUG-2011",
+  "active_ingredients": [
+    {
+      "name": "MIDODRINE HYDROCHLORIDE",
+      "strength": "2.5",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "AA PHARMA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "MIDODRINE"
+  ]
+}

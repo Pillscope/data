@@ -1,0 +1,31 @@
+{
+  "drug_code": "70362",
+  "din": "02246207",
+  "brand_name": "REVALOR-G",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "11-JAN-2013",
+  "active_ingredients": [
+    {
+      "name": "ESTRADIOL",
+      "strength": "8",
+      "unit": "MG"
+    },
+    {
+      "name": "TRENBOLONE ACETATE",
+      "strength": "40",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "IMPLANT"
+  ],
+  "routes": [
+    "SUBCUTANEOUS"
+  ],
+  "companies": [
+    "INTERVET CANADA CORP"
+  ],
+  "status": "APPROVED",
+  "atc": []
+}

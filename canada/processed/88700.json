@@ -1,0 +1,53 @@
+{
+  "drug_code": "88700",
+  "din": "02402130",
+  "brand_name": "SPF 30 ANTHELIOS XL LOTION",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "29-APR-2015",
+  "active_ingredients": [
+    {
+      "name": "AVOBENZONE",
+      "strength": "3.0",
+      "unit": "%"
+    },
+    {
+      "name": "TEREPHTHALYLIDENE DICAMPHOR SULFONIC ACID",
+      "strength": "0.5",
+      "unit": "%"
+    },
+    {
+      "name": "OCTOCRYLENE",
+      "strength": "5.5",
+      "unit": "%"
+    },
+    {
+      "name": "OCTISALATE",
+      "strength": "5.0",
+      "unit": "%"
+    },
+    {
+      "name": "HOMOSALATE",
+      "strength": "10.0",
+      "unit": "%"
+    },
+    {
+      "name": "DROMETRIZOLE TRISILOXANE",
+      "strength": "2.5",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "LOTION"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "LABORATOIRES LA ROCHE-POSAY CANADA"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "COMBINATIONS OF PROTECTIVES AGAINST UV-RADIATION"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "drug_code": "67856",
+  "din": "02243914",
+  "brand_name": "RETIN-A MICRO",
+  "class": "Human",
+  "descriptor": "MICROSPHERES GEL",
+  "last_update": "25-JAN-2016",
+  "active_ingredients": [
+    {
+      "name": "TRETINOIN",
+      "strength": "0.1",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "GEL"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "VALEANT CANADA LP/VALEANT CANADA S.E.C."
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "TRETINOIN"
+  ]
+}

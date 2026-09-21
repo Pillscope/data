@@ -1,0 +1,26 @@
+{
+  "drug_code": "2837",
+  "din": "00327042",
+  "brand_name": "BANMINTH II",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "05-MAY-2015",
+  "active_ingredients": [
+    {
+      "name": "MORANTEL TARTRATE",
+      "strength": "200",
+      "unit": "G"
+    }
+  ],
+  "forms": [
+    "DRUG PREMIX"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "PHIBRO ANIMAL HEALTH CORPORATION"
+  ],
+  "status": "APPROVED",
+  "atc": []
+}

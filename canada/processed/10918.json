@@ -1,0 +1,28 @@
+{
+  "drug_code": "10918",
+  "din": "00765996",
+  "brand_name": "DIAMICRON",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "15-JUL-2016",
+  "active_ingredients": [
+    {
+      "name": "GLICLAZIDE",
+      "strength": "80",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "SERVIER CANADA INC"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "GLICLAZIDE"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "drug_code": "77337",
+  "din": "02287978",
+  "brand_name": "DOM-RAMIPRIL",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "28-APR-2011",
+  "active_ingredients": [
+    {
+      "name": "RAMIPRIL",
+      "strength": "5",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "CAPSULE"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "DOMINION PHARMACAL"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "RAMIPRIL"
+  ]
+}

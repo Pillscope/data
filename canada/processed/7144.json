@@ -1,0 +1,76 @@
+{
+  "drug_code": "7144",
+  "din": "00716049",
+  "brand_name": "RUMEX",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "23-MAR-2005",
+  "active_ingredients": [
+    {
+      "name": "NICOTINAMIDE",
+      "strength": "10",
+      "unit": "MG"
+    },
+    {
+      "name": "THIAMINE HYDROCHLORIDE",
+      "strength": "10",
+      "unit": "MG"
+    },
+    {
+      "name": "CALCIUM D-PANTOTHENATE",
+      "strength": "18",
+      "unit": "MG"
+    },
+    {
+      "name": "PYRIDOXINE HYDROCHLORIDE",
+      "strength": "2",
+      "unit": "MG"
+    },
+    {
+      "name": "SODIUM BICARBONATE",
+      "strength": "500",
+      "unit": "MG"
+    },
+    {
+      "name": "COBALT (COBALTOUS CHLORIDE)",
+      "strength": "22",
+      "unit": "MG"
+    },
+    {
+      "name": "VITAMIN B2",
+      "strength": "3",
+      "unit": "MG"
+    },
+    {
+      "name": "YEAST",
+      "strength": "2000",
+      "unit": "MG"
+    },
+    {
+      "name": "CALCIUM PHOSPHATE (DIBASIC)",
+      "strength": "6000",
+      "unit": "MG"
+    },
+    {
+      "name": "POTASSIUM PHOSPHATE DIBASIC",
+      "strength": "2400",
+      "unit": "MG"
+    },
+    {
+      "name": "CHOLINE CHLORIDE",
+      "strength": "500",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "BOLUS"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "BIMEDA-MTC ANIMAL HEALTH INC"
+  ],
+  "status": "APPROVED",
+  "atc": []
+}

@@ -1,0 +1,34 @@
+{
+  "drug_code": "6824",
+  "din": "00621463",
+  "brand_name": "RATIO-LENOLTEC NO 4",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "26-FEB-2018",
+  "active_ingredients": [
+    {
+      "name": "CODEINE PHOSPHATE",
+      "strength": "60",
+      "unit": "MG"
+    },
+    {
+      "name": "ACETAMINOPHEN",
+      "strength": "300",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "TEVA CANADA LIMITED"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "CODEINE AND PARACETAMOL",
+    "CODEINE AND PARACETAMOL"
+  ]
+}

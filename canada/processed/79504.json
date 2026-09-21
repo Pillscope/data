@@ -1,0 +1,34 @@
+{
+  "drug_code": "79504",
+  "din": "02309440",
+  "brand_name": "COLDASIDE COUGH & COLD",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "16-MAR-2009",
+  "active_ingredients": [
+    {
+      "name": "CHLORPHENIRAMINE MALEATE",
+      "strength": "4",
+      "unit": "MG"
+    },
+    {
+      "name": "DEXTROMETHORPHAN HYDROBROMIDE",
+      "strength": "30",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "TANTA PHARMACEUTICALS INC"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "COMBINATIONS",
+    "COMBINATIONS"
+  ]
+}

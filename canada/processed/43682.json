@@ -1,0 +1,28 @@
+{
+  "drug_code": "43682",
+  "din": "02068036",
+  "brand_name": "SABRIL",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "05-MAY-2015",
+  "active_ingredients": [
+    {
+      "name": "VIGABATRIN",
+      "strength": "500",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "POWDER"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "LUNDBECK PHARMACEUTICALS LLC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "VIGABATRIN"
+  ]
+}

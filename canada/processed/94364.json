@@ -1,0 +1,28 @@
+{
+  "drug_code": "94364",
+  "din": "02456656",
+  "brand_name": "CLEAR CELL MEDICATED ACNE LOTION",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "12-FEB-2018",
+  "active_ingredients": [
+    {
+      "name": "BENZOYL PEROXIDE",
+      "strength": "5",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "LOTION"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "IMAGE INTERNATIONAL MANUFACTURING LLC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "BENZOYL PEROXIDE"
+  ]
+}

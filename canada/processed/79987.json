@@ -1,0 +1,29 @@
+{
+  "drug_code": "79987",
+  "din": "02314312",
+  "brand_name": "BISMUTH",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "17-JUL-2012",
+  "active_ingredients": [
+    {
+      "name": "BISMUTH SUBSALICYLATE",
+      "strength": "262",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "PHARMETICS (2011) INC"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "BISMUTH PREPARATIONS",
+    "BISMUTH PREPARATIONS"
+  ]
+}

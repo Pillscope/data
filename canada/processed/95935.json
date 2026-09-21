@@ -1,0 +1,28 @@
+{
+  "drug_code": "95935",
+  "din": "02470365",
+  "brand_name": "DUPIXENT",
+  "class": "Human",
+  "descriptor": "2ML PRE FILLED SYRINGE",
+  "last_update": "21-MAR-2018",
+  "active_ingredients": [
+    {
+      "name": "DUPILUMAB",
+      "strength": "150",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "SUBCUTANEOUS"
+  ],
+  "companies": [
+    "SANOFI-AVENTIS CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "DUPILUMAB"
+  ]
+}

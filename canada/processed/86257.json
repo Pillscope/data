@@ -1,0 +1,28 @@
+{
+  "drug_code": "86257",
+  "din": "02376997",
+  "brand_name": "DULCOCOMFORT STOOL SOFTENER",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "28-NOV-2017",
+  "active_ingredients": [
+    {
+      "name": "DOCUSATE SODIUM",
+      "strength": "100",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "CAPSULE"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "SANOFI-AVENTIS CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "DOCUSATE SODIUM"
+  ]
+}

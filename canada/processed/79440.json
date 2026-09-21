@@ -1,0 +1,48 @@
+{
+  "drug_code": "79440",
+  "din": "02308789",
+  "brand_name": "EXACT LIP BALM YEAR-ROUND PROTECTION",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "21-MAY-2015",
+  "active_ingredients": [
+    {
+      "name": "MERADIMATE",
+      "strength": "4.8",
+      "unit": "%"
+    },
+    {
+      "name": "OXYBENZONE",
+      "strength": "5.2",
+      "unit": "%"
+    },
+    {
+      "name": "OCTISALATE",
+      "strength": "5.0",
+      "unit": "%"
+    },
+    {
+      "name": "HOMOSALATE",
+      "strength": "4.5",
+      "unit": "%"
+    },
+    {
+      "name": "OCTINOXATE",
+      "strength": "7.4",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "STICK"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "EMPACK SPRAYTECH INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "COMBINATIONS OF PROTECTIVES AGAINST UV-RADIATION"
+  ]
+}

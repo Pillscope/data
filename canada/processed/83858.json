@@ -1,0 +1,28 @@
+{
+  "drug_code": "83858",
+  "din": "02353385",
+  "brand_name": "METFORMIN",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "11-MAY-2015",
+  "active_ingredients": [
+    {
+      "name": "METFORMIN HYDROCHLORIDE",
+      "strength": "850",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "SANIS HEALTH INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "METFORMIN"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "drug_code": "84651",
+  "din": "02361450",
+  "brand_name": "BISACODYL SUPPOSITORY",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "13-JAN-2015",
+  "active_ingredients": [
+    {
+      "name": "BISACODYL",
+      "strength": "10",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SUPPOSITORY"
+  ],
+  "routes": [
+    "RECTAL"
+  ],
+  "companies": [
+    "JAMP PHARMA CORPORATION"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "BISACODYL"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "drug_code": "77000",
+  "din": "02284421",
+  "brand_name": "RAN-PRAVASTATIN",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "06-JUL-2007",
+  "active_ingredients": [
+    {
+      "name": "PRAVASTATIN SODIUM",
+      "strength": "10",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "RANBAXY PHARMACEUTICALS CANADA INC."
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "PRAVASTATIN"
+  ]
+}

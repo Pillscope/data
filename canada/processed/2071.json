@@ -1,0 +1,28 @@
+{
+  "drug_code": "2071",
+  "din": "00323071",
+  "brand_name": "DIPROSONE CREAM",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "24-APR-2017",
+  "active_ingredients": [
+    {
+      "name": "BETAMETHASONE (BETAMETHASONE DIPROPIONATE)",
+      "strength": "0.05",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "CREAM"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "MERCK CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "BETAMETHASONE"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "drug_code": "16804",
+  "din": "02126559",
+  "brand_name": "IMDUR - EXTENDED RELEASE TABLETS 60 MG",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "17-MAY-2006",
+  "active_ingredients": [
+    {
+      "name": "ISOSORBIDE-5-MONONITRATE",
+      "strength": "60",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET (EXTENDED-RELEASE)"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "ASTRAZENECA CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "ISOSORBIDE MONONITRATE"
+  ]
+}

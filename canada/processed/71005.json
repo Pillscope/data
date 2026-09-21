@@ -1,0 +1,28 @@
+{
+  "drug_code": "71005",
+  "din": "02246805",
+  "brand_name": "THYMOGLOBULIN",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "11-SEP-2014",
+  "active_ingredients": [
+    {
+      "name": "ANTI-THYMOCYTE GLOBULIN (RABBIT)",
+      "strength": "25",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "POWDER FOR SOLUTION"
+  ],
+  "routes": [
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "SANOFI-AVENTIS CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "ANTITHYMOCYTE IMMUNOGLOBULIN (RABBIT)"
+  ]
+}

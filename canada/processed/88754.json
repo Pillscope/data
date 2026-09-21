@@ -1,0 +1,33 @@
+{
+  "drug_code": "88754",
+  "din": "02402718",
+  "brand_name": "SMASHBOX LIQUID HALO HD FOUNDATION SPF 15 OIL-FREE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "27-MAY-2014",
+  "active_ingredients": [
+    {
+      "name": "TITANIUM DIOXIDE",
+      "strength": "2.9",
+      "unit": "%"
+    },
+    {
+      "name": "OCTINOXATE",
+      "strength": "4.9",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "EMULSION"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "SMASHBOX COSMETICS DIST"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "COMBINATIONS OF PROTECTIVES AGAINST UV-RADIATION"
+  ]
+}

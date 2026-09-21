@@ -1,0 +1,28 @@
+{
+  "drug_code": "42842",
+  "din": "02182750",
+  "brand_name": "METHOTREXATE TABLETS, USP",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "18-AUG-2017",
+  "active_ingredients": [
+    {
+      "name": "METHOTREXATE",
+      "strength": "10",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "PFIZER CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "METHOTREXATE"
+  ]
+}

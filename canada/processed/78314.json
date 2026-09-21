@@ -1,0 +1,28 @@
+{
+  "drug_code": "78314",
+  "din": "02297809",
+  "brand_name": "METROGEL 1%",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "27-DEC-2007",
+  "active_ingredients": [
+    {
+      "name": "METRONIDAZOLE",
+      "strength": "1",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "GEL"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "GALDERMA CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "METRONIDAZOLE"
+  ]
+}

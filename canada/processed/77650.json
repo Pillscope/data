@@ -1,0 +1,28 @@
+{
+  "drug_code": "77650",
+  "din": "02291126",
+  "brand_name": "MULTI-PURPOSE SOLUTION",
+  "class": "Disinfectant",
+  "descriptor": "",
+  "last_update": "24-MAY-2017",
+  "active_ingredients": [
+    {
+      "name": "POLYHEXANIDE",
+      "strength": "0.0001",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "DISINFECTANT (Contact Lens)"
+  ],
+  "companies": [
+    "TEVA CANADA LIMITED"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "ARTIFICIAL TEARS AND OTHER INDIFFERENT PREPARATIONS."
+  ]
+}

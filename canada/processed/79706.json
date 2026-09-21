@@ -1,0 +1,28 @@
+{
+  "drug_code": "79706",
+  "din": "02311496",
+  "brand_name": "PRO-AAS EC - 80",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "01-AUG-2008",
+  "active_ingredients": [
+    {
+      "name": "ACETYLSALICYLIC ACID",
+      "strength": "80",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET (DELAYED-RELEASE)"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "PRO DOC LIMITEE"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "ACETYLSALICYLIC ACID"
+  ]
+}

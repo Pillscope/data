@@ -1,0 +1,31 @@
+{
+  "drug_code": "6502",
+  "din": "00528455",
+  "brand_name": "LAXATONE",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "02-JAN-2007",
+  "active_ingredients": [
+    {
+      "name": "PETROLATUM",
+      "strength": "214",
+      "unit": "MG"
+    },
+    {
+      "name": "MINERAL OIL",
+      "strength": "34",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "GEL"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "VETOQUINOL N A INC"
+  ],
+  "status": "APPROVED",
+  "atc": []
+}

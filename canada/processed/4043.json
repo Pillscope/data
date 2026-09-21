@@ -1,0 +1,28 @@
+{
+  "drug_code": "4043",
+  "din": "00514012",
+  "brand_name": "VOLTAREN TAB 50MG",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "25-APR-2007",
+  "active_ingredients": [
+    {
+      "name": "DICLOFENAC SODIUM",
+      "strength": "50",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET (DELAYED-RELEASE)"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "NOVARTIS PHARMACEUTICALS CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "DICLOFENAC"
+  ]
+}

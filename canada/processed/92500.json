@@ -1,0 +1,28 @@
+{
+  "drug_code": "92500",
+  "din": "02440628",
+  "brand_name": "TEVA-PANTOPRAZOLE MAGNESIUM",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "19-NOV-2015",
+  "active_ingredients": [
+    {
+      "name": "PANTOPRAZOLE (PANTOPRAZOLE MAGNESIUM)",
+      "strength": "40",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET (DELAYED-RELEASE)"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "TEVA CANADA LIMITED"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "PANTOPRAZOLE"
+  ]
+}

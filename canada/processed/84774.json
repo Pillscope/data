@@ -1,0 +1,29 @@
+{
+  "drug_code": "84774",
+  "din": "02362740",
+  "brand_name": "BIOSENTRY BIOQUAT 20 DISINFECTANT",
+  "class": "Disinfectant",
+  "descriptor": "",
+  "last_update": "18-DEC-2013",
+  "active_ingredients": [
+    {
+      "name": "BENZALKONIUM CHLORIDE",
+      "strength": "20.0",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "LIQUID"
+  ],
+  "routes": [
+    "DISINFECTANT (Food Premises)",
+    "DISINFECTANT (Hospital/HC Facilities)"
+  ],
+  "companies": [
+    "HACCO, INC."
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "TECHNICAL DISINFECTANTS"
+  ]
+}

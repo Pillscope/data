@@ -1,0 +1,28 @@
+{
+  "drug_code": "63900",
+  "din": "02240358",
+  "brand_name": "ZIAGEN",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "25-NOV-2010",
+  "active_ingredients": [
+    {
+      "name": "ABACAVIR (ABACAVIR SULFATE)",
+      "strength": "20",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "VIIV HEALTHCARE ULC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "ABACAVIR"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "drug_code": "9172",
+  "din": "00771376",
+  "brand_name": "APO DILTIAZ TAB 30MG",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "06-FEB-2008",
+  "active_ingredients": [
+    {
+      "name": "DILTIAZEM HYDROCHLORIDE",
+      "strength": "30",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "APOTEX INC"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "DILTIAZEM"
+  ]
+}

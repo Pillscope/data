@@ -1,0 +1,28 @@
+{
+  "drug_code": "95923",
+  "din": "02470241",
+  "brand_name": "SANDOZ PERINDOPRIL ERBUMINE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "09-MAR-2018",
+  "active_ingredients": [
+    {
+      "name": "PERINDOPRIL ERBUMINE",
+      "strength": "8",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "SANDOZ CANADA INCORPORATED"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "PERINDOPRIL"
+  ]
+}

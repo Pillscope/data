@@ -1,0 +1,28 @@
+{
+  "drug_code": "8959",
+  "din": "00755834",
+  "brand_name": "APO-TIMOP",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "06-FEB-2018",
+  "active_ingredients": [
+    {
+      "name": "TIMOLOL (TIMOLOL MALEATE)",
+      "strength": "0.5",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "OPHTHALMIC"
+  ],
+  "companies": [
+    "APOTEX INC"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "TIMOLOL"
+  ]
+}

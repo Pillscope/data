@@ -1,0 +1,28 @@
+{
+  "drug_code": "36404",
+  "din": "02203375",
+  "brand_name": "MINERAL OIL, LIGHT STERILE, OMEGA STD.- 100%",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "10-MAY-2016",
+  "active_ingredients": [
+    {
+      "name": "MINERAL OIL LIGHT",
+      "strength": "100",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "LIQUID"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "OMEGA LABORATORIES LTD"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "SOFT PARAFFIN AND FAT PRODUCTS"
+  ]
+}

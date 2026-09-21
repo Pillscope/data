@@ -1,0 +1,28 @@
+{
+  "drug_code": "49242",
+  "din": "02230403",
+  "brand_name": "CLOPIXOL TABLETS 25MG",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "04-AUG-2005",
+  "active_ingredients": [
+    {
+      "name": "ZUCLOPENTHIXOL (ZUCLOPENTHIXOL HYDROCHLORIDE)",
+      "strength": "25",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "LUNDBECK CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "ZUCLOPENTHIXOL"
+  ]
+}

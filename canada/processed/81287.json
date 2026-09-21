@@ -1,0 +1,38 @@
+{
+  "drug_code": "81287",
+  "din": "02327554",
+  "brand_name": "DIOR BRONZE MATTE SUNSHINE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "06-MAY-2010",
+  "active_ingredients": [
+    {
+      "name": "TITANIUM DIOXIDE",
+      "strength": "11.7",
+      "unit": "%"
+    },
+    {
+      "name": "OXYBENZONE",
+      "strength": "2.0",
+      "unit": "%"
+    },
+    {
+      "name": "OCTINOXATE",
+      "strength": "6.0",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "POWDER"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "PARFUMS CHRISTIAN DIOR"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "COMBINATIONS OF PROTECTIVES AGAINST UV-RADIATION"
+  ]
+}

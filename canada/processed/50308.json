@@ -1,0 +1,26 @@
+{
+  "drug_code": "50308",
+  "din": "02231027",
+  "brand_name": "THYRO-TABS CANINE",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "16-SEP-2017",
+  "active_ingredients": [
+    {
+      "name": "LEVOTHYROXINE SODIUM",
+      "strength": "0.7",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "LLOYD INC. OF IOWA"
+  ],
+  "status": "APPROVED",
+  "atc": []
+}

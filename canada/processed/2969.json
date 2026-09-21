@@ -1,0 +1,139 @@
+{
+  "drug_code": "2969",
+  "din": "00431648",
+  "brand_name": "PNEUMOVAX 23",
+  "class": "Human",
+  "descriptor": "SINGLE DOSE VIALS",
+  "last_update": "15-JAN-2015",
+  "active_ingredients": [
+    {
+      "name": "PNEUMOCOCCAL POLYSACCHARIDE SEROTYPE 14",
+      "strength": "25",
+      "unit": "MCG"
+    },
+    {
+      "name": "PNEUMOCOCCAL POLYSACCHARIDE SEROTYPE 18C",
+      "strength": "25",
+      "unit": "MCG"
+    },
+    {
+      "name": "PNEUMOCOCCAL POLYSACCHARIDE SEROTYPE 19F",
+      "strength": "25",
+      "unit": "MCG"
+    },
+    {
+      "name": "PNEUMOCOCCAL POLYSACCHARIDE SEROTYPE 23F",
+      "strength": "25",
+      "unit": "MCG"
+    },
+    {
+      "name": "PNEUMOCOCCAL POLYSACCHARIDE SEROTYPE 4",
+      "strength": "25",
+      "unit": "MCG"
+    },
+    {
+      "name": "PNEUMOCOCCAL POLYSACCHARIDE SEROTYPE 22F",
+      "strength": "25",
+      "unit": "MCG"
+    },
+    {
+      "name": "PNEUMOCOCCAL POLYSACCHARIDE SEROTYPE 33F",
+      "strength": "25",
+      "unit": "MCG"
+    },
+    {
+      "name": "PNEUMOCOCCAL POLYSACCHARIDE SEROTYPE 6B",
+      "strength": "25",
+      "unit": "MCG"
+    },
+    {
+      "name": "PNEUMOCOCCAL POLYSACCHARIDE SEROTYPE 9V",
+      "strength": "25",
+      "unit": "MCG"
+    },
+    {
+      "name": "PNEUMOCOCCAL POLYSACCHARIDE SEROTYPE 3",
+      "strength": "25",
+      "unit": "MCG"
+    },
+    {
+      "name": "PNEUMOCOCCAL POLYSACCHARIDE SEROTYPE 5",
+      "strength": "25",
+      "unit": "MCG"
+    },
+    {
+      "name": "PNEUMOCOCCAL POLYSACCHARIDE SEROTYPE 7F",
+      "strength": "25",
+      "unit": "MCG"
+    },
+    {
+      "name": "PNEUMOCOCCAL POLYSACCHARIDE SEROTYPE 1",
+      "strength": "25",
+      "unit": "MCG"
+    },
+    {
+      "name": "PNEUMOCOCCAL POLYSACCHARIDE SEROTYPE 2",
+      "strength": "25",
+      "unit": "MCG"
+    },
+    {
+      "name": "PNEUMOCOCCAL POLYSACCHARIDE SEROTYPE 8",
+      "strength": "25",
+      "unit": "MCG"
+    },
+    {
+      "name": "PNEUMOCOCCAL POLYSACCHARIDE SEROTYPE 9N",
+      "strength": "25",
+      "unit": "MCG"
+    },
+    {
+      "name": "PNEUMOCOCCAL POLYSACCHARIDE SEROTYPE 10A",
+      "strength": "25",
+      "unit": "MCG"
+    },
+    {
+      "name": "PNEUMOCOCCAL POLYSACCHARIDE SEROTYPE 11A",
+      "strength": "25",
+      "unit": "MCG"
+    },
+    {
+      "name": "PNEUMOCOCCAL POLYSACCHARIDE SEROTYPE 12F",
+      "strength": "25",
+      "unit": "MCG"
+    },
+    {
+      "name": "PNEUMOCOCCAL POLYSACCHARIDE SEROTYPE 15B",
+      "strength": "25",
+      "unit": "MCG"
+    },
+    {
+      "name": "PNEUMOCOCCAL POLYSACCHARIDE SEROTYPE 17F",
+      "strength": "25",
+      "unit": "MCG"
+    },
+    {
+      "name": "PNEUMOCOCCAL POLYSACCHARIDE SEROTYPE 19A",
+      "strength": "25",
+      "unit": "MCG"
+    },
+    {
+      "name": "PNEUMOCOCCAL POLYSACCHARIDE SEROTYPE 20",
+      "strength": "25",
+      "unit": "MCG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "INTRAMUSCULAR",
+    "SUBCUTANEOUS"
+  ],
+  "companies": [
+    "MERCK CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "PNEUMOCOCCUS, PURIFIED POLYSACC.ANTIGEN CONJUGATED"
+  ]
+}

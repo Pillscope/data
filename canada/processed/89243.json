@@ -1,0 +1,28 @@
+{
+  "drug_code": "89243",
+  "din": "02407736",
+  "brand_name": "SANDOZ QUETIAPINE XRT",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "08-NOV-2017",
+  "active_ingredients": [
+    {
+      "name": "QUETIAPINE (QUETIAPINE FUMARATE)",
+      "strength": "400",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET (EXTENDED-RELEASE)"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "SANDOZ CANADA INCORPORATED"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "QUETIAPINE"
+  ]
+}

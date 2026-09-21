@@ -1,0 +1,28 @@
+{
+  "drug_code": "94652",
+  "din": "02459329",
+  "brand_name": "DOTAREM",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "22-SEP-2017",
+  "active_ingredients": [
+    {
+      "name": "GADOTERATE MEGLUMINE",
+      "strength": "376.9",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "GUERBET"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "GADOTERIC ACID"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "drug_code": "87588",
+  "din": "02390442",
+  "brand_name": "TARO-CLARITHROMYCIN",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "11-SEP-2017",
+  "active_ingredients": [
+    {
+      "name": "CLARITHROMYCIN",
+      "strength": "125",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "GRANULES FOR SUSPENSION"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "TARO PHARMACEUTICALS INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "CLARITHROMYCIN"
+  ]
+}

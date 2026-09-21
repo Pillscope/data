@@ -1,0 +1,34 @@
+{
+  "drug_code": "87281",
+  "din": "02387239",
+  "brand_name": "JAMPZINC-HC",
+  "class": "Human",
+  "descriptor": "ANORECTAL (TOPICAL), HYDROCORTISONE ACETATE AND ZINC SULFATE MONOHYDRATE",
+  "last_update": "06-JAN-2015",
+  "active_ingredients": [
+    {
+      "name": "HYDROCORTISONE ACETATE",
+      "strength": "0.5",
+      "unit": "%"
+    },
+    {
+      "name": "Zinc sulfate monohydrate",
+      "strength": "0.5",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "OINTMENT"
+  ],
+  "routes": [
+    "RECTAL",
+    "TOPICAL"
+  ],
+  "companies": [
+    "JAMP PHARMA CORPORATION"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "HYDROCORTISONE"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "drug_code": "11357",
+  "din": "00818623",
+  "brand_name": "DENAGARD 12.5%",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "16-MAR-2018",
+  "active_ingredients": [
+    {
+      "name": "TIAMULIN FUMARATE",
+      "strength": "12.5",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "ELANCO CANADA LIMITED"
+  ],
+  "status": "APPROVED",
+  "atc": []
+}

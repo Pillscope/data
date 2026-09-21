@@ -1,0 +1,53 @@
+{
+  "drug_code": "81241",
+  "din": "02327090",
+  "brand_name": "NATURALYTE H-631",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "18-JUN-2010",
+  "active_ingredients": [
+    {
+      "name": "POTASSIUM CHLORIDE",
+      "strength": "6.71",
+      "unit": "G"
+    },
+    {
+      "name": "DEXTROSE",
+      "strength": "74.28",
+      "unit": "G"
+    },
+    {
+      "name": "ACETIC ACID",
+      "strength": "10.81",
+      "unit": "G"
+    },
+    {
+      "name": "SODIUM CHLORIDE",
+      "strength": "263",
+      "unit": "G"
+    },
+    {
+      "name": "MAGNESIUM CHLORIDE",
+      "strength": "4.57",
+      "unit": "G"
+    },
+    {
+      "name": "CALCIUM CHLORIDE",
+      "strength": "6.62",
+      "unit": "G"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "DIALYSIS"
+  ],
+  "companies": [
+    "FRESENIUS MEDICAL CARE CANADA INC"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "HEMODIALYTICS, CONCENTRATES"
+  ]
+}

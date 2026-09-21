@@ -1,0 +1,28 @@
+{
+  "drug_code": "11444",
+  "din": "00851736",
+  "brand_name": "ELOCOM OINTMENT",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "01-NOV-2012",
+  "active_ingredients": [
+    {
+      "name": "MOMETASONE FUROATE",
+      "strength": "0.1",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "OINTMENT"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "MERCK CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "MOMETASONE"
+  ]
+}

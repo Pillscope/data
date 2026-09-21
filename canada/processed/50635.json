@@ -1,0 +1,28 @@
+{
+  "drug_code": "50635",
+  "din": "02231328",
+  "brand_name": "APO-FLUOXETINE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "28-JUL-2017",
+  "active_ingredients": [
+    {
+      "name": "FLUOXETINE (FLUOXETINE HYDROCHLORIDE)",
+      "strength": "20",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "APOTEX INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "FLUOXETINE"
+  ]
+}

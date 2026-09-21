@@ -1,0 +1,28 @@
+{
+  "drug_code": "63731",
+  "din": "02240205",
+  "brand_name": "COUMADIN TAB 3MG",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "24-AUG-2011",
+  "active_ingredients": [
+    {
+      "name": "WARFARIN SODIUM",
+      "strength": "3",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "BRISTOL-MYERS SQUIBB CANADA"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "WARFARIN"
+  ]
+}

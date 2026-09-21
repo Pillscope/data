@@ -1,0 +1,28 @@
+{
+  "drug_code": "96462",
+  "din": "02474476",
+  "brand_name": "LEVETIRACETAM",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "26-APR-2018",
+  "active_ingredients": [
+    {
+      "name": "LEVETIRACETAM",
+      "strength": "500",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "LABORATOIRE RIVA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "LEVETIRACETAM"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "drug_code": "89530",
+  "din": "02410621",
+  "brand_name": "MYLAN-TADALAFIL",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "22-JUL-2016",
+  "active_ingredients": [
+    {
+      "name": "TADALAFIL",
+      "strength": "2.5",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "MYLAN PHARMACEUTICALS ULC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "TADALAFIL"
+  ]
+}

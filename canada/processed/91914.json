@@ -1,0 +1,28 @@
+{
+  "drug_code": "91914",
+  "din": "02434849",
+  "brand_name": "TEVA-ALMOTRIPTAN",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "21-APR-2016",
+  "active_ingredients": [
+    {
+      "name": "ALMOTRIPTAN (ALMOTRIPTAN MALATE)",
+      "strength": "12.5",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "TEVA CANADA LIMITED"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "ALMOTRIPTAN"
+  ]
+}

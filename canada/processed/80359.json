@@ -1,0 +1,28 @@
+{
+  "drug_code": "80359",
+  "din": "02318083",
+  "brand_name": "APO-ATOMOXETINE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "10-AUG-2011",
+  "active_ingredients": [
+    {
+      "name": "ATOMOXETINE (ATOMOXETINE HYDROCHLORIDE)",
+      "strength": "100",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "CAPSULE"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "APOTEX INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "ATOMOXETINE"
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "drug_code": "9161",
+  "din": "00724963",
+  "brand_name": "DELLA-BLUE",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "26-JAN-2017",
+  "active_ingredients": [
+    {
+      "name": "CHLORHEXIDINE ACETATE",
+      "strength": ".5",
+      "unit": "%"
+    },
+    {
+      "name": "GLYCERINE",
+      "strength": "5",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "TEAT-DIP"
+  ],
+  "companies": [
+    "DELAVAL INC."
+  ],
+  "status": "APPROVED",
+  "atc": []
+}

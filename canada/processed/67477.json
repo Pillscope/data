@@ -1,0 +1,28 @@
+{
+  "drug_code": "67477",
+  "din": "02243559",
+  "brand_name": "SANDOZ ORPHENADRINE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "29-APR-2015",
+  "active_ingredients": [
+    {
+      "name": "ORPHENADRINE CITRATE",
+      "strength": "100",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET (EXTENDED-RELEASE)"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "SANDOZ CANADA INCORPORATED"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "ORPHENADRINE (CITRATE)"
+  ]
+}

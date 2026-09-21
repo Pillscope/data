@@ -1,0 +1,26 @@
+{
+  "drug_code": "80999",
+  "din": "02324547",
+  "brand_name": "TYLOSIN SOLUBLE POWDER",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "09-JAN-2018",
+  "active_ingredients": [
+    {
+      "name": "TYLOSIN (TYLOSIN TARTRATE)",
+      "strength": "100",
+      "unit": "G"
+    }
+  ],
+  "forms": [
+    "POWDER FOR SOLUTION"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "BIO AGRI MIX LP"
+  ],
+  "status": "APPROVED",
+  "atc": []
+}

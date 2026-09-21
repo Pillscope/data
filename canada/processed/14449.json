@@ -1,0 +1,28 @@
+{
+  "drug_code": "14449",
+  "din": "01996169",
+  "brand_name": "ACETAMINOPHENE COMPRIMES CROQUABLES 160MG",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "10-MAY-2016",
+  "active_ingredients": [
+    {
+      "name": "ACETAMINOPHEN",
+      "strength": "160",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET (CHEWABLE)"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "LABORATOIRES TRIANON INC"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "ACETAMINOPHEN (PARACETAMOL)"
+  ]
+}

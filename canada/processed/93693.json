@@ -1,0 +1,26 @@
+{
+  "drug_code": "93693",
+  "din": "02450798",
+  "brand_name": "LONGRANGE",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "11-JAN-2018",
+  "active_ingredients": [
+    {
+      "name": "EPRINOMECTIN",
+      "strength": "5",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "SOLUTION (EXTENDED RELEASE)"
+  ],
+  "routes": [
+    "SUBCUTANEOUS"
+  ],
+  "companies": [
+    "MERIAL CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": []
+}

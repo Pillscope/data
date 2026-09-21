@@ -1,0 +1,28 @@
+{
+  "drug_code": "12344",
+  "din": "00830275",
+  "brand_name": "DOCUSATE CALCIUM CAP 240MG",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "10-MAY-2016",
+  "active_ingredients": [
+    {
+      "name": "DOCUSATE CALCIUM",
+      "strength": "240",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "CAPSULE"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "LABORATOIRES TRIANON INC"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "DOCUSATE SODIUM"
+  ]
+}

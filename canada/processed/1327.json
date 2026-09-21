@@ -1,0 +1,28 @@
+{
+  "drug_code": "1327",
+  "din": "00236683",
+  "brand_name": "CARBOLITH CAP 300MG",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "08-DEC-2005",
+  "active_ingredients": [
+    {
+      "name": "LITHIUM CARBONATE",
+      "strength": "300",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "CAPSULE"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "VALEANT CANADA LP/VALEANT CANADA S.E.C."
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "LITHIUM"
+  ]
+}

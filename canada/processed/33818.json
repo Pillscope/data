@@ -1,0 +1,28 @@
+{
+  "drug_code": "33818",
+  "din": "02152053",
+  "brand_name": "ADVANCED SKIN LIGHTENING SERUM",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "06-AUG-2015",
+  "active_ingredients": [
+    {
+      "name": "HYDROQUINONE",
+      "strength": "2",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "GEL"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "VIVIER CANADA INCORPORATED"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "HYDROQUINONE"
+  ]
+}

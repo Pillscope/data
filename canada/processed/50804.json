@@ -1,0 +1,28 @@
+{
+  "drug_code": "50804",
+  "din": "02231480",
+  "brand_name": "KWELLADA-P CR\u00c3\u0088ME RINSE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "03-APR-2014",
+  "active_ingredients": [
+    {
+      "name": "PERMETHRIN",
+      "strength": "1.0",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "LIQUID"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "MEDTECH PRODUCTS INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "PERMETHRIN"
+  ]
+}

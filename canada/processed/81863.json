@@ -1,0 +1,33 @@
+{
+  "drug_code": "81863",
+  "din": "02332973",
+  "brand_name": "AQUA-FX",
+  "class": "Disinfectant",
+  "descriptor": "",
+  "last_update": "21-JAN-2013",
+  "active_ingredients": [
+    {
+      "name": "HYDROGEN PEROXIDE",
+      "strength": "22.7",
+      "unit": "%"
+    },
+    {
+      "name": "PERACETIC ACID",
+      "strength": "5.1",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "LIQUID"
+  ],
+  "routes": [
+    "DISINFECTANT (Hospital/HC Facilities)"
+  ],
+  "companies": [
+    "MAXILL INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "TECHNICAL DISINFECTANTS"
+  ]
+}

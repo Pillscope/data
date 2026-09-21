@@ -1,0 +1,28 @@
+{
+  "drug_code": "85169",
+  "din": "02366878",
+  "brand_name": "KARESSE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "08-JAN-2013",
+  "active_ingredients": [
+    {
+      "name": "TRICLOSAN",
+      "strength": "0.1",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "LIQUID"
+  ],
+  "routes": [
+    "TOPICAL (HOUSEHOLD)"
+  ],
+  "companies": [
+    "AVMOR LTD"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "TRICLOSAN"
+  ]
+}

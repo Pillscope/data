@@ -1,0 +1,28 @@
+{
+  "drug_code": "93888",
+  "din": "02452502",
+  "brand_name": "PRIVA-TADALAFIL",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "18-JAN-2017",
+  "active_ingredients": [
+    {
+      "name": "TADALAFIL",
+      "strength": "20",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "PHARMAPAR INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "TADALAFIL"
+  ]
+}

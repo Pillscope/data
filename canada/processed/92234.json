@@ -1,0 +1,28 @@
+{
+  "drug_code": "92234",
+  "din": "02437988",
+  "brand_name": "RAN-SOLIFENACIN",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "20-JAN-2017",
+  "active_ingredients": [
+    {
+      "name": "SOLIFENACIN SUCCINATE",
+      "strength": "5",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "RANBAXY PHARMACEUTICALS CANADA INC."
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "SOLIFENACIN"
+  ]
+}

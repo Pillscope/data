@@ -1,0 +1,28 @@
+{
+  "drug_code": "93430",
+  "din": "02448599",
+  "brand_name": "TRULICITY",
+  "class": "Human",
+  "descriptor": "0.5ML SINGLE-USE PEN",
+  "last_update": "07-FEB-2017",
+  "active_ingredients": [
+    {
+      "name": "DULAGLUTIDE",
+      "strength": "0.75",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "SUBCUTANEOUS"
+  ],
+  "companies": [
+    "ELI LILLY CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "DULAGLUTIDE"
+  ]
+}

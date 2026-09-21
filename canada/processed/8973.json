@@ -1,0 +1,28 @@
+{
+  "drug_code": "8973",
+  "din": "00716650",
+  "brand_name": "BETADERM ONT 0.1%",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "31-AUG-2017",
+  "active_ingredients": [
+    {
+      "name": "BETAMETHASONE (BETAMETHASONE VALERATE)",
+      "strength": "0.1",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "OINTMENT"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "TARO PHARMACEUTICALS INC"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "BETAMETHASONE"
+  ]
+}

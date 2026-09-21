@@ -1,0 +1,28 @@
+{
+  "drug_code": "43143",
+  "din": "02213826",
+  "brand_name": "REVIA",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "22-JUL-2016",
+  "active_ingredients": [
+    {
+      "name": "NALTREXONE HYDROCHLORIDE",
+      "strength": "50",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "TEVA CANADA LIMITED"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "NALTREXONE"
+  ]
+}

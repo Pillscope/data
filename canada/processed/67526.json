@@ -1,0 +1,26 @@
+{
+  "drug_code": "67526",
+  "din": "02243607",
+  "brand_name": "UNIMECTRIN INJECTION FOR CATTLE, SHEEP AND SWINE",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "15-OCT-2004",
+  "active_ingredients": [
+    {
+      "name": "IVERMECTIN",
+      "strength": "10",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "SUBCUTANEOUS"
+  ],
+  "companies": [
+    "MERIAL CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": []
+}

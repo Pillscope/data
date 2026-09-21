@@ -1,0 +1,28 @@
+{
+  "drug_code": "20200",
+  "din": "02211920",
+  "brand_name": "NOVO-VERAMIL SR",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "05-MAY-2015",
+  "active_ingredients": [
+    {
+      "name": "VERAPAMIL HYDROCHLORIDE",
+      "strength": "240",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET (EXTENDED-RELEASE)"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "TEVA CANADA LIMITED"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "VERAPAMIL"
+  ]
+}

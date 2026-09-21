@@ -1,0 +1,28 @@
+{
+  "drug_code": "83006",
+  "din": "02344564",
+  "brand_name": "PMS-VALSARTAN",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "20-DEC-2013",
+  "active_ingredients": [
+    {
+      "name": "VALSARTAN",
+      "strength": "320",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "PHARMASCIENCE INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "VALSARTAN"
+  ]
+}

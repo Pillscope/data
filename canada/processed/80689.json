@@ -1,0 +1,28 @@
+{
+  "drug_code": "80689",
+  "din": "02321483",
+  "brand_name": "ACT REPAGLINIDE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "05-MAY-2015",
+  "active_ingredients": [
+    {
+      "name": "REPAGLINIDE",
+      "strength": "1",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "ACTAVIS PHARMA COMPANY"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "REPAGLINIDE"
+  ]
+}

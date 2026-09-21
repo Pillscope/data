@@ -1,0 +1,28 @@
+{
+  "drug_code": "9269",
+  "din": "00716634",
+  "brand_name": "BETADERM LOTION 0.1%",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "26-APR-2017",
+  "active_ingredients": [
+    {
+      "name": "BETAMETHASONE (BETAMETHASONE VALERATE)",
+      "strength": "0.1",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "LOTION"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "TARO PHARMACEUTICALS INC"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "BETAMETHASONE"
+  ]
+}

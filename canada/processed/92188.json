@@ -1,0 +1,33 @@
+{
+  "drug_code": "92188",
+  "din": "02437554",
+  "brand_name": "PREVENTION + DAILY MATTE MOISTURIZER OIL-FREE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "05-FEB-2018",
+  "active_ingredients": [
+    {
+      "name": "ZINC OXIDE",
+      "strength": "9.0",
+      "unit": "%"
+    },
+    {
+      "name": "OCTINOXATE",
+      "strength": "7.5",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "LOTION"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "IMAGE INTERNATIONAL MANUFACTURING LLC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "COMBINATIONS OF PROTECTIVES AGAINST UV-RADIATION"
+  ]
+}

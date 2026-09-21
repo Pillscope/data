@@ -1,0 +1,43 @@
+{
+  "drug_code": "91075",
+  "din": "02426145",
+  "brand_name": "CC CREAM BROAD SPECTRUM SPF 30",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "08-JAN-2016",
+  "active_ingredients": [
+    {
+      "name": "TITANIUM DIOXIDE",
+      "strength": "4.1",
+      "unit": "%"
+    },
+    {
+      "name": "OXYBENZONE",
+      "strength": "2.0",
+      "unit": "%"
+    },
+    {
+      "name": "HOMOSALATE",
+      "strength": "7.0",
+      "unit": "%"
+    },
+    {
+      "name": "OCTINOXATE",
+      "strength": "2.5",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "CREAM"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "MERLE NORMAN COSMETICS INC"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "COMBINATIONS OF PROTECTIVES AGAINST UV-RADIATION"
+  ]
+}

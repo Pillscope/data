@@ -1,0 +1,28 @@
+{
+  "drug_code": "19099",
+  "din": "02155907",
+  "brand_name": "ADALAT XL - SRT 30MG",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "05-MAY-2015",
+  "active_ingredients": [
+    {
+      "name": "NIFEDIPINE",
+      "strength": "30",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET (EXTENDED-RELEASE)"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "BAYER INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "NIFEDIPINE"
+  ]
+}

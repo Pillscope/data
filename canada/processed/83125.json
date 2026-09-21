@@ -1,0 +1,28 @@
+{
+  "drug_code": "83125",
+  "din": "02345838",
+  "brand_name": "AURO-TOPIRAMATE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "28-NOV-2017",
+  "active_ingredients": [
+    {
+      "name": "TOPIRAMATE",
+      "strength": "100",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "AUROBINDO PHARMA LIMITED (UNIT III)"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "TOPIRAMATE"
+  ]
+}

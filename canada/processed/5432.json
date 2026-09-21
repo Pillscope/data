@@ -1,0 +1,28 @@
+{
+  "drug_code": "5432",
+  "din": "00506052",
+  "brand_name": "APO IBUPROFEN TAB 400MG",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "11-JUL-2012",
+  "active_ingredients": [
+    {
+      "name": "IBUPROFEN",
+      "strength": "400",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "APOTEX INC"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "IBUPROFEN"
+  ]
+}

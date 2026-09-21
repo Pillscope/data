@@ -1,0 +1,30 @@
+{
+  "drug_code": "83557",
+  "din": "02350351",
+  "brand_name": "SODIUM CHLORIDE INJECTION USP 0.9%",
+  "class": "Human",
+  "descriptor": "9G/L",
+  "last_update": "18-DEC-2012",
+  "active_ingredients": [
+    {
+      "name": "SODIUM CHLORIDE",
+      "strength": "0.9",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "INTRAMUSCULAR",
+    "INTRAVENOUS",
+    "SUBCUTANEOUS"
+  ],
+  "companies": [
+    "LABORATOIRES STERIGEN INC"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "SODIUM CHLORIDE"
+  ]
+}

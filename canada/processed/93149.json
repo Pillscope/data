@@ -1,0 +1,43 @@
+{
+  "drug_code": "93149",
+  "din": "02446219",
+  "brand_name": "CLINIQUE SUPERBALANCED SILK MAKEUP SPF 15",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "11-NOV-2016",
+  "active_ingredients": [
+    {
+      "name": "ZINC OXIDE",
+      "strength": "1.9",
+      "unit": "%"
+    },
+    {
+      "name": "TITANIUM DIOXIDE",
+      "strength": "7.8",
+      "unit": "%"
+    },
+    {
+      "name": "OCTISALATE",
+      "strength": "4.5",
+      "unit": "%"
+    },
+    {
+      "name": "OCTINOXATE",
+      "strength": "7",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "LIQUID"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "CLINIQUE LABORATORIES DIST"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "COMBINATIONS OF PROTECTIVES AGAINST UV-RADIATION"
+  ]
+}

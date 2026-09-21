@@ -1,0 +1,34 @@
+{
+  "drug_code": "84765",
+  "din": "02362643",
+  "brand_name": "ADVIL COLD & FLU",
+  "class": "Human",
+  "descriptor": "CAPLET",
+  "last_update": "08-NOV-2011",
+  "active_ingredients": [
+    {
+      "name": "IBUPROFEN",
+      "strength": "200",
+      "unit": "MG"
+    },
+    {
+      "name": "DIPHENHYDRAMINE CITRATE",
+      "strength": "38",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "PFIZER CONSUMER HEALTHCARE A DIVISION OF PFIZER CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "IBUPROFEN, COMBINATIONS",
+    "IBUPROFEN, COMBINATIONS"
+  ]
+}

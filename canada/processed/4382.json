@@ -1,0 +1,28 @@
+{
+  "drug_code": "4382",
+  "din": "00402591",
+  "brand_name": "ANAFRANIL",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "09-AUG-2017",
+  "active_ingredients": [
+    {
+      "name": "CLOMIPRAMINE HYDROCHLORIDE",
+      "strength": "50",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "AA PHARMA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "CLOMIPRAMINE"
+  ]
+}

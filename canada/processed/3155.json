@@ -1,0 +1,32 @@
+{
+  "drug_code": "3155",
+  "din": "00455415",
+  "brand_name": "LIDOCAINE HCL 2% W EPINEPH 1:100000INJ",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "15-JUN-2004",
+  "active_ingredients": [
+    {
+      "name": "EPINEPHRINE",
+      "strength": ".01",
+      "unit": "MG"
+    },
+    {
+      "name": "LIDOCAINE HYDROCHLORIDE",
+      "strength": "20",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "INTRADERMAL",
+    "INTRAMUSCULAR"
+  ],
+  "companies": [
+    "DOMINION VETERINARY LABORATORIES LTD."
+  ],
+  "status": "MARKETED",
+  "atc": []
+}

@@ -1,0 +1,28 @@
+{
+  "drug_code": "86020",
+  "din": "02374854",
+  "brand_name": "RAMIPRIL",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "12-APR-2016",
+  "active_ingredients": [
+    {
+      "name": "RAMIPRIL",
+      "strength": "5",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "CAPSULE"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "SANIS HEALTH INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "RAMIPRIL"
+  ]
+}

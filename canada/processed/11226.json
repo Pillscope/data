@@ -1,0 +1,28 @@
+{
+  "drug_code": "11226",
+  "din": "01911929",
+  "brand_name": "NITRO-DUR 0.6",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "01-NOV-2017",
+  "active_ingredients": [
+    {
+      "name": "NITROGLYCERIN",
+      "strength": "0.6",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "PATCH (EXTENDED RELEASE)"
+  ],
+  "routes": [
+    "TRANSDERMAL"
+  ],
+  "companies": [
+    "MERCK CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "GLYCERYL TRINITRATE"
+  ]
+}

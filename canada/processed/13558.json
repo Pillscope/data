@@ -1,0 +1,28 @@
+{
+  "drug_code": "13558",
+  "din": "01934139",
+  "brand_name": "RATIO-INDOMETHACIN",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "29-APR-2015",
+  "active_ingredients": [
+    {
+      "name": "INDOMETHACIN",
+      "strength": "100",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SUPPOSITORY"
+  ],
+  "routes": [
+    "RECTAL"
+  ],
+  "companies": [
+    "TEVA CANADA LIMITED"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "INDOMETACIN"
+  ]
+}

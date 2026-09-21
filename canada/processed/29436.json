@@ -1,0 +1,33 @@
+{
+  "drug_code": "29436",
+  "din": "02105357",
+  "brand_name": "SWISH FOOD SERVICE DISINFECTANT",
+  "class": "Disinfectant",
+  "descriptor": "",
+  "last_update": "12-JAN-2016",
+  "active_ingredients": [
+    {
+      "name": "BENZALKONIUM CHLORIDE",
+      "strength": "0.8",
+      "unit": "%"
+    },
+    {
+      "name": "ALKYL DIMETHYL ETHYLBENZYL AMMONIUM CHLORIDE",
+      "strength": "0.8",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "LIQUID"
+  ],
+  "routes": [
+    "DISINFECTANT (Food Premises)"
+  ],
+  "companies": [
+    "CHARLOTTE PRODUCTS LIMITED"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "TECHNICAL DISINFECTANTS"
+  ]
+}

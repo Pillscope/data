@@ -1,0 +1,28 @@
+{
+  "drug_code": "8229",
+  "din": "00756784",
+  "brand_name": "FLAREX",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "22-MAR-2017",
+  "active_ingredients": [
+    {
+      "name": "FLUOROMETHOLONE ACETATE",
+      "strength": "0.1",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "SUSPENSION"
+  ],
+  "routes": [
+    "OPHTHALMIC"
+  ],
+  "companies": [
+    "NOVARTIS PHARMACEUTICALS CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "FLUOROMETHOLONE"
+  ]
+}

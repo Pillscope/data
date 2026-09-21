@@ -1,0 +1,28 @@
+{
+  "drug_code": "90254",
+  "din": "02417944",
+  "brand_name": "REDDY-ATORVASTATIN",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "20-JAN-2017",
+  "active_ingredients": [
+    {
+      "name": "ATORVASTATIN (ATORVASTATIN CALCIUM)",
+      "strength": "20",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "DR REDDYS LABORATORIES LTD"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "ATORVASTATIN"
+  ]
+}

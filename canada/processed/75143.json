@@ -1,0 +1,28 @@
+{
+  "drug_code": "75143",
+  "din": "02265990",
+  "brand_name": "VINORELBINE INJECTION",
+  "class": "Human",
+  "descriptor": "SINGLE-DOSE VIAL",
+  "last_update": "14-JAN-2016",
+  "active_ingredients": [
+    {
+      "name": "VINORELBINE (VINORELBINE TARTRATE)",
+      "strength": "10",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "FRESENIUS KABI CANADA LTD"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "VINORELBINE"
+  ]
+}

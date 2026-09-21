@@ -1,0 +1,33 @@
+{
+  "drug_code": "86489",
+  "din": "02379031",
+  "brand_name": "SPF 15 LIP BALM",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "21-FEB-2012",
+  "active_ingredients": [
+    {
+      "name": "OXYBENZONE",
+      "strength": "4",
+      "unit": "%"
+    },
+    {
+      "name": "OCTINOXATE",
+      "strength": "6.9",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "OINTMENT"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "SNUGZ USA"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "COMBINATIONS OF PROTECTIVES AGAINST UV-RADIATION"
+  ]
+}

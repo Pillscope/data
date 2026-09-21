@@ -1,0 +1,28 @@
+{
+  "drug_code": "94336",
+  "din": "02456478",
+  "brand_name": "RUPALL",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "05-JUN-2017",
+  "active_ingredients": [
+    {
+      "name": "RUPATADINE (RUPATADINE FUMARATE)",
+      "strength": "1",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "PEDIAPHARM INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "RUPATADINE"
+  ]
+}

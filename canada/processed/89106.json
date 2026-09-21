@@ -1,0 +1,28 @@
+{
+  "drug_code": "89106",
+  "din": "02406349",
+  "brand_name": "HEAD & SHOULDERS TOTAL CARE ALL-IN-1 MEN",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "07-MAR-2014",
+  "active_ingredients": [
+    {
+      "name": "PYRITHIONE ZINC",
+      "strength": "1.0",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "SHAMPOO"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "PROCTER & GAMBLE INC"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "PYRITHIONE ZINC"
+  ]
+}

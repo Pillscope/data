@@ -1,0 +1,28 @@
+{
+  "drug_code": "95816",
+  "din": "02469375",
+  "brand_name": "PREVYMIS",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "14-MAR-2018",
+  "active_ingredients": [
+    {
+      "name": "LETERMOVIR",
+      "strength": "240",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "MERCK CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "OTHER ANTIVIRALS"
+  ]
+}

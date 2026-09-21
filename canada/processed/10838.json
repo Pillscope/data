@@ -1,0 +1,26 @@
+{
+  "drug_code": "10838",
+  "din": "00603724",
+  "brand_name": "POSISTAC 6%",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "05-MAY-2015",
+  "active_ingredients": [
+    {
+      "name": "SALINOMYCIN SODIUM",
+      "strength": "60",
+      "unit": "G"
+    }
+  ],
+  "forms": [
+    "DRUG PREMIX"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "PHIBRO ANIMAL HEALTH CORPORATION"
+  ],
+  "status": "APPROVED",
+  "atc": []
+}

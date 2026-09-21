@@ -1,0 +1,28 @@
+{
+  "drug_code": "90578",
+  "din": "02421186",
+  "brand_name": "TARO-TESTOSTERONE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "03-SEP-2014",
+  "active_ingredients": [
+    {
+      "name": "TESTOSTERONE UNDECANOATE",
+      "strength": "40",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "CAPSULE"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "TARO PHARMACEUTICALS INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "TESTOSTERONE"
+  ]
+}

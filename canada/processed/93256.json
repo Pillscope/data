@@ -1,0 +1,33 @@
+{
+  "drug_code": "93256",
+  "din": "02446995",
+  "brand_name": "ALMAY AGE ESSENTIALS CONCEALER SPF 20",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "18-MAY-2017",
+  "active_ingredients": [
+    {
+      "name": "ZINC OXIDE",
+      "strength": "2.4",
+      "unit": "%"
+    },
+    {
+      "name": "OCTINOXATE",
+      "strength": "7.5",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "STICK"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "REVLON CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "COMBINATIONS OF PROTECTIVES AGAINST UV-RADIATION"
+  ]
+}

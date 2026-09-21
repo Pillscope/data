@@ -1,0 +1,28 @@
+{
+  "drug_code": "9825",
+  "din": "00786160",
+  "brand_name": "SODIUM CHLORIDE LIQ IRIGATION 900MG/100ML USP",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "16-JUN-2006",
+  "active_ingredients": [
+    {
+      "name": "SODIUM CHLORIDE",
+      "strength": "900",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "LIQUID"
+  ],
+  "routes": [
+    "IRRIGATION"
+  ],
+  "companies": [
+    "BAXTER CORPORATION"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "SODIUM CHLORIDE"
+  ]
+}

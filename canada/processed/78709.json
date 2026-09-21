@@ -1,0 +1,43 @@
+{
+  "drug_code": "78709",
+  "din": "02301741",
+  "brand_name": "SUNTHERA3 KIDS/ENFANTS SPF/FPS 50 CONTINUOUS SPRAY",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "13-JAN-2016",
+  "active_ingredients": [
+    {
+      "name": "AVOBENZONE",
+      "strength": "3",
+      "unit": "%"
+    },
+    {
+      "name": "OXYBENZONE",
+      "strength": "6",
+      "unit": "%"
+    },
+    {
+      "name": "OCTISALATE",
+      "strength": "5",
+      "unit": "%"
+    },
+    {
+      "name": "HOMOSALATE",
+      "strength": "15",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "SPRAY, BAG-ON-VALVE"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "FRUIT OF THE EARTH, INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "COMBINATIONS OF PROTECTIVES AGAINST UV-RADIATION"
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "drug_code": "76934",
+  "din": "02283751",
+  "brand_name": "AVEENO ACTIVE NATURALS POSITIVELY RADIANT DAILY MOISTURIZER",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "23-APR-2007",
+  "active_ingredients": [
+    {
+      "name": "AVOBENZONE",
+      "strength": "3.0",
+      "unit": "%"
+    },
+    {
+      "name": "OCTOCRYLENE",
+      "strength": "1.7",
+      "unit": "%"
+    },
+    {
+      "name": "OXYBENZONE",
+      "strength": "3.0",
+      "unit": "%"
+    },
+    {
+      "name": "OCTISALATE",
+      "strength": "5.0",
+      "unit": "%"
+    },
+    {
+      "name": "HOMOSALATE",
+      "strength": "12.0",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "LOTION"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "JOHNSON & JOHNSON INC"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "COMBINATIONS OF PROTECTIVES AGAINST UV-RADIATION"
+  ]
+}

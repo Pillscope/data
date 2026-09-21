@@ -1,0 +1,34 @@
+{
+  "drug_code": "90673",
+  "din": "02422042",
+  "brand_name": "MUSCLE AND BACK PAIN PLATINUM RELIEF",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "21-MAR-2018",
+  "active_ingredients": [
+    {
+      "name": "IBUPROFEN",
+      "strength": "200",
+      "unit": "MG"
+    },
+    {
+      "name": "METHOCARBAMOL",
+      "strength": "500",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "VITA HEALTH PRODUCTS INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "METHOCARBAMOL, COMBINATIONS EXCL PSYCHOLEPTICS",
+    "METHOCARBAMOL, COMBINATIONS EXCL PSYCHOLEPTICS"
+  ]
+}

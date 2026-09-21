@@ -1,0 +1,28 @@
+{
+  "drug_code": "93671",
+  "din": "02450550",
+  "brand_name": "NATESTO",
+  "class": "Human",
+  "descriptor": "METERED-DOSE PUMP DELIVERING 5.5MG TESTOSTERONE/ACTUATION",
+  "last_update": "09-JUN-2016",
+  "active_ingredients": [
+    {
+      "name": "TESTOSTERONE",
+      "strength": "4.5",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "GEL"
+  ],
+  "routes": [
+    "NASAL"
+  ],
+  "companies": [
+    "ACERUS BIOPHARMA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "TESTOSTERONE"
+  ]
+}

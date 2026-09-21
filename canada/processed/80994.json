@@ -1,0 +1,28 @@
+{
+  "drug_code": "80994",
+  "din": "02324490",
+  "brand_name": "CLARITHROMYCIN",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "06-NOV-2009",
+  "active_ingredients": [
+    {
+      "name": "CLARITHROMYCIN",
+      "strength": "500",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "PRO DOC LIMITEE"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "CLARITHROMYCIN"
+  ]
+}

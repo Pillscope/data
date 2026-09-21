@@ -1,0 +1,28 @@
+{
+  "drug_code": "95770",
+  "din": "02469057",
+  "brand_name": "PHARMA-RAMIPRIL",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "26-APR-2018",
+  "active_ingredients": [
+    {
+      "name": "RAMIPRIL",
+      "strength": "1.25",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "CAPSULE"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "PHARMASCIENCE INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "RAMIPRIL"
+  ]
+}

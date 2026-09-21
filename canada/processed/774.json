@@ -1,0 +1,28 @@
+{
+  "drug_code": "774",
+  "din": "00023965",
+  "brand_name": "THYROID TAB 125MG",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "28-APR-2006",
+  "active_ingredients": [
+    {
+      "name": "THYROID",
+      "strength": "125",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "ERFA CANADA 2012 INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "THYROID GLAND PREPARATIONS"
+  ]
+}

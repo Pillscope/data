@@ -1,0 +1,28 @@
+{
+  "drug_code": "88359",
+  "din": "02398656",
+  "brand_name": "RIVA-LETROZOLE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "15-JAN-2016",
+  "active_ingredients": [
+    {
+      "name": "LETROZOLE",
+      "strength": "2.5",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "LABORATOIRE RIVA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "LETROZOLE"
+  ]
+}

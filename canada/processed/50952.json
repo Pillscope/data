@@ -1,0 +1,29 @@
+{
+  "drug_code": "50952",
+  "din": "02231586",
+  "brand_name": "EPREX STERILE SOLUTION 4000IU/0.4ML",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "11-FEB-2008",
+  "active_ingredients": [
+    {
+      "name": "EPOETIN ALFA",
+      "strength": "4000",
+      "unit": "UNIT"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "INTRAVENOUS",
+    "SUBCUTANEOUS"
+  ],
+  "companies": [
+    "JANSSEN INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "ERYTHROPOIETIN"
+  ]
+}

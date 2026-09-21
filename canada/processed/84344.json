@@ -1,0 +1,33 @@
+{
+  "drug_code": "84344",
+  "din": "02358387",
+  "brand_name": "EXTRA LASTING CREAM-TO-POWDER FOUNDATION",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "26-SEP-2014",
+  "active_ingredients": [
+    {
+      "name": "TITANIUM DIOXIDE",
+      "strength": "3.00",
+      "unit": "%"
+    },
+    {
+      "name": "OCTINOXATE",
+      "strength": "6.34",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "CREAM"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "AVON CANADA INC"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "COMBINATIONS OF PROTECTIVES AGAINST UV-RADIATION"
+  ]
+}

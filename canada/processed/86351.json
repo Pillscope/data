@@ -1,0 +1,28 @@
+{
+  "drug_code": "86351",
+  "din": "02377691",
+  "brand_name": "TEVA-ERLOTINIB",
+  "class": "Human",
+  "descriptor": "FILM-COATED TABLETS",
+  "last_update": "04-OCT-2017",
+  "active_ingredients": [
+    {
+      "name": "ERLOTINIB (ERLOTINIB HYDROCHLORIDE)",
+      "strength": "25",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "TEVA CANADA LIMITED"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "ERLOTINIB"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "drug_code": "84115",
+  "din": "02355965",
+  "brand_name": "LORIS 2% CHG WIPE/SERVIETTE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "11-JAN-2018",
+  "active_ingredients": [
+    {
+      "name": "CHLORHEXIDINE GLUCONATE",
+      "strength": "2",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "WIPE"
+  ],
+  "routes": [
+    "TOPICAL (HOUSEHOLD)"
+  ],
+  "companies": [
+    "LERNAPHARM (LORIS) INC."
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "CHLORHEXIDINE"
+  ]
+}

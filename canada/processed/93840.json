@@ -1,0 +1,33 @@
+{
+  "drug_code": "93840",
+  "din": "02452006",
+  "brand_name": "APO-EMTRICITABINE-TENOFOVIR",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "28-SEP-2017",
+  "active_ingredients": [
+    {
+      "name": "TENOFOVIR DISOPROXIL FUMARATE",
+      "strength": "300",
+      "unit": "MG"
+    },
+    {
+      "name": "EMTRICITABINE",
+      "strength": "200",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "APOTEX INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "TENOFOVIR DISOPROXIL AND EMTRICITABINE"
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "drug_code": "84014",
+  "din": "02354950",
+  "brand_name": "DEXILANT",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "25-APR-2018",
+  "active_ingredients": [
+    {
+      "name": "DEXLANSOPRAZOLE",
+      "strength": "30",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "CAPSULE (DELAYED RELEASE)"
+  ],
+  "routes": [
+    "NASOGASTRIC",
+    "ORAL"
+  ],
+  "companies": [
+    "TAKEDA CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "DEXLANSOPRAZOLE"
+  ]
+}

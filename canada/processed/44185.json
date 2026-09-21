@@ -1,0 +1,29 @@
+{
+  "drug_code": "44185",
+  "din": "02172739",
+  "brand_name": "OMNIPAQUE 240",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "30-MAY-2008",
+  "active_ingredients": [
+    {
+      "name": "IOHEXOL",
+      "strength": "518",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "SUBARACHNOIDAL",
+    "INTRAVASCULAR"
+  ],
+  "companies": [
+    "GE HEALTHCARE CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "IOHEXOL"
+  ]
+}

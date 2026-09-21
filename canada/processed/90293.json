@@ -1,0 +1,28 @@
+{
+  "drug_code": "90293",
+  "din": "02418355",
+  "brand_name": "SOVALDI",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "03-JAN-2018",
+  "active_ingredients": [
+    {
+      "name": "SOFOSBUVIR",
+      "strength": "400",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "GILEAD SCIENCES CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "SOFOSBUVIR"
+  ]
+}

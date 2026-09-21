@@ -1,0 +1,28 @@
+{
+  "drug_code": "84305",
+  "din": "02357976",
+  "brand_name": "TEVA-LOSARTAN",
+  "class": "Human",
+  "descriptor": "FILM-COATED",
+  "last_update": "04-DEC-2013",
+  "active_ingredients": [
+    {
+      "name": "LOSARTAN POTASSIUM",
+      "strength": "100",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "TEVA CANADA LIMITED"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "LOSARTAN"
+  ]
+}

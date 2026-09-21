@@ -1,0 +1,28 @@
+{
+  "drug_code": "78368",
+  "din": "02298384",
+  "brand_name": "TEVA-RISEDRONATE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "05-MAY-2015",
+  "active_ingredients": [
+    {
+      "name": "RISEDRONATE SODIUM (RISEDRONATE SODIUM MONOHYDRATE)",
+      "strength": "30",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "TEVA CANADA LIMITED"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "RISEDRONIC ACID"
+  ]
+}

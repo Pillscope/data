@@ -1,0 +1,28 @@
+{
+  "drug_code": "13563",
+  "din": "00786969",
+  "brand_name": "MICRO CU",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "05-MAY-2015",
+  "active_ingredients": [
+    {
+      "name": "COPPER (COPPER SULFATE)",
+      "strength": "0.4",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "SANDOZ CANADA INCORPORATED"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "OTHER MINERAL PRODUCTS"
+  ]
+}

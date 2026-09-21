@@ -1,0 +1,43 @@
+{
+  "drug_code": "87476",
+  "din": "02389266",
+  "brand_name": "CLEAR COMPLEXION BB CREAM",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "01-AUG-2013",
+  "active_ingredients": [
+    {
+      "name": "OXYBENZONE",
+      "strength": "2",
+      "unit": "%"
+    },
+    {
+      "name": "OCTISALATE",
+      "strength": "5",
+      "unit": "%"
+    },
+    {
+      "name": "HOMOSALATE",
+      "strength": "5",
+      "unit": "%"
+    },
+    {
+      "name": "OCTINOXATE",
+      "strength": "7.5",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "CREAM"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "JOHNSON & JOHNSON INC"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "COMBINATIONS OF PROTECTIVES AGAINST UV-RADIATION"
+  ]
+}

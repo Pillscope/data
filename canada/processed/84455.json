@@ -1,0 +1,28 @@
+{
+  "drug_code": "84455",
+  "din": "02359537",
+  "brand_name": "JAMP-RISPERIDONE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "12-JAN-2011",
+  "active_ingredients": [
+    {
+      "name": "RISPERIDONE",
+      "strength": "0.50",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "JAMP PHARMA CORPORATION"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "RISPERIDONE"
+  ]
+}

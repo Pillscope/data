@@ -1,0 +1,31 @@
+{
+  "drug_code": "95986",
+  "din": "02470810",
+  "brand_name": "PEROXIGARD ONE-STEP DISINFECTANT CLEANER & DEODORIZER WIPES FOR USE IN LIFE SCIENCES",
+  "class": "Disinfectant",
+  "descriptor": "",
+  "last_update": "20-FEB-2018",
+  "active_ingredients": [
+    {
+      "name": "HYDROGEN PEROXIDE",
+      "strength": "0.5",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "WIPE"
+  ],
+  "routes": [
+    "DISINFECTANT (Barn)",
+    "DISINFECTANT (Food Premises)",
+    "DISINFECTANT (Hospital/HC Facilities)",
+    "DISINFECTANT (Institutional/Industrial)"
+  ],
+  "companies": [
+    "VIROX TECHNOLOGIES INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "TECHNICAL DISINFECTANTS"
+  ]
+}

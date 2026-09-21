@@ -1,0 +1,48 @@
+{
+  "drug_code": "89475",
+  "din": "02410087",
+  "brand_name": "M.A.C. PREP + PRIME CC COLOUR CORRECT SPF 30",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "02-JUN-2014",
+  "active_ingredients": [
+    {
+      "name": "ZINC OXIDE",
+      "strength": "3.30",
+      "unit": "%"
+    },
+    {
+      "name": "TITANIUM DIOXIDE",
+      "strength": "1.10",
+      "unit": "%"
+    },
+    {
+      "name": "OXYBENZONE",
+      "strength": "2.50",
+      "unit": "%"
+    },
+    {
+      "name": "OCTISALATE",
+      "strength": "4.00",
+      "unit": "%"
+    },
+    {
+      "name": "OCTINOXATE",
+      "strength": "7.50",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "CREAM"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "MAKE UP ART COSMETICS DIST MAC"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "COMBINATIONS OF PROTECTIVES AGAINST UV-RADIATION"
+  ]
+}

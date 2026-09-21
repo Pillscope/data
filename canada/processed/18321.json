@@ -1,0 +1,28 @@
+{
+  "drug_code": "18321",
+  "din": "02160986",
+  "brand_name": "CALCIUM-45  0.5-4.5",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "25-FEB-2009",
+  "active_ingredients": [
+    {
+      "name": "CALCIUM CHLORIDE",
+      "strength": "14.9",
+      "unit": "G"
+    }
+  ],
+  "forms": [
+    "POWDER"
+  ],
+  "routes": [
+    "DIALYSIS"
+  ],
+  "companies": [
+    "BAXTER CORPORATION"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "HEMODIALYTICS, CONCENTRATES"
+  ]
+}

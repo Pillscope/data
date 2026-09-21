@@ -1,0 +1,28 @@
+{
+  "drug_code": "20026",
+  "din": "02195925",
+  "brand_name": "MEGESTROL",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "18-MAY-2011",
+  "active_ingredients": [
+    {
+      "name": "MEGESTROL ACETATE",
+      "strength": "160",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "AA PHARMA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "MEGESTROL"
+  ]
+}

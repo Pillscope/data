@@ -1,0 +1,26 @@
+{
+  "drug_code": "24470",
+  "din": "01985221",
+  "brand_name": "MINERAL OIL",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "29-APR-2015",
+  "active_ingredients": [
+    {
+      "name": "MINERAL OIL",
+      "strength": "100",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "LIQUID"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "BIO AGRI MIX LP"
+  ],
+  "status": "APPROVED",
+  "atc": []
+}

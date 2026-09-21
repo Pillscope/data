@@ -1,0 +1,28 @@
+{
+  "drug_code": "86618",
+  "din": "02380374",
+  "brand_name": "JAMP-CIPROFLOXACIN",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "05-MAY-2015",
+  "active_ingredients": [
+    {
+      "name": "CIPROFLOXACIN (CIPROFLOXACIN HYDROCHLORIDE)",
+      "strength": "750",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "JAMP PHARMA CORPORATION"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "CIPROFLOXACIN"
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "drug_code": "636",
+  "din": "00151866",
+  "brand_name": "OCTOCAINE HCL 2% EPINEPHRINE 1:100000",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "13-JAN-2010",
+  "active_ingredients": [
+    {
+      "name": "EPINEPHRINE (EPINEPHRINE BITARTRATE)",
+      "strength": "0.01",
+      "unit": "MG"
+    },
+    {
+      "name": "LIDOCAINE HYDROCHLORIDE",
+      "strength": "20",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "LIQUID"
+  ],
+  "routes": [
+    "SUBCUTANEOUS"
+  ],
+  "companies": [
+    "NOVOCOL PHARMACEUTICAL OF CANADA INC"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "LIDOCAINE, COMBINATIONS"
+  ]
+}

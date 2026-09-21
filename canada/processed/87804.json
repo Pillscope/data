@@ -1,0 +1,28 @@
+{
+  "drug_code": "87804",
+  "din": "02392801",
+  "brand_name": "RAN-PREGABALIN",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "11-DEC-2013",
+  "active_ingredients": [
+    {
+      "name": "PREGABALIN",
+      "strength": "25",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "CAPSULE"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "RANBAXY PHARMACEUTICALS CANADA INC."
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "PREGABALIN"
+  ]
+}

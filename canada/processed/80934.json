@@ -1,0 +1,31 @@
+{
+  "drug_code": "80934",
+  "din": "02323869",
+  "brand_name": "NOROCLAV",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "17-AUG-2009",
+  "active_ingredients": [
+    {
+      "name": "CLAVULANIC ACID (POTASSIUM CLAVULANATE)",
+      "strength": "25",
+      "unit": "MG"
+    },
+    {
+      "name": "AMOXICILLIN (AMOXICILLIN TRIHYDRATE)",
+      "strength": "100",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "NORBROOK LABORATORIES LTD."
+  ],
+  "status": "APPROVED",
+  "atc": []
+}

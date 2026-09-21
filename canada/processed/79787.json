@@ -1,0 +1,26 @@
+{
+  "drug_code": "79787",
+  "din": "02312379",
+  "brand_name": "DECCOX-M",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "27-SEP-2016",
+  "active_ingredients": [
+    {
+      "name": "DECOQUINATE",
+      "strength": "8",
+      "unit": "G"
+    }
+  ],
+  "forms": [
+    "DRUG PREMIX"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "ZOETIS CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": []
+}

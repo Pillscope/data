@@ -1,0 +1,43 @@
+{
+  "drug_code": "92450",
+  "din": "02440113",
+  "brand_name": "SUNSCREEN LOTION WITH HYDRATING RIBBONS SPF/FPS 30",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "28-JAN-2016",
+  "active_ingredients": [
+    {
+      "name": "AVOBENZONE",
+      "strength": "2",
+      "unit": "%"
+    },
+    {
+      "name": "OCTOCRYLENE",
+      "strength": "4",
+      "unit": "%"
+    },
+    {
+      "name": "OCTISALATE",
+      "strength": "4.5",
+      "unit": "%"
+    },
+    {
+      "name": "HOMOSALATE",
+      "strength": "5.5",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "LOTION"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "EDGEWELL PERSONAL CARE CANADA, ULC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "COMBINATIONS OF PROTECTIVES AGAINST UV-RADIATION"
+  ]
+}

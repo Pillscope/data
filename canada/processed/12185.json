@@ -1,0 +1,28 @@
+{
+  "drug_code": "12185",
+  "din": "01924303",
+  "brand_name": "0.9% SODIUM CHLORIDE INJECTION USP",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "29-APR-2015",
+  "active_ingredients": [
+    {
+      "name": "SODIUM CHLORIDE",
+      "strength": "0.9",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "B. BRAUN MEDICAL INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "SODIUM CHLORIDE"
+  ]
+}

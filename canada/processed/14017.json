@@ -1,0 +1,28 @@
+{
+  "drug_code": "14017",
+  "din": "01997572",
+  "brand_name": "DANTRIUM INTRAVENOUS",
+  "class": "Human",
+  "descriptor": "PWS 20MG/VIAL",
+  "last_update": "26-APR-2018",
+  "active_ingredients": [
+    {
+      "name": "DANTROLENE SODIUM",
+      "strength": "20",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "POWDER FOR SOLUTION"
+  ],
+  "routes": [
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "ENDO PAR INNOVATON COMPANY, LLC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "DANTROLENE"
+  ]
+}

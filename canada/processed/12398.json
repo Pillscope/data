@@ -1,0 +1,28 @@
+{
+  "drug_code": "12398",
+  "din": "01946390",
+  "brand_name": "PRESEPT DISINFECTANT TABLETS 2.5G",
+  "class": "Disinfectant",
+  "descriptor": "",
+  "last_update": "11-SEP-2013",
+  "active_ingredients": [
+    {
+      "name": "SODIUM DICHLOROISOCYANURATE",
+      "strength": "2.5",
+      "unit": "G"
+    }
+  ],
+  "forms": [
+    "TABLET (EFFERVESCENT)"
+  ],
+  "routes": [
+    "DISINFECTANT (Hospital/HC Facilities)"
+  ],
+  "companies": [
+    "JOHNSON & JOHNSON MEDICAL PRODUCTS"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "TECHNICAL DISINFECTANTS"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "drug_code": "74607",
+  "din": "02260638",
+  "brand_name": "EBIXA",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "28-DEC-2006",
+  "active_ingredients": [
+    {
+      "name": "MEMANTINE HYDROCHLORIDE",
+      "strength": "10",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "LUNDBECK CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "MEMANTINE"
+  ]
+}

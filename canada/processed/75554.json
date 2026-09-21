@@ -1,0 +1,34 @@
+{
+  "drug_code": "75554",
+  "din": "02270137",
+  "brand_name": "ULTRASAN 10 % SOLUTION",
+  "class": "Disinfectant",
+  "descriptor": "",
+  "last_update": "07-JUL-2017",
+  "active_ingredients": [
+    {
+      "name": "BENZALKONIUM CHLORIDE",
+      "strength": "5.0",
+      "unit": "%"
+    },
+    {
+      "name": "ALKYL DIMETHYL ETHYLBENZYL AMMONIUM CHLORIDE",
+      "strength": "5.0",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "DISINFECTANT (Food Premises)",
+    "DISINFECTANT (Hospital/HC Facilities)"
+  ],
+  "companies": [
+    "SOUTHPOINT MAINTENANCE SOLUTIONS - DIVISION OF D. WARKENTIN DISTRIBUTING"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "TECHNICAL DISINFECTANTS"
+  ]
+}

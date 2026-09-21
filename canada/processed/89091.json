@@ -1,0 +1,33 @@
+{
+  "drug_code": "89091",
+  "din": "02406187",
+  "brand_name": "PMS-DOXYLAMINE-PYRIDOXINE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "12-JUL-2017",
+  "active_ingredients": [
+    {
+      "name": "PYRIDOXINE HYDROCHLORIDE",
+      "strength": "10",
+      "unit": "MG"
+    },
+    {
+      "name": "DOXYLAMINE SUCCINATE",
+      "strength": "10",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET (DELAYED-RELEASE)"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "PHARMASCIENCE INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "DOXYLAMINE, COMBINATIONS"
+  ]
+}

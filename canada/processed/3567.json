@@ -1,0 +1,61 @@
+{
+  "drug_code": "3567",
+  "din": "00488658",
+  "brand_name": "BELLS CATTLE CATHARTIC",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "14-MAR-2006",
+  "active_ingredients": [
+    {
+      "name": "GINGER",
+      "strength": "1.26",
+      "unit": "%"
+    },
+    {
+      "name": "GAMBOGE",
+      "strength": ".42",
+      "unit": "%"
+    },
+    {
+      "name": "ANISE",
+      "strength": ".84",
+      "unit": "%"
+    },
+    {
+      "name": "SODIUM BICARBONATE",
+      "strength": "1.69",
+      "unit": "%"
+    },
+    {
+      "name": "NUX VOMICA",
+      "strength": "1.26",
+      "unit": "%"
+    },
+    {
+      "name": "MAGNESIUM SULFATE",
+      "strength": "83.96",
+      "unit": "%"
+    },
+    {
+      "name": "SULFUR",
+      "strength": "2.92",
+      "unit": "%"
+    },
+    {
+      "name": "ALOE",
+      "strength": "7.54",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "POWDER"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "DOMINION VETERINARY LABORATORIES LTD."
+  ],
+  "status": "MARKETED",
+  "atc": []
+}

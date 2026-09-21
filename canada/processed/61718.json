@@ -1,0 +1,28 @@
+{
+  "drug_code": "61718",
+  "din": "02238316",
+  "brand_name": "ATENOLOL",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "07-NOV-2012",
+  "active_ingredients": [
+    {
+      "name": "ATENOLOL",
+      "strength": "50",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "SIVEM PHARMACEUTICALS ULC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "ATENOLOL"
+  ]
+}

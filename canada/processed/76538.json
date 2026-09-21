@@ -1,0 +1,26 @@
+{
+  "drug_code": "76538",
+  "din": "02279797",
+  "brand_name": "FUCITHALMIC VET EYE GEL",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "21-JUL-2017",
+  "active_ingredients": [
+    {
+      "name": "FUSIDIC ACID",
+      "strength": "10",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "GEL"
+  ],
+  "routes": [
+    "OPHTHALMIC"
+  ],
+  "companies": [
+    "AVENTIX ANIMAL HEALTH CORP"
+  ],
+  "status": "APPROVED",
+  "atc": []
+}

@@ -1,0 +1,28 @@
+{
+  "drug_code": "72981",
+  "din": "02248624",
+  "brand_name": "FASLODEX",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "04-OCT-2006",
+  "active_ingredients": [
+    {
+      "name": "FULVESTRANT",
+      "strength": "50",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "INTRAMUSCULAR"
+  ],
+  "companies": [
+    "ASTRAZENECA CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "FULVESTRANT"
+  ]
+}

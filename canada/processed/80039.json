@@ -1,0 +1,30 @@
+{
+  "drug_code": "80039",
+  "din": "02314851",
+  "brand_name": "PCS 1000 OXIDIZING DISINFECTANT/DISINFECTANT CLEANER",
+  "class": "Disinfectant",
+  "descriptor": "",
+  "last_update": "15-SEP-2015",
+  "active_ingredients": [
+    {
+      "name": "SODIUM HYPOCHLORITE",
+      "strength": "0.1",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "LIQUID"
+  ],
+  "routes": [
+    "DISINFECTANT (Hospital/HC Facilities)",
+    "DISINFECTANT (Domestic)",
+    "DISINFECTANT (Institutional/Industrial)"
+  ],
+  "companies": [
+    "PROCESS CLEANING SOLUTIONS LTD"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "TECHNICAL DISINFECTANTS"
+  ]
+}

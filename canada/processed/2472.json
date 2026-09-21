@@ -1,0 +1,28 @@
+{
+  "drug_code": "2472",
+  "din": "00362166",
+  "brand_name": "APO FUROSEMIDE TAB 40MG",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "02-MAR-2010",
+  "active_ingredients": [
+    {
+      "name": "FUROSEMIDE",
+      "strength": "40",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "APOTEX INC"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "FUROSEMIDE"
+  ]
+}

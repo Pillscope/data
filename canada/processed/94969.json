@@ -1,0 +1,39 @@
+{
+  "drug_code": "94969",
+  "din": "02461935",
+  "brand_name": "SPECTRAGEN",
+  "class": "Disinfectant",
+  "descriptor": "",
+  "last_update": "19-JUN-2017",
+  "active_ingredients": [
+    {
+      "name": "DIDECYL DIMETHYL AMMONIUM CHLORIDE",
+      "strength": "6.63",
+      "unit": "%"
+    },
+    {
+      "name": "GLUTARAL",
+      "strength": "16.11",
+      "unit": "%"
+    },
+    {
+      "name": "BENZALKONIUM CHLORIDE",
+      "strength": "18.96",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "DISINFECTANT (Food Premises)",
+    "DISINFECTANT (Institutional/Industrial)"
+  ],
+  "companies": [
+    "SYNTHESE ELEVAGE"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "TECHNICAL DISINFECTANTS"
+  ]
+}

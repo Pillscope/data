@@ -1,0 +1,28 @@
+{
+  "drug_code": "82835",
+  "din": "02342855",
+  "brand_name": "VANCOMYCIN HYDROCHLORIDE FOR INJECTION USP",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "31-JAN-2018",
+  "active_ingredients": [
+    {
+      "name": "VANCOMYCIN (VANCOMYCIN HYDROCHLORIDE)",
+      "strength": "500",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "POWDER FOR SOLUTION"
+  ],
+  "routes": [
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "STERIMAX INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "VANCOMYCIN"
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "drug_code": "10488",
+  "din": "00755575",
+  "brand_name": "MODECATE CONCENTRATE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "05-MAY-2015",
+  "active_ingredients": [
+    {
+      "name": "FLUPHENAZINE DECANOATE",
+      "strength": "100",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "LIQUID"
+  ],
+  "routes": [
+    "INTRAMUSCULAR",
+    "SUBCUTANEOUS"
+  ],
+  "companies": [
+    "BRISTOL-MYERS SQUIBB CANADA"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "FLUPHENAZINE"
+  ]
+}

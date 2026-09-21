@@ -1,0 +1,39 @@
+{
+  "drug_code": "14101",
+  "din": "01948873",
+  "brand_name": "PHARMALGEN MIXED VESPID VENOM PROTEIN",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "20-FEB-2009",
+  "active_ingredients": [
+    {
+      "name": "WHITE FACED HORNET VENOM PROTEIN",
+      "strength": "1.1",
+      "unit": "MG"
+    },
+    {
+      "name": "YELLOW HORNET VENOM PROTEIN",
+      "strength": "1.1",
+      "unit": "MG"
+    },
+    {
+      "name": "YELLOW JACKET VENOM PROTEIN",
+      "strength": "1.1",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "POWDER FOR SOLUTION"
+  ],
+  "routes": [
+    "INTRADERMAL",
+    "SUBCUTANEOUS"
+  ],
+  "companies": [
+    "ALK - ABELLO A/S"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "INSECTS"
+  ]
+}

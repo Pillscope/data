@@ -1,0 +1,28 @@
+{
+  "drug_code": "90723",
+  "din": "02422549",
+  "brand_name": "EZETIMIBE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "30-APR-2018",
+  "active_ingredients": [
+    {
+      "name": "EZETIMIBE",
+      "strength": "10",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "PRO DOC LIMITEE"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "EZETIMIBE"
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "drug_code": "89550",
+  "din": "02410869",
+  "brand_name": "PERFECTING MAKEUP BROAD SPECTRUM SPF 25",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "16-JAN-2015",
+  "active_ingredients": [
+    {
+      "name": "TITANIUM DIOXIDE",
+      "strength": "7.1",
+      "unit": "%"
+    },
+    {
+      "name": "OCTINOXATE",
+      "strength": "7.5",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "EMULSION"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "MERLE NORMAN COSMETICS INC"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "COMBINATIONS OF PROTECTIVES AGAINST UV-RADIATION"
+  ]
+}

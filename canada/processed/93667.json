@@ -1,0 +1,28 @@
+{
+  "drug_code": "93667",
+  "din": "02450518",
+  "brand_name": "CLEAR CARE PLUS CLEANING AND DISINFECTING SOLUTION",
+  "class": "Disinfectant",
+  "descriptor": "",
+  "last_update": "23-AUG-2016",
+  "active_ingredients": [
+    {
+      "name": "HYDROGEN PEROXIDE",
+      "strength": "3",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "DISINFECTANT (Contact Lens)"
+  ],
+  "companies": [
+    "ALCON CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "ARTIFICIAL TEARS AND OTHER INDIFFERENT PREPARATIONS."
+  ]
+}

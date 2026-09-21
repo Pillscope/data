@@ -1,0 +1,28 @@
+{
+  "drug_code": "18484",
+  "din": "02065681",
+  "brand_name": "INTRALIPID 10%",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "26-AUG-2015",
+  "active_ingredients": [
+    {
+      "name": "SOYBEAN OIL",
+      "strength": "10",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "EMULSION"
+  ],
+  "routes": [
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "FRESENIUS KABI CANADA LTD"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "FAT EMULSIONS"
+  ]
+}

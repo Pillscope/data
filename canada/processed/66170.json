@@ -1,0 +1,31 @@
+{
+  "drug_code": "66170",
+  "din": "02242451",
+  "brand_name": "ONGUENT NOIR/BLACK OINTMENT",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "02-NOV-2017",
+  "active_ingredients": [
+    {
+      "name": "IODINE",
+      "strength": "2.55",
+      "unit": "%"
+    },
+    {
+      "name": "METHYL SALICYLATE",
+      "strength": "6",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "OINTMENT"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "MAX PHARMA CANADA INC."
+  ],
+  "status": "APPROVED",
+  "atc": []
+}

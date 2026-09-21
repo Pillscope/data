@@ -1,0 +1,28 @@
+{
+  "drug_code": "43440",
+  "din": "02225980",
+  "brand_name": "APO-FENOFIBRATE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "30-SEP-2010",
+  "active_ingredients": [
+    {
+      "name": "FENOFIBRATE",
+      "strength": "100",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "CAPSULE"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "APOTEX INC"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "FENOFIBRATE"
+  ]
+}

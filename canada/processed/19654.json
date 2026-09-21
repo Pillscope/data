@@ -1,0 +1,28 @@
+{
+  "drug_code": "19654",
+  "din": "02139227",
+  "brand_name": "PERCORTEN-V. INJECTABLE",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "19-MAR-2018",
+  "active_ingredients": [
+    {
+      "name": "Desoxycortone pivalate",
+      "strength": "25",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SUSPENSION"
+  ],
+  "routes": [
+    "INTRAMUSCULAR"
+  ],
+  "companies": [
+    "ELANCO CANADA LIMITED"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "DESOXYCORTONE"
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "drug_code": "80347",
+  "din": "02317966",
+  "brand_name": "PURG-ODAN",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "18-JUL-2012",
+  "active_ingredients": [
+    {
+      "name": "MAGNESIUM OXIDE",
+      "strength": "3.5",
+      "unit": "G"
+    },
+    {
+      "name": "SODIUM PICOSULFATE",
+      "strength": "10",
+      "unit": "MG"
+    },
+    {
+      "name": "CITRIC ACID",
+      "strength": "12",
+      "unit": "G"
+    }
+  ],
+  "forms": [
+    "POWDER FOR SOLUTION"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "ODAN LABORATORIES LTD"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "SODIUM PICOSULFATE, COMBINATIONS"
+  ]
+}

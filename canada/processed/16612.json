@@ -1,0 +1,28 @@
+{
+  "drug_code": "16612",
+  "din": "02126605",
+  "brand_name": "MONISTAT 3 VAGINAL OVULES",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "27-DEC-2012",
+  "active_ingredients": [
+    {
+      "name": "MICONAZOLE NITRATE",
+      "strength": "400",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "OVULE"
+  ],
+  "routes": [
+    "VAGINAL"
+  ],
+  "companies": [
+    "INSIGHT PHARMACEUTICALS LLC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "MICONAZOLE"
+  ]
+}

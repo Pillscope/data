@@ -1,0 +1,28 @@
+{
+  "drug_code": "19899",
+  "din": "02079992",
+  "brand_name": "OPTIRAY 350 (ULTRAJECT)",
+  "class": "Human",
+  "descriptor": "PREFILLED SYRINGES",
+  "last_update": "14-MAY-2015",
+  "active_ingredients": [
+    {
+      "name": "IOVERSOL",
+      "strength": "74",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "INTRAVASCULAR"
+  ],
+  "companies": [
+    "LIEBEL-FLARSHEIM CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "IOVERSOL"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "drug_code": "44197",
+  "din": "02173336",
+  "brand_name": "AMIGLYDE-V",
+  "class": "Veterinary",
+  "descriptor": "AMIKACIN SULFATE INJECTION",
+  "last_update": "28-NOV-2017",
+  "active_ingredients": [
+    {
+      "name": "AMIKACIN (AMIKACIN SULFATE)",
+      "strength": "250",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "INTRAUTERINE"
+  ],
+  "companies": [
+    "ZOETIS CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": []
+}

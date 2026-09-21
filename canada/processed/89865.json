@@ -1,0 +1,48 @@
+{
+  "drug_code": "89865",
+  "din": "02414015",
+  "brand_name": "SPRAY SOLAIRE TRANSPARENT",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "21-MAY-2014",
+  "active_ingredients": [
+    {
+      "name": "AVOBENZONE",
+      "strength": "5",
+      "unit": "%"
+    },
+    {
+      "name": "OCTOCRYLENE",
+      "strength": "7",
+      "unit": "%"
+    },
+    {
+      "name": "OCTISALATE",
+      "strength": "5",
+      "unit": "%"
+    },
+    {
+      "name": "HOMOSALATE",
+      "strength": "13",
+      "unit": "%"
+    },
+    {
+      "name": "DROMETRIZOLE TRISILOXANE",
+      "strength": "1",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "SPRAY"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "BIOTHERM CANADA"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "COMBINATIONS OF PROTECTIVES AGAINST UV-RADIATION"
+  ]
+}

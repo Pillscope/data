@@ -1,0 +1,28 @@
+{
+  "drug_code": "91887",
+  "din": "02434547",
+  "brand_name": "MYLAN-CINACALCET",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "25-JAN-2017",
+  "active_ingredients": [
+    {
+      "name": "CINACALCET (CINACALCET HYDROCHLORIDE)",
+      "strength": "60",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "MYLAN PHARMACEUTICALS ULC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "CINACALCET"
+  ]
+}

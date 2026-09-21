@@ -1,0 +1,39 @@
+{
+  "drug_code": "69733",
+  "din": "02245634",
+  "brand_name": "PROFILM FUMIGANT CONCENTRATE SOLUTION",
+  "class": "Disinfectant",
+  "descriptor": "",
+  "last_update": "01-JUN-2012",
+  "active_ingredients": [
+    {
+      "name": "FORMALDEHYDE",
+      "strength": "2.28",
+      "unit": "%"
+    },
+    {
+      "name": "TRIS HYDROXYMETHYL NITROMETHANE",
+      "strength": "19.56",
+      "unit": "%"
+    },
+    {
+      "name": "BENZALKONIUM CHLORIDE",
+      "strength": "3.09",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "DISINFECTANT (Barn)",
+    "DISINFECTANT (Domestic)"
+  ],
+  "companies": [
+    "HACCO, INC."
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "TECHNICAL DISINFECTANTS"
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "drug_code": "82263",
+  "din": "02337029",
+  "brand_name": "FIRMAGON",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "13-JUL-2016",
+  "active_ingredients": [
+    {
+      "name": "DEGARELIX (DEGARELIX ACETATE)",
+      "strength": "80",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "POWDER FOR SOLUTION"
+  ],
+  "routes": [
+    "SUBCUTANEOUS"
+  ],
+  "companies": [
+    "FERRING INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "DEGARELIX",
+    "DEGARELIX"
+  ]
+}

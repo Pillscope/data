@@ -1,0 +1,28 @@
+{
+  "drug_code": "88492",
+  "din": "02400081",
+  "brand_name": "CLOXACILLIN FOR INJECTION",
+  "class": "Human",
+  "descriptor": "FOR IV INFUSION ONLY",
+  "last_update": "03-MAY-2013",
+  "active_ingredients": [
+    {
+      "name": "CLOXACILLIN (CLOXACILLIN SODIUM)",
+      "strength": "10",
+      "unit": "G"
+    }
+  ],
+  "forms": [
+    "POWDER FOR SOLUTION"
+  ],
+  "routes": [
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "STERIMAX INC"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "CLOXACILLIN"
+  ]
+}

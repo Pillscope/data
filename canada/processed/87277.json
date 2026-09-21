@@ -1,0 +1,48 @@
+{
+  "drug_code": "87277",
+  "din": "02387190",
+  "brand_name": "BEACH DEFENSE SPF 30",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "26-FEB-2013",
+  "active_ingredients": [
+    {
+      "name": "AVOBENZONE",
+      "strength": "2.7",
+      "unit": "%"
+    },
+    {
+      "name": "OCTOCRYLENE",
+      "strength": "3.5",
+      "unit": "%"
+    },
+    {
+      "name": "OXYBENZONE",
+      "strength": "4",
+      "unit": "%"
+    },
+    {
+      "name": "OCTISALATE",
+      "strength": "5",
+      "unit": "%"
+    },
+    {
+      "name": "HOMOSALATE",
+      "strength": "8",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "LOTION"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "JOHNSON & JOHNSON INC"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "COMBINATIONS OF PROTECTIVES AGAINST UV-RADIATION"
+  ]
+}

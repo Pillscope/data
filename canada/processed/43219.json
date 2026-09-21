@@ -1,0 +1,29 @@
+{
+  "drug_code": "43219",
+  "din": "02217465",
+  "brand_name": "STANDARDIZED CAT PELT AP",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "09-OCT-2012",
+  "active_ingredients": [
+    {
+      "name": "STANDARDIZED CAT PELT ACETONE PRECIPITATED",
+      "strength": "10000",
+      "unit": "UNIT"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "INTRADERMAL",
+    "SUBCUTANEOUS"
+  ],
+  "companies": [
+    "JUBILANT HOLLISTERSTIER LLC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "ANIMALS"
+  ]
+}

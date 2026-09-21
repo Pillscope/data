@@ -1,0 +1,28 @@
+{
+  "drug_code": "75427",
+  "din": "02268884",
+  "brand_name": "CREST PRO-HEALTH MULTI PROTECTION",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "29-OCT-2013",
+  "active_ingredients": [
+    {
+      "name": "CETYLPYRIDINIUM CHLORIDE",
+      "strength": "0.07",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "MOUTHWASH/GARGLE"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "PROCTER & GAMBLE INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "CETYLPYRIDINIUM"
+  ]
+}

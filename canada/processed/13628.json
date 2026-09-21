@@ -1,0 +1,33 @@
+{
+  "drug_code": "13628",
+  "din": "02011956",
+  "brand_name": "POLYTRIM OPHTHALMIC SOLUTION",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "08-JUN-2006",
+  "active_ingredients": [
+    {
+      "name": "POLYMYXIN B (POLYMYXIN B SULFATE)",
+      "strength": "10000",
+      "unit": "UNIT"
+    },
+    {
+      "name": "TRIMETHOPRIM (TRIMETHOPRIM SULFATE)",
+      "strength": "1",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "OPHTHALMIC"
+  ],
+  "companies": [
+    "ALLERGAN INC"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "COMBINATIONS OF DIFFERENT ANTIBIOTICS"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "drug_code": "80046",
+  "din": "02314932",
+  "brand_name": "LEVOFLOXACIN IN 5% DEXTROSE INJECTION",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "01-SEP-2017",
+  "active_ingredients": [
+    {
+      "name": "LEVOFLOXACIN",
+      "strength": "5",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "PFIZER CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "LEVOFLOXACIN"
+  ]
+}

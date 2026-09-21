@@ -1,0 +1,26 @@
+{
+  "drug_code": "5880",
+  "din": "00613908",
+  "brand_name": "CAMPHOR INJ 200MG/ML",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "12-APR-1999",
+  "active_ingredients": [
+    {
+      "name": "CAMPHOR",
+      "strength": "200",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "LIQUID"
+  ],
+  "routes": [
+    "INTRAMUSCULAR"
+  ],
+  "companies": [
+    "UNIVET PHARMACEUTICALS LTD."
+  ],
+  "status": "MARKETED",
+  "atc": []
+}

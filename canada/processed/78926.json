@@ -1,0 +1,28 @@
+{
+  "drug_code": "78926",
+  "din": "02303949",
+  "brand_name": "PMS-ESCITALOPRAM",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "15-OCT-2014",
+  "active_ingredients": [
+    {
+      "name": "ESCITALOPRAM (ESCITALOPRAM OXALATE)",
+      "strength": "10",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "PHARMASCIENCE INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "ESCITALOPRAM"
+  ]
+}

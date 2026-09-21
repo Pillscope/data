@@ -1,0 +1,28 @@
+{
+  "drug_code": "91352",
+  "din": "02429063",
+  "brand_name": "VISTITAN",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "15-JUN-2016",
+  "active_ingredients": [
+    {
+      "name": "BIMATOPROST",
+      "strength": "0.03",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "OPHTHALMIC"
+  ],
+  "companies": [
+    "SANDOZ CANADA INCORPORATED"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "BIMATOPROST"
+  ]
+}

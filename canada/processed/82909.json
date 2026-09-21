@@ -1,0 +1,28 @@
+{
+  "drug_code": "82909",
+  "din": "02343657",
+  "brand_name": "TEVA-LETROZOLE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "03-SEP-2014",
+  "active_ingredients": [
+    {
+      "name": "LETROZOLE",
+      "strength": "2.5",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "TEVA CANADA LIMITED"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "LETROZOLE"
+  ]
+}

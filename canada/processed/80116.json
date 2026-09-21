@@ -1,0 +1,28 @@
+{
+  "drug_code": "80116",
+  "din": "02315637",
+  "brand_name": "ENRICHED FOAM ALCOHOL-FREE HAND SANITIZER",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "29-APR-2015",
+  "active_ingredients": [
+    {
+      "name": "BENZALKONIUM CHLORIDE",
+      "strength": "0.1",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "LIQUID"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "RUBBERMAID COMMERCIAL PRODUCTS LLC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "BENZALKONIUM"
+  ]
+}

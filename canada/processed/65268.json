@@ -1,0 +1,26 @@
+{
+  "drug_code": "65268",
+  "din": "02241611",
+  "brand_name": "CHX ORAL CLEANSING SOLUTION/CHLORHEXIDENE GLUCONATE 0.12% W/W",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "26-AUG-2010",
+  "active_ingredients": [
+    {
+      "name": "CHLORHEXIDINE GLUCONATE",
+      "strength": "0.12",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "LIQUID"
+  ],
+  "routes": [
+    "DENTAL"
+  ],
+  "companies": [
+    "VIRBAC AH INC"
+  ],
+  "status": "MARKETED",
+  "atc": []
+}

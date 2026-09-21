@@ -1,0 +1,28 @@
+{
+  "drug_code": "2447",
+  "din": "00337749",
+  "brand_name": "TEVA-FUROSEMIDE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "24-OCT-2017",
+  "active_ingredients": [
+    {
+      "name": "FUROSEMIDE",
+      "strength": "40",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "TEVA CANADA LIMITED"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "FUROSEMIDE"
+  ]
+}

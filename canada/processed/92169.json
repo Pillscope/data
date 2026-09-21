@@ -1,0 +1,28 @@
+{
+  "drug_code": "92169",
+  "din": "02437341",
+  "brand_name": "ICLUSIG",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "10-FEB-2016",
+  "active_ingredients": [
+    {
+      "name": "Ponatinib (Ponatinib Hydrochloride)",
+      "strength": "45",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "ARIAD PHARMACEUTICALS INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "PONATINIB"
+  ]
+}

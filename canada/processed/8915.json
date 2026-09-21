@@ -1,0 +1,28 @@
+{
+  "drug_code": "8915",
+  "din": "00778338",
+  "brand_name": "AXID",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "03-DEC-2013",
+  "active_ingredients": [
+    {
+      "name": "NIZATIDINE",
+      "strength": "150",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "CAPSULE"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "PENDOPHARM DIVISION OF DE PHARMASCIENCE INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "NIZATIDINE"
+  ]
+}

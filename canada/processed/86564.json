@@ -1,0 +1,28 @@
+{
+  "drug_code": "86564",
+  "din": "02379775",
+  "brand_name": "SEPTA-METFORMIN",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "30-MAY-2016",
+  "active_ingredients": [
+    {
+      "name": "METFORMIN HYDROCHLORIDE",
+      "strength": "850",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "SEPTA PHARMACEUTICALS INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "METFORMIN"
+  ]
+}

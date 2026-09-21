@@ -1,0 +1,28 @@
+{
+  "drug_code": "68278",
+  "din": "02244310",
+  "brand_name": "RENAGEL",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "19-FEB-2015",
+  "active_ingredients": [
+    {
+      "name": "SEVELAMER HYDROCHLORIDE",
+      "strength": "800",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "SANOFI-AVENTIS CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "SEVELAMER"
+  ]
+}

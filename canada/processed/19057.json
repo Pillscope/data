@@ -1,0 +1,28 @@
+{
+  "drug_code": "19057",
+  "din": "02177153",
+  "brand_name": "APO-BROMAZEPAM - TAB 1.5MG",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "06-MAY-2008",
+  "active_ingredients": [
+    {
+      "name": "BROMAZEPAM",
+      "strength": "1.5",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "APOTEX INC"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "BROMAZEPAM"
+  ]
+}

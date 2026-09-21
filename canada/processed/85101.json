@@ -1,0 +1,28 @@
+{
+  "drug_code": "85101",
+  "din": "02366150",
+  "brand_name": "GELNIQUE",
+  "class": "Human",
+  "descriptor": "FOR TOPICAL USE ONLY.  1G UNIT DOSE OF 100MG/G PER SACHET. 30 SACHETS.",
+  "last_update": "28-JUL-2017",
+  "active_ingredients": [
+    {
+      "name": "OXYBUTYNIN CHLORIDE",
+      "strength": "10",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "GEL"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "ALLERGAN PHARMA CO."
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "OXYBUTYNIN"
+  ]
+}

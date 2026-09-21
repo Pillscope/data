@@ -1,0 +1,28 @@
+{
+  "drug_code": "13630",
+  "din": "00885975",
+  "brand_name": "VIVOTIF",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "17-DEC-2015",
+  "active_ingredients": [
+    {
+      "name": "TYPHOID VACCINE (SALMONELLA TYPHI TY21A)",
+      "strength": "10",
+      "unit": "B"
+    }
+  ],
+  "forms": [
+    "CAPSULE (ENTERIC-COATED)"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "PAXVAX BERNA GMBH"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "TYPHOID, ORAL, LIVE ATTENUATED"
+  ]
+}

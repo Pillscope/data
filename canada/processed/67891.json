@@ -1,0 +1,28 @@
+{
+  "drug_code": "67891",
+  "din": "02243948",
+  "brand_name": "PUREGON",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "07-AUG-2012",
+  "active_ingredients": [
+    {
+      "name": "FOLLITROPIN BETA",
+      "strength": "833",
+      "unit": "UNIT"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "SUBCUTANEOUS"
+  ],
+  "companies": [
+    "MERCK CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "FOLLITROPIN BETA"
+  ]
+}

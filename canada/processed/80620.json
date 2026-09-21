@@ -1,0 +1,28 @@
+{
+  "drug_code": "80620",
+  "din": "02320797",
+  "brand_name": "WHITE PETROLEUM JELLY ULTRA MOISTURIZER",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "16-OCT-2009",
+  "active_ingredients": [
+    {
+      "name": "WHITE PETROLATUM",
+      "strength": "100",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "OINTMENT"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "BELVEDERE INTERNATIONAL INC."
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "SOFT PARAFFIN AND FAT PRODUCTS"
+  ]
+}

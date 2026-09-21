@@ -1,0 +1,28 @@
+{
+  "drug_code": "43011",
+  "din": "02206021",
+  "brand_name": "IMMUNINE VH",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "23-APR-2018",
+  "active_ingredients": [
+    {
+      "name": "COAGULATION FACTOR IX (HUMAN)",
+      "strength": "720",
+      "unit": "UNIT"
+    }
+  ],
+  "forms": [
+    "POWDER FOR SOLUTION"
+  ],
+  "routes": [
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "SHIRE PHARMA CANADA ULC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "COAGULATION FACTOR IX"
+  ]
+}

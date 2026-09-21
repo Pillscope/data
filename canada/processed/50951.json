@@ -1,0 +1,29 @@
+{
+  "drug_code": "50951",
+  "din": "02231585",
+  "brand_name": "EPREX STERILE SOLUTION 3000IU/0.3ML",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "11-FEB-2008",
+  "active_ingredients": [
+    {
+      "name": "EPOETIN ALFA",
+      "strength": "3000",
+      "unit": "UNIT"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "INTRAVENOUS",
+    "SUBCUTANEOUS"
+  ],
+  "companies": [
+    "JANSSEN INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "ERYTHROPOIETIN"
+  ]
+}

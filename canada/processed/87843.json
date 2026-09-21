@@ -1,0 +1,28 @@
+{
+  "drug_code": "87843",
+  "din": "02393190",
+  "brand_name": "VOLTAREN EMULGEL EXTRA STRENGTH",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "26-JAN-2016",
+  "active_ingredients": [
+    {
+      "name": "DICLOFENAC DIETHYLAMINE",
+      "strength": "2.32",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "GEL"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "GLAXOSMITHKLINE CONSUMER HEALTHCARE INC."
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "DICLOFENAC"
+  ]
+}

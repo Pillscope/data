@@ -1,0 +1,28 @@
+{
+  "drug_code": "94807",
+  "din": "02460645",
+  "brand_name": "BUPIVACAINE HYDROCHLORIDE IN DEXTROSE INJECTION USP",
+  "class": "Human",
+  "descriptor": "SINGLE-DOSE",
+  "last_update": "26-MAR-2018",
+  "active_ingredients": [
+    {
+      "name": "BUPIVACAINE HYDROCHLORIDE",
+      "strength": "7.5",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "INTRASPINAL"
+  ],
+  "companies": [
+    "STERIMAX INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "BUPIVACAINE"
+  ]
+}

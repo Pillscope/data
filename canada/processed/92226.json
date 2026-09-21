@@ -1,0 +1,28 @@
+{
+  "drug_code": "92226",
+  "din": "02437899",
+  "brand_name": "SAXENDA",
+  "class": "Human",
+  "descriptor": "3ML MULTIDOSE PREFILLED PEN. EACH PEN DELIVERS DOSES OF 0.6MG, 1.2MG, 1.8MG, 2.4MG AND 3MG",
+  "last_update": "30-JUN-2015",
+  "active_ingredients": [
+    {
+      "name": "LIRAGLUTIDE",
+      "strength": "6",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "SUBCUTANEOUS"
+  ],
+  "companies": [
+    "NOVO NORDISK CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "LIRAGLUTIDE"
+  ]
+}

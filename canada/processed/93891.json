@@ -1,0 +1,29 @@
+{
+  "drug_code": "93891",
+  "din": "02452537",
+  "brand_name": "COMPLETE GEL",
+  "class": "Disinfectant",
+  "descriptor": "",
+  "last_update": "16-JAN-2018",
+  "active_ingredients": [
+    {
+      "name": "SODIUM HYPOCHLORITE",
+      "strength": "3.65",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "GEL"
+  ],
+  "routes": [
+    "DISINFECTANT (Hospital/HC Facilities)",
+    "DISINFECTANT (Institutional/Industrial)"
+  ],
+  "companies": [
+    "WOOD WYANT INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "TECHNICAL DISINFECTANTS"
+  ]
+}

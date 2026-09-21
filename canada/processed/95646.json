@@ -1,0 +1,34 @@
+{
+  "drug_code": "95646",
+  "din": "02468085",
+  "brand_name": "SUBOXONE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "19-MAR-2018",
+  "active_ingredients": [
+    {
+      "name": "BUPRENORPHINE (BUPRENORPHINE HYDROCHLORIDE)",
+      "strength": "12",
+      "unit": "MG"
+    },
+    {
+      "name": "NALOXONE (NALOXONE HYDROCHLORIDE DIHYDRATE)",
+      "strength": "3",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "SUBLINGUAL"
+  ],
+  "companies": [
+    "INDIVIOR UK LIMITED"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "BUPRENORPHINE, COMBINATIONS",
+    "BUPRENORPHINE, COMBINATIONS"
+  ]
+}

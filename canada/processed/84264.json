@@ -1,0 +1,28 @@
+{
+  "drug_code": "84264",
+  "din": "02357534",
+  "brand_name": "TEVA-VALACYCLOVIR",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "02-JUN-2014",
+  "active_ingredients": [
+    {
+      "name": "VALACYCLOVIR (VALACYCLOVIR HYDROCHLORIDE)",
+      "strength": "500",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "TEVA CANADA LIMITED"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "VALACICLOVIR"
+  ]
+}

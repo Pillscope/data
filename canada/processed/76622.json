@@ -1,0 +1,28 @@
+{
+  "drug_code": "76622",
+  "din": "02280566",
+  "brand_name": "SILVER BULLET SUPPOSITORY",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "11-JAN-2008",
+  "active_ingredients": [
+    {
+      "name": "BISACODYL",
+      "strength": "10",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SUPPOSITORY"
+  ],
+  "routes": [
+    "RECTAL"
+  ],
+  "companies": [
+    "D & C MOBILITY SOLUTIONS INC."
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "BISACODYL"
+  ]
+}

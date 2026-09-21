@@ -1,0 +1,28 @@
+{
+  "drug_code": "87977",
+  "din": "02394634",
+  "brand_name": "VANCOMYCIN HYDROCHLORIDE FOR INJECTION, USP",
+  "class": "Human",
+  "descriptor": "SINGLE-DOSE VIAL. FOR IV INFUSION ONLY",
+  "last_update": "15-JUL-2014",
+  "active_ingredients": [
+    {
+      "name": "VANCOMYCIN (VANCOMYCIN HYDROCHLORIDE)",
+      "strength": "1",
+      "unit": "G"
+    }
+  ],
+  "forms": [
+    "POWDER FOR SOLUTION"
+  ],
+  "routes": [
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "SANDOZ CANADA INCORPORATED"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "VANCOMYCIN"
+  ]
+}

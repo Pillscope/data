@@ -1,0 +1,28 @@
+{
+  "drug_code": "81001",
+  "din": "02324563",
+  "brand_name": "SANDOZ RIVASTIGMINE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "22-NOV-2013",
+  "active_ingredients": [
+    {
+      "name": "RIVASTIGMINE (RIVASTIGMINE HYDROGEN TARTRATE)",
+      "strength": "1.5",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "CAPSULE"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "SANDOZ CANADA INCORPORATED"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "RIVASTIGMINE"
+  ]
+}

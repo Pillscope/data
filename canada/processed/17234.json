@@ -1,0 +1,28 @@
+{
+  "drug_code": "17234",
+  "din": "00839299",
+  "brand_name": "VERAPAMIL HYDROCHLORIDE INJECTION USP",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "08-SEP-2017",
+  "active_ingredients": [
+    {
+      "name": "VERAPAMIL HYDROCHLORIDE",
+      "strength": "2.5",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "PFIZER CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "VERAPAMIL"
+  ]
+}

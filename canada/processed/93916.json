@@ -1,0 +1,28 @@
+{
+  "drug_code": "93916",
+  "din": "02452766",
+  "brand_name": "APO-METHYLPHENIDATE ER",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "03-AUG-2016",
+  "active_ingredients": [
+    {
+      "name": "METHYLPHENIDATE HYDROCHLORIDE",
+      "strength": "36",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET (EXTENDED-RELEASE)"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "APOTEX INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "METHYLPHENIDATE"
+  ]
+}

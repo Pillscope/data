@@ -1,0 +1,28 @@
+{
+  "drug_code": "77774",
+  "din": "02292394",
+  "brand_name": "APO-PRAMIPEXOLE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "15-DEC-2008",
+  "active_ingredients": [
+    {
+      "name": "PRAMIPEXOLE DIHYDROCHLORIDE MONOHYDRATE",
+      "strength": "1.0",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "APOTEX INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "PRAMIPEXOLE"
+  ]
+}

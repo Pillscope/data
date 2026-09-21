@@ -1,0 +1,28 @@
+{
+  "drug_code": "50153",
+  "din": "02230877",
+  "brand_name": "SEREINE WETTING & SOAKING SOLUTION",
+  "class": "Disinfectant",
+  "descriptor": "",
+  "last_update": "12-JUN-2006",
+  "active_ingredients": [
+    {
+      "name": "BENZALKONIUM CHLORIDE",
+      "strength": "0.01",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "DISINFECTANT (Contact Lens)"
+  ],
+  "companies": [
+    "OPTIKEM INTERNATIONAL INC."
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "ARTIFICIAL TEARS AND OTHER INDIFFERENT PREPARATIONS."
+  ]
+}

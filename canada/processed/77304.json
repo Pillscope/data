@@ -1,0 +1,29 @@
+{
+  "drug_code": "77304",
+  "din": "02287633",
+  "brand_name": "CEFTRIAXONE SODIUM FOR INJECTION",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "05-MAY-2015",
+  "active_ingredients": [
+    {
+      "name": "CEFTRIAXONE (CEFTRIAXONE SODIUM)",
+      "strength": "1",
+      "unit": "G"
+    }
+  ],
+  "forms": [
+    "POWDER FOR SOLUTION"
+  ],
+  "routes": [
+    "INTRAMUSCULAR",
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "TEVA CANADA LIMITED"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "CEFTRIAXONE"
+  ]
+}

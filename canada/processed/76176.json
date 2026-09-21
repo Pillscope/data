@@ -1,0 +1,28 @@
+{
+  "drug_code": "76176",
+  "din": "02276097",
+  "brand_name": "STERILE WATER FOR INJECTION USP",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "30-APR-2015",
+  "active_ingredients": [
+    {
+      "name": "WATER",
+      "strength": "1",
+      "unit": "ML"
+    }
+  ],
+  "forms": [
+    "LIQUID"
+  ],
+  "routes": [
+    "INTRAVASCULAR"
+  ],
+  "companies": [
+    "MERCK CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "SOLVENTS AND DILUTING AGENTS,INCL IRRIGAT SOLUT"
+  ]
+}

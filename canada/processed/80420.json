@@ -1,0 +1,28 @@
+{
+  "drug_code": "80420",
+  "din": "02318725",
+  "brand_name": "ANTIBACTERIAL FOAMING HAND SOAP",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "12-DEC-2013",
+  "active_ingredients": [
+    {
+      "name": "BENZALKONIUM CHLORIDE",
+      "strength": "0.125",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "LIQUID"
+  ],
+  "routes": [
+    "TOPICAL (HOUSEHOLD)"
+  ],
+  "companies": [
+    "AVMOR LTD"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "BENZALKONIUM"
+  ]
+}

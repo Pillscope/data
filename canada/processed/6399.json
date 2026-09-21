@@ -1,0 +1,26 @@
+{
+  "drug_code": "6399",
+  "din": "00656852",
+  "brand_name": "EAROXIDE LIQ 6.5%",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "09-JUN-2017",
+  "active_ingredients": [
+    {
+      "name": "UREA HYDROGEN PEROXIDE",
+      "strength": "6.5",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "LIQUID"
+  ],
+  "routes": [
+    "OTIC"
+  ],
+  "companies": [
+    "TOMLYN PRODUCTS DIVISION OF VETOQUINOL USA INC."
+  ],
+  "status": "MARKETED",
+  "atc": []
+}

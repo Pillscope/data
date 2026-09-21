@@ -1,0 +1,28 @@
+{
+  "drug_code": "95685",
+  "din": "02468425",
+  "brand_name": "SHINGRIX",
+  "class": "Human",
+  "descriptor": "HERPES ZOSTER VACCINE (NON-LIVE RECOMBINANT, AS01B ADJUVANTED)",
+  "last_update": "27-APR-2018",
+  "active_ingredients": [
+    {
+      "name": "VARICELLA-ZOSTER VIRUS GLYCOPROTEIN E ANTIGEN",
+      "strength": "50",
+      "unit": "MCG"
+    }
+  ],
+  "forms": [
+    "SUSPENSION"
+  ],
+  "routes": [
+    "INTRAMUSCULAR"
+  ],
+  "companies": [
+    "GLAXOSMITHKLINE INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "VARICELLA ZOSTER VACCINES"
+  ]
+}

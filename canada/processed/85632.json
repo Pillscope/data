@@ -1,0 +1,28 @@
+{
+  "drug_code": "85632",
+  "din": "02371146",
+  "brand_name": "ARTHRITIS PAIN RELIEF",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "12-JAN-2018",
+  "active_ingredients": [
+    {
+      "name": "ACETAMINOPHEN",
+      "strength": "650.0",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET (EXTENDED-RELEASE)"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "VITA HEALTH PRODUCTS INC"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "ACETAMINOPHEN (PARACETAMOL)"
+  ]
+}

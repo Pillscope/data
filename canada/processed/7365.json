@@ -1,0 +1,28 @@
+{
+  "drug_code": "7365",
+  "din": "00703494",
+  "brand_name": "PMS-DOCUSATE SODIUM",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "10-MAY-2016",
+  "active_ingredients": [
+    {
+      "name": "DOCUSATE SODIUM",
+      "strength": "100",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "CAPSULE"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "PHARMASCIENCE INC"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "DOCUSATE SODIUM"
+  ]
+}

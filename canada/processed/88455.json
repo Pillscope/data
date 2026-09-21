@@ -1,0 +1,28 @@
+{
+  "drug_code": "88455",
+  "din": "02399695",
+  "brand_name": "HEAD & SHOULDERS SMOOTH & SILKY",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "23-JAN-2014",
+  "active_ingredients": [
+    {
+      "name": "PYRITHIONE ZINC",
+      "strength": "1",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "SHAMPOO"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "PROCTER & GAMBLE INC"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "PYRITHIONE ZINC"
+  ]
+}

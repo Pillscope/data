@@ -1,0 +1,38 @@
+{
+  "drug_code": "92799",
+  "din": "02443341",
+  "brand_name": "NO 7 MEN PROTECT & PERFECT INTENSE MOISTURISER SPF 15",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "19-JAN-2018",
+  "active_ingredients": [
+    {
+      "name": "AVOBENZONE",
+      "strength": "3",
+      "unit": "%"
+    },
+    {
+      "name": "OCTOCRYLENE",
+      "strength": "4",
+      "unit": "%"
+    },
+    {
+      "name": "OCTISALATE",
+      "strength": "3",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "SUSPENSION"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "THE BOOTS COMPANY PLC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "COMBINATIONS OF PROTECTIVES AGAINST UV-RADIATION"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "drug_code": "83734",
+  "din": "02352109",
+  "brand_name": "SELECTION DANDRUFF SHAMPOO 2 IN 1",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "14-JAN-2013",
+  "active_ingredients": [
+    {
+      "name": "PYRITHIONE ZINC",
+      "strength": "1",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "SHAMPOO"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "CANADIAN CUSTOM PACKAGING COMPANY"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "PYRITHIONE ZINC"
+  ]
+}

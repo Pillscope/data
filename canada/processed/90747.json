@@ -1,0 +1,28 @@
+{
+  "drug_code": "90747",
+  "din": "02422816",
+  "brand_name": "RIVA-LANSOPRAZOLE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "29-APR-2015",
+  "active_ingredients": [
+    {
+      "name": "LANSOPRAZOLE",
+      "strength": "30",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "CAPSULE (DELAYED RELEASE)"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "LABORATOIRE RIVA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "LANSOPRAZOLE"
+  ]
+}

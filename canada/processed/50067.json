@@ -1,0 +1,28 @@
+{
+  "drug_code": "50067",
+  "din": "02230803",
+  "brand_name": "PMS-METOPROLOL-L",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "07-APR-2006",
+  "active_ingredients": [
+    {
+      "name": "METOPROLOL TARTRATE",
+      "strength": "50",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "PHARMASCIENCE INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "METOPROLOL"
+  ]
+}

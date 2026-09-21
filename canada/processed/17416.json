@@ -1,0 +1,28 @@
+{
+  "drug_code": "17416",
+  "din": "02064480",
+  "brand_name": "SALAZOPYRIN TAB 500MG",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "25-JAN-2013",
+  "active_ingredients": [
+    {
+      "name": "SULFASALAZINE",
+      "strength": "500",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "PFIZER CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "SULFASALAZINE"
+  ]
+}

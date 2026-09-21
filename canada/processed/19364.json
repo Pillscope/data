@@ -1,0 +1,34 @@
+{
+  "drug_code": "19364",
+  "din": "00846635",
+  "brand_name": "ENOL PLUS GERMICIDAL DETERGENT LIQ",
+  "class": "Disinfectant",
+  "descriptor": "",
+  "last_update": "15-JUN-2006",
+  "active_ingredients": [
+    {
+      "name": "CLOROPHENE",
+      "strength": "3.15",
+      "unit": "%"
+    },
+    {
+      "name": "O-PHENYLPHENOL",
+      "strength": "5",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "LIQUID"
+  ],
+  "routes": [
+    "DISINFECTANT (Food Premises)",
+    "DISINFECTANT (Hospital/HC Facilities)"
+  ],
+  "companies": [
+    "DUSTBANE PRODUCTS LTD"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "TECHNICAL DISINFECTANTS"
+  ]
+}

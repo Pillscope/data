@@ -1,0 +1,28 @@
+{
+  "drug_code": "90495",
+  "din": "02420341",
+  "brand_name": "JUXTAPID",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "28-JUL-2014",
+  "active_ingredients": [
+    {
+      "name": "Lomitapide (Lomitapide Mesylate)",
+      "strength": "5",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "CAPSULE"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "AEGERION PHARMACEUTICALS CANADA LTD"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "Lomitapide"
+  ]
+}

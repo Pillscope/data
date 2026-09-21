@@ -1,0 +1,28 @@
+{
+  "drug_code": "31283",
+  "din": "02137186",
+  "brand_name": "SODIUM THIOSULFATE INJECTION USP",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "08-SEP-2017",
+  "active_ingredients": [
+    {
+      "name": "SODIUM THIOSULFATE",
+      "strength": "25",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "PFIZER CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "THIOSULPHATE"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "drug_code": "92746",
+  "din": "02442930",
+  "brand_name": "NIFEDIPINE ER",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "16-JUN-2016",
+  "active_ingredients": [
+    {
+      "name": "NIFEDIPINE",
+      "strength": "30",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET (EXTENDED-RELEASE)"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "SIVEM PHARMACEUTICALS ULC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "NIFEDIPINE"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "drug_code": "76019",
+  "din": "02274728",
+  "brand_name": "ENBREL",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "08-JUL-2009",
+  "active_ingredients": [
+    {
+      "name": "ETANERCEPT",
+      "strength": "50",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "SUBCUTANEOUS"
+  ],
+  "companies": [
+    "IMMUNEX CORPORATION"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "ETANERCEPT"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "drug_code": "48978",
+  "din": "02230246",
+  "brand_name": "PMS-AMOXICILLIN",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "30-NOV-2017",
+  "active_ingredients": [
+    {
+      "name": "AMOXICILLIN (AMOXICILLIN TRIHYDRATE)",
+      "strength": "250",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "POWDER FOR SUSPENSION"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "PHARMASCIENCE INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "AMOXICILLIN"
+  ]
+}

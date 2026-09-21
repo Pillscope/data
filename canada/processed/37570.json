@@ -1,0 +1,33 @@
+{
+  "drug_code": "37570",
+  "din": "02228564",
+  "brand_name": "GASTROGRAFIN - LIQ ORL",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "04-JUL-2007",
+  "active_ingredients": [
+    {
+      "name": "DIATRIZOATE MEGLUMINE",
+      "strength": "66",
+      "unit": "%"
+    },
+    {
+      "name": "DIATRIZOATE SODIUM",
+      "strength": "10",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "BRACCO IMAGING CANADA"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "DIATRIZOIC ACID"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "drug_code": "61088",
+  "din": "02237734",
+  "brand_name": "CLARITIN RAPID DISSOLVE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "25-AUG-2017",
+  "active_ingredients": [
+    {
+      "name": "LORATADINE",
+      "strength": "10",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET (ORALLY DISINTEGRATING)"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "BAYER INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "LORATADINE"
+  ]
+}

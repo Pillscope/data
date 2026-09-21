@@ -1,0 +1,28 @@
+{
+  "drug_code": "90094",
+  "din": "02416387",
+  "brand_name": "AURO-CLOPIDOGREL",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "02-MAY-2014",
+  "active_ingredients": [
+    {
+      "name": "CLOPIDOGREL (CLOPIDOGREL BISULFATE)",
+      "strength": "75",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "AURO PHARMA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "CLOPIDOGREL"
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "drug_code": "80328",
+  "din": "02317745",
+  "brand_name": "KIDS SUNSCREEN STICK \u00c3\u0089CRAN SOLAIRE EN B\u00c3\u0082TONNET POUR ENFANTS SPF FPS 50",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "28-JAN-2016",
+  "active_ingredients": [
+    {
+      "name": "AVOBENZONE",
+      "strength": "2",
+      "unit": "%"
+    },
+    {
+      "name": "OCTOCRYLENE",
+      "strength": "10",
+      "unit": "%"
+    },
+    {
+      "name": "OXYBENZONE",
+      "strength": "6",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "STICK"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "EDGEWELL PERSONAL CARE CANADA, ULC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "COMBINATIONS OF PROTECTIVES AGAINST UV-RADIATION"
+  ]
+}

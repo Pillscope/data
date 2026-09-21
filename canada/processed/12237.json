@@ -1,0 +1,28 @@
+{
+  "drug_code": "12237",
+  "din": "00723754",
+  "brand_name": "APRESOLINE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "22-OCT-2012",
+  "active_ingredients": [
+    {
+      "name": "HYDRALAZINE HYDROCHLORIDE",
+      "strength": "20",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "STERIMAX INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "HYDRALAZINE"
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "drug_code": "86367",
+  "din": "02377861",
+  "brand_name": "COLD STIX",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "28-JUL-2016",
+  "active_ingredients": [
+    {
+      "name": "PHENIRAMINE MALEATE",
+      "strength": "20",
+      "unit": "MG"
+    },
+    {
+      "name": "PHENYLEPHRINE HYDROCHLORIDE",
+      "strength": "10",
+      "unit": "MG"
+    },
+    {
+      "name": "ACETAMINOPHEN",
+      "strength": "325",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "POWDER FOR SOLUTION"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "LABORATOIRE RIVA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "ACETAMINOPHEN, COMB EXCL PSYCHOLEPTICS",
+    "ACETAMINOPHEN, COMB EXCL PSYCHOLEPTICS"
+  ]
+}

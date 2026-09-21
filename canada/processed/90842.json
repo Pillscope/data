@@ -1,0 +1,28 @@
+{
+  "drug_code": "90842",
+  "din": "02423723",
+  "brand_name": "RAGWITEK",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "14-NOV-2017",
+  "active_ingredients": [
+    {
+      "name": "STANDARDIZED SHORT RAGWEED POLLEN ALLERGENIC EXTRACT",
+      "strength": "12",
+      "unit": "UNIT"
+    }
+  ],
+  "forms": [
+    "TABLET (ORALLY DISINTEGRATING)"
+  ],
+  "routes": [
+    "SUBLINGUAL"
+  ],
+  "companies": [
+    "ALK - ABELLO A/S"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "GRASS POLLEN"
+  ]
+}

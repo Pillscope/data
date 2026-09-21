@@ -1,0 +1,28 @@
+{
+  "drug_code": "63128",
+  "din": "02239656",
+  "brand_name": "PROVOCHOLINE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "24-SEP-2008",
+  "active_ingredients": [
+    {
+      "name": "METHACHOLINE CHLORIDE",
+      "strength": "100",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "POWDER FOR SOLUTION"
+  ],
+  "routes": [
+    "INHALATION"
+  ],
+  "companies": [
+    "METHAPHARM INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "OTHER DIAGNOSTIC AGENTS"
+  ]
+}

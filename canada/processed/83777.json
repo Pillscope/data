@@ -1,0 +1,148 @@
+{
+  "drug_code": "83777",
+  "din": "02352516",
+  "brand_name": "OLIMEL 4.4% E",
+  "class": "Human",
+  "descriptor": "EMULSION FOR INFUSION",
+  "last_update": "30-JUN-2016",
+  "active_ingredients": [
+    {
+      "name": "LYSINE (L-LYSINE ACETATE)",
+      "strength": "3.48",
+      "unit": "G"
+    },
+    {
+      "name": "ALANINE",
+      "strength": "6.41",
+      "unit": "G"
+    },
+    {
+      "name": "METHIONINE",
+      "strength": "2.21",
+      "unit": "G"
+    },
+    {
+      "name": "GLUTAMIC ACID",
+      "strength": "2.21",
+      "unit": "G"
+    },
+    {
+      "name": "SODIUM GLYCEROPHOSPHATE",
+      "strength": "3.67",
+      "unit": "G"
+    },
+    {
+      "name": "TRYPTOPHAN",
+      "strength": "0.74",
+      "unit": "G"
+    },
+    {
+      "name": "OLIVE OIL",
+      "strength": "32",
+      "unit": "G"
+    },
+    {
+      "name": "L-PROLINE",
+      "strength": "2.64",
+      "unit": "G"
+    },
+    {
+      "name": "L-ARGININE",
+      "strength": "4.34",
+      "unit": "G"
+    },
+    {
+      "name": "L-TYROSINE",
+      "strength": "0.11",
+      "unit": "G"
+    },
+    {
+      "name": "L-ISOLEUCINE",
+      "strength": "2.21",
+      "unit": "G"
+    },
+    {
+      "name": "L-THREONINE",
+      "strength": "2.21",
+      "unit": "G"
+    },
+    {
+      "name": "L-PHENYLALANINE",
+      "strength": "3.07",
+      "unit": "G"
+    },
+    {
+      "name": "L-LEUCINE",
+      "strength": "3.07",
+      "unit": "G"
+    },
+    {
+      "name": "L-ASPARTIC ACID",
+      "strength": "1.28",
+      "unit": "G"
+    },
+    {
+      "name": "SERINE",
+      "strength": "1.75",
+      "unit": "G"
+    },
+    {
+      "name": "POTASSIUM CHLORIDE",
+      "strength": "2.24",
+      "unit": "G"
+    },
+    {
+      "name": "DEXTROSE",
+      "strength": "154",
+      "unit": "G"
+    },
+    {
+      "name": "SOYBEAN OIL",
+      "strength": "8",
+      "unit": "G"
+    },
+    {
+      "name": "GLYCINE",
+      "strength": "3.07",
+      "unit": "G"
+    },
+    {
+      "name": "HISTIDINE",
+      "strength": "2.64",
+      "unit": "G"
+    },
+    {
+      "name": "MAGNESIUM CHLORIDE",
+      "strength": "0.81",
+      "unit": "G"
+    },
+    {
+      "name": "CALCIUM CHLORIDE",
+      "strength": "0.52",
+      "unit": "G"
+    },
+    {
+      "name": "L-VALINE",
+      "strength": "2.83",
+      "unit": "G"
+    },
+    {
+      "name": "SODIUM ACETATE TRIHYDRATE",
+      "strength": "1.50",
+      "unit": "G"
+    }
+  ],
+  "forms": [
+    "EMULSION"
+  ],
+  "routes": [
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "BAXTER CORPORATION"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "COMBINATIONS"
+  ]
+}

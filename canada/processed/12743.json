@@ -1,0 +1,28 @@
+{
+  "drug_code": "12743",
+  "din": "01946986",
+  "brand_name": "UNISOM",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "22-OCT-2012",
+  "active_ingredients": [
+    {
+      "name": "DIPHENHYDRAMINE HYDROCHLORIDE",
+      "strength": "50",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "PALADIN LABS INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "DIPHENHYDRAMINE"
+  ]
+}

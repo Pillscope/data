@@ -1,0 +1,28 @@
+{
+  "drug_code": "79944",
+  "din": "02313928",
+  "brand_name": "APO-QUETIAPINE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "16-MAY-2011",
+  "active_ingredients": [
+    {
+      "name": "QUETIAPINE (QUETIAPINE FUMARATE)",
+      "strength": "100",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "APOTEX INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "QUETIAPINE"
+  ]
+}

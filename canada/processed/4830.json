@@ -1,0 +1,29 @@
+{
+  "drug_code": "4830",
+  "din": "00568236",
+  "brand_name": "CHEMPROCIDE 7.5%",
+  "class": "Disinfectant",
+  "descriptor": "",
+  "last_update": "08-JUL-2011",
+  "active_ingredients": [
+    {
+      "name": "DIDECYL DIMETHYL AMMONIUM CHLORIDE",
+      "strength": "7.5",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "LIQUID"
+  ],
+  "routes": [
+    "DISINFECTANT (Food Premises)",
+    "DISINFECTANT (Hospital/HC Facilities)"
+  ],
+  "companies": [
+    "PACE CHEMICALS LTD."
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "TECHNICAL DISINFECTANTS"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "drug_code": "43498",
+  "din": "02228947",
+  "brand_name": "MIGRANAL NASAL SPRAY 4MG/ML",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "26-APR-2011",
+  "active_ingredients": [
+    {
+      "name": "DIHYDROERGOTAMINE MESYLATE",
+      "strength": "4",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "LIQUID"
+  ],
+  "routes": [
+    "NASAL"
+  ],
+  "companies": [
+    "STERIMAX INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "DIHYDROERGOTAMINE"
+  ]
+}

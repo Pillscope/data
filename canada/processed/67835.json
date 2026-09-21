@@ -1,0 +1,28 @@
+{
+  "drug_code": "67835",
+  "din": "02243894",
+  "brand_name": "TAZORAC",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "06-AUG-2008",
+  "active_ingredients": [
+    {
+      "name": "TAZAROTENE",
+      "strength": "0.05",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "CREAM"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "ALLERGAN INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "TAZAROTENE"
+  ]
+}

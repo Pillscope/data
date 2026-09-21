@@ -1,0 +1,28 @@
+{
+  "drug_code": "91433",
+  "din": "02429918",
+  "brand_name": "MAR-AMITRIPTYLINE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "10-JAN-2017",
+  "active_ingredients": [
+    {
+      "name": "AMITRIPTYLINE HYDROCHLORIDE",
+      "strength": "75",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "MARCAN PHARMACEUTICALS INC"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "AMITRIPTYLINE"
+  ]
+}

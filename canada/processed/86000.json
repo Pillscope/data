@@ -1,0 +1,28 @@
+{
+  "drug_code": "86000",
+  "din": "02374684",
+  "brand_name": "AMIODARONE SYRINGE",
+  "class": "Human",
+  "descriptor": "SINGLE DOSE PRE-FILLED SYRINGE, 150MG/3ML",
+  "last_update": "21-AUG-2015",
+  "active_ingredients": [
+    {
+      "name": "AMIODARONE HYDROCHLORIDE",
+      "strength": "50",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "SANDOZ CANADA INCORPORATED"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "AMIODARONE"
+  ]
+}

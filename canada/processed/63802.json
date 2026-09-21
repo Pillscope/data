@@ -1,0 +1,28 @@
+{
+  "drug_code": "63802",
+  "din": "02240265",
+  "brand_name": "ALLER-RELIEF",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "04-NOV-2011",
+  "active_ingredients": [
+    {
+      "name": "CETIRIZINE HYDROCHLORIDE",
+      "strength": "10",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "APOTEX INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "CETIRIZINE"
+  ]
+}

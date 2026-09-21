@@ -1,0 +1,28 @@
+{
+  "drug_code": "3453",
+  "din": "00465283",
+  "brand_name": "HYDREA CAP 500MG",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "05-MAY-2015",
+  "active_ingredients": [
+    {
+      "name": "HYDROXYUREA",
+      "strength": "500",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "CAPSULE"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "BRISTOL-MYERS SQUIBB CANADA"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "HYDROXYCARBAMIDE"
+  ]
+}

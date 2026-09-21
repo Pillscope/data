@@ -1,0 +1,33 @@
+{
+  "drug_code": "60269",
+  "din": "02236974",
+  "brand_name": "ALESSE 21",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "23-APR-2014",
+  "active_ingredients": [
+    {
+      "name": "LEVONORGESTREL",
+      "strength": "100",
+      "unit": "MCG"
+    },
+    {
+      "name": "ETHINYL ESTRADIOL",
+      "strength": "20",
+      "unit": "MCG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "PFIZER CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "LEVONORGESTREL AND ESTROGEN"
+  ]
+}

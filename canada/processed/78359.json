@@ -1,0 +1,28 @@
+{
+  "drug_code": "78359",
+  "din": "02298295",
+  "brand_name": "MYLAN-PIOGLITAZONE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "29-DEC-2009",
+  "active_ingredients": [
+    {
+      "name": "PIOGLITAZONE (PIOGLITAZONE HYDROCHLORIDE)",
+      "strength": "45",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "MYLAN PHARMACEUTICALS ULC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "PIOGLITAZONE"
+  ]
+}

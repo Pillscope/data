@@ -1,0 +1,43 @@
+{
+  "drug_code": "16794",
+  "din": "01935941",
+  "brand_name": "HEPARIN SODIUM IN 5% DEXTROSE INJECTION, 25000UNIT/500ML",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "29-APR-2015",
+  "active_ingredients": [
+    {
+      "name": "DEXTROSE",
+      "strength": "5",
+      "unit": "G"
+    },
+    {
+      "name": "CITRIC ACID",
+      "strength": "93",
+      "unit": "MG"
+    },
+    {
+      "name": "SODIUM PHOSPHATE DIBASIC",
+      "strength": "410",
+      "unit": "MG"
+    },
+    {
+      "name": "HEPARIN SODIUM",
+      "strength": "5000",
+      "unit": "UNIT"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "B. BRAUN MEDICAL INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "HEPARIN, COMBINATIONS"
+  ]
+}

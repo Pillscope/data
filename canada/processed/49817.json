@@ -1,0 +1,29 @@
+{
+  "drug_code": "49817",
+  "din": "02230640",
+  "brand_name": "TOBRAMYCIN INJECTION",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "29-MAR-2016",
+  "active_ingredients": [
+    {
+      "name": "TOBRAMYCIN (TOBRAMYCIN SULFATE)",
+      "strength": "40",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "INTRAMUSCULAR",
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "FRESENIUS KABI CANADA LTD"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "TOBRAMYCIN"
+  ]
+}

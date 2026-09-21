@@ -1,0 +1,28 @@
+{
+  "drug_code": "15173",
+  "din": "02063662",
+  "brand_name": "MACROBID",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "19-JAN-2018",
+  "active_ingredients": [
+    {
+      "name": "NITROFURANTOIN",
+      "strength": "100",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "CAPSULE"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "ALLERGAN PHARMA CO."
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "NITROFURANTOIN"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "drug_code": "68499",
+  "din": "02244522",
+  "brand_name": "NEXIUM - 40MG",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "13-JAN-2009",
+  "active_ingredients": [
+    {
+      "name": "ESOMEPRAZOLE (ESOMEPRAZOLE MAGNESIUM TRIHYDRATE)",
+      "strength": "40",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET (DELAYED-RELEASE)"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "ASTRAZENECA CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "ESOMEPRAZOLE"
+  ]
+}

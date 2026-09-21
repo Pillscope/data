@@ -1,0 +1,162 @@
+{
+  "drug_code": "3870",
+  "din": "00506990",
+  "brand_name": "AMINOLEAN INJECTION",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "25-FEB-2009",
+  "active_ingredients": [
+    {
+      "name": "LYSINE",
+      "strength": "2.5",
+      "unit": "MG"
+    },
+    {
+      "name": "ALANINE",
+      "strength": "0.8",
+      "unit": "MG"
+    },
+    {
+      "name": "PROLINE",
+      "strength": "3.3",
+      "unit": "MG"
+    },
+    {
+      "name": "DL-METHIONINE",
+      "strength": "0.3",
+      "unit": "MG"
+    },
+    {
+      "name": "NICOTINAMIDE",
+      "strength": "150",
+      "unit": "MG"
+    },
+    {
+      "name": "THIAMINE HYDROCHLORIDE",
+      "strength": "10",
+      "unit": "MG"
+    },
+    {
+      "name": "PYRIDOXINE HYDROCHLORIDE",
+      "strength": "10",
+      "unit": "MG"
+    },
+    {
+      "name": "RIBOFLAVIN 5'-PHOSPHATE SODIUM",
+      "strength": "4",
+      "unit": "MG"
+    },
+    {
+      "name": "GLUTAMIC ACID",
+      "strength": "6.7",
+      "unit": "MG"
+    },
+    {
+      "name": "ARGININE",
+      "strength": "1",
+      "unit": "MG"
+    },
+    {
+      "name": "TRYPTOPHAN",
+      "strength": "0.3",
+      "unit": "MG"
+    },
+    {
+      "name": "THREONINE",
+      "strength": "1.4",
+      "unit": "MG"
+    },
+    {
+      "name": "PHENYLALANINE",
+      "strength": "1",
+      "unit": "MG"
+    },
+    {
+      "name": "VALINE",
+      "strength": "2",
+      "unit": "MG"
+    },
+    {
+      "name": "TYROSINE",
+      "strength": "0.2",
+      "unit": "MG"
+    },
+    {
+      "name": "L-ASPARTIC ACID",
+      "strength": "2",
+      "unit": "MG"
+    },
+    {
+      "name": "SERINE",
+      "strength": "1.6",
+      "unit": "MG"
+    },
+    {
+      "name": "LEUCINE",
+      "strength": "2.5",
+      "unit": "MG"
+    },
+    {
+      "name": "MAGNESIUM SULFATE",
+      "strength": "20",
+      "unit": "MG"
+    },
+    {
+      "name": "DEXTROSE",
+      "strength": "5",
+      "unit": "G"
+    },
+    {
+      "name": "POTASSIUM CHLORIDE",
+      "strength": "20",
+      "unit": "MG"
+    },
+    {
+      "name": "GLYCINE",
+      "strength": "0.6",
+      "unit": "MG"
+    },
+    {
+      "name": "SODIUM ACETATE",
+      "strength": "250",
+      "unit": "MG"
+    },
+    {
+      "name": "HISTIDINE",
+      "strength": "0.9",
+      "unit": "MG"
+    },
+    {
+      "name": "CALCIUM CHLORIDE",
+      "strength": "15",
+      "unit": "MG"
+    },
+    {
+      "name": "ISOLEUCINE",
+      "strength": "1.6",
+      "unit": "MG"
+    },
+    {
+      "name": "DEXPANTHENOL (CALCIUM D-PANTOTHENATE)",
+      "strength": "5",
+      "unit": "MG"
+    },
+    {
+      "name": "VITAMIN B12",
+      "strength": "5",
+      "unit": "MCG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "INTRAPERITONEAL",
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "BIMEDA-MTC ANIMAL HEALTH INC"
+  ],
+  "status": "APPROVED",
+  "atc": []
+}

@@ -1,0 +1,38 @@
+{
+  "drug_code": "10045",
+  "din": "00438006",
+  "brand_name": "(40MMOL/L)POTASSIUM CHLORIDE IN 5% DEXTROSE AND 0.45% SODIUM CHLORIDE INJECTION USP",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "07-MAY-2013",
+  "active_ingredients": [
+    {
+      "name": "SODIUM CHLORIDE",
+      "strength": "450",
+      "unit": "MG"
+    },
+    {
+      "name": "DEXTROSE",
+      "strength": "5",
+      "unit": "G"
+    },
+    {
+      "name": "POTASSIUM CHLORIDE",
+      "strength": "300",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "BAXTER CORPORATION"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "ELECTROLYTES WITH CARBOHYDRATES"
+  ]
+}

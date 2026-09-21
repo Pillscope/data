@@ -1,0 +1,28 @@
+{
+  "drug_code": "83987",
+  "din": "02354705",
+  "brand_name": "APO-VALACYCLOVIR",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "28-OCT-2011",
+  "active_ingredients": [
+    {
+      "name": "VALACYCLOVIR (VALACYCLOVIR HYDROCHLORIDE)",
+      "strength": "1000",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "APOTEX INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "VALACICLOVIR"
+  ]
+}

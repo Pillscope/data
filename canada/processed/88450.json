@@ -1,0 +1,28 @@
+{
+  "drug_code": "88450",
+  "din": "02399644",
+  "brand_name": "HEAD & SHOULDERS CLASSIC CLEAN",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "22-JAN-2014",
+  "active_ingredients": [
+    {
+      "name": "PYRITHIONE ZINC",
+      "strength": "1",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "SHAMPOO"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "PROCTER & GAMBLE INC"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "PYRITHIONE ZINC"
+  ]
+}

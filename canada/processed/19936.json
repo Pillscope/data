@@ -1,0 +1,28 @@
+{
+  "drug_code": "19936",
+  "din": "02164353",
+  "brand_name": "TRAZODONE-50 - TAB 50MG",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "28-FEB-2006",
+  "active_ingredients": [
+    {
+      "name": "TRAZODONE HYDROCHLORIDE",
+      "strength": "50",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "PRO DOC LIMITEE"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "TRAZODONE"
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "drug_code": "90185",
+  "din": "02417219",
+  "brand_name": "KAZANO",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "14-JAN-2016",
+  "active_ingredients": [
+    {
+      "name": "METFORMIN HYDROCHLORIDE",
+      "strength": "500",
+      "unit": "MG"
+    },
+    {
+      "name": "Alogliptin (Alogliptin benzoate)",
+      "strength": "12.5",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "TAKEDA CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "METFORMIN AND ALOGLIPTIN",
+    "METFORMIN AND ALOGLIPTIN"
+  ]
+}

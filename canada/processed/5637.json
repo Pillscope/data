@@ -1,0 +1,28 @@
+{
+  "drug_code": "5637",
+  "din": "00586668",
+  "brand_name": "FUCIDIN CREAM 2%",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "15-JAN-2016",
+  "active_ingredients": [
+    {
+      "name": "FUSIDIC ACID",
+      "strength": "2",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "CREAM"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "LEO PHARMA INC"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "FUSIDIC ACID"
+  ]
+}

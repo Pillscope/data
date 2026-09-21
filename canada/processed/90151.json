@@ -1,0 +1,43 @@
+{
+  "drug_code": "90151",
+  "din": "02416905",
+  "brand_name": "NEUTROGENA MOISTURE OIL-FREE SPF 15",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "08-OCT-2015",
+  "active_ingredients": [
+    {
+      "name": "AVOBENZONE",
+      "strength": "1.5",
+      "unit": "%"
+    },
+    {
+      "name": "OCTOCRYLENE",
+      "strength": "3",
+      "unit": "%"
+    },
+    {
+      "name": "OCTISALATE",
+      "strength": "5",
+      "unit": "%"
+    },
+    {
+      "name": "OXYBENZONE",
+      "strength": "4",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "LOTION"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "JOHNSON & JOHNSON INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "COMBINATIONS OF PROTECTIVES AGAINST UV-RADIATION"
+  ]
+}

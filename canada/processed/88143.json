@@ -1,0 +1,43 @@
+{
+  "drug_code": "88143",
+  "din": "02396408",
+  "brand_name": "SOLEIL PROTEXION SUN LIP STICK VELVET MOISTURE SPF 30",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "19-MAR-2014",
+  "active_ingredients": [
+    {
+      "name": "AVOBENZONE",
+      "strength": "2.5",
+      "unit": "%"
+    },
+    {
+      "name": "OCTOCRYLENE",
+      "strength": "5.0",
+      "unit": "%"
+    },
+    {
+      "name": "OCTISALATE",
+      "strength": "5.0",
+      "unit": "%"
+    },
+    {
+      "name": "BEMOTRIZINOL",
+      "strength": "0.5",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "STICK"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "JOHNSON & JOHNSON INC"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "COMBINATIONS OF PROTECTIVES AGAINST UV-RADIATION"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "drug_code": "81070",
+  "din": "02325306",
+  "brand_name": "DILTIAZEM TZ",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "31-JAN-2017",
+  "active_ingredients": [
+    {
+      "name": "DILTIAZEM HYDROCHLORIDE",
+      "strength": "120",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "CAPSULE (EXTENDED RELEASE)"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "PRO DOC LIMITEE"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "DILTIAZEM"
+  ]
+}

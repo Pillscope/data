@@ -1,0 +1,28 @@
+{
+  "drug_code": "85213",
+  "din": "02367335",
+  "brand_name": "SANDOZ LATANOPROST",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "21-JAN-2013",
+  "active_ingredients": [
+    {
+      "name": "LATANOPROST",
+      "strength": "50",
+      "unit": "MCG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "OPHTHALMIC"
+  ],
+  "companies": [
+    "SANDOZ CANADA INCORPORATED"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "LATANOPROST"
+  ]
+}

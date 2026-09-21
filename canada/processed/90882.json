@@ -1,0 +1,28 @@
+{
+  "drug_code": "90882",
+  "din": "02424118",
+  "brand_name": "AURO-PRAMIPEXOLE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "11-AUG-2017",
+  "active_ingredients": [
+    {
+      "name": "PRAMIPEXOLE DIHYDROCHLORIDE MONOHYDRATE",
+      "strength": "1.5",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "AURO PHARMA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "PRAMIPEXOLE"
+  ]
+}

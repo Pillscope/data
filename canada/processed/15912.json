@@ -1,0 +1,28 @@
+{
+  "drug_code": "15912",
+  "din": "02080052",
+  "brand_name": "TEVA-CYCLOBENZAPRINE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "23-DEC-2016",
+  "active_ingredients": [
+    {
+      "name": "CYCLOBENZAPRINE HYDROCHLORIDE",
+      "strength": "10",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "TEVA CANADA LIMITED"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "CYCLOBENZAPRINE"
+  ]
+}

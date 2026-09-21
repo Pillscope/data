@@ -1,0 +1,28 @@
+{
+  "drug_code": "78346",
+  "din": "02298155",
+  "brand_name": "DESLORATADINE ALLERGY CONTROL",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "28-NOV-2017",
+  "active_ingredients": [
+    {
+      "name": "DESLORATADINE",
+      "strength": "5",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "PHARMASCIENCE INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "DESLORATADINE"
+  ]
+}

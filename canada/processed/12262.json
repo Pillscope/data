@@ -1,0 +1,29 @@
+{
+  "drug_code": "12262",
+  "din": "00872652",
+  "brand_name": "AMPICILLIN SODIUM FOR INJECTION, USP",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "29-APR-2015",
+  "active_ingredients": [
+    {
+      "name": "AMPICILLIN (AMPICILLIN SODIUM)",
+      "strength": "500",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "POWDER FOR SOLUTION"
+  ],
+  "routes": [
+    "INTRAMUSCULAR",
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "TEVA CANADA LIMITED"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "AMPICILLIN"
+  ]
+}

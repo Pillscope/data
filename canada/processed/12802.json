@@ -1,0 +1,26 @@
+{
+  "drug_code": "12802",
+  "din": "01941852",
+  "brand_name": "FERROFAX INJ 100MG/ML",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "13-AUG-2003",
+  "active_ingredients": [
+    {
+      "name": "IRON (IRON DEXTRAN COMPLEX)",
+      "strength": "100",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "LIQUID"
+  ],
+  "routes": [
+    "INTRAMUSCULAR"
+  ],
+  "companies": [
+    "CITADEL ANIMAL HEALTH"
+  ],
+  "status": "MARKETED",
+  "atc": []
+}

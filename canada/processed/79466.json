@@ -1,0 +1,33 @@
+{
+  "drug_code": "79466",
+  "din": "02309068",
+  "brand_name": "MAGIX FACE PERFECTOR",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "17-JAN-2014",
+  "active_ingredients": [
+    {
+      "name": "OCTISALATE",
+      "strength": "4.0",
+      "unit": "%"
+    },
+    {
+      "name": "OCTINOXATE",
+      "strength": "7.5",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "GEL"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "AVON CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "COMBINATIONS OF PROTECTIVES AGAINST UV-RADIATION"
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "drug_code": "13850",
+  "din": "02027070",
+  "brand_name": "DURR SYSTEM HYGIENE ID 220 BUR DISINFECTION",
+  "class": "Disinfectant",
+  "descriptor": "",
+  "last_update": "07-MAY-2013",
+  "active_ingredients": [
+    {
+      "name": "PROPYL ALCOHOL",
+      "strength": "15",
+      "unit": "%"
+    },
+    {
+      "name": "POTASSIUM HYDROXIDE",
+      "strength": "2",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "LIQUID"
+  ],
+  "routes": [
+    "DISINFECTANT (Hospital/HC Facilities)"
+  ],
+  "companies": [
+    "DURR DENTAL AG OROCHEMIE GMBH + CO. KG DIVISION"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "TECHNICAL DISINFECTANTS"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "drug_code": "89382",
+  "din": "02409097",
+  "brand_name": "GD-TRANEXAMIC ACID",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "29-JUN-2016",
+  "active_ingredients": [
+    {
+      "name": "TRANEXAMIC ACID",
+      "strength": "500",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "GENMED A DIVISION OF PFIZER CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "TRANEXAMIC ACID"
+  ]
+}

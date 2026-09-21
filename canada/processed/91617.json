@@ -1,0 +1,26 @@
+{
+  "drug_code": "91617",
+  "din": "02431696",
+  "brand_name": "MONTEBAN 100",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "01-DEC-2017",
+  "active_ingredients": [
+    {
+      "name": "NARASIN",
+      "strength": "100",
+      "unit": "G"
+    }
+  ],
+  "forms": [
+    "DRUG PREMIX"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "ELANCO CANADA LIMITED"
+  ],
+  "status": "APPROVED",
+  "atc": []
+}

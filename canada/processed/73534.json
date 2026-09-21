@@ -1,0 +1,28 @@
+{
+  "drug_code": "73534",
+  "din": "02250527",
+  "brand_name": "LESCOL XL",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "05-JUN-2006",
+  "active_ingredients": [
+    {
+      "name": "FLUVASTATIN (FLUVASTATIN SODIUM)",
+      "strength": "80",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET (EXTENDED-RELEASE)"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "NOVARTIS PHARMACEUTICALS CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "FLUVASTATIN"
+  ]
+}

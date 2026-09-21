@@ -1,0 +1,26 @@
+{
+  "drug_code": "4156",
+  "din": "00439339",
+  "brand_name": "KELAMYCIN INTRAUTERINE SUSPENSION",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "15-JAN-2018",
+  "active_ingredients": [
+    {
+      "name": "OXYTETRACYCLINE (OXYTETRACYCLINE HYDROCHLORIDE)",
+      "strength": "50",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SUSPENSION"
+  ],
+  "routes": [
+    "INTRAUTERINE"
+  ],
+  "companies": [
+    "WENDT LABS"
+  ],
+  "status": "APPROVED",
+  "atc": []
+}

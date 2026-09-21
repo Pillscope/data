@@ -1,0 +1,28 @@
+{
+  "drug_code": "4743",
+  "din": "00556734",
+  "brand_name": "VERMOX TABLETS 100 MG",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "06-JUL-2011",
+  "active_ingredients": [
+    {
+      "name": "MEBENDAZOLE",
+      "strength": "100",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "JANSSEN INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "MEBENDAZOLE"
+  ]
+}

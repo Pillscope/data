@@ -1,0 +1,28 @@
+{
+  "drug_code": "94695",
+  "din": "02459647",
+  "brand_name": "OMNITROPE",
+  "class": "Human",
+  "descriptor": "CARTRIDGE",
+  "last_update": "23-AUG-2017",
+  "active_ingredients": [
+    {
+      "name": "SOMATROPIN",
+      "strength": "15",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "SUBCUTANEOUS"
+  ],
+  "companies": [
+    "SANDOZ CANADA INCORPORATED"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "SOMATROPIN"
+  ]
+}

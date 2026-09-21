@@ -1,0 +1,26 @@
+{
+  "drug_code": "15877",
+  "din": "02085844",
+  "brand_name": "LINCOMYCIN 44",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "11-JAN-2018",
+  "active_ingredients": [
+    {
+      "name": "LINCOMYCIN (LINCOMYCIN HYDROCHLORIDE)",
+      "strength": "44",
+      "unit": "G"
+    }
+  ],
+  "forms": [
+    "DRUG PREMIX"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "BIO AGRI MIX LP"
+  ],
+  "status": "APPROVED",
+  "atc": []
+}

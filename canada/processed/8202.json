@@ -1,0 +1,26 @@
+{
+  "drug_code": "8202",
+  "din": "00698229",
+  "brand_name": "SPUTOLYSIN POWDER",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "06-NOV-2012",
+  "active_ingredients": [
+    {
+      "name": "DEMBREXINE (DEMBREXINE HYDROCHLORIDE)",
+      "strength": "5",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "POWDER"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "BOEHRINGER INGELHEIM (CANADA) LTD LTEE"
+  ],
+  "status": "MARKETED",
+  "atc": []
+}

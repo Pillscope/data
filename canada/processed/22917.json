@@ -1,0 +1,28 @@
+{
+  "drug_code": "22917",
+  "din": "00789674",
+  "brand_name": "ACTIVATED CHARCOAL 260MG",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "29-APR-2015",
+  "active_ingredients": [
+    {
+      "name": "CHARCOAL ACTIVATED",
+      "strength": "260",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "CAPSULE"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "VALEANT CANADA LP/VALEANT CANADA S.E.C."
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "MEDICINAL CHARCOAL"
+  ]
+}

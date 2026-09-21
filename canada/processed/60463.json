@@ -1,0 +1,28 @@
+{
+  "drug_code": "60463",
+  "din": "02237145",
+  "brand_name": "MIRAPEX",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "27-MAR-2012",
+  "active_ingredients": [
+    {
+      "name": "PRAMIPEXOLE DIHYDROCHLORIDE MONOHYDRATE",
+      "strength": "0.25",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "BOEHRINGER INGELHEIM (CANADA) LTD LTEE"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "PRAMIPEXOLE"
+  ]
+}

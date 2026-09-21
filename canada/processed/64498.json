@@ -1,0 +1,28 @@
+{
+  "drug_code": "64498",
+  "din": "02240907",
+  "brand_name": "APO-PAROXETINE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "07-MAR-2006",
+  "active_ingredients": [
+    {
+      "name": "PAROXETINE (PAROXETINE HYDROCHLORIDE)",
+      "strength": "10",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "APOTEX INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "PAROXETINE"
+  ]
+}

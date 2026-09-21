@@ -1,0 +1,28 @@
+{
+  "drug_code": "13857",
+  "din": "02009277",
+  "brand_name": "CROMOLYN EYE DROPS",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "05-MAY-2015",
+  "active_ingredients": [
+    {
+      "name": "CROMOLYN SODIUM",
+      "strength": "2",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "OPHTHALMIC"
+  ],
+  "companies": [
+    "PENDOPHARM DIVISION OF DE PHARMASCIENCE INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "CROMOGLICIC ACID"
+  ]
+}

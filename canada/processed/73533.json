@@ -1,0 +1,28 @@
+{
+  "drug_code": "73533",
+  "din": "02250519",
+  "brand_name": "ZAVESCA",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "20-JUL-2010",
+  "active_ingredients": [
+    {
+      "name": "MIGLUSTAT",
+      "strength": "100",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "CAPSULE"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "ACTELION PHARMACEUTICALS LTD"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "MIGLUSTAT"
+  ]
+}

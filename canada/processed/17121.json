@@ -1,0 +1,103 @@
+{
+  "drug_code": "17121",
+  "din": "02122014",
+  "brand_name": "MINERALYTES PLUS",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "28-MAY-2009",
+  "active_ingredients": [
+    {
+      "name": "SODIUM DIACETATE",
+      "strength": "7.14",
+      "unit": "G"
+    },
+    {
+      "name": "VITAMIN A ACETATE",
+      "strength": "1280000",
+      "unit": "UNIT"
+    },
+    {
+      "name": "NICOTINAMIDE",
+      "strength": "6.72",
+      "unit": "G"
+    },
+    {
+      "name": "CALCIUM D-PANTOTHENATE",
+      "strength": "3.2",
+      "unit": "G"
+    },
+    {
+      "name": "CHOLINE BITARTRATE",
+      "strength": "5.76",
+      "unit": "G"
+    },
+    {
+      "name": "VITAMIN D3",
+      "strength": "1000000",
+      "unit": "UNIT"
+    },
+    {
+      "name": "DL-ALPHA TOCOPHERYL ACETATE",
+      "strength": "1500",
+      "unit": "UNIT"
+    },
+    {
+      "name": "MAGNESIUM (MAGNESIUM CHLORIDE)",
+      "strength": "1.82",
+      "unit": "G"
+    },
+    {
+      "name": "VITAMIN B2",
+      "strength": "1.28",
+      "unit": "G"
+    },
+    {
+      "name": "SODIUM CHLORIDE",
+      "strength": "277.71",
+      "unit": "G"
+    },
+    {
+      "name": "SODIUM ACETATE",
+      "strength": "35.71",
+      "unit": "G"
+    },
+    {
+      "name": "CALCIUM (CALCIUM ACETATE)",
+      "strength": "1.81",
+      "unit": "G"
+    },
+    {
+      "name": "POTASSIUM (POTASSIUM CHLORIDE)",
+      "strength": "7.48",
+      "unit": "G"
+    },
+    {
+      "name": "FOLIC ACID",
+      "strength": "150",
+      "unit": "MG"
+    },
+    {
+      "name": "VITAMIN B12",
+      "strength": "2.56",
+      "unit": "MG"
+    },
+    {
+      "name": "MENADIONE (MENADIONE SODIUM BISULFITE)",
+      "strength": "500",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "POWDER FOR SOLUTION"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "VETOQUINOL N A INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "MULTIVITAMINS AND OTHER MINERALS INCL COMBINATIONS"
+  ]
+}

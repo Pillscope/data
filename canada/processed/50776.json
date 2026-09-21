@@ -1,0 +1,28 @@
+{
+  "drug_code": "50776",
+  "din": "02231460",
+  "brand_name": "MAVIK",
+  "class": "Human",
+  "descriptor": "2MG",
+  "last_update": "09-MAY-2016",
+  "active_ingredients": [
+    {
+      "name": "TRANDOLAPRIL",
+      "strength": "2",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "CAPSULE"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "BGP PHARMA ULC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "TRANDOLAPRIL"
+  ]
+}

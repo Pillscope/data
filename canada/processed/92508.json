@@ -1,0 +1,28 @@
+{
+  "drug_code": "92508",
+  "din": "02440717",
+  "brand_name": "JAMP-OXCARBAZEPINE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "20-JAN-2017",
+  "active_ingredients": [
+    {
+      "name": "OXCARBAZEPINE",
+      "strength": "150",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "JAMP PHARMA CORPORATION"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "OXCARBAZEPINE"
+  ]
+}

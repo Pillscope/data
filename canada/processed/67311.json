@@ -1,0 +1,29 @@
+{
+  "drug_code": "67311",
+  "din": "02243403",
+  "brand_name": "EPREX STERILE SOLUTION 8000 IU/0.8 ML",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "11-FEB-2008",
+  "active_ingredients": [
+    {
+      "name": "EPOETIN ALFA",
+      "strength": "8000",
+      "unit": "UNIT"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "INTRAVENOUS",
+    "SUBCUTANEOUS"
+  ],
+  "companies": [
+    "JANSSEN INC"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "ERYTHROPOIETIN"
+  ]
+}

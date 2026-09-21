@@ -1,0 +1,28 @@
+{
+  "drug_code": "41698",
+  "din": "00704172",
+  "brand_name": "HUILE MINERALE LOURDE LIQ 100% USP",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "10-MAY-2016",
+  "active_ingredients": [
+    {
+      "name": "MINERAL OIL",
+      "strength": "100",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "LIQUID"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "LABORATOIRE ATLAS INC"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "LIQUID PARAFFIN"
+  ]
+}

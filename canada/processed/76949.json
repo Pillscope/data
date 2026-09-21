@@ -1,0 +1,28 @@
+{
+  "drug_code": "76949",
+  "din": "02283913",
+  "brand_name": "VICKS DAYQUIL COUGH",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "27-MAR-2013",
+  "active_ingredients": [
+    {
+      "name": "DEXTROMETHORPHAN HYDROBROMIDE",
+      "strength": "30",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "LIQUID"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "PROCTER & GAMBLE INC"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "DEXTROMETHORPHAN"
+  ]
+}

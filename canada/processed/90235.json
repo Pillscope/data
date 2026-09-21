@@ -1,0 +1,28 @@
+{
+  "drug_code": "90235",
+  "din": "02417723",
+  "brand_name": "PMS-SOLIFENACIN",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "04-NOV-2015",
+  "active_ingredients": [
+    {
+      "name": "SOLIFENACIN SUCCINATE",
+      "strength": "5",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "PHARMASCIENCE INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "SOLIFENACIN"
+  ]
+}

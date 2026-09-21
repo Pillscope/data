@@ -1,0 +1,29 @@
+{
+  "drug_code": "8488",
+  "din": "00743518",
+  "brand_name": "CHLORPROMAZINE HYDROCHLORIDE INJECTION",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "29-APR-2015",
+  "active_ingredients": [
+    {
+      "name": "CHLORPROMAZINE HYDROCHLORIDE",
+      "strength": "27.9",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "LIQUID"
+  ],
+  "routes": [
+    "INTRAMUSCULAR",
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "SANDOZ CANADA INCORPORATED"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "CHLORPROMAZINE"
+  ]
+}

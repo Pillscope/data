@@ -1,0 +1,27 @@
+{
+  "drug_code": "10382",
+  "din": "00813567",
+  "brand_name": "EXCENEL",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "09-APR-2015",
+  "active_ingredients": [
+    {
+      "name": "CEFTIOFUR (CEFTIOFUR SODIUM)",
+      "strength": "50",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "POWDER FOR SOLUTION"
+  ],
+  "routes": [
+    "INTRAMUSCULAR",
+    "SUBCUTANEOUS"
+  ],
+  "companies": [
+    "ZOETIS CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": []
+}

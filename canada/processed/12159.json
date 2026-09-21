@@ -1,0 +1,28 @@
+{
+  "drug_code": "12159",
+  "din": "00833223",
+  "brand_name": "CHILDREN'S ACETAMINOPHEN ELX 160MG",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "10-MAY-2016",
+  "active_ingredients": [
+    {
+      "name": "ACETAMINOPHEN",
+      "strength": "160",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "ELIXIR"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "TANTA PHARMACEUTICALS INC"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "ACETAMINOPHEN (PARACETAMOL)"
+  ]
+}

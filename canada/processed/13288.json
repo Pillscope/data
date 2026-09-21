@@ -1,0 +1,33 @@
+{
+  "drug_code": "13288",
+  "din": "01924435",
+  "brand_name": "5% DEXTROSE AND 0.9% SODIUM CHLORIDE INJECTION USP",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "29-APR-2015",
+  "active_ingredients": [
+    {
+      "name": "SODIUM CHLORIDE",
+      "strength": "9",
+      "unit": "MG"
+    },
+    {
+      "name": "DEXTROSE",
+      "strength": "50",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "B. BRAUN MEDICAL INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "ELECTROLYTES WITH CARBOHYDRATES"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "drug_code": "83534",
+  "din": "02350106",
+  "brand_name": "ACTEMRA",
+  "class": "Human",
+  "descriptor": "4 SINGLE USE VIALS. PRESERVATIVE-FREE",
+  "last_update": "10-MAR-2014",
+  "active_ingredients": [
+    {
+      "name": "TOCILIZUMAB",
+      "strength": "200",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "HOFFMANN-LA ROCHE LIMITED"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "TOCILIZUMAB"
+  ]
+}

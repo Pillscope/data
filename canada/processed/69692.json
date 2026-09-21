@@ -1,0 +1,27 @@
+{
+  "drug_code": "69692",
+  "din": "02245595",
+  "brand_name": "RAFTER DEX DEXAMETHASONE INJECTION",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "11-JUN-2008",
+  "active_ingredients": [
+    {
+      "name": "DEXAMETHASONE (DEXAMETHASONE SODIUM PHOSPHATE)",
+      "strength": "2",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "INTRAMUSCULAR",
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "ALFASAN INTERNATIONAL B.V."
+  ],
+  "status": "APPROVED",
+  "atc": []
+}

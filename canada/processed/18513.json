@@ -1,0 +1,33 @@
+{
+  "drug_code": "18513",
+  "din": "02071010",
+  "brand_name": "ALNOX GAS",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "13-JAN-2010",
+  "active_ingredients": [
+    {
+      "name": "NITROUS OXIDE",
+      "strength": "50",
+      "unit": "%"
+    },
+    {
+      "name": "OXYGEN",
+      "strength": "50",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "GAS"
+  ],
+  "routes": [
+    "INHALATION"
+  ],
+  "companies": [
+    "AIR LIQUIDE CANADA INC."
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "NITROUS OXIDE,COMBINATIONS"
+  ]
+}

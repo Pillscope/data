@@ -1,0 +1,28 @@
+{
+  "drug_code": "92643",
+  "din": "02442078",
+  "brand_name": "BIO-MODAFINIL",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "13-JAN-2017",
+  "active_ingredients": [
+    {
+      "name": "MODAFINIL",
+      "strength": "100",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "BIOMED PHARMA"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "MODAFINIL"
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "drug_code": "87761",
+  "din": "02392321",
+  "brand_name": "ARANESP        -(HSA-FREE)",
+  "class": "Human",
+  "descriptor": "20 MCG/0.5ML SINGLE-USE PREFILLED SYRINGES (SINGLEJECT)",
+  "last_update": "21-SEP-2017",
+  "active_ingredients": [
+    {
+      "name": "DARBEPOETIN ALFA",
+      "strength": "40",
+      "unit": "MCG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "INTRAVENOUS",
+    "SUBCUTANEOUS"
+  ],
+  "companies": [
+    "AMGEN CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "DARBEPOETIN ALFA"
+  ]
+}

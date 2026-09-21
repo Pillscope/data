@@ -1,0 +1,28 @@
+{
+  "drug_code": "64606",
+  "din": "02241013",
+  "brand_name": "CRINONE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "29-MAY-2009",
+  "active_ingredients": [
+    {
+      "name": "PROGESTERONE",
+      "strength": "8",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "GEL"
+  ],
+  "routes": [
+    "VAGINAL"
+  ],
+  "companies": [
+    "EMD SERONO A DIVISION OF EMD INC CANADA"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "PROGESTERONE"
+  ]
+}

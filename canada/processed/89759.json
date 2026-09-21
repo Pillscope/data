@@ -1,0 +1,28 @@
+{
+  "drug_code": "89759",
+  "din": "02412918",
+  "brand_name": "RIVA-DONEPEZIL",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "14-JAN-2015",
+  "active_ingredients": [
+    {
+      "name": "DONEPEZIL HYDROCHLORIDE (DONEPEZIL HYDROCHLORIDE MONOHYDRATE)",
+      "strength": "5",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "LABORATOIRE RIVA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "DONEPEZIL"
+  ]
+}

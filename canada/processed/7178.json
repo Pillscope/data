@@ -1,0 +1,31 @@
+{
+  "drug_code": "7178",
+  "din": "00644803",
+  "brand_name": "SULFA 2 SOLUBLE POWDER",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "03-JAN-2018",
+  "active_ingredients": [
+    {
+      "name": "SULFATHIAZOLE SODIUM",
+      "strength": "333",
+      "unit": "MG"
+    },
+    {
+      "name": "SULFAMETHAZINE SODIUM",
+      "strength": "667",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "POWDER FOR SOLUTION"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "DOMINION VETERINARY LABORATORIES LTD."
+  ],
+  "status": "MARKETED",
+  "atc": []
+}

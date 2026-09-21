@@ -1,0 +1,33 @@
+{
+  "drug_code": "95723",
+  "din": "02468751",
+  "brand_name": "TRUMENBA",
+  "class": "Human",
+  "descriptor": "BIVALENT RECOMBINANT LIPOPROTEIN (RLP2086) - PREFILLED SYRINGE",
+  "last_update": "14-FEB-2018",
+  "active_ingredients": [
+    {
+      "name": "NEISSERIA MENINGITIDIS GRP B RECOMBINANT LIPOPROTEIN 2086 SUBFAMILY A",
+      "strength": "60",
+      "unit": "MCG"
+    },
+    {
+      "name": "NEISSERIA MENINGITIDIS GRP B RECOMBINANT LIPOPROTEIN 2086 SUBFAMILY B",
+      "strength": "60",
+      "unit": "MCG"
+    }
+  ],
+  "forms": [
+    "SUSPENSION"
+  ],
+  "routes": [
+    "INTRAMUSCULAR"
+  ],
+  "companies": [
+    "PFIZER CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "MENINGOCOCCAL VACCINES"
+  ]
+}

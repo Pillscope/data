@@ -1,0 +1,28 @@
+{
+  "drug_code": "44270",
+  "din": "02183056",
+  "brand_name": "VINBLASTINE SULFATE INJECTION",
+  "class": "Human",
+  "descriptor": "SINGLE USE",
+  "last_update": "16-AUG-2017",
+  "active_ingredients": [
+    {
+      "name": "VINBLASTINE SULFATE",
+      "strength": "1",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "PFIZER CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "VINBLASTINE"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "drug_code": "86527",
+  "din": "02379406",
+  "brand_name": "POT-PEN",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "13-DEC-2017",
+  "active_ingredients": [
+    {
+      "name": "PENICILLIN G POTASSIUM",
+      "strength": "500000000",
+      "unit": "UNIT"
+    }
+  ],
+  "forms": [
+    "POWDER FOR SOLUTION"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "VETOQUINOL N A INC"
+  ],
+  "status": "MARKETED",
+  "atc": []
+}

@@ -1,0 +1,33 @@
+{
+  "drug_code": "14444",
+  "din": "02044730",
+  "brand_name": "COLGATE TOTAL TPT",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "10-MAY-2016",
+  "active_ingredients": [
+    {
+      "name": "TRICLOSAN",
+      "strength": "0.3",
+      "unit": "%"
+    },
+    {
+      "name": "SODIUM FLUORIDE",
+      "strength": "0.243",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "TOOTHPASTE"
+  ],
+  "routes": [
+    "DENTAL"
+  ],
+  "companies": [
+    "COLGATE-PALMOLIVE CANADA INC"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "SODIUM FLUORIDE, COMBINATIONS"
+  ]
+}

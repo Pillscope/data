@@ -1,0 +1,38 @@
+{
+  "drug_code": "82154",
+  "din": "02335964",
+  "brand_name": "ELIZABETH ARDEN PURE FINISH MINERAL TINTED MOISTURE CREAM SPF 15",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "11-MAR-2010",
+  "active_ingredients": [
+    {
+      "name": "TITANIUM DIOXIDE",
+      "strength": "4.3",
+      "unit": "%"
+    },
+    {
+      "name": "OCTISALATE",
+      "strength": "4",
+      "unit": "%"
+    },
+    {
+      "name": "OCTINOXATE",
+      "strength": "6",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "CREAM"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "ELIZABETH ARDEN (CANADA) LIMITED"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "COMBINATIONS OF PROTECTIVES AGAINST UV-RADIATION"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "drug_code": "65460",
+  "din": "02241795",
+  "brand_name": "PROCYTOX TAB 25MG",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "22-JUL-2005",
+  "active_ingredients": [
+    {
+      "name": "CYCLOPHOSPHAMIDE",
+      "strength": "25",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "BAXTER CORPORATION"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "CYCLOPHOSPHAMIDE"
+  ]
+}

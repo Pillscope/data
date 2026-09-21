@@ -1,0 +1,28 @@
+{
+  "drug_code": "71082",
+  "din": "02246859",
+  "brand_name": "APO-FENO-SUPER",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "26-OCT-2006",
+  "active_ingredients": [
+    {
+      "name": "FENOFIBRATE",
+      "strength": "100",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "APOTEX INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "FENOFIBRATE"
+  ]
+}

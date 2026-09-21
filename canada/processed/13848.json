@@ -1,0 +1,28 @@
+{
+  "drug_code": "13848",
+  "din": "02026600",
+  "brand_name": "TEVA-NAPROXEN SODIUM DS",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "05-MAY-2015",
+  "active_ingredients": [
+    {
+      "name": "NAPROXEN SODIUM",
+      "strength": "550",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "TEVA CANADA LIMITED"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "NAPROXEN"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "drug_code": "1954",
+  "din": "00022381",
+  "brand_name": "CORTROSYN INJ 0.25MG",
+  "class": "Human",
+  "descriptor": "ALSO KNOWN AS COSYNTROPIN",
+  "last_update": "20-JUN-2015",
+  "active_ingredients": [
+    {
+      "name": "TETRACOSACTIDE",
+      "strength": "0.25",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "POWDER FOR SOLUTION"
+  ],
+  "routes": [
+    "INTRAMUSCULAR",
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "AMPHASTAR PHARMACEUTICALS, INC."
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "TETRACOSACTIDE",
+    "TETRACOSACTIDE"
+  ]
+}

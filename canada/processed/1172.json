@@ -1,0 +1,28 @@
+{
+  "drug_code": "1172",
+  "din": "00035076",
+  "brand_name": "ALCAINE",
+  "class": "Human",
+  "descriptor": "ALSO CALLED PROPARACAINE HYDROCHLORIDE",
+  "last_update": "02-FEB-2017",
+  "active_ingredients": [
+    {
+      "name": "PROXYMETACAINE HYDROCHLORIDE",
+      "strength": "0.5",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "DROPS"
+  ],
+  "routes": [
+    "OPHTHALMIC"
+  ],
+  "companies": [
+    "NOVARTIS PHARMACEUTICALS CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "PROXYMETACAINE"
+  ]
+}

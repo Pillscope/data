@@ -1,0 +1,28 @@
+{
+  "drug_code": "72506",
+  "din": "02248173",
+  "brand_name": "NITROGEN NF",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "18-AUG-2006",
+  "active_ingredients": [
+    {
+      "name": "NITROGEN",
+      "strength": "99.5",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "GAS"
+  ],
+  "routes": [
+    "INHALATION"
+  ],
+  "companies": [
+    "VITALAIRE CANADA INC"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "NITROGEN"
+  ]
+}

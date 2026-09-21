@@ -1,0 +1,28 @@
+{
+  "drug_code": "18969",
+  "din": "02166747",
+  "brand_name": "MANERIX",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "26-FEB-2016",
+  "active_ingredients": [
+    {
+      "name": "MOCLOBEMIDE",
+      "strength": "300",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "VALEANT CANADA LP/VALEANT CANADA S.E.C."
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "MOCLOBEMIDE"
+  ]
+}

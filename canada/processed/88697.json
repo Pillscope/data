@@ -1,0 +1,28 @@
+{
+  "drug_code": "88697",
+  "din": "02402106",
+  "brand_name": "MAR-DONEPEZIL",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "28-MAY-2014",
+  "active_ingredients": [
+    {
+      "name": "DONEPEZIL HYDROCHLORIDE",
+      "strength": "10",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "MARCAN PHARMACEUTICALS INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "DONEPEZIL"
+  ]
+}

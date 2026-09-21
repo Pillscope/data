@@ -1,0 +1,33 @@
+{
+  "drug_code": "3633",
+  "din": "00469327",
+  "brand_name": "DEMULEN 30 (21 DAY PACK)",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "25-JAN-2013",
+  "active_ingredients": [
+    {
+      "name": "ETHYNODIOL DIACETATE",
+      "strength": "2",
+      "unit": "MG"
+    },
+    {
+      "name": "ETHINYL ESTRADIOL",
+      "strength": "30",
+      "unit": "MCG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "PFIZER CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "ETYNODIOL AND ESTROGEN"
+  ]
+}

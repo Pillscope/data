@@ -1,0 +1,28 @@
+{
+  "drug_code": "89327",
+  "din": "02408538",
+  "brand_name": "CLINDAMYCIN IV INFUSION",
+  "class": "Human",
+  "descriptor": "900MG/50ML MINIBAGS. SINGLE USE.",
+  "last_update": "14-JAN-2014",
+  "active_ingredients": [
+    {
+      "name": "CLINDAMYCIN (CLINDAMYCIN PHOSPHATE)",
+      "strength": "18",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "SANDOZ CANADA INCORPORATED"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "CLINDAMYCIN"
+  ]
+}

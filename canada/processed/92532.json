@@ -1,0 +1,31 @@
+{
+  "drug_code": "92532",
+  "din": "02440962",
+  "brand_name": "LC-FILM PROTECT",
+  "class": "Veterinary",
+  "descriptor": "TEAT DIP",
+  "last_update": "12-OCT-2016",
+  "active_ingredients": [
+    {
+      "name": "CHLORHEXIDINE ACETATE",
+      "strength": "0.5",
+      "unit": "%"
+    },
+    {
+      "name": "GLYCERINE",
+      "strength": "4.85",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "LIBERCHEM INC"
+  ],
+  "status": "APPROVED",
+  "atc": []
+}

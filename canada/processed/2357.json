@@ -1,0 +1,26 @@
+{
+  "drug_code": "2357",
+  "din": "00364827",
+  "brand_name": "DECACIDE TAB 50MG",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "26-FEB-2002",
+  "active_ingredients": [
+    {
+      "name": "DIETHYLCARBAMAZINE CITRATE",
+      "strength": "50",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "PROFESSIONAL VETERINARY LABORATORIES"
+  ],
+  "status": "MARKETED",
+  "atc": []
+}

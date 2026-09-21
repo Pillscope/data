@@ -1,0 +1,28 @@
+{
+  "drug_code": "92139",
+  "din": "02437082",
+  "brand_name": "DULOXETINE DR",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "18-MAY-2016",
+  "active_ingredients": [
+    {
+      "name": "DULOXETINE (DULOXETINE HYDROCHLORIDE)",
+      "strength": "30",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "CAPSULE (DELAYED RELEASE)"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "TEVA CANADA LIMITED"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "DULOXETINE"
+  ]
+}

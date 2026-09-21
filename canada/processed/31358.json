@@ -1,0 +1,30 @@
+{
+  "drug_code": "31358",
+  "din": "02139480",
+  "brand_name": "FOLIC ACID INJECTION",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "30-MAY-2016",
+  "active_ingredients": [
+    {
+      "name": "FOLIC ACID (SODIUM FOLATE)",
+      "strength": "5",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "INTRAMUSCULAR",
+    "INTRAVENOUS",
+    "SUBCUTANEOUS"
+  ],
+  "companies": [
+    "FRESENIUS KABI CANADA LTD"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "FOLIC ACID"
+  ]
+}

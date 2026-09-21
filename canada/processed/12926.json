@@ -1,0 +1,28 @@
+{
+  "drug_code": "12926",
+  "din": "01944363",
+  "brand_name": "COMBANTRIN TAB 125MG",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "29-APR-2015",
+  "active_ingredients": [
+    {
+      "name": "PYRANTEL (PYRANTEL PAMOATE)",
+      "strength": "125",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "MCNEIL CONSUMER HEALTHCARE DIVISION OF JOHNSON & JOHNSON INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "PYRANTEL"
+  ]
+}

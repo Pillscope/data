@@ -1,0 +1,28 @@
+{
+  "drug_code": "78847",
+  "din": "02303140",
+  "brand_name": "PMS-PIOGLITAZONE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "20-JAN-2009",
+  "active_ingredients": [
+    {
+      "name": "PIOGLITAZONE (PIOGLITAZONE HYDROCHLORIDE)",
+      "strength": "45",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "PHARMASCIENCE INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "PIOGLITAZONE"
+  ]
+}

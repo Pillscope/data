@@ -1,0 +1,28 @@
+{
+  "drug_code": "61606",
+  "din": "02238213",
+  "brand_name": "PROPECIA",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "02-AUG-2007",
+  "active_ingredients": [
+    {
+      "name": "FINASTERIDE",
+      "strength": "1",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "MERCK CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "FINASTERIDE"
+  ]
+}

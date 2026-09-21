@@ -1,0 +1,26 @@
+{
+  "drug_code": "76769",
+  "din": "02282046",
+  "brand_name": "ATOPICA",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "16-MAR-2017",
+  "active_ingredients": [
+    {
+      "name": "CYCLOSPORINE",
+      "strength": "10",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "CAPSULE"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "ELANCO CANADA LIMITED"
+  ],
+  "status": "APPROVED",
+  "atc": []
+}

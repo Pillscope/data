@@ -1,0 +1,28 @@
+{
+  "drug_code": "6421",
+  "din": "00642215",
+  "brand_name": "PEN-VK",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "29-JUL-2017",
+  "active_ingredients": [
+    {
+      "name": "PENICILLIN V POTASSIUM",
+      "strength": "300",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "AA PHARMA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "PHENOXYMETHYLPENICILLIN"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "drug_code": "10770",
+  "din": "00821780",
+  "brand_name": "CALCIJECT INJ 100MG/ML",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "25-FEB-2009",
+  "active_ingredients": [
+    {
+      "name": "CALCIUM CHLORIDE",
+      "strength": "100",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "LIQUID"
+  ],
+  "routes": [
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "OMEGA LABORATORIES LTD"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "CALCIUM CHLORIDE"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "drug_code": "41738",
+  "din": "00738972",
+  "brand_name": "CHLOR-TRIPOLON",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "25-AUG-2017",
+  "active_ingredients": [
+    {
+      "name": "CHLORPHENIRAMINE MALEATE",
+      "strength": "4",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "BAYER INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "CHLORPHENIRAMINE"
+  ]
+}

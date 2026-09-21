@@ -1,0 +1,26 @@
+{
+  "drug_code": "5974",
+  "din": "00622125",
+  "brand_name": "IVOMEC",
+  "class": "Veterinary",
+  "descriptor": "IVOMEC DRENCH FOR SHEEP",
+  "last_update": "05-MAY-2015",
+  "active_ingredients": [
+    {
+      "name": "IVERMECTIN",
+      "strength": "0.8",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "MERIAL CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": []
+}

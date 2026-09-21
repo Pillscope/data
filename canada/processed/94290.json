@@ -1,0 +1,38 @@
+{
+  "drug_code": "94290",
+  "din": "02456052",
+  "brand_name": "DRY BALANCE SUNSCREEN LOTION SPF 30",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "04-JAN-2017",
+  "active_ingredients": [
+    {
+      "name": "AVOBENZONE",
+      "strength": "2.2",
+      "unit": "%"
+    },
+    {
+      "name": "OCTOCRYLENE",
+      "strength": "4.2",
+      "unit": "%"
+    },
+    {
+      "name": "HOMOSALATE",
+      "strength": "7",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "LOTION"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "EDGEWELL PERSONAL CARE CANADA, ULC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "COMBINATIONS OF PROTECTIVES AGAINST UV-RADIATION"
+  ]
+}

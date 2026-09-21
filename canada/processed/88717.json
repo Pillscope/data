@@ -1,0 +1,28 @@
+{
+  "drug_code": "88717",
+  "din": "02402327",
+  "brand_name": "PURMEDIC3",
+  "class": "Disinfectant",
+  "descriptor": "",
+  "last_update": "15-JAN-2016",
+  "active_ingredients": [
+    {
+      "name": "BENZALKONIUM CHLORIDE",
+      "strength": "10",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "LIQUID"
+  ],
+  "routes": [
+    "DISINFECTANT (Food Premises)"
+  ],
+  "companies": [
+    "CONFORTMEDIC TECHNOLOGIES INC"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "TECHNICAL DISINFECTANTS"
+  ]
+}

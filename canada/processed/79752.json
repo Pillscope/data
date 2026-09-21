@@ -1,0 +1,28 @@
+{
+  "drug_code": "79752",
+  "din": "02311992",
+  "brand_name": "OLANZAPINE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "18-MAR-2010",
+  "active_ingredients": [
+    {
+      "name": "OLANZAPINE",
+      "strength": "10",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "PRO DOC LIMITEE"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "OLANZAPINE"
+  ]
+}

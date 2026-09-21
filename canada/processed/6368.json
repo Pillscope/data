@@ -1,0 +1,27 @@
+{
+  "drug_code": "6368",
+  "din": "00617210",
+  "brand_name": "DEXAMETHASONE 2 STERILE INJECTABLE SOLUTION",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "02-JAN-2007",
+  "active_ingredients": [
+    {
+      "name": "DEXAMETHASONE SODIUM PHOSPHATE",
+      "strength": "2",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "INTRAMUSCULAR",
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "VETOQUINOL N A INC"
+  ],
+  "status": "APPROVED",
+  "atc": []
+}

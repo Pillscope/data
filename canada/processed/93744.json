@@ -1,0 +1,28 @@
+{
+  "drug_code": "93744",
+  "din": "02451182",
+  "brand_name": "UPTRAVI",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "20-MAY-2016",
+  "active_ingredients": [
+    {
+      "name": "SELEXIPAG",
+      "strength": "800",
+      "unit": "MCG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "ACTELION PHARMACEUTICALS LTD"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "SELEXIPAG"
+  ]
+}

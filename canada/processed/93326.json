@@ -1,0 +1,39 @@
+{
+  "drug_code": "93326",
+  "din": "02447711",
+  "brand_name": "TECHNIVIE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "20-JAN-2016",
+  "active_ingredients": [
+    {
+      "name": "RITONAVIR",
+      "strength": "50",
+      "unit": "MG"
+    },
+    {
+      "name": "Ombitasvir",
+      "strength": "12.5",
+      "unit": "MG"
+    },
+    {
+      "name": "Paritaprevir",
+      "strength": "75",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "ABBVIE CORPORATION"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "OMBITASVIR, PARITAPREVIR AND RITONAVIR",
+    "OMBITASVIR, PARITAPREVIR AND RITONAVIR"
+  ]
+}

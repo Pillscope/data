@@ -1,0 +1,28 @@
+{
+  "drug_code": "72851",
+  "din": "02248499",
+  "brand_name": "APO-QUINAPRIL",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "06-MAY-2015",
+  "active_ingredients": [
+    {
+      "name": "QUINAPRIL (QUINAPRIL HYDROCHLORIDE)",
+      "strength": "5",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "APOTEX INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "QUINAPRIL"
+  ]
+}

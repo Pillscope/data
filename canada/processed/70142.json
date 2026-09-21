@@ -1,0 +1,28 @@
+{
+  "drug_code": "70142",
+  "din": "02246016",
+  "brand_name": "THYROGEN",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "11-JUN-2015",
+  "active_ingredients": [
+    {
+      "name": "THYROTROPIN ALFA",
+      "strength": "0.9",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "POWDER FOR SOLUTION"
+  ],
+  "routes": [
+    "INTRAMUSCULAR"
+  ],
+  "companies": [
+    "SANOFI GENZYME, A DIVISION OF SANOFI-AVENTIS CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "THYROTROPHIN"
+  ]
+}

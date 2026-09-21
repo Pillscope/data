@@ -1,0 +1,28 @@
+{
+  "drug_code": "87147",
+  "din": "02385864",
+  "brand_name": "OLANZAPINE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "08-NOV-2012",
+  "active_ingredients": [
+    {
+      "name": "OLANZAPINE",
+      "strength": "2.5",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "SIVEM PHARMACEUTICALS ULC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "OLANZAPINE"
+  ]
+}

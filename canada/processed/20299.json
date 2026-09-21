@@ -1,0 +1,28 @@
+{
+  "drug_code": "20299",
+  "din": "02162121",
+  "brand_name": "BENZAGEL 5 WASH",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "12-JUL-2012",
+  "active_ingredients": [
+    {
+      "name": "BENZOYL PEROXIDE",
+      "strength": "5",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "LIQUID"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "COLUMBIA LABORATORIES CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "BENZOYL PEROXIDE"
+  ]
+}

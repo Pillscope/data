@@ -1,0 +1,28 @@
+{
+  "drug_code": "77421",
+  "din": "02288826",
+  "brand_name": "PROVOCHOLINE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "25-MAR-2008",
+  "active_ingredients": [
+    {
+      "name": "METHACHOLINE CHLORIDE",
+      "strength": "1600",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "POWDER FOR SOLUTION"
+  ],
+  "routes": [
+    "INHALATION"
+  ],
+  "companies": [
+    "METHAPHARM INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "OTHER DIAGNOSTIC AGENTS"
+  ]
+}

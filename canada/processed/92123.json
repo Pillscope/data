@@ -1,0 +1,28 @@
+{
+  "drug_code": "92123",
+  "din": "02436914",
+  "brand_name": "AURO-CLINDAMYCIN",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "18-JAN-2017",
+  "active_ingredients": [
+    {
+      "name": "CLINDAMYCIN HYDROCHLORIDE",
+      "strength": "300",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "CAPSULE"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "AURO PHARMA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "CLINDAMYCIN"
+  ]
+}

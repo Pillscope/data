@@ -1,0 +1,28 @@
+{
+  "drug_code": "441",
+  "din": "00030848",
+  "brand_name": "DEPO-PROVERA STERILE AQUEOUS SUSPENSION 50 MG/ML",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "01-MAY-2009",
+  "active_ingredients": [
+    {
+      "name": "MEDROXYPROGESTERONE ACETATE",
+      "strength": "50",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SUSPENSION"
+  ],
+  "routes": [
+    "INTRAMUSCULAR"
+  ],
+  "companies": [
+    "PFIZER CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "MEDROXYPROGESTERONE"
+  ]
+}

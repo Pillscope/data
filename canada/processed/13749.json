@@ -1,0 +1,26 @@
+{
+  "drug_code": "13749",
+  "din": "02016745",
+  "brand_name": "COTHIVET TOPICAL SPRAY",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "27-JUL-2007",
+  "active_ingredients": [
+    {
+      "name": "HYDROCOTYLE",
+      "strength": "89.5",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "SPRAY"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "VETOQUINOL N A INC"
+  ],
+  "status": "APPROVED",
+  "atc": []
+}

@@ -1,0 +1,43 @@
+{
+  "drug_code": "71650",
+  "din": "02247404",
+  "brand_name": "SUN AND SNOW SPORT LOTION SPF 30",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "10-JUL-2007",
+  "active_ingredients": [
+    {
+      "name": "OCTOCRYLENE",
+      "strength": "2",
+      "unit": "%"
+    },
+    {
+      "name": "OXYBENZONE",
+      "strength": "6",
+      "unit": "%"
+    },
+    {
+      "name": "OCTISALATE",
+      "strength": "5",
+      "unit": "%"
+    },
+    {
+      "name": "OCTINOXATE",
+      "strength": "7.5",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "LOTION"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "DAVID ASTLEY AND COMPANY INC."
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "COMBINATIONS OF PROTECTIVES AGAINST UV-RADIATION"
+  ]
+}

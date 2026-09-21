@@ -1,0 +1,28 @@
+{
+  "drug_code": "63424",
+  "din": "02239924",
+  "brand_name": "GLUCONORM 0.5MG",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "06-JAN-2009",
+  "active_ingredients": [
+    {
+      "name": "REPAGLINIDE",
+      "strength": "0.5",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "NOVO NORDISK CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "REPAGLINIDE"
+  ]
+}

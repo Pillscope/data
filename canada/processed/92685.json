@@ -1,0 +1,28 @@
+{
+  "drug_code": "92685",
+  "din": "02442507",
+  "brand_name": "ESOMEPRAZOLE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "20-JUN-2016",
+  "active_ingredients": [
+    {
+      "name": "ESOMEPRAZOLE (ESOMEPRAZOLE MAGNESIUM)",
+      "strength": "40",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET (DELAYED-RELEASE)"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "SIVEM PHARMACEUTICALS ULC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "ESOMEPRAZOLE"
+  ]
+}

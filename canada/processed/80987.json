@@ -1,0 +1,101 @@
+{
+  "drug_code": "80987",
+  "din": "02324415",
+  "brand_name": "VITA PRO SOLUBLE",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "10-DEC-2015",
+  "active_ingredients": [
+    {
+      "name": "SODIUM DIACETATE",
+      "strength": "7.14",
+      "unit": "G"
+    },
+    {
+      "name": "NICOTINAMIDE",
+      "strength": "6720",
+      "unit": "MG"
+    },
+    {
+      "name": "CALCIUM D-PANTOTHENATE",
+      "strength": "3200",
+      "unit": "MG"
+    },
+    {
+      "name": "CHOLINE BITARTRATE",
+      "strength": "5760",
+      "unit": "MG"
+    },
+    {
+      "name": "VITAMIN D3",
+      "strength": "1000000",
+      "unit": "UNIT"
+    },
+    {
+      "name": "CALCIUM ACETATE",
+      "strength": "7.14",
+      "unit": "G"
+    },
+    {
+      "name": "VITAMIN B2",
+      "strength": "1280",
+      "unit": "MG"
+    },
+    {
+      "name": "VITAMIN A (VITAMIN A ACETATE)",
+      "strength": "1280000",
+      "unit": "UNIT"
+    },
+    {
+      "name": "VITAMIN E (DL-ALPHA TOCOPHERYL ACETATE)",
+      "strength": "1500",
+      "unit": "UNIT"
+    },
+    {
+      "name": "SODIUM CHLORIDE",
+      "strength": "277.71",
+      "unit": "G"
+    },
+    {
+      "name": "SODIUM ACETATE",
+      "strength": "35.71",
+      "unit": "G"
+    },
+    {
+      "name": "POTASSIUM CHLORIDE",
+      "strength": "14.28",
+      "unit": "G"
+    },
+    {
+      "name": "FOLIC ACID",
+      "strength": "150",
+      "unit": "MG"
+    },
+    {
+      "name": "VITAMIN B12",
+      "strength": "2560",
+      "unit": "MCG"
+    },
+    {
+      "name": "MAGNESIUM CHLORIDE ANHYDROUS",
+      "strength": "7.14",
+      "unit": "G"
+    },
+    {
+      "name": "MENADIONE (MENADIONE SODIUM BISULFITE)",
+      "strength": "500",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "POWDER FOR SOLUTION"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "MATRIX ENVIRONMENTAL SOLUTIONS LTD"
+  ],
+  "status": "APPROVED",
+  "atc": []
+}

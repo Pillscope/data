@@ -1,0 +1,29 @@
+{
+  "drug_code": "65671",
+  "din": "02242001",
+  "brand_name": "CARBOCAINE 2%",
+  "class": "Human",
+  "descriptor": "20ML SINGLE USE VIAL",
+  "last_update": "02-AUG-2017",
+  "active_ingredients": [
+    {
+      "name": "MEPIVACAINE HYDROCHLORIDE",
+      "strength": "20",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "INTRACAUDAL",
+    "EPIDURAL"
+  ],
+  "companies": [
+    "PFIZER CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "MEPIVACAINE"
+  ]
+}

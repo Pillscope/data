@@ -1,0 +1,28 @@
+{
+  "drug_code": "20059",
+  "din": "01904116",
+  "brand_name": "CHILDREN'S MOTION SICKNESS LIQ",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "07-SEP-2017",
+  "active_ingredients": [
+    {
+      "name": "DIMENHYDRINATE",
+      "strength": "15",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "TANTA PHARMACEUTICALS INC"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "DIPHENHYDRAMINE"
+  ]
+}

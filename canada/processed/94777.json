@@ -1,0 +1,28 @@
+{
+  "drug_code": "94777",
+  "din": "02460424",
+  "brand_name": "FIASP",
+  "class": "Human",
+  "descriptor": "3ML PRE-FILLED PEN",
+  "last_update": "05-JUN-2017",
+  "active_ingredients": [
+    {
+      "name": "INSULIN ASPART",
+      "strength": "100",
+      "unit": "UNIT"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "SUBCUTANEOUS"
+  ],
+  "companies": [
+    "NOVO NORDISK CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "INSULIN ASPART"
+  ]
+}

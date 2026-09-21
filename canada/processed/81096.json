@@ -1,0 +1,29 @@
+{
+  "drug_code": "81096",
+  "din": "02325594",
+  "brand_name": "CEFTRIAXONE SODIUM FOR INJECTION BP",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "26-JUL-2011",
+  "active_ingredients": [
+    {
+      "name": "CEFTRIAXONE (CEFTRIAXONE SODIUM)",
+      "strength": "250",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "POWDER FOR SOLUTION"
+  ],
+  "routes": [
+    "INTRAMUSCULAR",
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "STERIMAX INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "CEFTRIAXONE"
+  ]
+}

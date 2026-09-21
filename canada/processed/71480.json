@@ -1,0 +1,28 @@
+{
+  "drug_code": "71480",
+  "din": "02247238",
+  "brand_name": "ELIDEL",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "02-JUN-2015",
+  "active_ingredients": [
+    {
+      "name": "PIMECROLIMUS",
+      "strength": "1",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "CREAM"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "VALEANT CANADA LP/VALEANT CANADA S.E.C."
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "PIMECROLIMUS"
+  ]
+}

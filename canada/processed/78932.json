@@ -1,0 +1,28 @@
+{
+  "drug_code": "78932",
+  "din": "02304015",
+  "brand_name": "REFRESH CONTACTS",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "25-JUL-2012",
+  "active_ingredients": [
+    {
+      "name": "SODIUM CARBOXYMETHYL CELLULOSE",
+      "strength": "0.5",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "OPHTHALMIC"
+  ],
+  "companies": [
+    "ALLERGAN INC"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "ARTIFICIAL TEARS AND OTHER INDIFFERENT PREPARATIONS."
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "drug_code": "4544",
+  "din": "00507415",
+  "brand_name": "DAN-GARD",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "29-APR-2015",
+  "active_ingredients": [
+    {
+      "name": "PYRITHIONE ZINC",
+      "strength": "2",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "SHAMPOO"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "VALEO PHARMA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "PYRITHIONE ZINC"
+  ]
+}

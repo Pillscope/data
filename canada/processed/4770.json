@@ -1,0 +1,27 @@
+{
+  "drug_code": "4770",
+  "din": "00553522",
+  "brand_name": "CALCIUM GLUCONATE 23% INJ",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "18-JAN-2005",
+  "active_ingredients": [
+    {
+      "name": "CALCIUM BOROGLUCONATE",
+      "strength": "23",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "INTRAPERITONEAL",
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "UNIVET PHARMACEUTICALS LTD."
+  ],
+  "status": "MARKETED",
+  "atc": []
+}

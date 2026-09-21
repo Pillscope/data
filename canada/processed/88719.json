@@ -1,0 +1,28 @@
+{
+  "drug_code": "88719",
+  "din": "02402343",
+  "brand_name": "COMPLIMENTS ULTRA BLEACH CONCENTRATED",
+  "class": "Disinfectant",
+  "descriptor": "",
+  "last_update": "09-MAY-2013",
+  "active_ingredients": [
+    {
+      "name": "SODIUM HYPOCHLORITE",
+      "strength": "6",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "LIQUID"
+  ],
+  "routes": [
+    "DISINFECTANT (Domestic)"
+  ],
+  "companies": [
+    "LAVO"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "TECHNICAL DISINFECTANTS"
+  ]
+}

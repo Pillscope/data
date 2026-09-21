@@ -1,0 +1,28 @@
+{
+  "drug_code": "88375",
+  "din": "02398834",
+  "brand_name": "JAMP-LOSARTAN",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "03-JUN-2016",
+  "active_ingredients": [
+    {
+      "name": "LOSARTAN POTASSIUM",
+      "strength": "25",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "JAMP PHARMA CORPORATION"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "LOSARTAN"
+  ]
+}

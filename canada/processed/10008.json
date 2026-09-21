@@ -1,0 +1,28 @@
+{
+  "drug_code": "10008",
+  "din": "00644579",
+  "brand_name": "IMIPRAMINE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "13-MAY-2013",
+  "active_ingredients": [
+    {
+      "name": "IMIPRAMINE HYDROCHLORIDE",
+      "strength": "75",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "AA PHARMA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "IMIPRAMINE"
+  ]
+}

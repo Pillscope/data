@@ -1,0 +1,33 @@
+{
+  "drug_code": "77966",
+  "din": "02294311",
+  "brand_name": "CLOROX DISINFECTING BATHROOM CLEANER-1",
+  "class": "Disinfectant",
+  "descriptor": "",
+  "last_update": "09-JAN-2013",
+  "active_ingredients": [
+    {
+      "name": "BENZALKONIUM CHLORIDE",
+      "strength": "0.1375",
+      "unit": "%"
+    },
+    {
+      "name": "ALKYL DIMETHYL ETHYLBENZYL AMMONIUM CHLORIDE",
+      "strength": "0.1375",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "SPRAY"
+  ],
+  "routes": [
+    "DISINFECTANT (Domestic)"
+  ],
+  "companies": [
+    "THE CLOROX COMPANY OF CANADA LTD"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "TECHNICAL DISINFECTANTS"
+  ]
+}

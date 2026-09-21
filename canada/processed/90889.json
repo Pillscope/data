@@ -1,0 +1,28 @@
+{
+  "drug_code": "90889",
+  "din": "02424177",
+  "brand_name": "PMS-RISEDRONATE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "20-JAN-2016",
+  "active_ingredients": [
+    {
+      "name": "RISEDRONATE SODIUM (RISEDRONATE SODIUM HEMI-PENTAHYDRATE)",
+      "strength": "150",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "PHARMASCIENCE INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "RISEDRONIC ACID"
+  ]
+}

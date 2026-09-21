@@ -1,0 +1,38 @@
+{
+  "drug_code": "70261",
+  "din": "02246118",
+  "brand_name": "DIORSKIN COMPACT",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "21-SEP-2003",
+  "active_ingredients": [
+    {
+      "name": "TITANIUM DIOXIDE",
+      "strength": "15",
+      "unit": "%"
+    },
+    {
+      "name": "OXYBENZONE",
+      "strength": "2",
+      "unit": "%"
+    },
+    {
+      "name": "OCTINOXATE",
+      "strength": "6",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "POWDER"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "PARFUMS CHRISTIAN DIOR"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "COMBINATIONS OF PROTECTIVES AGAINST UV-RADIATION"
+  ]
+}

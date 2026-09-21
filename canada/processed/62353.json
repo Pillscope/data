@@ -1,0 +1,26 @@
+{
+  "drug_code": "62353",
+  "din": "02238912",
+  "brand_name": "BUTASONE 1000",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "30-SEP-2010",
+  "active_ingredients": [
+    {
+      "name": "PHENYLBUTAZONE",
+      "strength": "1000",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "BOLUS"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "JAAPHARM CANADA INC."
+  ],
+  "status": "MARKETED",
+  "atc": []
+}

@@ -1,0 +1,28 @@
+{
+  "drug_code": "79820",
+  "din": "02312670",
+  "brand_name": "PRO-LOVASTATIN",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "01-AUG-2008",
+  "active_ingredients": [
+    {
+      "name": "LOVASTATIN",
+      "strength": "20",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "PRO DOC LIMITEE"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "LOVASTATIN"
+  ]
+}

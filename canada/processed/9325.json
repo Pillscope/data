@@ -1,0 +1,28 @@
+{
+  "drug_code": "9325",
+  "din": "00781193",
+  "brand_name": "VITAMIN E INJ 100UNIT/ML",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "06-JUL-2011",
+  "active_ingredients": [
+    {
+      "name": "VITAMIN E (DL-ALPHA TOCOPHERYL ACETATE)",
+      "strength": "100",
+      "unit": "UNIT"
+    }
+  ],
+  "forms": [
+    "LIQUID"
+  ],
+  "routes": [
+    "INTRAMUSCULAR"
+  ],
+  "companies": [
+    "KRIPPS PHARMACY LTD."
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "TOCOPHEROL (VIT E)"
+  ]
+}

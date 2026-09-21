@@ -1,0 +1,28 @@
+{
+  "drug_code": "92099",
+  "din": "02436663",
+  "brand_name": "PHEBURANE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "27-MAR-2015",
+  "active_ingredients": [
+    {
+      "name": "Sodium phenylbutyrate",
+      "strength": "483",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "GRANULES"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "MEDUNIK CANADA"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "SODIUM PHENYLBUTYRATE"
+  ]
+}

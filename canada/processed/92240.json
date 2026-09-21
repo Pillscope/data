@@ -1,0 +1,28 @@
+{
+  "drug_code": "92240",
+  "din": "02438046",
+  "brand_name": "MINT-QUETIAPINE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "17-APR-2015",
+  "active_ingredients": [
+    {
+      "name": "QUETIAPINE (QUETIAPINE FUMARATE)",
+      "strength": "200",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "MINT PHARMACEUTICALS INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "QUETIAPINE"
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "drug_code": "92221",
+  "din": "02437848",
+  "brand_name": "CEFTAZIDIME FOR INJECTION BP",
+  "class": "Human",
+  "descriptor": "I.M, I.V. INJ. & I.V INFUSION",
+  "last_update": "11-JUN-2015",
+  "active_ingredients": [
+    {
+      "name": "CEFTAZIDIME (CEFTAZIDIME PENTAHYDRATE)",
+      "strength": "1",
+      "unit": "G"
+    }
+  ],
+  "forms": [
+    "POWDER FOR SOLUTION"
+  ],
+  "routes": [
+    "INTRAMUSCULAR",
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "STERIMAX INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "CEFTAZIDIME"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "drug_code": "94632",
+  "din": "02459132",
+  "brand_name": "MOVAPO",
+  "class": "Human",
+  "descriptor": "30MG/3ML PRE-FILLED PEN",
+  "last_update": "11-SEP-2017",
+  "active_ingredients": [
+    {
+      "name": "APOMORPHINE HYDROCHLORIDE",
+      "strength": "10",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "SUBCUTANEOUS"
+  ],
+  "companies": [
+    "PALADIN LABS INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "APOMORPHINE"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "drug_code": "41869",
+  "din": "00875988",
+  "brand_name": "TEMPRA INFANT DROPS",
+  "class": "Human",
+  "descriptor": "80MG/ML",
+  "last_update": "25-APR-2018",
+  "active_ingredients": [
+    {
+      "name": "ACETAMINOPHEN",
+      "strength": "80",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "DROPS"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "PALADIN LABS INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "ACETAMINOPHEN (PARACETAMOL)"
+  ]
+}

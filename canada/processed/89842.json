@@ -1,0 +1,29 @@
+{
+  "drug_code": "89842",
+  "din": "02413795",
+  "brand_name": "CYANOCOBALAMIN INJECTION, USP",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "19-JAN-2016",
+  "active_ingredients": [
+    {
+      "name": "VITAMIN B12",
+      "strength": "1000",
+      "unit": "MCG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "INTRAMUSCULAR",
+    "SUBCUTANEOUS"
+  ],
+  "companies": [
+    "MYLAN PHARMACEUTICALS ULC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "CYANOCOBALAMIN"
+  ]
+}

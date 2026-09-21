@@ -1,0 +1,26 @@
+{
+  "drug_code": "78265",
+  "din": "02297280",
+  "brand_name": "PRILIUM 150 MG (IMIDAPRIL HYDROCHLORIDE)",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "17-MAR-2009",
+  "active_ingredients": [
+    {
+      "name": "IMIDAPRIL HYDROCHLORIDE",
+      "strength": "0.150",
+      "unit": "G"
+    }
+  ],
+  "forms": [
+    "POWDER FOR SOLUTION"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "VETOQUINOL N A INC"
+  ],
+  "status": "APPROVED",
+  "atc": []
+}

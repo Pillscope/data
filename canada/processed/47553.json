@@ -1,0 +1,28 @@
+{
+  "drug_code": "47553",
+  "din": "02229628",
+  "brand_name": "PMS-VALPROIC ACID E.C.",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "07-APR-2006",
+  "active_ingredients": [
+    {
+      "name": "VALPROIC ACID",
+      "strength": "500",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "CAPSULE (ENTERIC-COATED)"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "PHARMASCIENCE INC"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "VALPROIC ACID"
+  ]
+}

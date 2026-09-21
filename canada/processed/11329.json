@@ -1,0 +1,98 @@
+{
+  "drug_code": "11329",
+  "din": "00872296",
+  "brand_name": "TRAVASOL",
+  "class": "Human",
+  "descriptor": "BLEND C",
+  "last_update": "30-JUN-2016",
+  "active_ingredients": [
+    {
+      "name": "L-ALANINE",
+      "strength": "2.07",
+      "unit": "G"
+    },
+    {
+      "name": "PROLINE",
+      "strength": "680",
+      "unit": "MG"
+    },
+    {
+      "name": "METHIONINE",
+      "strength": "400",
+      "unit": "MG"
+    },
+    {
+      "name": "ARGININE",
+      "strength": "1.15",
+      "unit": "G"
+    },
+    {
+      "name": "TRYPTOPHAN",
+      "strength": "180",
+      "unit": "MG"
+    },
+    {
+      "name": "THREONINE",
+      "strength": "420",
+      "unit": "MG"
+    },
+    {
+      "name": "PHENYLALANINE",
+      "strength": "560",
+      "unit": "MG"
+    },
+    {
+      "name": "VALINE",
+      "strength": "580",
+      "unit": "MG"
+    },
+    {
+      "name": "TYROSINE",
+      "strength": "40",
+      "unit": "MG"
+    },
+    {
+      "name": "SERINE",
+      "strength": "500",
+      "unit": "MG"
+    },
+    {
+      "name": "LEUCINE",
+      "strength": "730",
+      "unit": "MG"
+    },
+    {
+      "name": "L-LYSINE (L-LYSINE HYDROCHLORIDE)",
+      "strength": "580",
+      "unit": "MG"
+    },
+    {
+      "name": "GLYCINE",
+      "strength": "1.03",
+      "unit": "G"
+    },
+    {
+      "name": "HISTIDINE",
+      "strength": "480",
+      "unit": "MG"
+    },
+    {
+      "name": "ISOLEUCINE",
+      "strength": "600",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "BAXTER CORPORATION"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "AMINO ACIDS"
+  ]
+}

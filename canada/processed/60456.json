@@ -1,0 +1,28 @@
+{
+  "drug_code": "60456",
+  "din": "02237141",
+  "brand_name": "CEFAZOLIN FOR INJECTION, USP",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "05-MAY-2015",
+  "active_ingredients": [
+    {
+      "name": "CEFAZOLIN (CEFAZOLIN SODIUM)",
+      "strength": "20",
+      "unit": "G"
+    }
+  ],
+  "forms": [
+    "POWDER FOR SOLUTION"
+  ],
+  "routes": [
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "FRESENIUS KABI CANADA LTD"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "CEFAZOLIN"
+  ]
+}

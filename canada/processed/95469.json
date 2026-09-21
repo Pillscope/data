@@ -1,0 +1,28 @@
+{
+  "drug_code": "95469",
+  "din": "02466341",
+  "brand_name": "TOPICAL HAPTEN LIQUID",
+  "class": "Human",
+  "descriptor": "SOLID ACTIVE SUBSTANCE IN LIQUID VEHICLE",
+  "last_update": "23-OCT-2017",
+  "active_ingredients": [
+    {
+      "name": "HAPTENS",
+      "strength": "20",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "LIQUID"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "DORMER LABORATORIES INC."
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "VARIOUS"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "drug_code": "89213",
+  "din": "02407442",
+  "brand_name": "MYLAN-NITRO PATCH 0.2",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "01-NOV-2017",
+  "active_ingredients": [
+    {
+      "name": "NITROGLYCERIN",
+      "strength": "0.2",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "PATCH (EXTENDED RELEASE)"
+  ],
+  "routes": [
+    "TRANSDERMAL"
+  ],
+  "companies": [
+    "MYLAN PHARMACEUTICALS ULC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "GLYCERYL TRINITRATE"
+  ]
+}

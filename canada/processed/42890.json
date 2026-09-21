@@ -1,0 +1,43 @@
+{
+  "drug_code": "42890",
+  "din": "02187116",
+  "brand_name": "SYNPHASIC 28 TABLETS",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "11-AUG-2009",
+  "active_ingredients": [
+    {
+      "name": "NORETHINDRONE",
+      "strength": "0.5",
+      "unit": "MG"
+    },
+    {
+      "name": "NORETHINDRONE",
+      "strength": "1.0",
+      "unit": "MG"
+    },
+    {
+      "name": "ETHINYL ESTRADIOL",
+      "strength": "0.035",
+      "unit": "MG"
+    },
+    {
+      "name": "ETHINYL ESTRADIOL",
+      "strength": "0.035",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "PFIZER CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "NORETHISTERONE AND ESTROGEN"
+  ]
+}

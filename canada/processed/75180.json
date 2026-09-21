@@ -1,0 +1,28 @@
+{
+  "drug_code": "75180",
+  "din": "02266385",
+  "brand_name": "TARO-MOMETASONE LOTION",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "27-JUL-2017",
+  "active_ingredients": [
+    {
+      "name": "MOMETASONE FUROATE",
+      "strength": "0.1",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "LOTION"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "TARO PHARMACEUTICALS INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "MOMETASONE"
+  ]
+}

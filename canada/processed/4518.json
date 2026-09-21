@@ -1,0 +1,31 @@
+{
+  "drug_code": "4518",
+  "din": "00522945",
+  "brand_name": "FELAXIN",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "29-APR-2015",
+  "active_ingredients": [
+    {
+      "name": "COD LIVER OIL",
+      "strength": "20",
+      "unit": "MG"
+    },
+    {
+      "name": "WHITE PETROLATUM",
+      "strength": "474",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "PASTE"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "INTERVET CANADA CORP"
+  ],
+  "status": "APPROVED",
+  "atc": []
+}

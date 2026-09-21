@@ -1,0 +1,32 @@
+{
+  "drug_code": "19681",
+  "din": "02099705",
+  "brand_name": "METHOTREXATE SODIUM INJECTION",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "01-SEP-2017",
+  "active_ingredients": [
+    {
+      "name": "METHOTREXATE (METHOTREXATE SODIUM)",
+      "strength": "25",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "INTRA-ARTERIAL",
+    "INTRAMUSCULAR",
+    "INTRATHECAL",
+    "INTRAVENOUS",
+    "INTRAVENTRICULAR"
+  ],
+  "companies": [
+    "TEVA CANADA LIMITED"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "METHOTREXATE"
+  ]
+}

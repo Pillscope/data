@@ -1,0 +1,26 @@
+{
+  "drug_code": "86004",
+  "din": "02374722",
+  "brand_name": "ONSIOR",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "24-NOV-2016",
+  "active_ingredients": [
+    {
+      "name": "Robenacoxib",
+      "strength": "40",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "ELANCO CANADA LIMITED"
+  ],
+  "status": "APPROVED",
+  "atc": []
+}

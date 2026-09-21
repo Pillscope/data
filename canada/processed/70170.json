@@ -1,0 +1,28 @@
+{
+  "drug_code": "70170",
+  "din": "02246039",
+  "brand_name": "JAMP-BISACODYL",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "04-MAY-2015",
+  "active_ingredients": [
+    {
+      "name": "BISACODYL",
+      "strength": "5",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "JAMP PHARMA CORPORATION"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "BISACODYL"
+  ]
+}

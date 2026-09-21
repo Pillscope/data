@@ -1,0 +1,36 @@
+{
+  "drug_code": "5347",
+  "din": "00598313",
+  "brand_name": "CO-OP IODINE WOUND DRESSING",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "12-APR-2006",
+  "active_ingredients": [
+    {
+      "name": "POVIDONE-IODINE",
+      "strength": "10",
+      "unit": "%"
+    },
+    {
+      "name": "ISOPROPYL MYRISTATE",
+      "strength": "1",
+      "unit": "%"
+    },
+    {
+      "name": "ISOPROPYL ALCOHOL",
+      "strength": "65",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "AEROSOL"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "INTERPROVINCIAL CO-OP LTD"
+  ],
+  "status": "MARKETED",
+  "atc": []
+}

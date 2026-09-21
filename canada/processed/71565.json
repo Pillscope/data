@@ -1,0 +1,43 @@
+{
+  "drug_code": "71565",
+  "din": "02247322",
+  "brand_name": "PROCTOL OINTMENT",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "26-JUL-2017",
+  "active_ingredients": [
+    {
+      "name": "DIBUCAINE HYDROCHLORIDE",
+      "strength": "0.5",
+      "unit": "%"
+    },
+    {
+      "name": "ESCULIN",
+      "strength": "1",
+      "unit": "%"
+    },
+    {
+      "name": "FRAMYCETIN SULFATE",
+      "strength": "1",
+      "unit": "%"
+    },
+    {
+      "name": "HYDROCORTISONE",
+      "strength": "0.5",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "OINTMENT"
+  ],
+  "routes": [
+    "RECTAL"
+  ],
+  "companies": [
+    "ODAN LABORATORIES LTD"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "HYDROCORTISONE"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "drug_code": "5718",
+  "din": "00577790",
+  "brand_name": "PDP-ISONIAZID",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "09-FEB-2015",
+  "active_ingredients": [
+    {
+      "name": "ISONIAZID",
+      "strength": "100",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "PENDOPHARM DIVISION OF DE PHARMASCIENCE INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "ISONIAZID"
+  ]
+}

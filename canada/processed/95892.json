@@ -1,0 +1,28 @@
+{
+  "drug_code": "95892",
+  "din": "02469979",
+  "brand_name": "PHARMA-SIMVASTATIN",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "04-DEC-2017",
+  "active_ingredients": [
+    {
+      "name": "SIMVASTATIN",
+      "strength": "5",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "PHARMASCIENCE INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "SIMVASTATIN"
+  ]
+}

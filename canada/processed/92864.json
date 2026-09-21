@@ -1,0 +1,28 @@
+{
+  "drug_code": "92864",
+  "din": "02443872",
+  "brand_name": "AURO-OLMESARTAN",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "09-MAY-2017",
+  "active_ingredients": [
+    {
+      "name": "OLMESARTAN MEDOXOMIL",
+      "strength": "40",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "AURO PHARMA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "OLMESARTAN MEDOXOMIL"
+  ]
+}

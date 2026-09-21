@@ -1,0 +1,38 @@
+{
+  "drug_code": "86083",
+  "din": "02375419",
+  "brand_name": "LIP PROTECTOR SPF 15 SUNSCREEN",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "02-APR-2014",
+  "active_ingredients": [
+    {
+      "name": "AVOBENZONE",
+      "strength": "2.5",
+      "unit": "%"
+    },
+    {
+      "name": "OCTOCRYLENE",
+      "strength": "6.0",
+      "unit": "%"
+    },
+    {
+      "name": "OCTINOXATE",
+      "strength": "2.0",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "STICK"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "MARY KAY COSMETICS LTD"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "COMBINATIONS OF PROTECTIVES AGAINST UV-RADIATION"
+  ]
+}

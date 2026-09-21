@@ -1,0 +1,28 @@
+{
+  "drug_code": "89546",
+  "din": "02410818",
+  "brand_name": "JETREA",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "16-FEB-2016",
+  "active_ingredients": [
+    {
+      "name": "OCRIPLASMIN",
+      "strength": "2.5",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "INTRAVITREAL"
+  ],
+  "companies": [
+    "ALCON CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "OCRIPLASMIN"
+  ]
+}

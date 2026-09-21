@@ -1,0 +1,28 @@
+{
+  "drug_code": "14579",
+  "din": "01927949",
+  "brand_name": "0.45% SODIUM CHLORIDE INJECTION USP",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "30-APR-2015",
+  "active_ingredients": [
+    {
+      "name": "SODIUM CHLORIDE",
+      "strength": "4.5",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "B. BRAUN MEDICAL INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "SODIUM CHLORIDE"
+  ]
+}

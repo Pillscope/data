@@ -1,0 +1,28 @@
+{
+  "drug_code": "72330",
+  "din": "02248014",
+  "brand_name": "MYLAN-PAROXETINE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "11-MAR-2010",
+  "active_ingredients": [
+    {
+      "name": "PAROXETINE (PAROXETINE HYDROCHLORIDE, ISOPROPYL SOLVATE)",
+      "strength": "30",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "MYLAN PHARMACEUTICALS ULC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "PAROXETINE"
+  ]
+}

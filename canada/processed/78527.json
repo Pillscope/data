@@ -1,0 +1,28 @@
+{
+  "drug_code": "78527",
+  "din": "02299925",
+  "brand_name": "ATRIANCE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "15-SEP-2016",
+  "active_ingredients": [
+    {
+      "name": "NELARABINE",
+      "strength": "5",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "NOVARTIS PHARMACEUTICALS CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "NELARABINE"
+  ]
+}

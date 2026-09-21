@@ -1,0 +1,28 @@
+{
+  "drug_code": "2442",
+  "din": "00375802",
+  "brand_name": "ADRENAL CORTEX INJ 200MCG/ML",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "26-MAY-2011",
+  "active_ingredients": [
+    {
+      "name": "HYDROCORTISONE (ADRENAL CORTICAL EXTRACT)",
+      "strength": "200",
+      "unit": "MCG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "INTRAMUSCULAR",
+    "INTRAVENOUS",
+    "SUBCUTANEOUS"
+  ],
+  "companies": [
+    "DOMINION VETERINARY LABORATORIES LTD."
+  ],
+  "status": "MARKETED",
+  "atc": []
+}

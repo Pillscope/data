@@ -1,0 +1,28 @@
+{
+  "drug_code": "67917",
+  "din": "02243974",
+  "brand_name": "ENTROPHEN CHEWABLE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "25-JUL-2012",
+  "active_ingredients": [
+    {
+      "name": "ACETYLSALICYLIC ACID",
+      "strength": "81",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET (CHEWABLE)"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "PENDOPHARM DIVISION OF DE PHARMASCIENCE INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "ACETYLSALICYLIC ACID"
+  ]
+}

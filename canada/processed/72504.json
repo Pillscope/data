@@ -1,0 +1,28 @@
+{
+  "drug_code": "72504",
+  "din": "02248171",
+  "brand_name": "SANDOZ CITALOPRAM",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "06-MAY-2015",
+  "active_ingredients": [
+    {
+      "name": "CITALOPRAM (CITALOPRAM HYDROBROMIDE)",
+      "strength": "40",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "SANDOZ CANADA INCORPORATED"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "CITALOPRAM"
+  ]
+}

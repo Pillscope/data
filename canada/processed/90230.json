@@ -1,0 +1,28 @@
+{
+  "drug_code": "90230",
+  "din": "02417685",
+  "brand_name": "VIDEXTRA",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "10-AUG-2017",
+  "active_ingredients": [
+    {
+      "name": "VITAMIN D3",
+      "strength": "10000",
+      "unit": "UNIT"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "ORIMED PHARMA INC"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "COLECALCIFEROL"
+  ]
+}

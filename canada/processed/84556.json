@@ -1,0 +1,28 @@
+{
+  "drug_code": "84556",
+  "din": "02360594",
+  "brand_name": "HYDROCHLOROTHIAZIDE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "27-JUN-2014",
+  "active_ingredients": [
+    {
+      "name": "HYDROCHLOROTHIAZIDE",
+      "strength": "25",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "SANIS HEALTH INC"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "HYDROCHLOROTHIAZIDE"
+  ]
+}

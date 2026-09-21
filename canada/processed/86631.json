@@ -1,0 +1,38 @@
+{
+  "drug_code": "86631",
+  "din": "02380528",
+  "brand_name": "NO7 PROTECT & PERFECT  HAND CREAM SPF 15",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "21-JAN-2015",
+  "active_ingredients": [
+    {
+      "name": "AVOBENZONE",
+      "strength": "3",
+      "unit": "%"
+    },
+    {
+      "name": "OCTISALATE",
+      "strength": "2",
+      "unit": "%"
+    },
+    {
+      "name": "OCTINOXATE",
+      "strength": "7.5",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "CREAM"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "THE BOOTS COMPANY PLC"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "COMBINATIONS OF PROTECTIVES AGAINST UV-RADIATION"
+  ]
+}

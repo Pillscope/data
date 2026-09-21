@@ -1,0 +1,28 @@
+{
+  "drug_code": "76919",
+  "din": "02283603",
+  "brand_name": "RIVA-RISPERIDONE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "12-JUL-2017",
+  "active_ingredients": [
+    {
+      "name": "RISPERIDONE",
+      "strength": "2",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "LABORATOIRE RIVA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "RISPERIDONE"
+  ]
+}

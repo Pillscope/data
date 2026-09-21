@@ -1,0 +1,28 @@
+{
+  "drug_code": "79954",
+  "din": "02314029",
+  "brand_name": "SANDOZ QUETIAPINE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "03-JUN-2015",
+  "active_ingredients": [
+    {
+      "name": "QUETIAPINE (QUETIAPINE FUMARATE)",
+      "strength": "300",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "SANDOZ CANADA INCORPORATED"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "QUETIAPINE"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "drug_code": "84508",
+  "din": "02360128",
+  "brand_name": "THEO ER",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "18-DEC-2012",
+  "active_ingredients": [
+    {
+      "name": "THEOPHYLLINE",
+      "strength": "600",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET (EXTENDED-RELEASE)"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "AA PHARMA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "THEOPHYLLINE"
+  ]
+}

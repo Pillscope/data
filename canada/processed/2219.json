@@ -1,0 +1,29 @@
+{
+  "drug_code": "2219",
+  "din": "00030600",
+  "brand_name": "SOLU-CORTEF 100 MG ACT-O-VIAL",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "22-APR-2009",
+  "active_ingredients": [
+    {
+      "name": "HYDROCORTISONE (HYDROCORTISONE SODIUM SUCCINATE)",
+      "strength": "100",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "POWDER FOR SOLUTION"
+  ],
+  "routes": [
+    "INTRAMUSCULAR",
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "PFIZER CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "HYDROCORTISONE"
+  ]
+}

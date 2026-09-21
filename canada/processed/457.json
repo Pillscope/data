@@ -1,0 +1,41 @@
+{
+  "drug_code": "457",
+  "din": "00153915",
+  "brand_name": "PRED C TAB",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "11-JUL-2017",
+  "active_ingredients": [
+    {
+      "name": "VITAMIN C",
+      "strength": "25",
+      "unit": "MG"
+    },
+    {
+      "name": "ALUMINUM HYDROXIDE",
+      "strength": "35",
+      "unit": "MG"
+    },
+    {
+      "name": "PREDNISOLONE",
+      "strength": "1",
+      "unit": "MG"
+    },
+    {
+      "name": "SALICYLAMIDE",
+      "strength": "325",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "ORMOND VETERINARY SUPPLY LTD."
+  ],
+  "status": "MARKETED",
+  "atc": []
+}

@@ -1,0 +1,28 @@
+{
+  "drug_code": "90246",
+  "din": "02417847",
+  "brand_name": "NAT-ONDANSETRON",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "25-MAY-2015",
+  "active_ingredients": [
+    {
+      "name": "ONDANSETRON (ONDANSETRON HYDROCHLORIDE DIHYDRATE)",
+      "strength": "8",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "NATCO PHARMA (CANADA) INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "ONDANSETRON"
+  ]
+}

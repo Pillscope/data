@@ -1,0 +1,46 @@
+{
+  "drug_code": "89135",
+  "din": "02406667",
+  "brand_name": "AVL RUMEN RX POWDER",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "13-FEB-2015",
+  "active_ingredients": [
+    {
+      "name": "GINGER",
+      "strength": "75",
+      "unit": "MG"
+    },
+    {
+      "name": "CAPSICUM",
+      "strength": "75",
+      "unit": "MG"
+    },
+    {
+      "name": "MAGNESIUM OXIDE",
+      "strength": "15",
+      "unit": "G"
+    },
+    {
+      "name": "KAOLIN",
+      "strength": "12.37",
+      "unit": "G"
+    },
+    {
+      "name": "SODIUM THIOSULFATE",
+      "strength": "1100",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "POWDER"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "ALBERTA VETERINARY LABORATORIES LTD"
+  ],
+  "status": "MARKETED",
+  "atc": []
+}

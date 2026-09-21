@@ -1,0 +1,28 @@
+{
+  "drug_code": "13092",
+  "din": "00891797",
+  "brand_name": "PMS-DIAZEPAM SOLUTION 1MG/ML",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "22-JUL-2015",
+  "active_ingredients": [
+    {
+      "name": "DIAZEPAM",
+      "strength": "1",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "PHARMASCIENCE INC"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "DIAZEPAM"
+  ]
+}

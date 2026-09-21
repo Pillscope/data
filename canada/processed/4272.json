@@ -1,0 +1,28 @@
+{
+  "drug_code": "4272",
+  "din": "00530336",
+  "brand_name": "ASA 325MG",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "06-DEC-2013",
+  "active_ingredients": [
+    {
+      "name": "ACETYLSALICYLIC ACID",
+      "strength": "325",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "VITA HEALTH PRODUCTS INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "ACETYLSALICYLIC ACID"
+  ]
+}

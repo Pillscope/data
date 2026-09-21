@@ -1,0 +1,41 @@
+{
+  "drug_code": "4060",
+  "din": "00517917",
+  "brand_name": "BNPH",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "06-JUL-2016",
+  "active_ingredients": [
+    {
+      "name": "HYDROCORTISONE ACETATE",
+      "strength": "10",
+      "unit": "MG"
+    },
+    {
+      "name": "NEOMYCIN SULFATE",
+      "strength": "5",
+      "unit": "MG"
+    },
+    {
+      "name": "BACITRACIN ZINC",
+      "strength": "400",
+      "unit": "UNIT"
+    },
+    {
+      "name": "POLYMYXIN B SULFATE",
+      "strength": "5000",
+      "unit": "UNIT"
+    }
+  ],
+  "forms": [
+    "OINTMENT"
+  ],
+  "routes": [
+    "OPHTHALMIC"
+  ],
+  "companies": [
+    "VETOQUINOL N A INC"
+  ],
+  "status": "APPROVED",
+  "atc": []
+}

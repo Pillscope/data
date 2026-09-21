@@ -1,0 +1,28 @@
+{
+  "drug_code": "69747",
+  "din": "02245647",
+  "brand_name": "MYLAN-CIPROFLOXACIN",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "21-DEC-2010",
+  "active_ingredients": [
+    {
+      "name": "CIPROFLOXACIN (CIPROFLOXACIN HYDROCHLORIDE)",
+      "strength": "250",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "MYLAN PHARMACEUTICALS ULC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "CIPROFLOXACIN"
+  ]
+}

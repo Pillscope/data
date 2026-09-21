@@ -1,0 +1,28 @@
+{
+  "drug_code": "80881",
+  "din": "02323346",
+  "brand_name": "ALLERGY FORMULA",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "28-NOV-2017",
+  "active_ingredients": [
+    {
+      "name": "DIPHENHYDRAMINE HYDROCHLORIDE",
+      "strength": "25",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "TEVA CANADA LIMITED"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "DIPHENHYDRAMINE"
+  ]
+}

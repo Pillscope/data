@@ -1,0 +1,28 @@
+{
+  "drug_code": "75261",
+  "din": "02267217",
+  "brand_name": "ASACOL 800",
+  "class": "Human",
+  "descriptor": "ALSO KNOWN AS MESALAMINE",
+  "last_update": "27-MAR-2018",
+  "active_ingredients": [
+    {
+      "name": "MESALAZINE",
+      "strength": "800",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET (DELAYED-RELEASE)"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "ALLERGAN INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "MESALAZINE"
+  ]
+}

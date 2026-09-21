@@ -1,0 +1,28 @@
+{
+  "drug_code": "73225",
+  "din": "02248854",
+  "brand_name": "THERATEARS LUBRICANT EYE DROPS",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "04-JUL-2016",
+  "active_ingredients": [
+    {
+      "name": "SODIUM CARBOXYMETHYL CELLULOSE",
+      "strength": "0.25",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "OPHTHALMIC"
+  ],
+  "companies": [
+    "AKORN CONSUMER HEALTH, A DIVISON OF AKORN INC."
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "ARTIFICIAL TEARS AND OTHER INDIFFERENT PREPARATIONS."
+  ]
+}

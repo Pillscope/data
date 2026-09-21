@@ -1,0 +1,31 @@
+{
+  "drug_code": "817",
+  "din": "00037796",
+  "brand_name": "SODIUM CHLORIDE INJECTION USP",
+  "class": "Human",
+  "descriptor": "SINGLE-USE VIAL",
+  "last_update": "30-AUG-2017",
+  "active_ingredients": [
+    {
+      "name": "SODIUM CHLORIDE",
+      "strength": "9",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "INTRAMUSCULAR",
+    "INTRAPERITONEAL",
+    "INTRAVENOUS",
+    "SUBCUTANEOUS"
+  ],
+  "companies": [
+    "PFIZER CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "SODIUM CHLORIDE"
+  ]
+}

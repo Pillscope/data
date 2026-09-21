@@ -1,0 +1,28 @@
+{
+  "drug_code": "12753",
+  "din": "01926462",
+  "brand_name": "VITAMIN A ACID 0.01% GEL",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "15-MAY-2013",
+  "active_ingredients": [
+    {
+      "name": "TRETINOIN",
+      "strength": "0.01",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "GEL"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "VALEANT CANADA LP/VALEANT CANADA S.E.C."
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "TRETINOIN"
+  ]
+}

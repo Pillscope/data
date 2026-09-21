@@ -1,0 +1,33 @@
+{
+  "drug_code": "60289",
+  "din": "02236991",
+  "brand_name": "GOLD BOND MEDICATED ANTI-ITCH CREAM",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "29-APR-2015",
+  "active_ingredients": [
+    {
+      "name": "PRAMOXINE HYDROCHLORIDE",
+      "strength": "1",
+      "unit": "%"
+    },
+    {
+      "name": "MENTHOL",
+      "strength": "1",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "CREAM"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "SANOFI CONSUMER HEALTH INC SANOFI SANTE GRAND PUBLIC INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "PRAMOCAINE"
+  ]
+}

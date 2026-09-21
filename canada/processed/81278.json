@@ -1,0 +1,29 @@
+{
+  "drug_code": "81278",
+  "din": "02327457",
+  "brand_name": "MR. CLEAN WITH FEBREZE FRESHNESS DISINFECTANT",
+  "class": "Disinfectant",
+  "descriptor": "",
+  "last_update": "12-SEP-2011",
+  "active_ingredients": [
+    {
+      "name": "SODIUM HYDROXIDE",
+      "strength": "0.34",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "LIQUID"
+  ],
+  "routes": [
+    "DISINFECTANT (Food Premises)",
+    "DISINFECTANT (Domestic)"
+  ],
+  "companies": [
+    "PROCTER & GAMBLE INC"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "TECHNICAL DISINFECTANTS"
+  ]
+}

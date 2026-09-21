@@ -1,0 +1,28 @@
+{
+  "drug_code": "93644",
+  "din": "02450305",
+  "brand_name": "LENVIMA",
+  "class": "Human",
+  "descriptor": "EACH 20 MG DAILY DOSE CONTAINS 2 X 10 MG CAPSULES PER BLISTER",
+  "last_update": "08-SEP-2017",
+  "active_ingredients": [
+    {
+      "name": "LENVATINIB (LENVATINIB MESYLATE)",
+      "strength": "20",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "CAPSULE"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "EISAI LIMITED"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "LENVATINIB"
+  ]
+}

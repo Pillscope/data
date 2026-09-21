@@ -1,0 +1,38 @@
+{
+  "drug_code": "70166",
+  "din": "02246035",
+  "brand_name": "DISINFECTANT SPRAY FOR HEALTH CARE USE",
+  "class": "Disinfectant",
+  "descriptor": "",
+  "last_update": "27-JUL-2013",
+  "active_ingredients": [
+    {
+      "name": "ALCOHOL ANHYDROUS",
+      "strength": "49.95",
+      "unit": "%"
+    },
+    {
+      "name": "P-TERT-PENTYLPHENOL",
+      "strength": "0.045",
+      "unit": "%"
+    },
+    {
+      "name": "O-PHENYLPHENOL",
+      "strength": "0.180",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "AEROSOL"
+  ],
+  "routes": [
+    "DISINFECTANT (Hospital/HC Facilities)"
+  ],
+  "companies": [
+    "CLAIRE-SPRAYWAY INC."
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "TECHNICAL DISINFECTANTS"
+  ]
+}

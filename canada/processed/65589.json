@@ -1,0 +1,29 @@
+{
+  "drug_code": "65589",
+  "din": "02241919",
+  "brand_name": "MARCAINE",
+  "class": "Human",
+  "descriptor": "PRESERVATIVE-FREE, SINGLE-USE VIAL",
+  "last_update": "08-SEP-2017",
+  "active_ingredients": [
+    {
+      "name": "BUPIVACAINE HYDROCHLORIDE",
+      "strength": "5",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "BLOCK/INFILTRATION",
+    "EPIDURAL"
+  ],
+  "companies": [
+    "PFIZER CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "BUPIVACAINE"
+  ]
+}

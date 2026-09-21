@@ -1,0 +1,26 @@
+{
+  "drug_code": "3668",
+  "din": "00496200",
+  "brand_name": "ANTISEPTIC IODINE SPRAY 10%",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "19-MAY-2006",
+  "active_ingredients": [
+    {
+      "name": "POVIDONE-IODINE",
+      "strength": "10",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "AEROSOL"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "DOMINION VETERINARY LABORATORIES LTD."
+  ],
+  "status": "MARKETED",
+  "atc": []
+}

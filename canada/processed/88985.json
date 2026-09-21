@@ -1,0 +1,35 @@
+{
+  "drug_code": "88985",
+  "din": "02405024",
+  "brand_name": "PERJETA-HERCEPTIN",
+  "class": "Human",
+  "descriptor": "COMBO PACK",
+  "last_update": "27-DEC-2013",
+  "active_ingredients": [
+    {
+      "name": "TRASTUZUMAB",
+      "strength": "440",
+      "unit": "MG"
+    },
+    {
+      "name": "Pertuzumab",
+      "strength": "420",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION",
+    "KIT",
+    "POWDER FOR SOLUTION"
+  ],
+  "routes": [
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "HOFFMANN-LA ROCHE LIMITED"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "COMBINATION OF MONOCLONAL ANTIBODIES"
+  ]
+}

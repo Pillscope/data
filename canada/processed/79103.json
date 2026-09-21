@@ -1,0 +1,28 @@
+{
+  "drug_code": "79103",
+  "din": "02305461",
+  "brand_name": "RIVA-FLUOXETINE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "02-NOV-2010",
+  "active_ingredients": [
+    {
+      "name": "FLUOXETINE (FLUOXETINE HYDROCHLORIDE)",
+      "strength": "10",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "CAPSULE"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "LABORATOIRE RIVA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "FLUOXETINE"
+  ]
+}

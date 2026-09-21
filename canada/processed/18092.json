@@ -1,0 +1,26 @@
+{
+  "drug_code": "18092",
+  "din": "02118114",
+  "brand_name": "PARASITE-S",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "20-JAN-2017",
+  "active_ingredients": [
+    {
+      "name": "FORMALDEHYDE",
+      "strength": "37",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "SYNDEL CANADA"
+  ],
+  "status": "APPROVED",
+  "atc": []
+}

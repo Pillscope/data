@@ -1,0 +1,33 @@
+{
+  "drug_code": "2133",
+  "din": "00026123",
+  "brand_name": "SENOKOT S",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "23-FEB-2018",
+  "active_ingredients": [
+    {
+      "name": "SENNOSIDES (SENNA)",
+      "strength": "8.6",
+      "unit": "MG"
+    },
+    {
+      "name": "DOCUSATE SODIUM",
+      "strength": "50",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "PURDUE PHARMA"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "SENNA GLYCOSIDES, COMBINATIONS"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "drug_code": "80953",
+  "din": "02324040",
+  "brand_name": "ALFAXAN",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "15-DEC-2011",
+  "active_ingredients": [
+    {
+      "name": "ALFAXALONE",
+      "strength": "10",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "JUROX PTY LIMITED"
+  ],
+  "status": "APPROVED",
+  "atc": []
+}

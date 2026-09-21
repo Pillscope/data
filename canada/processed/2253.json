@@ -1,0 +1,31 @@
+{
+  "drug_code": "2253",
+  "din": "00349704",
+  "brand_name": "STRONGER IODINE TCT",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "24-JUN-1999",
+  "active_ingredients": [
+    {
+      "name": "IODINE",
+      "strength": "7",
+      "unit": "%"
+    },
+    {
+      "name": "POTASSIUM IODIDE",
+      "strength": "5",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "LIQUID"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "DOMINION VETERINARY LABORATORIES LTD."
+  ],
+  "status": "MARKETED",
+  "atc": []
+}

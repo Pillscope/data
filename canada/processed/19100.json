@@ -1,0 +1,43 @@
+{
+  "drug_code": "19100",
+  "din": "02182238",
+  "brand_name": "CO-NE-O2-N2 MIXTURE",
+  "class": "Human",
+  "descriptor": "CO:0.3%, NE:0.5%, O2:21%, BALANCED WITH N2",
+  "last_update": "29-APR-2015",
+  "active_ingredients": [
+    {
+      "name": "NEON",
+      "strength": "0.5",
+      "unit": "%"
+    },
+    {
+      "name": "OXYGEN",
+      "strength": "21.0",
+      "unit": "%"
+    },
+    {
+      "name": "NITROGEN",
+      "strength": "78.2",
+      "unit": "%"
+    },
+    {
+      "name": "CARBON MONOXIDE",
+      "strength": "0.3",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "GAS"
+  ],
+  "routes": [
+    "INHALATION"
+  ],
+  "companies": [
+    "LINDE CANADA LIMITED"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "COMBINATION"
+  ]
+}

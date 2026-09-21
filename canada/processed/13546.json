@@ -1,0 +1,31 @@
+{
+  "drug_code": "13546",
+  "din": "01981242",
+  "brand_name": "DESFERAL 500MG",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "05-JUN-2006",
+  "active_ingredients": [
+    {
+      "name": "DEFEROXAMINE MESYLATE",
+      "strength": "500",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "POWDER FOR SOLUTION"
+  ],
+  "routes": [
+    "INTRAMUSCULAR",
+    "INTRAPERITONEAL",
+    "INTRAVENOUS",
+    "SUBCUTANEOUS"
+  ],
+  "companies": [
+    "NOVARTIS PHARMACEUTICALS CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "DEFEROXAMINE"
+  ]
+}

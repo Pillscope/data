@@ -1,0 +1,29 @@
+{
+  "drug_code": "70072",
+  "din": "02245948",
+  "brand_name": "LEVOTHYROXINE SODIUM FOR INJECTION",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "08-FEB-2016",
+  "active_ingredients": [
+    {
+      "name": "LEVOTHYROXINE SODIUM",
+      "strength": "500",
+      "unit": "MCG"
+    }
+  ],
+  "forms": [
+    "POWDER FOR SOLUTION"
+  ],
+  "routes": [
+    "INTRAMUSCULAR",
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "FRESENIUS KABI CANADA LTD"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "LEVOTHYROXINE SODIUM"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "drug_code": "18993",
+  "din": "02113163",
+  "brand_name": "PANACUR PASTE 10%",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "11-SEP-2014",
+  "active_ingredients": [
+    {
+      "name": "FENBENDAZOLE",
+      "strength": "10",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "PASTE"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "INTERVET CANADA CORP"
+  ],
+  "status": "APPROVED",
+  "atc": []
+}

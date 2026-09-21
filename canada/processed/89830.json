@@ -1,0 +1,28 @@
+{
+  "drug_code": "89830",
+  "din": "02413655",
+  "brand_name": "PROACTIV EMERGENCY BLEMISH RELIEF",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "02-JUN-2017",
+  "active_ingredients": [
+    {
+      "name": "BENZOYL PEROXIDE",
+      "strength": "5",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "CREAM"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "THE PROACTIV COMPANY LLC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "BENZOYL PEROXIDE"
+  ]
+}

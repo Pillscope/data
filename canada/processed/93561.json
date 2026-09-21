@@ -1,0 +1,28 @@
+{
+  "drug_code": "93561",
+  "din": "02449773",
+  "brand_name": "BETEFLAM",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "08-SEP-2017",
+  "active_ingredients": [
+    {
+      "name": "BETAMETHASONE VALERATE",
+      "strength": "0.1",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "PATCH"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "CIPHER PHARMACEUTICALS INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "BETAMETHASONE"
+  ]
+}

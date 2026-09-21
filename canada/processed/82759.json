@@ -1,0 +1,28 @@
+{
+  "drug_code": "82759",
+  "din": "02342073",
+  "brand_name": "AFTER SUN BURN RELIEF LIDOCAINE CONTINUOUS SPRAY",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "27-MAY-2010",
+  "active_ingredients": [
+    {
+      "name": "LIDOCAINE HYDROCHLORIDE",
+      "strength": "1",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "PRIME ENTERPRISES INC"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "LIDOCAINE"
+  ]
+}

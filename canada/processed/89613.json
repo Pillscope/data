@@ -1,0 +1,26 @@
+{
+  "drug_code": "89613",
+  "din": "02411512",
+  "brand_name": "FELIMAZOLE 1.25 MG",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "12-FEB-2014",
+  "active_ingredients": [
+    {
+      "name": "THIAMAZOLE",
+      "strength": "1.25",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "DECHRA LTD"
+  ],
+  "status": "APPROVED",
+  "atc": []
+}

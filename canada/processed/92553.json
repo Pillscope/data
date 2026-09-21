@@ -1,0 +1,28 @@
+{
+  "drug_code": "92553",
+  "din": "02441160",
+  "brand_name": "ACT TEMOZOLOMIDE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "31-MAY-2016",
+  "active_ingredients": [
+    {
+      "name": "TEMOZOLOMIDE",
+      "strength": "5",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "CAPSULE"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "ACTAVIS PHARMA COMPANY"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "TEMOZOLOMIDE"
+  ]
+}

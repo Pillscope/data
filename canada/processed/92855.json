@@ -1,0 +1,28 @@
+{
+  "drug_code": "92855",
+  "din": "02443805",
+  "brand_name": "CYRAMZA",
+  "class": "Human",
+  "descriptor": "SINGLE USE VIALS",
+  "last_update": "10-MAY-2016",
+  "active_ingredients": [
+    {
+      "name": "RAMUCIRUMAB",
+      "strength": "10",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "ELI LILLY CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "RAMUCIRUMAB"
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "drug_code": "73509",
+  "din": "02250292",
+  "brand_name": "CEFTRIAXONE SODIUM FOR INJECTION, BP",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "13-APR-2012",
+  "active_ingredients": [
+    {
+      "name": "CEFTRIAXONE (CEFTRIAXONE SODIUM)",
+      "strength": "1",
+      "unit": "G"
+    }
+  ],
+  "forms": [
+    "POWDER FOR SOLUTION"
+  ],
+  "routes": [
+    "INTRAMUSCULAR",
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "HOSPIRA HEALTHCARE CORPORATION"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "CEFTRIAXONE"
+  ]
+}

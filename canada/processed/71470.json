@@ -1,0 +1,28 @@
+{
+  "drug_code": "71470",
+  "din": "02247228",
+  "brand_name": "STIEPROX SHAMPOO",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "05-MAY-2015",
+  "active_ingredients": [
+    {
+      "name": "CICLOPIROX OLAMINE",
+      "strength": "1.5",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "SHAMPOO"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "GLAXOSMITHKLINE INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "CICLOPIROX"
+  ]
+}

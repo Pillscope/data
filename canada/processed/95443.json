@@ -1,0 +1,28 @@
+{
+  "drug_code": "95443",
+  "din": "02466120",
+  "brand_name": "CLARITHROMYCIN",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "23-OCT-2017",
+  "active_ingredients": [
+    {
+      "name": "CLARITHROMYCIN",
+      "strength": "250",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "SANIS HEALTH INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "CLARITHROMYCIN"
+  ]
+}

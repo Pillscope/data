@@ -1,0 +1,28 @@
+{
+  "drug_code": "88542",
+  "din": "02400642",
+  "brand_name": "HEAD & SHOULDERS PURELY GENTLE SCALP CARE 2IN1",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "07-MAR-2014",
+  "active_ingredients": [
+    {
+      "name": "PYRITHIONE ZINC",
+      "strength": "1.0",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "SHAMPOO"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "PROCTER & GAMBLE INC"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "PYRITHIONE ZINC"
+  ]
+}

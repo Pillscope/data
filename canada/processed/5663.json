@@ -1,0 +1,41 @@
+{
+  "drug_code": "5663",
+  "din": "00611255",
+  "brand_name": "LACTATED RINGERS INJ W PRESERV",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "25-FEB-2009",
+  "active_ingredients": [
+    {
+      "name": "POTASSIUM CHLORIDE",
+      "strength": "300",
+      "unit": "MG"
+    },
+    {
+      "name": "SODIUM CHLORIDE",
+      "strength": "6",
+      "unit": "G"
+    },
+    {
+      "name": "CALCIUM CHLORIDE",
+      "strength": "200",
+      "unit": "MG"
+    },
+    {
+      "name": "SODIUM LACTATE",
+      "strength": "3.1",
+      "unit": "G"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "UNIVET PHARMACEUTICALS LTD."
+  ],
+  "status": "MARKETED",
+  "atc": []
+}

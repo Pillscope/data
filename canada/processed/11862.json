@@ -1,0 +1,28 @@
+{
+  "drug_code": "11862",
+  "din": "01925199",
+  "brand_name": "BENZAC W WASH GEL 10%",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "16-MAY-2006",
+  "active_ingredients": [
+    {
+      "name": "BENZOYL PEROXIDE",
+      "strength": "10",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "GEL"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "GALDERMA CANADA INC"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "BENZOYL PEROXIDE"
+  ]
+}

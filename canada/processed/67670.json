@@ -1,0 +1,29 @@
+{
+  "drug_code": "67670",
+  "din": "02243737",
+  "brand_name": "PHENTOLAMINE MESYLATE INJECTION SANDOZ STANDARD",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "09-JAN-2018",
+  "active_ingredients": [
+    {
+      "name": "PHENTOLAMINE MESYLATE",
+      "strength": "5",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "INTRAMUSCULAR",
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "SANDOZ CANADA INCORPORATED"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "PHENTOLAMINE"
+  ]
+}

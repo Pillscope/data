@@ -1,0 +1,33 @@
+{
+  "drug_code": "19291",
+  "din": "02154781",
+  "brand_name": "MEDICAL AIR USP",
+  "class": "Human",
+  "descriptor": "O2:19.5-23.5% BALANCED WITH N2",
+  "last_update": "29-APR-2015",
+  "active_ingredients": [
+    {
+      "name": "OXYGEN",
+      "strength": "23.5",
+      "unit": "%"
+    },
+    {
+      "name": "NITROGEN",
+      "strength": "76.5",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "GAS"
+  ],
+  "routes": [
+    "INHALATION"
+  ],
+  "companies": [
+    "LINDE CANADA LIMITED"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "MEDICAL AIR"
+  ]
+}

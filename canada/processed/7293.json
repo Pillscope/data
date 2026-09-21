@@ -1,0 +1,28 @@
+{
+  "drug_code": "7293",
+  "din": "00474525",
+  "brand_name": "ONE ALPHA CAPS 1MCG",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "23-NOV-2005",
+  "active_ingredients": [
+    {
+      "name": "ALFACALCIDOL",
+      "strength": "1",
+      "unit": "MCG"
+    }
+  ],
+  "forms": [
+    "CAPSULE"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "LEO PHARMA INC"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "ALFACALCIDOL"
+  ]
+}

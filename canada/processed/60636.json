@@ -1,0 +1,28 @@
+{
+  "drug_code": "60636",
+  "din": "02237314",
+  "brand_name": "SANDOZ MINOCYCLINE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "05-MAY-2015",
+  "active_ingredients": [
+    {
+      "name": "MINOCYCLINE (MINOCYCLINE HYDROCHLORIDE)",
+      "strength": "100",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "CAPSULE"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "SANDOZ CANADA INCORPORATED"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "MINOCYCLINE"
+  ]
+}

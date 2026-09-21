@@ -1,0 +1,28 @@
+{
+  "drug_code": "88758",
+  "din": "02402742",
+  "brand_name": "CITRUS WIRX2",
+  "class": "Disinfectant",
+  "descriptor": "",
+  "last_update": "05-JAN-2015",
+  "active_ingredients": [
+    {
+      "name": "BENZALKONIUM CHLORIDE",
+      "strength": "0.416",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "WIPE"
+  ],
+  "routes": [
+    "DISINFECTANT (Institutional/Industrial)"
+  ],
+  "companies": [
+    "RTS COMPANIES INC"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "TECHNICAL DISINFECTANTS"
+  ]
+}

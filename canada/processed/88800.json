@@ -1,0 +1,28 @@
+{
+  "drug_code": "88800",
+  "din": "02403188",
+  "brand_name": "CISPLATIN INJECTION",
+  "class": "Human",
+  "descriptor": "10MG/10ML, 50MG/50ML, 100MG/100ML",
+  "last_update": "25-SEP-2013",
+  "active_ingredients": [
+    {
+      "name": "CISPLATIN",
+      "strength": "1.0",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "TEVA CANADA LIMITED"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "CISPLATIN"
+  ]
+}

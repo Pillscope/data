@@ -1,0 +1,33 @@
+{
+  "drug_code": "70300",
+  "din": "02246156",
+  "brand_name": "POLYSPORIN ITCH RELIEF",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "29-APR-2015",
+  "active_ingredients": [
+    {
+      "name": "PRAMOXINE HYDROCHLORIDE",
+      "strength": "1.0",
+      "unit": "%"
+    },
+    {
+      "name": "ZINC ACETATE",
+      "strength": "0.1",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "LOTION"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "JOHNSON & JOHNSON INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "PRAMOCAINE"
+  ]
+}

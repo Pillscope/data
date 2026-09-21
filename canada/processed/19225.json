@@ -1,0 +1,28 @@
+{
+  "drug_code": "19225",
+  "din": "00750050",
+  "brand_name": "RATIO-ECTOSONE REGULAR LOTION 0.1%",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "29-APR-2015",
+  "active_ingredients": [
+    {
+      "name": "BETAMETHASONE (BETAMETHASONE VALERATE)",
+      "strength": "0.1",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "LOTION"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "TEVA CANADA LIMITED"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "BETAMETHASONE"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "drug_code": "87694",
+  "din": "02391619",
+  "brand_name": "JAMP-DICYCLOMINE HCL",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "08-NOV-2012",
+  "active_ingredients": [
+    {
+      "name": "DICYCLOMINE HYDROCHLORIDE",
+      "strength": "10",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "JAMP PHARMA CORPORATION"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "DICYCLOVERINE"
+  ]
+}

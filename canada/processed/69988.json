@@ -1,0 +1,28 @@
+{
+  "drug_code": "69988",
+  "din": "02245871",
+  "brand_name": "COMFORT SHIELD",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "19-MAY-2005",
+  "active_ingredients": [
+    {
+      "name": "DIMETHICONE",
+      "strength": "3",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "WIPE"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "SAGE PRODUCTS LLC"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "SILICONE PRODUCTS"
+  ]
+}

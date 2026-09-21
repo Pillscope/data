@@ -1,0 +1,28 @@
+{
+  "drug_code": "80421",
+  "din": "02318733",
+  "brand_name": "ANTIBACTERIAL SPRAY HAND SOAP/SAVON ANTIBACTERIEN EN AEROSOL POUR LES MAINS",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "12-DEC-2013",
+  "active_ingredients": [
+    {
+      "name": "TRICLOSAN",
+      "strength": "0.5",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "SPRAY"
+  ],
+  "routes": [
+    "TOPICAL (HOUSEHOLD)"
+  ],
+  "companies": [
+    "AVMOR LTD"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "TRICLOSAN"
+  ]
+}

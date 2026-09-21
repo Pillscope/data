@@ -1,0 +1,28 @@
+{
+  "drug_code": "19044",
+  "din": "02142783",
+  "brand_name": "ROBITUSSIN MUCUS & PHLEGM EXTRA STRENGTH",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "29-SEP-2014",
+  "active_ingredients": [
+    {
+      "name": "GUAIFENESIN",
+      "strength": "200",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SYRUP"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "PFIZER CONSUMER HEALTHCARE A DIVISION OF PFIZER CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "GUAIFENESIN"
+  ]
+}

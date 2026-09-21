@@ -1,0 +1,28 @@
+{
+  "drug_code": "90195",
+  "din": "02417324",
+  "brand_name": "SOFT CARE ANTISEPTIC SKIN CLEANSER II",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "07-JAN-2016",
+  "active_ingredients": [
+    {
+      "name": "TRICLOSAN",
+      "strength": "0.55",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "LIQUID"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "DIVERSEY INC"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "TRICLOSAN"
+  ]
+}

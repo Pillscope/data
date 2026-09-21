@@ -1,0 +1,28 @@
+{
+  "drug_code": "73070",
+  "din": "02248706",
+  "brand_name": "ALPRAZOLAM",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "04-APR-2017",
+  "active_ingredients": [
+    {
+      "name": "ALPRAZOLAM",
+      "strength": "1",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "PRO DOC LIMITEE"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "ALPRAZOLAM"
+  ]
+}

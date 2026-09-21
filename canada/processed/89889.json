@@ -1,0 +1,28 @@
+{
+  "drug_code": "89889",
+  "din": "02414236",
+  "brand_name": "AURO-VALSARTAN",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "01-MAY-2014",
+  "active_ingredients": [
+    {
+      "name": "VALSARTAN",
+      "strength": "160",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "AURO PHARMA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "VALSARTAN"
+  ]
+}

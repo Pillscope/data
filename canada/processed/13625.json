@@ -1,0 +1,28 @@
+{
+  "drug_code": "13625",
+  "din": "01933558",
+  "brand_name": "ADVIL TABLETS",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "03-JUL-2013",
+  "active_ingredients": [
+    {
+      "name": "IBUPROFEN",
+      "strength": "200",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "PFIZER CONSUMER HEALTHCARE A DIVISION OF PFIZER CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "IBUPROFEN"
+  ]
+}

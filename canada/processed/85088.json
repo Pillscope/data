@@ -1,0 +1,28 @@
+{
+  "drug_code": "85088",
+  "din": "02366010",
+  "brand_name": "HALOPERIDOL INJECTION",
+  "class": "Human",
+  "descriptor": "FOR I.M. INJECTION ONLY. NOT FOR I.V USE. PRESERVATIVE-FREE.",
+  "last_update": "21-OCT-2013",
+  "active_ingredients": [
+    {
+      "name": "HALOPERIDOL",
+      "strength": "5",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "INTRAMUSCULAR"
+  ],
+  "companies": [
+    "OMEGA LABORATORIES LTD"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "HALOPERIDOL"
+  ]
+}

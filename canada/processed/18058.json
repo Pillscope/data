@@ -1,0 +1,28 @@
+{
+  "drug_code": "18058",
+  "din": "02148765",
+  "brand_name": "MYLAN-METFORMIN",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "22-DEC-2015",
+  "active_ingredients": [
+    {
+      "name": "METFORMIN HYDROCHLORIDE",
+      "strength": "500",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "MYLAN PHARMACEUTICALS ULC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "METFORMIN"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "drug_code": "92351",
+  "din": "02439123",
+  "brand_name": "PROLENSA",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "05-OCT-2015",
+  "active_ingredients": [
+    {
+      "name": "Bromfenac (Bromfenac sodium sesquihydrate)",
+      "strength": "0.07",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "OPHTHALMIC"
+  ],
+  "companies": [
+    "BAUSCH & LOMB INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "BROMFENAC"
+  ]
+}

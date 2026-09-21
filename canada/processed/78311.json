@@ -1,0 +1,48 @@
+{
+  "drug_code": "78311",
+  "din": "02297779",
+  "brand_name": "SUNSCREEN SPRAY SPF 30",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "15-JUL-2010",
+  "active_ingredients": [
+    {
+      "name": "AVOBENZONE",
+      "strength": "2.0",
+      "unit": "%"
+    },
+    {
+      "name": "OCTOCRYLENE",
+      "strength": "1.4",
+      "unit": "%"
+    },
+    {
+      "name": "PADIMATE O",
+      "strength": "8.0",
+      "unit": "%"
+    },
+    {
+      "name": "OCTISALATE",
+      "strength": "5.0",
+      "unit": "%"
+    },
+    {
+      "name": "OCTINOXATE",
+      "strength": "7.5",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "SPRAY"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "SMARTSHIELD SUNSCREENS"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "COMBINATIONS OF PROTECTIVES AGAINST UV-RADIATION"
+  ]
+}

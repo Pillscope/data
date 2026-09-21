@@ -1,0 +1,28 @@
+{
+  "drug_code": "90158",
+  "din": "02416956",
+  "brand_name": "JAMP-DONEPEZIL TABLETS",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "15-JAN-2016",
+  "active_ingredients": [
+    {
+      "name": "DONEPEZIL HYDROCHLORIDE",
+      "strength": "10",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "JAMP PHARMA CORPORATION"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "DONEPEZIL"
+  ]
+}

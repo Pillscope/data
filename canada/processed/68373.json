@@ -1,0 +1,28 @@
+{
+  "drug_code": "68373",
+  "din": "02244404",
+  "brand_name": "TARO-CARBAMAZEPINE CHEWABLE TABLETS 200MG",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "24-APR-2008",
+  "active_ingredients": [
+    {
+      "name": "CARBAMAZEPINE",
+      "strength": "200",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET (CHEWABLE)"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "TARO PHARMACEUTICALS INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "CARBAMAZEPINE"
+  ]
+}

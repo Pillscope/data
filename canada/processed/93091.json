@@ -1,0 +1,28 @@
+{
+  "drug_code": "93091",
+  "din": "02445638",
+  "brand_name": "OPTI-TEARS DRY EYE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "02-MAR-2018",
+  "active_ingredients": [
+    {
+      "name": "HYPROMELLOSE",
+      "strength": "3",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "OPHTHALMIC"
+  ],
+  "companies": [
+    "ALCON CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "ARTIFICIAL TEARS AND OTHER INDIFFERENT PREPARATIONS."
+  ]
+}

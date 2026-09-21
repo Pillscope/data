@@ -1,0 +1,28 @@
+{
+  "drug_code": "77190",
+  "din": "02286440",
+  "brand_name": "ZYTRAM XL",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "06-FEB-2014",
+  "active_ingredients": [
+    {
+      "name": "TRAMADOL HYDROCHLORIDE",
+      "strength": "300",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET (EXTENDED-RELEASE)"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "PURDUE PHARMA"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "TRAMADOL"
+  ]
+}

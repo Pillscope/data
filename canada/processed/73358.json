@@ -1,0 +1,33 @@
+{
+  "drug_code": "73358",
+  "din": "02248976",
+  "brand_name": "SPRAY CLEANER",
+  "class": "Disinfectant",
+  "descriptor": "",
+  "last_update": "28-AUG-2014",
+  "active_ingredients": [
+    {
+      "name": "BENZALKONIUM CHLORIDE",
+      "strength": "0.175",
+      "unit": "%"
+    },
+    {
+      "name": "ALKYL DIMETHYL ETHYLBENZYL AMMONIUM CHLORIDE",
+      "strength": "0.175",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "SPRAY"
+  ],
+  "routes": [
+    "DISINFECTANT (Domestic)"
+  ],
+  "companies": [
+    "GENERAL MOTORS OF CANADA LIMITED"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "TECHNICAL DISINFECTANTS"
+  ]
+}

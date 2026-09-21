@@ -1,0 +1,28 @@
+{
+  "drug_code": "75626",
+  "din": "02270889",
+  "brand_name": "RIVA-ALENDRONATE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "09-SEP-2017",
+  "active_ingredients": [
+    {
+      "name": "ALENDRONIC ACID (ALENDRONATE SODIUM)",
+      "strength": "70",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "LABORATOIRE RIVA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "ALENDRONIC ACID"
+  ]
+}

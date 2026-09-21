@@ -1,0 +1,29 @@
+{
+  "drug_code": "50507",
+  "din": "02231200",
+  "brand_name": "IOTERGE",
+  "class": "Disinfectant",
+  "descriptor": "",
+  "last_update": "03-FEB-2009",
+  "active_ingredients": [
+    {
+      "name": "IODINE (NONYLPHENYL-OMEGA-HYDROXYPOLY OXYETHYLENE - IODINE COMPLEX)",
+      "strength": "1.75",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "LIQUID"
+  ],
+  "routes": [
+    "DISINFECTANT (Food Premises)",
+    "DISINFECTANT (Hospital/HC Facilities)"
+  ],
+  "companies": [
+    "C.P. INDUSTRIES LTD"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "TECHNICAL DISINFECTANTS"
+  ]
+}

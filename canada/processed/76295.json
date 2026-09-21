@@ -1,0 +1,28 @@
+{
+  "drug_code": "76295",
+  "din": "02277301",
+  "brand_name": "ZANTAC MAXIMUM STRENGTH NON-PRESCRIPTION",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "05-MAY-2017",
+  "active_ingredients": [
+    {
+      "name": "RANITIDINE (RANITIDINE HYDROCHLORIDE)",
+      "strength": "150",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "SANOFI CONSUMER HEALTH INC SANOFI SANTE GRAND PUBLIC INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "RANITIDINE"
+  ]
+}

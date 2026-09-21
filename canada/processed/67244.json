@@ -1,0 +1,28 @@
+{
+  "drug_code": "67244",
+  "din": "02243339",
+  "brand_name": "SANDOZ DILTIAZEM CD",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "05-MAY-2015",
+  "active_ingredients": [
+    {
+      "name": "DILTIAZEM HYDROCHLORIDE",
+      "strength": "180",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "CAPSULE (EXTENDED RELEASE)"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "SANDOZ CANADA INCORPORATED"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "DILTIAZEM"
+  ]
+}

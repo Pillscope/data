@@ -1,0 +1,28 @@
+{
+  "drug_code": "69890",
+  "din": "02245777",
+  "brand_name": "VALCYTE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "04-OCT-2005",
+  "active_ingredients": [
+    {
+      "name": "VALGANCICLOVIR (VALGANCICLOVIR HYDROCHLORIDE)",
+      "strength": "450",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "HOFFMANN-LA ROCHE LIMITED"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "VALGANCICLOVIR"
+  ]
+}

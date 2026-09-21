@@ -1,0 +1,28 @@
+{
+  "drug_code": "12452",
+  "din": "01934201",
+  "brand_name": "TEVA-PRAZOSIN",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "05-MAY-2015",
+  "active_ingredients": [
+    {
+      "name": "PRAZOSIN (PRAZOSIN HYDROCHLORIDE)",
+      "strength": "2",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "TEVA CANADA LIMITED"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "PRAZOSIN"
+  ]
+}

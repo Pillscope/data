@@ -1,0 +1,26 @@
+{
+  "drug_code": "92298",
+  "din": "02438607",
+  "brand_name": "NEOMYCIN SP",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "15-JAN-2018",
+  "active_ingredients": [
+    {
+      "name": "NEOMYCIN SULFATE",
+      "strength": "812.5",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "POWDER FOR SOLUTION"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "ALBERTA VETERINARY LABORATORIES LTD"
+  ],
+  "status": "APPROVED",
+  "atc": []
+}

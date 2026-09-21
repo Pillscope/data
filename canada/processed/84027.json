@@ -1,0 +1,36 @@
+{
+  "drug_code": "84027",
+  "din": "02355027",
+  "brand_name": "LA LINGETTE HYPRED TOWEL",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "05-SEP-2017",
+  "active_ingredients": [
+    {
+      "name": "CHLORHEXIDINE ACETATE",
+      "strength": "0.002",
+      "unit": "%"
+    },
+    {
+      "name": "ALCOHOL ANHYDROUS",
+      "strength": "50",
+      "unit": "%"
+    },
+    {
+      "name": "LANOLIN",
+      "strength": "2",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "WIPE"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "MATELVAGE SARL"
+  ],
+  "status": "MARKETED",
+  "atc": []
+}

@@ -1,0 +1,28 @@
+{
+  "drug_code": "93155",
+  "din": "02446243",
+  "brand_name": "VIM POWER & SHINE MULTI-PURPOSE WIPES",
+  "class": "Disinfectant",
+  "descriptor": "",
+  "last_update": "20-FEB-2016",
+  "active_ingredients": [
+    {
+      "name": "DIDECYL DIMETHYL AMMONIUM CHLORIDE",
+      "strength": "0.75",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "WIPE"
+  ],
+  "routes": [
+    "DISINFECTANT (Domestic)"
+  ],
+  "companies": [
+    "UNILEVER CANADA"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "TECHNICAL DISINFECTANTS"
+  ]
+}

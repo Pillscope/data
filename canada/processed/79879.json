@@ -1,0 +1,29 @@
+{
+  "drug_code": "79879",
+  "din": "02313278",
+  "brand_name": "PCS SODIUM HYPOCHLORITE DISINFECTANT/DISINFECTANT CLEANER",
+  "class": "Disinfectant",
+  "descriptor": "",
+  "last_update": "15-OCT-2009",
+  "active_ingredients": [
+    {
+      "name": "SODIUM HYPOCHLORITE",
+      "strength": "1.4",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "LIQUID"
+  ],
+  "routes": [
+    "DISINFECTANT (Hospital/HC Facilities)",
+    "DISINFECTANT (Institutional/Industrial)"
+  ],
+  "companies": [
+    "PROCESS CLEANING SOLUTIONS LTD"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "TECHNICAL DISINFECTANTS"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "drug_code": "87566",
+  "din": "02390205",
+  "brand_name": "AURO-QUETIAPINE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "15-MAY-2013",
+  "active_ingredients": [
+    {
+      "name": "QUETIAPINE (QUETIAPINE FUMARATE)",
+      "strength": "25",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "AURO PHARMA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "QUETIAPINE"
+  ]
+}

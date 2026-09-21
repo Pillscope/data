@@ -1,0 +1,28 @@
+{
+  "drug_code": "88462",
+  "din": "02399776",
+  "brand_name": "LEVETIRACETAM TABLETS",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "29-MAR-2018",
+  "active_ingredients": [
+    {
+      "name": "LEVETIRACETAM",
+      "strength": "250",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "ACCORD HEALTHCARE INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "LEVETIRACETAM"
+  ]
+}

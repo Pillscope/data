@@ -1,0 +1,28 @@
+{
+  "drug_code": "62905",
+  "din": "02239432",
+  "brand_name": "CANESTEN EXTERNAL CREAM REFILL",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "25-AUG-2017",
+  "active_ingredients": [
+    {
+      "name": "CLOTRIMAZOLE",
+      "strength": "1",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "CREAM"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "BAYER INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "CLOTRIMAZOLE"
+  ]
+}

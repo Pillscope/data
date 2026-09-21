@@ -1,0 +1,28 @@
+{
+  "drug_code": "76904",
+  "din": "02283433",
+  "brand_name": "RAN-ACETAMINOPHEN 8 HOUR",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "06-JAN-2011",
+  "active_ingredients": [
+    {
+      "name": "ACETAMINOPHEN",
+      "strength": "650",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET (EXTENDED-RELEASE)"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "RANBAXY PHARMACEUTICALS CANADA INC."
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "ACETAMINOPHEN (PARACETAMOL)"
+  ]
+}

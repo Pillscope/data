@@ -1,0 +1,28 @@
+{
+  "drug_code": "8526",
+  "din": "00764647",
+  "brand_name": "SOOTHE REDNESS",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "16-MAY-2017",
+  "active_ingredients": [
+    {
+      "name": "NAPHAZOLINE HYDROCHLORIDE",
+      "strength": "0.012",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "DROPS"
+  ],
+  "routes": [
+    "OPHTHALMIC"
+  ],
+  "companies": [
+    "BAUSCH & LOMB INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "NAPHAZOLINE"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "drug_code": "65288",
+  "din": "02241630",
+  "brand_name": "AMBISOME",
+  "class": "Human",
+  "descriptor": "SINGLE DOSE VIAL. LIPOSOMES",
+  "last_update": "03-MAR-2014",
+  "active_ingredients": [
+    {
+      "name": "AMPHOTERICIN B",
+      "strength": "50",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "POWDER FOR SOLUTION"
+  ],
+  "routes": [
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "ASTELLAS PHARMA CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "AMPHOTERICIN B"
+  ]
+}

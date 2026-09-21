@@ -1,0 +1,28 @@
+{
+  "drug_code": "88106",
+  "din": "02396009",
+  "brand_name": "NAPROXEN MENSTRUAL PAIN RELIEF",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "20-JAN-2016",
+  "active_ingredients": [
+    {
+      "name": "NAPROXEN SODIUM",
+      "strength": "220",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "PHARMASCIENCE INC"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "NAPROXEN"
+  ]
+}

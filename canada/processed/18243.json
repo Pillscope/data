@@ -1,0 +1,28 @@
+{
+  "drug_code": "18243",
+  "din": "02082152",
+  "brand_name": "GENTAMICIN(E) 80MG LIQ IV 1.6MG/ML",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "22-JUN-2006",
+  "active_ingredients": [
+    {
+      "name": "GENTAMICIN (GENTAMICIN SULFATE)",
+      "strength": "1.6",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "BAXTER CORPORATION"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "GENTAMICIN"
+  ]
+}

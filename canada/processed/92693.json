@@ -1,0 +1,28 @@
+{
+  "drug_code": "92693",
+  "din": "02442590",
+  "brand_name": "AURO-ROSUVASTATIN",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "07-JAN-2016",
+  "active_ingredients": [
+    {
+      "name": "ROSUVASTATIN (ROSUVASTATIN CALCIUM)",
+      "strength": "20",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "AURO PHARMA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "ROSUVASTATIN"
+  ]
+}

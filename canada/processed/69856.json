@@ -1,0 +1,28 @@
+{
+  "drug_code": "69856",
+  "din": "02245748",
+  "brand_name": "DOM-SERTRALINE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "27-NOV-2002",
+  "active_ingredients": [
+    {
+      "name": "SERTRALINE (SERTRALINE HYDROCHLORIDE)",
+      "strength": "25",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "CAPSULE"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "DOMINION PHARMACAL"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "SERTRALINE"
+  ]
+}

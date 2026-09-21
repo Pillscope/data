@@ -1,0 +1,28 @@
+{
+  "drug_code": "87209",
+  "din": "02386526",
+  "brand_name": "JAMP-CANDESARTAN",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "08-JAN-2014",
+  "active_ingredients": [
+    {
+      "name": "CANDESARTAN CILEXETIL",
+      "strength": "16",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "JAMP PHARMA CORPORATION"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "CANDESARTAN"
+  ]
+}

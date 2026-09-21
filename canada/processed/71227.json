@@ -1,0 +1,38 @@
+{
+  "drug_code": "71227",
+  "din": "02246994",
+  "brand_name": "DAILY MOISTURIZING CREAM SPF 15",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "22-AUG-2016",
+  "active_ingredients": [
+    {
+      "name": "OXYBENZONE",
+      "strength": "3",
+      "unit": "G"
+    },
+    {
+      "name": "OCTISALATE",
+      "strength": "3",
+      "unit": "G"
+    },
+    {
+      "name": "OCTINOXATE",
+      "strength": "7.5",
+      "unit": "G"
+    }
+  ],
+  "forms": [
+    "CREAM"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "VIVIER CANADA INCORPORATED"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "COMBINATIONS OF PROTECTIVES AGAINST UV-RADIATION"
+  ]
+}

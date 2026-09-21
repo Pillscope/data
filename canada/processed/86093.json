@@ -1,0 +1,28 @@
+{
+  "drug_code": "86093",
+  "din": "02375516",
+  "brand_name": "ZOSTAVAX II",
+  "class": "Human",
+  "descriptor": "0.65ML SINGLE-DOSE VIAL. REFRIGERATOR STABLE.",
+  "last_update": "09-JUN-2014",
+  "active_ingredients": [
+    {
+      "name": "VARICELLA-ZOSTER VIRUS VACCINE LIVE ATTENUATED (OKA/MERCK STRAIN)",
+      "strength": "19400",
+      "unit": "PFU"
+    }
+  ],
+  "forms": [
+    "POWDER FOR SUSPENSION"
+  ],
+  "routes": [
+    "SUBCUTANEOUS"
+  ],
+  "companies": [
+    "MERCK CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "ZOSTER, LIVE ATTENUATED"
+  ]
+}

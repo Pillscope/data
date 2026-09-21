@@ -1,0 +1,28 @@
+{
+  "drug_code": "13600",
+  "din": "01974548",
+  "brand_name": "MICRO I",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "05-MAY-2015",
+  "active_ingredients": [
+    {
+      "name": "IODIDE (SODIUM IODIDE)",
+      "strength": "100",
+      "unit": "MCG"
+    }
+  ],
+  "forms": [
+    "LIQUID"
+  ],
+  "routes": [
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "SANDOZ CANADA INCORPORATED"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "OTHER MINERAL PRODUCTS"
+  ]
+}

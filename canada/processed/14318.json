@@ -1,0 +1,28 @@
+{
+  "drug_code": "14318",
+  "din": "02016109",
+  "brand_name": "SURVANTA",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "05-JAN-2018",
+  "active_ingredients": [
+    {
+      "name": "BERACTANT",
+      "strength": "25",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SUSPENSION"
+  ],
+  "routes": [
+    "INTRATRACHEAL"
+  ],
+  "companies": [
+    "ABBVIE CORPORATION"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "NATURAL PHOSPHOLIPIDS"
+  ]
+}

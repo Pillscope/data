@@ -1,0 +1,26 @@
+{
+  "drug_code": "43920",
+  "din": "02137607",
+  "brand_name": "RALGRO",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "09-JUL-2014",
+  "active_ingredients": [
+    {
+      "name": "ZERANOL",
+      "strength": "36",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "IMPLANT"
+  ],
+  "routes": [
+    "SUBCUTANEOUS"
+  ],
+  "companies": [
+    "INTERVET CANADA CORP"
+  ],
+  "status": "APPROVED",
+  "atc": []
+}

@@ -1,0 +1,28 @@
+{
+  "drug_code": "69385",
+  "din": "02245346",
+  "brand_name": "ANDROGEL",
+  "class": "Human",
+  "descriptor": "5 G GEL PER PACK",
+  "last_update": "25-APR-2018",
+  "active_ingredients": [
+    {
+      "name": "TESTOSTERONE",
+      "strength": "1",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "GEL"
+  ],
+  "routes": [
+    "TRANSDERMAL"
+  ],
+  "companies": [
+    "BGP PHARMA ULC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "TESTOSTERONE"
+  ]
+}

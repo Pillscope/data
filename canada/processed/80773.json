@@ -1,0 +1,33 @@
+{
+  "drug_code": "80773",
+  "din": "02322277",
+  "brand_name": "ELTAMD SKINCARE UV FACIAL SPF 30",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "17-MAY-2010",
+  "active_ingredients": [
+    {
+      "name": "ZINC OXIDE",
+      "strength": "7.0",
+      "unit": "%"
+    },
+    {
+      "name": "OCTINOXATE",
+      "strength": "7.5",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "CREAM"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "SWISS AMERICAN PRODUCTS INC."
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "COMBINATIONS OF PROTECTIVES AGAINST UV-RADIATION"
+  ]
+}

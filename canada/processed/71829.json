@@ -1,0 +1,28 @@
+{
+  "drug_code": "71829",
+  "din": "02247574",
+  "brand_name": "PMS-CLARITHROMYCIN",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "07-MAY-2008",
+  "active_ingredients": [
+    {
+      "name": "CLARITHROMYCIN",
+      "strength": "500",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "PHARMASCIENCE INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "CLARITHROMYCIN"
+  ]
+}

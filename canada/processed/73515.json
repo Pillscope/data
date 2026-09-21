@@ -1,0 +1,26 @@
+{
+  "drug_code": "73515",
+  "din": "02250349",
+  "brand_name": "GASTROGARD",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "26-OCT-2010",
+  "active_ingredients": [
+    {
+      "name": "OMEPRAZOLE",
+      "strength": "37",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "PASTE"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "MERIAL CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": []
+}

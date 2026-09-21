@@ -1,0 +1,28 @@
+{
+  "drug_code": "91070",
+  "din": "02426099",
+  "brand_name": "HEAD & SHOULDERS INSTANT OIL CONTROL 2IN1",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "08-JAN-2016",
+  "active_ingredients": [
+    {
+      "name": "PYRITHIONE ZINC",
+      "strength": "1",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "SHAMPOO"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "PROCTER & GAMBLE INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "PYRITHIONE ZINC"
+  ]
+}

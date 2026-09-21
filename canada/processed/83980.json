@@ -1,0 +1,28 @@
+{
+  "drug_code": "83980",
+  "din": "02354632",
+  "brand_name": "TEVA-ROSUVASTATIN",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "04-DEC-2013",
+  "active_ingredients": [
+    {
+      "name": "ROSUVASTATIN (ROSUVASTATIN CALCIUM)",
+      "strength": "40",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "TEVA CANADA LIMITED"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "ROSUVASTATIN"
+  ]
+}

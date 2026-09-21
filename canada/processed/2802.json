@@ -1,0 +1,34 @@
+{
+  "drug_code": "2802",
+  "din": "00416355",
+  "brand_name": "DETERGENT SANITIZER OAKITE",
+  "class": "Disinfectant",
+  "descriptor": "",
+  "last_update": "17-JUL-2017",
+  "active_ingredients": [
+    {
+      "name": "PHOSPHORIC ACID",
+      "strength": "21",
+      "unit": "%"
+    },
+    {
+      "name": "SODIUM DODECYLBENZENESULFONATE",
+      "strength": "2.75",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "LIQUID"
+  ],
+  "routes": [
+    "DISINFECTANT (Food Premises)",
+    "DISINFECTANT (Hospital/HC Facilities)"
+  ],
+  "companies": [
+    "CHEMETALL CANADA LTD"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "TECHNICAL DISINFECTANTS"
+  ]
+}

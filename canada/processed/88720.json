@@ -1,0 +1,32 @@
+{
+  "drug_code": "88720",
+  "din": "02402351",
+  "brand_name": "CONCROBIUM BROAD SPECTRUM DISINFECTANT",
+  "class": "Disinfectant",
+  "descriptor": "",
+  "last_update": "02-DEC-2013",
+  "active_ingredients": [
+    {
+      "name": "THYMOL",
+      "strength": "0.23",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "DISINFECTANT (Barn)",
+    "DISINFECTANT (Food Premises)",
+    "DISINFECTANT (Hospital/HC Facilities)",
+    "DISINFECTANT (Domestic)",
+    "DISINFECTANT (Institutional/Industrial)"
+  ],
+  "companies": [
+    "LABORATOIRE M2 INC"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "TECHNICAL DISINFECTANTS"
+  ]
+}

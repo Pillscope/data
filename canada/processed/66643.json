@@ -1,0 +1,28 @@
+{
+  "drug_code": "66643",
+  "din": "02242815",
+  "brand_name": "SIMULECT",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "08-JUL-2009",
+  "active_ingredients": [
+    {
+      "name": "BASILIXIMAB",
+      "strength": "20",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "POWDER FOR SOLUTION"
+  ],
+  "routes": [
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "NOVARTIS PHARMACEUTICALS CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "BASILIXIMAB"
+  ]
+}

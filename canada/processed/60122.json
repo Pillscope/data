@@ -1,0 +1,38 @@
+{
+  "drug_code": "60122",
+  "din": "02236833",
+  "brand_name": "OPTI-FREE EXPRESS",
+  "class": "Disinfectant",
+  "descriptor": "",
+  "last_update": "18-JUL-2012",
+  "active_ingredients": [
+    {
+      "name": "MYRISTAMIDOPROPYL DIMETHYLAMINE",
+      "strength": "0.0005",
+      "unit": "%"
+    },
+    {
+      "name": "DISODIUM EDETATE",
+      "strength": "0.05",
+      "unit": "%"
+    },
+    {
+      "name": "POLYQUATERNIUM 1",
+      "strength": "0.001",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "DISINFECTANT (Contact Lens)"
+  ],
+  "companies": [
+    "ALCON CANADA INC"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "ARTIFICIAL TEARS AND OTHER INDIFFERENT PREPARATIONS."
+  ]
+}

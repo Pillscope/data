@@ -1,0 +1,26 @@
+{
+  "drug_code": "9363",
+  "din": "00643262",
+  "brand_name": "KOPPERSOL 37.5% LIQ",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "05-JUL-1999",
+  "active_ingredients": [
+    {
+      "name": "COPPER NAPHTHENATE",
+      "strength": "37.5",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "LIQUID"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "PROFESSIONAL VETERINARY LABORATORIES"
+  ],
+  "status": "MARKETED",
+  "atc": []
+}

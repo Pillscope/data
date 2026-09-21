@@ -1,0 +1,28 @@
+{
+  "drug_code": "13821",
+  "din": "02011689",
+  "brand_name": "VETACORTYL",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "30-AUG-2005",
+  "active_ingredients": [
+    {
+      "name": "METHYLPREDNISOLONE ACETATE",
+      "strength": "40",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SUSPENSION"
+  ],
+  "routes": [
+    "INTRAMUSCULAR",
+    "INTRASYNOVIAL",
+    "INTRATENDINOUS"
+  ],
+  "companies": [
+    "VETOQUINOL N A INC"
+  ],
+  "status": "APPROVED",
+  "atc": []
+}

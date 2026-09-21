@@ -1,0 +1,118 @@
+{
+  "drug_code": "14066",
+  "din": "02014025",
+  "brand_name": "CLINIMIX E",
+  "class": "Human",
+  "descriptor": "4.25 % AMINO ACIDS (BLEND B) WITH ELECTROLYTES IN 10% DEXTROSE INJECTION",
+  "last_update": "30-JUN-2016",
+  "active_ingredients": [
+    {
+      "name": "L-ALANINE",
+      "strength": "880",
+      "unit": "MG"
+    },
+    {
+      "name": "METHIONINE",
+      "strength": "246",
+      "unit": "MG"
+    },
+    {
+      "name": "TRYPTOPHAN",
+      "strength": "76",
+      "unit": "MG"
+    },
+    {
+      "name": "L-PROLINE",
+      "strength": "178",
+      "unit": "MG"
+    },
+    {
+      "name": "L-ARGININE",
+      "strength": "440",
+      "unit": "MG"
+    },
+    {
+      "name": "L-PHENYLALANINE HYDROCHLORIDE",
+      "strength": "263",
+      "unit": "MG"
+    },
+    {
+      "name": "L-TYROSINE",
+      "strength": "17",
+      "unit": "MG"
+    },
+    {
+      "name": "L-ISOLEUCINE",
+      "strength": "203",
+      "unit": "MG"
+    },
+    {
+      "name": "L-THREONINE",
+      "strength": "178",
+      "unit": "MG"
+    },
+    {
+      "name": "SODIUM CHLORIDE",
+      "strength": "77",
+      "unit": "MG"
+    },
+    {
+      "name": "DEXTROSE",
+      "strength": "10",
+      "unit": "G"
+    },
+    {
+      "name": "GLYCINE",
+      "strength": "880",
+      "unit": "MG"
+    },
+    {
+      "name": "HISTIDINE",
+      "strength": "186",
+      "unit": "MG"
+    },
+    {
+      "name": "SODIUM ACETATE",
+      "strength": "297",
+      "unit": "MG"
+    },
+    {
+      "name": "MAGNESIUM CHLORIDE",
+      "strength": "51",
+      "unit": "MG"
+    },
+    {
+      "name": "POTASSIUM PHOSPHATE DIBASIC",
+      "strength": "261",
+      "unit": "MG"
+    },
+    {
+      "name": "L-LYSINE HYDROCHLORIDE",
+      "strength": "246",
+      "unit": "MG"
+    },
+    {
+      "name": "L-VALINE",
+      "strength": "195",
+      "unit": "MG"
+    },
+    {
+      "name": "L-LEUCINE HYDROCHLORIDE",
+      "strength": "263",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "BAXTER CORPORATION"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "COMBINATIONS"
+  ]
+}

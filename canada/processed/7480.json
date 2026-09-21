@@ -1,0 +1,28 @@
+{
+  "drug_code": "7480",
+  "din": "00729973",
+  "brand_name": "PROVERA 10MG TABLETS",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "01-MAY-2009",
+  "active_ingredients": [
+    {
+      "name": "MEDROXYPROGESTERONE ACETATE",
+      "strength": "10",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "PFIZER CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "MEDROXYPROGESTERONE"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "drug_code": "88852",
+  "din": "02403730",
+  "brand_name": "PREGABALIN",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "30-JAN-2018",
+  "active_ingredients": [
+    {
+      "name": "PREGABALIN",
+      "strength": "300",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "CAPSULE"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "SIVEM PHARMACEUTICALS ULC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "PREGABALIN"
+  ]
+}

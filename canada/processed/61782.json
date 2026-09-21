@@ -1,0 +1,28 @@
+{
+  "drug_code": "61782",
+  "din": "02238370",
+  "brand_name": "APO-VALPROIC SYRUP",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "07-NOV-2017",
+  "active_ingredients": [
+    {
+      "name": "VALPROIC ACID (SODIUM VALPROATE)",
+      "strength": "250",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SYRUP"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "APOTEX INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "VALPROIC ACID"
+  ]
+}

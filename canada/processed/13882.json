@@ -1,0 +1,28 @@
+{
+  "drug_code": "13882",
+  "din": "02014394",
+  "brand_name": "NITROGEN NF 99%",
+  "class": "Human",
+  "descriptor": "MANUFACTURED DOSAGE FORM-LIQUID",
+  "last_update": "26-SEP-2017",
+  "active_ingredients": [
+    {
+      "name": "NITROGEN",
+      "strength": "99",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "GAS"
+  ],
+  "routes": [
+    "INHALATION"
+  ],
+  "companies": [
+    "PRAXAIR CANADA INC"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "NITROGEN"
+  ]
+}

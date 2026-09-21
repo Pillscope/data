@@ -1,0 +1,28 @@
+{
+  "drug_code": "67656",
+  "din": "02243724",
+  "brand_name": "OESCLIM",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "01-NOV-2017",
+  "active_ingredients": [
+    {
+      "name": "ESTRADIOL",
+      "strength": "50",
+      "unit": "MCG"
+    }
+  ],
+  "forms": [
+    "PATCH"
+  ],
+  "routes": [
+    "TRANSDERMAL"
+  ],
+  "companies": [
+    "SEARCHLIGHT PHARMA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "ESTRADIOL"
+  ]
+}

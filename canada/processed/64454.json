@@ -1,0 +1,29 @@
+{
+  "drug_code": "64454",
+  "din": "02240863",
+  "brand_name": "RELENZA",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "16-NOV-2005",
+  "active_ingredients": [
+    {
+      "name": "ZANAMIVIR",
+      "strength": "5",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "POWDER"
+  ],
+  "routes": [
+    "INHALATION",
+    "ORAL"
+  ],
+  "companies": [
+    "GLAXOSMITHKLINE INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "ZANAMIVIR"
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "drug_code": "84770",
+  "din": "02362708",
+  "brand_name": "SENNOSIDES WITH DOCUSATE SODIUM",
+  "class": "Human",
+  "descriptor": "FILM-COATED TABLET",
+  "last_update": "16-AUG-2013",
+  "active_ingredients": [
+    {
+      "name": "SENNOSIDES",
+      "strength": "8.6",
+      "unit": "MG"
+    },
+    {
+      "name": "DOCUSATE SODIUM",
+      "strength": "50",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "EURO-PHARM INTERNATIONAL CANADA INC"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "SENNA GLYCOSIDES, COMBINATIONS"
+  ]
+}

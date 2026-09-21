@@ -1,0 +1,28 @@
+{
+  "drug_code": "85813",
+  "din": "02373009",
+  "brand_name": "JAMP-LETROZOLE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "25-OCT-2011",
+  "active_ingredients": [
+    {
+      "name": "LETROZOLE",
+      "strength": "2.5",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "JAMP PHARMA CORPORATION"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "LETROZOLE"
+  ]
+}

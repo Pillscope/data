@@ -1,0 +1,28 @@
+{
+  "drug_code": "50657",
+  "din": "02231348",
+  "brand_name": "KWELLADA-P LOTION",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "03-APR-2014",
+  "active_ingredients": [
+    {
+      "name": "PERMETHRIN",
+      "strength": "5",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "LOTION"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "MEDTECH PRODUCTS INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "PERMETHRIN"
+  ]
+}

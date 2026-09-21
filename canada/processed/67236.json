@@ -1,0 +1,28 @@
+{
+  "drug_code": "67236",
+  "din": "02243333",
+  "brand_name": "FERRLECIT",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "18-DEC-2013",
+  "active_ingredients": [
+    {
+      "name": "IRON (SODIUM FERRIC GLUCONATE COMPLEX IN SUCROSE INJECTION)",
+      "strength": "12.5",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "LIQUID"
+  ],
+  "routes": [
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "SANOFI-AVENTIS CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "IRON, PARENTERAL PREPARATIONS"
+  ]
+}

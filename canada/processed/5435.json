@@ -1,0 +1,28 @@
+{
+  "drug_code": "5435",
+  "din": "00600067",
+  "brand_name": "APO CIMETIDINE TAB 600MG",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "06-FEB-2008",
+  "active_ingredients": [
+    {
+      "name": "CIMETIDINE",
+      "strength": "600",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "APOTEX INC"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "CIMETIDINE"
+  ]
+}

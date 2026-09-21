@@ -1,0 +1,28 @@
+{
+  "drug_code": "81399",
+  "din": "02328461",
+  "brand_name": "SANDOZ IRBESARTAN",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "25-MAR-2011",
+  "active_ingredients": [
+    {
+      "name": "IRBESARTAN",
+      "strength": "75",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "SANDOZ CANADA INCORPORATED"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "IRBESARTAN"
+  ]
+}

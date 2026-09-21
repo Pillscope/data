@@ -1,0 +1,26 @@
+{
+  "drug_code": "65746",
+  "din": "02242073",
+  "brand_name": "IMMITICIDE STERILE POWDER",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "11-APR-2018",
+  "active_ingredients": [
+    {
+      "name": "MELARSOMINE DIHYDROCHLORIDE",
+      "strength": "50",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "POWDER FOR SOLUTION"
+  ],
+  "routes": [
+    "INTRAMUSCULAR"
+  ],
+  "companies": [
+    "MERIAL CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": []
+}

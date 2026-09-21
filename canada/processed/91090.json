@@ -1,0 +1,28 @@
+{
+  "drug_code": "91090",
+  "din": "02426307",
+  "brand_name": "SANDOZ RIVASTIGMINE PATCH 10",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "01-NOV-2017",
+  "active_ingredients": [
+    {
+      "name": "RIVASTIGMINE",
+      "strength": "9.5",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "PATCH"
+  ],
+  "routes": [
+    "TRANSDERMAL"
+  ],
+  "companies": [
+    "SANDOZ CANADA INCORPORATED"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "RIVASTIGMINE"
+  ]
+}

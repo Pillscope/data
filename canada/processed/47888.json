@@ -1,0 +1,66 @@
+{
+  "drug_code": "47888",
+  "din": "02229713",
+  "brand_name": "QUENCH LYTE",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "28-MAY-2009",
+  "active_ingredients": [
+    {
+      "name": "MANGANESE SULFATE",
+      "strength": "4.6",
+      "unit": "MG"
+    },
+    {
+      "name": "COBALT SULFATE",
+      "strength": "0.0701",
+      "unit": "MG"
+    },
+    {
+      "name": "SODIUM CHLORIDE",
+      "strength": "320",
+      "unit": "MG"
+    },
+    {
+      "name": "POTASSIUM CHLORIDE",
+      "strength": "114",
+      "unit": "MG"
+    },
+    {
+      "name": "ZINC SULFATE",
+      "strength": "6.6",
+      "unit": "MG"
+    },
+    {
+      "name": "MAGNESIUM CHLORIDE",
+      "strength": "15.7",
+      "unit": "MG"
+    },
+    {
+      "name": "COPPER SULFATE",
+      "strength": "3.15",
+      "unit": "MG"
+    },
+    {
+      "name": "CALCIUM LACTATE",
+      "strength": "32.3",
+      "unit": "MG"
+    },
+    {
+      "name": "FERROUS SULFATE",
+      "strength": "5",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "POWDER"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "DOMINION VETERINARY LABORATORIES LTD."
+  ],
+  "status": "MARKETED",
+  "atc": []
+}

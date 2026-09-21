@@ -1,0 +1,26 @@
+{
+  "drug_code": "91236",
+  "din": "02427869",
+  "brand_name": "ISATHAL EYE GEL",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "19-MAR-2015",
+  "active_ingredients": [
+    {
+      "name": "FUSIDIC ACID",
+      "strength": "10",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "GEL"
+  ],
+  "routes": [
+    "OPHTHALMIC"
+  ],
+  "companies": [
+    "DECHRA VETERINARY PRODUCTS A/S"
+  ],
+  "status": "APPROVED",
+  "atc": []
+}

@@ -1,0 +1,28 @@
+{
+  "drug_code": "12601",
+  "din": "01927817",
+  "brand_name": "ROVAMYCINE 500 CAPSULE 1500000 UNIT",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "20-AUG-2009",
+  "active_ingredients": [
+    {
+      "name": "SPIRAMYCIN",
+      "strength": "1500000",
+      "unit": "UNIT"
+    }
+  ],
+  "forms": [
+    "CAPSULE"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "ODAN LABORATORIES LTD"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "SPIRAMYCIN"
+  ]
+}

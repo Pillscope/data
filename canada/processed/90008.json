@@ -1,0 +1,48 @@
+{
+  "drug_code": "90008",
+  "din": "02415488",
+  "brand_name": "SELECTBAG ONE (AX450G)",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "10-MAY-2017",
+  "active_ingredients": [
+    {
+      "name": "POTASSIUM CHLORIDE",
+      "strength": "59.6",
+      "unit": "G"
+    },
+    {
+      "name": "ACETIC ACID",
+      "strength": "36",
+      "unit": "G"
+    },
+    {
+      "name": "DEXTROSE",
+      "strength": "220",
+      "unit": "G"
+    },
+    {
+      "name": "MAGNESIUM CHLORIDE",
+      "strength": "20.3",
+      "unit": "G"
+    },
+    {
+      "name": "CALCIUM CHLORIDE",
+      "strength": "44.1",
+      "unit": "G"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "DIALYSIS"
+  ],
+  "companies": [
+    "BAXTER CORPORATION"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "HEMODIALYTICS, CONCENTRATES"
+  ]
+}

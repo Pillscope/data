@@ -1,0 +1,28 @@
+{
+  "drug_code": "69485",
+  "din": "02245433",
+  "brand_name": "PIMOZIDE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "14-MAR-2016",
+  "active_ingredients": [
+    {
+      "name": "PIMOZIDE",
+      "strength": "4",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "AA PHARMA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "PIMOZIDE"
+  ]
+}

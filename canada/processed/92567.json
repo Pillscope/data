@@ -1,0 +1,31 @@
+{
+  "drug_code": "92567",
+  "din": "02441284",
+  "brand_name": "INTRA HOOF-FIT GEL",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "25-MAY-2016",
+  "active_ingredients": [
+    {
+      "name": "COPPER (Copper diammonium EDTA)",
+      "strength": "4",
+      "unit": "%"
+    },
+    {
+      "name": "ZINC (Zinc diammonium EDTA)",
+      "strength": "4",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "GEL"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "INTRACARE BV"
+  ],
+  "status": "APPROVED",
+  "atc": []
+}

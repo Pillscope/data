@@ -1,0 +1,28 @@
+{
+  "drug_code": "71628",
+  "din": "02247383",
+  "brand_name": "PHARMA-LACTULOSE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "20-JUL-2016",
+  "active_ingredients": [
+    {
+      "name": "LACTULOSE",
+      "strength": "667",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "PHARMASCIENCE INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "LACTULOSE"
+  ]
+}

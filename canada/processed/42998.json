@@ -1,0 +1,28 @@
+{
+  "drug_code": "42998",
+  "din": "02204533",
+  "brand_name": "TEVA-ACEBUTOLOL",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "05-MAY-2015",
+  "active_ingredients": [
+    {
+      "name": "ACEBUTOLOL (ACEBUTOLOL HYDROCHLORIDE)",
+      "strength": "400",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "TEVA CANADA LIMITED"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "ACEBUTOLOL"
+  ]
+}

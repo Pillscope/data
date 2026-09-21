@@ -1,0 +1,28 @@
+{
+  "drug_code": "78188",
+  "din": "02296551",
+  "brand_name": "PMS-QUETIAPINE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "01-APR-2010",
+  "active_ingredients": [
+    {
+      "name": "QUETIAPINE (QUETIAPINE FUMARATE)",
+      "strength": "25",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "PHARMASCIENCE INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "QUETIAPINE"
+  ]
+}

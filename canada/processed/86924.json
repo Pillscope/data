@@ -1,0 +1,28 @@
+{
+  "drug_code": "86924",
+  "din": "02383500",
+  "brand_name": "MYLAN-BOSENTAN",
+  "class": "Human",
+  "descriptor": "FILM COATED TABLET",
+  "last_update": "15-OCT-2015",
+  "active_ingredients": [
+    {
+      "name": "BOSENTAN (BOSENTAN MONOHYDRATE)",
+      "strength": "125.0",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "MYLAN PHARMACEUTICALS ULC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "BOSENTAN"
+  ]
+}

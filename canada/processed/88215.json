@@ -1,0 +1,43 @@
+{
+  "drug_code": "88215",
+  "din": "02397161",
+  "brand_name": "VASELINE INTENSIVE CARE ALOE FRESH SPF 15",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "19-AUG-2016",
+  "active_ingredients": [
+    {
+      "name": "AVOBENZONE",
+      "strength": "2",
+      "unit": "%"
+    },
+    {
+      "name": "OCTOCRYLENE",
+      "strength": "1.3",
+      "unit": "%"
+    },
+    {
+      "name": "OCTISALATE",
+      "strength": "5",
+      "unit": "%"
+    },
+    {
+      "name": "ENSULIZOLE",
+      "strength": "1.5",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "LOTION"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "UNILEVER CANADA"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "COMBINATIONS OF PROTECTIVES AGAINST UV-RADIATION"
+  ]
+}

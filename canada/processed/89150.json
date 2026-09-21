@@ -1,0 +1,28 @@
+{
+  "drug_code": "89150",
+  "din": "02406829",
+  "brand_name": "RAN-IRBESARTAN",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "05-DEC-2013",
+  "active_ingredients": [
+    {
+      "name": "IRBESARTAN",
+      "strength": "150",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "RANBAXY PHARMACEUTICALS CANADA INC."
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "IRBESARTAN"
+  ]
+}

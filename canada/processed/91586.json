@@ -1,0 +1,48 @@
+{
+  "drug_code": "91586",
+  "din": "02431440",
+  "brand_name": "NIVEA Q10 PLUS ANTI-WRINKLE DAY CREAM SPF 30",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "15-JUL-2016",
+  "active_ingredients": [
+    {
+      "name": "AVOBENZONE",
+      "strength": "2.85",
+      "unit": "%"
+    },
+    {
+      "name": "OCTOCRYLENE",
+      "strength": "7",
+      "unit": "%"
+    },
+    {
+      "name": "OCTISALATE",
+      "strength": "4.5",
+      "unit": "%"
+    },
+    {
+      "name": "HOMOSALATE",
+      "strength": "9.",
+      "unit": "%"
+    },
+    {
+      "name": "ENSULIZOLE",
+      "strength": "2.5",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "CREAM"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "BEIERSDORF CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "COMBINATIONS OF PROTECTIVES AGAINST UV-RADIATION"
+  ]
+}

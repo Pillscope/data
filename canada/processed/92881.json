@@ -1,0 +1,36 @@
+{
+  "drug_code": "92881",
+  "din": "02444038",
+  "brand_name": "MIFEGYMISO",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "13-FEB-2017",
+  "active_ingredients": [
+    {
+      "name": "MISOPROSTOL",
+      "strength": "200",
+      "unit": "MCG"
+    },
+    {
+      "name": "MIFEPRISTONE",
+      "strength": "200",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "KIT",
+    "TABLET"
+  ],
+  "routes": [
+    "BUCCAL",
+    "ORAL"
+  ],
+  "companies": [
+    "LINEPHARMA INTERNATIONAL LIMITED"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "MIFEPRISTONE, COMBINATIONS",
+    "MIFEPRISTONE, COMBINATIONS"
+  ]
+}

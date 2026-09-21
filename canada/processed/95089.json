@@ -1,0 +1,28 @@
+{
+  "drug_code": "95089",
+  "din": "02462990",
+  "brand_name": "TECENTRIQ",
+  "class": "Human",
+  "descriptor": "CONCENTRATE. SINGLE USE VIALS.",
+  "last_update": "30-MAY-2017",
+  "active_ingredients": [
+    {
+      "name": "ATEZOLIZUMAB",
+      "strength": "60",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "HOFFMANN-LA ROCHE LIMITED"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "MONOCLONAL ANTIBODIES"
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "drug_code": "76114",
+  "din": "02275481",
+  "brand_name": "SUCRETS COMPLETE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "02-JUL-2014",
+  "active_ingredients": [
+    {
+      "name": "DYCLONINE HYDROCHLORIDE",
+      "strength": "3",
+      "unit": "MG"
+    },
+    {
+      "name": "MENTHOL",
+      "strength": "6",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "LOZENGE"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "INSIGHT PHARMACEUTICALS LLC"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "DYCLONINE"
+  ]
+}

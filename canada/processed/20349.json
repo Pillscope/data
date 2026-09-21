@@ -1,0 +1,28 @@
+{
+  "drug_code": "20349",
+  "din": "02219719",
+  "brand_name": "OXYGEN USP - GAS 100%",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "21-SEP-2011",
+  "active_ingredients": [
+    {
+      "name": "OXYGEN",
+      "strength": "100",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "GAS"
+  ],
+  "routes": [
+    "INHALATION"
+  ],
+  "companies": [
+    "LAKERIDGE HEALTH CORPORATION COMMUNITY RESPIRATORY SERVICES"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "OXYGEN"
+  ]
+}

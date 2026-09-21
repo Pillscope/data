@@ -1,0 +1,26 @@
+{
+  "drug_code": "85680",
+  "din": "02371669",
+  "brand_name": "DENTACHLOR",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "13-AUG-2012",
+  "active_ingredients": [
+    {
+      "name": "CHLORHEXIDINE GLUCONATE",
+      "strength": "0.12",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "BUCCAL"
+  ],
+  "companies": [
+    "NOR VET SALES INC"
+  ],
+  "status": "MARKETED",
+  "atc": []
+}

@@ -1,0 +1,28 @@
+{
+  "drug_code": "316",
+  "din": "00024694",
+  "brand_name": "ATARAX SYRUP 2MG/ML",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "22-JUN-2017",
+  "active_ingredients": [
+    {
+      "name": "HYDROXYZINE HYDROCHLORIDE",
+      "strength": "10",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SYRUP"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "ERFA CANADA 2012 INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "HYDROXYZINE"
+  ]
+}

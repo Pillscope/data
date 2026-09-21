@@ -1,0 +1,29 @@
+{
+  "drug_code": "9776",
+  "din": "00783978",
+  "brand_name": "ROBAXIMOL INJ 100MG/ML",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "04-SEP-2015",
+  "active_ingredients": [
+    {
+      "name": "METHOCARBAMOL",
+      "strength": "100",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "LIQUID"
+  ],
+  "routes": [
+    "INTRAMUSCULAR",
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "MONTREAL VETERINARY PRODUCTS INC."
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "METHOCARBAMOL"
+  ]
+}

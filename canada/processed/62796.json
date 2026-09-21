@@ -1,0 +1,28 @@
+{
+  "drug_code": "62796",
+  "din": "02239327",
+  "brand_name": "TRYPTAN TAB 750MG",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "17-SEP-2014",
+  "active_ingredients": [
+    {
+      "name": "TRYPTOPHAN",
+      "strength": "750",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "VALEANT CANADA LP/VALEANT CANADA S.E.C."
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "TRYPTOPHAN"
+  ]
+}

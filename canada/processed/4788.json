@@ -1,0 +1,30 @@
+{
+  "drug_code": "4788",
+  "din": "00541877",
+  "brand_name": "SCOPOLAMINE HYDROBROMIDE INJECTION USP",
+  "class": "Human",
+  "descriptor": "SINGLE-USE AMPOULE",
+  "last_update": "02-FEB-2018",
+  "active_ingredients": [
+    {
+      "name": "SCOPOLAMINE HYDROBROMIDE",
+      "strength": "0.6",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "INTRAMUSCULAR",
+    "INTRAVENOUS",
+    "SUBCUTANEOUS"
+  ],
+  "companies": [
+    "PFIZER CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "SCOPOLAMINE"
+  ]
+}

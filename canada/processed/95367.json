@@ -1,0 +1,28 @@
+{
+  "drug_code": "95367",
+  "din": "02465493",
+  "brand_name": "CUBICIN RF",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "01-FEB-2018",
+  "active_ingredients": [
+    {
+      "name": "DAPTOMYCIN",
+      "strength": "500",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "POWDER FOR SOLUTION"
+  ],
+  "routes": [
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "CUBIST PHARMACEUTICALS LLC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "DAPTOMYCIN"
+  ]
+}

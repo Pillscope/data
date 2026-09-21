@@ -1,0 +1,26 @@
+{
+  "drug_code": "1996",
+  "din": "00308285",
+  "brand_name": "PIPERAZINE DIHYDROCHLORIDE 53%",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "13-OCT-2007",
+  "active_ingredients": [
+    {
+      "name": "PIPERAZINE (PIPERAZINE HYDROCHLORIDE)",
+      "strength": "53",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "POWDER"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "PROFESSIONAL VETERINARY LABORATORIES"
+  ],
+  "status": "MARKETED",
+  "atc": []
+}

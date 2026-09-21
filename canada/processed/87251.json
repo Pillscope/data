@@ -1,0 +1,28 @@
+{
+  "drug_code": "87251",
+  "din": "02386933",
+  "brand_name": "TRANEXAMIC ACID INJECTION BP",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "24-MAY-2013",
+  "active_ingredients": [
+    {
+      "name": "TRANEXAMIC ACID",
+      "strength": "100",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "STERIMAX INC"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "TRANEXAMIC ACID"
+  ]
+}

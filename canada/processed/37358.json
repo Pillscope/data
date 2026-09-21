@@ -1,0 +1,33 @@
+{
+  "drug_code": "37358",
+  "din": "02224577",
+  "brand_name": "COPHYLAC",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "26-APR-2018",
+  "active_ingredients": [
+    {
+      "name": "NORMETHADONE HYDROCHLORIDE",
+      "strength": "10",
+      "unit": "MG"
+    },
+    {
+      "name": "P-HYDROXYEPHEDRINE HYDROCHLORIDE",
+      "strength": "20",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "DROPS"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "VALEANT CANADA LP/VALEANT CANADA S.E.C."
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "COMBINATIONS"
+  ]
+}

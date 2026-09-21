@@ -1,0 +1,32 @@
+{
+  "drug_code": "42854",
+  "din": "02184559",
+  "brand_name": "TRIMIDOX",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "13-FEB-2014",
+  "active_ingredients": [
+    {
+      "name": "TRIMETHOPRIM",
+      "strength": "40",
+      "unit": "MG"
+    },
+    {
+      "name": "SULFADOXINE",
+      "strength": "200",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "INTRAMUSCULAR",
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "VETOQUINOL N A INC"
+  ],
+  "status": "APPROVED",
+  "atc": []
+}

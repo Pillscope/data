@@ -1,0 +1,38 @@
+{
+  "drug_code": "48551",
+  "din": "02230019",
+  "brand_name": "VIOKACE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "16-MAY-2016",
+  "active_ingredients": [
+    {
+      "name": "LIPASE",
+      "strength": "10440",
+      "unit": "UNIT"
+    },
+    {
+      "name": "PROTEASE",
+      "strength": "57100",
+      "unit": "UNIT"
+    },
+    {
+      "name": "AMYLASE",
+      "strength": "56400",
+      "unit": "UNIT"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "APTALIS PHARMA CANADA ULC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "MULTIENZYMES (LIPASE, PROTEASE ETC)"
+  ]
+}

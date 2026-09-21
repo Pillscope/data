@@ -1,0 +1,33 @@
+{
+  "drug_code": "10519",
+  "din": "00828602",
+  "brand_name": "LIDOCAINE HCL 0.4% AND 5% DEXTROSE INJ",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "22-JUN-2006",
+  "active_ingredients": [
+    {
+      "name": "DEXTROSE",
+      "strength": "50",
+      "unit": "MG"
+    },
+    {
+      "name": "LIDOCAINE HYDROCHLORIDE",
+      "strength": "4",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "BAXTER CORPORATION"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "LIDOCAINE"
+  ]
+}

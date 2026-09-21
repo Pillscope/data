@@ -1,0 +1,28 @@
+{
+  "drug_code": "50662",
+  "din": "02231353",
+  "brand_name": "MYLAN-CYCLOBENZAPRINE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "11-MAR-2010",
+  "active_ingredients": [
+    {
+      "name": "CYCLOBENZAPRINE HYDROCHLORIDE",
+      "strength": "10",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "MYLAN PHARMACEUTICALS ULC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "CYCLOBENZAPRINE"
+  ]
+}

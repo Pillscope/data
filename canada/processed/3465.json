@@ -1,0 +1,28 @@
+{
+  "drug_code": "3465",
+  "din": "00402745",
+  "brand_name": "APO OXAZEPAM TAB 15MG",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "22-AUG-2011",
+  "active_ingredients": [
+    {
+      "name": "OXAZEPAM",
+      "strength": "15",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "APOTEX INC"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "OXAZEPAM"
+  ]
+}

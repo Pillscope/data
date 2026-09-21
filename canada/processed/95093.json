@@ -1,0 +1,28 @@
+{
+  "drug_code": "95093",
+  "din": "02463032",
+  "brand_name": "CHLORHEXIDINE ALCOHOL FREE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "27-FEB-2018",
+  "active_ingredients": [
+    {
+      "name": "CHLORHEXIDINE GLUCONATE",
+      "strength": "0.12",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "BUCCAL"
+  ],
+  "companies": [
+    "EURO-PHARM INTERNATIONAL CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "CHLORHEXIDINE"
+  ]
+}

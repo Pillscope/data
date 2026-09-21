@@ -1,0 +1,28 @@
+{
+  "drug_code": "71771",
+  "din": "02247521",
+  "brand_name": "EZETROL",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "08-FEB-2012",
+  "active_ingredients": [
+    {
+      "name": "EZETIMIBE",
+      "strength": "10",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "MERCK CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "EZETIMIBE"
+  ]
+}

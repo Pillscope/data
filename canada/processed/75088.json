@@ -1,0 +1,39 @@
+{
+  "drug_code": "75088",
+  "din": "02265419",
+  "brand_name": "BENYLIN DM-E MENTHOL EXTRA STRENGTH COUGH AND CHEST CONGESTION",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "29-APR-2015",
+  "active_ingredients": [
+    {
+      "name": "GUAIFENESIN",
+      "strength": "200",
+      "unit": "MG"
+    },
+    {
+      "name": "MENTHOL",
+      "strength": "15",
+      "unit": "MG"
+    },
+    {
+      "name": "DEXTROMETHORPHAN HYDROBROMIDE",
+      "strength": "15",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SYRUP"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "MCNEIL CONSUMER HEALTHCARE DIVISION OF JOHNSON & JOHNSON INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "OPIUM DERIVATIVES AND EXPECTORANTS",
+    "OPIUM DERIVATIVES AND EXPECTORANTS"
+  ]
+}

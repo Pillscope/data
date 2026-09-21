@@ -1,0 +1,28 @@
+{
+  "drug_code": "74173",
+  "din": "02256495",
+  "brand_name": "APO-LEFLUNOMIDE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "08-JUL-2009",
+  "active_ingredients": [
+    {
+      "name": "LEFLUNOMIDE",
+      "strength": "10",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "APOTEX INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "LEFLUNOMIDE"
+  ]
+}

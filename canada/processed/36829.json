@@ -1,0 +1,33 @@
+{
+  "drug_code": "36829",
+  "din": "02210711",
+  "brand_name": "BIOMERS - LIQ INS",
+  "class": "Disinfectant",
+  "descriptor": "",
+  "last_update": "21-JUL-2008",
+  "active_ingredients": [
+    {
+      "name": "ALCOHOL ANHYDROUS",
+      "strength": "70.5",
+      "unit": "%"
+    },
+    {
+      "name": "CHLORHEXIDINE GLUCONATE",
+      "strength": "0.2",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "LIQUID"
+  ],
+  "routes": [
+    "DISINFECTANT (Medical Instruments)"
+  ],
+  "companies": [
+    "MICRYLIUM LABORATORIES INC."
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "TECHNICAL DISINFECTANTS"
+  ]
+}

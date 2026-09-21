@@ -1,0 +1,28 @@
+{
+  "drug_code": "75946",
+  "din": "02274000",
+  "brand_name": "DIFFERIN XP",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "23-AUG-2007",
+  "active_ingredients": [
+    {
+      "name": "ADAPALENE",
+      "strength": "0.3",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "GEL"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "GALDERMA CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "ADAPALENE"
+  ]
+}

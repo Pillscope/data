@@ -1,0 +1,43 @@
+{
+  "drug_code": "95496",
+  "din": "02466627",
+  "brand_name": "BANANA BOAT SIMPLY PROTECT KIDS SUNSCREEN LOTION SPRAY SPF 50+",
+  "class": "Human",
+  "descriptor": "LOTION",
+  "last_update": "08-JAN-2018",
+  "active_ingredients": [
+    {
+      "name": "AVOBENZONE",
+      "strength": "3",
+      "unit": "%"
+    },
+    {
+      "name": "OCTOCRYLENE",
+      "strength": "6",
+      "unit": "%"
+    },
+    {
+      "name": "OCTISALATE",
+      "strength": "4.5",
+      "unit": "%"
+    },
+    {
+      "name": "HOMOSALATE",
+      "strength": "9",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "SPRAY"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "EDGEWELL PERSONAL CARE CANADA, ULC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "COMBINATIONS OF PROTECTIVES AGAINST UV-RADIATION"
+  ]
+}

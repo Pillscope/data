@@ -1,0 +1,28 @@
+{
+  "drug_code": "78441",
+  "din": "02299003",
+  "brand_name": "DOM-QUETIAPINE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "28-APR-2011",
+  "active_ingredients": [
+    {
+      "name": "QUETIAPINE (QUETIAPINE FUMARATE)",
+      "strength": "100",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "DOMINION PHARMACAL"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "QUETIAPINE"
+  ]
+}

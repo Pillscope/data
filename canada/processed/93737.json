@@ -1,0 +1,28 @@
+{
+  "drug_code": "93737",
+  "din": "02451107",
+  "brand_name": "MULTI-SURFACE DISINFECTANT",
+  "class": "Disinfectant",
+  "descriptor": "",
+  "last_update": "23-MAY-2017",
+  "active_ingredients": [
+    {
+      "name": "BENZALKONIUM CHLORIDE",
+      "strength": "0.1",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "SPRAY"
+  ],
+  "routes": [
+    "DISINFECTANT (Domestic)"
+  ],
+  "companies": [
+    "GEMINI PACKAGING LTD"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "TECHNICAL DISINFECTANTS"
+  ]
+}

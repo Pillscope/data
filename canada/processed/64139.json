@@ -1,0 +1,43 @@
+{
+  "drug_code": "64139",
+  "din": "02240568",
+  "brand_name": "POLYSPORIN COMPLETE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "10-AUG-2015",
+  "active_ingredients": [
+    {
+      "name": "LIDOCAINE",
+      "strength": "50",
+      "unit": "MG"
+    },
+    {
+      "name": "GRAMICIDIN",
+      "strength": "0.25",
+      "unit": "MG"
+    },
+    {
+      "name": "POLYMYXIN B (POLYMYXIN B SULFATE)",
+      "strength": "10000",
+      "unit": "UNIT"
+    },
+    {
+      "name": "BACITRACIN ZINC",
+      "strength": "500",
+      "unit": "UNIT"
+    }
+  ],
+  "forms": [
+    "OINTMENT"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "JOHNSON & JOHNSON INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "COMBINATIONS OF ANTIBIOTICS"
+  ]
+}

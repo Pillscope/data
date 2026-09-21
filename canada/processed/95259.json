@@ -1,0 +1,28 @@
+{
+  "drug_code": "95259",
+  "din": "02464454",
+  "brand_name": "SANDOZ DEFERASIROX",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "28-AUG-2017",
+  "active_ingredients": [
+    {
+      "name": "DEFERASIROX",
+      "strength": "125",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET FOR SUSPENSION"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "SANDOZ CANADA INCORPORATED"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "DEFERASIROX"
+  ]
+}

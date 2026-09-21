@@ -1,0 +1,28 @@
+{
+  "drug_code": "13517",
+  "din": "00816000",
+  "brand_name": "PMS-DEXTROMETHORPHAN HYDROBROMIDE SYR 3MG/ML",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "10-MAY-2016",
+  "active_ingredients": [
+    {
+      "name": "DEXTROMETHORPHAN HYDROBROMIDE",
+      "strength": "3",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SYRUP"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "PHARMASCIENCE INC"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "DEXTROMETHORPHAN"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "drug_code": "15483",
+  "din": "02046733",
+  "brand_name": "PULMOZYME 1MG/ML",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "23-MAY-2014",
+  "active_ingredients": [
+    {
+      "name": "DORNASE ALFA",
+      "strength": "1",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "INHALATION"
+  ],
+  "companies": [
+    "HOFFMANN-LA ROCHE LIMITED"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "DORNASE ALFA (DESOXYRIBONUCLEASE)"
+  ]
+}

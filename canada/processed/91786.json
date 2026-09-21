@@ -1,0 +1,28 @@
+{
+  "drug_code": "91786",
+  "din": "02433494",
+  "brand_name": "REPAIRING TREATMENT",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "11-APR-2016",
+  "active_ingredients": [
+    {
+      "name": "BENZOYL PEROXIDE",
+      "strength": "2.5",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "LOTION"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "FRUIT OF THE EARTH, INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "BENZOYL PEROXIDE"
+  ]
+}

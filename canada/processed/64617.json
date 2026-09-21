@@ -1,0 +1,28 @@
+{
+  "drug_code": "64617",
+  "din": "02241023",
+  "brand_name": "PMS-TRYPTOPHAN",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "30-SEP-2010",
+  "active_ingredients": [
+    {
+      "name": "TRYPTOPHAN",
+      "strength": "500",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "CAPSULE"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "PHARMASCIENCE INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "TRYPTOPHAN"
+  ]
+}

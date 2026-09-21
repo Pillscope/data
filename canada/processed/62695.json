@@ -1,0 +1,33 @@
+{
+  "drug_code": "62695",
+  "din": "02239234",
+  "brand_name": "SANDOZ POLYTRIMETHOPRIM",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "18-DEC-2012",
+  "active_ingredients": [
+    {
+      "name": "POLYMYXIN B SULFATE",
+      "strength": "10000",
+      "unit": "UNIT"
+    },
+    {
+      "name": "TRIMETHOPRIM (TRIMETHOPRIM SULFATE)",
+      "strength": "1",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "OPHTHALMIC"
+  ],
+  "companies": [
+    "SANDOZ CANADA INCORPORATED"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "COMBINATIONS OF DIFFERENT ANTIBIOTICS"
+  ]
+}

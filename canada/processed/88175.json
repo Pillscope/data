@@ -1,0 +1,28 @@
+{
+  "drug_code": "88175",
+  "din": "02396734",
+  "brand_name": "MYLAN-FENTANYL MATRIX PATCH",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "17-SEP-2013",
+  "active_ingredients": [
+    {
+      "name": "FENTANYL",
+      "strength": "75",
+      "unit": "MCG"
+    }
+  ],
+  "forms": [
+    "PATCH"
+  ],
+  "routes": [
+    "TRANSDERMAL"
+  ],
+  "companies": [
+    "MYLAN PHARMACEUTICALS ULC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "FENTANYL"
+  ]
+}

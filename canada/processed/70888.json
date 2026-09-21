@@ -1,0 +1,38 @@
+{
+  "drug_code": "70888",
+  "din": "02246693",
+  "brand_name": "TRIPLE ANTIBIOTIC OINTMENT",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "14-AUG-2012",
+  "active_ingredients": [
+    {
+      "name": "GRAMICIDIN",
+      "strength": "0.25",
+      "unit": "MG"
+    },
+    {
+      "name": "POLYMYXIN B (POLYMYXIN B SULFATE)",
+      "strength": "10000",
+      "unit": "UNIT"
+    },
+    {
+      "name": "BACITRACIN ZINC",
+      "strength": "500",
+      "unit": "UNIT"
+    }
+  ],
+  "forms": [
+    "OINTMENT"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "TARO PHARMACEUTICALS INC"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "COMBINATIONS OF ANTIBIOTICS"
+  ]
+}

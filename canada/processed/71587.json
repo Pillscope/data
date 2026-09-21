@@ -1,0 +1,28 @@
+{
+  "drug_code": "71587",
+  "din": "02247344",
+  "brand_name": "JUNIOR STRENGTH MOTRIN CHEWABLE TABLETS",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "02-AUG-2017",
+  "active_ingredients": [
+    {
+      "name": "IBUPROFEN",
+      "strength": "100",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET (CHEWABLE)"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "MCNEIL CONSUMER HEALTHCARE DIVISION OF JOHNSON & JOHNSON INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "IBUPROFEN"
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "drug_code": "85757",
+  "din": "02372452",
+  "brand_name": "SPF 30 SPRAY GEL SUNSCREEN WITH BRONZER - AUSTRALIAN GOLD",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "26-MAY-2015",
+  "active_ingredients": [
+    {
+      "name": "AVOBENZONE",
+      "strength": "2.00",
+      "unit": "%"
+    },
+    {
+      "name": "OCTOCRYLENE",
+      "strength": "2.75",
+      "unit": "%"
+    },
+    {
+      "name": "OXYBENZONE",
+      "strength": "2.00",
+      "unit": "%"
+    },
+    {
+      "name": "OCTISALATE",
+      "strength": "5.00",
+      "unit": "%"
+    },
+    {
+      "name": "HOMOSALATE",
+      "strength": "7.50",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "GEL"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "PRIME ENTERPRISES INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "COMBINATIONS OF PROTECTIVES AGAINST UV-RADIATION"
+  ]
+}

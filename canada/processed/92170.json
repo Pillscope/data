@@ -1,0 +1,33 @@
+{
+  "drug_code": "92170",
+  "din": "02437368",
+  "brand_name": "SOFT & LUSH",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "15-JUL-2015",
+  "active_ingredients": [
+    {
+      "name": "OXYBENZONE",
+      "strength": "3",
+      "unit": "%"
+    },
+    {
+      "name": "OCTINOXATE",
+      "strength": "6.6",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "STICK"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "BLISTEX CORPORATION"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "COMBINATIONS OF PROTECTIVES AGAINST UV-RADIATION"
+  ]
+}

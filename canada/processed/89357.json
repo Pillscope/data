@@ -1,0 +1,28 @@
+{
+  "drug_code": "89357",
+  "din": "02408813",
+  "brand_name": "CISATRACURIUM OMEGA MULTIDOSE",
+  "class": "Human",
+  "descriptor": "WITH PRESERVATIVE - 10ML",
+  "last_update": "07-FEB-2014",
+  "active_ingredients": [
+    {
+      "name": "CISATRACURIUM (CISATRACURIUM BESYLATE)",
+      "strength": "2",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "OMEGA LABORATORIES LTD"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "CISATRACURIUM"
+  ]
+}

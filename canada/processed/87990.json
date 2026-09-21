@@ -1,0 +1,28 @@
+{
+  "drug_code": "87990",
+  "din": "02394766",
+  "brand_name": "APO-OXYCODONE CR",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "23-MAY-2013",
+  "active_ingredients": [
+    {
+      "name": "OXYCODONE HYDROCHLORIDE",
+      "strength": "15",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET (EXTENDED-RELEASE)"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "APOTEX INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "OXYCODONE"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "drug_code": "77179",
+  "din": "02286335",
+  "brand_name": "MYLAN-ALENDRONATE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "01-SEP-2010",
+  "active_ingredients": [
+    {
+      "name": "ALENDRONIC ACID (ALENDRONATE SODIUM TRIHYDRATE)",
+      "strength": "70",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "MYLAN PHARMACEUTICALS ULC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "ALENDRONIC ACID"
+  ]
+}

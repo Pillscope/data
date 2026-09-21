@@ -1,0 +1,28 @@
+{
+  "drug_code": "42841",
+  "din": "02182742",
+  "brand_name": "FLUOROURACIL INJECTION USP",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "16-OCT-2017",
+  "active_ingredients": [
+    {
+      "name": "FLUOROURACIL",
+      "strength": "50",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "PFIZER CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "FLUOROURACIL"
+  ]
+}

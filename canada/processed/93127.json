@@ -1,0 +1,28 @@
+{
+  "drug_code": "93127",
+  "din": "02446006",
+  "brand_name": "DILTIAZEM CD",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "03-NOV-2015",
+  "active_ingredients": [
+    {
+      "name": "DILTIAZEM HYDROCHLORIDE",
+      "strength": "180",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "CAPSULE (EXTENDED RELEASE)"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "SIVEM PHARMACEUTICALS ULC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "DILTIAZEM"
+  ]
+}

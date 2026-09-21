@@ -1,0 +1,28 @@
+{
+  "drug_code": "15207",
+  "din": "01916947",
+  "brand_name": "BACTROBAN",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "29-APR-2015",
+  "active_ingredients": [
+    {
+      "name": "MUPIROCIN",
+      "strength": "2",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "OINTMENT"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "GLAXOSMITHKLINE CONSUMER HEALTHCARE INC."
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "MUPIROCIN"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "drug_code": "12218",
+  "din": "00401633",
+  "brand_name": "FUROSEMIDE SPECIAL",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "01-AUG-2017",
+  "active_ingredients": [
+    {
+      "name": "FUROSEMIDE",
+      "strength": "250",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "SANDOZ CANADA INCORPORATED"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "FUROSEMIDE"
+  ]
+}

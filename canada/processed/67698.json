@@ -1,0 +1,28 @@
+{
+  "drug_code": "67698",
+  "din": "02243763",
+  "brand_name": "COMTAN",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "27-JAN-2009",
+  "active_ingredients": [
+    {
+      "name": "ENTACAPONE",
+      "strength": "200",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "NOVARTIS PHARMACEUTICALS CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "ENTACAPONE"
+  ]
+}

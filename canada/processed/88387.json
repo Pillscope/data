@@ -1,0 +1,28 @@
+{
+  "drug_code": "88387",
+  "din": "02398966",
+  "brand_name": "DIACOMIT",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "21-MAY-2013",
+  "active_ingredients": [
+    {
+      "name": "Stiripentol",
+      "strength": "500",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "CAPSULE"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "BIOCODEX SA"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "STIRIPENTOL"
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "drug_code": "86711",
+  "din": "02381311",
+  "brand_name": "POSICAINE N",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "08-AUG-2017",
+  "active_ingredients": [
+    {
+      "name": "EPINEPHRINE (EPINEPHRINE BITARTRATE)",
+      "strength": "0.005",
+      "unit": "MG"
+    },
+    {
+      "name": "ARTICAINE HYDROCHLORIDE",
+      "strength": "40",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "BLOCK/INFILTRATION"
+  ],
+  "companies": [
+    "NOVOCOL PHARMACEUTICAL OF CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "ARTICAINE, COMBINATIONS",
+    "ARTICAINE, COMBINATIONS"
+  ]
+}

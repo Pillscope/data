@@ -1,0 +1,33 @@
+{
+  "drug_code": "86190",
+  "din": "02376431",
+  "brand_name": "ULTIMATE SHEER TINTED MOISTURIZER SPF 15",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "17-JAN-2014",
+  "active_ingredients": [
+    {
+      "name": "OXYBENZONE",
+      "strength": "2.0",
+      "unit": "%"
+    },
+    {
+      "name": "OCTINOXATE",
+      "strength": "6.0",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "CREAM"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "MARKWINS BEAUTY PRODUCTS INC"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "COMBINATIONS OF PROTECTIVES AGAINST UV-RADIATION"
+  ]
+}

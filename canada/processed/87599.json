@@ -1,0 +1,28 @@
+{
+  "drug_code": "87599",
+  "din": "02390574",
+  "brand_name": "BAIN EXFOLIANT HYDRATANT",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "01-NOV-2012",
+  "active_ingredients": [
+    {
+      "name": "PYRITHIONE ZINC",
+      "strength": "1",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "SHAMPOO"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "KERASTASE PARIS CANADA"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "PYRITHIONE ZINC"
+  ]
+}

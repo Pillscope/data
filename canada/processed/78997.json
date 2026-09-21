@@ -1,0 +1,28 @@
+{
+  "drug_code": "78997",
+  "din": "02304694",
+  "brand_name": "MINT-CITALOPRAM",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "21-DEC-2015",
+  "active_ingredients": [
+    {
+      "name": "CITALOPRAM (CITALOPRAM HYDROBROMIDE)",
+      "strength": "40",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "MINT PHARMACEUTICALS INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "CITALOPRAM"
+  ]
+}

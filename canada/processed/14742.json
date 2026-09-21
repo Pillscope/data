@@ -1,0 +1,28 @@
+{
+  "drug_code": "14742",
+  "din": "02011271",
+  "brand_name": "NITRO-DUR 0.8",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "01-NOV-2017",
+  "active_ingredients": [
+    {
+      "name": "NITROGLYCERIN",
+      "strength": "0.8",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "PATCH (EXTENDED RELEASE)"
+  ],
+  "routes": [
+    "TRANSDERMAL"
+  ],
+  "companies": [
+    "MERCK CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "GLYCERYL TRINITRATE"
+  ]
+}

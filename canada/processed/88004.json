@@ -1,0 +1,28 @@
+{
+  "drug_code": "88004",
+  "din": "02394898",
+  "brand_name": "ACT ANASTROZOLE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "12-SEP-2017",
+  "active_ingredients": [
+    {
+      "name": "ANASTROZOLE",
+      "strength": "1",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "ACTAVIS PHARMA COMPANY"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "ANASTROZOLE"
+  ]
+}

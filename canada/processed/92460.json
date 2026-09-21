@@ -1,0 +1,28 @@
+{
+  "drug_code": "92460",
+  "din": "02440229",
+  "brand_name": "NAT-LEVETIRACETAM",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "13-FEB-2017",
+  "active_ingredients": [
+    {
+      "name": "LEVETIRACETAM",
+      "strength": "750",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "NATCO PHARMA (CANADA) INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "LEVETIRACETAM"
+  ]
+}

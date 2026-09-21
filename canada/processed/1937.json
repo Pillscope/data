@@ -1,0 +1,28 @@
+{
+  "drug_code": "1937",
+  "din": "00301175",
+  "brand_name": "PRED FORTE",
+  "class": "Human",
+  "descriptor": "DROPS",
+  "last_update": "28-JUL-2017",
+  "active_ingredients": [
+    {
+      "name": "PREDNISOLONE ACETATE",
+      "strength": "1",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "SUSPENSION"
+  ],
+  "routes": [
+    "OPHTHALMIC"
+  ],
+  "companies": [
+    "ALLERGAN INC"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "PREDNISOLONE"
+  ]
+}

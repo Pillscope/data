@@ -1,0 +1,28 @@
+{
+  "drug_code": "3291",
+  "din": "00405337",
+  "brand_name": "APO DIAZEPAM TAB 10MG",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "05-FEB-2008",
+  "active_ingredients": [
+    {
+      "name": "DIAZEPAM",
+      "strength": "10",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "APOTEX INC"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "DIAZEPAM"
+  ]
+}

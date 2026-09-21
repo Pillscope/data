@@ -1,0 +1,28 @@
+{
+  "drug_code": "15821",
+  "din": "02061570",
+  "brand_name": "LESCOL 40MG",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "30-SEP-2010",
+  "active_ingredients": [
+    {
+      "name": "FLUVASTATIN (FLUVASTATIN SODIUM)",
+      "strength": "40",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "CAPSULE"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "NOVARTIS PHARMACEUTICALS CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "FLUVASTATIN"
+  ]
+}

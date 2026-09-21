@@ -1,0 +1,28 @@
+{
+  "drug_code": "80105",
+  "din": "02315513",
+  "brand_name": "ENRICHED FOAM ANTIBACTERIAL SOAP",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "29-APR-2015",
+  "active_ingredients": [
+    {
+      "name": "TRICLOSAN",
+      "strength": "0.5",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "LIQUID"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "RUBBERMAID COMMERCIAL PRODUCTS LLC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "TRICLOSAN"
+  ]
+}

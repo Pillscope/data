@@ -1,0 +1,28 @@
+{
+  "drug_code": "12639",
+  "din": "01977873",
+  "brand_name": "GERMICIDAL HAND SOAP LIQ 0.6%",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "10-MAY-2016",
+  "active_ingredients": [
+    {
+      "name": "CHLOROXYLENOL",
+      "strength": ".6",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "LIQUID"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "OSTREM CHEMICAL CO LTD."
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "CHLOROXYLENOL"
+  ]
+}

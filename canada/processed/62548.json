@@ -1,0 +1,28 @@
+{
+  "drug_code": "62548",
+  "din": "02239092",
+  "brand_name": "ATACAND TAB 16 MG",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "14-JAN-2010",
+  "active_ingredients": [
+    {
+      "name": "CANDESARTAN CILEXETIL",
+      "strength": "16",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "ASTRAZENECA CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "CANDESARTAN"
+  ]
+}

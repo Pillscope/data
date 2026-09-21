@@ -1,0 +1,28 @@
+{
+  "drug_code": "88870",
+  "din": "02403935",
+  "brand_name": "NEUPRO",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "03-JAN-2018",
+  "active_ingredients": [
+    {
+      "name": "ROTIGOTINE",
+      "strength": "6",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "PATCH"
+  ],
+  "routes": [
+    "TRANSDERMAL"
+  ],
+  "companies": [
+    "UCB CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "ROTIGOTINE"
+  ]
+}

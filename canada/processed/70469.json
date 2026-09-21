@@ -1,0 +1,33 @@
+{
+  "drug_code": "70469",
+  "din": "02246307",
+  "brand_name": "LYSOL DISINFECTANT ALL PURPOSE CLEANER",
+  "class": "Disinfectant",
+  "descriptor": "",
+  "last_update": "07-JUL-2015",
+  "active_ingredients": [
+    {
+      "name": "BENZALKONIUM CHLORIDE",
+      "strength": "0.08",
+      "unit": "%"
+    },
+    {
+      "name": "BENZALKONIUM CHLORIDE",
+      "strength": "0.02",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "LIQUID"
+  ],
+  "routes": [
+    "DISINFECTANT (Domestic)"
+  ],
+  "companies": [
+    "RECKITT BENCKISER (CANADA) INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "TECHNICAL DISINFECTANTS"
+  ]
+}

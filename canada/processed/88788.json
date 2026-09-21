@@ -1,0 +1,28 @@
+{
+  "drug_code": "88788",
+  "din": "02403056",
+  "brand_name": "PMS-ZOLEDRONIC ACID",
+  "class": "Human",
+  "descriptor": "CONCENTRATE SOLUTION",
+  "last_update": "20-JAN-2016",
+  "active_ingredients": [
+    {
+      "name": "ZOLEDRONIC ACID (Zoledronic acid monohydrate)",
+      "strength": "4",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "PHARMASCIENCE INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "ZOLEDRONIC ACID"
+  ]
+}

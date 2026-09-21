@@ -1,0 +1,28 @@
+{
+  "drug_code": "82625",
+  "din": "02340666",
+  "brand_name": "PRIMOVIST",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "04-MAR-2010",
+  "active_ingredients": [
+    {
+      "name": "GADOXETATE DISODIUM",
+      "strength": "181.43",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "BAYER INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "GADOXETIC ACID"
+  ]
+}

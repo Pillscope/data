@@ -1,0 +1,33 @@
+{
+  "drug_code": "19102",
+  "din": "02154757",
+  "brand_name": "ENTONOX",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "12-JAN-2010",
+  "active_ingredients": [
+    {
+      "name": "NITROUS OXIDE",
+      "strength": "50",
+      "unit": "%"
+    },
+    {
+      "name": "OXYGEN",
+      "strength": "50",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "GAS"
+  ],
+  "routes": [
+    "INHALATION"
+  ],
+  "companies": [
+    "LINDE CANADA LIMITED"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "NITROUS OXIDE,COMBINATIONS"
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "drug_code": "13454",
+  "din": "02011662",
+  "brand_name": "QUIEX-PRED",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "06-SEP-2017",
+  "active_ingredients": [
+    {
+      "name": "GUAIFENESIN",
+      "strength": "500",
+      "unit": "MG"
+    },
+    {
+      "name": "PREDNISOLONE",
+      "strength": "100",
+      "unit": "MG"
+    },
+    {
+      "name": "AMINOPHYLLINE",
+      "strength": "1",
+      "unit": "G"
+    }
+  ],
+  "forms": [
+    "SUSPENSION"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "CEVA ANIMAL HEALTH INC"
+  ],
+  "status": "APPROVED",
+  "atc": []
+}

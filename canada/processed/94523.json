@@ -1,0 +1,28 @@
+{
+  "drug_code": "94523",
+  "din": "02458187",
+  "brand_name": "NARCAN NASAL SPRAY",
+  "class": "Human",
+  "descriptor": "SINGLE-DOSE",
+  "last_update": "10-AUG-2017",
+  "active_ingredients": [
+    {
+      "name": "NALOXONE HYDROCHLORIDE",
+      "strength": "4",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SPRAY, METERED DOSE"
+  ],
+  "routes": [
+    "NASAL"
+  ],
+  "companies": [
+    "ADAPT PHARMA OPERATIONS LIMITED"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "NALOXONE"
+  ]
+}

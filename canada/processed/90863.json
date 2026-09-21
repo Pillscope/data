@@ -1,0 +1,28 @@
+{
+  "drug_code": "90863",
+  "din": "02423898",
+  "brand_name": "XELJANZ",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "08-DEC-2017",
+  "active_ingredients": [
+    {
+      "name": "Tofacitinib (Tofacitinib citrate)",
+      "strength": "5",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "PFIZER CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "TOFACITINIB"
+  ]
+}

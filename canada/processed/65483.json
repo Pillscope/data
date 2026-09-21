@@ -1,0 +1,34 @@
+{
+  "drug_code": "65483",
+  "din": "02241818",
+  "brand_name": "AVALIDE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "02-JUN-2017",
+  "active_ingredients": [
+    {
+      "name": "IRBESARTAN",
+      "strength": "150",
+      "unit": "MG"
+    },
+    {
+      "name": "HYDROCHLOROTHIAZIDE",
+      "strength": "12.5",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "SANOFI-AVENTIS CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "IRBESARTAN AND DIURETICS",
+    "IRBESARTAN AND DIURETICS"
+  ]
+}

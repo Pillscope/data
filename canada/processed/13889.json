@@ -1,0 +1,28 @@
+{
+  "drug_code": "13889",
+  "din": "00804991",
+  "brand_name": "TEVA-TOPISONE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "20-SEP-2017",
+  "active_ingredients": [
+    {
+      "name": "BETAMETHASONE (BETAMETHASONE DIPROPIONATE)",
+      "strength": "0.05",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "CREAM"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "TEVA CANADA LIMITED"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "BETAMETHASONE"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "drug_code": "93739",
+  "din": "02451123",
+  "brand_name": "M-ACETAMINOPHEN 500MG",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "21-FEB-2018",
+  "active_ingredients": [
+    {
+      "name": "ACETAMINOPHEN",
+      "strength": "500",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "MANTRA PHARMA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "ACETAMINOPHEN (PARACETAMOL)"
+  ]
+}

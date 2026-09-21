@@ -1,0 +1,28 @@
+{
+  "drug_code": "90121",
+  "din": "02416638",
+  "brand_name": "IMVAMUNE",
+  "class": "Human",
+  "descriptor": "MODIFIED VACCINIA VIRUS, LIVE, ATTENUATED, NON REPLICATING. 20X0.5ML SINGLE-DOSE VIALS",
+  "last_update": "03-FEB-2017",
+  "active_ingredients": [
+    {
+      "name": "Modified Vaccinia Virus (Ankara-Bavarian Nordic)",
+      "strength": "50000000",
+      "unit": "CCID50"
+    }
+  ],
+  "forms": [
+    "SUSPENSION"
+  ],
+  "routes": [
+    "SUBCUTANEOUS"
+  ],
+  "companies": [
+    "BAVARIAN NORDIC AS"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "OTHER VIRAL VACCINES"
+  ]
+}

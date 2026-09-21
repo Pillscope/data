@@ -1,0 +1,28 @@
+{
+  "drug_code": "86856",
+  "din": "02382741",
+  "brand_name": "MARCELLE/BB/CREAM/CR\u00c3\u0088ME/ANTI-AGING/ANTI-\u00c3\u0082GE/SPF 20 FPS",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "03-AUG-2012",
+  "active_ingredients": [
+    {
+      "name": "OCTINOXATE",
+      "strength": "7.5",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "CREAM"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "GROUPE MARCELLE INC"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "OCTYL METHOXYCINNAMATE"
+  ]
+}

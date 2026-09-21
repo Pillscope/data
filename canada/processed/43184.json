@@ -1,0 +1,27 @@
+{
+  "drug_code": "43184",
+  "din": "02216558",
+  "brand_name": "NUFLOR",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "21-JUL-2015",
+  "active_ingredients": [
+    {
+      "name": "FLORFENICOL",
+      "strength": "300",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "INTRAMUSCULAR",
+    "SUBCUTANEOUS"
+  ],
+  "companies": [
+    "INTERVET CANADA CORP"
+  ],
+  "status": "APPROVED",
+  "atc": []
+}

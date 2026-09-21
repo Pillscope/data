@@ -1,0 +1,33 @@
+{
+  "drug_code": "83280",
+  "din": "02347415",
+  "brand_name": "HYDRA LIFE SOIN TEINT\u00c3\u0089 PRO-JEUNESSE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "20-JAN-2012",
+  "active_ingredients": [
+    {
+      "name": "TITANIUM DIOXIDE",
+      "strength": "4.74",
+      "unit": "%"
+    },
+    {
+      "name": "OCTINOXATE",
+      "strength": "5.49",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "CREAM"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "PARFUMS CHRISTIAN DIOR"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "COMBINATIONS OF PROTECTIVES AGAINST UV-RADIATION"
+  ]
+}

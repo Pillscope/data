@@ -1,0 +1,31 @@
+{
+  "drug_code": "230",
+  "din": "00142077",
+  "brand_name": "IODINE TINCTURE 5%",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "01-OCT-2010",
+  "active_ingredients": [
+    {
+      "name": "IODINE",
+      "strength": "5",
+      "unit": "%"
+    },
+    {
+      "name": "POTASSIUM IODIDE",
+      "strength": "5",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "TINCTURE"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "MTC PHARMACEUTICALS"
+  ],
+  "status": "MARKETED",
+  "atc": []
+}

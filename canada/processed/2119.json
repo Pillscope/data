@@ -1,0 +1,43 @@
+{
+  "drug_code": "2119",
+  "din": "00332933",
+  "brand_name": "E PLUS PWR",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "13-AUG-2003",
+  "active_ingredients": [
+    {
+      "name": "COBALT SULFATE",
+      "strength": "1",
+      "unit": "MG"
+    },
+    {
+      "name": "SODIUM SELENITE",
+      "strength": "2",
+      "unit": "MG"
+    },
+    {
+      "name": "VITAMIN E",
+      "strength": "1000",
+      "unit": "UNIT"
+    },
+    {
+      "name": "CALCIUM PHOSPHATE (DIBASIC)",
+      "strength": "300",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "POWDER"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "DOMINION VETERINARY LABORATORIES LTD."
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "VITAMINS WITH MINERALS"
+  ]
+}

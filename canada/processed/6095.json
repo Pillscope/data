@@ -1,0 +1,29 @@
+{
+  "drug_code": "6095",
+  "din": "00645575",
+  "brand_name": "PHENOBARB ELIXIR",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "10-APR-2012",
+  "active_ingredients": [
+    {
+      "name": "PHENOBARBITAL",
+      "strength": "5",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "ELIXIR"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "PENDOPHARM DIVISION OF DE PHARMASCIENCE INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "PHENOBARBITAL",
+    "PHENOBARBITAL"
+  ]
+}

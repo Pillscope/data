@@ -1,0 +1,28 @@
+{
+  "drug_code": "42341",
+  "din": "02046059",
+  "brand_name": "INFANTS' TYLENOL ACETAMINOPHEN SUS DPS",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "17-APR-2018",
+  "active_ingredients": [
+    {
+      "name": "ACETAMINOPHEN",
+      "strength": "80",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "DROPS"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "MCNEIL CONSUMER HEALTHCARE DIVISION OF JOHNSON & JOHNSON INC"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "ACETAMINOPHEN (PARACETAMOL)"
+  ]
+}

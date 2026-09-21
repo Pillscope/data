@@ -1,0 +1,26 @@
+{
+  "drug_code": "130",
+  "din": "00097292",
+  "brand_name": "HOG DEWORMER 1.5%",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "01-OCT-2010",
+  "active_ingredients": [
+    {
+      "name": "CADMIUM OXIDE",
+      "strength": "1.5",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "POWDER"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "DOMINION VETERINARY LABORATORIES LTD."
+  ],
+  "status": "MARKETED",
+  "atc": []
+}

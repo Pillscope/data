@@ -1,0 +1,34 @@
+{
+  "drug_code": "90141",
+  "din": "02416808",
+  "brand_name": "JANUMET XR",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "19-JAN-2015",
+  "active_ingredients": [
+    {
+      "name": "METFORMIN HYDROCHLORIDE",
+      "strength": "1000",
+      "unit": "MG"
+    },
+    {
+      "name": "SITAGLIPTIN (SITAGLIPTIN PHOSPHATE MONOHYDRATE)",
+      "strength": "100",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET (EXTENDED-RELEASE)"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "MERCK CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "METFORMIN AND SITAGLIPTIN",
+    "METFORMIN AND SITAGLIPTIN"
+  ]
+}

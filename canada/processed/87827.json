@@ -1,0 +1,34 @@
+{
+  "drug_code": "87827",
+  "din": "02393026",
+  "brand_name": "MINT-IRBESARTAN/HCTZ",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "20-MAR-2014",
+  "active_ingredients": [
+    {
+      "name": "IRBESARTAN",
+      "strength": "300.0",
+      "unit": "MG"
+    },
+    {
+      "name": "HYDROCHLOROTHIAZIDE",
+      "strength": "25.0",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "MINT PHARMACEUTICALS INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "IRBESARTAN AND DIURETICS",
+    "IRBESARTAN AND DIURETICS"
+  ]
+}

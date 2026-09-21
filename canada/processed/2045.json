@@ -1,0 +1,27 @@
+{
+  "drug_code": "2045",
+  "din": "00308250",
+  "brand_name": "VETERINARY MINERAL OIL",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "27-JAN-2010",
+  "active_ingredients": [
+    {
+      "name": "MINERAL OIL",
+      "strength": "0",
+      "unit": "NIL"
+    }
+  ],
+  "forms": [
+    "LIQUID"
+  ],
+  "routes": [
+    "ORAL",
+    "TOPICAL"
+  ],
+  "companies": [
+    "PROFESSIONAL VETERINARY LABORATORIES"
+  ],
+  "status": "MARKETED",
+  "atc": []
+}

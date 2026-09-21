@@ -1,0 +1,28 @@
+{
+  "drug_code": "92950",
+  "din": "02444445",
+  "brand_name": "PRIVA-AMLODIPINE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "21-NOV-2017",
+  "active_ingredients": [
+    {
+      "name": "AMLODIPINE (AMLODIPINE BESYLATE)",
+      "strength": "2.5",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "PHARMAPAR INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "AMLODIPINE"
+  ]
+}

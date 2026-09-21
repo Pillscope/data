@@ -1,0 +1,31 @@
+{
+  "drug_code": "28197",
+  "din": "02083701",
+  "brand_name": "IODOPHOR II LIQ",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "27-JUL-2016",
+  "active_ingredients": [
+    {
+      "name": "PHOSPHORIC ACID",
+      "strength": "12",
+      "unit": "%"
+    },
+    {
+      "name": "NONYL PHENOXY POLYOXYETHYLENE ETHANOL-IODINE COMPLEX",
+      "strength": "13.6",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "LIQUID"
+  ],
+  "routes": [
+    "UDDER WASH"
+  ],
+  "companies": [
+    "ECOLAB CO"
+  ],
+  "status": "MARKETED",
+  "atc": []
+}

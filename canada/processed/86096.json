@@ -1,0 +1,33 @@
+{
+  "drug_code": "86096",
+  "din": "02375540",
+  "brand_name": "APO-LAMIVUDINE-ZIDOVUDINE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "23-JAN-2016",
+  "active_ingredients": [
+    {
+      "name": "LAMIVUDINE",
+      "strength": "150",
+      "unit": "MG"
+    },
+    {
+      "name": "ZIDOVUDINE",
+      "strength": "300",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "APOTEX INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "ZIDOVUDINE AND LAMIVUDINE"
+  ]
+}

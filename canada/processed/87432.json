@@ -1,0 +1,28 @@
+{
+  "drug_code": "87432",
+  "din": "02388804",
+  "brand_name": "LOSARTAN",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "27-JAN-2017",
+  "active_ingredients": [
+    {
+      "name": "LOSARTAN POTASSIUM",
+      "strength": "50",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "SIVEM PHARMACEUTICALS ULC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "LOSARTAN"
+  ]
+}

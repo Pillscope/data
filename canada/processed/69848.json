@@ -1,0 +1,28 @@
+{
+  "drug_code": "69848",
+  "din": "02245741",
+  "brand_name": "ANTISEPTIC BODY CLEANSER",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "25-SEP-2006",
+  "active_ingredients": [
+    {
+      "name": "CHLORHEXIDINE GLUCONATE",
+      "strength": "2",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "WIPE"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "SAGE PRODUCTS LLC"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "CHLORHEXIDINE"
+  ]
+}

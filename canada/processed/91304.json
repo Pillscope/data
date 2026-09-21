@@ -1,0 +1,28 @@
+{
+  "drug_code": "91304",
+  "din": "02428628",
+  "brand_name": "ACT TADALAFIL",
+  "class": "Human",
+  "descriptor": "ONCE-A-DAY USE",
+  "last_update": "20-JUL-2016",
+  "active_ingredients": [
+    {
+      "name": "TADALAFIL",
+      "strength": "2.5",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "ACTAVIS PHARMA COMPANY"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "TADALAFIL"
+  ]
+}

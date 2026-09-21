@@ -1,0 +1,28 @@
+{
+  "drug_code": "72751",
+  "din": "02248405",
+  "brand_name": "VALOUR ANTISEPTIC HAND CLEANSER",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "19-APR-2016",
+  "active_ingredients": [
+    {
+      "name": "TRICLOSAN",
+      "strength": "0.5",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "LIQUID"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "QWATRO CORPORATION"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "TRICLOSAN"
+  ]
+}

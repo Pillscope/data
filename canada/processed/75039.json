@@ -1,0 +1,28 @@
+{
+  "drug_code": "75039",
+  "din": "02264889",
+  "brand_name": "MOISTURIZING ANTIBACTERIAL HAND CLEANSER",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "29-APR-2015",
+  "active_ingredients": [
+    {
+      "name": "TRICLOSAN",
+      "strength": "0.3",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "GEL"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "CARDINAL HEALTH CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "TRICLOSAN"
+  ]
+}

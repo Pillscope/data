@@ -1,0 +1,28 @@
+{
+  "drug_code": "96058",
+  "din": "02471469",
+  "brand_name": "OZEMPIC",
+  "class": "Human",
+  "descriptor": "MULTIDOSE PREFILLED PEN DISPENSES 1MG DOSE",
+  "last_update": "26-APR-2018",
+  "active_ingredients": [
+    {
+      "name": "SEMAGLUTIDE",
+      "strength": "1.34",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "SUBCUTANEOUS"
+  ],
+  "companies": [
+    "NOVO NORDISK CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "SEMAGLUTIDE"
+  ]
+}

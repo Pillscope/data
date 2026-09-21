@@ -1,0 +1,28 @@
+{
+  "drug_code": "61874",
+  "din": "02238454",
+  "brand_name": "XELODA",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "01-OCT-2010",
+  "active_ingredients": [
+    {
+      "name": "CAPECITABINE",
+      "strength": "500",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "HOFFMANN-LA ROCHE LIMITED"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "CAPECITABINE"
+  ]
+}

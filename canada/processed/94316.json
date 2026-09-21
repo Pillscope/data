@@ -1,0 +1,43 @@
+{
+  "drug_code": "94316",
+  "din": "02456273",
+  "brand_name": "UV 50 ECRAN TEINT\u00c3\u0089 MULTI-PROTECTION SPF 50",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "17-MAR-2017",
+  "active_ingredients": [
+    {
+      "name": "TITANIUM DIOXIDE",
+      "strength": "8.4",
+      "unit": "%"
+    },
+    {
+      "name": "OCTOCRYLENE",
+      "strength": "4",
+      "unit": "%"
+    },
+    {
+      "name": "OXYBENZONE",
+      "strength": "1.5",
+      "unit": "%"
+    },
+    {
+      "name": "HOMOSALATE",
+      "strength": "4",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "EMULSION"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "CLARINS CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "COMBINATIONS OF PROTECTIVES AGAINST UV-RADIATION"
+  ]
+}

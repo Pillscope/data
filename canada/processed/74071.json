@@ -1,0 +1,28 @@
+{
+  "drug_code": "74071",
+  "din": "02255510",
+  "brand_name": "RIVA-FLUCONAZOLE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "05-MAY-2015",
+  "active_ingredients": [
+    {
+      "name": "FLUCONAZOLE",
+      "strength": "150",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "CAPSULE"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "LABORATOIRE RIVA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "FLUCONAZOLE"
+  ]
+}

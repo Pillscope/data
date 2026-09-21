@@ -1,0 +1,28 @@
+{
+  "drug_code": "93185",
+  "din": "02446510",
+  "brand_name": "PRIVA-IRBESARTAN",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "16-JAN-2018",
+  "active_ingredients": [
+    {
+      "name": "IRBESARTAN",
+      "strength": "300",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "PHARMAPAR INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "IRBESARTAN"
+  ]
+}

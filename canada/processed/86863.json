@@ -1,0 +1,33 @@
+{
+  "drug_code": "86863",
+  "din": "02382822",
+  "brand_name": "CLINDOXYL ADV GEL",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "23-AUG-2013",
+  "active_ingredients": [
+    {
+      "name": "BENZOYL PEROXIDE",
+      "strength": "3",
+      "unit": "%"
+    },
+    {
+      "name": "CLINDAMYCIN (CLINDAMYCIN PHOSPHATE)",
+      "strength": "1",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "GEL"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "GLAXOSMITHKLINE INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "CLINDAMYCIN, COMBINATIONS"
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "drug_code": "3724",
+  "din": "00455423",
+  "brand_name": "COOL CAST",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "08-DEC-2015",
+  "active_ingredients": [
+    {
+      "name": "ZINC OXIDE",
+      "strength": "16.5",
+      "unit": "G"
+    },
+    {
+      "name": "CALAMINE",
+      "strength": "13.2",
+      "unit": "G"
+    },
+    {
+      "name": "GLYCERINE",
+      "strength": "36",
+      "unit": "G"
+    }
+  ],
+  "forms": [
+    "PAD"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "HAWTHORNE PRODUCTS INC."
+  ],
+  "status": "MARKETED",
+  "atc": []
+}

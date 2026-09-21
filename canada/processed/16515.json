@@ -1,0 +1,28 @@
+{
+  "drug_code": "16515",
+  "din": "02100517",
+  "brand_name": "TEVA-FLURBIPROFEN",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "01-JUN-2016",
+  "active_ingredients": [
+    {
+      "name": "FLURBIPROFEN",
+      "strength": "100",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "TEVA CANADA LIMITED"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "FLURBIPROFEN"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "drug_code": "64177",
+  "din": "02240606",
+  "brand_name": "PMS-ZOPICLONE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "29-MAY-2017",
+  "active_ingredients": [
+    {
+      "name": "ZOPICLONE",
+      "strength": "7.5",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "PHARMASCIENCE INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "ZOPICLONE"
+  ]
+}

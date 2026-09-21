@@ -1,0 +1,36 @@
+{
+  "drug_code": "84079",
+  "din": "02355574",
+  "brand_name": "MARATHON LC-6401",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "16-JUL-2014",
+  "active_ingredients": [
+    {
+      "name": "CHLORHEXIDINE ACETATE",
+      "strength": "0.002",
+      "unit": "%"
+    },
+    {
+      "name": "ALCOHOL ANHYDROUS",
+      "strength": "50.00",
+      "unit": "%"
+    },
+    {
+      "name": "LANOLIN",
+      "strength": "2.00",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "WIPE"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "LIBERCHEM INC"
+  ],
+  "status": "MARKETED",
+  "atc": []
+}

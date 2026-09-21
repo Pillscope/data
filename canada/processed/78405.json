@@ -1,0 +1,28 @@
+{
+  "drug_code": "78405",
+  "din": "02298740",
+  "brand_name": "ACID REDUCER",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "07-MAR-2012",
+  "active_ingredients": [
+    {
+      "name": "RANITIDINE (RANITIDINE HYDROCHLORIDE)",
+      "strength": "75",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "VITA HEALTH PRODUCTS INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "RANITIDINE"
+  ]
+}

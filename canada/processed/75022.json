@@ -1,0 +1,26 @@
+{
+  "drug_code": "75022",
+  "din": "02264730",
+  "brand_name": "PIRSUE",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "19-SEP-2017",
+  "active_ingredients": [
+    {
+      "name": "PIRLIMYCIN (PIRLIMYCIN HYDROCHLORIDE)",
+      "strength": "50",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "INTRAMAMMARY"
+  ],
+  "companies": [
+    "ZOETIS CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": []
+}

@@ -1,0 +1,28 @@
+{
+  "drug_code": "80455",
+  "din": "02319063",
+  "brand_name": "RAN-GABAPENTIN",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "30-DEC-2014",
+  "active_ingredients": [
+    {
+      "name": "GABAPENTIN",
+      "strength": "300",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "CAPSULE"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "RANBAXY PHARMACEUTICALS CANADA INC."
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "GABAPENTIN"
+  ]
+}

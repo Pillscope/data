@@ -1,0 +1,29 @@
+{
+  "drug_code": "18694",
+  "din": "02145774",
+  "brand_name": "VISIPAQUE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "30-OCT-2008",
+  "active_ingredients": [
+    {
+      "name": "IODIXANOL",
+      "strength": "652",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "INTRA-ARTERIAL",
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "GE HEALTHCARE CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "IODIXANOL"
+  ]
+}

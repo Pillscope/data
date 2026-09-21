@@ -1,0 +1,28 @@
+{
+  "drug_code": "69790",
+  "din": "02245689",
+  "brand_name": "LANTUS",
+  "class": "Human",
+  "descriptor": "VIAL",
+  "last_update": "06-MAY-2010",
+  "active_ingredients": [
+    {
+      "name": "INSULIN GLARGINE",
+      "strength": "100",
+      "unit": "UNIT"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "SUBCUTANEOUS"
+  ],
+  "companies": [
+    "SANOFI-AVENTIS CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "INSULIN GLARGINE"
+  ]
+}

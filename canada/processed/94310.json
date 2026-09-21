@@ -1,0 +1,28 @@
+{
+  "drug_code": "94310",
+  "din": "02456214",
+  "brand_name": "TAGRISSO",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "07-APR-2017",
+  "active_ingredients": [
+    {
+      "name": "OSIMERTINIB (OSIMERTINIB MESYLATE)",
+      "strength": "40",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "ASTRAZENECA CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "OSIMERTINIB"
+  ]
+}

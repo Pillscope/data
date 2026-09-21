@@ -1,0 +1,28 @@
+{
+  "drug_code": "18812",
+  "din": "02164329",
+  "brand_name": "UP-87 LOTION SOAP/UP-87 SAVON LOTION",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "29-JUN-2011",
+  "active_ingredients": [
+    {
+      "name": "TRICLOSAN",
+      "strength": "0.1",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "LOTION"
+  ],
+  "routes": [
+    "TOPICAL (HOUSEHOLD)"
+  ],
+  "companies": [
+    "AVMOR LTD"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "TRICLOSAN"
+  ]
+}

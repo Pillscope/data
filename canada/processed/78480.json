@@ -1,0 +1,31 @@
+{
+  "drug_code": "78480",
+  "din": "02299402",
+  "brand_name": "BIOCLAV",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "12-SEP-2017",
+  "active_ingredients": [
+    {
+      "name": "CLAVULANIC ACID (CLAVULANATE POTASSIUM)",
+      "strength": "50",
+      "unit": "MG"
+    },
+    {
+      "name": "AMOXICILLIN (AMOXICILLIN TRIHYDRATE)",
+      "strength": "200",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "NOVOPHARM LIMITED"
+  ],
+  "status": "APPROVED",
+  "atc": []
+}

@@ -1,0 +1,28 @@
+{
+  "drug_code": "71459",
+  "din": "02247217",
+  "brand_name": "RIVA-AMIODARONE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "17-MAR-2006",
+  "active_ingredients": [
+    {
+      "name": "AMIODARONE HYDROCHLORIDE",
+      "strength": "200",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "LABORATOIRE RIVA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "AMIODARONE"
+  ]
+}

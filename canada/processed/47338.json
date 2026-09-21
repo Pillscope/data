@@ -1,0 +1,28 @@
+{
+  "drug_code": "47338",
+  "din": "02229452",
+  "brand_name": "MEFENAMIC",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "20-AUG-2012",
+  "active_ingredients": [
+    {
+      "name": "MEFENAMIC ACID",
+      "strength": "250",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "CAPSULE"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "AA PHARMA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "MEFENAMIC ACID"
+  ]
+}

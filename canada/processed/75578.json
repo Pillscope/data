@@ -1,0 +1,28 @@
+{
+  "drug_code": "75578",
+  "din": "02270404",
+  "brand_name": "GONAL-F PEN",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "03-FEB-2011",
+  "active_ingredients": [
+    {
+      "name": "FOLLITROPIN ALFA",
+      "strength": "300",
+      "unit": "UNIT"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "SUBCUTANEOUS"
+  ],
+  "companies": [
+    "EMD SERONO A DIVISION OF EMD INC CANADA"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "FOLLITROPIN ALFA"
+  ]
+}

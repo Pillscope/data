@@ -1,0 +1,28 @@
+{
+  "drug_code": "63400",
+  "din": "02239908",
+  "brand_name": "TOPAMAX",
+  "class": "Human",
+  "descriptor": "SPRINKLE CAPSULES",
+  "last_update": "30-SEP-2010",
+  "active_ingredients": [
+    {
+      "name": "TOPIRAMATE",
+      "strength": "25",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "CAPSULE"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "JANSSEN INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "TOPIRAMATE"
+  ]
+}

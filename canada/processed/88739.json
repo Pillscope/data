@@ -1,0 +1,28 @@
+{
+  "drug_code": "88739",
+  "din": "02402564",
+  "brand_name": "DOM-PREGABALIN",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "22-JUL-2015",
+  "active_ingredients": [
+    {
+      "name": "PREGABALIN",
+      "strength": "50",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "CAPSULE"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "DOMINION PHARMACAL"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "PREGABALIN"
+  ]
+}

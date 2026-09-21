@@ -1,0 +1,33 @@
+{
+  "drug_code": "3924",
+  "din": "00513032",
+  "brand_name": "D4055 LIQ DEGREASER CLEANER",
+  "class": "Disinfectant",
+  "descriptor": "",
+  "last_update": "20-JUL-2006",
+  "active_ingredients": [
+    {
+      "name": "BENZALKONIUM CHLORIDE",
+      "strength": "0.8",
+      "unit": "%"
+    },
+    {
+      "name": "ALKYL DIMETHYL ETHYLBENZYL AMMONIUM CHLORIDE",
+      "strength": "0.8",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "LIQUID"
+  ],
+  "routes": [
+    "DISINFECTANT (Food Premises)"
+  ],
+  "companies": [
+    "SANI-MARC INC"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "TECHNICAL DISINFECTANTS"
+  ]
+}

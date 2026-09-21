@@ -1,0 +1,33 @@
+{
+  "drug_code": "1744",
+  "din": "00224235",
+  "brand_name": "LMD 10% IN DEXTROSE 5%",
+  "class": "Human",
+  "descriptor": "SINGLE-USE CONTAINER",
+  "last_update": "22-SEP-2017",
+  "active_ingredients": [
+    {
+      "name": "DEXTROSE",
+      "strength": "5",
+      "unit": "%"
+    },
+    {
+      "name": "DEXTRAN",
+      "strength": "10",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "PFIZER CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "DEXTRAN,COMBINATIONS"
+  ]
+}

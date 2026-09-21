@@ -1,0 +1,48 @@
+{
+  "drug_code": "1749",
+  "din": "00039551",
+  "brand_name": "LACTATED RINGER'S AND 5% DEXTROSE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "23-FEB-2018",
+  "active_ingredients": [
+    {
+      "name": "SODIUM CHLORIDE",
+      "strength": "6",
+      "unit": "MG"
+    },
+    {
+      "name": "DEXTROSE",
+      "strength": "50",
+      "unit": "MG"
+    },
+    {
+      "name": "POTASSIUM CHLORIDE",
+      "strength": "0.3",
+      "unit": "MG"
+    },
+    {
+      "name": "CALCIUM CHLORIDE",
+      "strength": "0.2",
+      "unit": "MG"
+    },
+    {
+      "name": "SODIUM LACTATE",
+      "strength": "3.1",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "ICU MEDICAL CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "ELECTROLYTES WITH CARBOHYDRATES"
+  ]
+}

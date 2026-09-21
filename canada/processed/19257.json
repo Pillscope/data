@@ -1,0 +1,28 @@
+{
+  "drug_code": "19257",
+  "din": "02156091",
+  "brand_name": "NORITATE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "11-JAN-2013",
+  "active_ingredients": [
+    {
+      "name": "METRONIDAZOLE",
+      "strength": "1",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "CREAM"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "VALEANT CANADA LP/VALEANT CANADA S.E.C."
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "METRONIDAZOLE"
+  ]
+}

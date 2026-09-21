@@ -1,0 +1,28 @@
+{
+  "drug_code": "49957",
+  "din": "02230697",
+  "brand_name": "HYPERTET S/D",
+  "class": "Human",
+  "descriptor": "SINGLE DOSE PREFILLED SYRINGE",
+  "last_update": "28-DEC-2012",
+  "active_ingredients": [
+    {
+      "name": "TETANUS IMMUNE GLOBULIN (HUMAN)",
+      "strength": "250",
+      "unit": "UNIT"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "INTRAMUSCULAR"
+  ],
+  "companies": [
+    "GRIFOLS THERAPEUTICS LLC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "TETANUS IMMUNOGLOBULIN"
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "drug_code": "3492",
+  "din": "00363014",
+  "brand_name": "PROCTOFOAM HC",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "25-MAY-2006",
+  "active_ingredients": [
+    {
+      "name": "HYDROCORTISONE ACETATE",
+      "strength": "1",
+      "unit": "%"
+    },
+    {
+      "name": "PRAMOXINE HYDROCHLORIDE",
+      "strength": "1",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "AEROSOL"
+  ],
+  "routes": [
+    "RECTAL"
+  ],
+  "companies": [
+    "DUCHESNAY INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "HYDROCORTISONE"
+  ]
+}

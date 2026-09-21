@@ -1,0 +1,28 @@
+{
+  "drug_code": "96027",
+  "din": "02471167",
+  "brand_name": "M-ATORVASTATIN",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "15-MAR-2018",
+  "active_ingredients": [
+    {
+      "name": "ATORVASTATIN (ATORVASTATIN CALCIUM)",
+      "strength": "10",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "MANTRA PHARMA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "ATORVASTATIN"
+  ]
+}

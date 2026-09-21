@@ -1,0 +1,29 @@
+{
+  "drug_code": "86821",
+  "din": "02382350",
+  "brand_name": "MIDAZOLAM INJECTION USP",
+  "class": "Human",
+  "descriptor": "PRESERVATIVE-FREE",
+  "last_update": "26-OCT-2017",
+  "active_ingredients": [
+    {
+      "name": "MIDAZOLAM",
+      "strength": "5",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "INTRAMUSCULAR",
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "PFIZER CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "MIDAZOLAM"
+  ]
+}

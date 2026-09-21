@@ -1,0 +1,28 @@
+{
+  "drug_code": "88496",
+  "din": "02400146",
+  "brand_name": "JAMP-ALPRAZOLAM",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "16-JUN-2014",
+  "active_ingredients": [
+    {
+      "name": "ALPRAZOLAM",
+      "strength": "1",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "JAMP PHARMA CORPORATION"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "ALPRAZOLAM"
+  ]
+}

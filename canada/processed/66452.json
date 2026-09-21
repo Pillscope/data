@@ -1,0 +1,29 @@
+{
+  "drug_code": "66452",
+  "din": "02242663",
+  "brand_name": "ALLERGENIC EXTRACT - STANDARDIZED GRASS POLLEN - BERMUDA",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "10-OCT-2015",
+  "active_ingredients": [
+    {
+      "name": "STANDARDIZED BERMUDA GRASS POLLEN",
+      "strength": "10000",
+      "unit": "UNIT"
+    }
+  ],
+  "forms": [
+    "LIQUID"
+  ],
+  "routes": [
+    "INTRACUTANEOUS",
+    "SUBCUTANEOUS"
+  ],
+  "companies": [
+    "GREER LABORATORIES INC"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "GRASS POLLEN"
+  ]
+}

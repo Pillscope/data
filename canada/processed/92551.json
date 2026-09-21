@@ -1,0 +1,28 @@
+{
+  "drug_code": "92551",
+  "din": "02441152",
+  "brand_name": "KEYTRUDA",
+  "class": "Human",
+  "descriptor": "FOR I.V. INFUSION. SINGLE USE VIAL.",
+  "last_update": "04-AUG-2016",
+  "active_ingredients": [
+    {
+      "name": "Pembrolizumab",
+      "strength": "50",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "POWDER FOR SOLUTION"
+  ],
+  "routes": [
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "MERCK CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "PEMBROLIZUMAB"
+  ]
+}

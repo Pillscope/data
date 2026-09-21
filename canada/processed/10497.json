@@ -1,0 +1,28 @@
+{
+  "drug_code": "10497",
+  "din": "00060313",
+  "brand_name": "ANTICOAGULANT SOD CITRATE SOLTN 4GM/100ML",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "08-JUN-2012",
+  "active_ingredients": [
+    {
+      "name": "SODIUM CITRATE",
+      "strength": "4",
+      "unit": "G"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "0-UNASSIGNED"
+  ],
+  "companies": [
+    "BAXTER CORPORATION"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "BLOOD TRANSFUSION, AUXILIARY PRODUCTS"
+  ]
+}

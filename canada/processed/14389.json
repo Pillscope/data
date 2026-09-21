@@ -1,0 +1,28 @@
+{
+  "drug_code": "14389",
+  "din": "02034484",
+  "brand_name": "OPTIRAY 350",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "14-MAY-2015",
+  "active_ingredients": [
+    {
+      "name": "IOVERSOL",
+      "strength": "74",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "INTRAVASCULAR"
+  ],
+  "companies": [
+    "LIEBEL-FLARSHEIM CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "IOVERSOL"
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "drug_code": "64442",
+  "din": "02240851",
+  "brand_name": "PROCTODAN-HC SUPPOSITORIES",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "20-MAY-2006",
+  "active_ingredients": [
+    {
+      "name": "HYDROCORTISONE ACETATE",
+      "strength": "10",
+      "unit": "MG"
+    },
+    {
+      "name": "PRAMOXINE HYDROCHLORIDE",
+      "strength": "20",
+      "unit": "MG"
+    },
+    {
+      "name": "ZINC SULFATE",
+      "strength": "10",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SUPPOSITORY"
+  ],
+  "routes": [
+    "RECTAL"
+  ],
+  "companies": [
+    "ODAN LABORATORIES LTD"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "HYDROCORTISONE"
+  ]
+}

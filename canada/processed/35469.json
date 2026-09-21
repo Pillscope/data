@@ -1,0 +1,41 @@
+{
+  "drug_code": "35469",
+  "din": "02189712",
+  "brand_name": "IOVIT-CAL",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "29-APR-2015",
+  "active_ingredients": [
+    {
+      "name": "VITAMIN D3",
+      "strength": "353",
+      "unit": "UNIT"
+    },
+    {
+      "name": "ETHYLENEDIAMINE DIHYDROIODIDE",
+      "strength": "12.5",
+      "unit": "MG"
+    },
+    {
+      "name": "CALCIUM PHOSPHATE (DIBASIC)",
+      "strength": "974",
+      "unit": "MG"
+    },
+    {
+      "name": "CHARCOAL ACTIVATED",
+      "strength": "10",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "POWDER"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "BIO AGRI MIX LP"
+  ],
+  "status": "APPROVED",
+  "atc": []
+}

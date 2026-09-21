@@ -1,0 +1,27 @@
+{
+  "drug_code": "7401",
+  "din": "00712566",
+  "brand_name": "CAL-NATE 23%",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "02-AUG-2017",
+  "active_ingredients": [
+    {
+      "name": "CALCIUM (CALCIUM BOROGLUCONATE)",
+      "strength": "19.14",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "INTRAVENOUS",
+    "SUBCUTANEOUS"
+  ],
+  "companies": [
+    "ZOETIS CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": []
+}

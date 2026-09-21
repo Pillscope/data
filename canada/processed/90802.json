@@ -1,0 +1,28 @@
+{
+  "drug_code": "90802",
+  "din": "02423278",
+  "brand_name": "MYLAN-CELECOXIB",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "20-NOV-2014",
+  "active_ingredients": [
+    {
+      "name": "CELECOXIB",
+      "strength": "100",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "CAPSULE"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "MYLAN PHARMACEUTICALS ULC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "CELECOXIB"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "drug_code": "85461",
+  "din": "02369699",
+  "brand_name": "APO-TOLTERODINE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "15-MAR-2016",
+  "active_ingredients": [
+    {
+      "name": "TOLTERODINE TARTRATE",
+      "strength": "2",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "APOTEX INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "TOLTERODINE"
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "drug_code": "17205",
+  "din": "02017741",
+  "brand_name": "RESONIUM CALCIUM",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "16-OCT-2008",
+  "active_ingredients": [
+    {
+      "name": "CALCIUM POLYSTYRENE SULFONATE",
+      "strength": "999",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "POWDER FOR SOLUTION"
+  ],
+  "routes": [
+    "ORAL",
+    "RECTAL"
+  ],
+  "companies": [
+    "SANOFI-AVENTIS CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "POLYSTYRENE SULPHONATE"
+  ]
+}

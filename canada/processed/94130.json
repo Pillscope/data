@@ -1,0 +1,28 @@
+{
+  "drug_code": "94130",
+  "din": "02454599",
+  "brand_name": "PHENYLEPHRINE HYDROCHLORIDE INJECTION",
+  "class": "Human",
+  "descriptor": "SINGLE USE PRE-FILLED SYRINGE",
+  "last_update": "21-NOV-2016",
+  "active_ingredients": [
+    {
+      "name": "PHENYLEPHRINE HYDROCHLORIDE",
+      "strength": "50",
+      "unit": "MCG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "BIOSYENT PHARMA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "PHENYLEPHRINE"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "drug_code": "1275",
+  "din": "00029246",
+  "brand_name": "DELATESTRYL",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "26-MAR-2015",
+  "active_ingredients": [
+    {
+      "name": "TESTOSTERONE ENANTHATE",
+      "strength": "200",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "INTRAMUSCULAR"
+  ],
+  "companies": [
+    "VALEANT CANADA LP/VALEANT CANADA S.E.C."
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "TESTOSTERONE"
+  ]
+}

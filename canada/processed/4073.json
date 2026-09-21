@@ -1,0 +1,27 @@
+{
+  "drug_code": "4073",
+  "din": "00523712",
+  "brand_name": "DAIRY DINE",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "11-MAY-2003",
+  "active_ingredients": [
+    {
+      "name": "IODINE (NONYL PHENOXYPOLY ETHOXY ETHANOL-IODINE)",
+      "strength": "1.75",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "LIQUID"
+  ],
+  "routes": [
+    "TOPICAL",
+    "UDDER WASH"
+  ],
+  "companies": [
+    "DOMINION VETERINARY LABORATORIES LTD."
+  ],
+  "status": "MARKETED",
+  "atc": []
+}

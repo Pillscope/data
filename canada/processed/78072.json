@@ -1,0 +1,28 @@
+{
+  "drug_code": "78072",
+  "din": "02295415",
+  "brand_name": "TEVA-OMEPRAZOLE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "17-JUL-2013",
+  "active_ingredients": [
+    {
+      "name": "OMEPRAZOLE (OMEPRAZOLE MAGNESIUM)",
+      "strength": "20",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET (DELAYED-RELEASE)"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "TEVA CANADA LIMITED"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "OMEPRAZOLE"
+  ]
+}

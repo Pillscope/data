@@ -1,0 +1,28 @@
+{
+  "drug_code": "17824",
+  "din": "02092832",
+  "brand_name": "METROGEL 0.75%",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "10-SEP-2008",
+  "active_ingredients": [
+    {
+      "name": "METRONIDAZOLE",
+      "strength": "0.75",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "GEL"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "GALDERMA CANADA INC"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "METRONIDAZOLE"
+  ]
+}

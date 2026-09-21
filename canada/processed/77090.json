@@ -1,0 +1,28 @@
+{
+  "drug_code": "77090",
+  "din": "02285401",
+  "brand_name": "TYGACIL",
+  "class": "Human",
+  "descriptor": "SINGLE USE VIALS",
+  "last_update": "19-APR-2017",
+  "active_ingredients": [
+    {
+      "name": "TIGECYCLINE",
+      "strength": "50",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "POWDER FOR SOLUTION"
+  ],
+  "routes": [
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "PFIZER CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "TIGECYCLINE"
+  ]
+}

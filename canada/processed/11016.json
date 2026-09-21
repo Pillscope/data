@@ -1,0 +1,26 @@
+{
+  "drug_code": "11016",
+  "din": "00812293",
+  "brand_name": "TEAT KLEEN",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "31-OCT-2014",
+  "active_ingredients": [
+    {
+      "name": "LINEAR DODECYL BENZENE SULFONIC ACID",
+      "strength": "3.395",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "LIQUID"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "ECOLAB CO"
+  ],
+  "status": "MARKETED",
+  "atc": []
+}

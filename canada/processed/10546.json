@@ -1,0 +1,26 @@
+{
+  "drug_code": "10546",
+  "din": "00670936",
+  "brand_name": "ADEQUAN I.A.",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "12-JUL-2017",
+  "active_ingredients": [
+    {
+      "name": "GLYCOSAMINOGLYCAN POLYSULFATE",
+      "strength": "250",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "LIQUID"
+  ],
+  "routes": [
+    "INTRA-ARTICULAR"
+  ],
+  "companies": [
+    "LUITPOLD PHARMACEUTICALS INC"
+  ],
+  "status": "MARKETED",
+  "atc": []
+}

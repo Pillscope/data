@@ -1,0 +1,33 @@
+{
+  "drug_code": "75640",
+  "din": "02270978",
+  "brand_name": "LIDOCAINE 2% AND EPINEPHRINE 1:100,000",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "03-SEP-2009",
+  "active_ingredients": [
+    {
+      "name": "LIDOCAINE HYDROCHLORIDE",
+      "strength": "20",
+      "unit": "MG"
+    },
+    {
+      "name": "EPINEPHRINE BITARTRATE",
+      "strength": "0.01",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "BLOCK/INFILTRATION"
+  ],
+  "companies": [
+    "CARESTREAM HEALTH CANADA COMPANY"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "LIDOCAINE, COMBINATIONS"
+  ]
+}

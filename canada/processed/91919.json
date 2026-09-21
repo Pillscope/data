@@ -1,0 +1,38 @@
+{
+  "drug_code": "91919",
+  "din": "02434881",
+  "brand_name": "FLUAD PEDIATRIC",
+  "class": "Human",
+  "descriptor": "0.25ML SINGLE DOSE PREFILLED SYRINGE",
+  "last_update": "13-OCT-2017",
+  "active_ingredients": [
+    {
+      "name": "HAEMAGGLUTININ-STRAIN A(H3N2)",
+      "strength": "7.5",
+      "unit": "MCG"
+    },
+    {
+      "name": "HAEMAGGLUTININ-STRAIN A(H1N1)",
+      "strength": "7.5",
+      "unit": "MCG"
+    },
+    {
+      "name": "HAEMAGGLUTININ-STRAIN B",
+      "strength": "7.5",
+      "unit": "MCG"
+    }
+  ],
+  "forms": [
+    "SUSPENSION"
+  ],
+  "routes": [
+    "INTRAMUSCULAR"
+  ],
+  "companies": [
+    "SEQIRUS UK LIMITED"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "INFLUENZA, INACTIVATED, SPLIT VIRUS OR SURFACE ANTIGEN"
+  ]
+}

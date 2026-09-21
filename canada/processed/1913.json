@@ -1,0 +1,30 @@
+{
+  "drug_code": "1913",
+  "din": "00299979",
+  "brand_name": "ALLERGENIC EXTRACT NON POLLENS",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "04-AUG-2005",
+  "active_ingredients": [
+    {
+      "name": "NON POLLEN",
+      "strength": "100000",
+      "unit": "UNIT"
+    }
+  ],
+  "forms": [
+    "LIQUID"
+  ],
+  "routes": [
+    "INTRADERMAL",
+    "SUBCUTANEOUS",
+    "PERCUTANEOUS"
+  ],
+  "companies": [
+    "ALK-ABELLO INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "VARIOUS"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "drug_code": "87582",
+  "din": "02390388",
+  "brand_name": "ALLERTIN",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "20-JAN-2015",
+  "active_ingredients": [
+    {
+      "name": "LORATADINE",
+      "strength": "10",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "CAPSULE"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "APOTEX INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "LORATADINE"
+  ]
+}

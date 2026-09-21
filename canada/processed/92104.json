@@ -1,0 +1,33 @@
+{
+  "drug_code": "92104",
+  "din": "02436736",
+  "brand_name": "CL\u00c3\u0089O -35",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "21-MAR-2017",
+  "active_ingredients": [
+    {
+      "name": "CYPROTERONE ACETATE",
+      "strength": "2",
+      "unit": "MG"
+    },
+    {
+      "name": "ETHINYL ESTRADIOL",
+      "strength": "0.035",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "ALTIUS HEALTHCARE INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "CYPROTERONE AND ESTROGEN"
+  ]
+}

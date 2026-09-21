@@ -1,0 +1,31 @@
+{
+  "drug_code": "14036",
+  "din": "00813850",
+  "brand_name": "NOVODRY PLUS",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "13-DEC-2017",
+  "active_ingredients": [
+    {
+      "name": "NOVOBIOCIN (NOVOBIOCIN SODIUM)",
+      "strength": "400",
+      "unit": "MG"
+    },
+    {
+      "name": "PENICILLIN G PROCAINE",
+      "strength": "200000",
+      "unit": "UNIT"
+    }
+  ],
+  "forms": [
+    "SUSPENSION"
+  ],
+  "routes": [
+    "INTRAMAMMARY"
+  ],
+  "companies": [
+    "ZOETIS CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": []
+}

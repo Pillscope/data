@@ -1,0 +1,28 @@
+{
+  "drug_code": "79665",
+  "din": "02311054",
+  "brand_name": "MYCAMINE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "07-JAN-2010",
+  "active_ingredients": [
+    {
+      "name": "MICAFUNGIN SODIUM",
+      "strength": "100",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "POWDER FOR SOLUTION"
+  ],
+  "routes": [
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "ASTELLAS PHARMA CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "MICAFUNGIN"
+  ]
+}

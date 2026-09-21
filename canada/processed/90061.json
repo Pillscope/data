@@ -1,0 +1,43 @@
+{
+  "drug_code": "90061",
+  "din": "02416034",
+  "brand_name": "SKIN SO SOFT DD FIRM & RESTORE BODY CREAM",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "07-JAN-2016",
+  "active_ingredients": [
+    {
+      "name": "AVOBENZONE",
+      "strength": "2.8",
+      "unit": "%"
+    },
+    {
+      "name": "OCTOCRYLENE",
+      "strength": "2.5",
+      "unit": "%"
+    },
+    {
+      "name": "OXYBENZONE",
+      "strength": "4.0",
+      "unit": "%"
+    },
+    {
+      "name": "OCTISALATE",
+      "strength": "4.75",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "CREAM"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "AVON CANADA INC"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "COMBINATIONS OF PROTECTIVES AGAINST UV-RADIATION"
+  ]
+}

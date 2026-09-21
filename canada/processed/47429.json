@@ -1,0 +1,28 @@
+{
+  "drug_code": "47429",
+  "din": "02229524",
+  "brand_name": "NORFLOXACIN",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "19-FEB-2018",
+  "active_ingredients": [
+    {
+      "name": "NORFLOXACIN",
+      "strength": "400",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "AA PHARMA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "NORFLOXACIN"
+  ]
+}

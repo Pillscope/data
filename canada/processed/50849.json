@@ -1,0 +1,28 @@
+{
+  "drug_code": "50849",
+  "din": "02231509",
+  "brand_name": "CLIMARA 50",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "01-NOV-2017",
+  "active_ingredients": [
+    {
+      "name": "ESTRADIOL (ESTRADIOL HEMIHYDRATE)",
+      "strength": "50",
+      "unit": "MCG"
+    }
+  ],
+  "forms": [
+    "PATCH"
+  ],
+  "routes": [
+    "TRANSDERMAL"
+  ],
+  "companies": [
+    "BAYER INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "ESTRADIOL"
+  ]
+}

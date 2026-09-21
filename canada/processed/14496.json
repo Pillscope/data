@@ -1,0 +1,28 @@
+{
+  "drug_code": "14496",
+  "din": "01994042",
+  "brand_name": "HENRY SCHEIN ANTIMICROBIAL SKIN CLEANSER",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "17-APR-2013",
+  "active_ingredients": [
+    {
+      "name": "CHLORHEXIDINE GLUCONATE",
+      "strength": "4",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "GEL"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "ABJ CUSTOM PACKAGING"
+  ],
+  "status": "CANCELLED POST MARKET",
+  "atc": [
+    "CHLORHEXIDINE"
+  ]
+}

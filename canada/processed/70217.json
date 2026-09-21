@@ -1,0 +1,29 @@
+{
+  "drug_code": "70217",
+  "din": "02246082",
+  "brand_name": "FLUNARIZINE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "03-FEB-2012",
+  "active_ingredients": [
+    {
+      "name": "FLUNARIZINE (FLUNARIZINE HYDROCHLORIDE)",
+      "strength": "5",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "CAPSULE"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "AA PHARMA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "FLUNARIZINE",
+    "FLUNARIZINE"
+  ]
+}

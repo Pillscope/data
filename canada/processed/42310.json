@@ -1,0 +1,53 @@
+{
+  "drug_code": "42310",
+  "din": "02051524",
+  "brand_name": "BLISTEX ULTRA LIP BALM",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "10-MAY-2016",
+  "active_ingredients": [
+    {
+      "name": "DIMETHICONE",
+      "strength": "3",
+      "unit": "%"
+    },
+    {
+      "name": "MERADIMATE",
+      "strength": "4.8",
+      "unit": "%"
+    },
+    {
+      "name": "OXYBENZONE",
+      "strength": "5.2",
+      "unit": "%"
+    },
+    {
+      "name": "OCTISALATE",
+      "strength": "5",
+      "unit": "%"
+    },
+    {
+      "name": "HOMOSALATE",
+      "strength": "4.5",
+      "unit": "%"
+    },
+    {
+      "name": "OCTINOXATE",
+      "strength": "7.4",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "OINTMENT"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "BLISTEX CORPORATION"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "COMBINATIONS OF PROTECTIVES AGAINST UV-RADIATION"
+  ]
+}

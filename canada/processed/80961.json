@@ -1,0 +1,26 @@
+{
+  "drug_code": "80961",
+  "din": "02324121",
+  "brand_name": "ZILMAX",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "05-MAY-2015",
+  "active_ingredients": [
+    {
+      "name": "ZILPATEROL HYDROCHLORIDE",
+      "strength": "48",
+      "unit": "G"
+    }
+  ],
+  "forms": [
+    "DRUG PREMIX"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "INTERVET CANADA CORP"
+  ],
+  "status": "APPROVED",
+  "atc": []
+}

@@ -1,0 +1,28 @@
+{
+  "drug_code": "85742",
+  "din": "02372282",
+  "brand_name": "RAN-LETROZOLE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "17-JAN-2013",
+  "active_ingredients": [
+    {
+      "name": "LETROZOLE",
+      "strength": "2.5",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "RANBAXY PHARMACEUTICALS CANADA INC."
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "LETROZOLE"
+  ]
+}

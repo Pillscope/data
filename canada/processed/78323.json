@@ -1,0 +1,28 @@
+{
+  "drug_code": "78323",
+  "din": "02297906",
+  "brand_name": "SANDOZ PIOGLITAZONE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "19-DEC-2007",
+  "active_ingredients": [
+    {
+      "name": "PIOGLITAZONE (PIOGLITAZONE HYDROCHLORIDE)",
+      "strength": "15",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "SANDOZ CANADA INCORPORATED"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "PIOGLITAZONE"
+  ]
+}

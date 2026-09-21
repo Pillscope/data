@@ -1,0 +1,28 @@
+{
+  "drug_code": "2333",
+  "din": "00337730",
+  "brand_name": "TEVA-FUROSEMIDE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "24-OCT-2017",
+  "active_ingredients": [
+    {
+      "name": "FUROSEMIDE",
+      "strength": "20",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "TEVA CANADA LIMITED"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "FUROSEMIDE"
+  ]
+}

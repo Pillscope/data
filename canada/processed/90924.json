@@ -1,0 +1,38 @@
+{
+  "drug_code": "90924",
+  "din": "02424568",
+  "brand_name": "M.A.C LIGHTFUL C MARINE-BRIGHT FORMULA SPF 30 MOISTURIZER",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "06-NOV-2015",
+  "active_ingredients": [
+    {
+      "name": "ZINC OXIDE",
+      "strength": "4.0",
+      "unit": "%"
+    },
+    {
+      "name": "OXYBENZONE",
+      "strength": "2.5",
+      "unit": "%"
+    },
+    {
+      "name": "OCTINOXATE",
+      "strength": "7.5",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "LOTION"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "MAKE UP ART COSMETICS DIST MAC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "COMBINATIONS OF PROTECTIVES AGAINST UV-RADIATION"
+  ]
+}

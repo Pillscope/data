@@ -1,0 +1,28 @@
+{
+  "drug_code": "62432",
+  "din": "02238984",
+  "brand_name": "URSO",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "16-OCT-2013",
+  "active_ingredients": [
+    {
+      "name": "URSODIOL",
+      "strength": "250",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "APTALIS PHARMA CANADA ULC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "URSODEOXYCHOLIC ACID"
+  ]
+}

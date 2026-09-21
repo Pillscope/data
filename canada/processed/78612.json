@@ -1,0 +1,28 @@
+{
+  "drug_code": "78612",
+  "din": "02300761",
+  "brand_name": "GAS X ULTRA STRENGTH",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "11-JUL-2017",
+  "active_ingredients": [
+    {
+      "name": "SIMETHICONE",
+      "strength": "180",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "CAPSULE"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "GLAXOSMITHKLINE CONSUMER HEALTHCARE INC."
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "SILICONES"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "drug_code": "95081",
+  "din": "02462923",
+  "brand_name": "DOLOREX",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "09-FEB-2018",
+  "active_ingredients": [
+    {
+      "name": "BUTORPHANOL (BUTORPHANOL TARTRATE)",
+      "strength": "10",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "INTERVET CANADA CORP"
+  ],
+  "status": "APPROVED",
+  "atc": []
+}

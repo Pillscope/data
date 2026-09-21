@@ -1,0 +1,38 @@
+{
+  "drug_code": "77048",
+  "din": "02284952",
+  "brand_name": "ALOE SOOTHING MOISTURE LOTION SPF 15",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "19-JUL-2011",
+  "active_ingredients": [
+    {
+      "name": "AVOBENZONE",
+      "strength": "3.0",
+      "unit": "%"
+    },
+    {
+      "name": "OCTOCRYLENE",
+      "strength": "6.0",
+      "unit": "%"
+    },
+    {
+      "name": "OCTINOXATE",
+      "strength": "7.0",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "LOTION"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "THE BODY SHOP CANADA LIMITED"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "COMBINATIONS OF PROTECTIVES AGAINST UV-RADIATION"
+  ]
+}

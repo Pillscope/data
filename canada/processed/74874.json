@@ -1,0 +1,28 @@
+{
+  "drug_code": "74874",
+  "din": "02263351",
+  "brand_name": "MYLAN-TOPIRAMATE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "16-NOV-2009",
+  "active_ingredients": [
+    {
+      "name": "TOPIRAMATE",
+      "strength": "25",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "MYLAN PHARMACEUTICALS ULC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "TOPIRAMATE"
+  ]
+}

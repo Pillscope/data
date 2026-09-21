@@ -1,0 +1,28 @@
+{
+  "drug_code": "1740",
+  "din": "00038016",
+  "brand_name": "MANNITOL INJECTION USP",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "20-OCT-2017",
+  "active_ingredients": [
+    {
+      "name": "MANNITOL",
+      "strength": "200",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "ICU MEDICAL CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "MANNITOL"
+  ]
+}

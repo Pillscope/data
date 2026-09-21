@@ -1,0 +1,28 @@
+{
+  "drug_code": "52463",
+  "din": "02232969",
+  "brand_name": "STOOL SOFTENER",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "10-JUL-2012",
+  "active_ingredients": [
+    {
+      "name": "DOCUSATE SODIUM",
+      "strength": "100",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "CAPSULE"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "PERRIGO INTERNATIONAL"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "DOCUSATE SODIUM"
+  ]
+}

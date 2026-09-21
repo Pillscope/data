@@ -1,0 +1,28 @@
+{
+  "drug_code": "81620",
+  "din": "02330474",
+  "brand_name": "SANDOZ AMLODIPINE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "07-OCT-2009",
+  "active_ingredients": [
+    {
+      "name": "AMLODIPINE (AMLODIPINE BESYLATE)",
+      "strength": "2.5",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "SANDOZ CANADA INCORPORATED"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "AMLODIPINE"
+  ]
+}

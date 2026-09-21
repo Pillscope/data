@@ -1,0 +1,28 @@
+{
+  "drug_code": "6656",
+  "din": "00655643",
+  "brand_name": "PRO-LORAZEPAM",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "11-OCT-2017",
+  "active_ingredients": [
+    {
+      "name": "LORAZEPAM",
+      "strength": "0.5",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "PRO DOC LIMITEE"
+  ],
+  "status": "DORMANT",
+  "atc": [
+    "LORAZEPAM"
+  ]
+}

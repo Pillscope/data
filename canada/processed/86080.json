@@ -1,0 +1,28 @@
+{
+  "drug_code": "86080",
+  "din": "02375397",
+  "brand_name": "FOOTWORKS HEALTHY ANTIFUNGAL SPRAY FOR ATHLETE'S FOOT",
+  "class": "Human",
+  "descriptor": "SPRAY SOLUTION",
+  "last_update": "06-MAR-2012",
+  "active_ingredients": [
+    {
+      "name": "TOLNAFTATE",
+      "strength": "1",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "SPRAY"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "AVON CANADA INC"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "TOLNAFTATE"
+  ]
+}

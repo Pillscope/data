@@ -1,0 +1,28 @@
+{
+  "drug_code": "65751",
+  "din": "02242077",
+  "brand_name": "RIVA-CLONAZEPAM",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "30-SEP-2010",
+  "active_ingredients": [
+    {
+      "name": "CLONAZEPAM",
+      "strength": "0.5",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "LABORATOIRE RIVA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "CLONAZEPAM"
+  ]
+}

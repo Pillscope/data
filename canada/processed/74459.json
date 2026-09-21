@@ -1,0 +1,28 @@
+{
+  "drug_code": "74459",
+  "din": "02259338",
+  "brand_name": "TEINT LIFT ANTI-RIDES FPS 20 SPF 20",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "06-JUN-2017",
+  "active_ingredients": [
+    {
+      "name": "OCTINOXATE",
+      "strength": "4",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "CREAM"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "GROUPE MARCELLE INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "OCTYL METHOXYCINNAMATE"
+  ]
+}

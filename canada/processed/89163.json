@@ -1,0 +1,28 @@
+{
+  "drug_code": "89163",
+  "din": "02406977",
+  "brand_name": "JAMP-ZOPICLONE TABLETS",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "21-NOV-2014",
+  "active_ingredients": [
+    {
+      "name": "ZOPICLONE",
+      "strength": "7.5",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "JAMP PHARMA CORPORATION"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "ZOPICLONE"
+  ]
+}

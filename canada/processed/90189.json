@@ -1,0 +1,28 @@
+{
+  "drug_code": "90189",
+  "din": "02417251",
+  "brand_name": "JAMP OLANZAPINE FC",
+  "class": "Human",
+  "descriptor": "FILM COATED",
+  "last_update": "20-JAN-2017",
+  "active_ingredients": [
+    {
+      "name": "OLANZAPINE",
+      "strength": "5",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "JAMP PHARMA CORPORATION"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "OLANZAPINE"
+  ]
+}

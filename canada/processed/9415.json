@@ -1,0 +1,28 @@
+{
+  "drug_code": "9415",
+  "din": "00784044",
+  "brand_name": "HEALTH CARE ANTISEPTIC LOTION SOAP",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "10-MAY-2016",
+  "active_ingredients": [
+    {
+      "name": "CHLOROXYLENOL",
+      "strength": ".5",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "LOTION"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "INOPAK LTD."
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "CHLOROXYLENOL"
+  ]
+}

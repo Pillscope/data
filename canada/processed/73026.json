@@ -1,0 +1,27 @@
+{
+  "drug_code": "73026",
+  "din": "02248663",
+  "brand_name": "NOROMYCIN LA",
+  "class": "Veterinary",
+  "descriptor": "INTRAMUSCULAR (CATTLE, SWINE), SUBCUTANEOUS (CATTLE)",
+  "last_update": "15-JAN-2018",
+  "active_ingredients": [
+    {
+      "name": "OXYTETRACYCLINE (OXYTETRACYCLINE DIHYDRATE)",
+      "strength": "200",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "INTRAMUSCULAR",
+    "SUBCUTANEOUS"
+  ],
+  "companies": [
+    "NORBROOK LABORATORIES LTD."
+  ],
+  "status": "APPROVED",
+  "atc": []
+}

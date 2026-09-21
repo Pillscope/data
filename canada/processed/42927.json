@@ -1,0 +1,28 @@
+{
+  "drug_code": "42927",
+  "din": "02189119",
+  "brand_name": "PLASBUMIN-25",
+  "class": "Human",
+  "descriptor": "SINGLE USE VIAL",
+  "last_update": "19-FEB-2013",
+  "active_ingredients": [
+    {
+      "name": "ALBUMIN (HUMAN)",
+      "strength": "250",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "GRIFOLS THERAPEUTICS LLC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "ALBUMIN"
+  ]
+}

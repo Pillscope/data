@@ -1,0 +1,28 @@
+{
+  "drug_code": "20216",
+  "din": "02209055",
+  "brand_name": "ORO-CLENSE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "02-AUG-2017",
+  "active_ingredients": [
+    {
+      "name": "CHLORHEXIDINE GLUCONATE",
+      "strength": "0.12",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "MOUTHWASH/GARGLE"
+  ],
+  "routes": [
+    "BUCCAL"
+  ],
+  "companies": [
+    "GERMIPHENE CORPORATION"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "CHLORHEXIDINE"
+  ]
+}

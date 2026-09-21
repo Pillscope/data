@@ -1,0 +1,33 @@
+{
+  "drug_code": "72290",
+  "din": "02247980",
+  "brand_name": "RODAN & FIELDS PROACTIV SOLUTION:  OIL FREE MOISTURE WITH SPF 15",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "12-JUL-2016",
+  "active_ingredients": [
+    {
+      "name": "ZINC OXIDE",
+      "strength": "2.85",
+      "unit": "%"
+    },
+    {
+      "name": "OCTINOXATE",
+      "strength": "7.5",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "LOTION"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "THE PROACTIV COMPANY LLC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "COMBINATIONS OF PROTECTIVES AGAINST UV-RADIATION"
+  ]
+}

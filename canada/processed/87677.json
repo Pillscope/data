@@ -1,0 +1,28 @@
+{
+  "drug_code": "87677",
+  "din": "02391422",
+  "brand_name": "JAMP-MONTELUKAST",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "17-OCT-2012",
+  "active_ingredients": [
+    {
+      "name": "MONTELUKAST (MONTELUKAST SODIUM)",
+      "strength": "10",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "JAMP PHARMA CORPORATION"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "MONTELUKAST"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "drug_code": "75449",
+  "din": "02269090",
+  "brand_name": "TRUSOPT",
+  "class": "Human",
+  "descriptor": "PRESERVATIVE-FREE",
+  "last_update": "10-NOV-2016",
+  "active_ingredients": [
+    {
+      "name": "DORZOLAMIDE (DORZOLAMIDE HYDROCHLORIDE)",
+      "strength": "2",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "OPHTHALMIC"
+  ],
+  "companies": [
+    "PURDUE PHARMA"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "DORZOLAMIDE"
+  ]
+}

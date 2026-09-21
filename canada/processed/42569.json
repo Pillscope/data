@@ -1,0 +1,28 @@
+{
+  "drug_code": "42569",
+  "din": "02129957",
+  "brand_name": "CHILDREN'S CHEWABLE ACETAMINOPHEN TABLETS 80MG",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "21-AUG-2012",
+  "active_ingredients": [
+    {
+      "name": "ACETAMINOPHEN",
+      "strength": "80",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET (CHEWABLE)"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "VITA HEALTH PRODUCTS INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "ACETAMINOPHEN (PARACETAMOL)"
+  ]
+}

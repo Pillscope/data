@@ -1,0 +1,39 @@
+{
+  "drug_code": "85947",
+  "din": "02374277",
+  "brand_name": "VICKS NYQUIL COLD & FLU NIGHTTIME RELIEF",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "10-JUL-2012",
+  "active_ingredients": [
+    {
+      "name": "DOXYLAMINE SUCCINATE",
+      "strength": "12.5",
+      "unit": "MG"
+    },
+    {
+      "name": "ACETAMINOPHEN",
+      "strength": "650",
+      "unit": "MG"
+    },
+    {
+      "name": "DEXTROMETHORPHAN HYDROBROMIDE",
+      "strength": "30",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "LIQUID"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "PROCTER & GAMBLE INC"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "ACETAMINOPHEN, COMB EXCL PSYCHOLEPTICS",
+    "ACETAMINOPHEN, COMB EXCL PSYCHOLEPTICS"
+  ]
+}

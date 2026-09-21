@@ -1,0 +1,28 @@
+{
+  "drug_code": "16701",
+  "din": "02078759",
+  "brand_name": "HUMATIN CAP 250MG",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "02-JAN-2007",
+  "active_ingredients": [
+    {
+      "name": "PAROMOMYCIN (PAROMOMYCIN SULFATE)",
+      "strength": "250",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "CAPSULE"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "ERFA CANADA 2012 INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "PAROMOMYCIN"
+  ]
+}

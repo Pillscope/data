@@ -1,0 +1,48 @@
+{
+  "drug_code": "1738",
+  "din": "00039500",
+  "brand_name": "NORMOSOL-R",
+  "class": "Human",
+  "descriptor": "SINGLE-DOSE",
+  "last_update": "11-NOV-2017",
+  "active_ingredients": [
+    {
+      "name": "SODIUM GLUCONATE",
+      "strength": "0.502",
+      "unit": "G"
+    },
+    {
+      "name": "POTASSIUM CHLORIDE",
+      "strength": "0.037",
+      "unit": "G"
+    },
+    {
+      "name": "SODIUM CHLORIDE",
+      "strength": "0.526",
+      "unit": "G"
+    },
+    {
+      "name": "SODIUM ACETATE",
+      "strength": "0.222",
+      "unit": "G"
+    },
+    {
+      "name": "MAGNESIUM CHLORIDE (MAGNESIUM CHLORIDE HEXAHYDRATE)",
+      "strength": "0.014",
+      "unit": "G"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "ICU MEDICAL CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "ELECTROLYTES"
+  ]
+}

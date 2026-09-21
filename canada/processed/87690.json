@@ -1,0 +1,28 @@
+{
+  "drug_code": "87690",
+  "din": "02391570",
+  "brand_name": "BUPROPION SR",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "30-OCT-2012",
+  "active_ingredients": [
+    {
+      "name": "BUPROPION HYDROCHLORIDE",
+      "strength": "150",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET (EXTENDED-RELEASE)"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "SANIS HEALTH INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "BUPROPION"
+  ]
+}

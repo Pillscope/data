@@ -1,0 +1,29 @@
+{
+  "drug_code": "86984",
+  "din": "02384094",
+  "brand_name": "FUROSEMIDE INJECTION USP",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "01-AUG-2017",
+  "active_ingredients": [
+    {
+      "name": "FUROSEMIDE",
+      "strength": "20",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "INTRAMUSCULAR",
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "TELIGENT OU"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "FUROSEMIDE"
+  ]
+}

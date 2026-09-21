@@ -1,0 +1,28 @@
+{
+  "drug_code": "43301",
+  "din": "02221306",
+  "brand_name": "TEVA-MEDROXYPROGESTERONE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "05-MAY-2015",
+  "active_ingredients": [
+    {
+      "name": "MEDROXYPROGESTERONE ACETATE",
+      "strength": "10",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "TEVA CANADA LIMITED"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "MEDROXYPROGESTERONE"
+  ]
+}

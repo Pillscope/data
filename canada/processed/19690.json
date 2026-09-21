@@ -1,0 +1,38 @@
+{
+  "drug_code": "19690",
+  "din": "02198630",
+  "brand_name": "CALMYLIN ACE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "29-APR-2015",
+  "active_ingredients": [
+    {
+      "name": "GUAIFENESIN",
+      "strength": "100",
+      "unit": "MG"
+    },
+    {
+      "name": "CODEINE PHOSPHATE",
+      "strength": "10",
+      "unit": "MG"
+    },
+    {
+      "name": "PHENIRAMINE MALEATE",
+      "strength": "7.5",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SYRUP"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "TEVA CANADA LIMITED"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "OPIUM DERIVATIVES AND EXPECTORANTS"
+  ]
+}

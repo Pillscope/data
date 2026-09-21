@@ -1,0 +1,28 @@
+{
+  "drug_code": "60939",
+  "din": "02237600",
+  "brand_name": "PMS-ATENOLOL",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "02-NOV-2007",
+  "active_ingredients": [
+    {
+      "name": "ATENOLOL",
+      "strength": "50",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "PHARMASCIENCE INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "ATENOLOL"
+  ]
+}

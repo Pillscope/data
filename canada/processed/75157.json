@@ -1,0 +1,33 @@
+{
+  "drug_code": "75157",
+  "din": "02266121",
+  "brand_name": "SATIVEX",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "27-SEP-2017",
+  "active_ingredients": [
+    {
+      "name": "DELTA-9-TETRAHYDROCANNABINOL (CANNABIS SATIVA EXTRACT)",
+      "strength": "27",
+      "unit": "MG"
+    },
+    {
+      "name": "CANNABIDIOL (CANNABIS SATIVA EXTRACT)",
+      "strength": "25",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SPRAY"
+  ],
+  "routes": [
+    "BUCCAL"
+  ],
+  "companies": [
+    "GW PHARMA LIMITED"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "CANNABINOIDS"
+  ]
+}

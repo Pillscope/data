@@ -1,0 +1,29 @@
+{
+  "drug_code": "11743",
+  "din": "00803499",
+  "brand_name": "MODULON",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "06-NOV-2013",
+  "active_ingredients": [
+    {
+      "name": "TRIMEBUTINE MALEATE",
+      "strength": "200",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "APTALIS PHARMA CANADA ULC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "TRIMEBUTINE",
+    "TRIMEBUTINE"
+  ]
+}

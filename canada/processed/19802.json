@@ -1,0 +1,28 @@
+{
+  "drug_code": "19802",
+  "din": "02153513",
+  "brand_name": "ONCOTICE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "04-MAY-2015",
+  "active_ingredients": [
+    {
+      "name": "BACILLUS CALMETTE-GUERIN (BCG) STRAIN TICE",
+      "strength": "800000000",
+      "unit": "UNIT"
+    }
+  ],
+  "forms": [
+    "POWDER FOR SOLUTION"
+  ],
+  "routes": [
+    "INTRAVESICAL"
+  ],
+  "companies": [
+    "MERCK CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "BCG VACCINE"
+  ]
+}

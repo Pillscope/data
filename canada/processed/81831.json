@@ -1,0 +1,28 @@
+{
+  "drug_code": "81831",
+  "din": "02332647",
+  "brand_name": "REGULAR STRENGTH ACETAMINOPHEN",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "27-APR-2017",
+  "active_ingredients": [
+    {
+      "name": "ACETAMINOPHEN",
+      "strength": "325",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "TEVA CANADA LIMITED"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "ACETAMINOPHEN (PARACETAMOL)"
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "drug_code": "13767",
+  "din": "02012278",
+  "brand_name": "WESTOKLEEN LIQ",
+  "class": "Disinfectant",
+  "descriptor": "",
+  "last_update": "30-SEP-2010",
+  "active_ingredients": [
+    {
+      "name": "SODIUM CARBONATE (ANHYDROUS)",
+      "strength": "2",
+      "unit": "%"
+    },
+    {
+      "name": "BENZALKONIUM CHLORIDE",
+      "strength": "3",
+      "unit": "%"
+    },
+    {
+      "name": "EDETATE SODIUM",
+      "strength": "0.38",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "LIQUID"
+  ],
+  "routes": [
+    "DISINFECTANT (Medical Instruments)",
+    "DISINFECTANT (Food Premises)"
+  ],
+  "companies": [
+    "WEST PENETONE INC"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "TECHNICAL DISINFECTANTS"
+  ]
+}

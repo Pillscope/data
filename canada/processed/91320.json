@@ -1,0 +1,28 @@
+{
+  "drug_code": "91320",
+  "din": "02428733",
+  "brand_name": "VAN-ALENDRONATE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "19-JAN-2017",
+  "active_ingredients": [
+    {
+      "name": "ALENDRONIC ACID (ALENDRONATE SODIUM)",
+      "strength": "70",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "VANC PHARMACEUTICALS INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "ALENDRONIC ACID"
+  ]
+}

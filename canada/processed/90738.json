@@ -1,0 +1,38 @@
+{
+  "drug_code": "90738",
+  "din": "02422719",
+  "brand_name": "CLINIQUE ACNE SOLUTIONS BB CREAM SPF 40 COMBINATION OILY TO OILY",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "03-MAR-2015",
+  "active_ingredients": [
+    {
+      "name": "TITANIUM DIOXIDE",
+      "strength": "1.6",
+      "unit": "%"
+    },
+    {
+      "name": "OCTISALATE",
+      "strength": "2.0",
+      "unit": "%"
+    },
+    {
+      "name": "OCTINOXATE",
+      "strength": "7.5",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "CREAM"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "CLINIQUE LABORATORIES DIST"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "COMBINATIONS OF PROTECTIVES AGAINST UV-RADIATION"
+  ]
+}

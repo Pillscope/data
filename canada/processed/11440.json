@@ -1,0 +1,33 @@
+{
+  "drug_code": "11440",
+  "din": "00886858",
+  "brand_name": "EMLA CREAM",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "09-AUG-2017",
+  "active_ingredients": [
+    {
+      "name": "LIDOCAINE",
+      "strength": "2.5",
+      "unit": "%"
+    },
+    {
+      "name": "PRILOCAINE",
+      "strength": "2.5",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "CREAM"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "ASPEN PHARMACARE CANADA INC."
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "TOPICAL ANESTHETICS, COMBINATIONS"
+  ]
+}

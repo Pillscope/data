@@ -1,0 +1,28 @@
+{
+  "drug_code": "66363",
+  "din": "02242589",
+  "brand_name": "PMS-METFORMIN",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "29-JUN-2016",
+  "active_ingredients": [
+    {
+      "name": "METFORMIN HYDROCHLORIDE",
+      "strength": "850",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "PHARMASCIENCE INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "METFORMIN"
+  ]
+}

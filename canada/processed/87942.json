@@ -1,0 +1,28 @@
+{
+  "drug_code": "87942",
+  "din": "02394278",
+  "brand_name": "APO-PREGABALIN",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "11-DEC-2013",
+  "active_ingredients": [
+    {
+      "name": "PREGABALIN",
+      "strength": "150",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "CAPSULE"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "APOTEX INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "PREGABALIN"
+  ]
+}

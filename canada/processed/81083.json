@@ -1,0 +1,30 @@
+{
+  "drug_code": "81083",
+  "din": "02325454",
+  "brand_name": "ALLERGENIC EXTRACT - STANDARDIZED JUNE GRASS POLLEN",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "10-OCT-2015",
+  "active_ingredients": [
+    {
+      "name": "STANDARDIZED KENTUCKY BLUE/JUNE GRASS POLLEN",
+      "strength": "100000",
+      "unit": "UNIT"
+    }
+  ],
+  "forms": [
+    "LIQUID"
+  ],
+  "routes": [
+    "INTRADERMAL",
+    "SUBCUTANEOUS",
+    "PERCUTANEOUS"
+  ],
+  "companies": [
+    "ALK-ABELLO INC"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "GRASS POLLEN"
+  ]
+}

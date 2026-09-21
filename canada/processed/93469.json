@@ -1,0 +1,28 @@
+{
+  "drug_code": "93469",
+  "din": "02448912",
+  "brand_name": "PYRITHIONE ZINC DANDRUFF SHAMPOO CLASSIC CLEAN",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "11-JAN-2018",
+  "active_ingredients": [
+    {
+      "name": "PYRITHIONE ZINC",
+      "strength": "1",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "SHAMPOO"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "CANADIAN CUSTOM PACKAGING COMPANY"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "PYRITHIONE ZINC"
+  ]
+}

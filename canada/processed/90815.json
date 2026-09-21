@@ -1,0 +1,28 @@
+{
+  "drug_code": "90815",
+  "din": "02423421",
+  "brand_name": "MYLAN-RIVASTIGMINE PATCH 10",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "01-NOV-2017",
+  "active_ingredients": [
+    {
+      "name": "RIVASTIGMINE",
+      "strength": "9.5",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "PATCH"
+  ],
+  "routes": [
+    "TRANSDERMAL"
+  ],
+  "companies": [
+    "MYLAN PHARMACEUTICALS ULC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "RIVASTIGMINE"
+  ]
+}

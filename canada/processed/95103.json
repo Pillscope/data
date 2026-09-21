@@ -1,0 +1,29 @@
+{
+  "drug_code": "95103",
+  "din": "02463105",
+  "brand_name": "ODAN-BENZYDAMINE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "14-AUG-2017",
+  "active_ingredients": [
+    {
+      "name": "BENZYDAMINE HYDROCHLORIDE",
+      "strength": "1.5",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "MOUTHWASH/GARGLE"
+  ],
+  "routes": [
+    "BUCCAL"
+  ],
+  "companies": [
+    "ODAN LABORATORIES LTD"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "BENZYDAMINE",
+    "BENZYDAMINE"
+  ]
+}

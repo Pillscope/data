@@ -1,0 +1,48 @@
+{
+  "drug_code": "92153",
+  "din": "02437236",
+  "brand_name": "HIGH PROTECTION LOTION SPF 50+",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "20-APR-2015",
+  "active_ingredients": [
+    {
+      "name": "AVOBENZONE",
+      "strength": "3.0",
+      "unit": "%"
+    },
+    {
+      "name": "TITANIUM DIOXIDE",
+      "strength": "2.6",
+      "unit": "%"
+    },
+    {
+      "name": "OCTOCRYLENE",
+      "strength": "9.0",
+      "unit": "%"
+    },
+    {
+      "name": "BISOCTRIZOLE",
+      "strength": "4.0",
+      "unit": "%"
+    },
+    {
+      "name": "BEMOTRIZINOL",
+      "strength": "2.0",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "LOTION"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "PIERRE FABRE DERMO-COSMETIQUE CANADA INC"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "COMBINATIONS OF PROTECTIVES AGAINST UV-RADIATION"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "drug_code": "18695",
+  "din": "02069490",
+  "brand_name": "SAFE-GUARD PASTE 10%",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "05-MAY-2015",
+  "active_ingredients": [
+    {
+      "name": "FENBENDAZOLE",
+      "strength": "10",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "PASTE"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "INTERVET CANADA CORP"
+  ],
+  "status": "APPROVED",
+  "atc": []
+}

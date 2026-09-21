@@ -1,0 +1,43 @@
+{
+  "drug_code": "88632",
+  "din": "02401428",
+  "brand_name": "M.A.C PREP+PRIME BB BEAUTY BALM COMPACT SPF 30",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "10-JUL-2013",
+  "active_ingredients": [
+    {
+      "name": "ZINC OXIDE",
+      "strength": "6.30",
+      "unit": "%"
+    },
+    {
+      "name": "TITANIUM DIOXIDE",
+      "strength": "11.20",
+      "unit": "%"
+    },
+    {
+      "name": "OCTISALATE",
+      "strength": "5.00",
+      "unit": "%"
+    },
+    {
+      "name": "OCTINOXATE",
+      "strength": "7.50",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "CREAM"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "MAKE UP ART COSMETICS DIST MAC"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "COMBINATIONS OF PROTECTIVES AGAINST UV-RADIATION"
+  ]
+}

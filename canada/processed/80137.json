@@ -1,0 +1,28 @@
+{
+  "drug_code": "80137",
+  "din": "02315866",
+  "brand_name": "APO-ALFUZOSIN",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "30-APR-2010",
+  "active_ingredients": [
+    {
+      "name": "ALFUZOSIN HYDROCHLORIDE",
+      "strength": "10",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET (EXTENDED-RELEASE)"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "APOTEX INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "ALFUZOSIN"
+  ]
+}

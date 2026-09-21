@@ -1,0 +1,26 @@
+{
+  "drug_code": "86657",
+  "din": "02380803",
+  "brand_name": "RESPIPULMIN",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "28-JUN-2013",
+  "active_ingredients": [
+    {
+      "name": "CLENBUTEROL HYDROCHLORIDE",
+      "strength": "0.025",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SYRUP"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "MODERN VETERINARY THERAPEUTICS LLC"
+  ],
+  "status": "APPROVED",
+  "atc": []
+}

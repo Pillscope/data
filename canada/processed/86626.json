@@ -1,0 +1,28 @@
+{
+  "drug_code": "86626",
+  "din": "02380455",
+  "brand_name": "JAMP-RIZATRIPTAN",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "04-DEC-2013",
+  "active_ingredients": [
+    {
+      "name": "RIZATRIPTAN (RIZATRIPTAN BENZOATE)",
+      "strength": "5",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "JAMP PHARMA CORPORATION"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "RIZATRIPTAN"
+  ]
+}

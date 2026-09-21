@@ -1,0 +1,33 @@
+{
+  "drug_code": "5569",
+  "din": "00566810",
+  "brand_name": "HYDROPHIL ONT",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "10-MAY-2016",
+  "active_ingredients": [
+    {
+      "name": "UREA",
+      "strength": "5",
+      "unit": "%"
+    },
+    {
+      "name": "MINERAL OIL",
+      "strength": "64.5",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "OINTMENT"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "OMEGA LABORATORIES LTD"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "CARBAMIDE, COMBINATIONS"
+  ]
+}

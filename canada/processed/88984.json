@@ -1,0 +1,28 @@
+{
+  "drug_code": "88984",
+  "din": "02405016",
+  "brand_name": "PERJETA",
+  "class": "Human",
+  "descriptor": "14ML VIAL - CONCENTRATE SOL.",
+  "last_update": "17-MAY-2013",
+  "active_ingredients": [
+    {
+      "name": "Pertuzumab",
+      "strength": "420",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "HOFFMANN-LA ROCHE LIMITED"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "PERTUZUMAB"
+  ]
+}

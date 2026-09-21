@@ -1,0 +1,28 @@
+{
+  "drug_code": "78101",
+  "din": "02295660",
+  "brand_name": "CHLORHEXIDINE 2% ANTISEPTIC HAND WASH",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "08-AUG-2014",
+  "active_ingredients": [
+    {
+      "name": "CHLORHEXIDINE GLUCONATE",
+      "strength": "2",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "PARTNAR ANIMAL HEALTH INC"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "CHLORHEXIDINE"
+  ]
+}

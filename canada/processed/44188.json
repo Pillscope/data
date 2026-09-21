@@ -1,0 +1,28 @@
+{
+  "drug_code": "44188",
+  "din": "02172771",
+  "brand_name": "OMNISCAN",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "27-AUG-2012",
+  "active_ingredients": [
+    {
+      "name": "GADODIAMIDE",
+      "strength": "287",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "GE HEALTHCARE CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "GADODIAMIDE"
+  ]
+}

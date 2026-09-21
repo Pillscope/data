@@ -1,0 +1,28 @@
+{
+  "drug_code": "85766",
+  "din": "02372541",
+  "brand_name": "OXYNEO",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "30-MAY-2013",
+  "active_ingredients": [
+    {
+      "name": "OXYCODONE HYDROCHLORIDE",
+      "strength": "30",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET (EXTENDED-RELEASE)"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "PURDUE PHARMA"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "OXYCODONE"
+  ]
+}

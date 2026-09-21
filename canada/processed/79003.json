@@ -1,0 +1,28 @@
+{
+  "drug_code": "79003",
+  "din": "02304759",
+  "brand_name": "CIPROFLOXACIN INTRAVENOUS INFUSION BP",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "26-SEP-2012",
+  "active_ingredients": [
+    {
+      "name": "CIPROFLOXACIN",
+      "strength": "2",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "SANDOZ CANADA INCORPORATED"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "CIPROFLOXACIN"
+  ]
+}

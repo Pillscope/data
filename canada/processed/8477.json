@@ -1,0 +1,28 @@
+{
+  "drug_code": "8477",
+  "din": "00768820",
+  "brand_name": "TEVA-HALOPERIDOL",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "23-SEP-2016",
+  "active_ingredients": [
+    {
+      "name": "HALOPERIDOL",
+      "strength": "20",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "TEVA CANADA LIMITED"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "HALOPERIDOL"
+  ]
+}

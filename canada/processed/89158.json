@@ -1,0 +1,33 @@
+{
+  "drug_code": "89158",
+  "din": "02406926",
+  "brand_name": "MARCELLE/CC/CREAM/CR\u00c3\u0088ME COMPLETE CORRECTION/CORRECTION COMPL\u00c3\u0088TE/SPF 35 FPS",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "21-AUG-2013",
+  "active_ingredients": [
+    {
+      "name": "TITANIUM DIOXIDE",
+      "strength": "8.35",
+      "unit": "%"
+    },
+    {
+      "name": "OCTINOXATE",
+      "strength": "7.5",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "CREAM"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "GROUPE MARCELLE INC"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "COMBINATIONS OF PROTECTIVES AGAINST UV-RADIATION"
+  ]
+}

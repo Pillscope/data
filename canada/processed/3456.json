@@ -1,0 +1,33 @@
+{
+  "drug_code": "3456",
+  "din": "00481637",
+  "brand_name": "TRL 13 IODOPHOR DISINFECTANT",
+  "class": "Disinfectant",
+  "descriptor": "",
+  "last_update": "29-SEP-2010",
+  "active_ingredients": [
+    {
+      "name": "HYDROCHLORIC ACID",
+      "strength": "0.4",
+      "unit": "%"
+    },
+    {
+      "name": "NONYL PHENOXYPOLY ETHOXY ETHANOL-IODINE",
+      "strength": "3.5",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "LIQUID"
+  ],
+  "routes": [
+    "DISINFECTANT (Food Premises)"
+  ],
+  "companies": [
+    "TROJAN CHEMICALS"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "TECHNICAL DISINFECTANTS"
+  ]
+}

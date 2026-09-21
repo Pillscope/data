@@ -1,0 +1,28 @@
+{
+  "drug_code": "65756",
+  "din": "02242082",
+  "brand_name": "PRESERVATIVE-FREE THERA TEARS LUBRICANT EYE DROPS",
+  "class": "Human",
+  "descriptor": "SINGLE-USE CONTAINERS",
+  "last_update": "31-MAY-2016",
+  "active_ingredients": [
+    {
+      "name": "SODIUM CARBOXYMETHYL CELLULOSE",
+      "strength": "0.25",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "DROPS"
+  ],
+  "routes": [
+    "OPHTHALMIC"
+  ],
+  "companies": [
+    "AKORN CONSUMER HEALTH, A DIVISON OF AKORN INC."
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "ARTIFICIAL TEARS AND OTHER INDIFFERENT PREPARATIONS."
+  ]
+}

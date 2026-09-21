@@ -1,0 +1,28 @@
+{
+  "drug_code": "63098",
+  "din": "02239627",
+  "brand_name": "PMS-IPRATROPIUM",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "30-APR-2018",
+  "active_ingredients": [
+    {
+      "name": "IPRATROPIUM BROMIDE",
+      "strength": "21",
+      "unit": "MCG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "NASAL"
+  ],
+  "companies": [
+    "PHARMASCIENCE INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "IPRATROPIUM BROMIDE"
+  ]
+}

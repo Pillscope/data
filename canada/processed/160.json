@@ -1,0 +1,30 @@
+{
+  "drug_code": "160",
+  "din": "00009881",
+  "brand_name": "PAPAVERINE HYDROCHLORIDE INJECTION USP",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "29-APR-2015",
+  "active_ingredients": [
+    {
+      "name": "PAPAVERINE HYDROCHLORIDE",
+      "strength": "65",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "LIQUID"
+  ],
+  "routes": [
+    "INTRAMUSCULAR",
+    "INTRAVENOUS",
+    "SUBCUTANEOUS"
+  ],
+  "companies": [
+    "SANDOZ CANADA INCORPORATED"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "PAPAVERINE"
+  ]
+}

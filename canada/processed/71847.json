@@ -1,0 +1,31 @@
+{
+  "drug_code": "71847",
+  "din": "02247590",
+  "brand_name": "DAIRYMAN'S DEFENCE PREMIERE",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "10-SEP-2015",
+  "active_ingredients": [
+    {
+      "name": "GLYCERINE",
+      "strength": "5",
+      "unit": "%"
+    },
+    {
+      "name": "NONYL PHENOXYPOLYETHOXYETHANOL-IODINE COMPLEX",
+      "strength": "10",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "AGRISAN SPECIALTY CHEMICAL & PHARMACEUTICAL"
+  ],
+  "status": "APPROVED",
+  "atc": []
+}

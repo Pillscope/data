@@ -1,0 +1,28 @@
+{
+  "drug_code": "66954",
+  "din": "02243087",
+  "brand_name": "ZYPREXA ZYDIS",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "06-AUG-2005",
+  "active_ingredients": [
+    {
+      "name": "OLANZAPINE",
+      "strength": "10",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET (ORALLY DISINTEGRATING)"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "ELI LILLY CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "OLANZAPINE"
+  ]
+}

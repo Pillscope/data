@@ -1,0 +1,28 @@
+{
+  "drug_code": "2138",
+  "din": "00330582",
+  "brand_name": "EFUDEX CRM 5%",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "17-SEP-2014",
+  "active_ingredients": [
+    {
+      "name": "FLUOROURACIL",
+      "strength": "5",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "CREAM"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "VALEANT CANADA LP/VALEANT CANADA S.E.C."
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "FLUOROURACIL"
+  ]
+}

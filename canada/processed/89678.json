@@ -1,0 +1,26 @@
+{
+  "drug_code": "89678",
+  "din": "02412217",
+  "brand_name": "PRASCEND",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "31-MAR-2014",
+  "active_ingredients": [
+    {
+      "name": "PERGOLIDE (PERGOLIDE MESYLATE)",
+      "strength": "1",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "BOEHRINGER INGELHEIM (CANADA) LTD LTEE"
+  ],
+  "status": "APPROVED",
+  "atc": []
+}

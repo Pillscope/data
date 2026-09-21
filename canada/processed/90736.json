@@ -1,0 +1,36 @@
+{
+  "drug_code": "90736",
+  "din": "02422697",
+  "brand_name": "SOLX-5",
+  "class": "Disinfectant",
+  "descriptor": "",
+  "last_update": "06-DEC-2017",
+  "active_ingredients": [
+    {
+      "name": "BENZALKONIUM CHLORIDE",
+      "strength": "0.15",
+      "unit": "%"
+    },
+    {
+      "name": "ALKYL DIMETHYL ETHYLBENZYL AMMONIUM CHLORIDE",
+      "strength": "0.15",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "LIQUID",
+    "SPRAY"
+  ],
+  "routes": [
+    "DISINFECTANT (Food Premises)",
+    "DISINFECTANT (Hospital/HC Facilities)",
+    "DISINFECTANT (Institutional/Industrial)"
+  ],
+  "companies": [
+    "CITRON HYGIENE LP"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "TECHNICAL DISINFECTANTS"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "drug_code": "68299",
+  "din": "02244331",
+  "brand_name": "TAMINOL CAPLETS",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "06-JUL-2017",
+  "active_ingredients": [
+    {
+      "name": "ACETAMINOPHEN",
+      "strength": "500",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "VIVA PHARMACEUTICAL INC."
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "ACETAMINOPHEN (PARACETAMOL)"
+  ]
+}

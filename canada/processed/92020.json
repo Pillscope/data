@@ -1,0 +1,28 @@
+{
+  "drug_code": "92020",
+  "din": "02435853",
+  "brand_name": "LOTEMAX GEL",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "10-MAR-2017",
+  "active_ingredients": [
+    {
+      "name": "LOTEPREDNOL ETABONATE",
+      "strength": "0.5",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "GEL"
+  ],
+  "routes": [
+    "OPHTHALMIC"
+  ],
+  "companies": [
+    "BAUSCH & LOMB INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "LOTEPREDNOL"
+  ]
+}

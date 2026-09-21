@@ -1,0 +1,28 @@
+{
+  "drug_code": "2530",
+  "din": "00360422",
+  "brand_name": "CEENU",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "10-SEP-2010",
+  "active_ingredients": [
+    {
+      "name": "LOMUSTINE",
+      "strength": "40",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "CAPSULE"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "BRISTOL-MYERS SQUIBB CANADA"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "LOMUSTINE"
+  ]
+}

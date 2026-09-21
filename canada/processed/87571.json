@@ -1,0 +1,33 @@
+{
+  "drug_code": "87571",
+  "din": "02390264",
+  "brand_name": "PROEVEN BB CREAM",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "15-OCT-2012",
+  "active_ingredients": [
+    {
+      "name": "TITANIUM DIOXIDE",
+      "strength": "8.0",
+      "unit": "%"
+    },
+    {
+      "name": "OCTINOXATE",
+      "strength": "5.0",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "CREAM"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "VICHY CANADA"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "COMBINATIONS OF PROTECTIVES AGAINST UV-RADIATION"
+  ]
+}

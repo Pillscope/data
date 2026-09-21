@@ -1,0 +1,28 @@
+{
+  "drug_code": "61145",
+  "din": "02237788",
+  "brand_name": "DORMIPHEN COMPRIME",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "17-NOV-2017",
+  "active_ingredients": [
+    {
+      "name": "DIPHENHYDRAMINE HYDROCHLORIDE",
+      "strength": "25",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "LABORATOIRE LALCO INC."
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "DIPHENHYDRAMINE"
+  ]
+}

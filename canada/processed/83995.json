@@ -1,0 +1,28 @@
+{
+  "drug_code": "83995",
+  "din": "02354799",
+  "brand_name": "CHILDREN'S EUROPROFEN",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "15-MAY-2015",
+  "active_ingredients": [
+    {
+      "name": "IBUPROFEN",
+      "strength": "100",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SUSPENSION"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "PENDOPHARM DIVISION OF DE PHARMASCIENCE INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "IBUPROFEN"
+  ]
+}

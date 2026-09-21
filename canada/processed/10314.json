@@ -1,0 +1,28 @@
+{
+  "drug_code": "10314",
+  "din": "00745790",
+  "brand_name": "WHITE PETROLEUM JELLY 100% BP",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "29-OCT-2013",
+  "active_ingredients": [
+    {
+      "name": "PETROLATUM",
+      "strength": "100",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "CREAM"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "H.J. SUTTON INDUSTRIES LTD."
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "SOFT PARAFFIN AND FAT PRODUCTS"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "drug_code": "92544",
+  "din": "02441071",
+  "brand_name": "ACT TOPOTECAN",
+  "class": "Human",
+  "descriptor": "SINGLE USE VIAL",
+  "last_update": "18-JAN-2017",
+  "active_ingredients": [
+    {
+      "name": "TOPOTECAN (TOPOTECAN HYDROCHLORIDE)",
+      "strength": "4",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "POWDER FOR SOLUTION"
+  ],
+  "routes": [
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "ACTAVIS PHARMA COMPANY"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "TOPOTECAN"
+  ]
+}

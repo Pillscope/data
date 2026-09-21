@@ -1,0 +1,39 @@
+{
+  "drug_code": "14595",
+  "din": "02028174",
+  "brand_name": "ACETAMINOPHEN, CAFFEINE & CODEINE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "02-FEB-2017",
+  "active_ingredients": [
+    {
+      "name": "CODEINE PHOSPHATE",
+      "strength": "8",
+      "unit": "MG"
+    },
+    {
+      "name": "ACETAMINOPHEN",
+      "strength": "300",
+      "unit": "MG"
+    },
+    {
+      "name": "CAFFEINE",
+      "strength": "15",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "PHARMASCIENCE INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "CODEINE AND PARACETAMOL",
+    "CODEINE AND PARACETAMOL"
+  ]
+}

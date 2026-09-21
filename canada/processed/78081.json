@@ -1,0 +1,28 @@
+{
+  "drug_code": "78081",
+  "din": "02295490",
+  "brand_name": "ACT RAMIPRIL",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "14-MAY-2015",
+  "active_ingredients": [
+    {
+      "name": "RAMIPRIL",
+      "strength": "2.5",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "CAPSULE"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "ACTAVIS PHARMA COMPANY"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "RAMIPRIL"
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "drug_code": "94075",
+  "din": "02454246",
+  "brand_name": "SUN PROTECTOR WEIGHTLESS LOTION FOR FACE AND BODY",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "22-JUL-2016",
+  "active_ingredients": [
+    {
+      "name": "AVOBENZONE",
+      "strength": "3",
+      "unit": "%"
+    },
+    {
+      "name": "OCTOCRYLENE",
+      "strength": "6",
+      "unit": "%"
+    },
+    {
+      "name": "OCTISALATE",
+      "strength": "3.21",
+      "unit": "%"
+    },
+    {
+      "name": "OXYBENZONE",
+      "strength": "3.86",
+      "unit": "%"
+    },
+    {
+      "name": "HOMOSALATE",
+      "strength": "10.72",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "LOTION"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "KIEHLS CANADA"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "COMBINATIONS OF PROTECTIVES AGAINST UV-RADIATION"
+  ]
+}

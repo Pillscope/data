@@ -1,0 +1,33 @@
+{
+  "drug_code": "95812",
+  "din": "02469340",
+  "brand_name": "LYSOL DISINFECTANT MIST",
+  "class": "Disinfectant",
+  "descriptor": "",
+  "last_update": "28-FEB-2018",
+  "active_ingredients": [
+    {
+      "name": "ALCOHOL ANHYDROUS",
+      "strength": "58",
+      "unit": "%"
+    },
+    {
+      "name": "ALKYL DIMETHYL BENZYL AMMONIUM SACCHARINATE",
+      "strength": "0.1",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "AEROSOL"
+  ],
+  "routes": [
+    "DISINFECTANT (Domestic)"
+  ],
+  "companies": [
+    "RECKITT BENCKISER (CANADA) INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "TECHNICAL DISINFECTANTS"
+  ]
+}

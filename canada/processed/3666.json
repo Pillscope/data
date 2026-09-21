@@ -1,0 +1,56 @@
+{
+  "drug_code": "3666",
+  "din": "00491039",
+  "brand_name": "SCARLET OIL",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "26-OCT-2000",
+  "active_ingredients": [
+    {
+      "name": "PHENOL",
+      "strength": ".75",
+      "unit": "%"
+    },
+    {
+      "name": "PINE TAR OIL",
+      "strength": ".75",
+      "unit": "%"
+    },
+    {
+      "name": "OIL OF CAMPHOR RECTIFIED",
+      "strength": ".75",
+      "unit": "%"
+    },
+    {
+      "name": "EUCALYPTUS OIL",
+      "strength": ".75",
+      "unit": "%"
+    },
+    {
+      "name": "MENTHOL",
+      "strength": ".75",
+      "unit": "%"
+    },
+    {
+      "name": "PERUVIAN BALSAM",
+      "strength": ".15",
+      "unit": "%"
+    },
+    {
+      "name": "OIL OF THYME",
+      "strength": ".28",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "LIQUID"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "DOMINION VETERINARY LABORATORIES LTD."
+  ],
+  "status": "MARKETED",
+  "atc": []
+}

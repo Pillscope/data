@@ -1,0 +1,28 @@
+{
+  "drug_code": "6714",
+  "din": "00642886",
+  "brand_name": "APO PIROXICAM CAP 10MG",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "30-SEP-2010",
+  "active_ingredients": [
+    {
+      "name": "PIROXICAM",
+      "strength": "10",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "CAPSULE"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "APOTEX INC"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "PIROXICAM"
+  ]
+}

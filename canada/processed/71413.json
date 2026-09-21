@@ -1,0 +1,28 @@
+{
+  "drug_code": "71413",
+  "din": "02247171",
+  "brand_name": "BIO-HYDROCHLOROTHIAZIDE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "09-JUN-2017",
+  "active_ingredients": [
+    {
+      "name": "HYDROCHLOROTHIAZIDE",
+      "strength": "50",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "BIOMED PHARMA"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "HYDROCHLOROTHIAZIDE"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "drug_code": "43531",
+  "din": "02229269",
+  "brand_name": "ZYPREXA - 5MG",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "12-AUG-2008",
+  "active_ingredients": [
+    {
+      "name": "OLANZAPINE",
+      "strength": "5",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "ELI LILLY CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "OLANZAPINE"
+  ]
+}

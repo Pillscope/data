@@ -1,0 +1,33 @@
+{
+  "drug_code": "92299",
+  "din": "02438615",
+  "brand_name": "R\u00c3\u0089NERGIE LIFT",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "08-AUG-2017",
+  "active_ingredients": [
+    {
+      "name": "TITANIUM DIOXIDE",
+      "strength": "3.1",
+      "unit": "%"
+    },
+    {
+      "name": "OCTINOXATE",
+      "strength": "7.5",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "LOTION"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "LANCOME CANADA"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "COMBINATIONS OF PROTECTIVES AGAINST UV-RADIATION"
+  ]
+}

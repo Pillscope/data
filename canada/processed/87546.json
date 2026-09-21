@@ -1,0 +1,28 @@
+{
+  "drug_code": "87546",
+  "din": "02389991",
+  "brand_name": "ONDISSOLVE ODF",
+  "class": "Human",
+  "descriptor": "ORALLY DISINTEGRATING FILM",
+  "last_update": "11-APR-2013",
+  "active_ingredients": [
+    {
+      "name": "ONDANSETRON",
+      "strength": "8",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "FILM, SOLUBLE"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "TAKEDA CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "ONDANSETRON"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "drug_code": "77961",
+  "din": "02294265",
+  "brand_name": "RATIO-TAMSULOSIN",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "26-JAN-2016",
+  "active_ingredients": [
+    {
+      "name": "TAMSULOSIN HYDROCHLORIDE",
+      "strength": "0.4",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "CAPSULE (SUSTAINED-RELEASE)"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "TEVA CANADA LIMITED"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "TAMSULOSIN"
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "drug_code": "81732",
+  "din": "02331640",
+  "brand_name": "XYLOCAINE DENTAL LIDOCAINE HCL 2% AND EPINEPHRINE 1:100,000",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "15-JAN-2010",
+  "active_ingredients": [
+    {
+      "name": "EPINEPHRINE",
+      "strength": "0.01",
+      "unit": "MG"
+    },
+    {
+      "name": "LIDOCAINE HYDROCHLORIDE",
+      "strength": "20.00",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "BLOCK/INFILTRATION"
+  ],
+  "companies": [
+    "DENTSPLY CANADA LIMITED"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "LIDOCAINE, COMBINATIONS"
+  ]
+}

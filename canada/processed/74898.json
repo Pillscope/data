@@ -1,0 +1,41 @@
+{
+  "drug_code": "74898",
+  "din": "02263602",
+  "brand_name": "IO-WASH",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "27-JUL-2016",
+  "active_ingredients": [
+    {
+      "name": "ALKYL PHENOL POLYGLYCOL ETHER IODINE COMPLEX",
+      "strength": "8.75",
+      "unit": "%"
+    },
+    {
+      "name": "GLYCERINE",
+      "strength": "3.00",
+      "unit": "%"
+    },
+    {
+      "name": "PHOSPHORIC ACID",
+      "strength": "12.75",
+      "unit": "%"
+    },
+    {
+      "name": "NONYL PHENOXY POLYOXYETHYLENE ETHANOL-IODINE COMPLEX",
+      "strength": "8.75",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "AGRISAN SPECIALTY CHEMICAL & PHARMACEUTICAL"
+  ],
+  "status": "APPROVED",
+  "atc": []
+}

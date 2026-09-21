@@ -1,0 +1,28 @@
+{
+  "drug_code": "72328",
+  "din": "02248012",
+  "brand_name": "MYLAN-PAROXETINE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "29-DEC-2009",
+  "active_ingredients": [
+    {
+      "name": "PAROXETINE (PAROXETINE HYDROCHLORIDE, ISOPROPYL SOLVATE)",
+      "strength": "10",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "MYLAN PHARMACEUTICALS ULC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "PAROXETINE"
+  ]
+}

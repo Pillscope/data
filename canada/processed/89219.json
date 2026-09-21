@@ -1,0 +1,28 @@
+{
+  "drug_code": "89219",
+  "din": "02407507",
+  "brand_name": "RAPID ACTION",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "20-JAN-2015",
+  "active_ingredients": [
+    {
+      "name": "ACETAMINOPHEN",
+      "strength": "500",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "TANTA PHARMACEUTICALS INC"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "ACETAMINOPHEN (PARACETAMOL)"
+  ]
+}

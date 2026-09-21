@@ -1,0 +1,28 @@
+{
+  "drug_code": "76293",
+  "din": "02277271",
+  "brand_name": "VESICARE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "30-DEC-2013",
+  "active_ingredients": [
+    {
+      "name": "SOLIFENACIN SUCCINATE",
+      "strength": "10",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "ASTELLAS PHARMA CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "SOLIFENACIN"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "drug_code": "72483",
+  "din": "02248151",
+  "brand_name": "ALPHAGAN P",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "22-AUG-2008",
+  "active_ingredients": [
+    {
+      "name": "BRIMONIDINE TARTRATE",
+      "strength": "0.15",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "OPHTHALMIC"
+  ],
+  "companies": [
+    "ALLERGAN INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "BRIMONIDINE"
+  ]
+}

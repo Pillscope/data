@@ -1,0 +1,27 @@
+{
+  "drug_code": "62605",
+  "din": "02239149",
+  "brand_name": "INFLUX-50 (FLUNIXIN MEGLUMINE INJECTION) STERILE INJECTABLE SOLUTION",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "05-MAY-2015",
+  "active_ingredients": [
+    {
+      "name": "FLUNIXIN (FLUNIXIN MEGLUMINE)",
+      "strength": "50",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "INTRAMUSCULAR",
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "VETOQUINOL N A INC"
+  ],
+  "status": "APPROVED",
+  "atc": []
+}

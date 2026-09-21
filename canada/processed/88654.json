@@ -1,0 +1,34 @@
+{
+  "drug_code": "88654",
+  "din": "02401657",
+  "brand_name": "PMS-TRAMADOL-ACET",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "07-FEB-2017",
+  "active_ingredients": [
+    {
+      "name": "ACETAMINOPHEN",
+      "strength": "325",
+      "unit": "MG"
+    },
+    {
+      "name": "TRAMADOL HYDROCHLORIDE",
+      "strength": "37.5",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "PHARMASCIENCE INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "TRAMADOL AND PARACETAMOL",
+    "TRAMADOL AND PARACETAMOL"
+  ]
+}

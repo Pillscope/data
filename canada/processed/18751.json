@@ -1,0 +1,28 @@
+{
+  "drug_code": "18751",
+  "din": "02148528",
+  "brand_name": "MINIMS TETRACAINE HYDROCHLORIDE 0.5%",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "11-AUG-2016",
+  "active_ingredients": [
+    {
+      "name": "TETRACAINE HYDROCHLORIDE",
+      "strength": "0.5",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "DROPS"
+  ],
+  "routes": [
+    "OPHTHALMIC"
+  ],
+  "companies": [
+    "VALEANT CANADA LP/VALEANT CANADA S.E.C."
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "TETRACAINE"
+  ]
+}

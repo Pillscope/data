@@ -1,0 +1,30 @@
+{
+  "drug_code": "90984",
+  "din": "02425181",
+  "brand_name": "VESTA-SYDE SQ QUATERNARY AMMONIUM DISINFECTANT",
+  "class": "Disinfectant",
+  "descriptor": "",
+  "last_update": "19-JAN-2018",
+  "active_ingredients": [
+    {
+      "name": "DIDECYL DIMETHYL AMMONIUM CHLORIDE",
+      "strength": "10.5",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "LIQUID"
+  ],
+  "routes": [
+    "DISINFECTANT (Barn)",
+    "DISINFECTANT (Food Premises)",
+    "DISINFECTANT (Institutional/Industrial)"
+  ],
+  "companies": [
+    "STERIS CORPORATION  ST LOUIS DIVISION"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "TECHNICAL DISINFECTANTS"
+  ]
+}

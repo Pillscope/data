@@ -1,0 +1,28 @@
+{
+  "drug_code": "86914",
+  "din": "02383381",
+  "brand_name": "SANDOZ MOXIFLOXACIN",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "06-DEC-2017",
+  "active_ingredients": [
+    {
+      "name": "MOXIFLOXACIN (MOXIFLOXACIN HYDROCHLORIDE)",
+      "strength": "400",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "SANDOZ CANADA INCORPORATED"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "MOXIFLOXACIN"
+  ]
+}

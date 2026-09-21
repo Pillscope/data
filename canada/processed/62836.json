@@ -1,0 +1,28 @@
+{
+  "drug_code": "62836",
+  "din": "02239367",
+  "brand_name": "TEVA-SUMATRIPTAN",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "05-MAY-2015",
+  "active_ingredients": [
+    {
+      "name": "SUMATRIPTAN (SUMATRIPTAN SUCCINATE)",
+      "strength": "100",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "TEVA CANADA LIMITED"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "SUMATRIPTAN"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "drug_code": "8465",
+  "din": "00603716",
+  "brand_name": "RYTHMOL",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "11-JUL-2016",
+  "active_ingredients": [
+    {
+      "name": "PROPAFENONE HYDROCHLORIDE",
+      "strength": "300",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "BGP PHARMA ULC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "PROPAFENONE"
+  ]
+}

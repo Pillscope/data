@@ -1,0 +1,28 @@
+{
+  "drug_code": "13886",
+  "din": "02014408",
+  "brand_name": "OXYGEN 99%",
+  "class": "Human",
+  "descriptor": "MANUFACTURED DOSAGE FORM-LIQUID",
+  "last_update": "26-SEP-2017",
+  "active_ingredients": [
+    {
+      "name": "OXYGEN",
+      "strength": "99",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "GAS"
+  ],
+  "routes": [
+    "INHALATION"
+  ],
+  "companies": [
+    "PRAXAIR CANADA INC"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "OXYGEN"
+  ]
+}

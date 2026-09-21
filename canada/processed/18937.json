@@ -1,0 +1,28 @@
+{
+  "drug_code": "18937",
+  "din": "02139510",
+  "brand_name": "SODIUM CHLORIDE INJECTION, USP",
+  "class": "Human",
+  "descriptor": "SINGLE-DOSE VIAL",
+  "last_update": "02-DEC-2015",
+  "active_ingredients": [
+    {
+      "name": "SODIUM CHLORIDE",
+      "strength": "234",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "FRESENIUS KABI CANADA LTD"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "SODIUM CHLORIDE"
+  ]
+}

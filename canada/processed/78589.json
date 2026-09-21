@@ -1,0 +1,38 @@
+{
+  "drug_code": "78589",
+  "din": "02300605",
+  "brand_name": "REPLENISHING MOISTURE LOTION SPF 15",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "08-JUL-2013",
+  "active_ingredients": [
+    {
+      "name": "OXYBENZONE",
+      "strength": "5",
+      "unit": "%"
+    },
+    {
+      "name": "OCTISALATE",
+      "strength": "5",
+      "unit": "%"
+    },
+    {
+      "name": "OCTINOXATE",
+      "strength": "7.5",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "LOTION"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "H.J. SUTTON INDUSTRIES LTD."
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "COMBINATIONS OF PROTECTIVES AGAINST UV-RADIATION"
+  ]
+}

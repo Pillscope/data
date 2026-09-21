@@ -1,0 +1,28 @@
+{
+  "drug_code": "78139",
+  "din": "02296039",
+  "brand_name": "TAPAZOLE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "06-DEC-2008",
+  "active_ingredients": [
+    {
+      "name": "THIAMAZOLE",
+      "strength": "10",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "PALADIN LABS INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "THIAMAZOLE"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "drug_code": "70034",
+  "din": "02245914",
+  "brand_name": "PMS-CARVEDILOL",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "18-SEP-2006",
+  "active_ingredients": [
+    {
+      "name": "CARVEDILOL",
+      "strength": "3.125",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "PHARMASCIENCE INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "CARVEDILOL"
+  ]
+}

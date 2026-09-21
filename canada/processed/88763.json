@@ -1,0 +1,28 @@
+{
+  "drug_code": "88763",
+  "din": "02402793",
+  "brand_name": "RAN-MONTELUKAST",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "19-JAN-2015",
+  "active_ingredients": [
+    {
+      "name": "MONTELUKAST (MONTELUKAST SODIUM)",
+      "strength": "4",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET (CHEWABLE)"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "RANBAXY PHARMACEUTICALS CANADA INC."
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "MONTELUKAST"
+  ]
+}

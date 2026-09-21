@@ -1,0 +1,28 @@
+{
+  "drug_code": "64019",
+  "din": "02240456",
+  "brand_name": "MOCLOBEMIDE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "16-NOV-2017",
+  "active_ingredients": [
+    {
+      "name": "MOCLOBEMIDE",
+      "strength": "300",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "AA PHARMA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "MOCLOBEMIDE"
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "drug_code": "46474",
+  "din": "01950673",
+  "brand_name": "DOMITOR INJ 1MG/ML",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "22-FEB-2013",
+  "active_ingredients": [
+    {
+      "name": "MEDETOMIDINE HYDROCHLORIDE",
+      "strength": "1",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "INTRAMUSCULAR",
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "ORION CORPORATION"
+  ],
+  "status": "MARKETED",
+  "atc": []
+}

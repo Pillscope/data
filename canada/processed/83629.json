@@ -1,0 +1,28 @@
+{
+  "drug_code": "83629",
+  "din": "02351080",
+  "brand_name": "LORAZEPAM",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "15-MAY-2015",
+  "active_ingredients": [
+    {
+      "name": "LORAZEPAM",
+      "strength": "1.0",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "SANIS HEALTH INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "LORAZEPAM"
+  ]
+}

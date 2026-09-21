@@ -1,0 +1,26 @@
+{
+  "drug_code": "9818",
+  "din": "00656917",
+  "brand_name": "ZOAMIX",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "24-AUG-2016",
+  "active_ingredients": [
+    {
+      "name": "DINITOLMIDE",
+      "strength": "25",
+      "unit": "G"
+    }
+  ],
+  "forms": [
+    "DRUG PREMIX"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "HUVEPHARMA EOOD"
+  ],
+  "status": "APPROVED",
+  "atc": []
+}

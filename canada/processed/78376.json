@@ -1,0 +1,28 @@
+{
+  "drug_code": "78376",
+  "din": "02298457",
+  "brand_name": "PMS-VALACYCLOVIR",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "29-JUN-2016",
+  "active_ingredients": [
+    {
+      "name": "VALACYCLOVIR (VALACYCLOVIR HYDROCHLORIDE)",
+      "strength": "500",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "PHARMASCIENCE INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "VALACICLOVIR"
+  ]
+}

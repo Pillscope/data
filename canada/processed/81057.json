@@ -1,0 +1,28 @@
+{
+  "drug_code": "81057",
+  "din": "02325160",
+  "brand_name": "ONDANSETRON",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "21-SEP-2009",
+  "active_ingredients": [
+    {
+      "name": "ONDANSETRON (ONDANSETRON HYDROCHLORIDE DIHYDRATE)",
+      "strength": "8",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "PRO DOC LIMITEE"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "ONDANSETRON"
+  ]
+}

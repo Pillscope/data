@@ -1,0 +1,28 @@
+{
+  "drug_code": "4941",
+  "din": "00548375",
+  "brand_name": "CESAMET",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "04-MAR-2010",
+  "active_ingredients": [
+    {
+      "name": "NABILONE",
+      "strength": "1",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "CAPSULE"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "VALEANT CANADA LP/VALEANT CANADA S.E.C."
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "NABILONE"
+  ]
+}

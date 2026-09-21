@@ -1,0 +1,28 @@
+{
+  "drug_code": "73841",
+  "din": "02253437",
+  "brand_name": "ALIMTA",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "15-NOV-2007",
+  "active_ingredients": [
+    {
+      "name": "PEMETREXED (PEMETREXED DISODIUM)",
+      "strength": "500",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "POWDER FOR SOLUTION"
+  ],
+  "routes": [
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "ELI LILLY CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "PEMETREXED"
+  ]
+}

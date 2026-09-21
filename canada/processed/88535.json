@@ -1,0 +1,28 @@
+{
+  "drug_code": "88535",
+  "din": "02400553",
+  "brand_name": "CLOPIDOGREL",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "16-APR-2013",
+  "active_ingredients": [
+    {
+      "name": "CLOPIDOGREL (CLOPIDOGREL BISULFATE)",
+      "strength": "75",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "SANIS HEALTH INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "CLOPIDOGREL"
+  ]
+}

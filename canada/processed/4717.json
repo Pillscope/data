@@ -1,0 +1,26 @@
+{
+  "drug_code": "4717",
+  "din": "00552984",
+  "brand_name": "UNI-TEST INJ 100MG/ML",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "26-JUL-2006",
+  "active_ingredients": [
+    {
+      "name": "TESTOSTERONE PROPIONATE",
+      "strength": "100",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "INTRAMUSCULAR"
+  ],
+  "companies": [
+    "UNIVET PHARMACEUTICALS LTD."
+  ],
+  "status": "MARKETED",
+  "atc": []
+}

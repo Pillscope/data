@@ -1,0 +1,29 @@
+{
+  "drug_code": "61900",
+  "din": "02238480",
+  "brand_name": "STANDARDIZED GRASS POLLEN - KENTUCKY BLUEGRASS (100000 BAU/ML)",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "10-OCT-2015",
+  "active_ingredients": [
+    {
+      "name": "STANDARDIZED KENTUCKY BLUE/JUNE GRASS POLLEN",
+      "strength": "100000",
+      "unit": "UNIT"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "SUBCUTANEOUS",
+    "PERCUTANEOUS"
+  ],
+  "companies": [
+    "JUBILANT HOLLISTERSTIER LLC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "GRASS POLLEN"
+  ]
+}

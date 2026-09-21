@@ -1,0 +1,33 @@
+{
+  "drug_code": "2255",
+  "din": "00315966",
+  "brand_name": "MINESTRIN 1/20",
+  "class": "Human",
+  "descriptor": "21 DAY PACK",
+  "last_update": "09-APR-2013",
+  "active_ingredients": [
+    {
+      "name": "NORETHINDRONE ACETATE",
+      "strength": "1",
+      "unit": "MG"
+    },
+    {
+      "name": "ETHINYL ESTRADIOL",
+      "strength": "20",
+      "unit": "MCG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "WARNER CHILCOTT CANADA CO"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "NORETHISTERONE AND ESTROGEN"
+  ]
+}

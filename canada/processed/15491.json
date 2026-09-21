@@ -1,0 +1,28 @@
+{
+  "drug_code": "15491",
+  "din": "01963953",
+  "brand_name": "RESECTISOL (5% MANNITOL IRRIGATION)",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "29-APR-2015",
+  "active_ingredients": [
+    {
+      "name": "MANNITOL",
+      "strength": "5",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "LIQUID"
+  ],
+  "routes": [
+    "IRRIGATION"
+  ],
+  "companies": [
+    "B. BRAUN MEDICAL INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "MANNITOL"
+  ]
+}

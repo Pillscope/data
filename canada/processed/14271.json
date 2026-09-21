@@ -1,0 +1,28 @@
+{
+  "drug_code": "14271",
+  "din": "01982877",
+  "brand_name": "VITAMIN B12-5000MCG/ML STERILE INJECTION",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "13-SEP-2004",
+  "active_ingredients": [
+    {
+      "name": "VITAMIN B12",
+      "strength": "5000",
+      "unit": "MCG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "INTRAMUSCULAR",
+    "INTRAVENOUS",
+    "SUBCUTANEOUS"
+  ],
+  "companies": [
+    "VETOQUINOL N A INC"
+  ],
+  "status": "APPROVED",
+  "atc": []
+}

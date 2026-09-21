@@ -1,0 +1,27 @@
+{
+  "drug_code": "10958",
+  "din": "00786381",
+  "brand_name": "BEXCO ACTH",
+  "class": "Veterinary",
+  "descriptor": "CORTICOTROPIN INJECTION",
+  "last_update": "12-JAN-2012",
+  "active_ingredients": [
+    {
+      "name": "ACTH",
+      "strength": "40",
+      "unit": "UNIT"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "INTRAMUSCULAR",
+    "SUBCUTANEOUS"
+  ],
+  "companies": [
+    "CENTRAL SALES LIMITED"
+  ],
+  "status": "APPROVED",
+  "atc": []
+}

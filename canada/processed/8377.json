@@ -1,0 +1,26 @@
+{
+  "drug_code": "8377",
+  "din": "00719315",
+  "brand_name": "OXYTETRACYCLINE 200",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "03-JAN-2018",
+  "active_ingredients": [
+    {
+      "name": "OXYTETRACYCLINE HYDROCHLORIDE",
+      "strength": "440",
+      "unit": "G"
+    }
+  ],
+  "forms": [
+    "DRUG PREMIX"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "BIO AGRI MIX LP"
+  ],
+  "status": "MARKETED",
+  "atc": []
+}

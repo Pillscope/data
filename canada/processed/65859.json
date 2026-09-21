@@ -1,0 +1,39 @@
+{
+  "drug_code": "65859",
+  "din": "02242180",
+  "brand_name": "MUSCLE & BACK PAIN RELIEF - 8",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "28-FEB-2018",
+  "active_ingredients": [
+    {
+      "name": "CODEINE PHOSPHATE",
+      "strength": "8",
+      "unit": "MG"
+    },
+    {
+      "name": "METHOCARBAMOL",
+      "strength": "400",
+      "unit": "MG"
+    },
+    {
+      "name": "ACETAMINOPHEN",
+      "strength": "325",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "VITA HEALTH PRODUCTS INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "CODEINE, COMBINATIONS EXCL. PSYCHOLEPTICS",
+    "CODEINE, COMBINATIONS EXCL. PSYCHOLEPTICS"
+  ]
+}

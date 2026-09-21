@@ -1,0 +1,28 @@
+{
+  "drug_code": "79065",
+  "din": "02305151",
+  "brand_name": "PREMIUM ACTIVATED CHARCOAL USP",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "27-JUN-2017",
+  "active_ingredients": [
+    {
+      "name": "CHARCOAL ACTIVATED",
+      "strength": "260",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "CAPSULE"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "SOURCE OF LIFE PRODUCTS, DIVISION OF CHEMIMEX ENT"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "MEDICINAL CHARCOAL"
+  ]
+}

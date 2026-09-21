@@ -1,0 +1,28 @@
+{
+  "drug_code": "93732",
+  "din": "02451077",
+  "brand_name": "RIVA-DULOXETINE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "29-JUN-2016",
+  "active_ingredients": [
+    {
+      "name": "DULOXETINE (DULOXETINE HYDROCHLORIDE)",
+      "strength": "30",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "CAPSULE (DELAYED RELEASE)"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "LABORATOIRE RIVA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "DULOXETINE"
+  ]
+}

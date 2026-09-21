@@ -1,0 +1,28 @@
+{
+  "drug_code": "4472",
+  "din": "00548367",
+  "brand_name": "XANAX TAB 0.5MG",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "10-AUG-2009",
+  "active_ingredients": [
+    {
+      "name": "ALPRAZOLAM",
+      "strength": "0.5",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "PFIZER CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "ALPRAZOLAM"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "drug_code": "83971",
+  "din": "02354543",
+  "brand_name": "LORIS 0.13% BZK",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "19-DEC-2011",
+  "active_ingredients": [
+    {
+      "name": "BENZALKONIUM CHLORIDE",
+      "strength": "0.13",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "WIPE"
+  ],
+  "routes": [
+    "TOPICAL (HOUSEHOLD)"
+  ],
+  "companies": [
+    "LERNAPHARM (LORIS) INC."
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "BENZALKONIUM"
+  ]
+}

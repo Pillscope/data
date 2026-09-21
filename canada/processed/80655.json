@@ -1,0 +1,28 @@
+{
+  "drug_code": "80655",
+  "din": "02321149",
+  "brand_name": "MYLAN-NIFEDIPINE EXTENDED RELEASE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "27-DEC-2017",
+  "active_ingredients": [
+    {
+      "name": "NIFEDIPINE",
+      "strength": "60",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET (EXTENDED-RELEASE)"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "MYLAN PHARMACEUTICALS ULC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "NIFEDIPINE"
+  ]
+}

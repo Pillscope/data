@@ -1,0 +1,28 @@
+{
+  "drug_code": "78852",
+  "din": "02303191",
+  "brand_name": "PMS-OLANZAPINE ODT",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "26-OCT-2009",
+  "active_ingredients": [
+    {
+      "name": "OLANZAPINE",
+      "strength": "5",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET (ORALLY DISINTEGRATING)"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "PHARMASCIENCE INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "OLANZAPINE"
+  ]
+}

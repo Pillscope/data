@@ -1,0 +1,96 @@
+{
+  "drug_code": "8101",
+  "din": "00721069",
+  "brand_name": "SULFAVITE",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "05-JAN-2018",
+  "active_ingredients": [
+    {
+      "name": "CALCIUM D-PANTOTHENATE",
+      "strength": "615",
+      "unit": "MG"
+    },
+    {
+      "name": "VITAMIN D3",
+      "strength": "70000",
+      "unit": "UNIT"
+    },
+    {
+      "name": "SULFAMERAZINE SODIUM",
+      "strength": "60",
+      "unit": "G"
+    },
+    {
+      "name": "SULFATHIAZOLE SODIUM",
+      "strength": "120",
+      "unit": "G"
+    },
+    {
+      "name": "VITAMIN B2",
+      "strength": "175",
+      "unit": "MG"
+    },
+    {
+      "name": "VITAMIN A",
+      "strength": "210000",
+      "unit": "UNIT"
+    },
+    {
+      "name": "NICOTINIC ACID",
+      "strength": "3",
+      "unit": "G"
+    },
+    {
+      "name": "SODIUM CHLORIDE",
+      "strength": "2.8",
+      "unit": "G"
+    },
+    {
+      "name": "MAGNESIUM SULFATE",
+      "strength": "175",
+      "unit": "MG"
+    },
+    {
+      "name": "SODIUM ACETATE",
+      "strength": "2.5",
+      "unit": "G"
+    },
+    {
+      "name": "POTASSIUM CHLORIDE",
+      "strength": "220",
+      "unit": "MG"
+    },
+    {
+      "name": "CALCIUM CHLORIDE",
+      "strength": "220",
+      "unit": "MG"
+    },
+    {
+      "name": "SULFAMETHAZINE SODIUM",
+      "strength": "150",
+      "unit": "G"
+    },
+    {
+      "name": "VITAMIN B12",
+      "strength": "2",
+      "unit": "MG"
+    },
+    {
+      "name": "MENADIONE SODIUM BISULFITE",
+      "strength": "35",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "POWDER FOR SOLUTION"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "DOMINION VETERINARY LABORATORIES LTD."
+  ],
+  "status": "MARKETED",
+  "atc": []
+}

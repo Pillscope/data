@@ -1,0 +1,28 @@
+{
+  "drug_code": "12867",
+  "din": "01910043",
+  "brand_name": "EQUICAINE",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "06-MAY-2015",
+  "active_ingredients": [
+    {
+      "name": "MEPIVACAINE HYDROCHLORIDE",
+      "strength": "20",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "BLOCK/INFILTRATION",
+    "INTRA-ARTICULAR",
+    "EPIDURAL"
+  ],
+  "companies": [
+    "ZOETIS CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": []
+}

@@ -1,0 +1,28 @@
+{
+  "drug_code": "82235",
+  "din": "02336723",
+  "brand_name": "APO-RIVASTIGMINE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "28-SEP-2015",
+  "active_ingredients": [
+    {
+      "name": "RIVASTIGMINE (RIVASTIGMINE HYDROGEN TARTRATE)",
+      "strength": "3",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "CAPSULE"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "APOTEX INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "RIVASTIGMINE"
+  ]
+}

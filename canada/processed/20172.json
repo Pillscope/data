@@ -1,0 +1,28 @@
+{
+  "drug_code": "20172",
+  "din": "02125382",
+  "brand_name": "HYDROMORPH CONTIN-CONTROLLED RELEASE CAP - 24MG",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "07-OCT-2010",
+  "active_ingredients": [
+    {
+      "name": "HYDROMORPHONE HYDROCHLORIDE",
+      "strength": "24",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "CAPSULE (SUSTAINED-RELEASE)"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "PURDUE PHARMA"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "HYDROMORPHONE"
+  ]
+}

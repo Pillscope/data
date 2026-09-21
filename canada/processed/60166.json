@@ -1,0 +1,28 @@
+{
+  "drug_code": "60166",
+  "din": "02236876",
+  "brand_name": "ALPHAGAN",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "22-AUG-2008",
+  "active_ingredients": [
+    {
+      "name": "BRIMONIDINE TARTRATE",
+      "strength": "0.2",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "LIQUID"
+  ],
+  "routes": [
+    "OPHTHALMIC"
+  ],
+  "companies": [
+    "ALLERGAN INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "BRIMONIDINE"
+  ]
+}

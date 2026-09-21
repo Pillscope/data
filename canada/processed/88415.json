@@ -1,0 +1,28 @@
+{
+  "drug_code": "88415",
+  "din": "02399245",
+  "brand_name": "SANDOZ VORICONAZOLE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "12-MAY-2014",
+  "active_ingredients": [
+    {
+      "name": "VORICONAZOLE",
+      "strength": "50",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "SANDOZ CANADA INCORPORATED"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "VORICONAZOLE"
+  ]
+}

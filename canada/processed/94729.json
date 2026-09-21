@@ -1,0 +1,28 @@
+{
+  "drug_code": "94729",
+  "din": "02459981",
+  "brand_name": "LANCORA",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "01-JUN-2017",
+  "active_ingredients": [
+    {
+      "name": "IVABRADINE (IVABRADINE HYDROCHLORIDE)",
+      "strength": "7.5",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "SERVIER CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "IVABRADINE"
+  ]
+}

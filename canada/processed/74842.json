@@ -1,0 +1,28 @@
+{
+  "drug_code": "74842",
+  "din": "02263017",
+  "brand_name": "PMS-TOPIRAMATE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "10-NOV-2006",
+  "active_ingredients": [
+    {
+      "name": "TOPIRAMATE",
+      "strength": "200",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "PHARMASCIENCE INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "TOPIRAMATE"
+  ]
+}

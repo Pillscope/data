@@ -1,0 +1,28 @@
+{
+  "drug_code": "86775",
+  "din": "02381907",
+  "brand_name": "AURO-CIPROFLOXACIN",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "16-JUL-2012",
+  "active_ingredients": [
+    {
+      "name": "CIPROFLOXACIN (CIPROFLOXACIN HYDROCHLORIDE)",
+      "strength": "250",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "AURO PHARMA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "CIPROFLOXACIN"
+  ]
+}

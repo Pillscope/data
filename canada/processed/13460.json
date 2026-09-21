@@ -1,0 +1,26 @@
+{
+  "drug_code": "13460",
+  "din": "02013142",
+  "brand_name": "PHENYLBUTAZONE INJ 200MG/ML",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "30-AUG-2004",
+  "active_ingredients": [
+    {
+      "name": "PHENYLBUTAZONE",
+      "strength": "200",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "UNIVET PHARMACEUTICALS LTD."
+  ],
+  "status": "MARKETED",
+  "atc": []
+}

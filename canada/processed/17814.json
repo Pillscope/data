@@ -1,0 +1,28 @@
+{
+  "drug_code": "17814",
+  "din": "02150662",
+  "brand_name": "NEORAL 50MG",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "16-MAR-2017",
+  "active_ingredients": [
+    {
+      "name": "CYCLOSPORINE",
+      "strength": "50",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "CAPSULE"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "NOVARTIS PHARMACEUTICALS CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "CICLOSPORIN"
+  ]
+}

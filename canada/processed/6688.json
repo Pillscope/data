@@ -1,0 +1,28 @@
+{
+  "drug_code": "6688",
+  "din": "00688568",
+  "brand_name": "ERYTHRO-S",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "21-MAR-2013",
+  "active_ingredients": [
+    {
+      "name": "ERYTHROMYCIN (ERYTHROMYCIN STEARATE)",
+      "strength": "500",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "AA PHARMA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "ERYTHROMYCIN"
+  ]
+}

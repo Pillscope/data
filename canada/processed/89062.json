@@ -1,0 +1,34 @@
+{
+  "drug_code": "89062",
+  "din": "02405857",
+  "brand_name": "MUCUS & PHLEGM RELIEF WITH COUGH CONTROL EXTRA STRENGTH",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "20-AUG-2014",
+  "active_ingredients": [
+    {
+      "name": "GUAIFENESIN",
+      "strength": "200",
+      "unit": "MG"
+    },
+    {
+      "name": "DEXTROMETHORPHAN HYDROBROMIDE",
+      "strength": "15",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SYRUP"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "TRILLIUM HEALTH CARE PRODUCTS INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "OPIUM DERIVATIVES AND EXPECTORANTS",
+    "OPIUM DERIVATIVES AND EXPECTORANTS"
+  ]
+}

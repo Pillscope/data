@@ -1,0 +1,43 @@
+{
+  "drug_code": "19923",
+  "din": "02091135",
+  "brand_name": "MICRO PLUS 4 REGULAR STRENGTH",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "05-AUG-2015",
+  "active_ingredients": [
+    {
+      "name": "COPPER (COPPER SULFATE)",
+      "strength": ".4",
+      "unit": "MG"
+    },
+    {
+      "name": "CHROMIUM (CHROMIC CHLORIDE)",
+      "strength": "4",
+      "unit": "MCG"
+    },
+    {
+      "name": "MANGANESE (MANGANESE SULFATE)",
+      "strength": ".1",
+      "unit": "MG"
+    },
+    {
+      "name": "ZINC (ZINC SULFATE)",
+      "strength": "1",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "LIQUID"
+  ],
+  "routes": [
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "SANDOZ CANADA INCORPORATED"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "ELECTROLYTES IN COMB WITH OTHER DRUGS"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "drug_code": "74665",
+  "din": "02261251",
+  "brand_name": "TEVA-LEFLUNOMIDE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "05-MAY-2015",
+  "active_ingredients": [
+    {
+      "name": "LEFLUNOMIDE",
+      "strength": "10",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "TEVA CANADA LIMITED"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "LEFLUNOMIDE"
+  ]
+}

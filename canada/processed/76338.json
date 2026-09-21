@@ -1,0 +1,28 @@
+{
+  "drug_code": "76338",
+  "din": "02277778",
+  "brand_name": "CRITIC-AID CLEAR",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "23-JUN-2009",
+  "active_ingredients": [
+    {
+      "name": "WHITE PETROLATUM",
+      "strength": "71.5",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "OINTMENT"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "COLOPLAST A/S"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "SOFT PARAFFIN AND FAT PRODUCTS"
+  ]
+}

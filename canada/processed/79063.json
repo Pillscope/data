@@ -1,0 +1,33 @@
+{
+  "drug_code": "79063",
+  "din": "02305135",
+  "brand_name": "VIVACAINE",
+  "class": "Human",
+  "descriptor": "BUPIVACAINE HCL 0.5% & EPINEPHRINE 1:200,000 INJ, USP",
+  "last_update": "15-FEB-2017",
+  "active_ingredients": [
+    {
+      "name": "BUPIVACAINE HYDROCHLORIDE",
+      "strength": "5",
+      "unit": "MG"
+    },
+    {
+      "name": "EPINEPHRINE BITARTRATE",
+      "strength": "0.0091",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "BLOCK/INFILTRATION"
+  ],
+  "companies": [
+    "SEPTODONT INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "BUPIVACAINE, COMBINATIONS"
+  ]
+}

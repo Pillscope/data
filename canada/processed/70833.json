@@ -1,0 +1,29 @@
+{
+  "drug_code": "70833",
+  "din": "02246641",
+  "brand_name": "PIPERACILLIN FOR INJECTION",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "18-SEP-2017",
+  "active_ingredients": [
+    {
+      "name": "PIPERACILLIN (PIPERACILLIN SODIUM)",
+      "strength": "3",
+      "unit": "G"
+    }
+  ],
+  "forms": [
+    "POWDER FOR SOLUTION"
+  ],
+  "routes": [
+    "INTRAMUSCULAR",
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "HOSPIRA HEALTHCARE CORPORATION"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "PIPERACILLIN"
+  ]
+}

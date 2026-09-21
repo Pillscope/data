@@ -1,0 +1,29 @@
+{
+  "drug_code": "83660",
+  "din": "02351382",
+  "brand_name": "DECON-AHOL AEROSOL",
+  "class": "Disinfectant",
+  "descriptor": "",
+  "last_update": "05-DEC-2014",
+  "active_ingredients": [
+    {
+      "name": "ISOPROPYL ALCOHOL",
+      "strength": "70",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "AEROSOL"
+  ],
+  "routes": [
+    "DISINFECTANT (Hospital/HC Facilities)",
+    "DISINFECTANT (Institutional/Industrial)"
+  ],
+  "companies": [
+    "VELTEK ASSOCIATES INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "TECHNICAL DISINFECTANTS"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "drug_code": "6511",
+  "din": "00644331",
+  "brand_name": "PRO-AMOX-250 ORL SUS 250MG/5ML",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "27-OCT-2017",
+  "active_ingredients": [
+    {
+      "name": "AMOXICILLIN (AMOXICILLIN TRIHYDRATE)",
+      "strength": "250",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "POWDER FOR SUSPENSION"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "PRO DOC LIMITEE"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "AMOXICILLIN"
+  ]
+}

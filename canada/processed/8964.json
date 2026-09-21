@@ -1,0 +1,28 @@
+{
+  "drug_code": "8964",
+  "din": "00771368",
+  "brand_name": "NIX CREME RINSE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "06-MAY-2015",
+  "active_ingredients": [
+    {
+      "name": "PERMETHRIN",
+      "strength": "1",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "CREAM"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "INSIGHT PHARMACEUTICALS LLC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "PERMETHRIN"
+  ]
+}

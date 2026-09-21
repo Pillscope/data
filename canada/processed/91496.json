@@ -1,0 +1,28 @@
+{
+  "drug_code": "91496",
+  "din": "02430541",
+  "brand_name": "CITALOPRAM",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "31-JAN-2018",
+  "active_ingredients": [
+    {
+      "name": "CITALOPRAM (CITALOPRAM HYDROBROMIDE)",
+      "strength": "20",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "JAMP PHARMA CORPORATION"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "CITALOPRAM"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "drug_code": "94917",
+  "din": "02461536",
+  "brand_name": "MINT-INDOMETHACIN",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "31-MAY-2017",
+  "active_ingredients": [
+    {
+      "name": "INDOMETHACIN",
+      "strength": "50",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "CAPSULE"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "MINT PHARMACEUTICALS INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "INDOMETACIN"
+  ]
+}

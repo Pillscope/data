@@ -1,0 +1,36 @@
+{
+  "drug_code": "85378",
+  "din": "02368803",
+  "brand_name": "PURE HARD SURFACE",
+  "class": "Disinfectant",
+  "descriptor": "",
+  "last_update": "12-APR-2018",
+  "active_ingredients": [
+    {
+      "name": "CITRIC ACID",
+      "strength": "4.846",
+      "unit": "%"
+    },
+    {
+      "name": "SILVER DIHYDROGEN CITRATE",
+      "strength": "0.003",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "DISINFECTANT (Food Premises)",
+    "DISINFECTANT (Hospital/HC Facilities)",
+    "DISINFECTANT (Domestic)",
+    "DISINFECTANT (Institutional/Industrial)"
+  ],
+  "companies": [
+    "PURE BIOSCIENCE INC."
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "TECHNICAL DISINFECTANTS"
+  ]
+}

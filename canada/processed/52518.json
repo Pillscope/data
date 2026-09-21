@@ -1,0 +1,26 @@
+{
+  "drug_code": "52518",
+  "din": "02233030",
+  "brand_name": "DOMOSO",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "05-MAY-2015",
+  "active_ingredients": [
+    {
+      "name": "DIMETHYL SULFOXIDE",
+      "strength": "90",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "ZOETIS CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": []
+}

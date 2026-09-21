@@ -1,0 +1,28 @@
+{
+  "drug_code": "77176",
+  "din": "02286300",
+  "brand_name": "MITOXANTRONE INJECTION",
+  "class": "Human",
+  "descriptor": "SINGLE-USE VIAL",
+  "last_update": "22-JAN-2016",
+  "active_ingredients": [
+    {
+      "name": "MITOXANTRONE (MITOXANTRONE HYDROCHLORIDE)",
+      "strength": "2",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "FRESENIUS KABI CANADA LTD"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "MITOXANTRONE"
+  ]
+}

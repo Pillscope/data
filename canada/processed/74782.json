@@ -1,0 +1,29 @@
+{
+  "drug_code": "74782",
+  "din": "02262452",
+  "brand_name": "VELCADE",
+  "class": "Human",
+  "descriptor": "SINGLE USE VIAL",
+  "last_update": "13-JUN-2013",
+  "active_ingredients": [
+    {
+      "name": "BORTEZOMIB (BORTEZOMIB MANNITOL BORONIC ESTER)",
+      "strength": "3.5",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "POWDER FOR SOLUTION"
+  ],
+  "routes": [
+    "INTRAVENOUS",
+    "SUBCUTANEOUS"
+  ],
+  "companies": [
+    "JANSSEN INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "BORTEZOMIB"
+  ]
+}

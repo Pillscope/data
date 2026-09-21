@@ -1,0 +1,28 @@
+{
+  "drug_code": "79778",
+  "din": "02312263",
+  "brand_name": "CESAMET",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "06-MAR-2012",
+  "active_ingredients": [
+    {
+      "name": "NABILONE",
+      "strength": "0.25",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "CAPSULE"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "VALEANT CANADA LP/VALEANT CANADA S.E.C."
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "NABILONE"
+  ]
+}

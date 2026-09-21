@@ -1,0 +1,43 @@
+{
+  "drug_code": "87316",
+  "din": "02387557",
+  "brand_name": "TRIPLE AGE REPAIR MOISTURIZER",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "13-MAR-2015",
+  "active_ingredients": [
+    {
+      "name": "AVOBENZONE",
+      "strength": "2",
+      "unit": "%"
+    },
+    {
+      "name": "OCTOCRYLENE",
+      "strength": "2",
+      "unit": "%"
+    },
+    {
+      "name": "OCTISALATE",
+      "strength": "4",
+      "unit": "%"
+    },
+    {
+      "name": "HOMOSALATE",
+      "strength": "4",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "CREAM"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "JOHNSON & JOHNSON INC"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "COMBINATIONS OF PROTECTIVES AGAINST UV-RADIATION"
+  ]
+}

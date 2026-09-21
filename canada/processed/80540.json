@@ -1,0 +1,28 @@
+{
+  "drug_code": "80540",
+  "din": "02319942",
+  "brand_name": "RAPID ACTION",
+  "class": "Human",
+  "descriptor": "GELCAPS",
+  "last_update": "25-APR-2017",
+  "active_ingredients": [
+    {
+      "name": "ACETAMINOPHEN",
+      "strength": "500",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "TEVA CANADA LIMITED"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "ACETAMINOPHEN (PARACETAMOL)"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "drug_code": "89112",
+  "din": "02406411",
+  "brand_name": "HALOPERIDOL INJECTION, USP",
+  "class": "Human",
+  "descriptor": "1ML & 10 ML MULTIDOSE VIALS",
+  "last_update": "08-FEB-2016",
+  "active_ingredients": [
+    {
+      "name": "HALOPERIDOL",
+      "strength": "5",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "INTRAMUSCULAR"
+  ],
+  "companies": [
+    "FRESENIUS KABI CANADA LTD"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "HALOPERIDOL"
+  ]
+}

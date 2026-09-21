@@ -1,0 +1,33 @@
+{
+  "drug_code": "84764",
+  "din": "02362635",
+  "brand_name": "PIPERACILLIN AND TAZOBACTAM FOR INJECTION",
+  "class": "Human",
+  "descriptor": "SINGLE USE VIAL",
+  "last_update": "24-MAY-2013",
+  "active_ingredients": [
+    {
+      "name": "PIPERACILLIN (PIPERACILLIN SODIUM)",
+      "strength": "4.0",
+      "unit": "G"
+    },
+    {
+      "name": "TAZOBACTAM (TAZOBACTAM SODIUM)",
+      "strength": "0.5",
+      "unit": "G"
+    }
+  ],
+  "forms": [
+    "POWDER FOR SOLUTION"
+  ],
+  "routes": [
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "STERIMAX INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "PIPERACILLIN AND BETA-LACTAMASE INHIBITOR"
+  ]
+}

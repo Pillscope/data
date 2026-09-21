@@ -1,0 +1,28 @@
+{
+  "drug_code": "50295",
+  "din": "02231015",
+  "brand_name": "TEVA-NITROFURANTOIN",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "05-MAY-2015",
+  "active_ingredients": [
+    {
+      "name": "NITROFURANTOIN",
+      "strength": "50",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "CAPSULE"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "TEVA CANADA LIMITED"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "NITROFURANTOIN"
+  ]
+}

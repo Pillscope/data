@@ -1,0 +1,28 @@
+{
+  "drug_code": "93568",
+  "din": "02449811",
+  "brand_name": "SANDOZ MOMETASONE",
+  "class": "Human",
+  "descriptor": "SUSPENSION",
+  "last_update": "28-JUL-2017",
+  "active_ingredients": [
+    {
+      "name": "MOMETASONE FUROATE (MOMETASONE FUROATE MONOHYDRATE)",
+      "strength": "50",
+      "unit": "MCG"
+    }
+  ],
+  "forms": [
+    "SPRAY, METERED DOSE"
+  ],
+  "routes": [
+    "NASAL"
+  ],
+  "companies": [
+    "SANDOZ CANADA INCORPORATED"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "MOMETASONE"
+  ]
+}

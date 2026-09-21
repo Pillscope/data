@@ -1,0 +1,34 @@
+{
+  "drug_code": "91668",
+  "din": "02432226",
+  "brand_name": "HARVONI",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "20-JAN-2016",
+  "active_ingredients": [
+    {
+      "name": "Ledipasvir",
+      "strength": "90",
+      "unit": "MG"
+    },
+    {
+      "name": "SOFOSBUVIR",
+      "strength": "400",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "GILEAD SCIENCES CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "SOFOSBUVIR AND LEDIPASVIR",
+    "SOFOSBUVIR AND LEDIPASVIR"
+  ]
+}

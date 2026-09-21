@@ -1,0 +1,28 @@
+{
+  "drug_code": "74882",
+  "din": "02263432",
+  "brand_name": "TRAVEL TABS",
+  "class": "Human",
+  "descriptor": "COATED TABS",
+  "last_update": "12-DEC-2013",
+  "active_ingredients": [
+    {
+      "name": "DIMENHYDRINATE",
+      "strength": "50",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "TANTA PHARMACEUTICALS INC"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "DIPHENHYDRAMINE"
+  ]
+}

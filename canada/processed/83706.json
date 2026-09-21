@@ -1,0 +1,38 @@
+{
+  "drug_code": "83706",
+  "din": "02351811",
+  "brand_name": "HIGH PROTECTION EMULSION",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "13-JUL-2012",
+  "active_ingredients": [
+    {
+      "name": "OCTINOXATE",
+      "strength": "7.5",
+      "unit": "%"
+    },
+    {
+      "name": "BISOCTRIZOLE",
+      "strength": "6.0",
+      "unit": "%"
+    },
+    {
+      "name": "BEMOTRIZINOL",
+      "strength": "4.5",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "EMULSION"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "PIERRE FABRE DERMO-COSMETIQUE CANADA INC"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "COMBINATIONS OF PROTECTIVES AGAINST UV-RADIATION"
+  ]
+}

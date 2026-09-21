@@ -1,0 +1,28 @@
+{
+  "drug_code": "73094",
+  "din": "02248726",
+  "brand_name": "OXYGEN",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "26-MAY-2004",
+  "active_ingredients": [
+    {
+      "name": "OXYGEN",
+      "strength": "99.0",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "GAS"
+  ],
+  "routes": [
+    "INHALATION"
+  ],
+  "companies": [
+    "INDEPENDENT RESPIRATORY SERVICES (2016) INC."
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "OXYGEN"
+  ]
+}

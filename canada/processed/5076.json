@@ -1,0 +1,46 @@
+{
+  "drug_code": "5076",
+  "din": "00567582",
+  "brand_name": "RED UDDER OINTMENT W LANOLIN",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "14-AUG-2003",
+  "active_ingredients": [
+    {
+      "name": "TURPENTINE",
+      "strength": "69",
+      "unit": "MG"
+    },
+    {
+      "name": "LANOLIN",
+      "strength": "78.5",
+      "unit": "MG"
+    },
+    {
+      "name": "PHENOL",
+      "strength": "25",
+      "unit": "MG"
+    },
+    {
+      "name": "OIL OF CEDAR LEAF",
+      "strength": ".62",
+      "unit": "MG"
+    },
+    {
+      "name": "METHYL SALICYLATE",
+      "strength": "48",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "OINTMENT"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "MTC PHARMACEUTICALS"
+  ],
+  "status": "MARKETED",
+  "atc": []
+}

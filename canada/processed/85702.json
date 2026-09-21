@@ -1,0 +1,28 @@
+{
+  "drug_code": "85702",
+  "din": "02371901",
+  "brand_name": "MAR-CITALOPRAM",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "17-SEP-2012",
+  "active_ingredients": [
+    {
+      "name": "CITALOPRAM (CITALOPRAM HYDROBROMIDE)",
+      "strength": "40",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "MARCAN PHARMACEUTICALS INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "CITALOPRAM"
+  ]
+}

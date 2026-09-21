@@ -1,0 +1,28 @@
+{
+  "drug_code": "95840",
+  "din": "02469596",
+  "brand_name": "KANUMA",
+  "class": "Human",
+  "descriptor": "SINGLE USE, 20MG/10ML",
+  "last_update": "26-APR-2018",
+  "active_ingredients": [
+    {
+      "name": "SEBELIPASE ALFA",
+      "strength": "2",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "ALEXION PHARMA GMBH"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "SEBELIPASE ALFA"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "drug_code": "95623",
+  "din": "02467879",
+  "brand_name": "TRESIBA",
+  "class": "Human",
+  "descriptor": "FLEXTOUCH (PREFILLED PEN)",
+  "last_update": "28-SEP-2017",
+  "active_ingredients": [
+    {
+      "name": "INSULIN DEGLUDEC",
+      "strength": "100",
+      "unit": "UNIT"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "SUBCUTANEOUS"
+  ],
+  "companies": [
+    "NOVO NORDISK CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "INSULIN DEGLUDEC"
+  ]
+}

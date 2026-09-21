@@ -1,0 +1,28 @@
+{
+  "drug_code": "63426",
+  "din": "02239926",
+  "brand_name": "GLUCONORM 2.0MG",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "06-AUG-2004",
+  "active_ingredients": [
+    {
+      "name": "REPAGLINIDE",
+      "strength": "2.0",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "NOVO NORDISK CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "REPAGLINIDE"
+  ]
+}

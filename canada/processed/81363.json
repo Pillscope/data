@@ -1,0 +1,28 @@
+{
+  "drug_code": "81363",
+  "din": "02328127",
+  "brand_name": "GAS RELIEF TABLETS",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "17-JUL-2012",
+  "active_ingredients": [
+    {
+      "name": "SIMETHICONE",
+      "strength": "125",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET (CHEWABLE)"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "GUARDIAN DRUG COMPANY INC"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "SILICONES"
+  ]
+}

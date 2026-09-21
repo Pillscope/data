@@ -1,0 +1,26 @@
+{
+  "drug_code": "83914",
+  "din": "02353938",
+  "brand_name": "VETOLEXIN 250",
+  "class": "Veterinary",
+  "descriptor": "CEPHALEXIN ORAL PASTE",
+  "last_update": "07-DEC-2010",
+  "active_ingredients": [
+    {
+      "name": "CEPHALEXIN (CEPHALEXIN MONOHYDRATE)",
+      "strength": "250",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "PASTE"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "VETOQUINOL N A INC"
+  ],
+  "status": "APPROVED",
+  "atc": []
+}

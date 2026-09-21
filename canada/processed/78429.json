@@ -1,0 +1,28 @@
+{
+  "drug_code": "78429",
+  "din": "02298902",
+  "brand_name": "MAXIMUM STRENGTH ACID REDUCER",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "09-JUN-2011",
+  "active_ingredients": [
+    {
+      "name": "RANITIDINE (RANITIDINE HYDROCHLORIDE)",
+      "strength": "150",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "VITA HEALTH PRODUCTS INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "RANITIDINE"
+  ]
+}

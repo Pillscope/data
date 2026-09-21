@@ -1,0 +1,36 @@
+{
+  "drug_code": "44136",
+  "din": "02169517",
+  "brand_name": "DRONTAL PLUS TABLETS",
+  "class": "Veterinary",
+  "descriptor": "FOR SMALL DOGS",
+  "last_update": "25-NOV-2015",
+  "active_ingredients": [
+    {
+      "name": "PYRANTEL (PYRANTEL PAMOATE)",
+      "strength": "22.7",
+      "unit": "MG"
+    },
+    {
+      "name": "PRAZIQUANTEL",
+      "strength": "22.7",
+      "unit": "MG"
+    },
+    {
+      "name": "FEBANTEL",
+      "strength": "113.4",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "BAYER INC., ANIMAL HEALTH"
+  ],
+  "status": "MARKETED",
+  "atc": []
+}

@@ -1,0 +1,28 @@
+{
+  "drug_code": "2786",
+  "din": "00416002",
+  "brand_name": "ATROPINE SULFATE INJ 15MG/ML",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "08-JUL-2004",
+  "active_ingredients": [
+    {
+      "name": "ATROPINE SULFATE",
+      "strength": "15",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "INTRAMUSCULAR",
+    "INTRAVENOUS",
+    "SUBCUTANEOUS"
+  ],
+  "companies": [
+    "PROFESSIONAL VETERINARY LABORATORIES"
+  ],
+  "status": "MARKETED",
+  "atc": []
+}

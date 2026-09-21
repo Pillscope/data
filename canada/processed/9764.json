@@ -1,0 +1,26 @@
+{
+  "drug_code": "9764",
+  "din": "00785970",
+  "brand_name": "BUTASONE 400 PWR 100MG/GM",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "12-APR-1999",
+  "active_ingredients": [
+    {
+      "name": "PHENYLBUTAZONE",
+      "strength": "100",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "POWDER"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "JAAPHARM CANADA INC."
+  ],
+  "status": "MARKETED",
+  "atc": []
+}

@@ -1,0 +1,39 @@
+{
+  "drug_code": "94902",
+  "din": "02461412",
+  "brand_name": "MYLAN-EFAVIRENZ/EMTRICITABINE/TENOFOVIR DISOPROXIL FUMARATE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "08-AUG-2017",
+  "active_ingredients": [
+    {
+      "name": "EFAVIRENZ",
+      "strength": "600",
+      "unit": "MG"
+    },
+    {
+      "name": "TENOFOVIR DISOPROXIL FUMARATE",
+      "strength": "300",
+      "unit": "MG"
+    },
+    {
+      "name": "EMTRICITABINE",
+      "strength": "200",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "MYLAN PHARMACEUTICALS ULC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "EMTRICITABINE,TENOFOVIR DISOPROXIL AND EFAVIRENZ",
+    "EMTRICITABINE,TENOFOVIR DISOPROXIL AND EFAVIRENZ"
+  ]
+}

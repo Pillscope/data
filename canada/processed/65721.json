@@ -1,0 +1,26 @@
+{
+  "drug_code": "65721",
+  "din": "02242049",
+  "brand_name": "REVOLUTION",
+  "class": "Veterinary",
+  "descriptor": "5.1 - 10.0 KG",
+  "last_update": "24-APR-2015",
+  "active_ingredients": [
+    {
+      "name": "SELAMECTIN",
+      "strength": "60",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "ZOETIS CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": []
+}

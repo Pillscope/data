@@ -1,0 +1,26 @@
+{
+  "drug_code": "94566",
+  "din": "02458535",
+  "brand_name": "PANACUR AQUASOL",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "14-MAR-2017",
+  "active_ingredients": [
+    {
+      "name": "FENBENDAZOLE",
+      "strength": "200",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SUSPENSION"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "INTERVET CANADA CORP"
+  ],
+  "status": "APPROVED",
+  "atc": []
+}

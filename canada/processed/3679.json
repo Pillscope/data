@@ -1,0 +1,33 @@
+{
+  "drug_code": "3679",
+  "din": "00445282",
+  "brand_name": "APO SULFATRIM DS TAB",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "06-MAR-2006",
+  "active_ingredients": [
+    {
+      "name": "SULFAMETHOXAZOLE",
+      "strength": "800",
+      "unit": "MG"
+    },
+    {
+      "name": "TRIMETHOPRIM",
+      "strength": "160",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "APOTEX INC"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "SULFAMETHOXAZOLE AND TRIMETHOPRIM"
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "drug_code": "79438",
+  "din": "02308762",
+  "brand_name": "WARRIOR",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "27-JUL-2016",
+  "active_ingredients": [
+    {
+      "name": "GLYCERINE",
+      "strength": "8.0",
+      "unit": "%"
+    },
+    {
+      "name": "NONYL PHENOXY POLYOXYETHYLENE ETHANOL-IODINE COMPLEX",
+      "strength": "7.5",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "AGRISAN SPECIALTY CHEMICAL & PHARMACEUTICAL"
+  ],
+  "status": "MARKETED",
+  "atc": []
+}

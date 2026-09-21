@@ -1,0 +1,38 @@
+{
+  "drug_code": "90704",
+  "din": "02422352",
+  "brand_name": "BANANA BOAT SPORT PERFORMANCE WITH POWERSTAY TECHNOLOGY SUNSCREEN SPRAY SPF 30",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "28-JAN-2016",
+  "active_ingredients": [
+    {
+      "name": "AVOBENZONE",
+      "strength": "2",
+      "unit": "%"
+    },
+    {
+      "name": "OCTOCRYLENE",
+      "strength": "5",
+      "unit": "%"
+    },
+    {
+      "name": "HOMOSALATE",
+      "strength": "7",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "AEROSOL"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "EDGEWELL PERSONAL CARE CANADA, ULC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "COMBINATIONS OF PROTECTIVES AGAINST UV-RADIATION"
+  ]
+}

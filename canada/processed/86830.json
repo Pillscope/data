@@ -1,0 +1,28 @@
+{
+  "drug_code": "86830",
+  "din": "02382466",
+  "brand_name": "MONTELUKAST",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "27-DEC-2017",
+  "active_ingredients": [
+    {
+      "name": "MONTELUKAST (MONTELUKAST SODIUM)",
+      "strength": "5",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET (CHEWABLE)"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "SIVEM PHARMACEUTICALS ULC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "MONTELUKAST"
+  ]
+}

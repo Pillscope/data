@@ -1,0 +1,29 @@
+{
+  "drug_code": "77708",
+  "din": "02291738",
+  "brand_name": "CEFOXITIN FOR INJECTION, USP",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "09-JUL-2012",
+  "active_ingredients": [
+    {
+      "name": "CEFOXITIN (CEFOXITIN SODIUM)",
+      "strength": "2",
+      "unit": "G"
+    }
+  ],
+  "forms": [
+    "POWDER FOR SOLUTION"
+  ],
+  "routes": [
+    "INTRAMUSCULAR",
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "HOSPIRA HEALTHCARE CORPORATION"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "CEFOXITIN"
+  ]
+}

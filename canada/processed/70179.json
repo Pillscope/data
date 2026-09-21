@@ -1,0 +1,26 @@
+{
+  "drug_code": "70179",
+  "din": "02246048",
+  "brand_name": "CLINACOX 0.5%",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "27-OCT-2017",
+  "active_ingredients": [
+    {
+      "name": "DICLAZURIL",
+      "strength": "5",
+      "unit": "G"
+    }
+  ],
+  "forms": [
+    "DRUG PREMIX"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "ELANCO CANADA LIMITED"
+  ],
+  "status": "APPROVED",
+  "atc": []
+}

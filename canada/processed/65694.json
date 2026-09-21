@@ -1,0 +1,26 @@
+{
+  "drug_code": "65694",
+  "din": "02242023",
+  "brand_name": "TYLAN 100",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "02-MAR-2018",
+  "active_ingredients": [
+    {
+      "name": "TYLOSIN (TYLOSIN PHOSPHATE)",
+      "strength": "220",
+      "unit": "G"
+    }
+  ],
+  "forms": [
+    "DRUG PREMIX"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "ELANCO CANADA LIMITED"
+  ],
+  "status": "APPROVED",
+  "atc": []
+}

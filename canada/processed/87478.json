@@ -1,0 +1,28 @@
+{
+  "drug_code": "87478",
+  "din": "02389282",
+  "brand_name": "DECAPEPTYL",
+  "class": "Human",
+  "descriptor": "PRE-FILLED SYRINGE OF 1 ML SOLUTION FOR INJECTION",
+  "last_update": "30-AUG-2012",
+  "active_ingredients": [
+    {
+      "name": "Triptorelin Acetate",
+      "strength": "0.1",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "SUBCUTANEOUS"
+  ],
+  "companies": [
+    "FERRING INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "TRIPTORELIN"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "drug_code": "18509",
+  "din": "02112809",
+  "brand_name": "SALOFALK",
+  "class": "Human",
+  "descriptor": "ALSO KNOWN AS MESALAMINE",
+  "last_update": "23-MAR-2018",
+  "active_ingredients": [
+    {
+      "name": "MESALAZINE",
+      "strength": "4",
+      "unit": "G"
+    }
+  ],
+  "forms": [
+    "SUSPENSION"
+  ],
+  "routes": [
+    "RECTAL"
+  ],
+  "companies": [
+    "APTALIS PHARMA CANADA ULC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "MESALAZINE"
+  ]
+}

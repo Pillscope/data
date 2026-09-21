@@ -1,0 +1,28 @@
+{
+  "drug_code": "62480",
+  "din": "02239028",
+  "brand_name": "EVISTA (60MG)",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "30-SEP-2009",
+  "active_ingredients": [
+    {
+      "name": "RALOXIFENE HYDROCHLORIDE",
+      "strength": "60",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "ELI LILLY CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "RALOXIFENE"
+  ]
+}

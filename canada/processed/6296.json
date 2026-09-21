@@ -1,0 +1,28 @@
+{
+  "drug_code": "6296",
+  "din": "00655759",
+  "brand_name": "APO-LORAZEPAM TAB 1MG",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "05-SEP-2007",
+  "active_ingredients": [
+    {
+      "name": "LORAZEPAM",
+      "strength": "1",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "APOTEX INC"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "LORAZEPAM"
+  ]
+}

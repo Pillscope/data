@@ -1,0 +1,29 @@
+{
+  "drug_code": "42944",
+  "din": "02194465",
+  "brand_name": "DOXORUBICIN HYDROCHLORIDE FOR INJECTION, USP",
+  "class": "Human",
+  "descriptor": "SINGLE USE",
+  "last_update": "19-OCT-2017",
+  "active_ingredients": [
+    {
+      "name": "DOXORUBICIN HYDROCHLORIDE",
+      "strength": "50",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "POWDER FOR SOLUTION"
+  ],
+  "routes": [
+    "INTRAVENOUS",
+    "INTRAVESICAL"
+  ],
+  "companies": [
+    "HOSPIRA HEALTHCARE CORPORATION"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "DOXORUBICIN"
+  ]
+}

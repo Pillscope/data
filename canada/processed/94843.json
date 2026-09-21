@@ -1,0 +1,28 @@
+{
+  "drug_code": "94843",
+  "din": "02460912",
+  "brand_name": "APO-PHENYTOIN SODIUM",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "05-SEP-2017",
+  "active_ingredients": [
+    {
+      "name": "PHENYTOIN SODIUM",
+      "strength": "100",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "CAPSULE"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "APOTEX INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "PHENYTOIN"
+  ]
+}

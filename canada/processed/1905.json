@@ -1,0 +1,28 @@
+{
+  "drug_code": "1905",
+  "din": "00261998",
+  "brand_name": "SODIUM BICARBONATE INJECTION USP",
+  "class": "Human",
+  "descriptor": "SINGLE-USE (SYRINGE OR VIAL)",
+  "last_update": "24-JUL-2017",
+  "active_ingredients": [
+    {
+      "name": "SODIUM BICARBONATE",
+      "strength": "84",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "PFIZER CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "SODIUM BICARBONATE"
+  ]
+}

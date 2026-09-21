@@ -1,0 +1,29 @@
+{
+  "drug_code": "80463",
+  "din": "02319160",
+  "brand_name": "RESCUE SPORICIDAL LIQUID",
+  "class": "Disinfectant",
+  "descriptor": "",
+  "last_update": "05-FEB-2016",
+  "active_ingredients": [
+    {
+      "name": "HYDROGEN PEROXIDE",
+      "strength": "4.5",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "LIQUID"
+  ],
+  "routes": [
+    "DISINFECTANT (Hospital/HC Facilities)",
+    "DISINFECTANT (Institutional/Industrial)"
+  ],
+  "companies": [
+    "VIROX TECHNOLOGIES INC"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "TECHNICAL DISINFECTANTS"
+  ]
+}

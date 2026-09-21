@@ -1,0 +1,28 @@
+{
+  "drug_code": "94617",
+  "din": "02459027",
+  "brand_name": "COVERGIRL VITALIST ELIXIR FOUNDATION",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "29-MAY-2017",
+  "active_ingredients": [
+    {
+      "name": "ENSULIZOLE",
+      "strength": "3",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "EMULSION"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "HFC PRESTIGE INTERNATIONAL CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "PROTECTIVES AGAINST UV-RADIATION FOR TOPICAL USE"
+  ]
+}

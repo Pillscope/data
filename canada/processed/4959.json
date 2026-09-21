@@ -1,0 +1,28 @@
+{
+  "drug_code": "4959",
+  "din": "00569771",
+  "brand_name": "ZOVIRAX",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "19-APR-2018",
+  "active_ingredients": [
+    {
+      "name": "ACYCLOVIR",
+      "strength": "5",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "OINTMENT"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "VALEANT CANADA LP/VALEANT CANADA S.E.C."
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "ACICLOVIR"
+  ]
+}

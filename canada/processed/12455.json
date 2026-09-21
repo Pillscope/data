@@ -1,0 +1,28 @@
+{
+  "drug_code": "12455",
+  "din": "01958100",
+  "brand_name": "CARDURA-1 TAB 1MG",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "26-JAN-2013",
+  "active_ingredients": [
+    {
+      "name": "DOXAZOSIN (DOXAZOSIN MESYLATE)",
+      "strength": "1",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "PFIZER CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "DOXAZOSIN"
+  ]
+}

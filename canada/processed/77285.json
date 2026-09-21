@@ -1,0 +1,28 @@
+{
+  "drug_code": "77285",
+  "din": "02287447",
+  "brand_name": "EXJADE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "19-FEB-2016",
+  "active_ingredients": [
+    {
+      "name": "DEFERASIROX",
+      "strength": "500",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET FOR SUSPENSION"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "NOVARTIS PHARMACEUTICALS CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "DEFERASIROX"
+  ]
+}

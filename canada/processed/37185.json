@@ -1,0 +1,33 @@
+{
+  "drug_code": "37185",
+  "din": "02218887",
+  "brand_name": "HEMORRHOIDAL OINTMENT",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "18-DEC-2014",
+  "active_ingredients": [
+    {
+      "name": "PRAMOXINE HYDROCHLORIDE",
+      "strength": "1.0",
+      "unit": "%"
+    },
+    {
+      "name": "Zinc sulfate monohydrate",
+      "strength": "0.5",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "OINTMENT"
+  ],
+  "routes": [
+    "RECTAL"
+  ],
+  "companies": [
+    "PHARMASCIENCE INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "PRAMOCAINE"
+  ]
+}

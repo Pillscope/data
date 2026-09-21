@@ -1,0 +1,28 @@
+{
+  "drug_code": "91307",
+  "din": "02428601",
+  "brand_name": "BIFLEXY 900",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "07-OCT-2016",
+  "active_ingredients": [
+    {
+      "name": "SODIUM BICARBONATE",
+      "strength": "900",
+      "unit": "G"
+    }
+  ],
+  "forms": [
+    "POWDER FOR SOLUTION"
+  ],
+  "routes": [
+    "DIALYSIS"
+  ],
+  "companies": [
+    "BELLCO SRL"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "HEMODIALYTICS, CONCENTRATES"
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "drug_code": "86672",
+  "din": "02380978",
+  "brand_name": "NO 7 BEAUTIFUL SKIN DAY CREAM NORMAL/OILY SPF 15",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "11-JUN-2013",
+  "active_ingredients": [
+    {
+      "name": "AVOBENZONE",
+      "strength": "3",
+      "unit": "%"
+    },
+    {
+      "name": "OCTOCRYLENE",
+      "strength": "4",
+      "unit": "%"
+    },
+    {
+      "name": "OCTISALATE",
+      "strength": "2",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "CREAM"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "THE BOOTS COMPANY PLC"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "COMBINATIONS OF PROTECTIVES AGAINST UV-RADIATION"
+  ]
+}

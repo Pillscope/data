@@ -1,0 +1,28 @@
+{
+  "drug_code": "85155",
+  "din": "02366711",
+  "brand_name": "CISPLATIN INJECTION BP",
+  "class": "Human",
+  "descriptor": "10MG/10ML, 50MG/50ML, 100MG/100ML",
+  "last_update": "03-JUL-2013",
+  "active_ingredients": [
+    {
+      "name": "CISPLATIN",
+      "strength": "1",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "SANDOZ CANADA INCORPORATED"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "CISPLATIN"
+  ]
+}

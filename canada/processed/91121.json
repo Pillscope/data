@@ -1,0 +1,28 @@
+{
+  "drug_code": "91121",
+  "din": "02426633",
+  "brand_name": "MYLAN-DULOXETINE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "29-APR-2017",
+  "active_ingredients": [
+    {
+      "name": "DULOXETINE (DULOXETINE HYDROCHLORIDE)",
+      "strength": "30",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "CAPSULE (DELAYED RELEASE)"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "MYLAN PHARMACEUTICALS ULC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "DULOXETINE"
+  ]
+}

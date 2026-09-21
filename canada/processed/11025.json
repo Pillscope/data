@@ -1,0 +1,28 @@
+{
+  "drug_code": "11025",
+  "din": "00852015",
+  "brand_name": "ENTROPHEN ECT 500MG",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "15-NOV-2013",
+  "active_ingredients": [
+    {
+      "name": "ACETYLSALICYLIC ACID",
+      "strength": "500",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET (ENTERIC-COATED)"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "PENDOPHARM DIVISION OF DE PHARMASCIENCE INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "ACETYLSALICYLIC ACID"
+  ]
+}

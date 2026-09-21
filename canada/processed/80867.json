@@ -1,0 +1,28 @@
+{
+  "drug_code": "80867",
+  "din": "02323184",
+  "brand_name": "HEMACLENSE",
+  "class": "Disinfectant",
+  "descriptor": "",
+  "last_update": "16-AUG-2013",
+  "active_ingredients": [
+    {
+      "name": "SODIUM HYPOCHLORITE",
+      "strength": "1.15",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "DISINFECTANT (Medical Instruments)"
+  ],
+  "companies": [
+    "CHIEF MEDICAL SUPPLIES LTD"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "TECHNICAL DISINFECTANTS"
+  ]
+}

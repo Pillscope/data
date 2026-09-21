@@ -1,0 +1,28 @@
+{
+  "drug_code": "44184",
+  "din": "02172720",
+  "brand_name": "OMNIPAQUE 180",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "30-MAY-2007",
+  "active_ingredients": [
+    {
+      "name": "IOHEXOL",
+      "strength": "388",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "SUBARACHNOIDAL"
+  ],
+  "companies": [
+    "GE HEALTHCARE CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "IOHEXOL"
+  ]
+}

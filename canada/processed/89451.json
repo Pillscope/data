@@ -1,0 +1,33 @@
+{
+  "drug_code": "89451",
+  "din": "02409852",
+  "brand_name": "FLAWLESS FINISH PERFECTLY NUDE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "03-FEB-2014",
+  "active_ingredients": [
+    {
+      "name": "TITANIUM DIOXIDE",
+      "strength": "1.26",
+      "unit": "%"
+    },
+    {
+      "name": "OCTINOXATE",
+      "strength": "4.00",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "LOTION"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "ELIZABETH ARDEN (CANADA) LIMITED"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "COMBINATIONS OF PROTECTIVES AGAINST UV-RADIATION"
+  ]
+}

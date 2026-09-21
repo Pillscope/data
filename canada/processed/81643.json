@@ -1,0 +1,33 @@
+{
+  "drug_code": "81643",
+  "din": "02330687",
+  "brand_name": "TROPICAL VANILLA SUN CREAM",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "02-SEP-2009",
+  "active_ingredients": [
+    {
+      "name": "ZINC OXIDE",
+      "strength": "5.00",
+      "unit": "%"
+    },
+    {
+      "name": "OCTINOXATE",
+      "strength": "6.00",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "CREAM"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "EMINENCE ORGANIC SKIN CARE"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "COMBINATIONS OF PROTECTIVES AGAINST UV-RADIATION"
+  ]
+}

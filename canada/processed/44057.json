@@ -1,0 +1,28 @@
+{
+  "drug_code": "44057",
+  "din": "02155958",
+  "brand_name": "CIPRO",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "31-MAY-2017",
+  "active_ingredients": [
+    {
+      "name": "CIPROFLOXACIN (CIPROFLOXACIN HYDROCHLORIDE)",
+      "strength": "250",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "BAYER INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "CIPROFLOXACIN"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "drug_code": "84728",
+  "din": "02362260",
+  "brand_name": "APO-DONEPEZIL",
+  "class": "Human",
+  "descriptor": "FILM-COATED",
+  "last_update": "08-JAN-2014",
+  "active_ingredients": [
+    {
+      "name": "DONEPEZIL HYDROCHLORIDE (DONEPEZIL HYDROCHLORIDE MONOHYDRATE)",
+      "strength": "5",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "APOTEX INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "DONEPEZIL"
+  ]
+}

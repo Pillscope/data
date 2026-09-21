@@ -1,0 +1,31 @@
+{
+  "drug_code": "47385",
+  "din": "02229489",
+  "brand_name": "SULFA-MT",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "02-JAN-2018",
+  "active_ingredients": [
+    {
+      "name": "SULFATHIAZOLE SODIUM",
+      "strength": "315",
+      "unit": "MG"
+    },
+    {
+      "name": "SULFAMETHAZINE SODIUM",
+      "strength": "630",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "POWDER FOR SOLUTION"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "VETOQUINOL N A INC"
+  ],
+  "status": "APPROVED",
+  "atc": []
+}

@@ -1,0 +1,43 @@
+{
+  "drug_code": "5902",
+  "din": "00611875",
+  "brand_name": "PROMO 155 INJ",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "23-MAR-2005",
+  "active_ingredients": [
+    {
+      "name": "NICOTINAMIDE",
+      "strength": "100",
+      "unit": "MG"
+    },
+    {
+      "name": "RIBOFLAVIN 5'-PHOSPHATE SODIUM",
+      "strength": "10",
+      "unit": "MG"
+    },
+    {
+      "name": "FERRIC AMMONIUM CITRATE",
+      "strength": "15",
+      "unit": "MG"
+    },
+    {
+      "name": "VITAMIN B12",
+      "strength": "150",
+      "unit": "MCG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "INTRAMUSCULAR"
+  ],
+  "companies": [
+    "DOMINION VETERINARY LABORATORIES LTD."
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "VITAMINS WITH MINERALS"
+  ]
+}

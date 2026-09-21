@@ -1,0 +1,28 @@
+{
+  "drug_code": "6827",
+  "din": "00707570",
+  "brand_name": "APO FUROSEMIDE TAB 80MG",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "02-MAR-2010",
+  "active_ingredients": [
+    {
+      "name": "FUROSEMIDE",
+      "strength": "80",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "APOTEX INC"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "FUROSEMIDE"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "drug_code": "93692",
+  "din": "02450771",
+  "brand_name": "BUTRANS 15",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "27-JUN-2016",
+  "active_ingredients": [
+    {
+      "name": "BUPRENORPHINE",
+      "strength": "15",
+      "unit": "MCG"
+    }
+  ],
+  "forms": [
+    "PATCH"
+  ],
+  "routes": [
+    "TRANSDERMAL"
+  ],
+  "companies": [
+    "PURDUE PHARMA"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "BUPRENORPHINE"
+  ]
+}

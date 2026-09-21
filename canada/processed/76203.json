@@ -1,0 +1,29 @@
+{
+  "drug_code": "76203",
+  "din": "02276356",
+  "brand_name": "VIRKON AQUATIC",
+  "class": "Disinfectant",
+  "descriptor": "",
+  "last_update": "19-APR-2010",
+  "active_ingredients": [
+    {
+      "name": "POTASSIUM PEROXYMONOSULFATE",
+      "strength": "21.4",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "POWDER FOR SOLUTION"
+  ],
+  "routes": [
+    "DISINFECTANT (Food Premises)",
+    "DISINFECTANT (Institutional/Industrial)"
+  ],
+  "companies": [
+    "VETOQUINOL N A INC"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "TECHNICAL DISINFECTANTS"
+  ]
+}

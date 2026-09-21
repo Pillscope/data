@@ -1,0 +1,28 @@
+{
+  "drug_code": "52492",
+  "din": "02233007",
+  "brand_name": "TEVA-ENALAPRIL",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "29-APR-2015",
+  "active_ingredients": [
+    {
+      "name": "ENALAPRIL SODIUM",
+      "strength": "16",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "TEVA CANADA LIMITED"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "ENALAPRIL"
+  ]
+}

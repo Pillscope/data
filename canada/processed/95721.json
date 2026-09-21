@@ -1,0 +1,33 @@
+{
+  "drug_code": "95721",
+  "din": "02468735",
+  "brand_name": "AKYNZEO",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "05-JAN-2018",
+  "active_ingredients": [
+    {
+      "name": "PALONOSETRON (PALONOSETRON HYDROCHLORIDE)",
+      "strength": "0.5",
+      "unit": "MG"
+    },
+    {
+      "name": "NETUPITANT",
+      "strength": "300",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "CAPSULE"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "PURDUE PHARMA"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "ANTIEMETICS AND ANTINAUSEANTS"
+  ]
+}

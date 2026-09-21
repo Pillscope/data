@@ -1,0 +1,48 @@
+{
+  "drug_code": "81911",
+  "din": "02333473",
+  "brand_name": "PC SPF FPS 50+ KIDS SUNSCREEN CONTINUOUS SPRAY",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "13-MAY-2015",
+  "active_ingredients": [
+    {
+      "name": "AVOBENZONE",
+      "strength": "2.1",
+      "unit": "%"
+    },
+    {
+      "name": "OCTOCRYLENE",
+      "strength": "7.0",
+      "unit": "%"
+    },
+    {
+      "name": "OXYBENZONE",
+      "strength": "4.2",
+      "unit": "%"
+    },
+    {
+      "name": "OCTISALATE",
+      "strength": "3.5",
+      "unit": "%"
+    },
+    {
+      "name": "HOMOSALATE",
+      "strength": "10.5",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "SPRAY, BAG-ON-VALVE"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "EMPACK SPRAYTECH INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "COMBINATIONS OF PROTECTIVES AGAINST UV-RADIATION"
+  ]
+}

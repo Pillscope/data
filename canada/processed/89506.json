@@ -1,0 +1,29 @@
+{
+  "drug_code": "89506",
+  "din": "02410397",
+  "brand_name": "DOXORUBICIN",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "16-SEP-2014",
+  "active_ingredients": [
+    {
+      "name": "DOXORUBICIN HYDROCHLORIDE",
+      "strength": "2",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "INTRAVENOUS",
+    "INTRAVESICAL"
+  ],
+  "companies": [
+    "PFIZER CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "DOXORUBICIN"
+  ]
+}

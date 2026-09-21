@@ -1,0 +1,33 @@
+{
+  "drug_code": "87475",
+  "din": "02389258",
+  "brand_name": "COPPERTONE SUNSCREEN DRY OIL CONTINUOUS SPRAY SPF 4",
+  "class": "Human",
+  "descriptor": "SOLUTION",
+  "last_update": "25-AUG-2017",
+  "active_ingredients": [
+    {
+      "name": "OXYBENZONE",
+      "strength": "2",
+      "unit": "%"
+    },
+    {
+      "name": "HOMOSALATE",
+      "strength": "10",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "SPRAY, BAG-ON-VALVE"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "BAYER INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "COMBINATIONS OF PROTECTIVES AGAINST UV-RADIATION"
+  ]
+}

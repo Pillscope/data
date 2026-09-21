@@ -1,0 +1,28 @@
+{
+  "drug_code": "87237",
+  "din": "02386771",
+  "brand_name": "MAR-ZOPICLONE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "25-APR-2013",
+  "active_ingredients": [
+    {
+      "name": "ZOPICLONE",
+      "strength": "5",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "MARCAN PHARMACEUTICALS INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "ZOPICLONE"
+  ]
+}

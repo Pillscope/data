@@ -1,0 +1,34 @@
+{
+  "drug_code": "73131",
+  "din": "02248763",
+  "brand_name": "APO-ATENIDONE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "22-AUG-2011",
+  "active_ingredients": [
+    {
+      "name": "ATENOLOL",
+      "strength": "50",
+      "unit": "MG"
+    },
+    {
+      "name": "CHLORTHALIDONE",
+      "strength": "25",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "APOTEX INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "ATENOLOL AND OTHER DIURETICS",
+    "ATENOLOL AND OTHER DIURETICS"
+  ]
+}

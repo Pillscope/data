@@ -1,0 +1,28 @@
+{
+  "drug_code": "11102",
+  "din": "00839396",
+  "brand_name": "PRINIVIL",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "13-NOV-2012",
+  "active_ingredients": [
+    {
+      "name": "LISINOPRIL",
+      "strength": "10",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "MERCK CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "LISINOPRIL"
+  ]
+}

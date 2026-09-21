@@ -1,0 +1,28 @@
+{
+  "drug_code": "2214",
+  "din": "00335061",
+  "brand_name": "ELAVIL",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "04-NOV-2010",
+  "active_ingredients": [
+    {
+      "name": "AMITRIPTYLINE HYDROCHLORIDE",
+      "strength": "25",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "AA PHARMA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "AMITRIPTYLINE"
+  ]
+}

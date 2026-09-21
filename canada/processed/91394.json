@@ -1,0 +1,28 @@
+{
+  "drug_code": "91394",
+  "din": "02429489",
+  "brand_name": "INNOHEP",
+  "class": "Human",
+  "descriptor": "UNIT DOSE 0.8ML PRE-FILLED SYRINGES. 20000 ANTI-XA IU/ML. PRESERVATIVE FREE",
+  "last_update": "21-SEP-2017",
+  "active_ingredients": [
+    {
+      "name": "TINZAPARIN SODIUM",
+      "strength": "16000",
+      "unit": "UNIT"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "SUBCUTANEOUS"
+  ],
+  "companies": [
+    "LEO PHARMA INC"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "TINZAPARIN"
+  ]
+}

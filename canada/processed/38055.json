@@ -1,0 +1,28 @@
+{
+  "drug_code": "38055",
+  "din": "00695440",
+  "brand_name": "QUININE - ODAN",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "29-APR-2015",
+  "active_ingredients": [
+    {
+      "name": "QUININE SULFATE",
+      "strength": "200",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "CAPSULE"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "ODAN LABORATORIES LTD"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "QUININE"
+  ]
+}

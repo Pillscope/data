@@ -1,0 +1,29 @@
+{
+  "drug_code": "14570",
+  "din": "02035324",
+  "brand_name": "RHINOCORT TURBUHALER 100 MCG/DOSE",
+  "class": "Human",
+  "descriptor": "FOR NASAL INHALATION ONLY",
+  "last_update": "20-JUN-2017",
+  "active_ingredients": [
+    {
+      "name": "BUDESONIDE",
+      "strength": "100",
+      "unit": "MCG"
+    }
+  ],
+  "forms": [
+    "POWDER"
+  ],
+  "routes": [
+    "INHALATION",
+    "NASAL"
+  ],
+  "companies": [
+    "ASTRAZENECA CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "BUDESONIDE"
+  ]
+}

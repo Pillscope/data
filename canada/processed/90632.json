@@ -1,0 +1,28 @@
+{
+  "drug_code": "90632",
+  "din": "02421666",
+  "brand_name": "ORAVERSE",
+  "class": "Human",
+  "descriptor": "FOR INTRAORAL SUBMUCOSAL INJECTION ONLY",
+  "last_update": "09-JAN-2018",
+  "active_ingredients": [
+    {
+      "name": "PHENTOLAMINE MESYLATE",
+      "strength": "0.4",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "SUBMUCOSAL"
+  ],
+  "companies": [
+    "SEPTODONT"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "PHENTOLAMINE"
+  ]
+}

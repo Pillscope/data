@@ -1,0 +1,28 @@
+{
+  "drug_code": "85509",
+  "din": "02370069",
+  "brand_name": "BENLYSTA",
+  "class": "Human",
+  "descriptor": "FOR I.V. INFUSION ONLY. 80MG/ML (RECONST.) - 20ML VIAL.",
+  "last_update": "30-MAY-2013",
+  "active_ingredients": [
+    {
+      "name": "BELIMUMAB",
+      "strength": "400",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "POWDER FOR SOLUTION"
+  ],
+  "routes": [
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "GLAXOSMITHKLINE INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "BELIMUMAB"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "drug_code": "82422",
+  "din": "02338572",
+  "brand_name": "SILKIS",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "07-MAY-2010",
+  "active_ingredients": [
+    {
+      "name": "CALCITRIOL",
+      "strength": "3",
+      "unit": "MCG"
+    }
+  ],
+  "forms": [
+    "OINTMENT"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "GALDERMA CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "CALCITRIOL"
+  ]
+}

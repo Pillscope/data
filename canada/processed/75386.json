@@ -1,0 +1,28 @@
+{
+  "drug_code": "75386",
+  "din": "02268485",
+  "brand_name": "LYRICA",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "28-NOV-2007",
+  "active_ingredients": [
+    {
+      "name": "PREGABALIN",
+      "strength": "300",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "CAPSULE"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "PFIZER CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "PREGABALIN"
+  ]
+}

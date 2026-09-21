@@ -1,0 +1,28 @@
+{
+  "drug_code": "92781",
+  "din": "02443236",
+  "brand_name": "DEXTROAMPHETAMINE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "12-APR-2018",
+  "active_ingredients": [
+    {
+      "name": "DEXTROAMPHETAMINE SULFATE",
+      "strength": "5",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "AA PHARMA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "DEXAMFETAMINE"
+  ]
+}

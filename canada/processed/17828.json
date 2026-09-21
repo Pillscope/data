@@ -1,0 +1,28 @@
+{
+  "drug_code": "17828",
+  "din": "02147629",
+  "brand_name": "APO-ACEBUTOLOL",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "11-FEB-2011",
+  "active_ingredients": [
+    {
+      "name": "ACEBUTOLOL (ACEBUTOLOL HYDROCHLORIDE)",
+      "strength": "400",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "APOTEX INC"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "ACEBUTOLOL"
+  ]
+}

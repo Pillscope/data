@@ -1,0 +1,26 @@
+{
+  "drug_code": "86858",
+  "din": "02382776",
+  "brand_name": "EPIPHEN 30MG",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "26-JAN-2016",
+  "active_ingredients": [
+    {
+      "name": "PHENOBARBITAL",
+      "strength": "30",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "VETOQUINOL N A INC"
+  ],
+  "status": "APPROVED",
+  "atc": []
+}

@@ -1,0 +1,28 @@
+{
+  "drug_code": "81397",
+  "din": "02328445",
+  "brand_name": "ADVIL PEDIATRIC DROPS FEVER FROM COLDS OR FLU",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "30-JAN-2013",
+  "active_ingredients": [
+    {
+      "name": "IBUPROFEN",
+      "strength": "40",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SUSPENSION"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "PFIZER CONSUMER HEALTHCARE A DIVISION OF PFIZER CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "IBUPROFEN"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "drug_code": "43282",
+  "din": "02220520",
+  "brand_name": "BROMAZEPAM-3 - TAB 3MG",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "07-MAY-2008",
+  "active_ingredients": [
+    {
+      "name": "BROMAZEPAM",
+      "strength": "3",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "PRO DOC LIMITEE"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "BROMAZEPAM"
+  ]
+}

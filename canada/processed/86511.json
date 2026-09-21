@@ -1,0 +1,28 @@
+{
+  "drug_code": "86511",
+  "din": "02379236",
+  "brand_name": "MONTELUKAST SODIUM TABLETS",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "30-MAR-2012",
+  "active_ingredients": [
+    {
+      "name": "MONTELUKAST (MONTELUKAST SODIUM)",
+      "strength": "10",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "ACCORD HEALTHCARE INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "MONTELUKAST"
+  ]
+}

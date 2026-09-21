@@ -1,0 +1,28 @@
+{
+  "drug_code": "14532",
+  "din": "02031094",
+  "brand_name": "LAMISIL CRM 1%",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "05-JUN-2006",
+  "active_ingredients": [
+    {
+      "name": "TERBINAFINE HYDROCHLORIDE",
+      "strength": "1",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "CREAM"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "NOVARTIS PHARMACEUTICALS CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "TERBINAFINE"
+  ]
+}

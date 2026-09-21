@@ -1,0 +1,39 @@
+{
+  "drug_code": "73681",
+  "din": "02251914",
+  "brand_name": "ACETAMINOPHEN, CAFFEINE, AND 8MG OF CODEINE PHOSPHATE TABLETS",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "03-FEB-2017",
+  "active_ingredients": [
+    {
+      "name": "CODEINE PHOSPHATE",
+      "strength": "8",
+      "unit": "MG"
+    },
+    {
+      "name": "ACETAMINOPHEN",
+      "strength": "300",
+      "unit": "MG"
+    },
+    {
+      "name": "CAFFEINE",
+      "strength": "15",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "PHARMETICS (2011) INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "CODEINE AND PARACETAMOL",
+    "CODEINE AND PARACETAMOL"
+  ]
+}

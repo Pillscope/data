@@ -1,0 +1,28 @@
+{
+  "drug_code": "94236",
+  "din": "02455560",
+  "brand_name": "MUSCLE ACHES AND BODY PAIN RELIEF",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "05-FEB-2018",
+  "active_ingredients": [
+    {
+      "name": "ACETAMINOPHEN",
+      "strength": "650",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET (EXTENDED-RELEASE)"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "VITA HEALTH PRODUCTS INC"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "ACETAMINOPHEN (PARACETAMOL)"
+  ]
+}

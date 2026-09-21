@@ -1,0 +1,28 @@
+{
+  "drug_code": "36954",
+  "din": "02213281",
+  "brand_name": "DERMOVATE SCALP APPLICATION",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "03-MAY-2004",
+  "active_ingredients": [
+    {
+      "name": "CLOBETASOL PROPIONATE",
+      "strength": ".05",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "TAROPHARMA, A DIVISION OF TARO PHARMACEUTICALS INC."
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "CLOBETASOL"
+  ]
+}

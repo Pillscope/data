@@ -1,0 +1,28 @@
+{
+  "drug_code": "76058",
+  "din": "02275074",
+  "brand_name": "SANDOZ BUPROPION SR",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "08-DEC-2008",
+  "active_ingredients": [
+    {
+      "name": "BUPROPION HYDROCHLORIDE",
+      "strength": "100",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET (EXTENDED-RELEASE)"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "SANDOZ CANADA INCORPORATED"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "BUPROPION"
+  ]
+}

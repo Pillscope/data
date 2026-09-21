@@ -1,0 +1,28 @@
+{
+  "drug_code": "82412",
+  "din": "02338467",
+  "brand_name": "SANDOZ ANASTROZOLE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "02-OCT-2012",
+  "active_ingredients": [
+    {
+      "name": "ANASTROZOLE",
+      "strength": "1",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "SANDOZ CANADA INCORPORATED"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "ANASTROZOLE"
+  ]
+}

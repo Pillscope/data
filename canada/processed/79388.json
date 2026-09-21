@@ -1,0 +1,28 @@
+{
+  "drug_code": "79388",
+  "din": "02308215",
+  "brand_name": "RELISTOR",
+  "class": "Human",
+  "descriptor": "12MG/0.6ML - SINGLE USE VIAL.",
+  "last_update": "24-MAY-2012",
+  "active_ingredients": [
+    {
+      "name": "METHYLNALTREXONE BROMIDE",
+      "strength": "20",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "SUBCUTANEOUS"
+  ],
+  "companies": [
+    "SALIX PHARMACEUTICALS INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "METHYLNALTREXONE BROMIDE"
+  ]
+}

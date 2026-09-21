@@ -1,0 +1,28 @@
+{
+  "drug_code": "62136",
+  "din": "02238704",
+  "brand_name": "ESTROGEL",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "03-AUG-2017",
+  "active_ingredients": [
+    {
+      "name": "ESTRADIOL (ESTRADIOL HEMIHYDRATE)",
+      "strength": "0.06",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "GEL"
+  ],
+  "routes": [
+    "TRANSDERMAL"
+  ],
+  "companies": [
+    "MERCK CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "ESTRADIOL"
+  ]
+}

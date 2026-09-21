@@ -1,0 +1,56 @@
+{
+  "drug_code": "4161",
+  "din": "00526053",
+  "brand_name": "SCARLET OIL PUMP SPRAY",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "09-OCT-2002",
+  "active_ingredients": [
+    {
+      "name": "PHENOL",
+      "strength": "7.5",
+      "unit": "MG"
+    },
+    {
+      "name": "OIL OF CAMPHOR",
+      "strength": "7.5",
+      "unit": "MG"
+    },
+    {
+      "name": "PINE OIL",
+      "strength": "7.5",
+      "unit": "MG"
+    },
+    {
+      "name": "EUCALYPTUS OIL",
+      "strength": "7.5",
+      "unit": "MG"
+    },
+    {
+      "name": "MENTHOL",
+      "strength": "7.5",
+      "unit": "MG"
+    },
+    {
+      "name": "PERUVIAN BALSAM",
+      "strength": "1.5",
+      "unit": "MG"
+    },
+    {
+      "name": "OIL OF THYME",
+      "strength": "2.8",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SPRAY"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "DOMINION VETERINARY LABORATORIES LTD."
+  ],
+  "status": "MARKETED",
+  "atc": []
+}

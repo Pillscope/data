@@ -1,0 +1,28 @@
+{
+  "drug_code": "74165",
+  "din": "02256444",
+  "brand_name": "PMS-SUMATRIPTAN",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "09-NOV-2006",
+  "active_ingredients": [
+    {
+      "name": "SUMATRIPTAN (SUMATRIPTAN SUCCINATE)",
+      "strength": "100",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "PHARMASCIENCE INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "SUMATRIPTAN"
+  ]
+}

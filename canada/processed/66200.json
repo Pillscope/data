@@ -1,0 +1,31 @@
+{
+  "drug_code": "66200",
+  "din": "02242474",
+  "brand_name": "BENEFECT BOTANICAL DISINFECTANT",
+  "class": "Disinfectant",
+  "descriptor": "",
+  "last_update": "08-AUG-2014",
+  "active_ingredients": [
+    {
+      "name": "THYMOL (THYME OIL)",
+      "strength": "0.23",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "SPRAY"
+  ],
+  "routes": [
+    "DISINFECTANT (Food Premises)",
+    "DISINFECTANT (Hospital/HC Facilities)",
+    "DISINFECTANT (Domestic)",
+    "DISINFECTANT (Institutional/Industrial)"
+  ],
+  "companies": [
+    "SENSIBLE LIFE PRODUCTS"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "TECHNICAL DISINFECTANTS"
+  ]
+}

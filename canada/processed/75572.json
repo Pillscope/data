@@ -1,0 +1,28 @@
+{
+  "drug_code": "75572",
+  "din": "02270331",
+  "brand_name": "GAS X THIN STRIPS 62.5MG SIMETHICONE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "19-MAY-2016",
+  "active_ingredients": [
+    {
+      "name": "SIMETHICONE",
+      "strength": "62.5",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "STRIP"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "GLAXOSMITHKLINE CONSUMER HEALTHCARE INC."
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "SILICONES"
+  ]
+}

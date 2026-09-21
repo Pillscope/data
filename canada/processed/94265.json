@@ -1,0 +1,28 @@
+{
+  "drug_code": "94265",
+  "din": "02455838",
+  "brand_name": "CAVILON DURABLE BARRIER CREAM",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "03-MAY-2017",
+  "active_ingredients": [
+    {
+      "name": "DIMETHICONE",
+      "strength": "1.3",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "CREAM"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "3M CANADA COMPANY"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "SOFT PARAFFIN AND FAT PRODUCTS"
+  ]
+}

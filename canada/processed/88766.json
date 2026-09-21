@@ -1,0 +1,28 @@
+{
+  "drug_code": "88766",
+  "din": "02402823",
+  "brand_name": "APO-OLOPATADINE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "05-SEP-2014",
+  "active_ingredients": [
+    {
+      "name": "OLOPATADINE (OLOPATADINE HYDROCHLORIDE)",
+      "strength": "0.2",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "OPHTHALMIC"
+  ],
+  "companies": [
+    "APOTEX INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "OLOPATADINE"
+  ]
+}

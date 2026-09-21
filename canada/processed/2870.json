@@ -1,0 +1,28 @@
+{
+  "drug_code": "2870",
+  "din": "00417246",
+  "brand_name": "DIPROSONE LOTION",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "25-APR-2017",
+  "active_ingredients": [
+    {
+      "name": "BETAMETHASONE (BETAMETHASONE DIPROPIONATE)",
+      "strength": "0.05",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "LOTION"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "MERCK CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "BETAMETHASONE"
+  ]
+}

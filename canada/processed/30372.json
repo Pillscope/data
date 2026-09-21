@@ -1,0 +1,28 @@
+{
+  "drug_code": "30372",
+  "din": "02119242",
+  "brand_name": "FS ANTIMICROBIAL HAND CLEANER - 2.5% LIQ",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "15-SEP-2006",
+  "active_ingredients": [
+    {
+      "name": "BENZALKONIUM CHLORIDE",
+      "strength": "2.5",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "LIQUID"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "ZEP MANUFACTURING COMPANY OF CANADA"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "BENZALKONIUM"
+  ]
+}

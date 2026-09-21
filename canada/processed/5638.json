@@ -1,0 +1,28 @@
+{
+  "drug_code": "5638",
+  "din": "00586676",
+  "brand_name": "FUCIDIN OINTMENT 2%",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "15-JAN-2016",
+  "active_ingredients": [
+    {
+      "name": "FUSIDATE SODIUM",
+      "strength": "2",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "OINTMENT"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "LEO PHARMA INC"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "FUSIDIC ACID"
+  ]
+}

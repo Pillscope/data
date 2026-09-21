@@ -1,0 +1,26 @@
+{
+  "drug_code": "5191",
+  "din": "00574910",
+  "brand_name": "MOXILEAN (AMOXICILLIN TABLETS 100MG)",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "05-MAY-2015",
+  "active_ingredients": [
+    {
+      "name": "AMOXICILLIN (AMOXICILLIN TRIHYDRATE)",
+      "strength": "100",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "BIMEDA-MTC ANIMAL HEALTH INC"
+  ],
+  "status": "APPROVED",
+  "atc": []
+}

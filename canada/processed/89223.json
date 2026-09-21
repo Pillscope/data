@@ -1,0 +1,26 @@
+{
+  "drug_code": "89223",
+  "din": "02407558",
+  "brand_name": "DERACIN 22% GRANULAR PREMIX",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "29-JAN-2018",
+  "active_ingredients": [
+    {
+      "name": "CHLORTETRACYCLINE HYDROCHLORIDE (CHLORTETRACYCLINE CALCIUM COMPLEX)",
+      "strength": "220",
+      "unit": "G"
+    }
+  ],
+  "forms": [
+    "DRUG PREMIX"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "PHARMGATE LLC"
+  ],
+  "status": "APPROVED",
+  "atc": []
+}

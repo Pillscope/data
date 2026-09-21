@@ -1,0 +1,28 @@
+{
+  "drug_code": "87067",
+  "din": "02385007",
+  "brand_name": "NAPROXEN SODIUM TABLETS",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "12-SEP-2014",
+  "active_ingredients": [
+    {
+      "name": "NAPROXEN SODIUM",
+      "strength": "220",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "APOTEX INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "NAPROXEN"
+  ]
+}

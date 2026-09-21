@@ -1,0 +1,28 @@
+{
+  "drug_code": "86313",
+  "din": "02377411",
+  "brand_name": "ANTICOAGULANT SODIUM CITRATE 4% W/V SOLUTION, USP",
+  "class": "Human",
+  "descriptor": "FOR USE WITH APHERESIS DEVICES ONLY. NOT FOR DIRECT I.V. INFUSION.",
+  "last_update": "14-MAR-2018",
+  "active_ingredients": [
+    {
+      "name": "SODIUM CITRATE DIHYDRATE",
+      "strength": "4",
+      "unit": "G"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "0-UNASSIGNED"
+  ],
+  "companies": [
+    "HAEMONETICS CORPORATION"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "BLOOD TRANSFUSION, AUXILIARY PRODUCTS"
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "drug_code": "74675",
+  "din": "02261464",
+  "brand_name": "MALACETIC OTIC",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "10-NOV-2015",
+  "active_ingredients": [
+    {
+      "name": "BORIC ACID",
+      "strength": "2",
+      "unit": "%"
+    },
+    {
+      "name": "ACETIC ACID",
+      "strength": "2",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "OTIC"
+  ],
+  "companies": [
+    "DECHRA LTD"
+  ],
+  "status": "APPROVED",
+  "atc": []
+}

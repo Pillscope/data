@@ -1,0 +1,43 @@
+{
+  "drug_code": "5708",
+  "din": "00569046",
+  "brand_name": "TRACE ELEMENTS INJECTION USP",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "31-AUG-2017",
+  "active_ingredients": [
+    {
+      "name": "CUPRIC CHLORIDE",
+      "strength": "0.42",
+      "unit": "MG"
+    },
+    {
+      "name": "MANGANESE CHLORIDE",
+      "strength": "0.37",
+      "unit": "MG"
+    },
+    {
+      "name": "ZINC CHLORIDE",
+      "strength": "1.67",
+      "unit": "MG"
+    },
+    {
+      "name": "CHROMIC CHLORIDE",
+      "strength": "6",
+      "unit": "MCG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "PFIZER CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "ELECTROLYTES IN COMB WITH OTHER DRUGS"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "drug_code": "49157",
+  "din": "02230360",
+  "brand_name": "TEVA-MEXILETINE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "28-JUL-2016",
+  "active_ingredients": [
+    {
+      "name": "MEXILETINE HYDROCHLORIDE",
+      "strength": "200",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "CAPSULE"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "TEVA CANADA LIMITED"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "MEXILETINE"
+  ]
+}

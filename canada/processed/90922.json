@@ -1,0 +1,28 @@
+{
+  "drug_code": "90922",
+  "din": "02424533",
+  "brand_name": "JAMP-CELECOXIB",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "05-JUL-2016",
+  "active_ingredients": [
+    {
+      "name": "CELECOXIB",
+      "strength": "100",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "CAPSULE"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "JAMP PHARMA CORPORATION"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "CELECOXIB"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "drug_code": "68992",
+  "din": "02244993",
+  "brand_name": "ASA 81 MG",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "15-NOV-2017",
+  "active_ingredients": [
+    {
+      "name": "ACETYLSALICYLIC ACID",
+      "strength": "81",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET (DELAYED-RELEASE)"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "PHARMASCIENCE INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "ACETYLSALICYLIC ACID"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "drug_code": "74220",
+  "din": "02256975",
+  "brand_name": "PROSHIELD PLUS",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "23-JUN-2016",
+  "active_ingredients": [
+    {
+      "name": "DIMETHICONE",
+      "strength": "1",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "OINTMENT"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "SMITH & NEPHEW INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "SILICONE PRODUCTS"
+  ]
+}

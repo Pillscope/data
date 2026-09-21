@@ -1,0 +1,33 @@
+{
+  "drug_code": "88096",
+  "din": "02395916",
+  "brand_name": "SUNSCREEN LOTION FAMILY SPF 30",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "08-APR-2016",
+  "active_ingredients": [
+    {
+      "name": "AVOBENZONE",
+      "strength": "0.75",
+      "unit": "%"
+    },
+    {
+      "name": "OCTINOXATE",
+      "strength": "2.0",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "LOTION"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "EMPACK SPRAYTECH INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "COMBINATIONS OF PROTECTIVES AGAINST UV-RADIATION"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "drug_code": "75613",
+  "din": "02270765",
+  "brand_name": "DOM-SUMATRIPTAN",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "05-DEC-2005",
+  "active_ingredients": [
+    {
+      "name": "SUMATRIPTAN (SUMATRIPTAN SUCCINATE)",
+      "strength": "100",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "DOMINION PHARMACAL"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "SUMATRIPTAN"
+  ]
+}

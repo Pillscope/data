@@ -1,0 +1,28 @@
+{
+  "drug_code": "64459",
+  "din": "02240868",
+  "brand_name": "TEVA-NABUMETONE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "20-JUN-2016",
+  "active_ingredients": [
+    {
+      "name": "NABUMETONE",
+      "strength": "750",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "TEVA CANADA LIMITED"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "NABUMETONE"
+  ]
+}

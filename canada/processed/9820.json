@@ -1,0 +1,33 @@
+{
+  "drug_code": "9820",
+  "din": "00210889",
+  "brand_name": "REFRESH LACRI-LUBE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "11-JUL-2012",
+  "active_ingredients": [
+    {
+      "name": "MINERAL OIL",
+      "strength": "42.5",
+      "unit": "%"
+    },
+    {
+      "name": "WHITE PETROLATUM",
+      "strength": "57.3",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "OINTMENT"
+  ],
+  "routes": [
+    "OPHTHALMIC"
+  ],
+  "companies": [
+    "ALLERGAN INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "ARTIFICIAL TEARS AND OTHER INDIFFERENT PREPARATIONS."
+  ]
+}

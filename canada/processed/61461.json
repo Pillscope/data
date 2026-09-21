@@ -1,0 +1,26 @@
+{
+  "drug_code": "61461",
+  "din": "02238077",
+  "brand_name": "TOLFEDINE TABLETS 20MG",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "04-MAY-2004",
+  "active_ingredients": [
+    {
+      "name": "TOLFENAMIC ACID",
+      "strength": "20",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "VETOQUINOL N A INC"
+  ],
+  "status": "APPROVED",
+  "atc": []
+}

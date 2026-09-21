@@ -1,0 +1,28 @@
+{
+  "drug_code": "91954",
+  "din": "02435276",
+  "brand_name": "4% CITANEST PLAIN DENTAL",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "14-OCT-2016",
+  "active_ingredients": [
+    {
+      "name": "PRILOCAINE HYDROCHLORIDE",
+      "strength": "40",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "BLOCK/INFILTRATION"
+  ],
+  "companies": [
+    "DENTSPLY CANADA LIMITED"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "PRILOCAINE"
+  ]
+}

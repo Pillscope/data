@@ -1,0 +1,28 @@
+{
+  "drug_code": "81396",
+  "din": "02328437",
+  "brand_name": "CHILDREN'S ADVIL FEVER FROM COLDS OR FLU",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "02-JAN-2013",
+  "active_ingredients": [
+    {
+      "name": "IBUPROFEN",
+      "strength": "100",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SUSPENSION"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "PFIZER CONSUMER HEALTHCARE A DIVISION OF PFIZER CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "IBUPROFEN"
+  ]
+}

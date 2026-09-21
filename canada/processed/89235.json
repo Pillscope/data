@@ -1,0 +1,28 @@
+{
+  "drug_code": "89235",
+  "din": "02407620",
+  "brand_name": "ANALGESIC CREAM",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "25-APR-2014",
+  "active_ingredients": [
+    {
+      "name": "TROLAMINE SALICYLATE",
+      "strength": "15",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "CREAM"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "PHARMASCIENCE INC"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "PREPARATIONS WITH SALICYLIC ACID DERIVATIVES"
+  ]
+}

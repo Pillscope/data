@@ -1,0 +1,28 @@
+{
+  "drug_code": "19063",
+  "din": "02177889",
+  "brand_name": "APO-CLONAZEPAM - TAB 0.5MG",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "22-AUG-2011",
+  "active_ingredients": [
+    {
+      "name": "CLONAZEPAM",
+      "strength": ".5",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "APOTEX INC"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "CLONAZEPAM"
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "drug_code": "75223",
+  "din": "02266814",
+  "brand_name": "ASEPTOL 2000",
+  "class": "Disinfectant",
+  "descriptor": "",
+  "last_update": "11-AUG-2005",
+  "active_ingredients": [
+    {
+      "name": "DIDECYL DIMETHYL AMMONIUM CHLORIDE",
+      "strength": "1.47",
+      "unit": "%"
+    },
+    {
+      "name": "GLUTARAL",
+      "strength": "12.75",
+      "unit": "%"
+    },
+    {
+      "name": "BENZALKONIUM CHLORIDE",
+      "strength": "6.24",
+      "unit": "%"
+    },
+    {
+      "name": "BENZALKONIUM CHLORIDE",
+      "strength": "0.74",
+      "unit": "%"
+    },
+    {
+      "name": "ALKYL DIMETHYL ETHYLBENZYL AMMONIUM CHLORIDE",
+      "strength": "0.74",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "LIQUID"
+  ],
+  "routes": [
+    "DISINFECTANT (Food Premises)",
+    "DISINFECTANT (Domestic)"
+  ],
+  "companies": [
+    "LABORATOIRE MERIEL"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "TECHNICAL DISINFECTANTS"
+  ]
+}

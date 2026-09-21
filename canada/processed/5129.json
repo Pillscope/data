@@ -1,0 +1,28 @@
+{
+  "drug_code": "5129",
+  "din": "00582352",
+  "brand_name": "ACCUTANE ROCHE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "05-MAY-2015",
+  "active_ingredients": [
+    {
+      "name": "ISOTRETINOIN",
+      "strength": "40",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "CAPSULE"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "HOFFMANN-LA ROCHE LIMITED"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "ISOTRETINOIN"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "drug_code": "5010",
+  "din": "00578746",
+  "brand_name": "STER-BAC",
+  "class": "Veterinary",
+  "descriptor": "UDDER WASH",
+  "last_update": "31-OCT-2014",
+  "active_ingredients": [
+    {
+      "name": "BENZALKONIUM CHLORIDE",
+      "strength": "10",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "ECOLAB CO"
+  ],
+  "status": "APPROVED",
+  "atc": []
+}

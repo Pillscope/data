@@ -1,0 +1,28 @@
+{
+  "drug_code": "5293",
+  "din": "00580929",
+  "brand_name": "TETRACYCLINE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "03-FEB-2012",
+  "active_ingredients": [
+    {
+      "name": "TETRACYCLINE HYDROCHLORIDE",
+      "strength": "250",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "CAPSULE"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "AA PHARMA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "TETRACYCLINE"
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "drug_code": "4200",
+  "din": "00523747",
+  "brand_name": "TRL 135 MUL T QUAT",
+  "class": "Disinfectant",
+  "descriptor": "",
+  "last_update": "29-SEP-2010",
+  "active_ingredients": [
+    {
+      "name": "BENZALKONIUM CHLORIDE",
+      "strength": "2.35",
+      "unit": "%"
+    },
+    {
+      "name": "ALKYL DIMETHYL ETHYLBENZYL AMMONIUM CHLORIDE",
+      "strength": "2.35",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "LIQUID"
+  ],
+  "routes": [
+    "DISINFECTANT (Hospital/HC Facilities)"
+  ],
+  "companies": [
+    "TROJAN CHEMICALS"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "TECHNICAL DISINFECTANTS"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "drug_code": "92810",
+  "din": "02443414",
+  "brand_name": "SANDOZ OLMESARTAN",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "05-MAY-2017",
+  "active_ingredients": [
+    {
+      "name": "OLMESARTAN MEDOXOMIL",
+      "strength": "20",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "SANDOZ CANADA INCORPORATED"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "OLMESARTAN MEDOXOMIL"
+  ]
+}

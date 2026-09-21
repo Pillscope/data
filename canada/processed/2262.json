@@ -1,0 +1,36 @@
+{
+  "drug_code": "2262",
+  "din": "00346632",
+  "brand_name": "NEUTRAL SULFA 50",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "03-JAN-2018",
+  "active_ingredients": [
+    {
+      "name": "SULFAMETHAZINE",
+      "strength": "45",
+      "unit": "MG"
+    },
+    {
+      "name": "SULFATHIAZOLE",
+      "strength": "45",
+      "unit": "MG"
+    },
+    {
+      "name": "SULFAPYRIDINE",
+      "strength": "20",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "PROFESSIONAL VETERINARY LABORATORIES"
+  ],
+  "status": "MARKETED",
+  "atc": []
+}

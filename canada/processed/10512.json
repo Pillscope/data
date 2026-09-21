@@ -1,0 +1,48 @@
+{
+  "drug_code": "10512",
+  "din": "00799793",
+  "brand_name": "DIANEAL PD 101 CAPD SOLUTION W 0.5% DEXTROSE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "28-MAY-2009",
+  "active_ingredients": [
+    {
+      "name": "SODIUM CHLORIDE",
+      "strength": "567",
+      "unit": "MG"
+    },
+    {
+      "name": "DEXTROSE",
+      "strength": "500",
+      "unit": "MG"
+    },
+    {
+      "name": "MAGNESIUM CHLORIDE",
+      "strength": "15.2",
+      "unit": "MG"
+    },
+    {
+      "name": "CALCIUM CHLORIDE",
+      "strength": "23.9",
+      "unit": "MG"
+    },
+    {
+      "name": "SODIUM LACTATE",
+      "strength": "392",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "DIALYSIS"
+  ],
+  "companies": [
+    "BAXTER CORPORATION"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "HEMODIALYTICS, CONCENTRATES"
+  ]
+}

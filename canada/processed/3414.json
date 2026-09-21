@@ -1,0 +1,28 @@
+{
+  "drug_code": "3414",
+  "din": "00461733",
+  "brand_name": "CARBOLITH CAP 150MG",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "03-AUG-2007",
+  "active_ingredients": [
+    {
+      "name": "LITHIUM CARBONATE",
+      "strength": "150",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "CAPSULE"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "VALEANT CANADA LP/VALEANT CANADA S.E.C."
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "LITHIUM"
+  ]
+}

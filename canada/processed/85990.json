@@ -1,0 +1,28 @@
+{
+  "drug_code": "85990",
+  "din": "02374579",
+  "brand_name": "RAN-SERTRALINE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "17-JAN-2013",
+  "active_ingredients": [
+    {
+      "name": "SERTRALINE (SERTRALINE HYDROCHLORIDE)",
+      "strength": "100",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "CAPSULE"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "RANBAXY PHARMACEUTICALS CANADA INC."
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "SERTRALINE"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "drug_code": "18040",
+  "din": "02147653",
+  "brand_name": "APO-TRAZODONE D TABLETS 150MG",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "22-FEB-2006",
+  "active_ingredients": [
+    {
+      "name": "TRAZODONE HYDROCHLORIDE",
+      "strength": "150",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "APOTEX INC"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "TRAZODONE"
+  ]
+}

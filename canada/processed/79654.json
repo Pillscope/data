@@ -1,0 +1,28 @@
+{
+  "drug_code": "79654",
+  "din": "02310929",
+  "brand_name": "TEVA-ATORVASTATIN",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "08-JUN-2017",
+  "active_ingredients": [
+    {
+      "name": "ATORVASTATIN (ATORVASTATIN CALCIUM)",
+      "strength": "80",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "TEVA CANADA LIMITED"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "ATORVASTATIN"
+  ]
+}

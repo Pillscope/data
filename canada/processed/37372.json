@@ -1,0 +1,28 @@
+{
+  "drug_code": "37372",
+  "din": "02224720",
+  "brand_name": "LASIX ORAL SOLUTION 10MG/ML",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "05-JUL-2010",
+  "active_ingredients": [
+    {
+      "name": "FUROSEMIDE",
+      "strength": "10",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "SANOFI-AVENTIS CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "FUROSEMIDE"
+  ]
+}

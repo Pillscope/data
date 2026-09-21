@@ -1,0 +1,30 @@
+{
+  "drug_code": "61174",
+  "din": "02237815",
+  "brand_name": "ERWINASE",
+  "class": "Human",
+  "descriptor": "ERWINIA CHRYSANTHEMI DERIVED",
+  "last_update": "11-SEP-2017",
+  "active_ingredients": [
+    {
+      "name": "ASPARAGINASE",
+      "strength": "10000",
+      "unit": "UNIT"
+    }
+  ],
+  "forms": [
+    "POWDER FOR SOLUTION"
+  ],
+  "routes": [
+    "INTRAMUSCULAR",
+    "INTRAVENOUS",
+    "SUBCUTANEOUS"
+  ],
+  "companies": [
+    "JAZZ PHARMACEUTICALS FRANCE SAS"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "ASPARAGINASE"
+  ]
+}

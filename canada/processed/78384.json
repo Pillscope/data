@@ -1,0 +1,33 @@
+{
+  "drug_code": "78384",
+  "din": "02298546",
+  "brand_name": "AVIANE 28",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "03-JUN-2015",
+  "active_ingredients": [
+    {
+      "name": "LEVONORGESTREL",
+      "strength": "100",
+      "unit": "MCG"
+    },
+    {
+      "name": "ETHINYL ESTRADIOL",
+      "strength": "20",
+      "unit": "MCG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "TEVA CANADA LIMITED"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "LEVONORGESTREL AND ESTROGEN"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "drug_code": "75338",
+  "din": "02267993",
+  "brand_name": "RAN-ATENOLOL",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "25-OCT-2012",
+  "active_ingredients": [
+    {
+      "name": "ATENOLOL",
+      "strength": "100",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "RANBAXY PHARMACEUTICALS CANADA INC."
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "ATENOLOL"
+  ]
+}

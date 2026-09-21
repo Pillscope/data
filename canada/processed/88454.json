@@ -1,0 +1,28 @@
+{
+  "drug_code": "88454",
+  "din": "02399687",
+  "brand_name": "HEAD & SHOULDERS ITCHY SCALP CARE 2 IN 1",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "25-APR-2017",
+  "active_ingredients": [
+    {
+      "name": "PYRITHIONE ZINC",
+      "strength": "1",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "SHAMPOO"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "PROCTER & GAMBLE INC"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "PYRITHIONE ZINC"
+  ]
+}

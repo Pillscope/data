@@ -1,0 +1,26 @@
+{
+  "drug_code": "70078",
+  "din": "02245952",
+  "brand_name": "GLEPTOSIL",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "29-NOV-2017",
+  "active_ingredients": [
+    {
+      "name": "IRON (GLEPTOFERRON)",
+      "strength": "200",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "INTRAMUSCULAR"
+  ],
+  "companies": [
+    "CEVA ANIMAL HEALTH INC"
+  ],
+  "status": "APPROVED",
+  "atc": []
+}

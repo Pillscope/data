@@ -1,0 +1,43 @@
+{
+  "drug_code": "91717",
+  "din": "02432730",
+  "brand_name": "FLUZONE QUADRIVALENT",
+  "class": "Human",
+  "descriptor": "WITH PRESERVATIVE. 5ML MULTIDOSE VIAL.",
+  "last_update": "10-MAY-2017",
+  "active_ingredients": [
+    {
+      "name": "HAEMAGGLUTININ-STRAIN A(H3N2)",
+      "strength": "30",
+      "unit": "MCG"
+    },
+    {
+      "name": "HAEMAGGLUTININ-STRAIN A(H1N1)",
+      "strength": "30",
+      "unit": "MCG"
+    },
+    {
+      "name": "HAEMAGGLUTININ-STRAIN B (Victoria)",
+      "strength": "30",
+      "unit": "MCG"
+    },
+    {
+      "name": "HAEMAGGLUTININ-STRAIN B (Yamagata)",
+      "strength": "30",
+      "unit": "MCG"
+    }
+  ],
+  "forms": [
+    "SUSPENSION"
+  ],
+  "routes": [
+    "INTRAMUSCULAR"
+  ],
+  "companies": [
+    "SANOFI PASTEUR LIMITED"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "INFLUENZA, INACTIVATED, SPLIT VIRUS OR SURFACE ANTIGEN"
+  ]
+}

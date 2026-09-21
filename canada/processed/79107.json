@@ -1,0 +1,28 @@
+{
+  "drug_code": "79107",
+  "din": "02305526",
+  "brand_name": "GEMCITABINE FOR INJECTION",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "05-MAY-2015",
+  "active_ingredients": [
+    {
+      "name": "GEMCITABINE (GEMCITABINE HYDROCHLORIDE)",
+      "strength": "200",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "POWDER FOR SOLUTION"
+  ],
+  "routes": [
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "TEVA CANADA LIMITED"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "GEMCITABINE"
+  ]
+}

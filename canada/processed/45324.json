@@ -1,0 +1,29 @@
+{
+  "drug_code": "45324",
+  "din": "00886432",
+  "brand_name": "PROCHLORAZINE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "17-JUL-2013",
+  "active_ingredients": [
+    {
+      "name": "PROCHLORPERAZINE (PROCHLORPERAZINE MALEATE)",
+      "strength": "10",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "AA PHARMA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "PROCHLORPERAZINE",
+    "PROCHLORPERAZINE"
+  ]
+}

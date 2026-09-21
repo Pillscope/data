@@ -1,0 +1,28 @@
+{
+  "drug_code": "61729",
+  "din": "02238326",
+  "brand_name": "PMS-SOTALOL - 80 MG",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "30-MAY-2011",
+  "active_ingredients": [
+    {
+      "name": "SOTALOL HYDROCHLORIDE",
+      "strength": "80",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "PHARMASCIENCE INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "SOTALOL"
+  ]
+}

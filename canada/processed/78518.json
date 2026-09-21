@@ -1,0 +1,28 @@
+{
+  "drug_code": "78518",
+  "din": "02299836",
+  "brand_name": "AURO-MIRTAZAPINE OD",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "25-JAN-2011",
+  "active_ingredients": [
+    {
+      "name": "MIRTAZAPINE",
+      "strength": "45",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET (ORALLY DISINTEGRATING)"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "AURO PHARMA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "MIRTAZAPINE"
+  ]
+}

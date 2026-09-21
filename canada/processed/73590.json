@@ -1,0 +1,28 @@
+{
+  "drug_code": "73590",
+  "din": "02250977",
+  "brand_name": "WINNING HANDS ALCOHOL FREE HAND SANITIZER",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "31-OCT-2008",
+  "active_ingredients": [
+    {
+      "name": "BENZETHONIUM CHLORIDE",
+      "strength": "0.2",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "LIQUID"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "BETCO CORPORATION"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "BENZETHONIUM CHLORIDE"
+  ]
+}

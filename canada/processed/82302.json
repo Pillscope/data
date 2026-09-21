@@ -1,0 +1,34 @@
+{
+  "drug_code": "82302",
+  "din": "02337436",
+  "brand_name": "SANDOZ IRBESARTAN HCT",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "03-MAY-2012",
+  "active_ingredients": [
+    {
+      "name": "IRBESARTAN",
+      "strength": "300",
+      "unit": "MG"
+    },
+    {
+      "name": "HYDROCHLOROTHIAZIDE",
+      "strength": "12.5",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "SANDOZ CANADA INCORPORATED"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "IRBESARTAN AND DIURETICS",
+    "IRBESARTAN AND DIURETICS"
+  ]
+}

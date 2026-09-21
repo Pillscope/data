@@ -1,0 +1,33 @@
+{
+  "drug_code": "14316",
+  "din": "01990675",
+  "brand_name": "EXCEDRIN EXTRA STRENGTH",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "02-DEC-2016",
+  "active_ingredients": [
+    {
+      "name": "ACETAMINOPHEN",
+      "strength": "500",
+      "unit": "MG"
+    },
+    {
+      "name": "CAFFEINE",
+      "strength": "65",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "GLAXOSMITHKLINE CONSUMER HEALTHCARE INC."
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "ACETAMINOPHEN, COMB EXCL PSYCHOLEPTICS"
+  ]
+}

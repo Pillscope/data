@@ -1,0 +1,26 @@
+{
+  "drug_code": "6818",
+  "din": "00695475",
+  "brand_name": "STILBESTROL TAB 1MG",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "28-JAN-2015",
+  "active_ingredients": [
+    {
+      "name": "DIETHYLSTILBESTROL",
+      "strength": "1",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "ORMOND VETERINARY SUPPLY LTD."
+  ],
+  "status": "MARKETED",
+  "atc": []
+}

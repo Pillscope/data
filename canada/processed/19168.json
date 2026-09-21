@@ -1,0 +1,28 @@
+{
+  "drug_code": "19168",
+  "din": "02182874",
+  "brand_name": "COZAAR",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "21-SEP-2009",
+  "active_ingredients": [
+    {
+      "name": "LOSARTAN POTASSIUM",
+      "strength": "50",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "MERCK CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "LOSARTAN"
+  ]
+}

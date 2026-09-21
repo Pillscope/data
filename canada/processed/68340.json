@@ -1,0 +1,28 @@
+{
+  "drug_code": "68340",
+  "din": "02244372",
+  "brand_name": "PACLITAXEL FOR INJECTION",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "28-NOV-2017",
+  "active_ingredients": [
+    {
+      "name": "PACLITAXEL",
+      "strength": "6",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "BIOLYSE PHARMA CORPORATION"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "PACLITAXEL"
+  ]
+}

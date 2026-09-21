@@ -1,0 +1,27 @@
+{
+  "drug_code": "4716",
+  "din": "00552968",
+  "brand_name": "UNI-MED INJ 40MG/ML",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "25-SEP-2014",
+  "active_ingredients": [
+    {
+      "name": "METHYLPREDNISOLONE ACETATE",
+      "strength": "40",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SUSPENSION"
+  ],
+  "routes": [
+    "INTRAMUSCULAR",
+    "INTRASYNOVIAL"
+  ],
+  "companies": [
+    "UNIVET PHARMACEUTICALS LTD."
+  ],
+  "status": "MARKETED",
+  "atc": []
+}

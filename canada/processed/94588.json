@@ -1,0 +1,28 @@
+{
+  "drug_code": "94588",
+  "din": "02458721",
+  "brand_name": "APO-TRYPTOPHAN",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "29-MAY-2017",
+  "active_ingredients": [
+    {
+      "name": "TRYPTOPHAN",
+      "strength": "750",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "APOTEX INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "TRYPTOPHAN"
+  ]
+}

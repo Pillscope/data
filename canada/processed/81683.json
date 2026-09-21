@@ -1,0 +1,28 @@
+{
+  "drug_code": "81683",
+  "din": "02331101",
+  "brand_name": "JAMP-RAMIPRIL",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "01-JUN-2016",
+  "active_ingredients": [
+    {
+      "name": "RAMIPRIL",
+      "strength": "1.25",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "CAPSULE"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "JAMP PHARMA CORPORATION"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "RAMIPRIL"
+  ]
+}

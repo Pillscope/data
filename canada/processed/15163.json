@@ -1,0 +1,28 @@
+{
+  "drug_code": "15163",
+  "din": "02018152",
+  "brand_name": "CYCLOMEN",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "15-OCT-2008",
+  "active_ingredients": [
+    {
+      "name": "DANAZOL",
+      "strength": "100",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "CAPSULE"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "SANOFI-AVENTIS CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "DANAZOL"
+  ]
+}

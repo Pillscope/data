@@ -1,0 +1,28 @@
+{
+  "drug_code": "10874",
+  "din": "00757683",
+  "brand_name": "PDP-DIPHENHYDRAMINE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "19-OCT-2016",
+  "active_ingredients": [
+    {
+      "name": "DIPHENHYDRAMINE HYDROCHLORIDE",
+      "strength": "25",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "CAPSULE"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "PENDOPHARM DIVISION OF DE PHARMASCIENCE INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "DIPHENHYDRAMINE"
+  ]
+}

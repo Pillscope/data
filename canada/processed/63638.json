@@ -1,0 +1,26 @@
+{
+  "drug_code": "63638",
+  "din": "02240124",
+  "brand_name": "PULMOTIL PREMIX",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "19-FEB-2018",
+  "active_ingredients": [
+    {
+      "name": "TILMICOSIN (TILMICOSIN PHOSPHATE)",
+      "strength": "200",
+      "unit": "G"
+    }
+  ],
+  "forms": [
+    "DRUG PREMIX"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "ELANCO CANADA LIMITED"
+  ],
+  "status": "APPROVED",
+  "atc": []
+}

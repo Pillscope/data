@@ -1,0 +1,28 @@
+{
+  "drug_code": "93551",
+  "din": "02449684",
+  "brand_name": "ZENSA",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "12-JUL-2016",
+  "active_ingredients": [
+    {
+      "name": "LIDOCAINE",
+      "strength": "5",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "CREAM"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "ALERA SKIN CARE PRODUCTS INC."
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "LIDOCAINE"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "drug_code": "86029",
+  "din": "02374943",
+  "brand_name": "BISACODYL",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "26-FEB-2015",
+  "active_ingredients": [
+    {
+      "name": "BISACODYL",
+      "strength": "5",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET (DELAYED-RELEASE)"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "APOTEX INC"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "BISACODYL"
+  ]
+}

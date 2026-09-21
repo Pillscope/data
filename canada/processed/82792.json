@@ -1,0 +1,33 @@
+{
+  "drug_code": "82792",
+  "din": "02342421",
+  "brand_name": "ALEXANDER'S RASH EASE - FOR BABIES",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "23-MAY-2017",
+  "active_ingredients": [
+    {
+      "name": "ZINC OXIDE",
+      "strength": "5",
+      "unit": "%"
+    },
+    {
+      "name": "WHITE PETROLATUM",
+      "strength": "88.7",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "CREAM"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "ALTACOMP ENTREPRISES INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "ZINC PRODUCTS"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "drug_code": "38260",
+  "din": "00703486",
+  "brand_name": "PMS-LACTULOSE SYR 667MG/ML",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "28-NOV-2017",
+  "active_ingredients": [
+    {
+      "name": "LACTULOSE",
+      "strength": "667",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "PHARMASCIENCE INC"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "LACTULOSE"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "drug_code": "11356",
+  "din": "01910051",
+  "brand_name": "ADEQUAN I.M.",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "12-JUL-2017",
+  "active_ingredients": [
+    {
+      "name": "GLYCOSAMINOGLYCAN POLYSULFATE",
+      "strength": "100",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "LIQUID"
+  ],
+  "routes": [
+    "INTRAMUSCULAR"
+  ],
+  "companies": [
+    "LUITPOLD PHARMACEUTICALS INC"
+  ],
+  "status": "MARKETED",
+  "atc": []
+}

@@ -1,0 +1,28 @@
+{
+  "drug_code": "95272",
+  "din": "02464594",
+  "brand_name": "EURO D 10 000",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "22-AUG-2017",
+  "active_ingredients": [
+    {
+      "name": "VITAMIN D3 (CHOLECALCIFEROL)",
+      "strength": "10000",
+      "unit": "UNIT"
+    }
+  ],
+  "forms": [
+    "CAPSULE"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "EURO-PHARM INTERNATIONAL CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "COLECALCIFEROL"
+  ]
+}

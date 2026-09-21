@@ -1,0 +1,28 @@
+{
+  "drug_code": "94516",
+  "din": "02458101",
+  "brand_name": "AVON MOISTURE THERAPY ULTRA HYDRATION",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "25-MAY-2017",
+  "active_ingredients": [
+    {
+      "name": "PETROLATUM",
+      "strength": "60.1",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "OINTMENT"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "AVON CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "SOFT PARAFFIN AND FAT PRODUCTS"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "drug_code": "44210",
+  "din": "02175983",
+  "brand_name": "PROGRAF",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "09-JUL-2009",
+  "active_ingredients": [
+    {
+      "name": "TACROLIMUS",
+      "strength": "5",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "CAPSULE"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "ASTELLAS PHARMA CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "TACROLIMUS"
+  ]
+}

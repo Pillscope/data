@@ -1,0 +1,26 @@
+{
+  "drug_code": "148",
+  "din": "00103616",
+  "brand_name": "TYLAN SOLUBLE",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "02-FEB-2018",
+  "active_ingredients": [
+    {
+      "name": "TYLOSIN (TYLOSIN TARTRATE)",
+      "strength": "100",
+      "unit": "G"
+    }
+  ],
+  "forms": [
+    "POWDER FOR SOLUTION"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "ELANCO CANADA LIMITED"
+  ],
+  "status": "APPROVED",
+  "atc": []
+}

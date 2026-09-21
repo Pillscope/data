@@ -1,0 +1,43 @@
+{
+  "drug_code": "7474",
+  "din": "00707937",
+  "brand_name": "EYE STREAM",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "20-JUN-2017",
+  "active_ingredients": [
+    {
+      "name": "SODIUM CHLORIDE",
+      "strength": "0.64",
+      "unit": "%"
+    },
+    {
+      "name": "POTASSIUM CHLORIDE",
+      "strength": "0.075",
+      "unit": "%"
+    },
+    {
+      "name": "MAGNESIUM CHLORIDE",
+      "strength": "0.03",
+      "unit": "%"
+    },
+    {
+      "name": "CALCIUM CHLORIDE",
+      "strength": "0.048",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "OPHTHALMIC"
+  ],
+  "companies": [
+    "NOVARTIS PHARMACEUTICALS CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "SOLVENTS AND DILUTING AGENTS,INCL IRRIGAT SOLUT"
+  ]
+}

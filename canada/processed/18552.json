@@ -1,0 +1,28 @@
+{
+  "drug_code": "18552",
+  "din": "02132699",
+  "brand_name": "COLESTID ORANGE GRANULES",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "13-AUG-2009",
+  "active_ingredients": [
+    {
+      "name": "COLESTIPOL HYDROCHLORIDE",
+      "strength": "5",
+      "unit": "G"
+    }
+  ],
+  "forms": [
+    "GRANULES"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "PFIZER CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "COLESTIPOL"
+  ]
+}

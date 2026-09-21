@@ -1,0 +1,26 @@
+{
+  "drug_code": "14403",
+  "din": "02030314",
+  "brand_name": "FERTILINE STERILE INJECTABLE SOLUTION",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "15-JUN-2004",
+  "active_ingredients": [
+    {
+      "name": "GONADORELIN ACETATE",
+      "strength": "50",
+      "unit": "MCG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "INTRAMUSCULAR"
+  ],
+  "companies": [
+    "VETOQUINOL N A INC"
+  ],
+  "status": "APPROVED",
+  "atc": []
+}

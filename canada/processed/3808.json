@@ -1,0 +1,28 @@
+{
+  "drug_code": "3808",
+  "din": "00497770",
+  "brand_name": "OXAZEPAM 30 TAB 30MG",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "10-MAR-2006",
+  "active_ingredients": [
+    {
+      "name": "OXAZEPAM",
+      "strength": "30",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "PRO DOC LIMITEE"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "OXAZEPAM"
+  ]
+}

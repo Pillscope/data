@@ -1,0 +1,28 @@
+{
+  "drug_code": "88170",
+  "din": "02396661",
+  "brand_name": "TEVA-RIZATRIPTAN ODT",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "20-JAN-2015",
+  "active_ingredients": [
+    {
+      "name": "RIZATRIPTAN (RIZATRIPTAN BENZOATE)",
+      "strength": "5",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET (ORALLY DISINTEGRATING)"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "TEVA CANADA LIMITED"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "RIZATRIPTAN"
+  ]
+}

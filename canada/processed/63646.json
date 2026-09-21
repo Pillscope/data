@@ -1,0 +1,28 @@
+{
+  "drug_code": "63646",
+  "din": "02240132",
+  "brand_name": "OXY.IR",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "20-OCT-2014",
+  "active_ingredients": [
+    {
+      "name": "OXYCODONE HYDROCHLORIDE",
+      "strength": "20",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET (IMMEDIATE RELEASE)"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "PURDUE PHARMA"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "OXYCODONE"
+  ]
+}

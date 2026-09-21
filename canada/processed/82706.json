@@ -1,0 +1,28 @@
+{
+  "drug_code": "82706",
+  "din": "02341557",
+  "brand_name": "DANDRUFF SHAMPOO CLASSIC CLEAN",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "08-JAN-2016",
+  "active_ingredients": [
+    {
+      "name": "PYRITHIONE ZINC",
+      "strength": "1",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "LOTION"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "APOLLO HEALTH AND BEAUTY CARE INC."
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "PYRITHIONE ZINC"
+  ]
+}

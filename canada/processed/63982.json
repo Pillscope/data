@@ -1,0 +1,28 @@
+{
+  "drug_code": "63982",
+  "din": "02240433",
+  "brand_name": "PERICHLOR",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "02-AUG-2017",
+  "active_ingredients": [
+    {
+      "name": "CHLORHEXIDINE GLUCONATE",
+      "strength": "0.12",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "MOUTHWASH/GARGLE"
+  ],
+  "routes": [
+    "BUCCAL"
+  ],
+  "companies": [
+    "PHARMASCIENCE INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "CHLORHEXIDINE"
+  ]
+}

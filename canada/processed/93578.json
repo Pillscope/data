@@ -1,0 +1,28 @@
+{
+  "drug_code": "93578",
+  "din": "02449919",
+  "brand_name": "PRIVA-OMEPRAZOLE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "16-JAN-2018",
+  "active_ingredients": [
+    {
+      "name": "OMEPRAZOLE (OMEPRAZOLE MAGNESIUM)",
+      "strength": "20",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET (DELAYED-RELEASE)"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "PHARMAPAR INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "OMEPRAZOLE"
+  ]
+}

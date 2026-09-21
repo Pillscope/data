@@ -1,0 +1,28 @@
+{
+  "drug_code": "72928",
+  "din": "02248573",
+  "brand_name": "ACT LOVASTATIN",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "25-SEP-2015",
+  "active_ingredients": [
+    {
+      "name": "LOVASTATIN",
+      "strength": "40",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "ACTAVIS PHARMA COMPANY"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "LOVASTATIN"
+  ]
+}

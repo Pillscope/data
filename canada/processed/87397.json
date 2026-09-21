@@ -1,0 +1,28 @@
+{
+  "drug_code": "87397",
+  "din": "02388448",
+  "brand_name": "FLUCONAZOLE INJECTION SDZ",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "31-MAR-2014",
+  "active_ingredients": [
+    {
+      "name": "FLUCONAZOLE",
+      "strength": "2",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "SANDOZ CANADA INCORPORATED"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "FLUCONAZOLE"
+  ]
+}

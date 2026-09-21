@@ -1,0 +1,91 @@
+{
+  "drug_code": "24471",
+  "din": "01985248",
+  "brand_name": "BIOTIN MED BOOSTER",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "30-APR-2015",
+  "active_ingredients": [
+    {
+      "name": "D-PANTOTHENIC ACID",
+      "strength": "1.496",
+      "unit": "G"
+    },
+    {
+      "name": "PYRIDOXINE HYDROCHLORIDE",
+      "strength": "224.4",
+      "unit": "MG"
+    },
+    {
+      "name": "THIAMINE MONONITRATE",
+      "strength": "224.4",
+      "unit": "MG"
+    },
+    {
+      "name": "BIOTIN",
+      "strength": "18.7",
+      "unit": "MG"
+    },
+    {
+      "name": "VITAMIN D3",
+      "strength": "280500",
+      "unit": "UNIT"
+    },
+    {
+      "name": "VITAMIN B2",
+      "strength": "187",
+      "unit": "MG"
+    },
+    {
+      "name": "VITAMIN A",
+      "strength": "1870000",
+      "unit": "UNIT"
+    },
+    {
+      "name": "VITAMIN E",
+      "strength": "1870",
+      "unit": "UNIT"
+    },
+    {
+      "name": "NICOTINIC ACID",
+      "strength": "4.488",
+      "unit": "G"
+    },
+    {
+      "name": "SODIUM CHLORIDE",
+      "strength": "1",
+      "unit": "%"
+    },
+    {
+      "name": "POTASSIUM CHLORIDE",
+      "strength": "2.5",
+      "unit": "%"
+    },
+    {
+      "name": "FOLIC ACID",
+      "strength": "112.2",
+      "unit": "MG"
+    },
+    {
+      "name": "VITAMIN B12",
+      "strength": "3.74",
+      "unit": "MG"
+    },
+    {
+      "name": "MENADIONE SODIUM BISULFITE",
+      "strength": "748",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "POWDER FOR SOLUTION"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "BIO AGRI MIX LP"
+  ],
+  "status": "APPROVED",
+  "atc": []
+}

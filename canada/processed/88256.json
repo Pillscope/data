@@ -1,0 +1,28 @@
+{
+  "drug_code": "88256",
+  "din": "02397625",
+  "brand_name": "ACT DONEPEZIL ODT",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "22-JAN-2018",
+  "active_ingredients": [
+    {
+      "name": "DONEPEZIL HYDROCHLORIDE (DONEPEZIL HYDROCHLORIDE MONOHYDRATE)",
+      "strength": "10",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET (ORALLY DISINTEGRATING)"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "TEVA CANADA LIMITED"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "DONEPEZIL"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "drug_code": "9301",
+  "din": "00793167",
+  "brand_name": "PRIME-X MELATONIN IMPLANTS",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "05-MAY-2015",
+  "active_ingredients": [
+    {
+      "name": "MELATONIN",
+      "strength": "2.7",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "IMPLANT"
+  ],
+  "routes": [
+    "SUBCUTANEOUS"
+  ],
+  "companies": [
+    "NEO-DYNAMICS"
+  ],
+  "status": "APPROVED",
+  "atc": []
+}

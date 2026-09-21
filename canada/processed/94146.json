@@ -1,0 +1,28 @@
+{
+  "drug_code": "94146",
+  "din": "02454777",
+  "brand_name": "METOJECT SUBCUTANEOUS",
+  "class": "Human",
+  "descriptor": "SINGLE-USE PREFILLED SYRINGES",
+  "last_update": "16-JAN-2018",
+  "active_ingredients": [
+    {
+      "name": "METHOTREXATE (METHOTREXATE SODIUM)",
+      "strength": "22.5",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "SUBCUTANEOUS"
+  ],
+  "companies": [
+    "MEDEXUS INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "METHOTREXATE"
+  ]
+}

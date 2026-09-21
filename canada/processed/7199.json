@@ -1,0 +1,28 @@
+{
+  "drug_code": "7199",
+  "din": "00642975",
+  "brand_name": "COLESTID GRANULES",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "01-FEB-2006",
+  "active_ingredients": [
+    {
+      "name": "COLESTIPOL HYDROCHLORIDE",
+      "strength": "5",
+      "unit": "G"
+    }
+  ],
+  "forms": [
+    "GRANULES"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "PFIZER CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "COLESTIPOL"
+  ]
+}

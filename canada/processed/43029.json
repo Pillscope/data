@@ -1,0 +1,29 @@
+{
+  "drug_code": "43029",
+  "din": "02207796",
+  "brand_name": "PERIOGARD",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "02-AUG-2017",
+  "active_ingredients": [
+    {
+      "name": "CHLORHEXIDINE GLUCONATE",
+      "strength": "0.12",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "MOUTHWASH/GARGLE"
+  ],
+  "routes": [
+    "BUCCAL",
+    "ORAL"
+  ],
+  "companies": [
+    "COLGATE-PALMOLIVE CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "CHLORHEXIDINE"
+  ]
+}

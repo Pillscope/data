@@ -1,0 +1,28 @@
+{
+  "drug_code": "92846",
+  "din": "02443724",
+  "brand_name": "VIIBRYD",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "28-FEB-2018",
+  "active_ingredients": [
+    {
+      "name": "VILAZODONE HYDROCHLORIDE",
+      "strength": "10",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "FOREST LABORATORIES CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "Vilazodone"
+  ]
+}

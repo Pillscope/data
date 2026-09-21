@@ -1,0 +1,30 @@
+{
+  "drug_code": "70368",
+  "din": "02246212",
+  "brand_name": "LAVO 12 SODIUM HYPOCHLORITE",
+  "class": "Disinfectant",
+  "descriptor": "",
+  "last_update": "02-DEC-2014",
+  "active_ingredients": [
+    {
+      "name": "SODIUM HYPOCHLORITE",
+      "strength": "10.3",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "LIQUID"
+  ],
+  "routes": [
+    "DISINFECTANT (Food Premises)",
+    "DISINFECTANT (Domestic)",
+    "DISINFECTANT (Institutional/Industrial)"
+  ],
+  "companies": [
+    "LAVO"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "TECHNICAL DISINFECTANTS"
+  ]
+}

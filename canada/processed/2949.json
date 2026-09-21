@@ -1,0 +1,28 @@
+{
+  "drug_code": "2949",
+  "din": "00397466",
+  "brand_name": "CYSTO-CONRAY II",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "29-JAN-2018",
+  "active_ingredients": [
+    {
+      "name": "IOTHALAMATE MEGLUMINE",
+      "strength": "172",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "URETHRAL"
+  ],
+  "companies": [
+    "LIEBEL-FLARSHEIM CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "IOTALAMIC ACID"
+  ]
+}

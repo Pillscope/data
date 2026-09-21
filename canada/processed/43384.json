@@ -1,0 +1,28 @@
+{
+  "drug_code": "43384",
+  "din": "02223694",
+  "brand_name": "ALBUMIN (HUMAN) 5% SOLUTION, USP",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "28-FEB-2018",
+  "active_ingredients": [
+    {
+      "name": "ALBUMIN (HUMAN)",
+      "strength": "5",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "GRIFOLS THERAPEUTICS LLC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "ALBUMIN"
+  ]
+}

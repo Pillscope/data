@@ -1,0 +1,34 @@
+{
+  "drug_code": "71086",
+  "din": "02246862",
+  "brand_name": "OASIS 299",
+  "class": "Disinfectant",
+  "descriptor": "",
+  "last_update": "26-NOV-2012",
+  "active_ingredients": [
+    {
+      "name": "PHOSPHORIC ACID",
+      "strength": "17.4",
+      "unit": "%"
+    },
+    {
+      "name": "CITRIC ACID",
+      "strength": "4.9",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "DISINFECTANT (Hospital/HC Facilities)",
+    "DISINFECTANT (Institutional/Industrial)"
+  ],
+  "companies": [
+    "ECOLAB CO"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "TECHNICAL DISINFECTANTS"
+  ]
+}

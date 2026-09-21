@@ -1,0 +1,28 @@
+{
+  "drug_code": "88487",
+  "din": "02400030",
+  "brand_name": "TEVA-CAPECITABINE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "28-AUG-2013",
+  "active_ingredients": [
+    {
+      "name": "CAPECITABINE",
+      "strength": "500",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "TEVA CANADA LIMITED"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "CAPECITABINE"
+  ]
+}

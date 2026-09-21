@@ -1,0 +1,28 @@
+{
+  "drug_code": "80468",
+  "din": "02319217",
+  "brand_name": "SANDOZ TAMSULOSIN",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "26-JAN-2016",
+  "active_ingredients": [
+    {
+      "name": "TAMSULOSIN HYDROCHLORIDE",
+      "strength": "0.4",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "CAPSULE (SUSTAINED-RELEASE)"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "SANDOZ CANADA INCORPORATED"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "TAMSULOSIN"
+  ]
+}

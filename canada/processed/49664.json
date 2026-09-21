@@ -1,0 +1,28 @@
+{
+  "drug_code": "49664",
+  "din": "02230575",
+  "brand_name": "AMETOP GEL 4%",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "08-JAN-2015",
+  "active_ingredients": [
+    {
+      "name": "TETRACAINE (TETRACAINE HYDROCHLORIDE)",
+      "strength": "40",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "GEL"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "SMITH & NEPHEW INC"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "TETRACAINE"
+  ]
+}

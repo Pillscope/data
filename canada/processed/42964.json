@@ -1,0 +1,28 @@
+{
+  "drug_code": "42964",
+  "din": "02200864",
+  "brand_name": "CILOXAN",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "05-APR-2017",
+  "active_ingredients": [
+    {
+      "name": "CIPROFLOXACIN (CIPROFLOXACIN HYDROCHLORIDE)",
+      "strength": "0.3",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "OINTMENT"
+  ],
+  "routes": [
+    "OPHTHALMIC"
+  ],
+  "companies": [
+    "NOVARTIS PHARMACEUTICALS CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "CIPROFLOXACIN"
+  ]
+}

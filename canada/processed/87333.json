@@ -1,0 +1,30 @@
+{
+  "drug_code": "87333",
+  "din": "02387743",
+  "brand_name": "DEXAMETHASONE OMEGA UNIDOSE",
+  "class": "Human",
+  "descriptor": "1 ML SINGLE USE VIALS.",
+  "last_update": "29-AUG-2017",
+  "active_ingredients": [
+    {
+      "name": "DEXAMETHASONE PHOSPHATE (DEXAMETHASONE SODIUM PHOSPHATE)",
+      "strength": "10",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "INTRAMUSCULAR",
+    "INTRASYNOVIAL",
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "OMEGA LABORATORIES LTD"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "DEXAMETHASONE"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "drug_code": "6720",
+  "din": "00637734",
+  "brand_name": "PERSANTINE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "02-NOV-2012",
+  "active_ingredients": [
+    {
+      "name": "DIPYRIDAMOLE",
+      "strength": "5",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "BOEHRINGER INGELHEIM (CANADA) LTD LTEE"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "DIPYRIDAMOLE"
+  ]
+}

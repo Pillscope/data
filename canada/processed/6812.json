@@ -1,0 +1,28 @@
+{
+  "drug_code": "6812",
+  "din": "00695696",
+  "brand_name": "TEVA-PIROXICAM",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "25-SEP-2015",
+  "active_ingredients": [
+    {
+      "name": "PIROXICAM",
+      "strength": "20",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "CAPSULE"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "TEVA CANADA LIMITED"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "PIROXICAM"
+  ]
+}

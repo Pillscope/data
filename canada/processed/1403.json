@@ -1,0 +1,28 @@
+{
+  "drug_code": "1403",
+  "din": "00028606",
+  "brand_name": "ALDACTONE 25 MG",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "25-JAN-2013",
+  "active_ingredients": [
+    {
+      "name": "SPIRONOLACTONE",
+      "strength": "25",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "PFIZER CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "SPIRONOLACTONE"
+  ]
+}

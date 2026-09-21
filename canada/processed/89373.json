@@ -1,0 +1,28 @@
+{
+  "drug_code": "89373",
+  "din": "02408996",
+  "brand_name": "CLARITHROMYCIN",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "10-DEC-2014",
+  "active_ingredients": [
+    {
+      "name": "CLARITHROMYCIN",
+      "strength": "250",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "GRANULES FOR SUSPENSION"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "SANIS HEALTH INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "CLARITHROMYCIN"
+  ]
+}

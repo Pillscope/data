@@ -1,0 +1,28 @@
+{
+  "drug_code": "19275",
+  "din": "02175339",
+  "brand_name": "JAA PYRAL P ORAL PASTE - 125MG/G",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "10-MAY-2016",
+  "active_ingredients": [
+    {
+      "name": "PYRANTEL (PYRANTEL PAMOATE)",
+      "strength": "125",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "PASTE"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "JAAPHARM CANADA INC."
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "PYRANTEL"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "drug_code": "43018",
+  "din": "02207621",
+  "brand_name": "APO-ACYCLOVIR - TAB 200MG",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "08-JAN-2010",
+  "active_ingredients": [
+    {
+      "name": "ACYCLOVIR",
+      "strength": "200",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "APOTEX INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "ACYCLOVIR"
+  ]
+}

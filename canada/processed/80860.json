@@ -1,0 +1,31 @@
+{
+  "drug_code": "80860",
+  "din": "02323109",
+  "brand_name": "DR. REGISTER'S CALCIUM SUPPLEMENT",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "27-MAR-2012",
+  "active_ingredients": [
+    {
+      "name": "CALCIUM CHLORIDE",
+      "strength": "400",
+      "unit": "G"
+    },
+    {
+      "name": "CALCIUM PROPIONATE",
+      "strength": "200",
+      "unit": "G"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "DR REGISTER & ASSOCIATES INC"
+  ],
+  "status": "MARKETED",
+  "atc": []
+}

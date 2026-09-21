@@ -1,0 +1,26 @@
+{
+  "drug_code": "16433",
+  "din": "02057751",
+  "brand_name": "FERTAGYL INJECTION 100MCG/ML",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "05-MAY-2015",
+  "active_ingredients": [
+    {
+      "name": "GONADORELIN (GONADORELIN DECAPEPTIDE (GNRH))",
+      "strength": "100",
+      "unit": "MCG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "INTRAMUSCULAR"
+  ],
+  "companies": [
+    "INTERVET CANADA CORP"
+  ],
+  "status": "APPROVED",
+  "atc": []
+}

@@ -1,0 +1,26 @@
+{
+  "drug_code": "8110",
+  "din": "00708208",
+  "brand_name": "WORM TABS TAB 110MG",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "17-MAY-2002",
+  "active_ingredients": [
+    {
+      "name": "PIPERAZINE (PIPERAZINE ADIPATE)",
+      "strength": "110",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "DOMINION VETERINARY LABORATORIES LTD."
+  ],
+  "status": "MARKETED",
+  "atc": []
+}

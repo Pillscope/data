@@ -1,0 +1,29 @@
+{
+  "drug_code": "50081",
+  "din": "02147149",
+  "brand_name": "AFTER SUN SOOTHING SPRAY",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "10-MAY-2016",
+  "active_ingredients": [
+    {
+      "name": "LIDOCAINE",
+      "strength": "0.5",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "LIQUID",
+    "SPRAY"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "KINESYS PHARMACEUTICAL INC"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "LIDOCAINE"
+  ]
+}

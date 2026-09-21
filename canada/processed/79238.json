@@ -1,0 +1,48 @@
+{
+  "drug_code": "79238",
+  "din": "02306689",
+  "brand_name": "EXACT SUNSCREEN LOTION SPF FPS 30",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "21-MAY-2015",
+  "active_ingredients": [
+    {
+      "name": "AVOBENZONE",
+      "strength": "2.00",
+      "unit": "%"
+    },
+    {
+      "name": "OCTOCRYLENE",
+      "strength": "2.00",
+      "unit": "%"
+    },
+    {
+      "name": "OXYBENZONE",
+      "strength": "2.00",
+      "unit": "%"
+    },
+    {
+      "name": "OCTISALATE",
+      "strength": "5.00",
+      "unit": "%"
+    },
+    {
+      "name": "HOMOSALATE",
+      "strength": "10.50",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "LOTION"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "EMPACK SPRAYTECH INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "COMBINATIONS OF PROTECTIVES AGAINST UV-RADIATION"
+  ]
+}

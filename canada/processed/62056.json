@@ -1,0 +1,36 @@
+{
+  "drug_code": "62056",
+  "din": "02238628",
+  "brand_name": "SOLE PACK HOOF DRESSING",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "08-DEC-2015",
+  "active_ingredients": [
+    {
+      "name": "IODINE",
+      "strength": "3.10",
+      "unit": "%"
+    },
+    {
+      "name": "POTASSIUM IODIDE",
+      "strength": "2.22",
+      "unit": "%"
+    },
+    {
+      "name": "PINE TAR",
+      "strength": "64.99",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "OINTMENT"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "HAWTHORNE PRODUCTS INC."
+  ],
+  "status": "MARKETED",
+  "atc": []
+}

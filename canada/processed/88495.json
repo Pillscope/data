@@ -1,0 +1,28 @@
+{
+  "drug_code": "88495",
+  "din": "02400138",
+  "brand_name": "JAMP-ALPRAZOLAM",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "14-JAN-2016",
+  "active_ingredients": [
+    {
+      "name": "ALPRAZOLAM",
+      "strength": "0.5",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "JAMP PHARMA CORPORATION"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "ALPRAZOLAM"
+  ]
+}

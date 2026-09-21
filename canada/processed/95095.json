@@ -1,0 +1,28 @@
+{
+  "drug_code": "95095",
+  "din": "02463059",
+  "brand_name": "HIZENTRA",
+  "class": "Human",
+  "descriptor": "5 ML SINGLE USE PREFILLED SYRINGE",
+  "last_update": "11-OCT-2017",
+  "active_ingredients": [
+    {
+      "name": "IMMUNE GLOBULIN (HUMAN)",
+      "strength": "200",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "SUBCUTANEOUS"
+  ],
+  "companies": [
+    "CSL BEHRING CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "IMMUNOGLOBULINS, NORMAL HUMAN, FOR EXTRAVASC. ADM"
+  ]
+}

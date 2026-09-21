@@ -1,0 +1,46 @@
+{
+  "drug_code": "134",
+  "din": "00097411",
+  "brand_name": "STOP PICK",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "13-AUG-2003",
+  "active_ingredients": [
+    {
+      "name": "GENTIANA LUTEA",
+      "strength": "60",
+      "unit": "G"
+    },
+    {
+      "name": "MERBROMIN",
+      "strength": "7",
+      "unit": "G"
+    },
+    {
+      "name": "JUNIPER TAR",
+      "strength": "60",
+      "unit": "G"
+    },
+    {
+      "name": "ALOE",
+      "strength": "60",
+      "unit": "G"
+    },
+    {
+      "name": "NITROBENZENE",
+      "strength": "360",
+      "unit": "G"
+    }
+  ],
+  "forms": [
+    "OINTMENT"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "DOMINION VETERINARY LABORATORIES LTD."
+  ],
+  "status": "MARKETED",
+  "atc": []
+}

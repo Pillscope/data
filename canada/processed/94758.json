@@ -1,0 +1,28 @@
+{
+  "drug_code": "94758",
+  "din": "02460297",
+  "brand_name": "COMFILAX",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "12-SEP-2017",
+  "active_ingredients": [
+    {
+      "name": "POLYETHYLENE GLYCOL 3350",
+      "strength": "100",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "POWDER FOR SOLUTION"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "CELLCHEM PHARMACEUTICALS INC."
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "MACROGOL"
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "drug_code": "8567",
+  "din": "00308234",
+  "brand_name": "HEMOSTOP POWDER",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "23-NOV-2004",
+  "active_ingredients": [
+    {
+      "name": "TANNIC ACID",
+      "strength": "10",
+      "unit": "MG"
+    },
+    {
+      "name": "THYMOL IODIDE",
+      "strength": "1",
+      "unit": "MG"
+    },
+    {
+      "name": "FERROUS SULFATE",
+      "strength": "840",
+      "unit": "MG"
+    },
+    {
+      "name": "ALUMINUM AMMONIUM SULFATE DODECAHYDRATE",
+      "strength": "50",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "POWDER"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "PROFESSIONAL VETERINARY LABORATORIES"
+  ],
+  "status": "MARKETED",
+  "atc": []
+}

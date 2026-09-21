@@ -1,0 +1,36 @@
+{
+  "drug_code": "83919",
+  "din": "02353970",
+  "brand_name": "AURIZON",
+  "class": "Veterinary",
+  "descriptor": "EAR DROPS",
+  "last_update": "26-OCT-2010",
+  "active_ingredients": [
+    {
+      "name": "DEXAMETHASONE (DEXAMETHASONE ACETATE)",
+      "strength": "0.9",
+      "unit": "MG"
+    },
+    {
+      "name": "CLOTRIMAZOLE",
+      "strength": "10",
+      "unit": "MG"
+    },
+    {
+      "name": "MARBOFLOXACIN",
+      "strength": "3",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SUSPENSION"
+  ],
+  "routes": [
+    "OTIC"
+  ],
+  "companies": [
+    "VETOQUINOL N A INC"
+  ],
+  "status": "APPROVED",
+  "atc": []
+}

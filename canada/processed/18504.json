@@ -1,0 +1,28 @@
+{
+  "drug_code": "18504",
+  "din": "02065703",
+  "brand_name": "PHARMORUBICIN PFS",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "11-APR-2017",
+  "active_ingredients": [
+    {
+      "name": "EPIRUBICIN HYDROCHLORIDE",
+      "strength": "2",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "PHARMASCIENCE INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "EPIRUBICIN"
+  ]
+}

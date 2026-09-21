@@ -1,0 +1,81 @@
+{
+  "drug_code": "66864",
+  "din": "02243018",
+  "brand_name": "CAL-PASTE PLUS",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "25-FEB-2009",
+  "active_ingredients": [
+    {
+      "name": "THIAMINE HYDROCHLORIDE",
+      "strength": "125",
+      "unit": "MG"
+    },
+    {
+      "name": "NICOTINAMIDE",
+      "strength": "125",
+      "unit": "MG"
+    },
+    {
+      "name": "D-PANTOTHENIC ACID",
+      "strength": "12",
+      "unit": "MG"
+    },
+    {
+      "name": "PYRIDOXINE HYDROCHLORIDE",
+      "strength": "10",
+      "unit": "MG"
+    },
+    {
+      "name": "DL-ALPHA TOCOPHERYL ACETATE",
+      "strength": "75",
+      "unit": "UNIT"
+    },
+    {
+      "name": "COBALT SULFATE",
+      "strength": "14.7",
+      "unit": "MG"
+    },
+    {
+      "name": "VITAMIN B2",
+      "strength": "7",
+      "unit": "MG"
+    },
+    {
+      "name": "VITAMIN C",
+      "strength": "10",
+      "unit": "MG"
+    },
+    {
+      "name": "CALCIUM PHOSPHATE (DIBASIC)",
+      "strength": "177.5",
+      "unit": "G"
+    },
+    {
+      "name": "CALCIUM CHLORIDE",
+      "strength": "5",
+      "unit": "G"
+    },
+    {
+      "name": "COPPER SULFATE",
+      "strength": "119.5",
+      "unit": "MG"
+    },
+    {
+      "name": "VITAMIN B12 (CYANOCOBALAMIN)",
+      "strength": "200",
+      "unit": "MCG"
+    }
+  ],
+  "forms": [
+    "PASTE"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "CAN-VET ANIMAL HEALTH SUPPLIES LTD."
+  ],
+  "status": "MARKETED",
+  "atc": []
+}

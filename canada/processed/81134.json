@@ -1,0 +1,33 @@
+{
+  "drug_code": "81134",
+  "din": "02325993",
+  "brand_name": "ORAQIX",
+  "class": "Human",
+  "descriptor": "FOR PERIODONTAL USE",
+  "last_update": "12-MAR-2012",
+  "active_ingredients": [
+    {
+      "name": "LIDOCAINE",
+      "strength": "2.5",
+      "unit": "%"
+    },
+    {
+      "name": "PRILOCAINE",
+      "strength": "2.5",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "GEL"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "DENTSPLY CANADA LIMITED"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "COMBINATIONS"
+  ]
+}

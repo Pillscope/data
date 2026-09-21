@@ -1,0 +1,30 @@
+{
+  "drug_code": "91086",
+  "din": "02426269",
+  "brand_name": "ATROPINE SULFATE INJECTION",
+  "class": "Human",
+  "descriptor": "(0.1%).  5ML PREFILLED SYRINGES",
+  "last_update": "19-JAN-2017",
+  "active_ingredients": [
+    {
+      "name": "ATROPINE SULFATE",
+      "strength": "0.5",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "INTRAMUSCULAR",
+    "INTRAVENOUS",
+    "SUBCUTANEOUS"
+  ],
+  "companies": [
+    "BIOSYENT PHARMA INC"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "ATROPINE"
+  ]
+}

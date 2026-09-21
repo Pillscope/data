@@ -1,0 +1,35 @@
+{
+  "drug_code": "71548",
+  "din": "02247305",
+  "brand_name": "VIR-KIL",
+  "class": "Disinfectant",
+  "descriptor": "",
+  "last_update": "29-APR-2015",
+  "active_ingredients": [
+    {
+      "name": "SODIUM DICHLOROISOCYANURATE",
+      "strength": "5",
+      "unit": "%"
+    },
+    {
+      "name": "POTASSIUM PEROXYMONOSULFATE",
+      "strength": "23",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "POWDER"
+  ],
+  "routes": [
+    "DISINFECTANT (Barn)",
+    "DISINFECTANT (Food Premises)",
+    "DISINFECTANT (Hospital/HC Facilities)"
+  ],
+  "companies": [
+    "NOVARTIS ANIMAL HEALTH INC."
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "TECHNICAL DISINFECTANTS"
+  ]
+}

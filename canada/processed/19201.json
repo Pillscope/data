@@ -1,0 +1,29 @@
+{
+  "drug_code": "19201",
+  "din": "02128195",
+  "brand_name": "CEFOXITIN FOR INJECTION",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "05-MAY-2015",
+  "active_ingredients": [
+    {
+      "name": "CEFOXITIN (CEFOXITIN SODIUM)",
+      "strength": "2",
+      "unit": "G"
+    }
+  ],
+  "forms": [
+    "POWDER FOR SOLUTION"
+  ],
+  "routes": [
+    "INTRAMUSCULAR",
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "TEVA CANADA LIMITED"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "CEFOXITIN"
+  ]
+}

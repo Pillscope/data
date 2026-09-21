@@ -1,0 +1,28 @@
+{
+  "drug_code": "76925",
+  "din": "02283670",
+  "brand_name": "PMS-ASA",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "12-JUL-2012",
+  "active_ingredients": [
+    {
+      "name": "ACETYLSALICYLIC ACID",
+      "strength": "80",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "PHARMASCIENCE INC"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "ACETYLSALICYLIC ACID"
+  ]
+}

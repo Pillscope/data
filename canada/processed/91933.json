@@ -1,0 +1,38 @@
+{
+  "drug_code": "91933",
+  "din": "02435047",
+  "brand_name": "SMASHBOX CAMERA READY BB WATER SPF 30",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "03-JUL-2015",
+  "active_ingredients": [
+    {
+      "name": "ZINC OXIDE",
+      "strength": "2.1",
+      "unit": "%"
+    },
+    {
+      "name": "TITANIUM DIOXIDE",
+      "strength": "3.1",
+      "unit": "%"
+    },
+    {
+      "name": "OCTINOXATE",
+      "strength": "5",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "LIQUID"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "SMASHBOX COSMETICS DIST"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "COMBINATIONS OF PROTECTIVES AGAINST UV-RADIATION"
+  ]
+}

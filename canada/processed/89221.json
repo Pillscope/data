@@ -1,0 +1,28 @@
+{
+  "drug_code": "89221",
+  "din": "02407523",
+  "brand_name": "MAXIMUM STRENGTH ACID REDUCER WITHOUT PRESCRIPTION",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "13-JUL-2017",
+  "active_ingredients": [
+    {
+      "name": "RANITIDINE (RANITIDINE HYDROCHLORIDE)",
+      "strength": "150",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "DOMINION PHARMACAL"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "RANITIDINE"
+  ]
+}

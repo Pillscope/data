@@ -1,0 +1,31 @@
+{
+  "drug_code": "30727",
+  "din": "02125021",
+  "brand_name": "VIRKON",
+  "class": "Disinfectant",
+  "descriptor": "",
+  "last_update": "30-MAR-2010",
+  "active_ingredients": [
+    {
+      "name": "POTASSIUM PEROXYMONOSULFATE",
+      "strength": "21.4",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "POWDER FOR SOLUTION"
+  ],
+  "routes": [
+    "DISINFECTANT (Barn)",
+    "DISINFECTANT (Food Premises)",
+    "DISINFECTANT (Hospital/HC Facilities)",
+    "DISINFECTANT (Institutional/Industrial)"
+  ],
+  "companies": [
+    "VETOQUINOL N A INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "TECHNICAL DISINFECTANTS"
+  ]
+}

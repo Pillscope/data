@@ -1,0 +1,28 @@
+{
+  "drug_code": "13429",
+  "din": "02011239",
+  "brand_name": "CARBOLITH CAPSULES 600MG",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "08-DEC-2005",
+  "active_ingredients": [
+    {
+      "name": "LITHIUM CARBONATE",
+      "strength": "600",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "CAPSULE"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "VALEANT CANADA LP/VALEANT CANADA S.E.C."
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "LITHIUM"
+  ]
+}

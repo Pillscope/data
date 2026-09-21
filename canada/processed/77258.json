@@ -1,0 +1,28 @@
+{
+  "drug_code": "77258",
+  "din": "02287145",
+  "brand_name": "FOSRENOL",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "18-AUG-2016",
+  "active_ingredients": [
+    {
+      "name": "LANTHANUM (LANTHANUM CARBONATE HYDRATE)",
+      "strength": "250",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET (CHEWABLE)"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "SHIRE PHARMA CANADA ULC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "LANTHANUM CARBONATE"
+  ]
+}

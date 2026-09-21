@@ -1,0 +1,28 @@
+{
+  "drug_code": "91551",
+  "din": "02431076",
+  "brand_name": "NOCDURNA",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "26-NOV-2014",
+  "active_ingredients": [
+    {
+      "name": "DESMOPRESSIN (DESMOPRESSIN ACETATE)",
+      "strength": "50",
+      "unit": "MCG"
+    }
+  ],
+  "forms": [
+    "TABLET (ORALLY DISINTEGRATING)"
+  ],
+  "routes": [
+    "SUBLINGUAL"
+  ],
+  "companies": [
+    "FERRING INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "DESMOPRESSIN"
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "drug_code": "2587",
+  "din": "00379387",
+  "brand_name": "NEO-ATROPEC-C",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "16-JAN-2018",
+  "active_ingredients": [
+    {
+      "name": "ATROPINE METHYLNITRATE",
+      "strength": "0.25",
+      "unit": "MG"
+    },
+    {
+      "name": "NEOMYCIN SULFATE",
+      "strength": "12.5",
+      "unit": "MG"
+    },
+    {
+      "name": "PECTIN",
+      "strength": "32.5",
+      "unit": "MG"
+    },
+    {
+      "name": "SULFACETAMIDE",
+      "strength": "65",
+      "unit": "MG"
+    },
+    {
+      "name": "SULFAGUANIDINE",
+      "strength": "97.5",
+      "unit": "MG"
+    },
+    {
+      "name": "KAOLIN",
+      "strength": "195",
+      "unit": "MG"
+    },
+    {
+      "name": "ALUMINUM HYDROXIDE",
+      "strength": "65",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "ORMOND VETERINARY SUPPLY LTD."
+  ],
+  "status": "MARKETED",
+  "atc": []
+}

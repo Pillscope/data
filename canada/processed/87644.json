@@ -1,0 +1,28 @@
+{
+  "drug_code": "87644",
+  "din": "02391074",
+  "brand_name": "JAMP-ATORVASTATIN",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "08-JAN-2014",
+  "active_ingredients": [
+    {
+      "name": "ATORVASTATIN (ATORVASTATIN CALCIUM)",
+      "strength": "40",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "JAMP PHARMA CORPORATION"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "ATORVASTATIN"
+  ]
+}

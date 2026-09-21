@@ -1,0 +1,38 @@
+{
+  "drug_code": "95039",
+  "din": "02462613",
+  "brand_name": "CLINIQUE FIT WORKOUT MAKEUP SPF 40",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "06-MAR-2018",
+  "active_ingredients": [
+    {
+      "name": "TITANIUM DIOXIDE",
+      "strength": "1.6",
+      "unit": "%"
+    },
+    {
+      "name": "OCTISALATE",
+      "strength": "2",
+      "unit": "%"
+    },
+    {
+      "name": "OCTINOXATE",
+      "strength": "7.5",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "LIQUID"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "CLINIQUE LABORATORIES DIST"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "COMBINATIONS OF PROTECTIVES AGAINST UV-RADIATION"
+  ]
+}

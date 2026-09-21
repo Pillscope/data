@@ -1,0 +1,26 @@
+{
+  "drug_code": "128",
+  "din": "00097144",
+  "brand_name": "EGG SHELL GERMICIDE 5%",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "11-AUG-2017",
+  "active_ingredients": [
+    {
+      "name": "ZINC SULFATE",
+      "strength": "5",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "LIQUID"
+  ],
+  "routes": [
+    "MISCELLANEOUS"
+  ],
+  "companies": [
+    "DOMINION VETERINARY LABORATORIES LTD."
+  ],
+  "status": "MARKETED",
+  "atc": []
+}

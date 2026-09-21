@@ -1,0 +1,28 @@
+{
+  "drug_code": "84724",
+  "din": "02362228",
+  "brand_name": "AC\u00c3\u0089TAMINOPH\u00c3\u0088NE CAPLET 500",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "02-DEC-2014",
+  "active_ingredients": [
+    {
+      "name": "ACETAMINOPHEN",
+      "strength": "500",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "LABORATOIRE RIVA INC"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "ACETAMINOPHEN (PARACETAMOL)"
+  ]
+}

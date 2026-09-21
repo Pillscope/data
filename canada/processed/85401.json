@@ -1,0 +1,28 @@
+{
+  "drug_code": "85401",
+  "din": "02369060",
+  "brand_name": "APO-LAMIVUDINE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "24-OCT-2017",
+  "active_ingredients": [
+    {
+      "name": "LAMIVUDINE",
+      "strength": "300",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "APOTEX INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "LAMIVUDINE"
+  ]
+}

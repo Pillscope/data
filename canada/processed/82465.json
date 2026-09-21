@@ -1,0 +1,28 @@
+{
+  "drug_code": "82465",
+  "din": "02339013",
+  "brand_name": "PEAR ANTIBACTERIAL HAND SOAP",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "03-FEB-2010",
+  "active_ingredients": [
+    {
+      "name": "TRICLOSAN",
+      "strength": "0.1",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "LIQUID"
+  ],
+  "routes": [
+    "TOPICAL (HOUSEHOLD)"
+  ],
+  "companies": [
+    "ZEP MANUFACTURING COMPANY OF CANADA"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "TRICLOSAN"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "drug_code": "73513",
+  "din": "02250322",
+  "brand_name": "SWEEN 24",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "30-JUL-2015",
+  "active_ingredients": [
+    {
+      "name": "DIMETHICONE",
+      "strength": "6",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "CREAM"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "COLOPLAST A/S"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "SILICONE PRODUCTS"
+  ]
+}

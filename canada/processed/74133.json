@@ -1,0 +1,28 @@
+{
+  "drug_code": "74133",
+  "din": "02256096",
+  "brand_name": "MYLAN-MIRTAZAPINE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "21-DEC-2010",
+  "active_ingredients": [
+    {
+      "name": "MIRTAZAPINE",
+      "strength": "15",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "MYLAN PHARMACEUTICALS ULC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "MIRTAZAPINE"
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "drug_code": "21167",
+  "din": "01908626",
+  "brand_name": "COUGH & COLD",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "09-DEC-2014",
+  "active_ingredients": [
+    {
+      "name": "PHENIRAMINE MALEATE",
+      "strength": "20",
+      "unit": "MG"
+    },
+    {
+      "name": "PHENYLEPHRINE HYDROCHLORIDE",
+      "strength": "10",
+      "unit": "MG"
+    },
+    {
+      "name": "DEXTROMETHORPHAN HYDROBROMIDE",
+      "strength": "30",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "POWDER FOR SOLUTION"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "PHARMASCIENCE INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "COMBINATIONS",
+    "COMBINATIONS"
+  ]
+}

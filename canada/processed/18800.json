@@ -1,0 +1,28 @@
+{
+  "drug_code": "18800",
+  "din": "02156032",
+  "brand_name": "FLUANXOL DEPOT 2% -LIQ IM 20MG/ML",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "10-AUG-2007",
+  "active_ingredients": [
+    {
+      "name": "FLUPENTIXOL DECANOATE",
+      "strength": "20",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "INTRAMUSCULAR"
+  ],
+  "companies": [
+    "LUNDBECK CANADA INC"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "FLUPENTIXOL"
+  ]
+}

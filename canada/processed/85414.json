@@ -1,0 +1,28 @@
+{
+  "drug_code": "85414",
+  "din": "02369206",
+  "brand_name": "JAMP-DOMPERIDONE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "21-SEP-2017",
+  "active_ingredients": [
+    {
+      "name": "DOMPERIDONE (DOMPERIDONE MALEATE)",
+      "strength": "10",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "JAMP PHARMA CORPORATION"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "DOMPERIDONE"
+  ]
+}

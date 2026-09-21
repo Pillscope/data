@@ -1,0 +1,28 @@
+{
+  "drug_code": "87531",
+  "din": "02389835",
+  "brand_name": "ACH-TEMOZOLOMIDE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "05-MAY-2015",
+  "active_ingredients": [
+    {
+      "name": "TEMOZOLOMIDE",
+      "strength": "140",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "CAPSULE"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "ACCORD HEALTHCARE INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "TEMOZOLOMIDE"
+  ]
+}

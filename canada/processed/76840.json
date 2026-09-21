@@ -1,0 +1,28 @@
+{
+  "drug_code": "76840",
+  "din": "02282763",
+  "brand_name": "DOM-ALENDRONATE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "22-JUL-2015",
+  "active_ingredients": [
+    {
+      "name": "ALENDRONIC ACID (ALENDRONATE SODIUM)",
+      "strength": "70",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "DOMINION PHARMACAL"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "ALENDRONIC ACID"
+  ]
+}

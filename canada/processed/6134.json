@@ -1,0 +1,28 @@
+{
+  "drug_code": "6134",
+  "din": "00591467",
+  "brand_name": "STATEX SYRUP 1MG/ML",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "19-JAN-2010",
+  "active_ingredients": [
+    {
+      "name": "MORPHINE SULFATE",
+      "strength": "1",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SYRUP"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "PALADIN LABS INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "MORPHINE"
+  ]
+}

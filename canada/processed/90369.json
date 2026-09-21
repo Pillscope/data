@@ -1,0 +1,28 @@
+{
+  "drug_code": "90369",
+  "din": "02419157",
+  "brand_name": "BOSULIF",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "10-SEP-2014",
+  "active_ingredients": [
+    {
+      "name": "Bosutinib",
+      "strength": "500",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "PFIZER CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "BOSUTINIB"
+  ]
+}

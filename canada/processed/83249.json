@@ -1,0 +1,28 @@
+{
+  "drug_code": "83249",
+  "din": "02347091",
+  "brand_name": "SANDOZ VALACYCLOVIR",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "26-OCT-2015",
+  "active_ingredients": [
+    {
+      "name": "VALACYCLOVIR (VALACYCLOVIR HYDROCHLORIDE MONOHYDRATE)",
+      "strength": "500",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "SANDOZ CANADA INCORPORATED"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "VALACICLOVIR"
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "drug_code": "19248",
+  "din": "02163934",
+  "brand_name": "TYLENOL WITH CODEINE NO. 2 - TAB",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "14-MAR-2018",
+  "active_ingredients": [
+    {
+      "name": "CODEINE PHOSPHATE",
+      "strength": "15",
+      "unit": "MG"
+    },
+    {
+      "name": "ACETAMINOPHEN",
+      "strength": "300",
+      "unit": "MG"
+    },
+    {
+      "name": "CAFFEINE",
+      "strength": "15",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "JANSSEN INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "CODEINE AND PARACETAMOL",
+    "CODEINE AND PARACETAMOL"
+  ]
+}

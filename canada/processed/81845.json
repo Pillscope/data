@@ -1,0 +1,35 @@
+{
+  "drug_code": "81845",
+  "din": "02332795",
+  "brand_name": "DALCAM 3OOQ",
+  "class": "Disinfectant",
+  "descriptor": "",
+  "last_update": "26-OCT-2009",
+  "active_ingredients": [
+    {
+      "name": "BENZALKONIUM CHLORIDE",
+      "strength": "0.59",
+      "unit": "%"
+    },
+    {
+      "name": "ALKYL DIMETHYL ETHYLBENZYL AMMONIUM CHLORIDE",
+      "strength": "0.59",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "LIQUID"
+  ],
+  "routes": [
+    "DISINFECTANT (Food Premises)",
+    "DISINFECTANT (Hospital/HC Facilities)",
+    "DISINFECTANT (Domestic)"
+  ],
+  "companies": [
+    "DALCAM SANITATION SOLUTIONS INC."
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "TECHNICAL DISINFECTANTS"
+  ]
+}

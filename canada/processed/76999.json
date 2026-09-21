@@ -1,0 +1,48 @@
+{
+  "drug_code": "76999",
+  "din": "02284413",
+  "brand_name": "ROTATEQ",
+  "class": "Human",
+  "descriptor": "ROTAVIRUS VACCINE, LIVE, ORAL, PENTAVALENT. PREFILLED 2ML UNIT DOSE TUBE",
+  "last_update": "15-AUG-2011",
+  "active_ingredients": [
+    {
+      "name": "HUMAN-BOVINE ROTAVIRUS REASSORTANT TYPE G1",
+      "strength": "2210000",
+      "unit": "UNIT"
+    },
+    {
+      "name": "HUMAN-BOVINE ROTAVIRUS REASSORTANT TYPE G2",
+      "strength": "2840000",
+      "unit": "UNIT"
+    },
+    {
+      "name": "HUMAN-BOVINE ROTAVIRUS REASSORTANT TYPE G3",
+      "strength": "2220000",
+      "unit": "UNIT"
+    },
+    {
+      "name": "HUMAN-BOVINE ROTAVIRUS REASSORTANT TYPE G4",
+      "strength": "2040000",
+      "unit": "UNIT"
+    },
+    {
+      "name": "HUMAN-BOVINE ROTAVIRUS REASSORTANT TYPE P1(8)",
+      "strength": "2290000",
+      "unit": "UNIT"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "MERCK CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "ROTAVIRUS,PENTAVALENT,LIVE,REASSORTED"
+  ]
+}

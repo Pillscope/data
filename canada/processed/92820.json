@@ -1,0 +1,28 @@
+{
+  "drug_code": "92820",
+  "din": "02443511",
+  "brand_name": "TARO-TEMOZOLOMIDE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "09-MAY-2016",
+  "active_ingredients": [
+    {
+      "name": "TEMOZOLOMIDE",
+      "strength": "100",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "CAPSULE"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "TARO PHARMACEUTICALS INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "TEMOZOLOMIDE"
+  ]
+}

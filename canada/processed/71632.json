@@ -1,0 +1,28 @@
+{
+  "drug_code": "71632",
+  "din": "02247387",
+  "brand_name": "PMS-HYDROCHLOROTHIAZIDE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "29-APR-2015",
+  "active_ingredients": [
+    {
+      "name": "HYDROCHLOROTHIAZIDE",
+      "strength": "50",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "PHARMASCIENCE INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "HYDROCHLOROTHIAZIDE"
+  ]
+}

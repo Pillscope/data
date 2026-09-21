@@ -1,0 +1,26 @@
+{
+  "drug_code": "1869",
+  "din": "00293172",
+  "brand_name": "SULFA-ZINE POWDER",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "04-JAN-2018",
+  "active_ingredients": [
+    {
+      "name": "SULFAMETHAZINE SODIUM",
+      "strength": "100",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "POWDER FOR SOLUTION"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "DOMINION VETERINARY LABORATORIES LTD."
+  ],
+  "status": "MARKETED",
+  "atc": []
+}

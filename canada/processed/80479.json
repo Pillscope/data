@@ -1,0 +1,28 @@
+{
+  "drug_code": "80479",
+  "din": "02319314",
+  "brand_name": "TINACTIN CHILL LIQUID SPRAY",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "11-SEP-2017",
+  "active_ingredients": [
+    {
+      "name": "TOLNAFTATE",
+      "strength": "1",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "AEROSOL"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "BAYER INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "TOLNAFTATE"
+  ]
+}

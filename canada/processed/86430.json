@@ -1,0 +1,28 @@
+{
+  "drug_code": "86430",
+  "din": "02378507",
+  "brand_name": "DOM-CLOPIDOGREL",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "02-OCT-2012",
+  "active_ingredients": [
+    {
+      "name": "CLOPIDOGREL (CLOPIDOGREL BISULFATE)",
+      "strength": "75",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "DOMINION PHARMACAL"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "CLOPIDOGREL"
+  ]
+}

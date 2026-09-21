@@ -1,0 +1,28 @@
+{
+  "drug_code": "91618",
+  "din": "02431718",
+  "brand_name": "FOOT CARE FOAM",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "13-FEB-2017",
+  "active_ingredients": [
+    {
+      "name": "TOLNAFTATE",
+      "strength": "1",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "AEROSOL, FOAM"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "NEUBOURG SKIN CARE OF NORTH AMERICA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "TOLNAFTATE"
+  ]
+}

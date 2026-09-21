@@ -1,0 +1,34 @@
+{
+  "drug_code": "94018",
+  "din": "02453622",
+  "brand_name": "APO-OLMESARTAN/HCTZ",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "05-MAY-2017",
+  "active_ingredients": [
+    {
+      "name": "HYDROCHLOROTHIAZIDE",
+      "strength": "25",
+      "unit": "MG"
+    },
+    {
+      "name": "OLMESARTAN MEDOXOMIL",
+      "strength": "40",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "APOTEX INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "OLMESARTAN MEDOXOMIL AND DIURETICS",
+    "OLMESARTAN MEDOXOMIL AND DIURETICS"
+  ]
+}

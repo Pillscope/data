@@ -1,0 +1,28 @@
+{
+  "drug_code": "91026",
+  "din": "02425629",
+  "brand_name": "LUCENTIS",
+  "class": "Human",
+  "descriptor": "PRE-FILLED SYRINGE",
+  "last_update": "19-SEP-2014",
+  "active_ingredients": [
+    {
+      "name": "RANIBIZUMAB",
+      "strength": "10",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "INTRAVITREAL"
+  ],
+  "companies": [
+    "NOVARTIS PHARMACEUTICALS CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "RANIBIZUMAB"
+  ]
+}

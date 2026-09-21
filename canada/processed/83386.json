@@ -1,0 +1,28 @@
+{
+  "drug_code": "83386",
+  "din": "02348500",
+  "brand_name": "TEVA-FINASTERIDE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "29-APR-2015",
+  "active_ingredients": [
+    {
+      "name": "FINASTERIDE",
+      "strength": "5",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "TEVA CANADA LIMITED"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "FINASTERIDE"
+  ]
+}

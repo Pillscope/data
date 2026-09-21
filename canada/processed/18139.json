@@ -1,0 +1,34 @@
+{
+  "drug_code": "18139",
+  "din": "02049961",
+  "brand_name": "TENORETIC 50/25MG TAB",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "21-SEP-2009",
+  "active_ingredients": [
+    {
+      "name": "ATENOLOL",
+      "strength": "50",
+      "unit": "MG"
+    },
+    {
+      "name": "CHLORTHALIDONE",
+      "strength": "25",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "ASTRAZENECA CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "ATENOLOL AND OTHER DIURETICS",
+    "ATENOLOL AND OTHER DIURETICS"
+  ]
+}

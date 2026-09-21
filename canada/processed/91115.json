@@ -1,0 +1,33 @@
+{
+  "drug_code": "91115",
+  "din": "02426587",
+  "brand_name": "REVLON PHOTOREADY AIRBRUSH EFFECT MAKEUP",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "02-JAN-2015",
+  "active_ingredients": [
+    {
+      "name": "ZINC OXIDE",
+      "strength": "0.1",
+      "unit": "%"
+    },
+    {
+      "name": "OCTINOXATE",
+      "strength": "4.5",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "LOTION"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "REVLON CANADA INC"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "COMBINATIONS OF PROTECTIVES AGAINST UV-RADIATION"
+  ]
+}

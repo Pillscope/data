@@ -1,0 +1,28 @@
+{
+  "drug_code": "88060",
+  "din": "02395517",
+  "brand_name": "WAMPOLE ACTIVATED CHARCOAL",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "13-JAN-2015",
+  "active_ingredients": [
+    {
+      "name": "CHARCOAL ACTIVATED",
+      "strength": "225",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "CAPSULE"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "JAMP PHARMA CORPORATION"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "MEDICINAL CHARCOAL"
+  ]
+}

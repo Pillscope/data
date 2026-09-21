@@ -1,0 +1,28 @@
+{
+  "drug_code": "86538",
+  "din": "02379481",
+  "brand_name": "LORATADINE SOFT GEL CAPSULE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "30-JAN-2013",
+  "active_ingredients": [
+    {
+      "name": "LORATADINE",
+      "strength": "10",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "CAPSULE"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "APOTEX INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "LORATADINE"
+  ]
+}

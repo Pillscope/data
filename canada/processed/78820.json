@@ -1,0 +1,28 @@
+{
+  "drug_code": "78820",
+  "din": "02302896",
+  "brand_name": "ACT PIOGLITAZONE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "16-MAY-2017",
+  "active_ingredients": [
+    {
+      "name": "PIOGLITAZONE (PIOGLITAZONE HYDROCHLORIDE)",
+      "strength": "45",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "ACTAVIS PHARMA COMPANY"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "PIOGLITAZONE"
+  ]
+}

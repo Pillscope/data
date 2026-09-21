@@ -1,0 +1,28 @@
+{
+  "drug_code": "85029",
+  "din": "02365383",
+  "brand_name": "APO-FINASTERIDE",
+  "class": "Human",
+  "descriptor": "FILM-COATED TABLET",
+  "last_update": "16-MAR-2018",
+  "active_ingredients": [
+    {
+      "name": "FINASTERIDE",
+      "strength": "5",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "APOTEX INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "FINASTERIDE"
+  ]
+}

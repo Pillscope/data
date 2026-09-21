@@ -1,0 +1,28 @@
+{
+  "drug_code": "89701",
+  "din": "02412381",
+  "brand_name": "RAN-CELECOXIB",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "20-NOV-2014",
+  "active_ingredients": [
+    {
+      "name": "CELECOXIB",
+      "strength": "200",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "CAPSULE"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "RANBAXY PHARMACEUTICALS CANADA INC."
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "CELECOXIB"
+  ]
+}

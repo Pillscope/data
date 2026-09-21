@@ -1,0 +1,34 @@
+{
+  "drug_code": "95094",
+  "din": "02463040",
+  "brand_name": "ORKAMBI",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "29-MAY-2017",
+  "active_ingredients": [
+    {
+      "name": "IVACAFTOR",
+      "strength": "125",
+      "unit": "MG"
+    },
+    {
+      "name": "LUMACAFTOR",
+      "strength": "100",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "VERTEX PHARMACEUTICALS (CANADA) INCORPORATED"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "IVACAFTOR AND LUMACAFTOR",
+    "IVACAFTOR AND LUMACAFTOR"
+  ]
+}

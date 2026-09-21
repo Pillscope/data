@@ -1,0 +1,33 @@
+{
+  "drug_code": "13894",
+  "din": "02014378",
+  "brand_name": "OXYGEN USP, NITROGEN NF, MEDICAL GAS MIXTURE",
+  "class": "Human",
+  "descriptor": "O2:23.5-50% BALANCED WITH N2",
+  "last_update": "14-JUL-2010",
+  "active_ingredients": [
+    {
+      "name": "OXYGEN",
+      "strength": "50",
+      "unit": "%"
+    },
+    {
+      "name": "NITROGEN",
+      "strength": "50",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "GAS"
+  ],
+  "routes": [
+    "INHALATION"
+  ],
+  "companies": [
+    "PRAXAIR CANADA INC"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "COMBINATION"
+  ]
+}

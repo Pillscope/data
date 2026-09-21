@@ -1,0 +1,33 @@
+{
+  "drug_code": "69200",
+  "din": "02245185",
+  "brand_name": "IMODIUM COMPLETE CAPLETS",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "05-MAY-2015",
+  "active_ingredients": [
+    {
+      "name": "SIMETHICONE",
+      "strength": "125",
+      "unit": "MG"
+    },
+    {
+      "name": "LOPERAMIDE HYDROCHLORIDE",
+      "strength": "2",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "MCNEIL CONSUMER HEALTHCARE DIVISION OF JOHNSON & JOHNSON INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "LOPERAMIDE, COMBINATIONS"
+  ]
+}

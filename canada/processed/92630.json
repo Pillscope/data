@@ -1,0 +1,28 @@
+{
+  "drug_code": "92630",
+  "din": "02441934",
+  "brand_name": "ACT METHYLPHENIDATE ER",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "04-APR-2018",
+  "active_ingredients": [
+    {
+      "name": "METHYLPHENIDATE HYDROCHLORIDE",
+      "strength": "18",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET (EXTENDED-RELEASE)"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "ACTAVIS PHARMA COMPANY"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "METHYLPHENIDATE"
+  ]
+}

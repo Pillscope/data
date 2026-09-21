@@ -1,0 +1,28 @@
+{
+  "drug_code": "89301",
+  "din": "02408287",
+  "brand_name": "TEVA-DUTASTERIDE",
+  "class": "Human",
+  "descriptor": "SOFT GELATIN CAPSULE",
+  "last_update": "24-SEP-2014",
+  "active_ingredients": [
+    {
+      "name": "DUTASTERIDE",
+      "strength": "0.5",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "CAPSULE"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "TEVA CANADA LIMITED"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "DUTASTERIDE"
+  ]
+}

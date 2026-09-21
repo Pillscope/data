@@ -1,0 +1,34 @@
+{
+  "drug_code": "89696",
+  "din": "02412349",
+  "brand_name": "JACK & JILL BEDTIME COUGH & COLD",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "19-AUG-2014",
+  "active_ingredients": [
+    {
+      "name": "PHENYLEPHRINE HYDROCHLORIDE",
+      "strength": "2.5",
+      "unit": "MG"
+    },
+    {
+      "name": "DIPHENHYDRAMINE HYDROCHLORIDE",
+      "strength": "6.25",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SYRUP"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "THE BUCKLEY'S COMPANY"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "PHENYLEPHRINE, COMBINATIONS",
+    "PHENYLEPHRINE, COMBINATIONS"
+  ]
+}

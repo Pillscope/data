@@ -1,0 +1,26 @@
+{
+  "drug_code": "2756",
+  "din": "00401595",
+  "brand_name": "TESTOSTERONE PROPIONATE INJ 100MG/ML",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "26-JUL-2006",
+  "active_ingredients": [
+    {
+      "name": "TESTOSTERONE PROPIONATE",
+      "strength": "100",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "INTRAMUSCULAR"
+  ],
+  "companies": [
+    "DOMINION VETERINARY LABORATORIES LTD."
+  ],
+  "status": "MARKETED",
+  "atc": []
+}

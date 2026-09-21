@@ -1,0 +1,28 @@
+{
+  "drug_code": "84067",
+  "din": "02355442",
+  "brand_name": "PMS-CELECOXIB",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "26-NOV-2014",
+  "active_ingredients": [
+    {
+      "name": "CELECOXIB",
+      "strength": "100",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "CAPSULE"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "PHARMASCIENCE INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "CELECOXIB"
+  ]
+}

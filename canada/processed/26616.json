@@ -1,0 +1,26 @@
+{
+  "drug_code": "26616",
+  "din": "02030578",
+  "brand_name": "ERYTHRO-MED",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "22-DEC-2017",
+  "active_ingredients": [
+    {
+      "name": "ERYTHROMYCIN (ERYTHROMYCIN PHOSPHATE)",
+      "strength": "115.6",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "POWDER FOR SOLUTION"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "BIO AGRI MIX LP"
+  ],
+  "status": "APPROVED",
+  "atc": []
+}

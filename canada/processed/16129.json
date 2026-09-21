@@ -1,0 +1,26 @@
+{
+  "drug_code": "16129",
+  "din": "02060558",
+  "brand_name": "ENACARD 2.5MG TABLETS FOR DOGS",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "05-MAY-2015",
+  "active_ingredients": [
+    {
+      "name": "ENALAPRIL MALEATE",
+      "strength": "2.5",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "MERIAL CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": []
+}

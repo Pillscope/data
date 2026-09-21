@@ -1,0 +1,53 @@
+{
+  "drug_code": "78012",
+  "din": "02294788",
+  "brand_name": "ACCUSOL 35 K4",
+  "class": "Human",
+  "descriptor": "SINGLE USE",
+  "last_update": "17-JAN-2017",
+  "active_ingredients": [
+    {
+      "name": "SODIUM BICARBONATE",
+      "strength": "12.9",
+      "unit": "G"
+    },
+    {
+      "name": "POTASSIUM CHLORIDE",
+      "strength": "0.398",
+      "unit": "G"
+    },
+    {
+      "name": "SODIUM CHLORIDE",
+      "strength": "7.66",
+      "unit": "G"
+    },
+    {
+      "name": "MAGNESIUM CHLORIDE",
+      "strength": "0.136",
+      "unit": "G"
+    },
+    {
+      "name": "CALCIUM CHLORIDE",
+      "strength": "0.343",
+      "unit": "G"
+    },
+    {
+      "name": "DEXTROSE ANHYDROUS",
+      "strength": "1.33",
+      "unit": "G"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "DIALYSIS"
+  ],
+  "companies": [
+    "CHIEF MEDICAL SUPPLIES LTD"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "HEMODIALYTICS, CONCENTRATES"
+  ]
+}

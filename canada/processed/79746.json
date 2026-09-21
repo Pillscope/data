@@ -1,0 +1,28 @@
+{
+  "drug_code": "79746",
+  "din": "02311925",
+  "brand_name": "TEVA-FENTANYL",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "05-MAY-2015",
+  "active_ingredients": [
+    {
+      "name": "FENTANYL",
+      "strength": "12",
+      "unit": "MCG"
+    }
+  ],
+  "forms": [
+    "PATCH"
+  ],
+  "routes": [
+    "TRANSDERMAL"
+  ],
+  "companies": [
+    "TEVA CANADA LIMITED"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "FENTANYL"
+  ]
+}

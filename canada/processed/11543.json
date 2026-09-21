@@ -1,0 +1,26 @@
+{
+  "drug_code": "11543",
+  "din": "01908340",
+  "brand_name": "STAFAC 500",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "22-JAN-2018",
+  "active_ingredients": [
+    {
+      "name": "VIRGINIAMYCIN",
+      "strength": "500",
+      "unit": "G"
+    }
+  ],
+  "forms": [
+    "DRUG PREMIX"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "PHIBRO ANIMAL HEALTH CORPORATION"
+  ],
+  "status": "APPROVED",
+  "atc": []
+}

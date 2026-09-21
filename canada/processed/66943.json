@@ -1,0 +1,35 @@
+{
+  "drug_code": "66943",
+  "din": "02243077",
+  "brand_name": "HUMATROPE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "20-JUL-2005",
+  "active_ingredients": [
+    {
+      "name": "SOMATROPIN",
+      "strength": "6",
+      "unit": "MG"
+    },
+    {
+      "name": "DILUENT",
+      "strength": "3.15",
+      "unit": "ML"
+    }
+  ],
+  "forms": [
+    "LIQUID",
+    "POWDER FOR SOLUTION"
+  ],
+  "routes": [
+    "INTRAMUSCULAR",
+    "SUBCUTANEOUS"
+  ],
+  "companies": [
+    "ELI LILLY CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "SOMATROPIN"
+  ]
+}

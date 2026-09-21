@@ -1,0 +1,28 @@
+{
+  "drug_code": "78289",
+  "din": "02297558",
+  "brand_name": "MEZAVANT",
+  "class": "Human",
+  "descriptor": "ALSO KNOWN AS MESALAMINE",
+  "last_update": "23-MAR-2018",
+  "active_ingredients": [
+    {
+      "name": "MESALAZINE",
+      "strength": "1.2",
+      "unit": "G"
+    }
+  ],
+  "forms": [
+    "TABLET (DELAYED AND EXTENDED RELEASE)"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "SHIRE PHARMA CANADA ULC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "MESALAZINE"
+  ]
+}

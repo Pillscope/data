@@ -1,0 +1,53 @@
+{
+  "drug_code": "84451",
+  "din": "02359499",
+  "brand_name": "MOVIPREP",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "13-JUL-2011",
+  "active_ingredients": [
+    {
+      "name": "POLYETHYLENE GLYCOL 3350",
+      "strength": "100.0",
+      "unit": "G"
+    },
+    {
+      "name": "VITAMIN C",
+      "strength": "4.700",
+      "unit": "G"
+    },
+    {
+      "name": "POTASSIUM CHLORIDE",
+      "strength": "1.015",
+      "unit": "G"
+    },
+    {
+      "name": "SODIUM CHLORIDE",
+      "strength": "2.691",
+      "unit": "G"
+    },
+    {
+      "name": "SODIUM ASCORBATE",
+      "strength": "5.900",
+      "unit": "G"
+    },
+    {
+      "name": "Sodium Sulfate Anhydrous",
+      "strength": "7.500",
+      "unit": "G"
+    }
+  ],
+  "forms": [
+    "POWDER FOR SOLUTION"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "MEDICAL FUTURES INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "MACROGOL, COMBINATIONS"
+  ]
+}

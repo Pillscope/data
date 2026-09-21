@@ -1,0 +1,28 @@
+{
+  "drug_code": "63869",
+  "din": "02240329",
+  "brand_name": "ONE-ALPHA",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "26-JAN-2006",
+  "active_ingredients": [
+    {
+      "name": "ALFACALCIDOL",
+      "strength": "2",
+      "unit": "MCG"
+    }
+  ],
+  "forms": [
+    "DROPS"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "LEO PHARMA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "ALFACALCIDOL"
+  ]
+}

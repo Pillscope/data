@@ -1,0 +1,38 @@
+{
+  "drug_code": "85281",
+  "din": "02367998",
+  "brand_name": "CLINIQUE EVEN BETTER MAKEUP SPF 15",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "13-JUL-2012",
+  "active_ingredients": [
+    {
+      "name": "ZINC OXIDE",
+      "strength": "2.8",
+      "unit": "%"
+    },
+    {
+      "name": "TITANIUM DIOXIDE",
+      "strength": "3.5",
+      "unit": "%"
+    },
+    {
+      "name": "OCTINOXATE",
+      "strength": "5.9",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "EMULSION"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "CLINIQUE LABORATORIES DIST"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "COMBINATIONS OF PROTECTIVES AGAINST UV-RADIATION"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "drug_code": "82345",
+  "din": "02337819",
+  "brand_name": "EXTAVIA",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "01-SEP-2010",
+  "active_ingredients": [
+    {
+      "name": "INTERFERON BETA-1B",
+      "strength": "0.3",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "POWDER FOR SOLUTION"
+  ],
+  "routes": [
+    "SUBCUTANEOUS"
+  ],
+  "companies": [
+    "NOVARTIS PHARMACEUTICALS CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "INTERFERON BETA-1B"
+  ]
+}

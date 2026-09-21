@@ -1,0 +1,28 @@
+{
+  "drug_code": "10665",
+  "din": "00786616",
+  "brand_name": "BRICANYL TURBUHALER",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "06-JAN-2012",
+  "active_ingredients": [
+    {
+      "name": "TERBUTALINE SULFATE",
+      "strength": "0.5",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "POWDER (METERED DOSE)"
+  ],
+  "routes": [
+    "INHALATION"
+  ],
+  "companies": [
+    "ASTRAZENECA CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "TERBUTALINE"
+  ]
+}

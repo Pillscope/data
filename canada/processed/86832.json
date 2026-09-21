@@ -1,0 +1,30 @@
+{
+  "drug_code": "86832",
+  "din": "02382482",
+  "brand_name": "NALOXONE HYDROCHLORIDE INJECTION USP",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "22-SEP-2017",
+  "active_ingredients": [
+    {
+      "name": "NALOXONE HYDROCHLORIDE (NALOXONE HYDROCHLORIDE DIHYDRATE)",
+      "strength": "0.4",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "INTRAMUSCULAR",
+    "INTRAVENOUS",
+    "SUBCUTANEOUS"
+  ],
+  "companies": [
+    "TELIGENT OU"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "NALOXONE"
+  ]
+}

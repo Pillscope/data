@@ -1,0 +1,33 @@
+{
+  "drug_code": "85703",
+  "din": "02371928",
+  "brand_name": "VANILLA LATTE TINTED MOISTURIZER",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "03-JUL-2013",
+  "active_ingredients": [
+    {
+      "name": "ZINC OXIDE",
+      "strength": "6",
+      "unit": "%"
+    },
+    {
+      "name": "OCTINOXATE",
+      "strength": "6",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "LOTION"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "EMINENCE ORGANIC SKIN CARE"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "COMBINATIONS OF PROTECTIVES AGAINST UV-RADIATION"
+  ]
+}

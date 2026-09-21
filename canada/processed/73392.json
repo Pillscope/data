@@ -1,0 +1,28 @@
+{
+  "drug_code": "73392",
+  "din": "02249057",
+  "brand_name": "REPLAGAL",
+  "class": "Human",
+  "descriptor": "SINGLE-USE VIAL",
+  "last_update": "05-MAY-2017",
+  "active_ingredients": [
+    {
+      "name": "AGALSIDASE ALFA",
+      "strength": "1",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "SHIRE HUMAN GENETIC THERAPIES INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "AGALSIDASE ALFA"
+  ]
+}

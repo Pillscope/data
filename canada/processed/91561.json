@@ -1,0 +1,28 @@
+{
+  "drug_code": "91561",
+  "din": "02431173",
+  "brand_name": "ESOMEPRAZOLE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "26-JAN-2015",
+  "active_ingredients": [
+    {
+      "name": "ESOMEPRAZOLE (ESOMEPRAZOLE MAGNESIUM)",
+      "strength": "40",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET (DELAYED-RELEASE)"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "SANIS HEALTH INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "ESOMEPRAZOLE"
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "drug_code": "6616",
+  "din": "00677442",
+  "brand_name": "COLYTE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "16-SEP-2014",
+  "active_ingredients": [
+    {
+      "name": "SODIUM SULFATE",
+      "strength": "81.2",
+      "unit": "MG"
+    },
+    {
+      "name": "SODIUM BICARBONATE",
+      "strength": "24.02",
+      "unit": "MG"
+    },
+    {
+      "name": "POLYETHYLENE GLYCOL 3350",
+      "strength": "857.69",
+      "unit": "MG"
+    },
+    {
+      "name": "SODIUM CHLORIDE",
+      "strength": "20.87",
+      "unit": "MG"
+    },
+    {
+      "name": "POTASSIUM CHLORIDE",
+      "strength": "10.65",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "POWDER FOR SOLUTION"
+  ],
+  "routes": [
+    "NASOGASTRIC",
+    "ORAL"
+  ],
+  "companies": [
+    "PENDOPHARM DIVISION OF DE PHARMASCIENCE INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "MACROGOL, COMBINATIONS"
+  ]
+}

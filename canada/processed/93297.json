@@ -1,0 +1,32 @@
+{
+  "drug_code": "93297",
+  "din": "02447398",
+  "brand_name": "GUS BROAD SPECTRUM DISINFECTANT D\u00c3\u0089SINFECTANT \u00c3\u0080 LARGE SPECTRE",
+  "class": "Disinfectant",
+  "descriptor": "",
+  "last_update": "11-JAN-2018",
+  "active_ingredients": [
+    {
+      "name": "THYMOL",
+      "strength": "0.23",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "DISINFECTANT (Barn)",
+    "DISINFECTANT (Food Premises)",
+    "DISINFECTANT (Hospital/HC Facilities)",
+    "DISINFECTANT (Domestic)",
+    "DISINFECTANT (Institutional/Industrial)"
+  ],
+  "companies": [
+    "LABORATOIRE M2 INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "TECHNICAL DISINFECTANTS"
+  ]
+}

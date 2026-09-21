@@ -1,0 +1,28 @@
+{
+  "drug_code": "12332",
+  "din": "01947672",
+  "brand_name": "ACCUPRIL TAB 10MG",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "05-MAY-2015",
+  "active_ingredients": [
+    {
+      "name": "QUINAPRIL (QUINAPRIL HYDROCHLORIDE)",
+      "strength": "10",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "PFIZER CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "QUINAPRIL"
+  ]
+}

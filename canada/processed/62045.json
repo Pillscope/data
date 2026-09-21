@@ -1,0 +1,28 @@
+{
+  "drug_code": "62045",
+  "din": "02238617",
+  "brand_name": "VIRACEPT -250MG",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "24-SEP-2008",
+  "active_ingredients": [
+    {
+      "name": "NELFINAVIR (NELFINAVIR MESYLATE)",
+      "strength": "250",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "PFIZER CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "NELFINAVIR"
+  ]
+}

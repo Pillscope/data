@@ -1,0 +1,28 @@
+{
+  "drug_code": "89302",
+  "din": "02408295",
+  "brand_name": "JAYDESS",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "03-JAN-2018",
+  "active_ingredients": [
+    {
+      "name": "LEVONORGESTREL",
+      "strength": "13.5",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "INSERT (EXTENDED-RELEASE)"
+  ],
+  "routes": [
+    "INTRAUTERINE"
+  ],
+  "companies": [
+    "BAYER INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "PLASTIC IUD WITH PROGESTOGENS"
+  ]
+}

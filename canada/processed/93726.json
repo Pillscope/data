@@ -1,0 +1,28 @@
+{
+  "drug_code": "93726",
+  "din": "02451018",
+  "brand_name": "M-ACETAMINOPHEN 325MG",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "21-JUL-2017",
+  "active_ingredients": [
+    {
+      "name": "ACETAMINOPHEN",
+      "strength": "325",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "MANTRA PHARMA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "ACETAMINOPHEN (PARACETAMOL)"
+  ]
+}

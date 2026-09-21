@@ -1,0 +1,38 @@
+{
+  "drug_code": "84347",
+  "din": "02358417",
+  "brand_name": "SUNCARE DEFENSE SPF 20 MINERAL MOISTURIZER SPRAY",
+  "class": "Human",
+  "descriptor": "SPRAY LIQUID",
+  "last_update": "09-DEC-2014",
+  "active_ingredients": [
+    {
+      "name": "OXYBENZONE",
+      "strength": "6.0",
+      "unit": "%"
+    },
+    {
+      "name": "OCTISALATE",
+      "strength": "5.0",
+      "unit": "%"
+    },
+    {
+      "name": "OCTINOXATE",
+      "strength": "7.5",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "SPRAY"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "SPA DE SOLEIL"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "COMBINATIONS OF PROTECTIVES AGAINST UV-RADIATION"
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "drug_code": "93631",
+  "din": "02450240",
+  "brand_name": "NERFASIN 100",
+  "class": "Veterinary",
+  "descriptor": "MULTIPLE-DOSE VIAL",
+  "last_update": "27-SEP-2016",
+  "active_ingredients": [
+    {
+      "name": "XYLAZINE (XYLAZINE HYDROCHLORIDE)",
+      "strength": "100",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "INTRAMUSCULAR",
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "MODERN VETERINARY THERAPEUTICS LLC"
+  ],
+  "status": "APPROVED",
+  "atc": []
+}

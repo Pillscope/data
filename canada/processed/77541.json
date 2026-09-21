@@ -1,0 +1,28 @@
+{
+  "drug_code": "77541",
+  "din": "02290111",
+  "brand_name": "PMS-PRAMIPEXOLE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "15-DEC-2008",
+  "active_ingredients": [
+    {
+      "name": "PRAMIPEXOLE DIHYDROCHLORIDE MONOHYDRATE",
+      "strength": "0.25",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "PHARMASCIENCE INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "PRAMIPEXOLE"
+  ]
+}

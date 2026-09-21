@@ -1,0 +1,33 @@
+{
+  "drug_code": "88911",
+  "din": "02404346",
+  "brand_name": "LIP VIBRANCE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "31-JUL-2013",
+  "active_ingredients": [
+    {
+      "name": "OXYBENZONE",
+      "strength": "2.5",
+      "unit": "%"
+    },
+    {
+      "name": "OCTINOXATE",
+      "strength": "7.5",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "STICK"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "BLISTEX CORPORATION"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "COMBINATIONS OF PROTECTIVES AGAINST UV-RADIATION"
+  ]
+}

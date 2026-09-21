@@ -1,0 +1,38 @@
+{
+  "drug_code": "94183",
+  "din": "02455021",
+  "brand_name": "ACTIVE PROTECTION FRESH GRAPEFRUIT SUNSCREEN LIP BALM",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "27-JUL-2017",
+  "active_ingredients": [
+    {
+      "name": "AVOBENZONE",
+      "strength": "3",
+      "unit": "%"
+    },
+    {
+      "name": "OCTOCRYLENE",
+      "strength": "10",
+      "unit": "%"
+    },
+    {
+      "name": "HOMOSALATE",
+      "strength": "10",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "STICK"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "EOS PRODUCTS LLC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "COMBINATIONS OF PROTECTIVES AGAINST UV-RADIATION"
+  ]
+}

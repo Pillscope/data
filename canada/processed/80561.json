@@ -1,0 +1,28 @@
+{
+  "drug_code": "80561",
+  "din": "02320169",
+  "brand_name": "PMS-FINASTERIDE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "02-JUN-2010",
+  "active_ingredients": [
+    {
+      "name": "FINASTERIDE",
+      "strength": "1",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "PHARMASCIENCE INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "FINASTERIDE"
+  ]
+}

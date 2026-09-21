@@ -1,0 +1,28 @@
+{
+  "drug_code": "18806",
+  "din": "02177145",
+  "brand_name": "APO-CYCLOBENZAPRINE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "28-JUL-2017",
+  "active_ingredients": [
+    {
+      "name": "CYCLOBENZAPRINE HYDROCHLORIDE",
+      "strength": "10",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "APOTEX INC"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "CYCLOBENZAPRINE"
+  ]
+}

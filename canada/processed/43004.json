@@ -1,0 +1,28 @@
+{
+  "drug_code": "43004",
+  "din": "02204606",
+  "brand_name": "PROLASTIN-C",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "05-MAY-2015",
+  "active_ingredients": [
+    {
+      "name": "ALPHA 1-PROTEINASE INHIBITOR (HUMAN)",
+      "strength": "1000",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "POWDER FOR SOLUTION"
+  ],
+  "routes": [
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "GRIFOLS THERAPEUTICS LLC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "ALFA1 ANTITRYPSIN"
+  ]
+}

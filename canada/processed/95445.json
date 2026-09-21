@@ -1,0 +1,28 @@
+{
+  "drug_code": "95445",
+  "din": "02466147",
+  "brand_name": "PANTOPRAZOLE T",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "03-NOV-2017",
+  "active_ingredients": [
+    {
+      "name": "PANTOPRAZOLE (Pantoprazole magnesium hemipentahydrate)",
+      "strength": "40",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET (DELAYED-RELEASE)"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "SANIS HEALTH INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "PANTOPRAZOLE"
+  ]
+}

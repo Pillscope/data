@@ -1,0 +1,28 @@
+{
+  "drug_code": "88690",
+  "din": "02402025",
+  "brand_name": "LETROZOLE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "12-APR-2013",
+  "active_ingredients": [
+    {
+      "name": "LETROZOLE",
+      "strength": "2.5",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "PRO DOC LIMITEE"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "LETROZOLE"
+  ]
+}

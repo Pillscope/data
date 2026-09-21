@@ -1,0 +1,28 @@
+{
+  "drug_code": "92898",
+  "din": "02444143",
+  "brand_name": "LYSOL DISINFECTANT WITH HYDROGEN PEROXIDE BATHROOM CLEANER",
+  "class": "Disinfectant",
+  "descriptor": "SOLUTION",
+  "last_update": "25-MAY-2017",
+  "active_ingredients": [
+    {
+      "name": "HYDROGEN PEROXIDE",
+      "strength": "1",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "SPRAY"
+  ],
+  "routes": [
+    "DISINFECTANT (Domestic)"
+  ],
+  "companies": [
+    "RECKITT BENCKISER (CANADA) INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "TECHNICAL DISINFECTANTS"
+  ]
+}

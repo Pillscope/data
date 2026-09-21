@@ -1,0 +1,28 @@
+{
+  "drug_code": "86873",
+  "din": "02382946",
+  "brand_name": "LYSOL DISINFECTANT POWER & FREE MULTI PURPOSE CLEANER",
+  "class": "Disinfectant",
+  "descriptor": "",
+  "last_update": "04-DEC-2013",
+  "active_ingredients": [
+    {
+      "name": "HYDROGEN PEROXIDE",
+      "strength": "1.0",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "DISINFECTANT (Domestic)"
+  ],
+  "companies": [
+    "RECKITT BENCKISER (CANADA) INC"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "TECHNICAL DISINFECTANTS"
+  ]
+}

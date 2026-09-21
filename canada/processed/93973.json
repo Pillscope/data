@@ -1,0 +1,28 @@
+{
+  "drug_code": "93973",
+  "din": "02453193",
+  "brand_name": "LAX-A-DAY PHARMA",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "15-SEP-2016",
+  "active_ingredients": [
+    {
+      "name": "POLYETHYLENE GLYCOL 3350",
+      "strength": "1",
+      "unit": "G"
+    }
+  ],
+  "forms": [
+    "POWDER FOR SOLUTION"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "PHARMASCIENCE INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "MACROGOL"
+  ]
+}

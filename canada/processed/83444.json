@@ -1,0 +1,28 @@
+{
+  "drug_code": "83444",
+  "din": "02349124",
+  "brand_name": "EFFIENT",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "10-JUN-2011",
+  "active_ingredients": [
+    {
+      "name": "Prasugrel (Prasugrel Hydrochloride)",
+      "strength": "10",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "ELI LILLY CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "PRASUGREL"
+  ]
+}

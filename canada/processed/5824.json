@@ -1,0 +1,28 @@
+{
+  "drug_code": "5824",
+  "din": "00628131",
+  "brand_name": "APO-AMOXI PWR FOR SUSP 125MG/5ML",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "08-JUN-2017",
+  "active_ingredients": [
+    {
+      "name": "AMOXICILLIN (AMOXICILLIN TRIHYDRATE)",
+      "strength": "125",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "POWDER FOR SUSPENSION"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "APOTEX INC"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "AMOXICILLIN"
+  ]
+}

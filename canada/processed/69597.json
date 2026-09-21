@@ -1,0 +1,28 @@
+{
+  "drug_code": "69597",
+  "din": "02245510",
+  "brand_name": "PEDIACOL",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "28-NOV-2005",
+  "active_ingredients": [
+    {
+      "name": "SIMETHICONE",
+      "strength": "40",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "DROPS"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "EURO-PHARM INTERNATIONAL CANADA INC"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "SILICONES"
+  ]
+}

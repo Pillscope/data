@@ -1,0 +1,28 @@
+{
+  "drug_code": "76408",
+  "din": "02278499",
+  "brand_name": "DOM-AZITHROMYCIN",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "24-APR-2008",
+  "active_ingredients": [
+    {
+      "name": "AZITHROMYCIN (AZITHROMYCIN MONOHYDRATE HEMIETHANOLATE)",
+      "strength": "250",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "DOMINION PHARMACAL"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "AZITHROMYCIN"
+  ]
+}

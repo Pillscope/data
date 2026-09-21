@@ -1,0 +1,26 @@
+{
+  "drug_code": "79102",
+  "din": "02305453",
+  "brand_name": "EXCEDE 100",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "10-OCT-2014",
+  "active_ingredients": [
+    {
+      "name": "CEFTIOFUR (CEFTIOFUR CRYSTALLINE FREE ACID)",
+      "strength": "100",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SUSPENSION"
+  ],
+  "routes": [
+    "INTRAMUSCULAR"
+  ],
+  "companies": [
+    "ZOETIS CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": []
+}

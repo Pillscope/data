@@ -1,0 +1,28 @@
+{
+  "drug_code": "84539",
+  "din": "02360446",
+  "brand_name": "FUROSEMIDE SPECIAL INJECTION",
+  "class": "Human",
+  "descriptor": "SINGLE USE VIAL, PRESERVATIVE FREE",
+  "last_update": "01-AUG-2017",
+  "active_ingredients": [
+    {
+      "name": "FUROSEMIDE",
+      "strength": "250",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "LIQUID"
+  ],
+  "routes": [
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "OMEGA LABORATORIES LTD"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "FUROSEMIDE"
+  ]
+}

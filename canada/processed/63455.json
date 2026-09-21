@@ -1,0 +1,28 @@
+{
+  "drug_code": "63455",
+  "din": "02239952",
+  "brand_name": "ZITHROMAX FOR INTRAVENOUS INJECTION",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "05-MAY-2015",
+  "active_ingredients": [
+    {
+      "name": "AZITHROMYCIN",
+      "strength": "500",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "POWDER FOR SOLUTION"
+  ],
+  "routes": [
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "PFIZER CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "AZITHROMYCIN"
+  ]
+}

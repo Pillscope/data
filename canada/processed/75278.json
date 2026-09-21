@@ -1,0 +1,28 @@
+{
+  "drug_code": "75278",
+  "din": "02267357",
+  "brand_name": "OCTALBIN 25%",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "08-JAN-2015",
+  "active_ingredients": [
+    {
+      "name": "ALBUMIN (HUMAN)",
+      "strength": "25",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "OCTAPHARMA PHARMAZEUTIKA PRODUKTIONSGES M B H"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "ALBUMIN"
+  ]
+}

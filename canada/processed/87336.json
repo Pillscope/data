@@ -1,0 +1,28 @@
+{
+  "drug_code": "87336",
+  "din": "02387786",
+  "brand_name": "LATUDA",
+  "class": "Human",
+  "descriptor": "FILM-COATED TABLETS",
+  "last_update": "12-AUG-2015",
+  "active_ingredients": [
+    {
+      "name": "Lurasidone Hydrochloride",
+      "strength": "120",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "SUNOVION PHARMACEUTICALS CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "LURASIDONE"
+  ]
+}

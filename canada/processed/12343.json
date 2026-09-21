@@ -1,0 +1,29 @@
+{
+  "drug_code": "12343",
+  "din": "00883751",
+  "brand_name": "PENICILLIN G SODIUM FOR INJECTION, USP",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "29-APR-2015",
+  "active_ingredients": [
+    {
+      "name": "PENICILLIN G SODIUM",
+      "strength": "5000000",
+      "unit": "UNIT"
+    }
+  ],
+  "forms": [
+    "POWDER FOR SOLUTION"
+  ],
+  "routes": [
+    "INTRAMUSCULAR",
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "TEVA CANADA LIMITED"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "BENZYLPENICILLIN"
+  ]
+}

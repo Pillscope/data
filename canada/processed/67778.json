@@ -1,0 +1,28 @@
+{
+  "drug_code": "67778",
+  "din": "02243837",
+  "brand_name": "VANIQA",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "08-DEC-2015",
+  "active_ingredients": [
+    {
+      "name": "EFLORNITHINE HYDROCHLORIDE",
+      "strength": "13.9",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "CREAM"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "CIPHER PHARMACEUTICALS INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "EFLORNITHINE"
+  ]
+}

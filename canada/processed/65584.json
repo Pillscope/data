@@ -1,0 +1,28 @@
+{
+  "drug_code": "65584",
+  "din": "02241914",
+  "brand_name": "MARCAINE SPINAL",
+  "class": "Human",
+  "descriptor": "SINGLE-DOSE AMPOULE",
+  "last_update": "08-SEP-2017",
+  "active_ingredients": [
+    {
+      "name": "BUPIVACAINE HYDROCHLORIDE",
+      "strength": "15",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "INTRASPINAL"
+  ],
+  "companies": [
+    "PFIZER CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "BUPIVACAINE"
+  ]
+}

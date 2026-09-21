@@ -1,0 +1,28 @@
+{
+  "drug_code": "67819",
+  "din": "02243878",
+  "brand_name": "SERC",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "07-OCT-2016",
+  "active_ingredients": [
+    {
+      "name": "BETAHISTINE HYDROCHLORIDE",
+      "strength": "16",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "BGP PHARMA ULC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "BETAHISTINE"
+  ]
+}

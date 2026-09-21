@@ -1,0 +1,33 @@
+{
+  "drug_code": "89494",
+  "din": "02410281",
+  "brand_name": "RED CURRENT PROTECTIVE MOISTURIZER SPF 30",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "02-JUN-2014",
+  "active_ingredients": [
+    {
+      "name": "ZINC OXIDE",
+      "strength": "4.5",
+      "unit": "%"
+    },
+    {
+      "name": "OCTINOXATE",
+      "strength": "6",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "CREAM"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "EMINENCE ORGANIC SKIN CARE"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "COMBINATIONS OF PROTECTIVES AGAINST UV-RADIATION"
+  ]
+}

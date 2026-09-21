@@ -1,0 +1,28 @@
+{
+  "drug_code": "96023",
+  "din": "02471124",
+  "brand_name": "APO-ARIPIPRAZOLE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "26-APR-2018",
+  "active_ingredients": [
+    {
+      "name": "ARIPIPRAZOLE",
+      "strength": "20",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "APOTEX INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "ARIPIPRAZOLE"
+  ]
+}

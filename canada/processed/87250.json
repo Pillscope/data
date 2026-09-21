@@ -1,0 +1,43 @@
+{
+  "drug_code": "87250",
+  "din": "02386925",
+  "brand_name": "SAG-M",
+  "class": "Human",
+  "descriptor": "SALINE, ADENINE, GLUCOSE MANNITOL RED BLOOD CELL PRESERVATIVE SOL.",
+  "last_update": "14-MAR-2018",
+  "active_ingredients": [
+    {
+      "name": "MANNITOL",
+      "strength": "0.525",
+      "unit": "%"
+    },
+    {
+      "name": "ADENINE",
+      "strength": "0.0169",
+      "unit": "%"
+    },
+    {
+      "name": "DEXTROSE",
+      "strength": "0.9",
+      "unit": "%"
+    },
+    {
+      "name": "SODIUM CHLORIDE",
+      "strength": "0.877",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "0-UNASSIGNED"
+  ],
+  "companies": [
+    "HAEMONETICS CORPORATION"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "BLOOD TRANSFUSION, AUXILIARY PRODUCTS"
+  ]
+}

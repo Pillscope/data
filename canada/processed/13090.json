@@ -1,0 +1,28 @@
+{
+  "drug_code": "13090",
+  "din": "01927825",
+  "brand_name": "ROVAMYCINE 250 CAPSULE 750000 UNIT",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "21-JUL-2015",
+  "active_ingredients": [
+    {
+      "name": "SPIRAMYCIN",
+      "strength": "750000",
+      "unit": "UNIT"
+    }
+  ],
+  "forms": [
+    "CAPSULE"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "ODAN LABORATORIES LTD"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "SPIRAMYCIN"
+  ]
+}

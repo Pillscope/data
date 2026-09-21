@@ -1,0 +1,28 @@
+{
+  "drug_code": "93348",
+  "din": "02447851",
+  "brand_name": "BUSPIRONE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "06-JUN-2016",
+  "active_ingredients": [
+    {
+      "name": "BUSPIRONE HYDROCHLORIDE",
+      "strength": "10",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "SANIS HEALTH INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "BUSPIRONE"
+  ]
+}

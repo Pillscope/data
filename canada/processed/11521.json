@@ -1,0 +1,28 @@
+{
+  "drug_code": "11521",
+  "din": "00870218",
+  "brand_name": "DOCUSATE SODIUM",
+  "class": "Human",
+  "descriptor": "DROPS",
+  "last_update": "29-APR-2015",
+  "active_ingredients": [
+    {
+      "name": "DOCUSATE SODIUM",
+      "strength": "10",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "TEVA CANADA LIMITED"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "DOCUSATE SODIUM"
+  ]
+}

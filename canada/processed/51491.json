@@ -1,0 +1,28 @@
+{
+  "drug_code": "51491",
+  "din": "02232043",
+  "brand_name": "ARICEPT",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "12-JUL-2013",
+  "active_ingredients": [
+    {
+      "name": "DONEPEZIL HYDROCHLORIDE",
+      "strength": "5",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "PFIZER CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "DONEPEZIL"
+  ]
+}

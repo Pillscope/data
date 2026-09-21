@@ -1,0 +1,28 @@
+{
+  "drug_code": "86757",
+  "din": "02381710",
+  "brand_name": "ALOXI",
+  "class": "Human",
+  "descriptor": "SINGLE USE VIAL",
+  "last_update": "10-NOV-2017",
+  "active_ingredients": [
+    {
+      "name": "PALONOSETRON (PALONOSETRON HYDROCHLORIDE)",
+      "strength": "0.25",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "PURDUE PHARMA"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "PALONOSETRON"
+  ]
+}

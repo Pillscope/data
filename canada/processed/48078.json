@@ -1,0 +1,28 @@
+{
+  "drug_code": "48078",
+  "din": "02229785",
+  "brand_name": "APO-METFORMIN 850 MG TABLETS",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "06-MAR-2006",
+  "active_ingredients": [
+    {
+      "name": "METFORMIN HYDROCHLORIDE",
+      "strength": "850",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "APOTEX INC"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "METFORMIN"
+  ]
+}

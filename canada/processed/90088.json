@@ -1,0 +1,28 @@
+{
+  "drug_code": "90088",
+  "din": "02416328",
+  "brand_name": "AUBAGIO",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "02-MAY-2014",
+  "active_ingredients": [
+    {
+      "name": "Teriflunomide",
+      "strength": "14",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "SANOFI GENZYME, A DIVISION OF SANOFI-AVENTIS CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "TERIFLUNOMIDE"
+  ]
+}

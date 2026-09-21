@@ -1,0 +1,28 @@
+{
+  "drug_code": "65134",
+  "din": "02241494",
+  "brand_name": "DM CHILDREN'S COUGH SYRUP",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "10-APR-2001",
+  "active_ingredients": [
+    {
+      "name": "DEXTROMETHORPHAN HYDROBROMIDE",
+      "strength": "7.5",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SYRUP"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "TRILLIUM HEALTH CARE PRODUCTS INC"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "DEXTROMETHORPHAN"
+  ]
+}

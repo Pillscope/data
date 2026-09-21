@@ -1,0 +1,26 @@
+{
+  "drug_code": "90270",
+  "din": "02418126",
+  "brand_name": "SEMINTRA 4 MG/ML ORAL SOLUTION",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "13-MAY-2014",
+  "active_ingredients": [
+    {
+      "name": "TELMISARTAN",
+      "strength": "4",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "BOEHRINGER INGELHEIM (CANADA) LTD LTEE"
+  ],
+  "status": "APPROVED",
+  "atc": []
+}

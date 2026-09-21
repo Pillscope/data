@@ -1,0 +1,83 @@
+{
+  "drug_code": "16462",
+  "din": "02100606",
+  "brand_name": "MULTI 12 INJECTION",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "09-AUG-2017",
+  "active_ingredients": [
+    {
+      "name": "NICOTINAMIDE",
+      "strength": "8",
+      "unit": "MG"
+    },
+    {
+      "name": "PYRIDOXINE HYDROCHLORIDE",
+      "strength": "0.8",
+      "unit": "MG"
+    },
+    {
+      "name": "BIOTIN",
+      "strength": "12",
+      "unit": "MCG"
+    },
+    {
+      "name": "VITAMIN B1 (THIAMINE HYDROCHLORIDE)",
+      "strength": "0.6",
+      "unit": "MG"
+    },
+    {
+      "name": "VITAMIN B2 (RIBOFLAVIN-5-PHOSPHATE)",
+      "strength": "0.72",
+      "unit": "MG"
+    },
+    {
+      "name": "VITAMIN A",
+      "strength": "660",
+      "unit": "UNIT"
+    },
+    {
+      "name": "VITAMIN D",
+      "strength": "40",
+      "unit": "UNIT"
+    },
+    {
+      "name": "VITAMIN E",
+      "strength": "2",
+      "unit": "UNIT"
+    },
+    {
+      "name": "VITAMIN C",
+      "strength": "20",
+      "unit": "MG"
+    },
+    {
+      "name": "DEXPANTHENOL",
+      "strength": "3",
+      "unit": "MG"
+    },
+    {
+      "name": "VITAMIN B12 (VITAMIN B12)",
+      "strength": "1",
+      "unit": "MCG"
+    },
+    {
+      "name": "FOLIC ACID",
+      "strength": "80",
+      "unit": "MCG"
+    }
+  ],
+  "forms": [
+    "LIQUID"
+  ],
+  "routes": [
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "SANDOZ CANADA INCORPORATED"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "VITAMINS"
+  ]
+}

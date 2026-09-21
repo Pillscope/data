@@ -1,0 +1,28 @@
+{
+  "drug_code": "50461",
+  "din": "02231154",
+  "brand_name": "TIAZAC",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "16-MAY-2014",
+  "active_ingredients": [
+    {
+      "name": "DILTIAZEM HYDROCHLORIDE",
+      "strength": "300",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "CAPSULE (EXTENDED RELEASE)"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "VALEANT CANADA LP/VALEANT CANADA S.E.C."
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "DILTIAZEM"
+  ]
+}

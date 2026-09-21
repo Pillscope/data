@@ -1,0 +1,28 @@
+{
+  "drug_code": "82988",
+  "din": "02344408",
+  "brand_name": "OLUX-E",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "28-FEB-2018",
+  "active_ingredients": [
+    {
+      "name": "CLOBETASOL PROPIONATE",
+      "strength": "0.05",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "AEROSOL, FOAM"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "MAYNE PHARMA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "CLOBETASOL"
+  ]
+}

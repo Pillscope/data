@@ -1,0 +1,26 @@
+{
+  "drug_code": "2169",
+  "din": "00334294",
+  "brand_name": "NIDERM ONT 0.2%",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "13-AUG-2003",
+  "active_ingredients": [
+    {
+      "name": "NITROFURAZONE",
+      "strength": ".2",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "OINTMENT"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "PROFESSIONAL VETERINARY LABORATORIES"
+  ],
+  "status": "MARKETED",
+  "atc": []
+}

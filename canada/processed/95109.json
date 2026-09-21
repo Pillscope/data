@@ -1,0 +1,34 @@
+{
+  "drug_code": "95109",
+  "din": "02463180",
+  "brand_name": "LUCAS-CIDE SALON & SPA SANITIZER & DISINFECTANT",
+  "class": "Disinfectant",
+  "descriptor": "",
+  "last_update": "19-JUL-2017",
+  "active_ingredients": [
+    {
+      "name": "DIDECYL DIMETHYL AMMONIUM CHLORIDE",
+      "strength": "10.14",
+      "unit": "%"
+    },
+    {
+      "name": "BENZALKONIUM CHLORIDE",
+      "strength": "6.76",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "LIQUID",
+    "SPRAY"
+  ],
+  "routes": [
+    "DISINFECTANT (Institutional/Industrial)"
+  ],
+  "companies": [
+    "LUCAS SPECIALTY PRODUCTS LLC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "TECHNICAL DISINFECTANTS"
+  ]
+}

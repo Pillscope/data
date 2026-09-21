@@ -1,0 +1,28 @@
+{
+  "drug_code": "87166",
+  "din": "02386070",
+  "brand_name": "SERTRALINE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "08-NOV-2012",
+  "active_ingredients": [
+    {
+      "name": "SERTRALINE (SERTRALINE HYDROCHLORIDE)",
+      "strength": "25",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "CAPSULE"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "SIVEM PHARMACEUTICALS ULC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "SERTRALINE"
+  ]
+}

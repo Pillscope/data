@@ -1,0 +1,28 @@
+{
+  "drug_code": "88746",
+  "din": "02402610",
+  "brand_name": "RAN-LANSOPRAZOLE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "19-JAN-2015",
+  "active_ingredients": [
+    {
+      "name": "LANSOPRAZOLE",
+      "strength": "15",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "CAPSULE (DELAYED RELEASE)"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "RANBAXY PHARMACEUTICALS CANADA INC."
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "LANSOPRAZOLE"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "drug_code": "16167",
+  "din": "02070863",
+  "brand_name": "SORIATANE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "27-JUN-2016",
+  "active_ingredients": [
+    {
+      "name": "ACITRETIN",
+      "strength": "25",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "CAPSULE"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "ACTAVIS SPECIALTY PHARMACEUTICALS CO"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "ACITRETIN"
+  ]
+}

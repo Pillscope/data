@@ -1,0 +1,28 @@
+{
+  "drug_code": "43314",
+  "din": "02221896",
+  "brand_name": "TOPICORT",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "26-NOV-2015",
+  "active_ingredients": [
+    {
+      "name": "DESOXIMETASONE",
+      "strength": "0.25",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "CREAM"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "VALEANT CANADA LP/VALEANT CANADA S.E.C."
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "DESOXIMETASONE"
+  ]
+}

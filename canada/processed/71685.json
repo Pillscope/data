@@ -1,0 +1,28 @@
+{
+  "drug_code": "71685",
+  "din": "02247439",
+  "brand_name": "SANDOZ BISOPROLOL",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "05-MAY-2015",
+  "active_ingredients": [
+    {
+      "name": "BISOPROLOL FUMARATE",
+      "strength": "5",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "SANDOZ CANADA INCORPORATED"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "BISOPROLOL"
+  ]
+}

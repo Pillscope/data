@@ -1,0 +1,31 @@
+{
+  "drug_code": "82160",
+  "din": "02336022",
+  "brand_name": "ZINC BALM",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "18-NOV-2014",
+  "active_ingredients": [
+    {
+      "name": "ZINC OXIDE",
+      "strength": "10",
+      "unit": "%"
+    },
+    {
+      "name": "WHITE CEDAR OIL",
+      "strength": "1",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "OINTMENT"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "SANTE ANIMALE ANIVET INC"
+  ],
+  "status": "MARKETED",
+  "atc": []
+}

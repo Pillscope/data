@@ -1,0 +1,28 @@
+{
+  "drug_code": "11371",
+  "din": "00886963",
+  "brand_name": "CEFTAZIDIME FOR INJECTION, USP",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "02-NOV-2016",
+  "active_ingredients": [
+    {
+      "name": "CEFTAZIDIME",
+      "strength": "6",
+      "unit": "G"
+    }
+  ],
+  "forms": [
+    "POWDER FOR SOLUTION"
+  ],
+  "routes": [
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "FRESENIUS KABI CANADA LTD"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "CEFTAZIDIME"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "drug_code": "60849",
+  "din": "02237514",
+  "brand_name": "CIPRO ORAL SUSPENSION",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "17-AUG-2017",
+  "active_ingredients": [
+    {
+      "name": "CIPROFLOXACIN",
+      "strength": "500",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SUSPENSION"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "BAYER INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "CIPROFLOXACIN"
+  ]
+}

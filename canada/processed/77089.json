@@ -1,0 +1,28 @@
+{
+  "drug_code": "77089",
+  "din": "02285398",
+  "brand_name": "APO-MODAFINIL",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "26-JAN-2015",
+  "active_ingredients": [
+    {
+      "name": "MODAFINIL",
+      "strength": "100",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "APOTEX INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "MODAFINIL"
+  ]
+}

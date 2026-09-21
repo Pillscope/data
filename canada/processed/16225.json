@@ -1,0 +1,48 @@
+{
+  "drug_code": "16225",
+  "din": "02091178",
+  "brand_name": "MICRO PLUS 5 CONCENTRATE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "05-MAY-2015",
+  "active_ingredients": [
+    {
+      "name": "COPPER (COPPER SULFATE)",
+      "strength": "1",
+      "unit": "MG"
+    },
+    {
+      "name": "CHROMIUM (CHROMIC CHLORIDE)",
+      "strength": "10",
+      "unit": "MCG"
+    },
+    {
+      "name": "MANGANESE (MANGANESE SULFATE)",
+      "strength": "0.5",
+      "unit": "MG"
+    },
+    {
+      "name": "ZINC (ZINC SULFATE)",
+      "strength": "5",
+      "unit": "MG"
+    },
+    {
+      "name": "SELENIUM (SELENIOUS ACID)",
+      "strength": "60",
+      "unit": "MCG"
+    }
+  ],
+  "forms": [
+    "LIQUID"
+  ],
+  "routes": [
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "SANDOZ CANADA INCORPORATED"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "COMBINATIONS OF ELECTROLYTES"
+  ]
+}

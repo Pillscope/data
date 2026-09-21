@@ -1,0 +1,28 @@
+{
+  "drug_code": "89277",
+  "din": "02408082",
+  "brand_name": "ZOLEDRONIC ACID INJECTION",
+  "class": "Human",
+  "descriptor": "FOR I.V INFUSION ONLY",
+  "last_update": "21-MAR-2014",
+  "active_ingredients": [
+    {
+      "name": "ZOLEDRONIC ACID (Zoledronic acid monohydrate)",
+      "strength": "5",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "TEVA CANADA LIMITED"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "ZOLEDRONIC ACID"
+  ]
+}

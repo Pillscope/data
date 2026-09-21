@@ -1,0 +1,28 @@
+{
+  "drug_code": "87199",
+  "din": "02386402",
+  "brand_name": "JAMP-FLUOXETINE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "08-JAN-2014",
+  "active_ingredients": [
+    {
+      "name": "FLUOXETINE (FLUOXETINE HYDROCHLORIDE)",
+      "strength": "20",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "CAPSULE"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "JAMP PHARMA CORPORATION"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "FLUOXETINE"
+  ]
+}

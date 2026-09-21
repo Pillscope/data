@@ -1,0 +1,28 @@
+{
+  "drug_code": "78584",
+  "din": "02300559",
+  "brand_name": "DERMOTIC OIL EAR DROPS",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "03-MAR-2009",
+  "active_ingredients": [
+    {
+      "name": "FLUOCINOLONE ACETONIDE",
+      "strength": "0.01",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "OTIC"
+  ],
+  "companies": [
+    "HILL DERMACEUTICALS INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "FLUOCINOLONE ACETONIDE"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "drug_code": "85574",
+  "din": "02370603",
+  "brand_name": "EDURANT",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "05-MAY-2015",
+  "active_ingredients": [
+    {
+      "name": "RILPIVIRINE (RILPIVIRINE HYDROCHLORIDE)",
+      "strength": "25",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "JANSSEN INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "RILPIVIRINE"
+  ]
+}

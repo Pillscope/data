@@ -1,0 +1,30 @@
+{
+  "drug_code": "65650",
+  "din": "02241980",
+  "brand_name": "NEO-SYNEPHRINE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "12-SEP-2017",
+  "active_ingredients": [
+    {
+      "name": "PHENYLEPHRINE HYDROCHLORIDE",
+      "strength": "1",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "INTRAMUSCULAR",
+    "INTRAVENOUS",
+    "SUBCUTANEOUS"
+  ],
+  "companies": [
+    "PFIZER CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "PHENYLEPHRINE"
+  ]
+}

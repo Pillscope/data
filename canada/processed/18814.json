@@ -1,0 +1,28 @@
+{
+  "drug_code": "18814",
+  "din": "02014807",
+  "brand_name": "BAL IN OIL 3ML AMPULES/10",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "18-JUL-2012",
+  "active_ingredients": [
+    {
+      "name": "DIMERCAPROL",
+      "strength": "100",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "INTRAMUSCULAR"
+  ],
+  "companies": [
+    "TAYLOR PHARMACEUTICALS"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "DIMERCAPROL"
+  ]
+}

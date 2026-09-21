@@ -1,0 +1,28 @@
+{
+  "drug_code": "66519",
+  "din": "02242716",
+  "brand_name": "ALLERGY CANADA ALLERGEN EXTRACT",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "19-AUG-2011",
+  "active_ingredients": [
+    {
+      "name": "ALLERGENIC EXTRACTS",
+      "strength": "0",
+      "unit": "UNIT"
+    }
+  ],
+  "forms": [
+    "LIQUID"
+  ],
+  "routes": [
+    "SUBCUTANEOUS"
+  ],
+  "companies": [
+    "ALLERGY CANADA LTD"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "VARIOUS"
+  ]
+}

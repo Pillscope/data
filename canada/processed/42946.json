@@ -1,0 +1,28 @@
+{
+  "drug_code": "42946",
+  "din": "02195887",
+  "brand_name": "TOLAZINE INJECTION",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "01-DEC-2015",
+  "active_ingredients": [
+    {
+      "name": "TOLAZOLINE (TOLAZOLINE HYDROCHLORIDE)",
+      "strength": "100",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "AKORN ANIMAL HEALTH INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "TOLAZOLINE"
+  ]
+}

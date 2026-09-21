@@ -1,0 +1,28 @@
+{
+  "drug_code": "80536",
+  "din": "02319918",
+  "brand_name": "CLADRIBINE INJECTION",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "22-SEP-2016",
+  "active_ingredients": [
+    {
+      "name": "CLADRIBINE",
+      "strength": "1",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "FRESENIUS KABI CANADA LTD"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "CLADRIBINE"
+  ]
+}

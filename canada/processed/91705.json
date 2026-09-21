@@ -1,0 +1,28 @@
+{
+  "drug_code": "91705",
+  "din": "02432617",
+  "brand_name": "ACT OXALIPLATIN",
+  "class": "Human",
+  "descriptor": "10/20/40ML SINGLE-USE VIALS",
+  "last_update": "22-APR-2016",
+  "active_ingredients": [
+    {
+      "name": "OXALIPLATIN",
+      "strength": "5",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "ACTAVIS PHARMA COMPANY"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "OXALIPLATIN"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "drug_code": "10565",
+  "din": "00873195",
+  "brand_name": "CETRIMIDE TINCTURE 0.5%",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "27-APR-2018",
+  "active_ingredients": [
+    {
+      "name": "CETRIMONIUM BROMIDE",
+      "strength": ".5",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "TINCTURE"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "CANADIAN CUSTOM PACKAGING COMPANY"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "CETRIMONIUM"
+  ]
+}

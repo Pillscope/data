@@ -1,0 +1,28 @@
+{
+  "drug_code": "50454",
+  "din": "02231147",
+  "brand_name": "LIDODAN ENDOTRACHEAL NON-AEROSOL SPRAY",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "25-JUL-2012",
+  "active_ingredients": [
+    {
+      "name": "LIDOCAINE (LIDOCAINE HYDROCHLORIDE)",
+      "strength": "10",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "LIQUID"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "ODAN LABORATORIES LTD"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "LIDOCAINE"
+  ]
+}

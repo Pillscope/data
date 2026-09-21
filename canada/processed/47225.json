@@ -1,0 +1,28 @@
+{
+  "drug_code": "47225",
+  "din": "02229418",
+  "brand_name": "NAROPIN",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "03-AUG-2017",
+  "active_ingredients": [
+    {
+      "name": "ROPIVACAINE HYDROCHLORIDE",
+      "strength": "10",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "EPIDURAL"
+  ],
+  "companies": [
+    "ASPEN PHARMACARE CANADA INC."
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "ROPIVACAINE"
+  ]
+}

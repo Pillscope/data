@@ -1,0 +1,28 @@
+{
+  "drug_code": "76586",
+  "din": "02280183",
+  "brand_name": "TEVA-BETAHISTINE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "30-JAN-2017",
+  "active_ingredients": [
+    {
+      "name": "BETAHISTINE HYDROCHLORIDE",
+      "strength": "8",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "TEVA CANADA LIMITED"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "BETAHISTINE"
+  ]
+}

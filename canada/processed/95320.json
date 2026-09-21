@@ -1,0 +1,28 @@
+{
+  "drug_code": "95320",
+  "din": "02464993",
+  "brand_name": "TEVA-PERINDOPRIL",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "14-MAR-2018",
+  "active_ingredients": [
+    {
+      "name": "PERINDOPRIL ERBUMINE",
+      "strength": "4",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "TEVA CANADA LIMITED"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "PERINDOPRIL"
+  ]
+}

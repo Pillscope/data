@@ -1,0 +1,28 @@
+{
+  "drug_code": "91410",
+  "din": "02429659",
+  "brand_name": "EZETIMIBE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "09-JAN-2018",
+  "active_ingredients": [
+    {
+      "name": "EZETIMIBE",
+      "strength": "10",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "SIVEM PHARMACEUTICALS ULC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "EZETIMIBE"
+  ]
+}

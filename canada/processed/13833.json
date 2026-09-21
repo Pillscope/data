@@ -1,0 +1,28 @@
+{
+  "drug_code": "13833",
+  "din": "01905740",
+  "brand_name": "K + 45",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "16-APR-2002",
+  "active_ingredients": [
+    {
+      "name": "POTASSIUM CHLORIDE",
+      "strength": "251.6",
+      "unit": "G"
+    }
+  ],
+  "forms": [
+    "LIQUID"
+  ],
+  "routes": [
+    "DIALYSIS"
+  ],
+  "companies": [
+    "BAXTER CORPORATION"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "HEMODIALYTICS, CONCENTRATES"
+  ]
+}

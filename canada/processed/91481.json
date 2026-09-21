@@ -1,0 +1,29 @@
+{
+  "drug_code": "91481",
+  "din": "02430320",
+  "brand_name": "ELOCTATE",
+  "class": "Human",
+  "descriptor": "SINGLE-USE VIAL (POWDER), PRE-FILLED SYRINGE (DILUENT)",
+  "last_update": "12-JAN-2018",
+  "active_ingredients": [
+    {
+      "name": "Antihemophilic Factor (Recombinant BDD), FC Fusion Protein",
+      "strength": "1000",
+      "unit": "UNIT"
+    }
+  ],
+  "forms": [
+    "KIT",
+    "POWDER FOR SOLUTION"
+  ],
+  "routes": [
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "BIOVERATIV CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "COAGULATION FACTOR VIII"
+  ]
+}

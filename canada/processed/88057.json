@@ -1,0 +1,28 @@
+{
+  "drug_code": "88057",
+  "din": "02395487",
+  "brand_name": "TEVA-QUETIAPINE XR",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "11-DEC-2013",
+  "active_ingredients": [
+    {
+      "name": "QUETIAPINE (QUETIAPINE FUMARATE)",
+      "strength": "400",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET (EXTENDED-RELEASE)"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "TEVA CANADA LIMITED"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "QUETIAPINE"
+  ]
+}

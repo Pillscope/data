@@ -1,0 +1,28 @@
+{
+  "drug_code": "91731",
+  "din": "02432900",
+  "brand_name": "TELMISARTAN",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "18-FEB-2015",
+  "active_ingredients": [
+    {
+      "name": "TELMISARTAN",
+      "strength": "80",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "PHARMASCIENCE INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "TELMISARTAN"
+  ]
+}

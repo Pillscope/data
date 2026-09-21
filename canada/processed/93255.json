@@ -1,0 +1,33 @@
+{
+  "drug_code": "93255",
+  "din": "02446987",
+  "brand_name": "ALMAY AGE ESSENTIALS MAKEUP SPF 15",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "29-SEP-2016",
+  "active_ingredients": [
+    {
+      "name": "TITANIUM DIOXIDE",
+      "strength": "4.3",
+      "unit": "%"
+    },
+    {
+      "name": "OCTINOXATE",
+      "strength": "3.5",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "LOTION"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "REVLON CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "COMBINATIONS OF PROTECTIVES AGAINST UV-RADIATION"
+  ]
+}

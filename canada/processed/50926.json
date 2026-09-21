@@ -1,0 +1,28 @@
+{
+  "drug_code": "50926",
+  "din": "02231590",
+  "brand_name": "ABELCET",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "21-JUL-2017",
+  "active_ingredients": [
+    {
+      "name": "AMPHOTERICIN B",
+      "strength": "5",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SUSPENSION"
+  ],
+  "routes": [
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "LEADIANT BIOSCIENCES, INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "AMPHOTERICIN B"
+  ]
+}

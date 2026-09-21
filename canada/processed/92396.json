@@ -1,0 +1,34 @@
+{
+  "drug_code": "92396",
+  "din": "02439530",
+  "brand_name": "DUAKLIR GENUAIR",
+  "class": "Human",
+  "descriptor": "FOR ORAL INHALATION. 1 INHALER WITH 30 ACTUATIONS & 1 INHALER WITH 60 ACTUATIONS",
+  "last_update": "23-OCT-2015",
+  "active_ingredients": [
+    {
+      "name": "FORMOTEROL FUMARATE DIHYDRATE",
+      "strength": "12",
+      "unit": "MCG"
+    },
+    {
+      "name": "Aclidinium bromide",
+      "strength": "400",
+      "unit": "MCG"
+    }
+  ],
+  "forms": [
+    "POWDER (METERED DOSE)"
+  ],
+  "routes": [
+    "INHALATION"
+  ],
+  "companies": [
+    "ASTRAZENECA CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "FORMOTEROL AND ACLIDINIUM BROMIDE",
+    "FORMOTEROL AND ACLIDINIUM BROMIDE"
+  ]
+}

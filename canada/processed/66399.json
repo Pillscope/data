@@ -1,0 +1,41 @@
+{
+  "drug_code": "66399",
+  "din": "02242618",
+  "brand_name": "BIGELOIL LIQUID GEL",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "30-JUN-2017",
+  "active_ingredients": [
+    {
+      "name": "ALCOHOL ANHYDROUS",
+      "strength": "520",
+      "unit": "MG"
+    },
+    {
+      "name": "THYMOL",
+      "strength": "0.7",
+      "unit": "MG"
+    },
+    {
+      "name": "MENTHOL",
+      "strength": "20",
+      "unit": "MG"
+    },
+    {
+      "name": "METHYL SALICYLATE",
+      "strength": "3",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "GEL"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "W.F. YOUNG, INC."
+  ],
+  "status": "MARKETED",
+  "atc": []
+}

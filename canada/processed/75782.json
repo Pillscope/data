@@ -1,0 +1,28 @@
+{
+  "drug_code": "75782",
+  "din": "02272296",
+  "brand_name": "RIVA-LOVASTATIN",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "07-DEC-2005",
+  "active_ingredients": [
+    {
+      "name": "LOVASTATIN",
+      "strength": "40",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "LABORATOIRE RIVA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "LOVASTATIN"
+  ]
+}

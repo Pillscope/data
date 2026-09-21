@@ -1,0 +1,28 @@
+{
+  "drug_code": "81648",
+  "din": "02330725",
+  "brand_name": "VIBATIV",
+  "class": "Human",
+  "descriptor": "SINGLE-USE VIAL",
+  "last_update": "11-JAN-2018",
+  "active_ingredients": [
+    {
+      "name": "TELAVANCIN (TELAVANCIN HYDROCHLORIDE)",
+      "strength": "750",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "POWDER FOR SOLUTION"
+  ],
+  "routes": [
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "PENDOPHARM DIVISION OF DE PHARMASCIENCE INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "TELAVANCIN"
+  ]
+}

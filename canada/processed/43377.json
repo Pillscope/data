@@ -1,0 +1,26 @@
+{
+  "drug_code": "43377",
+  "din": "02223627",
+  "brand_name": "TUMIL-K TABLETS",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "15-OCT-2004",
+  "active_ingredients": [
+    {
+      "name": "POTASSIUM GLUCONATE",
+      "strength": "468",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "VIRBAC AH INC"
+  ],
+  "status": "APPROVED",
+  "atc": []
+}

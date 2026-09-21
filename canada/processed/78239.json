@@ -1,0 +1,26 @@
+{
+  "drug_code": "78239",
+  "din": "02297043",
+  "brand_name": "PANACUR GRANULE SINGLES",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "02-AUG-2013",
+  "active_ingredients": [
+    {
+      "name": "FENBENDAZOLE",
+      "strength": "222",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "POWDER"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "INTERVET CANADA CORP"
+  ],
+  "status": "APPROVED",
+  "atc": []
+}

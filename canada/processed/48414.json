@@ -1,0 +1,28 @@
+{
+  "drug_code": "48414",
+  "din": "02229960",
+  "brand_name": "SLEEP-EZE REGULAR STRENGTH CAPLETS",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "14-SEP-2015",
+  "active_ingredients": [
+    {
+      "name": "DIPHENHYDRAMINE HYDROCHLORIDE",
+      "strength": "25",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "MEDTECH PRODUCTS INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "DIPHENHYDRAMINE"
+  ]
+}

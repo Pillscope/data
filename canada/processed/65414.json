@@ -1,0 +1,28 @@
+{
+  "drug_code": "65414",
+  "din": "02241751",
+  "brand_name": "CEREZYME",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "09-FEB-2016",
+  "active_ingredients": [
+    {
+      "name": "IMIGLUCERASE",
+      "strength": "400",
+      "unit": "UNIT"
+    }
+  ],
+  "forms": [
+    "POWDER FOR SOLUTION"
+  ],
+  "routes": [
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "SANOFI GENZYME, A DIVISION OF SANOFI-AVENTIS CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "IMIGLUCERASE"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "drug_code": "3978",
+  "din": "00522155",
+  "brand_name": "VETA K1 INJ 10MG/ML",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "25-JAN-2012",
+  "active_ingredients": [
+    {
+      "name": "VITAMIN K1",
+      "strength": "10",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "LIQUID"
+  ],
+  "routes": [
+    "PARENTERAL (UNSPECIFIED)"
+  ],
+  "companies": [
+    "PROFESSIONAL VETERINARY LABORATORIES"
+  ],
+  "status": "MARKETED",
+  "atc": []
+}

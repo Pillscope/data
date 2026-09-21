@@ -1,0 +1,26 @@
+{
+  "drug_code": "86833",
+  "din": "02382490",
+  "brand_name": "ATOPICA FOR CATS",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "16-MAR-2017",
+  "active_ingredients": [
+    {
+      "name": "CYCLOSPORINE",
+      "strength": "100",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "ELANCO CANADA LIMITED"
+  ],
+  "status": "APPROVED",
+  "atc": []
+}

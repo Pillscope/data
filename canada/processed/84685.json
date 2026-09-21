@@ -1,0 +1,28 @@
+{
+  "drug_code": "84685",
+  "din": "02361809",
+  "brand_name": "BYETTA",
+  "class": "Human",
+  "descriptor": "1.2ML PREFILLED PEN. 60 DOSES OF 5\u00c2\u00b5G/DOSE.",
+  "last_update": "02-FEB-2017",
+  "active_ingredients": [
+    {
+      "name": "EXENATIDE",
+      "strength": "250",
+      "unit": "MCG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "SUBCUTANEOUS"
+  ],
+  "companies": [
+    "ASTRAZENECA CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "EXENATIDE"
+  ]
+}

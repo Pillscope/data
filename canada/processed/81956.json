@@ -1,0 +1,34 @@
+{
+  "drug_code": "81956",
+  "din": "02333872",
+  "brand_name": "JANUMET",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "04-OCT-2011",
+  "active_ingredients": [
+    {
+      "name": "METFORMIN HYDROCHLORIDE",
+      "strength": "1000",
+      "unit": "MG"
+    },
+    {
+      "name": "SITAGLIPTIN (SITAGLIPTIN PHOSPHATE MONOHYDRATE)",
+      "strength": "50",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "MERCK CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "METFORMIN AND SITAGLIPTIN",
+    "METFORMIN AND SITAGLIPTIN"
+  ]
+}

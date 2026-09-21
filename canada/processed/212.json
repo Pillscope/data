@@ -1,0 +1,28 @@
+{
+  "drug_code": "212",
+  "din": "00001694",
+  "brand_name": "XYLOCAINE JELLY 2%",
+  "class": "Human",
+  "descriptor": "SINGLE USE, TUBE",
+  "last_update": "18-AUG-2017",
+  "active_ingredients": [
+    {
+      "name": "LIDOCAINE HYDROCHLORIDE",
+      "strength": "20",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "GEL"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "ASPEN PHARMACARE CANADA INC."
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "LIDOCAINE"
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "drug_code": "74899",
+  "din": "02263610",
+  "brand_name": "DAIRYMAN'S DEFENCE SHIELD",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "17-DEC-2010",
+  "active_ingredients": [
+    {
+      "name": "CHLORHEXIDINE ACETATE",
+      "strength": "0.5",
+      "unit": "%"
+    },
+    {
+      "name": "GLYCERINE",
+      "strength": "3.0",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "AGRISAN SPECIALTY CHEMICAL & PHARMACEUTICAL"
+  ],
+  "status": "APPROVED",
+  "atc": []
+}

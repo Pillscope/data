@@ -1,0 +1,28 @@
+{
+  "drug_code": "95970",
+  "din": "02470691",
+  "brand_name": "PMS-PERINDOPRIL",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "15-MAR-2018",
+  "active_ingredients": [
+    {
+      "name": "PERINDOPRIL ERBUMINE",
+      "strength": "8",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "PHARMASCIENCE INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "PERINDOPRIL"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "drug_code": "90695",
+  "din": "02422255",
+  "brand_name": "MAR-CLOPIDOGREL",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "10-JAN-2017",
+  "active_ingredients": [
+    {
+      "name": "CLOPIDOGREL (CLOPIDOGREL BISULFATE)",
+      "strength": "75",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "MARCAN PHARMACEUTICALS INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "CLOPIDOGREL"
+  ]
+}

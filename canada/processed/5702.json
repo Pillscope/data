@@ -1,0 +1,26 @@
+{
+  "drug_code": "5702",
+  "din": "00140503",
+  "brand_name": "AMPROL FEED PREMIX",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "24-AUG-2016",
+  "active_ingredients": [
+    {
+      "name": "AMPROLIUM",
+      "strength": "250",
+      "unit": "G"
+    }
+  ],
+  "forms": [
+    "DRUG PREMIX"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "HUVEPHARMA EOOD"
+  ],
+  "status": "APPROVED",
+  "atc": []
+}

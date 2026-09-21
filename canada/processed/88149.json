@@ -1,0 +1,26 @@
+{
+  "drug_code": "88149",
+  "din": "02396467",
+  "brand_name": "APO-MELOXICAM",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "14-JUN-2013",
+  "active_ingredients": [
+    {
+      "name": "MELOXICAM",
+      "strength": "1.5",
+      "unit": "G"
+    }
+  ],
+  "forms": [
+    "SUSPENSION"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "APOTEX INC"
+  ],
+  "status": "APPROVED",
+  "atc": []
+}

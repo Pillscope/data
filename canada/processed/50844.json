@@ -1,0 +1,28 @@
+{
+  "drug_code": "50844",
+  "din": "02231504",
+  "brand_name": "PMS-DICLOFENAC-SR",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "17-NOV-2014",
+  "active_ingredients": [
+    {
+      "name": "DICLOFENAC SODIUM",
+      "strength": "75",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET (EXTENDED-RELEASE)"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "PHARMASCIENCE INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "DICLOFENAC"
+  ]
+}

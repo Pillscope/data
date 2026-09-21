@@ -1,0 +1,26 @@
+{
+  "drug_code": "6367",
+  "din": "00612847",
+  "brand_name": "DEXAFER",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "18-AUG-2008",
+  "active_ingredients": [
+    {
+      "name": "IRON (IRON DEXTRAN COMPLEX)",
+      "strength": "100",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "INTRAMUSCULAR"
+  ],
+  "companies": [
+    "VETOQUINOL N A INC"
+  ],
+  "status": "APPROVED",
+  "atc": []
+}

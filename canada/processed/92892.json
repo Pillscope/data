@@ -1,0 +1,43 @@
+{
+  "drug_code": "92892",
+  "din": "02444097",
+  "brand_name": "ADDITIVE SOLUTION SODIUM ADENINE GLUCOSE MANNITOL (SAGM)",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "18-OCT-2016",
+  "active_ingredients": [
+    {
+      "name": "MANNITOL",
+      "strength": "5.25",
+      "unit": "G"
+    },
+    {
+      "name": "ADENINE",
+      "strength": "0.169",
+      "unit": "G"
+    },
+    {
+      "name": "SODIUM CHLORIDE",
+      "strength": "8.77",
+      "unit": "G"
+    },
+    {
+      "name": "DEXTROSE",
+      "strength": "9",
+      "unit": "G"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "0-UNASSIGNED"
+  ],
+  "companies": [
+    "MACO PHARMA"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "BLOOD TRANSFUSION, AUXILIARY PRODUCTS"
+  ]
+}

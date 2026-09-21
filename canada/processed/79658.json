@@ -1,0 +1,28 @@
+{
+  "drug_code": "79658",
+  "din": "02310961",
+  "brand_name": "PRO-LISINOPRIL - 5",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "31-JAN-2018",
+  "active_ingredients": [
+    {
+      "name": "LISINOPRIL",
+      "strength": "5",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "PRO DOC LIMITEE"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "LISINOPRIL"
+  ]
+}

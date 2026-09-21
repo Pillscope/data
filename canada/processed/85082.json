@@ -1,0 +1,28 @@
+{
+  "drug_code": "85082",
+  "din": "02365952",
+  "brand_name": "ADVATE",
+  "class": "Human",
+  "descriptor": "2ML DILUENT. ANTIHEMOPH.FACTOR (RECOMB.)PLASMA/ALBUMIN-FREE METHOD.SINGLE-DOSE VIALS",
+  "last_update": "30-APR-2018",
+  "active_ingredients": [
+    {
+      "name": "ANTIHEMOPHILIC FACTOR (RECOMBINANT)",
+      "strength": "500",
+      "unit": "UNIT"
+    }
+  ],
+  "forms": [
+    "POWDER FOR SOLUTION"
+  ],
+  "routes": [
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "BAXALTA CANADA CORPORATION"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "COAGULATION FACTOR VIII"
+  ]
+}

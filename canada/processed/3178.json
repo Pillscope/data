@@ -1,0 +1,28 @@
+{
+  "drug_code": "3178",
+  "din": "00013285",
+  "brand_name": "VALIUM 5 TAB",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "14-MAR-2006",
+  "active_ingredients": [
+    {
+      "name": "DIAZEPAM",
+      "strength": "5",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "HOFFMANN-LA ROCHE LIMITED"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "DIAZEPAM"
+  ]
+}

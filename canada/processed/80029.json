@@ -1,0 +1,28 @@
+{
+  "drug_code": "80029",
+  "din": "02314754",
+  "brand_name": "IBUPROFEN",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "09-MAR-2012",
+  "active_ingredients": [
+    {
+      "name": "IBUPROFEN",
+      "strength": "200",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "PHARMASCIENCE INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "IBUPROFEN"
+  ]
+}

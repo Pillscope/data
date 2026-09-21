@@ -1,0 +1,28 @@
+{
+  "drug_code": "92243",
+  "din": "02438070",
+  "brand_name": "COSENTYX",
+  "class": "Human",
+  "descriptor": "SINGLE USE PREFILLED SYRINGE/ SINGLE USE PREFILLED PEN (SENSOREADY PEN)",
+  "last_update": "13-FEB-2017",
+  "active_ingredients": [
+    {
+      "name": "Secukinumab",
+      "strength": "150",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "SUBCUTANEOUS"
+  ],
+  "companies": [
+    "NOVARTIS PHARMACEUTICALS CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "SECUKINUMAB"
+  ]
+}

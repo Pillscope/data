@@ -1,0 +1,28 @@
+{
+  "drug_code": "79412",
+  "din": "02308487",
+  "brand_name": "VECTIBIX",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "07-OCT-2009",
+  "active_ingredients": [
+    {
+      "name": "PANITUMUMAB",
+      "strength": "100",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "AMGEN CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "PANITUMUMAB"
+  ]
+}

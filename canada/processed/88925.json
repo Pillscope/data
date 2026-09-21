@@ -1,0 +1,28 @@
+{
+  "drug_code": "88925",
+  "din": "02404494",
+  "brand_name": "CLARITIN LIQUID CAPSULES",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "25-AUG-2017",
+  "active_ingredients": [
+    {
+      "name": "LORATADINE",
+      "strength": "10",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "CAPSULE"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "BAYER INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "LORATADINE"
+  ]
+}

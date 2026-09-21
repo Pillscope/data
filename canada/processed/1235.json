@@ -1,0 +1,28 @@
+{
+  "drug_code": "1235",
+  "din": "00226882",
+  "brand_name": "SARAPIN",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "18-NOV-2009",
+  "active_ingredients": [
+    {
+      "name": "PITCHER PLANT",
+      "strength": "100",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "INTRAMUSCULAR"
+  ],
+  "companies": [
+    "HIGH CHEMICAL COMPANY"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "VARIOUS"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "drug_code": "72539",
+  "din": "02248203",
+  "brand_name": "APO-SILDENAFIL",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "20-NOV-2012",
+  "active_ingredients": [
+    {
+      "name": "SILDENAFIL (SILDENAFIL CITRATE)",
+      "strength": "100",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "APOTEX INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "SILDENAFIL"
+  ]
+}

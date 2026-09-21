@@ -1,0 +1,28 @@
+{
+  "drug_code": "86680",
+  "din": "02381060",
+  "brand_name": "PMS-ATOMOXETINE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "27-JUN-2012",
+  "active_ingredients": [
+    {
+      "name": "ATOMOXETINE (ATOMOXETINE HYDROCHLORIDE)",
+      "strength": "60",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "CAPSULE"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "PHARMASCIENCE INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "ATOMOXETINE"
+  ]
+}

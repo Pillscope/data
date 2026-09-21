@@ -1,0 +1,28 @@
+{
+  "drug_code": "9277",
+  "din": "00716901",
+  "brand_name": "NYADERM VAG CRM 25000UNIT/GM",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "27-FEB-2006",
+  "active_ingredients": [
+    {
+      "name": "NYSTATIN",
+      "strength": "25000",
+      "unit": "UNIT"
+    }
+  ],
+  "forms": [
+    "CREAM"
+  ],
+  "routes": [
+    "VAGINAL"
+  ],
+  "companies": [
+    "TARO PHARMACEUTICALS INC"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "NYSTATIN"
+  ]
+}

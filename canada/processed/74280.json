@@ -1,0 +1,28 @@
+{
+  "drug_code": "74280",
+  "din": "02257556",
+  "brand_name": "DIPHENHYDRAMINE HYDROCHLORIDE 50MG CAPLET",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "04-OCT-2006",
+  "active_ingredients": [
+    {
+      "name": "DIPHENHYDRAMINE HYDROCHLORIDE",
+      "strength": "50",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "JAMP PHARMA CORPORATION"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "DIPHENHYDRAMINE"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "drug_code": "80744",
+  "din": "02322021",
+  "brand_name": "VETORYL 30 MG",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "22-MAY-2012",
+  "active_ingredients": [
+    {
+      "name": "TRILOSTANE",
+      "strength": "30",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "CAPSULE"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "DECHRA LTD"
+  ],
+  "status": "APPROVED",
+  "atc": []
+}

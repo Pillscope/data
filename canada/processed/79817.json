@@ -1,0 +1,31 @@
+{
+  "drug_code": "79817",
+  "din": "02312646",
+  "brand_name": "BOVI-SOFT D",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "27-JUL-2016",
+  "active_ingredients": [
+    {
+      "name": "GLYCERINE",
+      "strength": "10.00",
+      "unit": "%"
+    },
+    {
+      "name": "NONYL PHENOXY POLYOXYETHYLENE ETHANOL-IODINE COMPLEX",
+      "strength": "9.0",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "AGRISAN SPECIALTY CHEMICAL & PHARMACEUTICAL"
+  ],
+  "status": "MARKETED",
+  "atc": []
+}

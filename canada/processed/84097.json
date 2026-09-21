@@ -1,0 +1,28 @@
+{
+  "drug_code": "84097",
+  "din": "02355779",
+  "brand_name": "PMS-DILTIAZEM CD",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "05-NOV-2010",
+  "active_ingredients": [
+    {
+      "name": "DILTIAZEM HYDROCHLORIDE",
+      "strength": "240",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "CAPSULE (CONTROLLED-DELIVERY)"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "PHARMASCIENCE INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "DILTIAZEM"
+  ]
+}

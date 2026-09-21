@@ -1,0 +1,35 @@
+{
+  "drug_code": "16610",
+  "din": "02126249",
+  "brand_name": "MONISTAT 3 DUAL-PAK",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "27-DEC-2012",
+  "active_ingredients": [
+    {
+      "name": "MICONAZOLE NITRATE",
+      "strength": "2",
+      "unit": "%"
+    },
+    {
+      "name": "MICONAZOLE NITRATE",
+      "strength": "400",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "OVULE",
+    "CREAM"
+  ],
+  "routes": [
+    "TOPICAL",
+    "VAGINAL"
+  ],
+  "companies": [
+    "INSIGHT PHARMACEUTICALS LLC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "MICONAZOLE"
+  ]
+}

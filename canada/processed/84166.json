@@ -1,0 +1,28 @@
+{
+  "drug_code": "84166",
+  "din": "02356511",
+  "brand_name": "RABEPRAZOLE EC",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "05-MAY-2015",
+  "active_ingredients": [
+    {
+      "name": "RABEPRAZOLE SODIUM",
+      "strength": "10",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET (ENTERIC-COATED)"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "SANIS HEALTH INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "RABEPRAZOLE"
+  ]
+}

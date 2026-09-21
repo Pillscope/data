@@ -1,0 +1,38 @@
+{
+  "drug_code": "74853",
+  "din": "02263122",
+  "brand_name": "EXTRA STRENGTH COUGH PLUS COLD RELIEF SYRUP",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "24-MAR-2017",
+  "active_ingredients": [
+    {
+      "name": "GUAIFENESIN",
+      "strength": "200",
+      "unit": "MG"
+    },
+    {
+      "name": "PSEUDOEPHEDRINE HYDROCHLORIDE",
+      "strength": "30",
+      "unit": "MG"
+    },
+    {
+      "name": "DEXTROMETHORPHAN HYDROBROMIDE",
+      "strength": "15",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SYRUP"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "PHARMETICS (2011) INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "COUGH SUPPRESSANTS AND EXPECTORANTS"
+  ]
+}

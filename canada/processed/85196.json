@@ -1,0 +1,28 @@
+{
+  "drug_code": "85196",
+  "din": "02367157",
+  "brand_name": "TARO-MOMETASONE CREAM",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "15-JUN-2011",
+  "active_ingredients": [
+    {
+      "name": "MOMETASONE FUROATE",
+      "strength": "0.1",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "CREAM"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "TARO PHARMACEUTICALS INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "MOMETASONE"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "drug_code": "71008",
+  "din": "02246808",
+  "brand_name": "TERRAMYCIN - 200",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "17-JAN-2018",
+  "active_ingredients": [
+    {
+      "name": "OXYTETRACYCLINE HYDROCHLORIDE (OXYTETRACYCLINE DIHYDRATE)",
+      "strength": "440",
+      "unit": "G"
+    }
+  ],
+  "forms": [
+    "DRUG PREMIX"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "PHIBRO ANIMAL HEALTH CORPORATION"
+  ],
+  "status": "APPROVED",
+  "atc": []
+}

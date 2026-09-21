@@ -1,0 +1,28 @@
+{
+  "drug_code": "9703",
+  "din": "00636622",
+  "brand_name": "PROZAC CAPSULES 20MG",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "02-OCT-2010",
+  "active_ingredients": [
+    {
+      "name": "FLUOXETINE (FLUOXETINE HYDROCHLORIDE)",
+      "strength": "20",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "CAPSULE"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "ELI LILLY CANADA INC"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "FLUOXETINE"
+  ]
+}

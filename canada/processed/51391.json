@@ -1,0 +1,28 @@
+{
+  "drug_code": "51391",
+  "din": "00632228",
+  "brand_name": "STATEX SUPPOSITORIES 5MG",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "18-AUG-2010",
+  "active_ingredients": [
+    {
+      "name": "MORPHINE SULFATE",
+      "strength": "5",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SUPPOSITORY"
+  ],
+  "routes": [
+    "RECTAL"
+  ],
+  "companies": [
+    "PALADIN LABS INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "MORPHINE"
+  ]
+}

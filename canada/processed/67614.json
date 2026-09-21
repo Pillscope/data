@@ -1,0 +1,28 @@
+{
+  "drug_code": "67614",
+  "din": "02243684",
+  "brand_name": "ZYVOXAM 600 MG",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "26-SEP-2005",
+  "active_ingredients": [
+    {
+      "name": "LINEZOLID",
+      "strength": "600",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "PFIZER CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "LINEZOLID"
+  ]
+}

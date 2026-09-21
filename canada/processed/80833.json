@@ -1,0 +1,28 @@
+{
+  "drug_code": "80833",
+  "din": "02322862",
+  "brand_name": "NPLATE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "26-SEP-2011",
+  "active_ingredients": [
+    {
+      "name": "ROMIPLOSTIM",
+      "strength": "500",
+      "unit": "MCG"
+    }
+  ],
+  "forms": [
+    "POWDER FOR SOLUTION"
+  ],
+  "routes": [
+    "SUBCUTANEOUS"
+  ],
+  "companies": [
+    "AMGEN CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "ROMIPLOSTIM"
+  ]
+}

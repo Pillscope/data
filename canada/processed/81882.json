@@ -1,0 +1,28 @@
+{
+  "drug_code": "81882",
+  "din": "02333171",
+  "brand_name": "MUSCLE ACHES & BODY PAIN",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "13-MAY-2014",
+  "active_ingredients": [
+    {
+      "name": "ACETAMINOPHEN",
+      "strength": "650",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET (EXTENDED-RELEASE)"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "VITA HEALTH PRODUCTS INC"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "ACETAMINOPHEN (PARACETAMOL)"
+  ]
+}

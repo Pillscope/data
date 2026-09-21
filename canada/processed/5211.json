@@ -1,0 +1,31 @@
+{
+  "drug_code": "5211",
+  "din": "00527335",
+  "brand_name": "NEO-CHLOR",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "02-JAN-2018",
+  "active_ingredients": [
+    {
+      "name": "NEOMYCIN SULFATE",
+      "strength": "200",
+      "unit": "MG"
+    },
+    {
+      "name": "TETRACYCLINE HYDROCHLORIDE",
+      "strength": "200",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "POWDER FOR SOLUTION"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "VETOQUINOL N A INC"
+  ],
+  "status": "APPROVED",
+  "atc": []
+}

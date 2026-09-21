@@ -1,0 +1,28 @@
+{
+  "drug_code": "93618",
+  "din": "02450151",
+  "brand_name": "BIO-GABAPENTIN",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "22-JUN-2017",
+  "active_ingredients": [
+    {
+      "name": "GABAPENTIN",
+      "strength": "300",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "CAPSULE"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "BIOMED PHARMA"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "GABAPENTIN"
+  ]
+}

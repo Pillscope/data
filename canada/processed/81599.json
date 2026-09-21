@@ -1,0 +1,28 @@
+{
+  "drug_code": "81599",
+  "din": "02330237",
+  "brand_name": "PMS-BETAHISTINE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "17-APR-2018",
+  "active_ingredients": [
+    {
+      "name": "BETAHISTINE HYDROCHLORIDE",
+      "strength": "24",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "PHARMASCIENCE INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "BETAHISTINE"
+  ]
+}

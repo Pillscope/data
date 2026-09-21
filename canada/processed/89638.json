@@ -1,0 +1,28 @@
+{
+  "drug_code": "89638",
+  "din": "02411792",
+  "brand_name": "HERTEL BIODEGRADABLE NETTOYANT D\u00c3\u0089SINFECTANT DISINFECTANT CLEANER MULTISURFACE",
+  "class": "Disinfectant",
+  "descriptor": "",
+  "last_update": "13-FEB-2017",
+  "active_ingredients": [
+    {
+      "name": "BENZALKONIUM CHLORIDE",
+      "strength": "0.08",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "LIQUID"
+  ],
+  "routes": [
+    "DISINFECTANT (Domestic)"
+  ],
+  "companies": [
+    "LAVO"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "TECHNICAL DISINFECTANTS"
+  ]
+}

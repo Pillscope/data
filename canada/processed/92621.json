@@ -1,0 +1,28 @@
+{
+  "drug_code": "92621",
+  "din": "02441829",
+  "brand_name": "TOUJEO SOLOSTAR",
+  "class": "Human",
+  "descriptor": "1.5ML (450 IU) PREFILLED PEN",
+  "last_update": "16-JUL-2015",
+  "active_ingredients": [
+    {
+      "name": "INSULIN GLARGINE",
+      "strength": "300",
+      "unit": "UNIT"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "SUBCUTANEOUS"
+  ],
+  "companies": [
+    "SANOFI-AVENTIS CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "INSULIN GLARGINE"
+  ]
+}

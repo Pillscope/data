@@ -1,0 +1,28 @@
+{
+  "drug_code": "92143",
+  "din": "02437120",
+  "brand_name": "CEFAZOLIN FOR INJECTION",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "11-FEB-2016",
+  "active_ingredients": [
+    {
+      "name": "CEFAZOLIN (CEFAZOLIN SODIUM)",
+      "strength": "10",
+      "unit": "G"
+    }
+  ],
+  "forms": [
+    "POWDER FOR SOLUTION"
+  ],
+  "routes": [
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "STERIMAX INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "CEFAZOLIN"
+  ]
+}

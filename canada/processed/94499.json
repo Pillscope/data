@@ -1,0 +1,33 @@
+{
+  "drug_code": "94499",
+  "din": "02457962",
+  "brand_name": "MINT-LEVOCARB",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "24-MAY-2017",
+  "active_ingredients": [
+    {
+      "name": "CARBIDOPA",
+      "strength": "25",
+      "unit": "MG"
+    },
+    {
+      "name": "LEVODOPA",
+      "strength": "100",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "MINT PHARMACEUTICALS INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "LEVODOPA AND DECARBOXYLASE INHIBITOR"
+  ]
+}

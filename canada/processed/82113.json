@@ -1,0 +1,33 @@
+{
+  "drug_code": "82113",
+  "din": "02335522",
+  "brand_name": "CAPTURE TOTALE FOND DE TEINT CONCENTR\u00c3\u0089 \u00c3\u0089CLAT HAUTE D\u00c3\u0089FINTION",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "04-JAN-2011",
+  "active_ingredients": [
+    {
+      "name": "TITANIUM DIOXIDE",
+      "strength": "3.16",
+      "unit": "%"
+    },
+    {
+      "name": "OCTINOXATE",
+      "strength": "3.00",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "EMULSION"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "PARFUMS CHRISTIAN DIOR"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "COMBINATIONS OF PROTECTIVES AGAINST UV-RADIATION"
+  ]
+}

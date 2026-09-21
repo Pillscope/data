@@ -1,0 +1,28 @@
+{
+  "drug_code": "70344",
+  "din": "02246194",
+  "brand_name": "APO-AMIODARONE TABLETS",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "17-MAR-2006",
+  "active_ingredients": [
+    {
+      "name": "AMIODARONE HYDROCHLORIDE",
+      "strength": "200",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "APOTEX INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "AMIODARONE"
+  ]
+}

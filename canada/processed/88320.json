@@ -1,0 +1,28 @@
+{
+  "drug_code": "88320",
+  "din": "02398265",
+  "brand_name": "SILENOR",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "10-APR-2013",
+  "active_ingredients": [
+    {
+      "name": "DOXEPIN (DOXEPIN HYDROCHLORIDE)",
+      "strength": "6.00",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "PALADIN LABS INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "DOXEPIN"
+  ]
+}

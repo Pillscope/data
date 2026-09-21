@@ -1,0 +1,28 @@
+{
+  "drug_code": "87860",
+  "din": "02393379",
+  "brand_name": "PMS-RIZATRIPTAN RDT",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "23-MAY-2013",
+  "active_ingredients": [
+    {
+      "name": "RIZATRIPTAN (RIZATRIPTAN BENZOATE)",
+      "strength": "10",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET (ORALLY DISINTEGRATING)"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "PHARMASCIENCE INC"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "RIZATRIPTAN"
+  ]
+}

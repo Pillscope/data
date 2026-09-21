@@ -1,0 +1,28 @@
+{
+  "drug_code": "84002",
+  "din": "02354845",
+  "brand_name": "ACT LOSARTAN",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "08-JUL-2016",
+  "active_ingredients": [
+    {
+      "name": "LOSARTAN POTASSIUM",
+      "strength": "100",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "ACTAVIS PHARMA COMPANY"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "LOSARTAN"
+  ]
+}

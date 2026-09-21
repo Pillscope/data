@@ -1,0 +1,28 @@
+{
+  "drug_code": "44263",
+  "din": "02182963",
+  "brand_name": "APO-METHOTREXATE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "28-AUG-2017",
+  "active_ingredients": [
+    {
+      "name": "METHOTREXATE",
+      "strength": "2.5",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "PFIZER CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "METHOTREXATE"
+  ]
+}

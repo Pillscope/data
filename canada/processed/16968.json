@@ -1,0 +1,28 @@
+{
+  "drug_code": "16968",
+  "din": "02083523",
+  "brand_name": "BEZALIP SR",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "27-MAY-2016",
+  "active_ingredients": [
+    {
+      "name": "BEZAFIBRATE",
+      "strength": "400",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET (EXTENDED-RELEASE)"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "ACTAVIS SPECIALTY PHARMACEUTICALS CO"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "BEZAFIBRATE"
+  ]
+}

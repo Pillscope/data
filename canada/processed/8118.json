@@ -1,0 +1,28 @@
+{
+  "drug_code": "8118",
+  "din": "00742813",
+  "brand_name": "HYDROXYZINE HYDROCHLORIDE INJECTION USP",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "05-AUG-2015",
+  "active_ingredients": [
+    {
+      "name": "HYDROXYZINE HYDROCHLORIDE",
+      "strength": "50",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "LIQUID"
+  ],
+  "routes": [
+    "INTRAMUSCULAR"
+  ],
+  "companies": [
+    "SANDOZ CANADA INCORPORATED"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "HYDROXYZINE"
+  ]
+}

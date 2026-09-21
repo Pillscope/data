@@ -1,0 +1,28 @@
+{
+  "drug_code": "74714",
+  "din": "02261774",
+  "brand_name": "SANDOZ-DICLOFENAC RAPIDE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "04-MAY-2010",
+  "active_ingredients": [
+    {
+      "name": "DICLOFENAC POTASSIUM",
+      "strength": "50",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "SANDOZ CANADA INCORPORATED"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "DICLOFENAC"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "drug_code": "49701",
+  "din": "02230592",
+  "brand_name": "NEOSTIGMINE OMEGA",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "11-APR-2006",
+  "active_ingredients": [
+    {
+      "name": "NEOSTIGMINE METHYLSULFATE",
+      "strength": "1",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "LIQUID"
+  ],
+  "routes": [
+    "INTRAMUSCULAR",
+    "INTRAVENOUS",
+    "SUBCUTANEOUS"
+  ],
+  "companies": [
+    "OMEGA LABORATORIES LTD"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "NEOSTIGMINE"
+  ]
+}

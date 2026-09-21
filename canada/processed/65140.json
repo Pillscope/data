@@ -1,0 +1,29 @@
+{
+  "drug_code": "65140",
+  "din": "02241500",
+  "brand_name": "VITAMIN B12",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "29-APR-2015",
+  "active_ingredients": [
+    {
+      "name": "VITAMIN B12",
+      "strength": "100",
+      "unit": "MCG"
+    }
+  ],
+  "forms": [
+    "LIQUID"
+  ],
+  "routes": [
+    "INTRAMUSCULAR",
+    "SUBCUTANEOUS"
+  ],
+  "companies": [
+    "SANDOZ CANADA INCORPORATED"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "CYANOCOBALAMIN"
+  ]
+}

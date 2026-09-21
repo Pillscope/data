@@ -1,0 +1,31 @@
+{
+  "drug_code": "9160",
+  "din": "00724955",
+  "brand_name": "DELLA-WASH",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "10-JAN-2017",
+  "active_ingredients": [
+    {
+      "name": "IODINE (NONYLPHENOXYPOLY(ETHYLENEOXY)ETHANOL IODINE COMPLEX)",
+      "strength": "1.75",
+      "unit": "%"
+    },
+    {
+      "name": "PHOSPHORIC ACID",
+      "strength": "11.5",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "UDDER WASH"
+  ],
+  "companies": [
+    "DELAVAL INC."
+  ],
+  "status": "APPROVED",
+  "atc": []
+}

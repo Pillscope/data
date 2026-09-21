@@ -1,0 +1,28 @@
+{
+  "drug_code": "89564",
+  "din": "02411008",
+  "brand_name": "GABAPENTIN TABLETS USP",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "11-JAN-2018",
+  "active_ingredients": [
+    {
+      "name": "GABAPENTIN",
+      "strength": "800",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET (IMMEDIATE RELEASE)"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "GLENMARK PHARMACEUTICALS CANADA INC."
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "GABAPENTIN"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "drug_code": "80664",
+  "din": "02321254",
+  "brand_name": "SANDOZ CELECOXIB",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "18-NOV-2014",
+  "active_ingredients": [
+    {
+      "name": "CELECOXIB",
+      "strength": "200",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "CAPSULE"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "SANDOZ CANADA INCORPORATED"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "CELECOXIB"
+  ]
+}

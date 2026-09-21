@@ -1,0 +1,28 @@
+{
+  "drug_code": "92700",
+  "din": "02442655",
+  "brand_name": "ZOLMITRIPTAN",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "17-NOV-2015",
+  "active_ingredients": [
+    {
+      "name": "ZOLMITRIPTAN",
+      "strength": "2.5",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "SANIS HEALTH INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "ZOLMITRIPTAN"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "drug_code": "94606",
+  "din": "02458896",
+  "brand_name": "BIOESTROVET",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "29-MAY-2017",
+  "active_ingredients": [
+    {
+      "name": "CLOPROSTENOL (CLOPROSTENOL SODIUM)",
+      "strength": "250",
+      "unit": "MCG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "INTRAMUSCULAR"
+  ],
+  "companies": [
+    "VETOQUINOL N A INC"
+  ],
+  "status": "APPROVED",
+  "atc": []
+}

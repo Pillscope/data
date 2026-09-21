@@ -1,0 +1,28 @@
+{
+  "drug_code": "90912",
+  "din": "02424444",
+  "brand_name": "SANDOZ DUTASTERIDE CAPSULE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "08-OCT-2014",
+  "active_ingredients": [
+    {
+      "name": "DUTASTERIDE",
+      "strength": "0.5",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "CAPSULE"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "SANDOZ CANADA INCORPORATED"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "DUTASTERIDE"
+  ]
+}

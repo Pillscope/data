@@ -1,0 +1,28 @@
+{
+  "drug_code": "87549",
+  "din": "02390019",
+  "brand_name": "ONDANSETRON INJECTION, USP",
+  "class": "Human",
+  "descriptor": "WITHOUT PRESERVATIVES",
+  "last_update": "15-JUL-2015",
+  "active_ingredients": [
+    {
+      "name": "ONDANSETRON (ONDANSETRON HYDROCHLORIDE DIHYDRATE)",
+      "strength": "2",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "MYLAN PHARMACEUTICALS ULC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "ONDANSETRON"
+  ]
+}

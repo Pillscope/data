@@ -1,0 +1,28 @@
+{
+  "drug_code": "90493",
+  "din": "02420333",
+  "brand_name": "APO-ADEFOVIR",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "12-AUG-2014",
+  "active_ingredients": [
+    {
+      "name": "ADEFOVIR DIPIVOXIL",
+      "strength": "10",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "APOTEX INC"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "ADEFOVIR DIPIVOXIL"
+  ]
+}

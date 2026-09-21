@@ -1,0 +1,28 @@
+{
+  "drug_code": "34112",
+  "din": "02158418",
+  "brand_name": "CIDEX ACTIVATED DIALDEHYDE SOLUTION",
+  "class": "Disinfectant",
+  "descriptor": "",
+  "last_update": "29-SEP-2010",
+  "active_ingredients": [
+    {
+      "name": "GLUTARAL",
+      "strength": "2.4",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "DISINFECTANT (Medical Instruments)"
+  ],
+  "companies": [
+    "JOHNSON & JOHNSON MEDICAL PRODUCTS"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "TECHNICAL DISINFECTANTS"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "drug_code": "84559",
+  "din": "02360624",
+  "brand_name": "APO-OLANZAPINE ODT",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "08-DEC-2011",
+  "active_ingredients": [
+    {
+      "name": "OLANZAPINE",
+      "strength": "10",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET (ORALLY DISINTEGRATING)"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "APOTEX INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "OLANZAPINE"
+  ]
+}

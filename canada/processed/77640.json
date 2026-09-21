@@ -1,0 +1,28 @@
+{
+  "drug_code": "77640",
+  "din": "02291002",
+  "brand_name": "GD-QUINAPRIL",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "09-JUN-2014",
+  "active_ingredients": [
+    {
+      "name": "QUINAPRIL (QUINAPRIL HYDROCHLORIDE)",
+      "strength": "20",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "GENMED A DIVISION OF PFIZER CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "QUINAPRIL"
+  ]
+}

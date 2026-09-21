@@ -1,0 +1,28 @@
+{
+  "drug_code": "85695",
+  "din": "02371820",
+  "brand_name": "RAN-FINASTERIDE",
+  "class": "Human",
+  "descriptor": "FILM-COATED TABLETS",
+  "last_update": "29-OCT-2012",
+  "active_ingredients": [
+    {
+      "name": "FINASTERIDE",
+      "strength": "5",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "RANBAXY PHARMACEUTICALS CANADA INC."
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "FINASTERIDE"
+  ]
+}

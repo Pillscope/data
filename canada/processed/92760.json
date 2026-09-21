@@ -1,0 +1,28 @@
+{
+  "drug_code": "92760",
+  "din": "02443058",
+  "brand_name": "DUTASTERIDE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "08-SEP-2015",
+  "active_ingredients": [
+    {
+      "name": "DUTASTERIDE",
+      "strength": "0.5",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "CAPSULE"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "SANIS HEALTH INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "DUTASTERIDE"
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "drug_code": "93251",
+  "din": "02446944",
+  "brand_name": "ENTRESTO",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "06-AUG-2016",
+  "active_ingredients": [
+    {
+      "name": "VALSARTAN (SACUBITRIL VALSARTAN SODIUM HYDRATE COMPLEX)",
+      "strength": "103",
+      "unit": "MG"
+    },
+    {
+      "name": "SACUBITRIL (SACUBITRIL VALSARTAN SODIUM HYDRATE COMPLEX)",
+      "strength": "97",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "NOVARTIS PHARMACEUTICALS CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "VALSARTAN AND SACUBITRIL",
+    "VALSARTAN AND SACUBITRIL"
+  ]
+}

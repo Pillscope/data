@@ -1,0 +1,32 @@
+{
+  "drug_code": "3466",
+  "din": "00486388",
+  "brand_name": "KERAPLEX",
+  "class": "Veterinary",
+  "descriptor": "SOLUTION",
+  "last_update": "18-DEC-2017",
+  "active_ingredients": [
+    {
+      "name": "GENTIAN VIOLET",
+      "strength": "2.4",
+      "unit": "MG"
+    },
+    {
+      "name": "NEOMYCIN (NEOMYCIN SULFATE)",
+      "strength": "1",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SPRAY"
+  ],
+  "routes": [
+    "OPHTHALMIC",
+    "TOPICAL"
+  ],
+  "companies": [
+    "DOMINION VETERINARY LABORATORIES LTD."
+  ],
+  "status": "MARKETED",
+  "atc": []
+}

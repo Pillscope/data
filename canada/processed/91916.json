@@ -1,0 +1,38 @@
+{
+  "drug_code": "91916",
+  "din": "02434865",
+  "brand_name": "ARTISTRY EXACT FIT BEAUTY BALM PERFECTING PRIMER",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "05-OCT-2015",
+  "active_ingredients": [
+    {
+      "name": "ZINC OXIDE",
+      "strength": "5.49",
+      "unit": "%"
+    },
+    {
+      "name": "ENSULIZOLE",
+      "strength": "2.0",
+      "unit": "%"
+    },
+    {
+      "name": "OCTINOXATE",
+      "strength": "5.0",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "CREAM"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "AMWAY CANADA CORPORATION"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "COMBINATIONS OF PROTECTIVES AGAINST UV-RADIATION"
+  ]
+}

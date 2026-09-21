@@ -1,0 +1,28 @@
+{
+  "drug_code": "11742",
+  "din": "01919431",
+  "brand_name": "ENGERIX B INJ SUS 20MCG/ML",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "05-AUG-2010",
+  "active_ingredients": [
+    {
+      "name": "HEPATITIS B SURFACE ANTIGEN (RECOMBINANT)",
+      "strength": "20",
+      "unit": "MCG"
+    }
+  ],
+  "forms": [
+    "SUSPENSION"
+  ],
+  "routes": [
+    "INTRAMUSCULAR"
+  ],
+  "companies": [
+    "GLAXOSMITHKLINE INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "HEPATITIS B, PURIFIED ANTIGEN"
+  ]
+}

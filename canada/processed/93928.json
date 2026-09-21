@@ -1,0 +1,26 @@
+{
+  "drug_code": "93928",
+  "din": "02452871",
+  "brand_name": "DOUXO PYO MICRO-EMULSION SPRAY",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "07-SEP-2017",
+  "active_ingredients": [
+    {
+      "name": "CHLORHEXIDINE (CHLORHEXIDINE DIGLUCONATE)",
+      "strength": "3",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "SPRAY"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "CEVA ANIMAL HEALTH INC"
+  ],
+  "status": "APPROVED",
+  "atc": []
+}

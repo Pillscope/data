@@ -1,0 +1,28 @@
+{
+  "drug_code": "83803",
+  "din": "02352788",
+  "brand_name": "AMOXICILLIN",
+  "class": "Human",
+  "descriptor": "SUGAR-REDUCED",
+  "last_update": "14-JUN-2017",
+  "active_ingredients": [
+    {
+      "name": "AMOXICILLIN (AMOXICILLIN TRIHYDRATE)",
+      "strength": "250",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "GRANULES FOR SUSPENSION"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "SANIS HEALTH INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "AMOXICILLIN"
+  ]
+}

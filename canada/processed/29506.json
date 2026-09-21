@@ -1,0 +1,28 @@
+{
+  "drug_code": "29506",
+  "din": "02105462",
+  "brand_name": "CHARCODOTE TFS SUS 200MG/ML",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "10-MAY-2016",
+  "active_ingredients": [
+    {
+      "name": "CHARCOAL ACTIVATED",
+      "strength": "200",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SUSPENSION"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "PHARMASCIENCE INC"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "MEDICINAL CHARCOAL"
+  ]
+}

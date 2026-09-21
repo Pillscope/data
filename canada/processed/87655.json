@@ -1,0 +1,28 @@
+{
+  "drug_code": "87655",
+  "din": "02391198",
+  "brand_name": "PMS-CANDESARTAN",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "24-SEP-2012",
+  "active_ingredients": [
+    {
+      "name": "CANDESARTAN CILEXETIL",
+      "strength": "8",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "PHARMASCIENCE INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "CANDESARTAN"
+  ]
+}

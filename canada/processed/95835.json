@@ -1,0 +1,28 @@
+{
+  "drug_code": "95835",
+  "din": "02469545",
+  "brand_name": "PURELL PROFESSIONAL SURFACE DISINFECTANT",
+  "class": "Disinfectant",
+  "descriptor": "SOLUTION",
+  "last_update": "12-APR-2018",
+  "active_ingredients": [
+    {
+      "name": "ALCOHOL ANHYDROUS",
+      "strength": "29.4",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "SPRAY"
+  ],
+  "routes": [
+    "DISINFECTANT (Institutional/Industrial)"
+  ],
+  "companies": [
+    "GOJO INDUSTRIES, INC."
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "TECHNICAL DISINFECTANTS"
+  ]
+}

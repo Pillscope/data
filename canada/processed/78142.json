@@ -1,0 +1,28 @@
+{
+  "drug_code": "78142",
+  "din": "02296063",
+  "brand_name": "APO-BICALUTAMIDE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "18-JAN-2008",
+  "active_ingredients": [
+    {
+      "name": "BICALUTAMIDE",
+      "strength": "50",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "APOTEX INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "BICALUTAMIDE"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "drug_code": "73543",
+  "din": "02250624",
+  "brand_name": "LACRISERT",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "02-APR-2008",
+  "active_ingredients": [
+    {
+      "name": "HYPROLOSE",
+      "strength": "5",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "INSERT"
+  ],
+  "routes": [
+    "OPHTHALMIC"
+  ],
+  "companies": [
+    "ATON PHARMA INC DIVISION OF VALEANT PHARMACEUTICALS NORTH AMERICA LLC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "ARTIFICIAL TEARS AND OTHER INDIFFERENT PREPARATIONS."
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "drug_code": "5221",
+  "din": "00591645",
+  "brand_name": "GASEOUS NITROGEN 99.0%",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "31-MAY-2010",
+  "active_ingredients": [
+    {
+      "name": "NITROGEN",
+      "strength": "99.0",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "GAS"
+  ],
+  "routes": [
+    "INHALATION"
+  ],
+  "companies": [
+    "AIR PRODUCTS CANADA LTD/LT\u00c3\u0089E."
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "NITROGEN"
+  ]
+}

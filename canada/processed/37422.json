@@ -1,0 +1,26 @@
+{
+  "drug_code": "37422",
+  "din": "02225670",
+  "brand_name": "PIPERAZINE 34 (LIQUID WORMER)",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "18-AUG-2008",
+  "active_ingredients": [
+    {
+      "name": "PIPERAZINE (PIPERAZINE SULFATE)",
+      "strength": "34",
+      "unit": "G"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "VETOQUINOL N A INC"
+  ],
+  "status": "APPROVED",
+  "atc": []
+}

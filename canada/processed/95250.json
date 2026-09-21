@@ -1,0 +1,34 @@
+{
+  "drug_code": "95250",
+  "din": "02464349",
+  "brand_name": "ADLYXINE",
+  "class": "Human",
+  "descriptor": "STARTER PACK. 2 PRE-FILLED PENS (10 MCG & 20 MCG PER DOSE)",
+  "last_update": "16-OCT-2017",
+  "active_ingredients": [
+    {
+      "name": "LIXISENATIDE",
+      "strength": "0.05",
+      "unit": "MG"
+    },
+    {
+      "name": "LIXISENATIDE",
+      "strength": "0.1",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION",
+    "KIT"
+  ],
+  "routes": [
+    "SUBCUTANEOUS"
+  ],
+  "companies": [
+    "SANOFI-AVENTIS CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "LIXISENATIDE"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "drug_code": "44191",
+  "din": "02173255",
+  "brand_name": "CEFA-DRI",
+  "class": "Veterinary",
+  "descriptor": "INTRAMAMMARY INFUSION",
+  "last_update": "05-MAY-2015",
+  "active_ingredients": [
+    {
+      "name": "CEPHAPIRIN (CEPHAPIRIN BENZATHINE)",
+      "strength": "300",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "GEL"
+  ],
+  "routes": [
+    "INTRAMAMMARY"
+  ],
+  "companies": [
+    "BOEHRINGER INGELHEIM (CANADA) LTD LTEE"
+  ],
+  "status": "APPROVED",
+  "atc": []
+}

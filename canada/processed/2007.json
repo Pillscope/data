@@ -1,0 +1,26 @@
+{
+  "drug_code": "2007",
+  "din": "00308420",
+  "brand_name": "EDDI 42",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "13-AUG-2003",
+  "active_ingredients": [
+    {
+      "name": "ETHYLENEDIAMINE DIHYDROIODIDE",
+      "strength": "9.4",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "POWDER"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "PROFESSIONAL VETERINARY LABORATORIES"
+  ],
+  "status": "MARKETED",
+  "atc": []
+}

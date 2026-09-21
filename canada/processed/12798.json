@@ -1,0 +1,26 @@
+{
+  "drug_code": "12798",
+  "din": "01941577",
+  "brand_name": "GENTLE IODINE SPRAY",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "27-OCT-2002",
+  "active_ingredients": [
+    {
+      "name": "POVIDONE-IODINE",
+      "strength": "1",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "LIQUID"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "CITADEL ANIMAL HEALTH"
+  ],
+  "status": "MARKETED",
+  "atc": []
+}

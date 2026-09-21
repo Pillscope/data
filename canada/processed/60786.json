@@ -1,0 +1,28 @@
+{
+  "drug_code": "60786",
+  "din": "02237452",
+  "brand_name": "PERIDEX ORAL RINSE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "25-JUL-2017",
+  "active_ingredients": [
+    {
+      "name": "CHLORHEXIDINE GLUCONATE",
+      "strength": "0.12",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "MOUTHWASH/GARGLE"
+  ],
+  "routes": [
+    "BUCCAL"
+  ],
+  "companies": [
+    "3M CANADA COMPANY"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "CHLORHEXIDINE"
+  ]
+}

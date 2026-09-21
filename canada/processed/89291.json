@@ -1,0 +1,28 @@
+{
+  "drug_code": "89291",
+  "din": "02408163",
+  "brand_name": "FIBRISTAL",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "25-APR-2018",
+  "active_ingredients": [
+    {
+      "name": "Ulipristal Acetate",
+      "strength": "5",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "ALLERGAN PHARMA CO."
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "ULIPRISTAL"
+  ]
+}

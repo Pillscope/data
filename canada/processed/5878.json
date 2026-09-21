@@ -1,0 +1,27 @@
+{
+  "drug_code": "5878",
+  "din": "00613037",
+  "brand_name": "ACEPROMAZINE INJ 25MG/ML",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "23-OCT-2009",
+  "active_ingredients": [
+    {
+      "name": "ACEPROMAZINE MALEATE",
+      "strength": "25",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "LIQUID"
+  ],
+  "routes": [
+    "INTRAMUSCULAR",
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "UNIVET PHARMACEUTICALS LTD."
+  ],
+  "status": "MARKETED",
+  "atc": []
+}

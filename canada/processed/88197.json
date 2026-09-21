@@ -1,0 +1,43 @@
+{
+  "drug_code": "88197",
+  "din": "02396963",
+  "brand_name": "SMOFLIPID 20%",
+  "class": "Human",
+  "descriptor": "LIPID INJECTABLE EMULSION, MFR STD.",
+  "last_update": "04-MAR-2016",
+  "active_ingredients": [
+    {
+      "name": "MEDIUM CHAIN TRIGLYCERIDES (MCT)",
+      "strength": "6",
+      "unit": "%"
+    },
+    {
+      "name": "OLIVE OIL",
+      "strength": "5",
+      "unit": "%"
+    },
+    {
+      "name": "SOYBEAN OIL",
+      "strength": "6",
+      "unit": "%"
+    },
+    {
+      "name": "FISH OIL",
+      "strength": "3",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "EMULSION"
+  ],
+  "routes": [
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "FRESENIUS KABI CANADA LTD"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "FAT EMULSIONS"
+  ]
+}

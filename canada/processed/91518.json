@@ -1,0 +1,38 @@
+{
+  "drug_code": "91518",
+  "din": "02430746",
+  "brand_name": "LA MER THE REPARATIVE SKIN TINT SPF 30",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "05-JUN-2015",
+  "active_ingredients": [
+    {
+      "name": "TITANIUM DIOXIDE",
+      "strength": "5.3",
+      "unit": "%"
+    },
+    {
+      "name": "OCTISALATE",
+      "strength": "2.0",
+      "unit": "%"
+    },
+    {
+      "name": "OCTINOXATE",
+      "strength": "7.5",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "LOTION"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "MAX HUBER RESEARCH LABS DIST"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "COMBINATIONS OF PROTECTIVES AGAINST UV-RADIATION"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "drug_code": "76456",
+  "din": "02279002",
+  "brand_name": "EQUELL (IVERMECTIN) ORAL PASTE FOR HORSES",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "31-MAY-2010",
+  "active_ingredients": [
+    {
+      "name": "IVERMECTIN",
+      "strength": "1.87",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "PASTE"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "VIRBAC AH INC"
+  ],
+  "status": "APPROVED",
+  "atc": []
+}

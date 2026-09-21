@@ -1,0 +1,28 @@
+{
+  "drug_code": "67909",
+  "din": "02243966",
+  "brand_name": "BAZA CLEANSE & PROTECT",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "23-JUN-2009",
+  "active_ingredients": [
+    {
+      "name": "DIMETHICONE",
+      "strength": "2",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "LOTION"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "COLOPLAST A/S"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "SILICONE PRODUCTS"
+  ]
+}

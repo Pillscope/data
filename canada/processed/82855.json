@@ -1,0 +1,28 @@
+{
+  "drug_code": "82855",
+  "din": "02343061",
+  "brand_name": "PROPAFENONE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "02-MAR-2018",
+  "active_ingredients": [
+    {
+      "name": "PROPAFENONE HYDROCHLORIDE",
+      "strength": "300",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "SANIS HEALTH INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "PROPAFENONE"
+  ]
+}

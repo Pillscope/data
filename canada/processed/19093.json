@@ -1,0 +1,26 @@
+{
+  "drug_code": "19093",
+  "din": "02059991",
+  "brand_name": "PENMED",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "29-DEC-2017",
+  "active_ingredients": [
+    {
+      "name": "PENICILLIN G PROCAINE",
+      "strength": "300000",
+      "unit": "UNIT"
+    }
+  ],
+  "forms": [
+    "SUSPENSION"
+  ],
+  "routes": [
+    "INTRAMUSCULAR"
+  ],
+  "companies": [
+    "BIO AGRI MIX LP"
+  ],
+  "status": "APPROVED",
+  "atc": []
+}

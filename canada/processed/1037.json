@@ -1,0 +1,28 @@
+{
+  "drug_code": "1037",
+  "din": "00022780",
+  "brand_name": "DILANTIN",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "05-SEP-2017",
+  "active_ingredients": [
+    {
+      "name": "PHENYTOIN SODIUM",
+      "strength": "100",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "CAPSULE"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "PFIZER CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "PHENYTOIN"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "drug_code": "72003",
+  "din": "02247725",
+  "brand_name": "FUZEON",
+  "class": "Human",
+  "descriptor": "SINGLE USE VIAL",
+  "last_update": "14-DEC-2010",
+  "active_ingredients": [
+    {
+      "name": "ENFUVIRTIDE",
+      "strength": "108",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "POWDER FOR SOLUTION"
+  ],
+  "routes": [
+    "SUBCUTANEOUS"
+  ],
+  "companies": [
+    "HOFFMANN-LA ROCHE LIMITED"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "ENFUVIRTIDE"
+  ]
+}

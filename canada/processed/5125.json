@@ -1,0 +1,76 @@
+{
+  "drug_code": "5125",
+  "din": "00524115",
+  "brand_name": "SUPER BOOSTER",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "02-JAN-2018",
+  "active_ingredients": [
+    {
+      "name": "NICOTINAMIDE",
+      "strength": "2500",
+      "unit": "MG"
+    },
+    {
+      "name": "CALCIUM D-PANTOTHENATE",
+      "strength": "750",
+      "unit": "MG"
+    },
+    {
+      "name": "PYRIDOXINE HYDROCHLORIDE",
+      "strength": "326",
+      "unit": "MG"
+    },
+    {
+      "name": "VITAMIN D3",
+      "strength": "250000",
+      "unit": "UNIT"
+    },
+    {
+      "name": "STREPTOMYCIN SULFATE",
+      "strength": "15333",
+      "unit": "MG"
+    },
+    {
+      "name": "PENICILLIN G POTASSIUM",
+      "strength": "4961333",
+      "unit": "UNIT"
+    },
+    {
+      "name": "VITAMIN B2",
+      "strength": "333",
+      "unit": "MG"
+    },
+    {
+      "name": "VITAMIN A",
+      "strength": "750000",
+      "unit": "UNIT"
+    },
+    {
+      "name": "VITAMIN E (DL-ALPHA TOCOPHERYL ACETATE)",
+      "strength": "750",
+      "unit": "UNIT"
+    },
+    {
+      "name": "VITAMIN B12",
+      "strength": "241",
+      "unit": "MCG"
+    },
+    {
+      "name": "MENADIONE",
+      "strength": "333",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "POWDER FOR SOLUTION"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "VETOQUINOL N A INC"
+  ],
+  "status": "APPROVED",
+  "atc": []
+}

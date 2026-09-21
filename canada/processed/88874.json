@@ -1,0 +1,28 @@
+{
+  "drug_code": "88874",
+  "din": "02403986",
+  "brand_name": "ACT OLOPATADINE 0.1%",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "05-MAY-2015",
+  "active_ingredients": [
+    {
+      "name": "OLOPATADINE (OLOPATADINE HYDROCHLORIDE)",
+      "strength": "0.1",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "OPHTHALMIC"
+  ],
+  "companies": [
+    "ACTAVIS PHARMA COMPANY"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "OLOPATADINE"
+  ]
+}

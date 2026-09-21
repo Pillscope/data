@@ -1,0 +1,28 @@
+{
+  "drug_code": "14554",
+  "din": "02039486",
+  "brand_name": "DIFLUNISAL",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "29-APR-2015",
+  "active_ingredients": [
+    {
+      "name": "DIFLUNISAL",
+      "strength": "250",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "AA PHARMA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "DIFLUNISAL"
+  ]
+}

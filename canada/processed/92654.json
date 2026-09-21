@@ -1,0 +1,29 @@
+{
+  "drug_code": "92654",
+  "din": "02442183",
+  "brand_name": "VARIZIG",
+  "class": "Human",
+  "descriptor": "SINGLE USE VIAL",
+  "last_update": "19-DEC-2017",
+  "active_ingredients": [
+    {
+      "name": "VARICELLA ZOSTER IMMUNE GLOBULIN HUMAN",
+      "strength": "125",
+      "unit": "UNIT"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "INTRAMUSCULAR",
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "SAOL THERAPEUTICS RESEARCH LIMITED"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "VARICELLA/ZOSTER IMMUNOGLOBULIN"
+  ]
+}

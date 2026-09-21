@@ -1,0 +1,28 @@
+{
+  "drug_code": "85665",
+  "din": "02371499",
+  "brand_name": "PHARMA-D 10000 IU",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "02-JAN-2013",
+  "active_ingredients": [
+    {
+      "name": "VITAMIN D3",
+      "strength": "10000",
+      "unit": "UNIT"
+    }
+  ],
+  "forms": [
+    "CAPSULE"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "PHARMASCIENCE INC"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "COLECALCIFEROL"
+  ]
+}

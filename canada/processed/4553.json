@@ -1,0 +1,56 @@
+{
+  "drug_code": "4553",
+  "din": "00539872",
+  "brand_name": "LIN O GEL",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "08-DEC-2015",
+  "active_ingredients": [
+    {
+      "name": "IODINE",
+      "strength": "3.7",
+      "unit": "G"
+    },
+    {
+      "name": "CAMPHOR",
+      "strength": "4.8",
+      "unit": "G"
+    },
+    {
+      "name": "TURPENTINE",
+      "strength": "3.2",
+      "unit": "G"
+    },
+    {
+      "name": "THYMOL",
+      "strength": "1.2",
+      "unit": "G"
+    },
+    {
+      "name": "CLOVE OIL",
+      "strength": "2.7",
+      "unit": "G"
+    },
+    {
+      "name": "MENTHOL",
+      "strength": "3.7",
+      "unit": "G"
+    },
+    {
+      "name": "ISOPROPYL ALCOHOL",
+      "strength": "60",
+      "unit": "G"
+    }
+  ],
+  "forms": [
+    "OINTMENT"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "HAWTHORNE PRODUCTS INC."
+  ],
+  "status": "MARKETED",
+  "atc": []
+}

@@ -1,0 +1,28 @@
+{
+  "drug_code": "73742",
+  "din": "02252554",
+  "brand_name": "ROBITUSSIN DM COUGHGELS LIQUI-GELS TOUX",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "13-JAN-2017",
+  "active_ingredients": [
+    {
+      "name": "DEXTROMETHORPHAN HYDROBROMIDE",
+      "strength": "15",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "CAPSULE"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "PFIZER CONSUMER HEALTHCARE A DIVISION OF PFIZER CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "DEXTROMETHORPHAN"
+  ]
+}

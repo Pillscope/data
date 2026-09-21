@@ -1,0 +1,28 @@
+{
+  "drug_code": "69999",
+  "din": "02245882",
+  "brand_name": "METHAZOLAMIDE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "18-MAY-2011",
+  "active_ingredients": [
+    {
+      "name": "METHAZOLAMIDE",
+      "strength": "50",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "AA PHARMA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "METHAZOLAMIDE"
+  ]
+}

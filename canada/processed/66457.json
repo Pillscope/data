@@ -1,0 +1,29 @@
+{
+  "drug_code": "66457",
+  "din": "02242668",
+  "brand_name": "ALLERGENIC EXTRACT - STANDARDIZED GRASS POLLEN - SWEET VERNAL",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "10-OCT-2015",
+  "active_ingredients": [
+    {
+      "name": "STANDARDIZED SWEET VERNAL GRASS POLLEN",
+      "strength": "100000",
+      "unit": "UNIT"
+    }
+  ],
+  "forms": [
+    "LIQUID"
+  ],
+  "routes": [
+    "INTRACUTANEOUS",
+    "SUBCUTANEOUS"
+  ],
+  "companies": [
+    "GREER LABORATORIES INC"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "GRASS POLLEN"
+  ]
+}

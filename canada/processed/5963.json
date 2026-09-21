@@ -1,0 +1,28 @@
+{
+  "drug_code": "5963",
+  "din": "00616192",
+  "brand_name": "VEPESID",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "28-AUG-2008",
+  "active_ingredients": [
+    {
+      "name": "ETOPOSIDE",
+      "strength": "50",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "CAPSULE"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "BRISTOL-MYERS SQUIBB CANADA"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "ETOPOSIDE"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "drug_code": "68933",
+  "din": "02244935",
+  "brand_name": "HERTEL PLUS ULTRA PUISSANT D\u00c3\u0089SINFECTANT + D\u00c3\u0089GRAISSANT/ HERTEL PLUS EXTRA STRENGTH DISINFECTANT + DEGREASER",
+  "class": "Disinfectant",
+  "descriptor": "",
+  "last_update": "28-MAY-2015",
+  "active_ingredients": [
+    {
+      "name": "BENZALKONIUM CHLORIDE",
+      "strength": "0.28",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "LIQUID"
+  ],
+  "routes": [
+    "DISINFECTANT (Domestic)"
+  ],
+  "companies": [
+    "LAVO"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "TECHNICAL DISINFECTANTS"
+  ]
+}

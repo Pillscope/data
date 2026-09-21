@@ -1,0 +1,28 @@
+{
+  "drug_code": "3003",
+  "din": "00426857",
+  "brand_name": "PDP-BENZTROPINE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "11-SEP-2015",
+  "active_ingredients": [
+    {
+      "name": "BENZTROPINE MESYLATE",
+      "strength": "2",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "PENDOPHARM DIVISION OF DE PHARMASCIENCE INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "BENZATROPINE"
+  ]
+}

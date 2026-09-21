@@ -1,0 +1,28 @@
+{
+  "drug_code": "19479",
+  "din": "02150840",
+  "brand_name": "CANESTEN COMFORTAB 3",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "25-AUG-2017",
+  "active_ingredients": [
+    {
+      "name": "CLOTRIMAZOLE",
+      "strength": "200",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "VAGINAL TABLET"
+  ],
+  "routes": [
+    "VAGINAL"
+  ],
+  "companies": [
+    "BAYER INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "CLOTRIMAZOLE"
+  ]
+}

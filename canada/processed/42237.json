@@ -1,0 +1,38 @@
+{
+  "drug_code": "42237",
+  "din": "02019868",
+  "brand_name": "BOSTON ADVANCE COMFORT FORMULA CONDITIONING SOLUTION",
+  "class": "Disinfectant",
+  "descriptor": "",
+  "last_update": "29-APR-2015",
+  "active_ingredients": [
+    {
+      "name": "CHLORHEXIDINE GLUCONATE",
+      "strength": "0.003",
+      "unit": "%"
+    },
+    {
+      "name": "POLYAMINOPROPYL BIGUANIDE",
+      "strength": "0.0005",
+      "unit": "%"
+    },
+    {
+      "name": "DISODIUM EDETATE",
+      "strength": "0.05",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "DISINFECTANT (Contact Lens)"
+  ],
+  "companies": [
+    "BAUSCH & LOMB INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "ARTIFICIAL TEARS AND OTHER INDIFFERENT PREPARATIONS."
+  ]
+}

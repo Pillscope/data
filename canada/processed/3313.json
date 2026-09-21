@@ -1,0 +1,36 @@
+{
+  "drug_code": "3313",
+  "din": "00455466",
+  "brand_name": "FREEZEX ONT",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "08-DEC-2015",
+  "active_ingredients": [
+    {
+      "name": "BENZOCAINE",
+      "strength": "5.7",
+      "unit": "G"
+    },
+    {
+      "name": "MENTHOL",
+      "strength": "17.1",
+      "unit": "G"
+    },
+    {
+      "name": "METHYL SALICYLATE",
+      "strength": "11.4",
+      "unit": "G"
+    }
+  ],
+  "forms": [
+    "OINTMENT"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "HAWTHORNE PRODUCTS INC."
+  ],
+  "status": "MARKETED",
+  "atc": []
+}

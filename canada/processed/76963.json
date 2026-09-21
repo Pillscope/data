@@ -1,0 +1,28 @@
+{
+  "drug_code": "76963",
+  "din": "02284065",
+  "brand_name": "PMS-AMLODIPINE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "21-JUL-2009",
+  "active_ingredients": [
+    {
+      "name": "AMLODIPINE (AMLODIPINE BESYLATE)",
+      "strength": "5.0",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "PHARMASCIENCE INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "AMLODIPINE"
+  ]
+}

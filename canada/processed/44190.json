@@ -1,0 +1,26 @@
+{
+  "drug_code": "44190",
+  "din": "02173247",
+  "brand_name": "DRY-CLOX",
+  "class": "Veterinary",
+  "descriptor": "INTRAMAMMARY INFUSION (DRY COWS)",
+  "last_update": "05-MAY-2015",
+  "active_ingredients": [
+    {
+      "name": "CLOXACILLIN (CLOXACILLIN BENZATHINE)",
+      "strength": "500",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "GEL"
+  ],
+  "routes": [
+    "INTRAMAMMARY"
+  ],
+  "companies": [
+    "BOEHRINGER INGELHEIM (CANADA) LTD LTEE"
+  ],
+  "status": "APPROVED",
+  "atc": []
+}

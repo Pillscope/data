@@ -1,0 +1,28 @@
+{
+  "drug_code": "92065",
+  "din": "02436329",
+  "brand_name": "ELLA",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "16-OCT-2015",
+  "active_ingredients": [
+    {
+      "name": "Ulipristal Acetate",
+      "strength": "30",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "LABORATOIRE HRA PHARMA"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "ULIPRISTAL"
+  ]
+}

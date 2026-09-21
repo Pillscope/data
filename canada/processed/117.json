@@ -1,0 +1,30 @@
+{
+  "drug_code": "117",
+  "din": "00038202",
+  "brand_name": "BACTERIOSTATIC WATER FOR INJECTION USP",
+  "class": "Human",
+  "descriptor": "MULTIDOSE VIALS",
+  "last_update": "25-APR-2018",
+  "active_ingredients": [
+    {
+      "name": "WATER",
+      "strength": "100",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "INTRAMUSCULAR",
+    "INTRAVENOUS",
+    "SUBCUTANEOUS"
+  ],
+  "companies": [
+    "HOSPIRA HEALTHCARE CORPORATION"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "SOLVENTS AND DILUTING AGENTS,INCL IRRIGAT SOLUT"
+  ]
+}

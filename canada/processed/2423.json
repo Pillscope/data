@@ -1,0 +1,39 @@
+{
+  "drug_code": "2423",
+  "din": "00358177",
+  "brand_name": "MAXITROL",
+  "class": "Human",
+  "descriptor": "OINTMENT",
+  "last_update": "15-FEB-2017",
+  "active_ingredients": [
+    {
+      "name": "DEXAMETHASONE",
+      "strength": "0.1",
+      "unit": "%"
+    },
+    {
+      "name": "POLYMYXIN B SULFATE",
+      "strength": "6000",
+      "unit": "UNIT"
+    },
+    {
+      "name": "NEOMYCIN (NEOMYCIN SULFATE)",
+      "strength": "3.5",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "OINTMENT"
+  ],
+  "routes": [
+    "OPHTHALMIC"
+  ],
+  "companies": [
+    "NOVARTIS PHARMACEUTICALS CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "DEXAMETHASONE AND ANTIINFECTIVES",
+    "DEXAMETHASONE AND ANTIINFECTIVES"
+  ]
+}

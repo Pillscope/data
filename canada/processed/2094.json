@@ -1,0 +1,28 @@
+{
+  "drug_code": "2094",
+  "din": "00319511",
+  "brand_name": "NITROFURANTOIN",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "18-MAY-2011",
+  "active_ingredients": [
+    {
+      "name": "NITROFURANTOIN",
+      "strength": "50",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "AA PHARMA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "NITROFURANTOIN"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "drug_code": "6886",
+  "din": "00489883",
+  "brand_name": "PANACUR GRANULES 22.2%",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "21-AUG-2013",
+  "active_ingredients": [
+    {
+      "name": "FENBENDAZOLE",
+      "strength": "222",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "POWDER"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "INTERVET CANADA CORP"
+  ],
+  "status": "APPROVED",
+  "atc": []
+}

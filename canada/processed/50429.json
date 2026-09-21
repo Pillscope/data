@@ -1,0 +1,28 @@
+{
+  "drug_code": "50429",
+  "din": "02231122",
+  "brand_name": "DOM-METOPROLOL-L",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "03-MAR-2003",
+  "active_ingredients": [
+    {
+      "name": "METOPROLOL TARTRATE",
+      "strength": "100",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "DOMINION PHARMACAL"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "METOPROLOL"
+  ]
+}

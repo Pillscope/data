@@ -1,0 +1,33 @@
+{
+  "drug_code": "83307",
+  "din": "02347695",
+  "brand_name": "4% CITANEST FORTE DENTAL WITH EPINEPHRINE 1:200,000",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "18-JAN-2011",
+  "active_ingredients": [
+    {
+      "name": "PRILOCAINE HYDROCHLORIDE",
+      "strength": "40",
+      "unit": "MG"
+    },
+    {
+      "name": "EPINEPHRINE",
+      "strength": "5",
+      "unit": "MCG"
+    }
+  ],
+  "forms": [
+    "LIQUID"
+  ],
+  "routes": [
+    "BLOCK/INFILTRATION"
+  ],
+  "companies": [
+    "DENTSPLY CANADA LIMITED"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "PRILOCAINE, COMBINATIONS"
+  ]
+}

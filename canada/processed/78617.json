@@ -1,0 +1,28 @@
+{
+  "drug_code": "78617",
+  "din": "02300834",
+  "brand_name": "RIVA-ENALAPRIL",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "15-JAN-2010",
+  "active_ingredients": [
+    {
+      "name": "ENALAPRIL SODIUM",
+      "strength": "16",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "LABORATOIRE RIVA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "ENALAPRIL"
+  ]
+}

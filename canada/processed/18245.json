@@ -1,0 +1,26 @@
+{
+  "drug_code": "18245",
+  "din": "02141434",
+  "brand_name": "INTERCEPTOR FLAVOR TABS",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "16-MAR-2018",
+  "active_ingredients": [
+    {
+      "name": "MILBEMYCIN OXIME",
+      "strength": "2.3",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "ELANCO CANADA LIMITED"
+  ],
+  "status": "APPROVED",
+  "atc": []
+}

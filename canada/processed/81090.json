@@ -1,0 +1,30 @@
+{
+  "drug_code": "81090",
+  "din": "02325527",
+  "brand_name": "ALLERGENIC EXTRACT - STANDARDIZED MEADOW FESCUE GRASS POLLEN",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "28-SEP-2009",
+  "active_ingredients": [
+    {
+      "name": "STANDARDIZED MEADOW FESCUE GRASS POLLEN",
+      "strength": "100000",
+      "unit": "UNIT"
+    }
+  ],
+  "forms": [
+    "LIQUID"
+  ],
+  "routes": [
+    "INTRADERMAL",
+    "SUBCUTANEOUS",
+    "PERCUTANEOUS"
+  ],
+  "companies": [
+    "ALK-ABELLO INC"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "GRASS POLLEN"
+  ]
+}

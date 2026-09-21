@@ -1,0 +1,28 @@
+{
+  "drug_code": "85549",
+  "din": "02370352",
+  "brand_name": "HIZENTRA",
+  "class": "Human",
+  "descriptor": "SINGLE USE VIALS",
+  "last_update": "11-APR-2017",
+  "active_ingredients": [
+    {
+      "name": "IMMUNE GLOBULIN (HUMAN)",
+      "strength": "200",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "SUBCUTANEOUS"
+  ],
+  "companies": [
+    "CSL BEHRING CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "IMMUNOGLOBULINS, NORMAL HUMAN, FOR INTRAVASC. ADM."
+  ]
+}

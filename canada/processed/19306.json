@@ -1,0 +1,108 @@
+{
+  "drug_code": "19306",
+  "din": "02126745",
+  "brand_name": "AMINOSYN II",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "27-DEC-2017",
+  "active_ingredients": [
+    {
+      "name": "L-ALANINE",
+      "strength": "1490",
+      "unit": "MG"
+    },
+    {
+      "name": "METHIONINE",
+      "strength": "258",
+      "unit": "MG"
+    },
+    {
+      "name": "GLUTAMIC ACID",
+      "strength": "1107",
+      "unit": "MG"
+    },
+    {
+      "name": "TRYPTOPHAN",
+      "strength": "300",
+      "unit": "MG"
+    },
+    {
+      "name": "L-ARGININE",
+      "strength": "1527",
+      "unit": "MG"
+    },
+    {
+      "name": "L-PROLINE",
+      "strength": "1083",
+      "unit": "MG"
+    },
+    {
+      "name": "L-THREONINE",
+      "strength": "600",
+      "unit": "MG"
+    },
+    {
+      "name": "L-PHENYLALANINE",
+      "strength": "447",
+      "unit": "MG"
+    },
+    {
+      "name": "L-LEUCINE",
+      "strength": "1500",
+      "unit": "MG"
+    },
+    {
+      "name": "L-ISOLEUCINE",
+      "strength": "990",
+      "unit": "MG"
+    },
+    {
+      "name": "SERINE",
+      "strength": "795",
+      "unit": "MG"
+    },
+    {
+      "name": "L-ASPARTIC ACID",
+      "strength": "1050",
+      "unit": "MG"
+    },
+    {
+      "name": "L-LYSINE (LYSINE ACETATE)",
+      "strength": "1575",
+      "unit": "MG"
+    },
+    {
+      "name": "GLYCINE",
+      "strength": "750",
+      "unit": "MG"
+    },
+    {
+      "name": "HISTIDINE",
+      "strength": "450",
+      "unit": "MG"
+    },
+    {
+      "name": "N-ACETYL-L-TYROSINE",
+      "strength": "405",
+      "unit": "MG"
+    },
+    {
+      "name": "L-VALINE",
+      "strength": "750",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "ICU MEDICAL CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "AMINO ACIDS"
+  ]
+}

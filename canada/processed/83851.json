@@ -1,0 +1,28 @@
+{
+  "drug_code": "83851",
+  "din": "02353318",
+  "brand_name": "CIPROFLOXACIN",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "13-SEP-2010",
+  "active_ingredients": [
+    {
+      "name": "CIPROFLOXACIN (CIPROFLOXACIN HYDROCHLORIDE)",
+      "strength": "250",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "SANIS HEALTH INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "CIPROFLOXACIN"
+  ]
+}

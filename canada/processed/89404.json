@@ -1,0 +1,33 @@
+{
+  "drug_code": "89404",
+  "din": "02409321",
+  "brand_name": "LICE SHAMPOO",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "09-MAY-2014",
+  "active_ingredients": [
+    {
+      "name": "PIPERONYL BUTOXIDE",
+      "strength": "4",
+      "unit": "%"
+    },
+    {
+      "name": "PYRETHRINS",
+      "strength": "0.33",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "SHAMPOO"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "PERRIGO INTERNATIONAL"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "PYRETHRUM, COMBINATIONS"
+  ]
+}

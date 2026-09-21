@@ -1,0 +1,38 @@
+{
+  "drug_code": "43361",
+  "din": "02223406",
+  "brand_name": "INTRON A",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "29-APR-2015",
+  "active_ingredients": [
+    {
+      "name": "INTERFERON ALFA-2B",
+      "strength": "10000000",
+      "unit": "UNIT"
+    },
+    {
+      "name": "WATER",
+      "strength": "1",
+      "unit": "ML"
+    }
+  ],
+  "forms": [
+    "LIQUID",
+    "POWDER FOR SOLUTION"
+  ],
+  "routes": [
+    "INTRALESIONAL",
+    "INTRAMUSCULAR",
+    "INTRAVENOUS",
+    "SUBCUTANEOUS"
+  ],
+  "companies": [
+    "MERCK CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "INTERFERON ALFA-2B",
+    "INTERFERON ALFA-2B"
+  ]
+}

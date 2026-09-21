@@ -1,0 +1,28 @@
+{
+  "drug_code": "94611",
+  "din": "02458969",
+  "brand_name": "PANTOPRAZOLE FOR INJECTION",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "27-OCT-2017",
+  "active_ingredients": [
+    {
+      "name": "PANTOPRAZOLE (PANTOPRAZOLE SODIUM SESQUIHYDRATE)",
+      "strength": "40",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "POWDER FOR SOLUTION"
+  ],
+  "routes": [
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "AURO PHARMA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "PANTOPRAZOLE"
+  ]
+}

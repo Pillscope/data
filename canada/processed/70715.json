@@ -1,0 +1,28 @@
+{
+  "drug_code": "70715",
+  "din": "02246533",
+  "brand_name": "ANGIOMAX",
+  "class": "Human",
+  "descriptor": "SINGLE-USE VIAL",
+  "last_update": "03-OCT-2016",
+  "active_ingredients": [
+    {
+      "name": "BIVALIRUDIN",
+      "strength": "250",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "POWDER FOR SOLUTION"
+  ],
+  "routes": [
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "SANDOZ CANADA INCORPORATED"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "BIVALIRUDIN"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "drug_code": "87099",
+  "din": "02385368",
+  "brand_name": "METFORMIN FC",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "07-NOV-2012",
+  "active_ingredients": [
+    {
+      "name": "METFORMIN HYDROCHLORIDE",
+      "strength": "850",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "SIVEM PHARMACEUTICALS ULC"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "METFORMIN"
+  ]
+}

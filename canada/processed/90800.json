@@ -1,0 +1,28 @@
+{
+  "drug_code": "90800",
+  "din": "02423294",
+  "brand_name": "MINT-GLICLAZIDE MR",
+  "class": "Human",
+  "descriptor": "BREAKABLE",
+  "last_update": "16-NOV-2016",
+  "active_ingredients": [
+    {
+      "name": "GLICLAZIDE",
+      "strength": "60",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET (EXTENDED-RELEASE)"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "MINT PHARMACEUTICALS INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "GLICLAZIDE"
+  ]
+}

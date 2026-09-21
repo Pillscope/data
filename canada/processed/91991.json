@@ -1,0 +1,33 @@
+{
+  "drug_code": "91991",
+  "din": "02435578",
+  "brand_name": "REFRESH OPTIVE FUSION",
+  "class": "Human",
+  "descriptor": "DROPS",
+  "last_update": "21-MAY-2015",
+  "active_ingredients": [
+    {
+      "name": "GLYCERINE",
+      "strength": "0.9",
+      "unit": "%"
+    },
+    {
+      "name": "SODIUM CARBOXYMETHYL CELLULOSE",
+      "strength": "0.5",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "OPHTHALMIC"
+  ],
+  "companies": [
+    "ALLERGAN INC"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "ARTIFICIAL TEARS AND OTHER INDIFFERENT PREPARATIONS."
+  ]
+}

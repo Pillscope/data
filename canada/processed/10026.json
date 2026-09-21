@@ -1,0 +1,28 @@
+{
+  "drug_code": "10026",
+  "din": "00808652",
+  "brand_name": "HALOPERIDOL INJ 5MG/ML USP",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "05-MAY-2015",
+  "active_ingredients": [
+    {
+      "name": "HALOPERIDOL",
+      "strength": "5",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "LIQUID"
+  ],
+  "routes": [
+    "INTRAMUSCULAR"
+  ],
+  "companies": [
+    "SANDOZ CANADA INCORPORATED"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "HALOPERIDOL"
+  ]
+}

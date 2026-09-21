@@ -1,0 +1,28 @@
+{
+  "drug_code": "95480",
+  "din": "02466449",
+  "brand_name": "BETAHISTINE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "17-APR-2018",
+  "active_ingredients": [
+    {
+      "name": "BETAHISTINE HYDROCHLORIDE",
+      "strength": "16",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "SANIS HEALTH INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "BETAHISTINE"
+  ]
+}

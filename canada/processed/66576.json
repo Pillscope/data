@@ -1,0 +1,28 @@
+{
+  "drug_code": "66576",
+  "din": "02242763",
+  "brand_name": "RILUTEK",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "16-OCT-2008",
+  "active_ingredients": [
+    {
+      "name": "RILUZOLE",
+      "strength": "50",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "SANOFI-AVENTIS CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "RILUZOLE"
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "drug_code": "93909",
+  "din": "02452685",
+  "brand_name": "PREVAGE ANTI-AGING FOUNDATION",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "19-MAY-2017",
+  "active_ingredients": [
+    {
+      "name": "TITANIUM DIOXIDE",
+      "strength": "6",
+      "unit": "%"
+    },
+    {
+      "name": "OCTINOXATE",
+      "strength": "6",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "LOTION"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "ELIZABETH ARDEN (CANADA) LIMITED"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "COMBINATIONS OF PROTECTIVES AGAINST UV-RADIATION"
+  ]
+}

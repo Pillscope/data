@@ -1,0 +1,28 @@
+{
+  "drug_code": "85321",
+  "din": "02368242",
+  "brand_name": "TEVA-TAMSULOSIN CR",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "12-APR-2016",
+  "active_ingredients": [
+    {
+      "name": "TAMSULOSIN HYDROCHLORIDE",
+      "strength": "0.4",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET (EXTENDED-RELEASE)"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "TEVA CANADA LIMITED"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "TAMSULOSIN"
+  ]
+}

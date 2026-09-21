@@ -1,0 +1,28 @@
+{
+  "drug_code": "3837",
+  "din": "00038083",
+  "brand_name": "SODIUM BICARBONATE INJECTION USP",
+  "class": "Human",
+  "descriptor": "SINGLE-USE SYRINGE",
+  "last_update": "24-JUL-2017",
+  "active_ingredients": [
+    {
+      "name": "SODIUM BICARBONATE",
+      "strength": "75",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "PFIZER CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "SODIUM BICARBONATE"
+  ]
+}

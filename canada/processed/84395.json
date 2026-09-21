@@ -1,0 +1,28 @@
+{
+  "drug_code": "84395",
+  "din": "02358913",
+  "brand_name": "SANDOZ OLOPATADINE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "31-JUL-2013",
+  "active_ingredients": [
+    {
+      "name": "OLOPATADINE (OLOPATADINE HYDROCHLORIDE)",
+      "strength": "0.1",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "OPHTHALMIC"
+  ],
+  "companies": [
+    "SANDOZ CANADA INCORPORATED"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "OLOPATADINE"
+  ]
+}

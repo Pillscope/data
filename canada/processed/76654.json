@@ -1,0 +1,28 @@
+{
+  "drug_code": "76654",
+  "din": "02280884",
+  "brand_name": "HEMA BP-38",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "28-JUL-2006",
+  "active_ingredients": [
+    {
+      "name": "SODIUM BICARBONATE",
+      "strength": "6",
+      "unit": "Kg"
+    }
+  ],
+  "forms": [
+    "POWDER"
+  ],
+  "routes": [
+    "DIALYSIS"
+  ],
+  "companies": [
+    "CHIEF MEDICAL SUPPLIES LTD"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "HEMODIALYTICS, CONCENTRATES"
+  ]
+}

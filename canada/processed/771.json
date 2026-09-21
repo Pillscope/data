@@ -1,0 +1,28 @@
+{
+  "drug_code": "771",
+  "din": "00022799",
+  "brand_name": "ZARONTIN CAP 250MG",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "30-MAR-2011",
+  "active_ingredients": [
+    {
+      "name": "ETHOSUXIMIDE",
+      "strength": "250",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "CAPSULE"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "ERFA CANADA 2012 INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "ETHOSUXIMIDE"
+  ]
+}

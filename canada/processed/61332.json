@@ -1,0 +1,29 @@
+{
+  "drug_code": "61332",
+  "din": "02237971",
+  "brand_name": "SAIZEN",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "09-FEB-2012",
+  "active_ingredients": [
+    {
+      "name": "SOMATROPIN",
+      "strength": "5",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "POWDER FOR SOLUTION"
+  ],
+  "routes": [
+    "INTRAMUSCULAR",
+    "SUBCUTANEOUS"
+  ],
+  "companies": [
+    "EMD SERONO A DIVISION OF EMD INC CANADA"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "SOMATROPIN"
+  ]
+}

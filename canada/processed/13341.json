@@ -1,0 +1,28 @@
+{
+  "drug_code": "13341",
+  "din": "01924451",
+  "brand_name": "DESI RINCE LIQ 10%",
+  "class": "Disinfectant",
+  "descriptor": "",
+  "last_update": "08-AUG-2005",
+  "active_ingredients": [
+    {
+      "name": "BENZALKONIUM CHLORIDE",
+      "strength": "10",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "DISINFECTANT (Food Premises)"
+  ],
+  "companies": [
+    "CONSTANT AMERICA INC"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "TECHNICAL DISINFECTANTS"
+  ]
+}

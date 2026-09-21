@@ -1,0 +1,29 @@
+{
+  "drug_code": "91048",
+  "din": "02425858",
+  "brand_name": "STERILE WATER FOR INJECTION, USP",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "06-NOV-2014",
+  "active_ingredients": [
+    {
+      "name": "STERILE WATER",
+      "strength": "100",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "LIQUID"
+  ],
+  "routes": [
+    "INTRAMUSCULAR",
+    "INTRAPERITONEAL",
+    "INTRAVENOUS",
+    "SUBCUTANEOUS"
+  ],
+  "companies": [
+    "DMVET INC"
+  ],
+  "status": "MARKETED",
+  "atc": []
+}

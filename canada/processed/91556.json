@@ -1,0 +1,28 @@
+{
+  "drug_code": "91556",
+  "din": "02431122",
+  "brand_name": "PMS-IMATINIB",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "04-JUN-2015",
+  "active_ingredients": [
+    {
+      "name": "IMATINIB (IMATINIB MESYLATE)",
+      "strength": "400",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "PHARMASCIENCE INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "IMATINIB"
+  ]
+}

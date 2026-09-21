@@ -1,0 +1,28 @@
+{
+  "drug_code": "65857",
+  "din": "02242178",
+  "brand_name": "ACT FLUOXETINE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "13-MAY-2015",
+  "active_ingredients": [
+    {
+      "name": "FLUOXETINE (FLUOXETINE HYDROCHLORIDE)",
+      "strength": "20",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "CAPSULE"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "DR REDDYS LABORATORIES INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "FLUOXETINE"
+  ]
+}

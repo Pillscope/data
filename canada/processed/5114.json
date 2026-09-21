@@ -1,0 +1,26 @@
+{
+  "drug_code": "5114",
+  "din": "00544051",
+  "brand_name": "PENPRO",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "04-JAN-2018",
+  "active_ingredients": [
+    {
+      "name": "PENICILLIN G PROCAINE",
+      "strength": "300000",
+      "unit": "UNIT"
+    }
+  ],
+  "forms": [
+    "SUSPENSION"
+  ],
+  "routes": [
+    "INTRAMUSCULAR"
+  ],
+  "companies": [
+    "VETOQUINOL N A INC"
+  ],
+  "status": "APPROVED",
+  "atc": []
+}

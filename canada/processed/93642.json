@@ -1,0 +1,28 @@
+{
+  "drug_code": "93642",
+  "din": "02450283",
+  "brand_name": "BLINCYTO",
+  "class": "Human",
+  "descriptor": "LYOPHILIZED POWDER. FOR I.V. INFUSION.",
+  "last_update": "26-SEP-2016",
+  "active_ingredients": [
+    {
+      "name": "BLINATUMOMAB",
+      "strength": "38.5",
+      "unit": "MCG"
+    }
+  ],
+  "forms": [
+    "POWDER FOR SOLUTION"
+  ],
+  "routes": [
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "AMGEN CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "BLINATUMOMAB"
+  ]
+}

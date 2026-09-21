@@ -1,0 +1,28 @@
+{
+  "drug_code": "78510",
+  "din": "02299739",
+  "brand_name": "CLOBEX SPRAY",
+  "class": "Human",
+  "descriptor": "SOLUTION",
+  "last_update": "29-DEC-2017",
+  "active_ingredients": [
+    {
+      "name": "CLOBETASOL PROPIONATE",
+      "strength": "0.05",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "SPRAY"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "GALDERMA CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "CLOBETASOL"
+  ]
+}

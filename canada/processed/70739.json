@@ -1,0 +1,26 @@
+{
+  "drug_code": "70739",
+  "din": "02246556",
+  "brand_name": "RIMADYL",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "28-AUG-2015",
+  "active_ingredients": [
+    {
+      "name": "CARPROFEN",
+      "strength": "25",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET (CHEWABLE)"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "ZOETIS CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": []
+}

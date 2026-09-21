@@ -1,0 +1,34 @@
+{
+  "drug_code": "87688",
+  "din": "02391554",
+  "brand_name": "PRIVA-TRAMADOL/ACET",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "18-JAN-2018",
+  "active_ingredients": [
+    {
+      "name": "ACETAMINOPHEN",
+      "strength": "325",
+      "unit": "MG"
+    },
+    {
+      "name": "TRAMADOL HYDROCHLORIDE",
+      "strength": "37.5",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "PHARMAPAR INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "TRAMADOL AND PARACETAMOL",
+    "TRAMADOL AND PARACETAMOL"
+  ]
+}

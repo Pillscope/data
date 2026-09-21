@@ -1,0 +1,28 @@
+{
+  "drug_code": "19722",
+  "din": "02179687",
+  "brand_name": "TEVA-TIAPROFENIC ACID",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "29-APR-2015",
+  "active_ingredients": [
+    {
+      "name": "TIAPROFENIC ACID",
+      "strength": "300",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "TEVA CANADA LIMITED"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "TIAPROFENIC ACID"
+  ]
+}

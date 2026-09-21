@@ -1,0 +1,34 @@
+{
+  "drug_code": "81390",
+  "din": "02328380",
+  "brand_name": "COUGH & COLD",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "10-MAR-2010",
+  "active_ingredients": [
+    {
+      "name": "CHLORPHENIRAMINE MALEATE",
+      "strength": "1",
+      "unit": "MG"
+    },
+    {
+      "name": "DEXTROMETHORPHAN HYDROBROMIDE",
+      "strength": "7.5",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "LIQUID"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "ACCUDIAL PHARMACEUTICAL INC"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "COMBINATIONS",
+    "COMBINATIONS"
+  ]
+}

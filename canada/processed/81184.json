@@ -1,0 +1,28 @@
+{
+  "drug_code": "81184",
+  "din": "02326477",
+  "brand_name": "MINT-PIOGLITAZONE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "02-DEC-2013",
+  "active_ingredients": [
+    {
+      "name": "PIOGLITAZONE (PIOGLITAZONE HYDROCHLORIDE)",
+      "strength": "15",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "MINT PHARMACEUTICALS INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "PIOGLITAZONE"
+  ]
+}

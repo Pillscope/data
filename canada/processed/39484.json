@@ -1,0 +1,28 @@
+{
+  "drug_code": "39484",
+  "din": "00525103",
+  "brand_name": "S2",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "29-AUG-2017",
+  "active_ingredients": [
+    {
+      "name": "EPINEPHRINE RACEMIC",
+      "strength": "2.25",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "INHALATION"
+  ],
+  "companies": [
+    "NEPHRON PHARMACEUTICALS CORPORATION"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "EPINEPHRINE"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "drug_code": "43505",
+  "din": "02229021",
+  "brand_name": "ISOVUE 300 INJECTION",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "07-JUL-2008",
+  "active_ingredients": [
+    {
+      "name": "IOPAMIDOL",
+      "strength": "61",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "LIQUID"
+  ],
+  "routes": [
+    "INTRAVASCULAR"
+  ],
+  "companies": [
+    "BRACCO IMAGING CANADA"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "IOPAMIDOL"
+  ]
+}

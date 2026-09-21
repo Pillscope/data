@@ -1,0 +1,28 @@
+{
+  "drug_code": "94091",
+  "din": "02454343",
+  "brand_name": "PRAXBIND",
+  "class": "Human",
+  "descriptor": "5 G PER DOSE (2 X 2.5 G /50 ML)",
+  "last_update": "22-NOV-2016",
+  "active_ingredients": [
+    {
+      "name": "IDARUCIZUMAB",
+      "strength": "50",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "BOEHRINGER INGELHEIM (CANADA) LTD LTEE"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "IDARUCIZIMAB"
+  ]
+}

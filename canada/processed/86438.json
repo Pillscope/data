@@ -1,0 +1,28 @@
+{
+  "drug_code": "86438",
+  "din": "02378590",
+  "brand_name": "CAPRELSA",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "20-JAN-2017",
+  "active_ingredients": [
+    {
+      "name": "VANDETANIB",
+      "strength": "300",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "SANOFI GENZYME, A DIVISION OF SANOFI-AVENTIS CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "VANDETANIB"
+  ]
+}

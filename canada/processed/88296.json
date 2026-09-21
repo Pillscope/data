@@ -1,0 +1,26 @@
+{
+  "drug_code": "88296",
+  "din": "02398001",
+  "brand_name": "SIMPLICEF",
+  "class": "Veterinary",
+  "descriptor": "BROAD-SPECTRUM ANTIMICROBIAL",
+  "last_update": "01-SEP-2016",
+  "active_ingredients": [
+    {
+      "name": "CEFPODOXIME (CEFPODOXIME PROXETIL)",
+      "strength": "200",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "ZOETIS CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": []
+}

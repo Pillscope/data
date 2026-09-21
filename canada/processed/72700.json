@@ -1,0 +1,28 @@
+{
+  "drug_code": "72700",
+  "din": "02248354",
+  "brand_name": "ANDIS COOL CARE PLUS FOR CLIPPER BLADES",
+  "class": "Disinfectant",
+  "descriptor": "",
+  "last_update": "03-FEB-2006",
+  "active_ingredients": [
+    {
+      "name": "O-PHENYLPHENOL",
+      "strength": "0.10",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "AEROSOL"
+  ],
+  "routes": [
+    "DISINFECTANT (Institutional/Industrial)"
+  ],
+  "companies": [
+    "ANDIS COMPANY"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "TECHNICAL DISINFECTANTS"
+  ]
+}

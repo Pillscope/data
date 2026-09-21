@@ -1,0 +1,28 @@
+{
+  "drug_code": "66668",
+  "din": "02242838",
+  "brand_name": "APO-LITHIUM CARBONATE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "29-JAN-2008",
+  "active_ingredients": [
+    {
+      "name": "LITHIUM CARBONATE",
+      "strength": "300",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "CAPSULE"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "APOTEX INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "LITHIUM"
+  ]
+}

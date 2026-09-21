@@ -1,0 +1,28 @@
+{
+  "drug_code": "95559",
+  "din": "02467208",
+  "brand_name": "DOVE DERMA+CARE SCALP ANTI-DANDRUFF SMOOTHING MOISTURE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "26-MAR-2018",
+  "active_ingredients": [
+    {
+      "name": "PYRITHIONE ZINC",
+      "strength": "1",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "SHAMPOO"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "UNILEVER CANADA"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "PYRITHIONE ZINC"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "drug_code": "76778",
+  "din": "02282119",
+  "brand_name": "APO-RISPERIDONE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "27-OCT-2006",
+  "active_ingredients": [
+    {
+      "name": "RISPERIDONE",
+      "strength": "0.25",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "APOTEX INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "RISPERIDONE"
+  ]
+}

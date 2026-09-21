@@ -1,0 +1,28 @@
+{
+  "drug_code": "68715",
+  "din": "02244726",
+  "brand_name": "APO-MEDROXY TABLETS",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "03-MAR-2006",
+  "active_ingredients": [
+    {
+      "name": "MEDROXYPROGESTERONE ACETATE",
+      "strength": "2.5",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "APOTEX INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "MEDROXYPROGESTERONE"
+  ]
+}

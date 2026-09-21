@@ -1,0 +1,41 @@
+{
+  "drug_code": "85958",
+  "din": "02374374",
+  "brand_name": "DR. REGISTER CALCIUM TUBE",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "09-MAR-2012",
+  "active_ingredients": [
+    {
+      "name": "CALCIUM PHOSPHATE (TRIBASIC)",
+      "strength": "52",
+      "unit": "G"
+    },
+    {
+      "name": "POTASSIUM CHLORIDE",
+      "strength": "2.7",
+      "unit": "G"
+    },
+    {
+      "name": "MAGNESIUM CHLORIDE",
+      "strength": "25",
+      "unit": "G"
+    },
+    {
+      "name": "CALCIUM CHLORIDE",
+      "strength": "107.8",
+      "unit": "G"
+    }
+  ],
+  "forms": [
+    "PASTE"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "DR REGISTER & ASSOCIATES INC"
+  ],
+  "status": "MARKETED",
+  "atc": []
+}

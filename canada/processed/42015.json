@@ -1,0 +1,28 @@
+{
+  "drug_code": "42015",
+  "din": "01942425",
+  "brand_name": "VISINE ORIGINAL",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "23-JUL-2015",
+  "active_ingredients": [
+    {
+      "name": "TETRAHYDROZOLINE HYDROCHLORIDE",
+      "strength": "0.05",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "DROPS"
+  ],
+  "routes": [
+    "OPHTHALMIC"
+  ],
+  "companies": [
+    "JOHNSON & JOHNSON INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "TETRYZOLINE"
+  ]
+}

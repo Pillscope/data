@@ -1,0 +1,28 @@
+{
+  "drug_code": "77371",
+  "din": "02288265",
+  "brand_name": "PMS-LEFLUNOMIDE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "08-JUL-2009",
+  "active_ingredients": [
+    {
+      "name": "LEFLUNOMIDE",
+      "strength": "10",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "PHARMASCIENCE INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "LEFLUNOMIDE"
+  ]
+}

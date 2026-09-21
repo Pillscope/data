@@ -1,0 +1,28 @@
+{
+  "drug_code": "2375",
+  "din": "00000868",
+  "brand_name": "ISOPTO CARPINE",
+  "class": "Human",
+  "descriptor": "2%",
+  "last_update": "21-FEB-2017",
+  "active_ingredients": [
+    {
+      "name": "PILOCARPINE HYDROCHLORIDE",
+      "strength": "20",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "LIQUID"
+  ],
+  "routes": [
+    "OPHTHALMIC"
+  ],
+  "companies": [
+    "NOVARTIS PHARMACEUTICALS CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "PILOCARPINE"
+  ]
+}

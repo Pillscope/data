@@ -1,0 +1,28 @@
+{
+  "drug_code": "43280",
+  "din": "02220180",
+  "brand_name": "APO-LOVASTATIN - TAB 40MG",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "03-MAR-2006",
+  "active_ingredients": [
+    {
+      "name": "LOVASTATIN",
+      "strength": "40",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "APOTEX INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "LOVASTATIN"
+  ]
+}

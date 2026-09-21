@@ -1,0 +1,38 @@
+{
+  "drug_code": "90524",
+  "din": "02420686",
+  "brand_name": "FLUVIRAL",
+  "class": "Human",
+  "descriptor": "TRIVALENT, SPLIT-VIRION, INACTIVATED INFLUENZA VACCINE",
+  "last_update": "09-AUG-2016",
+  "active_ingredients": [
+    {
+      "name": "HAEMAGGLUTININ-STRAIN A(H3N2)",
+      "strength": "15",
+      "unit": "MCG"
+    },
+    {
+      "name": "HAEMAGGLUTININ-STRAIN A(H1N1)",
+      "strength": "15",
+      "unit": "MCG"
+    },
+    {
+      "name": "HAEMAGGLUTININ-STRAIN B",
+      "strength": "15",
+      "unit": "MCG"
+    }
+  ],
+  "forms": [
+    "SUSPENSION"
+  ],
+  "routes": [
+    "INTRAMUSCULAR"
+  ],
+  "companies": [
+    "ID BIOMEDICAL CORPORATION OF QUEBEC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "INFLUENZA, INACTIVATED, SPLIT VIRUS OR SURFACE ANTIGEN"
+  ]
+}

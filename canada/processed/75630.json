@@ -1,0 +1,35 @@
+{
+  "drug_code": "75630",
+  "din": "02270919",
+  "brand_name": "ALLERGENIC EXTRACT, STANDARDIZED MITE MIXED",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "07-MAY-2014",
+  "active_ingredients": [
+    {
+      "name": "DERMATOPHAGOIDES FARINAE",
+      "strength": "5000",
+      "unit": "UNIT"
+    },
+    {
+      "name": "DERMATOPHAGOIDES PTERONYSSINUS",
+      "strength": "5000",
+      "unit": "UNIT"
+    }
+  ],
+  "forms": [
+    "LIQUID"
+  ],
+  "routes": [
+    "INTRADERMAL",
+    "SUBCUTANEOUS",
+    "PERCUTANEOUS"
+  ],
+  "companies": [
+    "ALK-ABELLO INC"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "HOUSE DUST MITES"
+  ]
+}

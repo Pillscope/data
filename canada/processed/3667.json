@@ -1,0 +1,31 @@
+{
+  "drug_code": "3667",
+  "din": "00497053",
+  "brand_name": "PODODERM",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "09-OCT-2002",
+  "active_ingredients": [
+    {
+      "name": "CHLORO-M-CRESOL",
+      "strength": ".41",
+      "unit": "%"
+    },
+    {
+      "name": "DICHLOROPHENE",
+      "strength": "8.3",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "LIQUID"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "DOMINION VETERINARY LABORATORIES LTD."
+  ],
+  "status": "MARKETED",
+  "atc": []
+}

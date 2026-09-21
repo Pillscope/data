@@ -1,0 +1,29 @@
+{
+  "drug_code": "95136",
+  "din": "02463393",
+  "brand_name": "CYANOCOBALAMIN INJECTION USP",
+  "class": "Human",
+  "descriptor": "SINGLE USE",
+  "last_update": "05-FEB-2018",
+  "active_ingredients": [
+    {
+      "name": "VITAMIN B12",
+      "strength": "1000",
+      "unit": "MCG"
+    }
+  ],
+  "forms": [
+    "LIQUID"
+  ],
+  "routes": [
+    "INTRAMUSCULAR",
+    "SUBCUTANEOUS"
+  ],
+  "companies": [
+    "TELIGENT OU"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "CYANOCOBALAMIN"
+  ]
+}

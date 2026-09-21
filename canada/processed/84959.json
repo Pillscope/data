@@ -1,0 +1,53 @@
+{
+  "drug_code": "84959",
+  "din": "02364700",
+  "brand_name": "ANTHELIOS ULTRA-FLUID LOTION",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "31-JUL-2012",
+  "active_ingredients": [
+    {
+      "name": "AVOBENZONE",
+      "strength": "3.00",
+      "unit": "%"
+    },
+    {
+      "name": "OCTOCRYLENE",
+      "strength": "5.00",
+      "unit": "%"
+    },
+    {
+      "name": "TEREPHTHALYLIDENE DICAMPHOR SULFONIC ACID",
+      "strength": "2.00",
+      "unit": "%"
+    },
+    {
+      "name": "OXYBENZONE",
+      "strength": "6.00",
+      "unit": "%"
+    },
+    {
+      "name": "OCTISALATE",
+      "strength": "5.00",
+      "unit": "%"
+    },
+    {
+      "name": "HOMOSALATE",
+      "strength": "10.00",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "LOTION"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "LABORATOIRES LA ROCHE-POSAY CANADA"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "COMBINATIONS OF PROTECTIVES AGAINST UV-RADIATION"
+  ]
+}

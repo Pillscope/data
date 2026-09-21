@@ -1,0 +1,31 @@
+{
+  "drug_code": "80014",
+  "din": "02314614",
+  "brand_name": "IODAPHOR PREP",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "27-JUL-2016",
+  "active_ingredients": [
+    {
+      "name": "PHOSPHORIC ACID",
+      "strength": "5.0",
+      "unit": "%"
+    },
+    {
+      "name": "NONYL PHENOXY POLYOXYETHYLENE ETHANOL-IODINE COMPLEX",
+      "strength": "9.0",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "AGRISAN SPECIALTY CHEMICAL & PHARMACEUTICAL"
+  ],
+  "status": "MARKETED",
+  "atc": []
+}

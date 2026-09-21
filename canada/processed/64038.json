@@ -1,0 +1,33 @@
+{
+  "drug_code": "64038",
+  "din": "02240473",
+  "brand_name": "BISMUTH + ANTACID (CHEWABLE TABLETS)",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "10-JUL-2012",
+  "active_ingredients": [
+    {
+      "name": "BISMUTH SUBSALICYLATE",
+      "strength": "262",
+      "unit": "MG"
+    },
+    {
+      "name": "CALCIUM CARBONATE",
+      "strength": "675",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "PERRIGO INTERNATIONAL"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "ANTACIDS, OTHER COMBINATIONS"
+  ]
+}

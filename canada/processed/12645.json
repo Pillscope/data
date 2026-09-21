@@ -1,0 +1,28 @@
+{
+  "drug_code": "12645",
+  "din": "00884154",
+  "brand_name": "LIDOCAINE HYDROCHLORIDE INJECTION USP 1%",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "04-JUL-2016",
+  "active_ingredients": [
+    {
+      "name": "LIDOCAINE HYDROCHLORIDE",
+      "strength": "10",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "BLOCK/INFILTRATION"
+  ],
+  "companies": [
+    "HOSPIRA HEALTHCARE CORPORATION"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "LIDOCAINE"
+  ]
+}

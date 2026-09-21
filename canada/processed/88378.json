@@ -1,0 +1,33 @@
+{
+  "drug_code": "88378",
+  "din": "02398869",
+  "brand_name": "INDAYO",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "06-OCT-2016",
+  "active_ingredients": [
+    {
+      "name": "LEVONORGESTREL",
+      "strength": "0.15",
+      "unit": "MG"
+    },
+    {
+      "name": "ETHINYL ESTRADIOL",
+      "strength": "0.03",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "MYLAN PHARMACEUTICALS ULC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "LEVONORGESTREL AND ESTROGEN"
+  ]
+}

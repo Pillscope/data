@@ -1,0 +1,43 @@
+{
+  "drug_code": "94437",
+  "din": "02457318",
+  "brand_name": "SANDOZ AMPHETAMINE XR",
+  "class": "Human",
+  "descriptor": "15MG MIXED SALTS AMPHETAMINE",
+  "last_update": "13-JAN-2017",
+  "active_ingredients": [
+    {
+      "name": "DEXTROAMPHETAMINE SACCHARATE",
+      "strength": "3.75",
+      "unit": "MG"
+    },
+    {
+      "name": "DEXTROAMPHETAMINE SULFATE",
+      "strength": "3.75",
+      "unit": "MG"
+    },
+    {
+      "name": "AMPHETAMINE ASPARTATE MONOHYDRATE",
+      "strength": "3.75",
+      "unit": "MG"
+    },
+    {
+      "name": "AMPHETAMINE SULFATE",
+      "strength": "3.75",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "CAPSULE (EXTENDED RELEASE)"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "SANDOZ CANADA INCORPORATED"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "AMFETAMINE"
+  ]
+}

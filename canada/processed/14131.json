@@ -1,0 +1,28 @@
+{
+  "drug_code": "14131",
+  "din": "02022222",
+  "brand_name": "AC\u00c3\u0089TAMINOPH\u00c3\u0088NE COMPRIM\u00c3\u0089 TABLET 500",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "29-APR-2015",
+  "active_ingredients": [
+    {
+      "name": "ACETAMINOPHEN",
+      "strength": "500",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "LABORATOIRE RIVA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "ACETAMINOPHEN (PARACETAMOL)"
+  ]
+}

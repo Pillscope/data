@@ -1,0 +1,28 @@
+{
+  "drug_code": "91752",
+  "din": "02433117",
+  "brand_name": "ACT GEMCITABINE",
+  "class": "Human",
+  "descriptor": "200MG/5.26ML, 1G/26.3ML, & 2G/52.6ML VIALS",
+  "last_update": "18-MAY-2016",
+  "active_ingredients": [
+    {
+      "name": "GEMCITABINE (GEMCITABINE HYDROCHLORIDE)",
+      "strength": "38",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "ACTAVIS PHARMA COMPANY"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "GEMCITABINE"
+  ]
+}

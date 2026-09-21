@@ -1,0 +1,28 @@
+{
+  "drug_code": "72926",
+  "din": "02248571",
+  "brand_name": "ACT RANITIDINE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "22-SEP-2017",
+  "active_ingredients": [
+    {
+      "name": "RANITIDINE (RANITIDINE HYDROCHLORIDE)",
+      "strength": "300",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "TEVA CANADA LIMITED"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "RANITIDINE"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "drug_code": "68945",
+  "din": "02244947",
+  "brand_name": "KETOROLAC TROMETHAMINE INJECTION, USP",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "15-SEP-2015",
+  "active_ingredients": [
+    {
+      "name": "KETOROLAC TROMETHAMINE",
+      "strength": "30",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "LIQUID"
+  ],
+  "routes": [
+    "INTRAMUSCULAR"
+  ],
+  "companies": [
+    "FRESENIUS KABI CANADA LTD"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "KETOROLAC"
+  ]
+}

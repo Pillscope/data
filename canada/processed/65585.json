@@ -1,0 +1,34 @@
+{
+  "drug_code": "65585",
+  "din": "02241915",
+  "brand_name": "MARCAINE E",
+  "class": "Human",
+  "descriptor": "SINGLE-USE VIAL",
+  "last_update": "08-SEP-2017",
+  "active_ingredients": [
+    {
+      "name": "BUPIVACAINE HYDROCHLORIDE",
+      "strength": "50",
+      "unit": "MG"
+    },
+    {
+      "name": "EPINEPHRINE BITARTRATE",
+      "strength": "0.182",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "BLOCK/INFILTRATION",
+    "EPIDURAL"
+  ],
+  "companies": [
+    "PFIZER CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "BUPIVACAINE, COMBINATIONS"
+  ]
+}

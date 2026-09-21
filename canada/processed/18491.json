@@ -1,0 +1,28 @@
+{
+  "drug_code": "18491",
+  "din": "02143291",
+  "brand_name": "OCUFLOX",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "07-MAY-2015",
+  "active_ingredients": [
+    {
+      "name": "OFLOXACIN",
+      "strength": "0.3",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "OPHTHALMIC"
+  ],
+  "companies": [
+    "ALLERGAN INC"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "OFLOXACIN"
+  ]
+}

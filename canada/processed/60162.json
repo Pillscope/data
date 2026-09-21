@@ -1,0 +1,39 @@
+{
+  "drug_code": "60162",
+  "din": "02236872",
+  "brand_name": "METHOXACET-C 1/8",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "23-NOV-2017",
+  "active_ingredients": [
+    {
+      "name": "CODEINE PHOSPHATE",
+      "strength": "8",
+      "unit": "MG"
+    },
+    {
+      "name": "METHOCARBAMOL",
+      "strength": "400",
+      "unit": "MG"
+    },
+    {
+      "name": "ACETAMINOPHEN",
+      "strength": "325",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "TEVA CANADA LIMITED"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "CODEINE, COMBINATIONS EXCL. PSYCHOLEPTICS",
+    "CODEINE, COMBINATIONS EXCL. PSYCHOLEPTICS"
+  ]
+}

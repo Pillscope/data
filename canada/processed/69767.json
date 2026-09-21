@@ -1,0 +1,28 @@
+{
+  "drug_code": "69767",
+  "din": "02245667",
+  "brand_name": "EURO-CYPROHEPTADINE 4MG/TABLET",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "15-AUG-2016",
+  "active_ingredients": [
+    {
+      "name": "CYPROHEPTADINE HYDROCHLORIDE",
+      "strength": "4",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "SANDOZ CANADA INCORPORATED"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "CYPROHEPTADINE"
+  ]
+}

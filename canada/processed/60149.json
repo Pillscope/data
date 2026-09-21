@@ -1,0 +1,28 @@
+{
+  "drug_code": "60149",
+  "din": "02236859",
+  "brand_name": "AGRYLIN",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "18-MAR-2016",
+  "active_ingredients": [
+    {
+      "name": "ANAGRELIDE (ANAGRELIDE HYDROCHLORIDE)",
+      "strength": "0.5",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "CAPSULE"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "SHIRE PHARMA CANADA ULC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "ANAGRELIDE"
+  ]
+}

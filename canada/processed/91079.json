@@ -1,0 +1,28 @@
+{
+  "drug_code": "91079",
+  "din": "02426196",
+  "brand_name": "MINT-HYDROCHLOROTHIAZIDE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "14-JAN-2016",
+  "active_ingredients": [
+    {
+      "name": "HYDROCHLOROTHIAZIDE",
+      "strength": "25",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "MINT PHARMACEUTICALS INC"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "HYDROCHLOROTHIAZIDE"
+  ]
+}

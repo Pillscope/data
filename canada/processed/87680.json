@@ -1,0 +1,28 @@
+{
+  "drug_code": "87680",
+  "din": "02391457",
+  "brand_name": "CIPRALEX MELTZ",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "23-MAY-2013",
+  "active_ingredients": [
+    {
+      "name": "ESCITALOPRAM",
+      "strength": "20",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET (ORALLY DISINTEGRATING)"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "LUNDBECK CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "ESCITALOPRAM"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "drug_code": "615",
+  "din": "00268313",
+  "brand_name": "SODIUM EDECRIN",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "10-MAR-2017",
+  "active_ingredients": [
+    {
+      "name": "ETHACRYNIC ACID (ETHACRYNATE SODIUM)",
+      "strength": "50",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "POWDER FOR SOLUTION"
+  ],
+  "routes": [
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "VALEANT CANADA LP/VALEANT CANADA S.E.C."
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "ETACRYNIC ACID"
+  ]
+}

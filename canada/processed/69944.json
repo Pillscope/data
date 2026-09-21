@@ -1,0 +1,28 @@
+{
+  "drug_code": "69944",
+  "din": "02245828",
+  "brand_name": "CLASTEON",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "16-NOV-2011",
+  "active_ingredients": [
+    {
+      "name": "CLODRONATE DISODIUM",
+      "strength": "400",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "CAPSULE"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "SUNOVION PHARMACEUTICALS CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "CLODRONIC ACID"
+  ]
+}

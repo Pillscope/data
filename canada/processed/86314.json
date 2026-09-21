@@ -1,0 +1,28 @@
+{
+  "drug_code": "86314",
+  "din": "02377438",
+  "brand_name": "HALAVEN",
+  "class": "Human",
+  "descriptor": "2ML SINGLE USE VIAL",
+  "last_update": "22-MAR-2012",
+  "active_ingredients": [
+    {
+      "name": "Eribulin Mesylate",
+      "strength": "0.5",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "EISAI LIMITED"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "ERIBULIN"
+  ]
+}

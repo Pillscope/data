@@ -1,0 +1,28 @@
+{
+  "drug_code": "90664",
+  "din": "02421941",
+  "brand_name": "LOTEMAX OINTMENT",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "26-NOV-2014",
+  "active_ingredients": [
+    {
+      "name": "LOTEPREDNOL ETABONATE",
+      "strength": "0.5",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "OINTMENT"
+  ],
+  "routes": [
+    "OPHTHALMIC"
+  ],
+  "companies": [
+    "BAUSCH & LOMB INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "LOTEPREDNOL"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "drug_code": "94451",
+  "din": "02457466",
+  "brand_name": "MARCELLE CITY TINTED CREAM CR\u00c3\u0088ME TINT\u00c3\u0089E MULTI-PROTECTION SPF 25 FPS",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "19-MAY-2017",
+  "active_ingredients": [
+    {
+      "name": "OCTINOXATE",
+      "strength": "7.5",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "CREAM"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "GROUPE MARCELLE INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "OCTYL METHOXYCINNAMATE"
+  ]
+}

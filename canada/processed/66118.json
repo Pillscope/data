@@ -1,0 +1,44 @@
+{
+  "drug_code": "66118",
+  "din": "02242406",
+  "brand_name": "TRIANAL C\u00c2\u00bc",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "30-JAN-2018",
+  "active_ingredients": [
+    {
+      "name": "CODEINE PHOSPHATE",
+      "strength": "15",
+      "unit": "MG"
+    },
+    {
+      "name": "BUTALBITAL",
+      "strength": "50",
+      "unit": "MG"
+    },
+    {
+      "name": "ACETYLSALICYLIC ACID",
+      "strength": "330",
+      "unit": "MG"
+    },
+    {
+      "name": "CAFFEINE",
+      "strength": "40",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "CAPSULE"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "LABORATOIRE RIVA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "ACETYLSALICYLIC ACID, COMB WITH PSYCHOLEPTICS",
+    "ACETYLSALICYLIC ACID, COMB WITH PSYCHOLEPTICS"
+  ]
+}

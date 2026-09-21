@@ -1,0 +1,26 @@
+{
+  "drug_code": "91239",
+  "din": "02427893",
+  "brand_name": "APOQUEL",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "19-MAY-2016",
+  "active_ingredients": [
+    {
+      "name": "OCLACITINIB (OCLACITINIB MALEATE)",
+      "strength": "5.4",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "ZOETIS CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": []
+}

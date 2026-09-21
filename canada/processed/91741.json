@@ -1,0 +1,34 @@
+{
+  "drug_code": "91741",
+  "din": "02432978",
+  "brand_name": "NUWIQ",
+  "class": "Human",
+  "descriptor": "ANTIHEMOPHILIC FACTOR (RECOMBINANT, B-DOMAIN DELETED). SINGLE USE VIAL & 2.5ML PREFILLED DILUENT SYRINGE",
+  "last_update": "19-MAR-2018",
+  "active_ingredients": [
+    {
+      "name": "WATER",
+      "strength": "2.5",
+      "unit": "ML"
+    },
+    {
+      "name": "SIMOCTOCOG ALFA",
+      "strength": "500",
+      "unit": "UNIT"
+    }
+  ],
+  "forms": [
+    "KIT",
+    "POWDER FOR SOLUTION"
+  ],
+  "routes": [
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "OCTAPHARMA PHARMAZEUTIKA PRODUKTIONSGES M B H"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "COAGULATION FACTOR VIII"
+  ]
+}

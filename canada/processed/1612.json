@@ -1,0 +1,66 @@
+{
+  "drug_code": "1612",
+  "din": "00260045",
+  "brand_name": "SCOUR BOLUSES",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "03-JAN-2018",
+  "active_ingredients": [
+    {
+      "name": "HYOSCYAMINE SULFATE",
+      "strength": "0.1",
+      "unit": "MG"
+    },
+    {
+      "name": "PECTIN",
+      "strength": "260",
+      "unit": "MG"
+    },
+    {
+      "name": "SULFAGUANIDINE",
+      "strength": "1340",
+      "unit": "MG"
+    },
+    {
+      "name": "NEOMYCIN (NEOMYCIN SULFATE)",
+      "strength": "400",
+      "unit": "MG"
+    },
+    {
+      "name": "VITAMIN A",
+      "strength": "50000",
+      "unit": "UNIT"
+    },
+    {
+      "name": "CALCIUM PHOSPHATE (TRIBASIC)",
+      "strength": "324",
+      "unit": "MG"
+    },
+    {
+      "name": "KAOLIN",
+      "strength": "975",
+      "unit": "MG"
+    },
+    {
+      "name": "SULFATHIAZOLE",
+      "strength": "668",
+      "unit": "MG"
+    },
+    {
+      "name": "ATROPINE SULFATE",
+      "strength": "0.1",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "BOLUS"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "DOMINION VETERINARY LABORATORIES LTD."
+  ],
+  "status": "APPROVED",
+  "atc": []
+}

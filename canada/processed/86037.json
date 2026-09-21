@@ -1,0 +1,31 @@
+{
+  "drug_code": "86037",
+  "din": "02374951",
+  "brand_name": "BOVI-KOTE 75",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "23-JUL-2012",
+  "active_ingredients": [
+    {
+      "name": "GLYCERINE",
+      "strength": "8.0",
+      "unit": "%"
+    },
+    {
+      "name": "NONYL PHENOXYPOLYETHOXYETHANOL-IODINE COMPLEX",
+      "strength": "7.5",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "AGRISAN SPECIALTY CHEMICAL & PHARMACEUTICAL"
+  ],
+  "status": "MARKETED",
+  "atc": []
+}

@@ -1,0 +1,33 @@
+{
+  "drug_code": "18936",
+  "din": "02141019",
+  "brand_name": "CALCIUM GLUCONATE INJECTION, USP 10%",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "30-OCT-2015",
+  "active_ingredients": [
+    {
+      "name": "CALCIUM GLUCONATE",
+      "strength": "94",
+      "unit": "MG"
+    },
+    {
+      "name": "CALCIUM SACCHARATE",
+      "strength": "4.5",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "FRESENIUS KABI CANADA LTD"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "COMBINATIONS OF ELECTROLYTES"
+  ]
+}

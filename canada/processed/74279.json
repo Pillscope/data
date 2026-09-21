@@ -1,0 +1,28 @@
+{
+  "drug_code": "74279",
+  "din": "02257548",
+  "brand_name": "DIPHENHYDRAMINE HYDROCHLORIDE 25 MG CAPLET",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "04-OCT-2006",
+  "active_ingredients": [
+    {
+      "name": "DIPHENHYDRAMINE HYDROCHLORIDE",
+      "strength": "25",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "JAMP PHARMA CORPORATION"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "DIPHENHYDRAMINE"
+  ]
+}

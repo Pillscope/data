@@ -1,0 +1,28 @@
+{
+  "drug_code": "61173",
+  "din": "02237814",
+  "brand_name": "MYLAN-FLUOXETINE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "07-APR-2010",
+  "active_ingredients": [
+    {
+      "name": "FLUOXETINE (FLUOXETINE HYDROCHLORIDE)",
+      "strength": "20",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "CAPSULE"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "MYLAN PHARMACEUTICALS ULC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "FLUOXETINE"
+  ]
+}

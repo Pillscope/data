@@ -1,0 +1,28 @@
+{
+  "drug_code": "93877",
+  "din": "02452383",
+  "brand_name": "APO-FELODIPINE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "16-MAY-2016",
+  "active_ingredients": [
+    {
+      "name": "FELODIPINE",
+      "strength": "10",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET (EXTENDED-RELEASE)"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "APOTEX INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "FELODIPINE"
+  ]
+}

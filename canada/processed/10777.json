@@ -1,0 +1,37 @@
+{
+  "drug_code": "10777",
+  "din": "00817112",
+  "brand_name": "OTOMAX",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "12-APR-2013",
+  "active_ingredients": [
+    {
+      "name": "BETAMETHASONE (BETAMETHASONE VALERATE)",
+      "strength": "1.0",
+      "unit": "MG"
+    },
+    {
+      "name": "GENTAMICIN (GENTAMICIN SULFATE)",
+      "strength": "3",
+      "unit": "MG"
+    },
+    {
+      "name": "CLOTRIMAZOLE",
+      "strength": "10",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "OINTMENT"
+  ],
+  "routes": [
+    "OTIC",
+    "TOPICAL"
+  ],
+  "companies": [
+    "INTERVET CANADA CORP"
+  ],
+  "status": "APPROVED",
+  "atc": []
+}

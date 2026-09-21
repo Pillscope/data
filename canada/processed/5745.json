@@ -1,0 +1,26 @@
+{
+  "drug_code": "5745",
+  "din": "00616931",
+  "brand_name": "UNI TEST SUSP 100MG/ML",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "26-JUL-2006",
+  "active_ingredients": [
+    {
+      "name": "TESTOSTERONE",
+      "strength": "100",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SUSPENSION"
+  ],
+  "routes": [
+    "INTRAMUSCULAR"
+  ],
+  "companies": [
+    "UNIVET PHARMACEUTICALS LTD."
+  ],
+  "status": "MARKETED",
+  "atc": []
+}

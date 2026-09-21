@@ -1,0 +1,38 @@
+{
+  "drug_code": "89449",
+  "din": "02409836",
+  "brand_name": "GELUSIL ANTACID AND ANTI-GAS",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "23-APR-2018",
+  "active_ingredients": [
+    {
+      "name": "SIMETHICONE",
+      "strength": "25",
+      "unit": "MG"
+    },
+    {
+      "name": "MAGNESIUM HYDROXIDE",
+      "strength": "200",
+      "unit": "MG"
+    },
+    {
+      "name": "ALUMINUM HYDROXIDE-SUCROSE DRIED GEL",
+      "strength": "200",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET (CHEWABLE)"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "BOYD PHARMACEUTICALS INC."
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "ORDINARY SALT COMBINATIONS AND ANTIFLATULENTS"
+  ]
+}

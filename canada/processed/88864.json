@@ -1,0 +1,28 @@
+{
+  "drug_code": "88864",
+  "din": "02403870",
+  "brand_name": "MAR-DOMPERIDONE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "14-FEB-2014",
+  "active_ingredients": [
+    {
+      "name": "DOMPERIDONE (DOMPERIDONE MALEATE)",
+      "strength": "10",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "MARCAN PHARMACEUTICALS INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "DOMPERIDONE"
+  ]
+}

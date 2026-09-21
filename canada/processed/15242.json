@@ -1,0 +1,34 @@
+{
+  "drug_code": "15242",
+  "din": "02065347",
+  "brand_name": "BM-6400 ETHANOL DISINFECTANT & CLEANER LIQ",
+  "class": "Disinfectant",
+  "descriptor": "",
+  "last_update": "29-JUN-2006",
+  "active_ingredients": [
+    {
+      "name": "O-PHENYLPHENOL",
+      "strength": "0.1",
+      "unit": "%"
+    },
+    {
+      "name": "ALCOHOL DENATURED",
+      "strength": "71",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "LIQUID"
+  ],
+  "routes": [
+    "DISINFECTANT (Medical Instruments)",
+    "DISINFECTANT (Hospital/HC Facilities)"
+  ],
+  "companies": [
+    "N.A.K.P. FOTO INC."
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "TECHNICAL DISINFECTANTS"
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "drug_code": "74951",
+  "din": "02264099",
+  "brand_name": "CANESTEN COMBI-PAK COMFORTAB 3",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "25-AUG-2017",
+  "active_ingredients": [
+    {
+      "name": "CLOTRIMAZOLE",
+      "strength": "1",
+      "unit": "%"
+    },
+    {
+      "name": "CLOTRIMAZOLE",
+      "strength": "200",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "VAGINAL TABLET",
+    "CREAM"
+  ],
+  "routes": [
+    "TOPICAL",
+    "VAGINAL"
+  ],
+  "companies": [
+    "BAYER INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "CLOTRIMAZOLE"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "drug_code": "92021",
+  "din": "02435861",
+  "brand_name": "TILCOMED",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "20-APR-2018",
+  "active_ingredients": [
+    {
+      "name": "TILMICOSIN",
+      "strength": "300",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "SUBCUTANEOUS"
+  ],
+  "companies": [
+    "EMDOKA BVBA"
+  ],
+  "status": "APPROVED",
+  "atc": []
+}

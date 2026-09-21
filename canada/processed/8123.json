@@ -1,0 +1,53 @@
+{
+  "drug_code": "8123",
+  "din": "00707503",
+  "brand_name": "TRIQUILAR 28",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "16-JUL-2008",
+  "active_ingredients": [
+    {
+      "name": "LEVONORGESTREL",
+      "strength": "125",
+      "unit": "MCG"
+    },
+    {
+      "name": "LEVONORGESTREL",
+      "strength": "50",
+      "unit": "MCG"
+    },
+    {
+      "name": "LEVONORGESTREL",
+      "strength": "75",
+      "unit": "MCG"
+    },
+    {
+      "name": "ETHINYL ESTRADIOL",
+      "strength": "30",
+      "unit": "MCG"
+    },
+    {
+      "name": "ETHINYL ESTRADIOL",
+      "strength": "40",
+      "unit": "MCG"
+    },
+    {
+      "name": "ETHINYL ESTRADIOL",
+      "strength": "30",
+      "unit": "MCG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "BAYER INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "LEVONORGESTREL AND ESTROGEN"
+  ]
+}

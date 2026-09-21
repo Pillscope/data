@@ -1,0 +1,28 @@
+{
+  "drug_code": "198",
+  "din": "00013617",
+  "brand_name": "OVOL DROPS 40MG",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "29-APR-2015",
+  "active_ingredients": [
+    {
+      "name": "SIMETHICONE",
+      "strength": "40",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "DROPS"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "CHURCH & DWIGHT CANADA CORP"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "SILICONES"
+  ]
+}

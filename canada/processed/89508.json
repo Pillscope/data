@@ -1,0 +1,28 @@
+{
+  "drug_code": "89508",
+  "din": "02410419",
+  "brand_name": "IRINOTECAN",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "16-SEP-2014",
+  "active_ingredients": [
+    {
+      "name": "IRINOTECAN HYDROCHLORIDE",
+      "strength": "20",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "PFIZER CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "IRINOTECAN"
+  ]
+}

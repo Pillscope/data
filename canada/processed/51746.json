@@ -1,0 +1,28 @@
+{
+  "drug_code": "51746",
+  "din": "02232318",
+  "brand_name": "ETODOLAC",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "20-AUG-2012",
+  "active_ingredients": [
+    {
+      "name": "ETODOLAC",
+      "strength": "300",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "CAPSULE"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "AA PHARMA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "ETODOLAC"
+  ]
+}

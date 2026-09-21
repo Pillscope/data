@@ -1,0 +1,36 @@
+{
+  "drug_code": "1894",
+  "din": "00297836",
+  "brand_name": "DEHORNING PST DR NAYLORS",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "26-OCT-2000",
+  "active_ingredients": [
+    {
+      "name": "GLYCERINE",
+      "strength": "13",
+      "unit": "%"
+    },
+    {
+      "name": "CALCIUM HYDROXIDE",
+      "strength": "33.33",
+      "unit": "%"
+    },
+    {
+      "name": "SODIUM HYDROXIDE",
+      "strength": "27.2",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "PASTE"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "H W NAYLOR CO INC."
+  ],
+  "status": "MARKETED",
+  "atc": []
+}

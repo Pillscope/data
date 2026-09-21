@@ -1,0 +1,26 @@
+{
+  "drug_code": "5621",
+  "din": "00610569",
+  "brand_name": "SODIUM IODIDE 20% INJ",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "23-JUN-1999",
+  "active_ingredients": [
+    {
+      "name": "SODIUM IODIDE",
+      "strength": "200",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "LIQUID"
+  ],
+  "routes": [
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "UNIVET PHARMACEUTICALS LTD."
+  ],
+  "status": "MARKETED",
+  "atc": []
+}

@@ -1,0 +1,28 @@
+{
+  "drug_code": "92699",
+  "din": "02442647",
+  "brand_name": "SDZ CELECOXIB",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "14-JUN-2016",
+  "active_ingredients": [
+    {
+      "name": "CELECOXIB",
+      "strength": "200",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "CAPSULE"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "SANDOZ CANADA INCORPORATED"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "CELECOXIB"
+  ]
+}

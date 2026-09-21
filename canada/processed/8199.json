@@ -1,0 +1,28 @@
+{
+  "drug_code": "8199",
+  "din": "00754129",
+  "brand_name": "ELAVIL",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "24-SEP-2012",
+  "active_ingredients": [
+    {
+      "name": "AMITRIPTYLINE HYDROCHLORIDE",
+      "strength": "75",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "AA PHARMA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "AMITRIPTYLINE"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "drug_code": "13515",
+  "din": "01985213",
+  "brand_name": "UNI-BLIS LIQ 2.0%",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "05-AUG-2003",
+  "active_ingredients": [
+    {
+      "name": "IODINE",
+      "strength": "2",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "LIQUID"
+  ],
+  "routes": [
+    "SUBCUTANEOUS"
+  ],
+  "companies": [
+    "UNIVET PHARMACEUTICALS LTD."
+  ],
+  "status": "MARKETED",
+  "atc": []
+}

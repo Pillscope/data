@@ -1,0 +1,28 @@
+{
+  "drug_code": "75254",
+  "din": "02267144",
+  "brand_name": "HYGIENIPAK 2% CHG FOAMING SKIN CLEANSER",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "18-JUL-2012",
+  "active_ingredients": [
+    {
+      "name": "CHLORHEXIDINE GLUCONATE",
+      "strength": "2",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "LIQUID"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "DEB CANADA"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "CHLORHEXIDINE"
+  ]
+}

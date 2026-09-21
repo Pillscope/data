@@ -1,0 +1,26 @@
+{
+  "drug_code": "44117",
+  "din": "02168510",
+  "brand_name": "AQUA LIFE TMS - PWR 1000MG/GM",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "19-AUG-2008",
+  "active_ingredients": [
+    {
+      "name": "TRICAINE",
+      "strength": "1",
+      "unit": "G"
+    }
+  ],
+  "forms": [
+    "POWDER"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "SYNDEL CANADA"
+  ],
+  "status": "MARKETED",
+  "atc": []
+}

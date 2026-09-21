@@ -1,0 +1,28 @@
+{
+  "drug_code": "76987",
+  "din": "02284294",
+  "brand_name": "APO-OXCARBAZEPINE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "02-AUG-2016",
+  "active_ingredients": [
+    {
+      "name": "OXCARBAZEPINE",
+      "strength": "150",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "APOTEX INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "OXCARBAZEPINE"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "drug_code": "80448",
+  "din": "02318997",
+  "brand_name": "METACAM",
+  "class": "Veterinary",
+  "descriptor": "CHEWABLE TABLETS FOR DOGS",
+  "last_update": "27-APR-2016",
+  "active_ingredients": [
+    {
+      "name": "MELOXICAM",
+      "strength": "1",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET (CHEWABLE)"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "BOEHRINGER INGELHEIM (CANADA) LTD LTEE"
+  ],
+  "status": "APPROVED",
+  "atc": []
+}

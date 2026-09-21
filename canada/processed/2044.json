@@ -1,0 +1,32 @@
+{
+  "drug_code": "2044",
+  "din": "00319376",
+  "brand_name": "ANTIHIST SOLUTION",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "25-JUN-2004",
+  "active_ingredients": [
+    {
+      "name": "PYRILAMINE MALEATE",
+      "strength": "25",
+      "unit": "MG"
+    },
+    {
+      "name": "L-EPHEDRINE HYDROCHLORIDE",
+      "strength": "10",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "INTRAMUSCULAR",
+    "SUBCUTANEOUS"
+  ],
+  "companies": [
+    "PROFESSIONAL VETERINARY LABORATORIES"
+  ],
+  "status": "MARKETED",
+  "atc": []
+}

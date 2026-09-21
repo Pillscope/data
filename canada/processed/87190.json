@@ -1,0 +1,28 @@
+{
+  "drug_code": "87190",
+  "din": "02386321",
+  "brand_name": "SIMVASTATIN",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "08-NOV-2012",
+  "active_ingredients": [
+    {
+      "name": "SIMVASTATIN",
+      "strength": "40",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "SIVEM PHARMACEUTICALS ULC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "SIMVASTATIN"
+  ]
+}

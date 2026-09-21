@@ -1,0 +1,29 @@
+{
+  "drug_code": "89896",
+  "din": "02414309",
+  "brand_name": "DUAL INTENSIVE ACNE TREATMENT",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "27-FEB-2015",
+  "active_ingredients": [
+    {
+      "name": "BENZOYL PEROXIDE",
+      "strength": "2.5",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "GEL",
+    "LOTION"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "RODAN & FIELDS LLC"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "BENZOYL PEROXIDE"
+  ]
+}

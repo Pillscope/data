@@ -1,0 +1,28 @@
+{
+  "drug_code": "92203",
+  "din": "02437643",
+  "brand_name": "PROPOFOL INJECTION",
+  "class": "Human",
+  "descriptor": "FOR I.V. INFUSION. 200MG/20ML; 500MG/50ML & 1000MG/100ML SINGLE USE VIALS.",
+  "last_update": "29-JUN-2017",
+  "active_ingredients": [
+    {
+      "name": "PROPOFOL",
+      "strength": "10",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "EMULSION"
+  ],
+  "routes": [
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "FRESENIUS KABI CANADA LTD"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "PROPOFOL"
+  ]
+}

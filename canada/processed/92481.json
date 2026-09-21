@@ -1,0 +1,28 @@
+{
+  "drug_code": "92481",
+  "din": "02440458",
+  "brand_name": "PURKLENZ",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "09-AUG-2017",
+  "active_ingredients": [
+    {
+      "name": "CHLOROXYLENOL",
+      "strength": "3",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "LIQUID"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "PURKLENZ FORMULATIONS INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "CHLOROXYLENOL"
+  ]
+}

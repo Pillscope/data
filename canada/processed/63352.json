@@ -1,0 +1,28 @@
+{
+  "drug_code": "63352",
+  "din": "02239864",
+  "brand_name": "APO-FENO-MICRO",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "10-MAR-2006",
+  "active_ingredients": [
+    {
+      "name": "FENOFIBRATE",
+      "strength": "200",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "CAPSULE"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "APOTEX INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "FENOFIBRATE"
+  ]
+}

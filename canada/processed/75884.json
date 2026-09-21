@@ -1,0 +1,28 @@
+{
+  "drug_code": "75884",
+  "din": "02273357",
+  "brand_name": "MAXIMUM STRENGTH PEPCID AC",
+  "class": "Human",
+  "descriptor": "FILM-COATED",
+  "last_update": "05-MAY-2015",
+  "active_ingredients": [
+    {
+      "name": "FAMOTIDINE",
+      "strength": "20",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "MCNEIL CONSUMER HEALTHCARE DIVISION OF JOHNSON & JOHNSON INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "FAMOTIDINE"
+  ]
+}

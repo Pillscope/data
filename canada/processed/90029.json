@@ -1,0 +1,28 @@
+{
+  "drug_code": "90029",
+  "din": "02415690",
+  "brand_name": "OPSUMIT",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "15-OCT-2015",
+  "active_ingredients": [
+    {
+      "name": "MACITENTAN",
+      "strength": "10",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "ACTELION PHARMACEUTICALS LTD"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "MACITENTAN"
+  ]
+}

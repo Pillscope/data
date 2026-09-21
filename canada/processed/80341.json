@@ -1,0 +1,28 @@
+{
+  "drug_code": "80341",
+  "din": "02317893",
+  "brand_name": "QUETIAPINE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "01-SEP-2016",
+  "active_ingredients": [
+    {
+      "name": "QUETIAPINE (QUETIAPINE FUMARATE)",
+      "strength": "25",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "SIVEM PHARMACEUTICALS ULC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "QUETIAPINE"
+  ]
+}

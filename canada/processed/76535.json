@@ -1,0 +1,28 @@
+{
+  "drug_code": "76535",
+  "din": "02279762",
+  "brand_name": "DOCUSATE CALCIUM",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "20-JAN-2016",
+  "active_ingredients": [
+    {
+      "name": "DOCUSATE CALCIUM",
+      "strength": "240",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "CAPSULE"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "PHARMASCIENCE INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "DOCUSATE SODIUM"
+  ]
+}

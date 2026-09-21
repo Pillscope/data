@@ -1,0 +1,33 @@
+{
+  "drug_code": "75296",
+  "din": "02267543",
+  "brand_name": "COVER GIRL ADVANCED RADIANCE AGE DEFYING MAKE-UP",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "29-SEP-2017",
+  "active_ingredients": [
+    {
+      "name": "TITANIUM DIOXIDE",
+      "strength": "5",
+      "unit": "%"
+    },
+    {
+      "name": "OCTINOXATE",
+      "strength": "2",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "SUSPENSION"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "HFC PRESTIGE INTERNATIONAL CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "COMBINATIONS OF PROTECTIVES AGAINST UV-RADIATION"
+  ]
+}

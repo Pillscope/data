@@ -1,0 +1,28 @@
+{
+  "drug_code": "67852",
+  "din": "02243910",
+  "brand_name": "REMERON",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "06-JUN-2012",
+  "active_ingredients": [
+    {
+      "name": "MIRTAZAPINE",
+      "strength": "30",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "MERCK CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "MIRTAZAPINE"
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "drug_code": "620",
+  "din": "00145246",
+  "brand_name": "BLU KOTE DR NAYLORS",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "30-MAR-2006",
+  "active_ingredients": [
+    {
+      "name": "GLYCERINE",
+      "strength": "5",
+      "unit": "%"
+    },
+    {
+      "name": "SODIUM PROPIONATE",
+      "strength": "10",
+      "unit": "%"
+    },
+    {
+      "name": "GENTIAN VIOLET",
+      "strength": "1",
+      "unit": "%"
+    },
+    {
+      "name": "UREA",
+      "strength": "10",
+      "unit": "%"
+    },
+    {
+      "name": "ISOPROPYL ALCOHOL",
+      "strength": "30",
+      "unit": "%"
+    },
+    {
+      "name": "ACRIFLAVINE",
+      "strength": ".2",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "AEROSOL",
+    "LIQUID"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "H W NAYLOR CO INC."
+  ],
+  "status": "MARKETED",
+  "atc": []
+}

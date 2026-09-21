@@ -1,0 +1,33 @@
+{
+  "drug_code": "12988",
+  "din": "01992872",
+  "brand_name": "CYCLEN TABLETS (28 DAY)",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "25-MAR-2009",
+  "active_ingredients": [
+    {
+      "name": "NORGESTIMATE",
+      "strength": "0.25",
+      "unit": "MG"
+    },
+    {
+      "name": "ETHINYL ESTRADIOL",
+      "strength": "0.035",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "JANSSEN INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "NORGESTIMATE AND ESTROGEN"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "drug_code": "80231",
+  "din": "02316811",
+  "brand_name": "ITRAFUNGOL",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "23-NOV-2017",
+  "active_ingredients": [
+    {
+      "name": "ITRACONAZOLE",
+      "strength": "10",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "ELANCO CANADA LIMITED"
+  ],
+  "status": "APPROVED",
+  "atc": []
+}

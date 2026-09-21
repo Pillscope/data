@@ -1,0 +1,28 @@
+{
+  "drug_code": "13286",
+  "din": "01963937",
+  "brand_name": "0.9% SODIUM CHLORIDE IRRIGATION USP",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "13-SEP-2007",
+  "active_ingredients": [
+    {
+      "name": "SODIUM CHLORIDE",
+      "strength": "0.9",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "IRRIGATION"
+  ],
+  "companies": [
+    "B. BRAUN MEDICAL INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "SODIUM CHLORIDE"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "drug_code": "48976",
+  "din": "02230244",
+  "brand_name": "PMS-AMOXICILLIN",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "30-NOV-2017",
+  "active_ingredients": [
+    {
+      "name": "AMOXICILLIN (AMOXICILLIN TRIHYDRATE)",
+      "strength": "500",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "CAPSULE"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "PHARMASCIENCE INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "AMOXICILLIN"
+  ]
+}

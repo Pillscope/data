@@ -1,0 +1,28 @@
+{
+  "drug_code": "90620",
+  "din": "02421550",
+  "brand_name": "ZOLEDRONIC ACID FOR INJECTION",
+  "class": "Human",
+  "descriptor": "0.8MG/ML",
+  "last_update": "29-SEP-2017",
+  "active_ingredients": [
+    {
+      "name": "ZOLEDRONIC ACID (Zoledronic acid monohydrate)",
+      "strength": "4",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "PFIZER CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "ZOLEDRONIC ACID"
+  ]
+}

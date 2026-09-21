@@ -1,0 +1,28 @@
+{
+  "drug_code": "93404",
+  "din": "02448343",
+  "brand_name": "SOLIFENACIN SUCCINATE TABLETS",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "18-APR-2017",
+  "active_ingredients": [
+    {
+      "name": "SOLIFENACIN SUCCINATE",
+      "strength": "10",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "MDA INC."
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "SOLIFENACIN"
+  ]
+}

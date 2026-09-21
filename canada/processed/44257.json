@@ -1,0 +1,35 @@
+{
+  "drug_code": "44257",
+  "din": "02182904",
+  "brand_name": "PREGNYL",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "12-APR-2013",
+  "active_ingredients": [
+    {
+      "name": "CHORIONIC GONADOTROPIN",
+      "strength": "10000",
+      "unit": "UNIT"
+    },
+    {
+      "name": "WATER",
+      "strength": "10",
+      "unit": "ML"
+    }
+  ],
+  "forms": [
+    "KIT",
+    "LIQUID",
+    "POWDER FOR SOLUTION"
+  ],
+  "routes": [
+    "INTRAMUSCULAR"
+  ],
+  "companies": [
+    "MERCK CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "CHORIONIC GONADOTROPHIN"
+  ]
+}

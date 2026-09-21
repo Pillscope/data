@@ -1,0 +1,28 @@
+{
+  "drug_code": "91445",
+  "din": "02430037",
+  "brand_name": "M-SILDENAFIL",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "24-JUN-2015",
+  "active_ingredients": [
+    {
+      "name": "SILDENAFIL (SILDENAFIL CITRATE)",
+      "strength": "100",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "MANTRA PHARMA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "SILDENAFIL"
+  ]
+}

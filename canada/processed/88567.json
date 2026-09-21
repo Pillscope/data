@@ -1,0 +1,28 @@
+{
+  "drug_code": "88567",
+  "din": "02400871",
+  "brand_name": "KETOTIFEN OPHTHALMIC SOLUTION",
+  "class": "Human",
+  "descriptor": "WITH PRESERVATIVE",
+  "last_update": "12-MAR-2013",
+  "active_ingredients": [
+    {
+      "name": "KETOTIFEN (KETOTIFEN FUMARATE)",
+      "strength": "0.25",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "OPHTHALMIC"
+  ],
+  "companies": [
+    "STERIMAX INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "KETOTIFEN"
+  ]
+}

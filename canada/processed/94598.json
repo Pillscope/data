@@ -1,0 +1,28 @@
+{
+  "drug_code": "94598",
+  "din": "02458934",
+  "brand_name": "MYLAN-DIVALPROEX",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "12-MAY-2017",
+  "active_ingredients": [
+    {
+      "name": "VALPROIC ACID (DIVALPROEX SODIUM)",
+      "strength": "250",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET (ENTERIC-COATED)"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "MYLAN PHARMACEUTICALS ULC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "VALPROIC ACID"
+  ]
+}

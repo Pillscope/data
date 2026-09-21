@@ -1,0 +1,28 @@
+{
+  "drug_code": "86042",
+  "din": "02375028",
+  "brand_name": "CREST SCOPE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "27-OCT-2017",
+  "active_ingredients": [
+    {
+      "name": "CETYLPYRIDINIUM CHLORIDE",
+      "strength": "0.07",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "MOUTHWASH/GARGLE"
+  ],
+  "routes": [
+    "BUCCAL"
+  ],
+  "companies": [
+    "PROCTER & GAMBLE INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "CETYLPYRIDINIUM"
+  ]
+}

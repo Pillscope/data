@@ -1,0 +1,31 @@
+{
+  "drug_code": "61539",
+  "din": "02238148",
+  "brand_name": "SENTINEL FLAVOR TABS",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "09-AUG-2016",
+  "active_ingredients": [
+    {
+      "name": "MILBEMYCIN OXIME",
+      "strength": "11.5",
+      "unit": "MG"
+    },
+    {
+      "name": "LUFENURON",
+      "strength": "230",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "ELANCO CANADA LIMITED"
+  ],
+  "status": "APPROVED",
+  "atc": []
+}

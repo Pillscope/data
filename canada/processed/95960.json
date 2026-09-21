@@ -1,0 +1,28 @@
+{
+  "drug_code": "95960",
+  "din": "02470608",
+  "brand_name": "XELJANZ XR",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "24-APR-2018",
+  "active_ingredients": [
+    {
+      "name": "Tofacitinib (Tofacitinib citrate)",
+      "strength": "11",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET (EXTENDED-RELEASE)"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "PFIZER CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "TOFACITINIB"
+  ]
+}

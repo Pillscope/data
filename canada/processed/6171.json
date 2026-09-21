@@ -1,0 +1,28 @@
+{
+  "drug_code": "6171",
+  "din": "00614491",
+  "brand_name": "DOLORAL 1",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "22-OCT-2012",
+  "active_ingredients": [
+    {
+      "name": "MORPHINE HYDROCHLORIDE",
+      "strength": "1",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SYRUP"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "LABORATOIRE ATLAS INC"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "MORPHINE"
+  ]
+}

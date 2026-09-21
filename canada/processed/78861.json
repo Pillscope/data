@@ -1,0 +1,31 @@
+{
+  "drug_code": "78861",
+  "din": "02303280",
+  "brand_name": "KAOLIN PECTIN SUSPENSION",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "24-APR-2008",
+  "active_ingredients": [
+    {
+      "name": "PECTIN",
+      "strength": "4.53",
+      "unit": "MG"
+    },
+    {
+      "name": "KAOLIN",
+      "strength": "196.1",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SUSPENSION"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "PARTNAR ANIMAL HEALTH INC"
+  ],
+  "status": "MARKETED",
+  "atc": []
+}

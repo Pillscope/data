@@ -1,0 +1,31 @@
+{
+  "drug_code": "86743",
+  "din": "02381583",
+  "brand_name": "CAUSTIC DEHORNING PASTE",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "31-OCT-2014",
+  "active_ingredients": [
+    {
+      "name": "CALCIUM HYDROXIDE",
+      "strength": "18.4",
+      "unit": "%"
+    },
+    {
+      "name": "SODIUM HYDROXIDE",
+      "strength": "46.0",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "PASTE"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "ALBERTA VETERINARY LABORATORIES LTD"
+  ],
+  "status": "MARKETED",
+  "atc": []
+}

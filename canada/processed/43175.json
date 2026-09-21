@@ -1,0 +1,28 @@
+{
+  "drug_code": "43175",
+  "din": "02216213",
+  "brand_name": "MYLAN-CLOBETASOL SCALP APPLICATION",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "08-APR-2010",
+  "active_ingredients": [
+    {
+      "name": "CLOBETASOL PROPIONATE",
+      "strength": "0.05",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "LOTION"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "MYLAN PHARMACEUTICALS ULC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "CLOBETASOL"
+  ]
+}

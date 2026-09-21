@@ -1,0 +1,38 @@
+{
+  "drug_code": "80304",
+  "din": "02317524",
+  "brand_name": "MICRO-KLEEN 3 SURFACE DISINFECTANT CLEANER",
+  "class": "Disinfectant",
+  "descriptor": "SOLUTION",
+  "last_update": "15-JUN-2016",
+  "active_ingredients": [
+    {
+      "name": "BENZALKONIUM CHLORIDE",
+      "strength": "0.154",
+      "unit": "%"
+    },
+    {
+      "name": "ISOPROPYL ALCOHOL",
+      "strength": "21",
+      "unit": "%"
+    },
+    {
+      "name": "ALKYL DIMETHYL ETHYLBENZYL AMMONIUM CHLORIDE",
+      "strength": "0.154",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "SPRAY"
+  ],
+  "routes": [
+    "DISINFECTANT (Hospital/HC Facilities)"
+  ],
+  "companies": [
+    "MICRO-SCIENTIFIC, LLC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "TECHNICAL DISINFECTANTS"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "drug_code": "89323",
+  "din": "02408473",
+  "brand_name": "TEVA-EXEMESTANE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "30-DEC-2015",
+  "active_ingredients": [
+    {
+      "name": "EXEMESTANE",
+      "strength": "25",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "TEVA CANADA LIMITED"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "EXEMESTANE"
+  ]
+}

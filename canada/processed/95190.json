@@ -1,0 +1,28 @@
+{
+  "drug_code": "95190",
+  "din": "02463806",
+  "brand_name": "TARO-TESTOSTERONE GEL",
+  "class": "Human",
+  "descriptor": "5 G GEL PER PACK",
+  "last_update": "25-APR-2018",
+  "active_ingredients": [
+    {
+      "name": "TESTOSTERONE",
+      "strength": "1",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "GEL"
+  ],
+  "routes": [
+    "TRANSDERMAL"
+  ],
+  "companies": [
+    "TARO PHARMACEUTICALS INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "TESTOSTERONE"
+  ]
+}

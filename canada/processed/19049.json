@@ -1,0 +1,28 @@
+{
+  "drug_code": "19049",
+  "din": "02163799",
+  "brand_name": "CODEINE CONTIN 200MG CONTROLLED RELEASE TAB",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "20-JAN-2012",
+  "active_ingredients": [
+    {
+      "name": "CODEINE (CODEINE MONOHYDRATE, Codeine Sulfate Trihydrate)",
+      "strength": "200",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET (EXTENDED-RELEASE)"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "PURDUE PHARMA"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "CODEINE"
+  ]
+}

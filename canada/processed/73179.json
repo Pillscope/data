@@ -1,0 +1,43 @@
+{
+  "drug_code": "73179",
+  "din": "02248810",
+  "brand_name": "ADDERALL XR",
+  "class": "Human",
+  "descriptor": "15MG MIXED SALTS AMPHETAMINE",
+  "last_update": "05-JUL-2016",
+  "active_ingredients": [
+    {
+      "name": "DEXTROAMPHETAMINE SACCHARATE",
+      "strength": "3.75",
+      "unit": "MG"
+    },
+    {
+      "name": "DEXTROAMPHETAMINE SULFATE",
+      "strength": "3.75",
+      "unit": "MG"
+    },
+    {
+      "name": "AMPHETAMINE ASPARTATE MONOHYDRATE",
+      "strength": "3.75",
+      "unit": "MG"
+    },
+    {
+      "name": "AMPHETAMINE SULFATE",
+      "strength": "3.75",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "CAPSULE (EXTENDED RELEASE)"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "SHIRE PHARMA CANADA ULC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "AMFETAMINE"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "drug_code": "44146",
+  "din": "02170493",
+  "brand_name": "LEDERLE LEUCOVORIN",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "25-JAN-2013",
+  "active_ingredients": [
+    {
+      "name": "LEUCOVORIN (LEUCOVORIN CALCIUM)",
+      "strength": "5",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "PFIZER CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "CALCIUM FOLINATE"
+  ]
+}

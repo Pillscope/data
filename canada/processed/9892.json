@@ -1,0 +1,38 @@
+{
+  "drug_code": "9892",
+  "din": "00821373",
+  "brand_name": "COTAZYM ECS 20",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "19-JAN-2016",
+  "active_ingredients": [
+    {
+      "name": "LIPASE",
+      "strength": "25000",
+      "unit": "UNIT"
+    },
+    {
+      "name": "PROTEASE",
+      "strength": "100000",
+      "unit": "UNIT"
+    },
+    {
+      "name": "AMYLASE",
+      "strength": "100000",
+      "unit": "UNIT"
+    }
+  ],
+  "forms": [
+    "CAPSULE (DELAYED RELEASE)"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "MERCK CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "MULTIENZYMES (LIPASE, PROTEASE ETC)"
+  ]
+}

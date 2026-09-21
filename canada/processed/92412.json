@@ -1,0 +1,28 @@
+{
+  "drug_code": "92412",
+  "din": "02439727",
+  "brand_name": "IBUPROFEN CAPLETS",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "19-APR-2016",
+  "active_ingredients": [
+    {
+      "name": "IBUPROFEN",
+      "strength": "200",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "APOTEX INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "IBUPROFEN"
+  ]
+}

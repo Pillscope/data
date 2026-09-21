@@ -1,0 +1,28 @@
+{
+  "drug_code": "88196",
+  "din": "02396955",
+  "brand_name": "APO-ENTECAVIR",
+  "class": "Human",
+  "descriptor": "FILM-COATED TABLET",
+  "last_update": "05-FEB-2013",
+  "active_ingredients": [
+    {
+      "name": "ENTECAVIR",
+      "strength": "0.5",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "APOTEX INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "ENTECAVIR"
+  ]
+}

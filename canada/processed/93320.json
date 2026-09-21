@@ -1,0 +1,33 @@
+{
+  "drug_code": "93320",
+  "din": "02447622",
+  "brand_name": "LA MER THE SOFT FLUID LONG WEAR FOUNDATION SPF 20",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "05-FEB-2018",
+  "active_ingredients": [
+    {
+      "name": "TITANIUM DIOXIDE",
+      "strength": "1.9",
+      "unit": "%"
+    },
+    {
+      "name": "OCTINOXATE",
+      "strength": "7.5",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "LOTION"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "MAX HUBER RESEARCH LABS DIST"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "COMBINATIONS OF PROTECTIVES AGAINST UV-RADIATION"
+  ]
+}

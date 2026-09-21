@@ -1,0 +1,28 @@
+{
+  "drug_code": "76581",
+  "din": "02280132",
+  "brand_name": "GD-AMLODIPINE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "17-MAY-2011",
+  "active_ingredients": [
+    {
+      "name": "AMLODIPINE (AMLODIPINE BESYLATE)",
+      "strength": "5",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "GENMED A DIVISION OF PFIZER CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "AMLODIPINE"
+  ]
+}

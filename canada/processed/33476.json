@@ -1,0 +1,28 @@
+{
+  "drug_code": "33476",
+  "din": "02226022",
+  "brand_name": "MYOFLEX EXTRA STRENGTH",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "12-APR-2018",
+  "active_ingredients": [
+    {
+      "name": "TROLAMINE SALICYLATE",
+      "strength": "15",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "CREAM"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "EXZELL PHARMA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "PREPARATIONS WITH SALICYLIC ACID DERIVATIVES"
+  ]
+}

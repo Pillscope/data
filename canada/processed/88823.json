@@ -1,0 +1,33 @@
+{
+  "drug_code": "88823",
+  "din": "02403420",
+  "brand_name": "HUMALOG MIX 25  (KWIKPEN)",
+  "class": "Human",
+  "descriptor": "PREFILLED PEN",
+  "last_update": "16-DEC-2013",
+  "active_ingredients": [
+    {
+      "name": "INSULIN LISPRO",
+      "strength": "25",
+      "unit": "UNIT"
+    },
+    {
+      "name": "INSULIN LISPRO PROTAMINE SUSPENSION",
+      "strength": "75",
+      "unit": "UNIT"
+    }
+  ],
+  "forms": [
+    "SUSPENSION"
+  ],
+  "routes": [
+    "SUBCUTANEOUS"
+  ],
+  "companies": [
+    "ELI LILLY CANADA INC"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "INSULIN LISPRO"
+  ]
+}

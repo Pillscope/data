@@ -1,0 +1,28 @@
+{
+  "drug_code": "83559",
+  "din": "02350386",
+  "brand_name": "ULTRA STRENGTH NO ODOUR CREAM",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "10-MAY-2016",
+  "active_ingredients": [
+    {
+      "name": "TROLAMINE SALICYLATE",
+      "strength": "20",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "CREAM"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "CHURCH & DWIGHT CANADA CORP"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "PREPARATIONS WITH SALICYLIC ACID DERIVATIVES"
+  ]
+}

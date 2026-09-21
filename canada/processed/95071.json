@@ -1,0 +1,28 @@
+{
+  "drug_code": "95071",
+  "din": "02462842",
+  "brand_name": "CHLORHEXIDINE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "20-NOV-2017",
+  "active_ingredients": [
+    {
+      "name": "CHLORHEXIDINE GLUCONATE",
+      "strength": "0.12",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "BUCCAL"
+  ],
+  "companies": [
+    "EURO-PHARM INTERNATIONAL CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "CHLORHEXIDINE"
+  ]
+}

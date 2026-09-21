@@ -1,0 +1,29 @@
+{
+  "drug_code": "68258",
+  "din": "02244291",
+  "brand_name": "FLOVENT HFA",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "11-APR-2006",
+  "active_ingredients": [
+    {
+      "name": "FLUTICASONE PROPIONATE",
+      "strength": "50",
+      "unit": "MCG"
+    }
+  ],
+  "forms": [
+    "METERED-DOSE AEROSOL"
+  ],
+  "routes": [
+    "INHALATION",
+    "ORAL"
+  ],
+  "companies": [
+    "GLAXOSMITHKLINE INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "FLUTICASONE"
+  ]
+}

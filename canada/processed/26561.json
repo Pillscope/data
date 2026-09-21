@@ -1,0 +1,28 @@
+{
+  "drug_code": "26561",
+  "din": "02029529",
+  "brand_name": "SOFLAX",
+  "class": "Human",
+  "descriptor": "GELCAPS",
+  "last_update": "10-MAY-2016",
+  "active_ingredients": [
+    {
+      "name": "DOCUSATE SODIUM",
+      "strength": "200",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "CAPSULE"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "PHARMASCIENCE INC"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "DOCUSATE SODIUM"
+  ]
+}

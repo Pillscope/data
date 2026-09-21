@@ -1,0 +1,28 @@
+{
+  "drug_code": "71583",
+  "din": "02247340",
+  "brand_name": "ACT CIPROFLOXACIN",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "13-OCT-2017",
+  "active_ingredients": [
+    {
+      "name": "CIPROFLOXACIN (CIPROFLOXACIN HYDROCHLORIDE)",
+      "strength": "500",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "TEVA CANADA LIMITED"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "CIPROFLOXACIN"
+  ]
+}

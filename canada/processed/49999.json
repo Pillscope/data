@@ -1,0 +1,28 @@
+{
+  "drug_code": "49999",
+  "din": "02230736",
+  "brand_name": "MYLAN-MINOCYCLINE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "04-FEB-2010",
+  "active_ingredients": [
+    {
+      "name": "MINOCYCLINE (MINOCYCLINE HYDROCHLORIDE)",
+      "strength": "100",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "CAPSULE"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "MYLAN PHARMACEUTICALS ULC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "MINOCYCLINE"
+  ]
+}

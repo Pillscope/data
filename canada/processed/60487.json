@@ -1,0 +1,28 @@
+{
+  "drug_code": "60487",
+  "din": "02237169",
+  "brand_name": "EXTRA STRENGTH NYTOL QUICKGELS",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "23-FEB-2018",
+  "active_ingredients": [
+    {
+      "name": "DIPHENHYDRAMINE HYDROCHLORIDE",
+      "strength": "50",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "CAPSULE"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "MEDTECH PRODUCTS INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "DIPHENHYDRAMINE"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "drug_code": "90014",
+  "din": "02415550",
+  "brand_name": "JAMP-CLOPIDOGREL",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "02-MAY-2014",
+  "active_ingredients": [
+    {
+      "name": "CLOPIDOGREL (CLOPIDOGREL BISULFATE)",
+      "strength": "75",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "JAMP PHARMA CORPORATION"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "CLOPIDOGREL"
+  ]
+}

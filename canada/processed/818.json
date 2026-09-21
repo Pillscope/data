@@ -1,0 +1,51 @@
+{
+  "drug_code": "818",
+  "din": "00068063",
+  "brand_name": "SHIN BAND",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "29-APR-2015",
+  "active_ingredients": [
+    {
+      "name": "IODINE",
+      "strength": "47.44",
+      "unit": "MG"
+    },
+    {
+      "name": "CAMPHOR",
+      "strength": "31.17",
+      "unit": "MG"
+    },
+    {
+      "name": "BENZOIN",
+      "strength": "20.46",
+      "unit": "MG"
+    },
+    {
+      "name": "METHYL SALICYLATE",
+      "strength": "84.63",
+      "unit": "MG"
+    },
+    {
+      "name": "ISOPROPYL ALCOHOL",
+      "strength": "564.40",
+      "unit": "MG"
+    },
+    {
+      "name": "POTASSIUM IODIDE",
+      "strength": "13.77",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "LIQUID"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "DOMINION VETERINARY LABORATORIES LTD."
+  ],
+  "status": "APPROVED",
+  "atc": []
+}

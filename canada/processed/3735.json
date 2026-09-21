@@ -1,0 +1,27 @@
+{
+  "drug_code": "3735",
+  "din": "00500704",
+  "brand_name": "EPINEPHRINE INJ 1MG/ML",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "09-JUL-2004",
+  "active_ingredients": [
+    {
+      "name": "EPINEPHRINE",
+      "strength": "1",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "INTRAMUSCULAR",
+    "SUBCUTANEOUS"
+  ],
+  "companies": [
+    "DOMINION VETERINARY LABORATORIES LTD."
+  ],
+  "status": "MARKETED",
+  "atc": []
+}

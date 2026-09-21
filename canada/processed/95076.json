@@ -1,0 +1,28 @@
+{
+  "drug_code": "95076",
+  "din": "02462893",
+  "brand_name": "MEROPENEM FOR INJECTION",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "30-OCT-2017",
+  "active_ingredients": [
+    {
+      "name": "MEROPENEM (MEROPENEM TRIHYDRATE)",
+      "strength": "1",
+      "unit": "G"
+    }
+  ],
+  "forms": [
+    "POWDER FOR SOLUTION"
+  ],
+  "routes": [
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "AURO PHARMA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "MEROPENEM"
+  ]
+}

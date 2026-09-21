@@ -1,0 +1,28 @@
+{
+  "drug_code": "77895",
+  "din": "02293595",
+  "brand_name": "READYBATH TPC",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "27-JUL-2015",
+  "active_ingredients": [
+    {
+      "name": "DIMETHICONE",
+      "strength": "3.2",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "WIPE"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "MEDLINE INDUSTRIES INCORPORATED"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "SILICONE PRODUCTS"
+  ]
+}

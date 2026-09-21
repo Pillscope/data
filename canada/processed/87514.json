@@ -1,0 +1,28 @@
+{
+  "drug_code": "87514",
+  "din": "02389649",
+  "brand_name": "INLYTA",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "19-MAR-2014",
+  "active_ingredients": [
+    {
+      "name": "Axitinib",
+      "strength": "5",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "PFIZER CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "AXITINIB"
+  ]
+}

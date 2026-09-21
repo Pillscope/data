@@ -1,0 +1,28 @@
+{
+  "drug_code": "86354",
+  "din": "02377721",
+  "brand_name": "APO-RISEDRONATE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "04-DEC-2013",
+  "active_ingredients": [
+    {
+      "name": "RISEDRONATE SODIUM (RISEDRONATE SODIUM HEMI-PENTAHYDRATE)",
+      "strength": "150",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "APOTEX INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "RISEDRONIC ACID"
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "drug_code": "6850",
+  "din": "00693596",
+  "brand_name": "LIQUI-MED ANALGESIC GAS",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "12-JAN-2010",
+  "active_ingredients": [
+    {
+      "name": "NITROUS OXIDE",
+      "strength": "50",
+      "unit": "%"
+    },
+    {
+      "name": "OXYGEN",
+      "strength": "50",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "GAS"
+  ],
+  "routes": [
+    "INHALATION"
+  ],
+  "companies": [
+    "PRAXAIR CANADA INC"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "NITROUS OXIDE,COMBINATIONS"
+  ]
+}

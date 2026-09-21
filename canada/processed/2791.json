@@ -1,0 +1,26 @@
+{
+  "drug_code": "2791",
+  "din": "00418293",
+  "brand_name": "SELENIUM SULFIDE SHAMPOO",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "26-OCT-2000",
+  "active_ingredients": [
+    {
+      "name": "SELENIUM SULFIDE",
+      "strength": "1",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "SHAMPOO"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "DOMINION VETERINARY LABORATORIES LTD."
+  ],
+  "status": "MARKETED",
+  "atc": []
+}

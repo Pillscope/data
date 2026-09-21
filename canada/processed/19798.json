@@ -1,0 +1,28 @@
+{
+  "drug_code": "19798",
+  "din": "02097168",
+  "brand_name": "RATIO-IPRATROPIUM UDV",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "05-MAY-2015",
+  "active_ingredients": [
+    {
+      "name": "IPRATROPIUM BROMIDE",
+      "strength": "250",
+      "unit": "MCG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "INHALATION"
+  ],
+  "companies": [
+    "TEVA CANADA LIMITED"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "IPRATROPIUM BROMIDE"
+  ]
+}

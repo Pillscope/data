@@ -1,0 +1,46 @@
+{
+  "drug_code": "76196",
+  "din": "02276283",
+  "brand_name": "KWIK STOP",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "03-DEC-2015",
+  "active_ingredients": [
+    {
+      "name": "IRON SUBSULFATE",
+      "strength": "61",
+      "unit": "%"
+    },
+    {
+      "name": "KAOLIN",
+      "strength": "16",
+      "unit": "%"
+    },
+    {
+      "name": "COPPER SULFATE",
+      "strength": "2",
+      "unit": "%"
+    },
+    {
+      "name": "IODOPHOR",
+      "strength": "1",
+      "unit": "%"
+    },
+    {
+      "name": "ALUMINUM AMMONIUM SULFATE DODECAHYDRATE",
+      "strength": "20",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "POWDER"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "MIRACLECORP PRODUCTS"
+  ],
+  "status": "APPROVED",
+  "atc": []
+}

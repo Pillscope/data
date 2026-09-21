@@ -1,0 +1,28 @@
+{
+  "drug_code": "60014",
+  "din": "02236728",
+  "brand_name": "CHILDREN'S ACETAMINOPHEN SUSPENSION",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "23-SEP-2013",
+  "active_ingredients": [
+    {
+      "name": "ACETAMINOPHEN",
+      "strength": "160",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SUSPENSION"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "PERRIGO INTERNATIONAL"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "ACETAMINOPHEN (PARACETAMOL)"
+  ]
+}

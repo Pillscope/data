@@ -1,0 +1,33 @@
+{
+  "drug_code": "92868",
+  "din": "02443902",
+  "brand_name": "MYLAN-EMTRICITABINE/TENOFOVIR DISOPROXIL",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "09-AUG-2017",
+  "active_ingredients": [
+    {
+      "name": "TENOFOVIR DISOPROXIL FUMARATE",
+      "strength": "300",
+      "unit": "MG"
+    },
+    {
+      "name": "EMTRICITABINE",
+      "strength": "200",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "MYLAN PHARMACEUTICALS ULC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "TENOFOVIR DISOPROXIL AND EMTRICITABINE"
+  ]
+}

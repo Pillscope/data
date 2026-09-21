@@ -1,0 +1,28 @@
+{
+  "drug_code": "83237",
+  "din": "02346982",
+  "brand_name": "SANISCRUBZ",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "07-DEC-2010",
+  "active_ingredients": [
+    {
+      "name": "BENZALKONIUM CHLORIDE",
+      "strength": "0.15",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "WIPE"
+  ],
+  "routes": [
+    "TOPICAL (HOUSEHOLD)"
+  ],
+  "companies": [
+    "GERMIPHENE CORPORATION"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "BENZALKONIUM"
+  ]
+}

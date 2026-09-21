@@ -1,0 +1,28 @@
+{
+  "drug_code": "1086",
+  "din": "00023698",
+  "brand_name": "DILANTIN INFATABS",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "29-APR-2015",
+  "active_ingredients": [
+    {
+      "name": "PHENYTOIN",
+      "strength": "50",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "PFIZER CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "PHENYTOIN"
+  ]
+}

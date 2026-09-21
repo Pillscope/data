@@ -1,0 +1,28 @@
+{
+  "drug_code": "9629",
+  "din": "00753688",
+  "brand_name": "PMS-PROCHLORPERAZINE SUPPOSITOIRES 10MG",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "21-AUG-2006",
+  "active_ingredients": [
+    {
+      "name": "PROCHLORPERAZINE",
+      "strength": "10",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SUPPOSITORY"
+  ],
+  "routes": [
+    "RECTAL"
+  ],
+  "companies": [
+    "PHARMASCIENCE INC"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "PROCHLORPERAZINE"
+  ]
+}

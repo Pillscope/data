@@ -1,0 +1,28 @@
+{
+  "drug_code": "80459",
+  "din": "02319128",
+  "brand_name": "TC ANTIBACTERIAL LOTION SOAP",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "29-APR-2015",
+  "active_ingredients": [
+    {
+      "name": "TRICLOSAN",
+      "strength": "0.2",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "LOTION"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "RUBBERMAID COMMERCIAL PRODUCTS LLC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "TRICLOSAN"
+  ]
+}

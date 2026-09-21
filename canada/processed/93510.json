@@ -1,0 +1,28 @@
+{
+  "drug_code": "93510",
+  "din": "02449277",
+  "brand_name": "ASA 81 MG",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "15-JUN-2016",
+  "active_ingredients": [
+    {
+      "name": "ACETYLSALICYLIC ACID",
+      "strength": "81",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET (DELAYED-RELEASE)"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "LABORATOIRES TRIANON INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "ACETYLSALICYLIC ACID"
+  ]
+}

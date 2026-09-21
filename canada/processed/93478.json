@@ -1,0 +1,33 @@
+{
+  "drug_code": "93478",
+  "din": "02448955",
+  "brand_name": "8-SYMPTOM RELIEF",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "03-APR-2017",
+  "active_ingredients": [
+    {
+      "name": "TETRAHYDROZOLINE HYDROCHLORIDE",
+      "strength": "0.05",
+      "unit": "%"
+    },
+    {
+      "name": "ZINC SULFATE",
+      "strength": "0.25",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "OPHTHALMIC"
+  ],
+  "companies": [
+    "TEVA CANADA LIMITED"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "TETRYZOLINE, COMBINATIONS"
+  ]
+}

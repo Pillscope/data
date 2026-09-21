@@ -1,0 +1,28 @@
+{
+  "drug_code": "6340",
+  "din": "00612901",
+  "brand_name": "CYANOCOBALAMIN INJ 5000MCG/ML",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "17-NOV-2000",
+  "active_ingredients": [
+    {
+      "name": "VITAMIN B12",
+      "strength": "5",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "LIQUID"
+  ],
+  "routes": [
+    "INTRAMUSCULAR",
+    "INTRAVENOUS",
+    "SUBCUTANEOUS"
+  ],
+  "companies": [
+    "PROFESSIONAL VETERINARY LABORATORIES"
+  ],
+  "status": "MARKETED",
+  "atc": []
+}

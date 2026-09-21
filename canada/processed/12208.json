@@ -1,0 +1,30 @@
+{
+  "drug_code": "12208",
+  "din": "00874582",
+  "brand_name": "DEXAMETHASONE SOD PHOSPH INJ 10MG/ML USP",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "29-AUG-2017",
+  "active_ingredients": [
+    {
+      "name": "DEXAMETHASONE (DEXAMETHASONE SODIUM PHOSPHATE)",
+      "strength": "10",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "LIQUID"
+  ],
+  "routes": [
+    "INTRAMUSCULAR",
+    "INTRASYNOVIAL",
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "SANDOZ CANADA INCORPORATED"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "DEXAMETHASONE"
+  ]
+}

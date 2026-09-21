@@ -1,0 +1,28 @@
+{
+  "drug_code": "96012",
+  "din": "02471027",
+  "brand_name": "XIIDRA",
+  "class": "Human",
+  "descriptor": "SINGLE-USE CONTAINERS",
+  "last_update": "21-MAR-2018",
+  "active_ingredients": [
+    {
+      "name": "LIFITEGRAST",
+      "strength": "5",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "OPHTHALMIC"
+  ],
+  "companies": [
+    "SHIRE PHARMA CANADA ULC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "LIFITEGRAST"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "drug_code": "74230",
+  "din": "02257084",
+  "brand_name": "FROVA",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "21-JAN-2008",
+  "active_ingredients": [
+    {
+      "name": "FROVATRIPTAN (FROVATRIPTAN SUCCINATE)",
+      "strength": "2.5",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "ENDO PHARMACEUTICALS INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "FROVATRIPTAN"
+  ]
+}

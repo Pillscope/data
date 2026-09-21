@@ -1,0 +1,33 @@
+{
+  "drug_code": "77106",
+  "din": "02285568",
+  "brand_name": "COLGATE TOTAL - ADVANCED HEALTH",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "14-FEB-2011",
+  "active_ingredients": [
+    {
+      "name": "TRICLOSAN",
+      "strength": "0.3",
+      "unit": "%"
+    },
+    {
+      "name": "SODIUM FLUORIDE",
+      "strength": "0.243",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "TOOTHPASTE"
+  ],
+  "routes": [
+    "DENTAL"
+  ],
+  "companies": [
+    "COLGATE-PALMOLIVE CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "SODIUM FLUORIDE, COMBINATIONS"
+  ]
+}

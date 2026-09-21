@@ -1,0 +1,31 @@
+{
+  "drug_code": "12840",
+  "din": "01968327",
+  "brand_name": "COMPONENT E-H IMPLANTS",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "09-APR-2018",
+  "active_ingredients": [
+    {
+      "name": "TESTOSTERONE PROPIONATE",
+      "strength": "200",
+      "unit": "MG"
+    },
+    {
+      "name": "ESTRADIOL BENZOATE",
+      "strength": "20",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "IMPLANT"
+  ],
+  "routes": [
+    "SUBCUTANEOUS"
+  ],
+  "companies": [
+    "ELANCO CANADA LIMITED"
+  ],
+  "status": "APPROVED",
+  "atc": []
+}

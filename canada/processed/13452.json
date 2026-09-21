@@ -1,0 +1,28 @@
+{
+  "drug_code": "13452",
+  "din": "01933531",
+  "brand_name": "ADVIL CAPLETS",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "04-APR-2013",
+  "active_ingredients": [
+    {
+      "name": "IBUPROFEN",
+      "strength": "200",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "PFIZER CONSUMER HEALTHCARE A DIVISION OF PFIZER CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "IBUPROFEN"
+  ]
+}

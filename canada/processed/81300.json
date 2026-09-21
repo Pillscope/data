@@ -1,0 +1,28 @@
+{
+  "drug_code": "81300",
+  "din": "02327619",
+  "brand_name": "ZOLINZA",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "16-MAR-2011",
+  "active_ingredients": [
+    {
+      "name": "VORINOSTAT",
+      "strength": "100",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "CAPSULE"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "MERCK CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "VORINOSTAT"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "drug_code": "90983",
+  "din": "02425173",
+  "brand_name": "AURO-GALANTAMINE ER",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "19-JAN-2016",
+  "active_ingredients": [
+    {
+      "name": "GALANTAMINE (GALANTAMINE HYDROBROMIDE)",
+      "strength": "24",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "CAPSULE (EXTENDED RELEASE)"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "AURO PHARMA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "GALANTAMINE"
+  ]
+}

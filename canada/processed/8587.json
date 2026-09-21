@@ -1,0 +1,28 @@
+{
+  "drug_code": "8587",
+  "din": "00774995",
+  "brand_name": "800 SODIUM BICARBONATE POWDER",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "15-APR-2002",
+  "active_ingredients": [
+    {
+      "name": "SODIUM BICARBONATE",
+      "strength": "650",
+      "unit": "G"
+    }
+  ],
+  "forms": [
+    "POWDER FOR SOLUTION"
+  ],
+  "routes": [
+    "DIALYSIS"
+  ],
+  "companies": [
+    "BAXTER CORPORATION"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "HEMODIALYTICS, CONCENTRATES"
+  ]
+}

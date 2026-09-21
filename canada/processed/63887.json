@@ -1,0 +1,28 @@
+{
+  "drug_code": "63887",
+  "din": "02240346",
+  "brand_name": "TEVA-TERBINAFINE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "29-APR-2015",
+  "active_ingredients": [
+    {
+      "name": "TERBINAFINE (TERBINAFINE HYDROCHLORIDE)",
+      "strength": "250",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "TEVA CANADA LIMITED"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "TERBINAFINE"
+  ]
+}

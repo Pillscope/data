@@ -1,0 +1,34 @@
+{
+  "drug_code": "37164",
+  "din": "02218607",
+  "brand_name": "XYLONOR - AEM ASP",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "01-FEB-2006",
+  "active_ingredients": [
+    {
+      "name": "LIDOCAINE",
+      "strength": "15",
+      "unit": "G"
+    },
+    {
+      "name": "CETRIMIDE",
+      "strength": "150",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "METERED-DOSE AEROSOL",
+    "SPRAY"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "SEPTODONT"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "LIDOCAINE, COMBINATIONS"
+  ]
+}

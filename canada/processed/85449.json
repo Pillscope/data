@@ -1,0 +1,29 @@
+{
+  "drug_code": "85449",
+  "din": "02369567",
+  "brand_name": "DIPHENHYDRAMINE HYDROCHLORIDE INJECTION",
+  "class": "Human",
+  "descriptor": "SINGLE-DOSE VIAL",
+  "last_update": "22-JAN-2016",
+  "active_ingredients": [
+    {
+      "name": "DIPHENHYDRAMINE HYDROCHLORIDE",
+      "strength": "50",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "INTRAMUSCULAR",
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "FRESENIUS KABI CANADA LTD"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "DIPHENHYDRAMINE"
+  ]
+}

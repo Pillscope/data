@@ -1,0 +1,28 @@
+{
+  "drug_code": "1470",
+  "din": "00247855",
+  "brand_name": "FML 0.1%",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "29-NOV-2005",
+  "active_ingredients": [
+    {
+      "name": "FLUOROMETHOLONE",
+      "strength": "0.1",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "DROPS"
+  ],
+  "routes": [
+    "OPHTHALMIC"
+  ],
+  "companies": [
+    "ALLERGAN INC"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "FLUOROMETHOLONE"
+  ]
+}

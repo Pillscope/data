@@ -1,0 +1,28 @@
+{
+  "drug_code": "85506",
+  "din": "02370034",
+  "brand_name": "GEMCITABINE FOR INJECTION",
+  "class": "Human",
+  "descriptor": "SINGLE-USE VIAL",
+  "last_update": "21-SEP-2011",
+  "active_ingredients": [
+    {
+      "name": "GEMCITABINE (GEMCITABINE HYDROCHLORIDE)",
+      "strength": "2",
+      "unit": "G"
+    }
+  ],
+  "forms": [
+    "POWDER FOR SOLUTION"
+  ],
+  "routes": [
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "ACCORD HEALTHCARE INC"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "GEMCITABINE"
+  ]
+}

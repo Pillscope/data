@@ -1,0 +1,28 @@
+{
+  "drug_code": "12221",
+  "din": "01926853",
+  "brand_name": "FLAGYL",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "10-JUL-2017",
+  "active_ingredients": [
+    {
+      "name": "METRONIDAZOLE",
+      "strength": "500",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "CAPSULE"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "ODAN LABORATORIES LTD"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "METRONIDAZOLE"
+  ]
+}

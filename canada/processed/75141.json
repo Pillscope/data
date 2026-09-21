@@ -1,0 +1,28 @@
+{
+  "drug_code": "75141",
+  "din": "02265974",
+  "brand_name": "SEVOFLURANE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "12-JAN-2010",
+  "active_ingredients": [
+    {
+      "name": "SEVOFLURANE",
+      "strength": "99.97",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "LIQUID"
+  ],
+  "routes": [
+    "INHALATION"
+  ],
+  "companies": [
+    "BAXTER CORPORATION"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "SEVOFLURANE"
+  ]
+}

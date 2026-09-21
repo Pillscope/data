@@ -1,0 +1,28 @@
+{
+  "drug_code": "73096",
+  "din": "02248728",
+  "brand_name": "APO-ALENDRONATE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "27-APR-2009",
+  "active_ingredients": [
+    {
+      "name": "ALENDRONIC ACID (ALENDRONATE SODIUM)",
+      "strength": "10",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "APOTEX INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "ALENDRONIC ACID"
+  ]
+}

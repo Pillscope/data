@@ -1,0 +1,28 @@
+{
+  "drug_code": "90042",
+  "din": "02415836",
+  "brand_name": "LEFLUNOMIDE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "15-JAN-2016",
+  "active_ingredients": [
+    {
+      "name": "LEFLUNOMIDE",
+      "strength": "20",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "PRO DOC LIMITEE"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "LEFLUNOMIDE"
+  ]
+}

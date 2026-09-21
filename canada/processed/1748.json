@@ -1,0 +1,28 @@
+{
+  "drug_code": "1748",
+  "din": "00037958",
+  "brand_name": "DEXTROSE INJECTION USP",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "26-FEB-2018",
+  "active_ingredients": [
+    {
+      "name": "DEXTROSE",
+      "strength": "100",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "ICU MEDICAL CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "CARBOHYDRATES"
+  ]
+}

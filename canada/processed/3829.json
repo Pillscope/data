@@ -1,0 +1,39 @@
+{
+  "drug_code": "3829",
+  "din": "00487899",
+  "brand_name": "PINE GUARD DISINFECTANT",
+  "class": "Disinfectant",
+  "descriptor": "",
+  "last_update": "04-OCT-2012",
+  "active_ingredients": [
+    {
+      "name": "CLOROPHENE",
+      "strength": "1.72",
+      "unit": "%"
+    },
+    {
+      "name": "PINE OIL",
+      "strength": "1.87",
+      "unit": "%"
+    },
+    {
+      "name": "ISOPROPYL ALCOHOL",
+      "strength": "5.54",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "LIQUID"
+  ],
+  "routes": [
+    "DISINFECTANT (Food Premises)",
+    "DISINFECTANT (Hospital/HC Facilities)"
+  ],
+  "companies": [
+    "AVMOR LTD"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "TECHNICAL DISINFECTANTS"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "drug_code": "89625",
+  "din": "02411652",
+  "brand_name": "ROSUVASTATIN-40",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "17-SEP-2014",
+  "active_ingredients": [
+    {
+      "name": "ROSUVASTATIN (ROSUVASTATIN CALCIUM)",
+      "strength": "40",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "SIVEM PHARMACEUTICALS ULC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "ROSUVASTATIN"
+  ]
+}

@@ -1,0 +1,123 @@
+{
+  "drug_code": "20282",
+  "din": "02142341",
+  "brand_name": "CLINIMIX E",
+  "class": "Human",
+  "descriptor": "5% AMINO ACIDS (BLEND C) WITH ELECTROLYTES IN 25% DEXTROSE INJECTION",
+  "last_update": "30-JUN-2016",
+  "active_ingredients": [
+    {
+      "name": "LYSINE (L-LYSINE HYDROCHLORIDE)",
+      "strength": "290",
+      "unit": "MG"
+    },
+    {
+      "name": "L-ALANINE",
+      "strength": "1.04",
+      "unit": "G"
+    },
+    {
+      "name": "METHIONINE",
+      "strength": "200",
+      "unit": "MG"
+    },
+    {
+      "name": "TRYPTOPHAN",
+      "strength": "90",
+      "unit": "MG"
+    },
+    {
+      "name": "L-PROLINE",
+      "strength": "340",
+      "unit": "MG"
+    },
+    {
+      "name": "L-ARGININE",
+      "strength": "575",
+      "unit": "MG"
+    },
+    {
+      "name": "L-TYROSINE",
+      "strength": "20",
+      "unit": "MG"
+    },
+    {
+      "name": "L-ISOLEUCINE",
+      "strength": "300",
+      "unit": "MG"
+    },
+    {
+      "name": "L-THREONINE",
+      "strength": "210",
+      "unit": "MG"
+    },
+    {
+      "name": "L-PHENYLALANINE",
+      "strength": "280",
+      "unit": "MG"
+    },
+    {
+      "name": "L-LEUCINE",
+      "strength": "365",
+      "unit": "MG"
+    },
+    {
+      "name": "SERINE",
+      "strength": "250",
+      "unit": "MG"
+    },
+    {
+      "name": "SODIUM CHLORIDE",
+      "strength": "58.5",
+      "unit": "MG"
+    },
+    {
+      "name": "DEXTROSE",
+      "strength": "25",
+      "unit": "G"
+    },
+    {
+      "name": "GLYCINE",
+      "strength": "515",
+      "unit": "MG"
+    },
+    {
+      "name": "HISTIDINE",
+      "strength": "240",
+      "unit": "MG"
+    },
+    {
+      "name": "SODIUM ACETATE",
+      "strength": "340",
+      "unit": "MG"
+    },
+    {
+      "name": "MAGNESIUM CHLORIDE",
+      "strength": "51",
+      "unit": "MG"
+    },
+    {
+      "name": "POTASSIUM PHOSPHATE DIBASIC",
+      "strength": "261",
+      "unit": "MG"
+    },
+    {
+      "name": "L-VALINE",
+      "strength": "290",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "BAXTER CORPORATION"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "COMBINATIONS"
+  ]
+}

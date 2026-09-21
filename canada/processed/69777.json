@@ -1,0 +1,28 @@
+{
+  "drug_code": "69777",
+  "din": "02245677",
+  "brand_name": "ABREVA",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "26-MAR-2013",
+  "active_ingredients": [
+    {
+      "name": "DOCOSANOL",
+      "strength": "10",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "CREAM"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "GLAXOSMITHKLINE CONSUMER HEALTHCARE INC."
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "DOCOSANOL"
+  ]
+}

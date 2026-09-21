@@ -1,0 +1,26 @@
+{
+  "drug_code": "94503",
+  "din": "02458004",
+  "brand_name": "AMPROMED",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "04-APR-2017",
+  "active_ingredients": [
+    {
+      "name": "AMPROLIUM",
+      "strength": "96",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "BIMEDA-MTC ANIMAL HEALTH INC"
+  ],
+  "status": "APPROVED",
+  "atc": []
+}

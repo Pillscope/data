@@ -1,0 +1,33 @@
+{
+  "drug_code": "589",
+  "din": "00001791",
+  "brand_name": "XYLOCAINE 1% W EPINEPHRINE 1:100000",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "17-AUG-2017",
+  "active_ingredients": [
+    {
+      "name": "EPINEPHRINE (EPINEPHRINE BITARTRATE)",
+      "strength": "0.01",
+      "unit": "MG"
+    },
+    {
+      "name": "LIDOCAINE HYDROCHLORIDE",
+      "strength": "10",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "BLOCK/INFILTRATION"
+  ],
+  "companies": [
+    "ASPEN PHARMACARE CANADA INC."
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "LIDOCAINE, COMBINATIONS"
+  ]
+}

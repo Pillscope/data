@@ -1,0 +1,28 @@
+{
+  "drug_code": "22086",
+  "din": "01938088",
+  "brand_name": "ACETAMINOPHEN 325MG TAB",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "04-AUG-2010",
+  "active_ingredients": [
+    {
+      "name": "ACETAMINOPHEN",
+      "strength": "325",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "JAMP PHARMA CORPORATION"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "ACETAMINOPHEN (PARACETAMOL)"
+  ]
+}

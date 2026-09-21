@@ -1,0 +1,29 @@
+{
+  "drug_code": "68839",
+  "din": "02244849",
+  "brand_name": "COLISTIMETHATE FOR INJECTION U.S.P.",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "26-APR-2011",
+  "active_ingredients": [
+    {
+      "name": "COLISTIN (COLISTIMETHATE SODIUM)",
+      "strength": "150",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "POWDER FOR SOLUTION"
+  ],
+  "routes": [
+    "INTRAMUSCULAR",
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "STERIMAX INC"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "COLISTIN"
+  ]
+}

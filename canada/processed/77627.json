@@ -1,0 +1,28 @@
+{
+  "drug_code": "77627",
+  "din": "02290855",
+  "brand_name": "X3 CLEAN GERM ATTACK HAND SANITIZER",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "30-MAY-2017",
+  "active_ingredients": [
+    {
+      "name": "BENZALKONIUM CHLORIDE",
+      "strength": "0.13",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "TOPICAL (HOUSEHOLD)"
+  ],
+  "companies": [
+    "NATURAL ESSENTIALS INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "BENZALKONIUM"
+  ]
+}

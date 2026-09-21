@@ -1,0 +1,28 @@
+{
+  "drug_code": "90614",
+  "din": "02421534",
+  "brand_name": "NAT-ZOLMITRIPTAN",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "13-FEB-2017",
+  "active_ingredients": [
+    {
+      "name": "ZOLMITRIPTAN",
+      "strength": "2.5",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "NATCO PHARMA (CANADA) INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "ZOLMITRIPTAN"
+  ]
+}

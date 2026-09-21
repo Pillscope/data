@@ -1,0 +1,31 @@
+{
+  "drug_code": "87947",
+  "din": "02394324",
+  "brand_name": "AVENTICLAV",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "25-SEP-2013",
+  "active_ingredients": [
+    {
+      "name": "CLAVULANIC ACID (CLAVULANATE POTASSIUM)",
+      "strength": "12.5",
+      "unit": "MG"
+    },
+    {
+      "name": "AMOXICILLIN (AMOXICILLIN TRIHYDRATE)",
+      "strength": "50",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "NORBROOK LABORATORIES LTD."
+  ],
+  "status": "APPROVED",
+  "atc": []
+}

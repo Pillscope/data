@@ -1,0 +1,28 @@
+{
+  "drug_code": "63865",
+  "din": "02240325",
+  "brand_name": "XENICAL",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "29-SEP-2017",
+  "active_ingredients": [
+    {
+      "name": "ORLISTAT",
+      "strength": "120",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "CAPSULE"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "CHEPLAPHARM ARZNEIMITTEL GMBH GERMANY"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "ORLISTAT"
+  ]
+}

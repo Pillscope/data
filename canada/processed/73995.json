@@ -1,0 +1,38 @@
+{
+  "drug_code": "73995",
+  "din": "02254794",
+  "brand_name": "PICO-SALAX",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "23-SEP-2008",
+  "active_ingredients": [
+    {
+      "name": "MAGNESIUM OXIDE",
+      "strength": "3.5",
+      "unit": "G"
+    },
+    {
+      "name": "SODIUM PICOSULFATE",
+      "strength": "10",
+      "unit": "MG"
+    },
+    {
+      "name": "CITRIC ACID",
+      "strength": "12",
+      "unit": "G"
+    }
+  ],
+  "forms": [
+    "POWDER FOR SOLUTION"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "FERRING INC"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "SODIUM PICOSULFATE, COMBINATIONS"
+  ]
+}

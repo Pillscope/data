@@ -1,0 +1,28 @@
+{
+  "drug_code": "89601",
+  "din": "02411393",
+  "brand_name": "ILEVRO",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "13-FEB-2017",
+  "active_ingredients": [
+    {
+      "name": "NEPAFENAC",
+      "strength": "0.3",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "SUSPENSION"
+  ],
+  "routes": [
+    "OPHTHALMIC"
+  ],
+  "companies": [
+    "NOVARTIS PHARMACEUTICALS CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "NEPAFENAC"
+  ]
+}

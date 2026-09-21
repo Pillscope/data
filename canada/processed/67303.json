@@ -1,0 +1,28 @@
+{
+  "drug_code": "67303",
+  "din": "02243395",
+  "brand_name": "ZEP TRANQUIL MEADOWS",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "13-JUL-2012",
+  "active_ingredients": [
+    {
+      "name": "TRICLOSAN",
+      "strength": "0.1",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "LIQUID"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "ZEP MANUFACTURING COMPANY OF CANADA"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "TRICLOSAN"
+  ]
+}

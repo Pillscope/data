@@ -1,0 +1,33 @@
+{
+  "drug_code": "91858",
+  "din": "02434237",
+  "brand_name": "KIRKLAND SIGNATURE DISINFECTING WIPES",
+  "class": "Disinfectant",
+  "descriptor": "",
+  "last_update": "08-DEC-2016",
+  "active_ingredients": [
+    {
+      "name": "BENZALKONIUM CHLORIDE",
+      "strength": "0.14",
+      "unit": "%"
+    },
+    {
+      "name": "ALKYL DIMETHYL ETHYLBENZYL AMMONIUM CHLORIDE",
+      "strength": "0.14",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "WIPE"
+  ],
+  "routes": [
+    "DISINFECTANT (Domestic)"
+  ],
+  "companies": [
+    "NICE-PAK PRODUCTS INC"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "TECHNICAL DISINFECTANTS"
+  ]
+}

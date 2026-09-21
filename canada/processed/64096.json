@@ -1,0 +1,29 @@
+{
+  "drug_code": "64096",
+  "din": "02240526",
+  "brand_name": "DENTI-CARE CHLORHEXIDINE GLUCONATE ORAL RINSE 0.12%",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "02-AUG-2017",
+  "active_ingredients": [
+    {
+      "name": "CHLORHEXIDINE GLUCONATE",
+      "strength": "0.12",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "MOUTHWASH/GARGLE"
+  ],
+  "routes": [
+    "BUCCAL",
+    "ORAL"
+  ],
+  "companies": [
+    "AMD MEDICOM INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "CHLORHEXIDINE"
+  ]
+}

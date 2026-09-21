@@ -1,0 +1,28 @@
+{
+  "drug_code": "86740",
+  "din": "02381559",
+  "brand_name": "ARZERRA",
+  "class": "Human",
+  "descriptor": "SINGLE USE VIALS",
+  "last_update": "25-SEP-2015",
+  "active_ingredients": [
+    {
+      "name": "Ofatumumab",
+      "strength": "100",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "NOVARTIS PHARMACEUTICALS CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "OFATUMUMAB"
+  ]
+}

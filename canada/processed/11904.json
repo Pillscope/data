@@ -1,0 +1,28 @@
+{
+  "drug_code": "11904",
+  "din": "00851256",
+  "brand_name": "DECONGESTANT NOSE DROPS 0.1%",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "15-AUG-2011",
+  "active_ingredients": [
+    {
+      "name": "XYLOMETAZOLINE HYDROCHLORIDE",
+      "strength": "0.1",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "DROPS"
+  ],
+  "routes": [
+    "NASAL"
+  ],
+  "companies": [
+    "LABORATOIRES CONFAB INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "XYLOMETAZOLINE"
+  ]
+}

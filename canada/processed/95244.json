@@ -1,0 +1,28 @@
+{
+  "drug_code": "95244",
+  "din": "02464284",
+  "brand_name": "ADLYXINE",
+  "class": "Human",
+  "descriptor": "PRE-FILLED PEN",
+  "last_update": "16-OCT-2017",
+  "active_ingredients": [
+    {
+      "name": "LIXISENATIDE",
+      "strength": "0.1",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "SUBCUTANEOUS"
+  ],
+  "companies": [
+    "SANOFI-AVENTIS CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "LIXISENATIDE"
+  ]
+}

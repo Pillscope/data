@@ -1,0 +1,28 @@
+{
+  "drug_code": "10664",
+  "din": "00812404",
+  "brand_name": "APO-TAMOX TAB 10MG",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "21-JUN-2007",
+  "active_ingredients": [
+    {
+      "name": "TAMOXIFEN (TAMOXIFEN CITRATE)",
+      "strength": "10",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "APOTEX INC"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "TAMOXIFEN"
+  ]
+}

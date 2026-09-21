@@ -1,0 +1,28 @@
+{
+  "drug_code": "84310",
+  "din": "02358034",
+  "brand_name": "PEG 3350",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "30-MAR-2012",
+  "active_ingredients": [
+    {
+      "name": "POLYETHYLENE GLYCOL 3350",
+      "strength": "100",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "POWDER FOR SOLUTION"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "MEDISCA PHARMACEUTIQUE INC"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "MACROGOL"
+  ]
+}

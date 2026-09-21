@@ -1,0 +1,28 @@
+{
+  "drug_code": "92302",
+  "din": "02438658",
+  "brand_name": "MYLAN-GLICLAZIDE MR",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "23-OCT-2015",
+  "active_ingredients": [
+    {
+      "name": "GLICLAZIDE",
+      "strength": "30",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET (EXTENDED-RELEASE)"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "MYLAN PHARMACEUTICALS ULC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "GLICLAZIDE"
+  ]
+}

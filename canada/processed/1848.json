@@ -1,0 +1,28 @@
+{
+  "drug_code": "1848",
+  "din": "00262005",
+  "brand_name": "SODIUM CHLORIDE INJECTION USP",
+  "class": "Human",
+  "descriptor": "SINGLE DOSE VIAL",
+  "last_update": "30-AUG-2017",
+  "active_ingredients": [
+    {
+      "name": "SODIUM CHLORIDE",
+      "strength": "146",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "PFIZER CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "SODIUM CHLORIDE"
+  ]
+}

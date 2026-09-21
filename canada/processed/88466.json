@@ -1,0 +1,28 @@
+{
+  "drug_code": "88466",
+  "din": "02399814",
+  "brand_name": "TEVA-IMATINIB",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "28-MAY-2013",
+  "active_ingredients": [
+    {
+      "name": "IMATINIB (IMATINIB MESYLATE)",
+      "strength": "400",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "TEVA CANADA LIMITED"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "IMATINIB"
+  ]
+}

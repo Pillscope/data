@@ -1,0 +1,28 @@
+{
+  "drug_code": "86404",
+  "din": "02378213",
+  "brand_name": "ZINDA-LETROZOLE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "05-JAN-2015",
+  "active_ingredients": [
+    {
+      "name": "LETROZOLE",
+      "strength": "2.5",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "STASON PHARMACEUTICALS INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "LETROZOLE"
+  ]
+}

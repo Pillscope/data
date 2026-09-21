@@ -1,0 +1,28 @@
+{
+  "drug_code": "83912",
+  "din": "02353903",
+  "brand_name": "FEIBA NF",
+  "class": "Human",
+  "descriptor": "1750 TO 3250 UNITS/VIAL & 50 ML DILUENT",
+  "last_update": "26-APR-2018",
+  "active_ingredients": [
+    {
+      "name": "ANTI-INHIBITOR COAGULANT COMPLEX",
+      "strength": "3250",
+      "unit": "UNIT"
+    }
+  ],
+  "forms": [
+    "POWDER FOR SOLUTION"
+  ],
+  "routes": [
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "SHIRE PHARMA CANADA ULC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "FACTOR VIII INHIBITOR BYPASSING ACTIVITY"
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "drug_code": "91789",
+  "din": "02433524",
+  "brand_name": "CAPTURE TOTALE MULTI-PERFECTION MAKEUP BASE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "30-JAN-2017",
+  "active_ingredients": [
+    {
+      "name": "TITANIUM DIOXIDE",
+      "strength": "3.84",
+      "unit": "%"
+    },
+    {
+      "name": "OCTINOXATE",
+      "strength": "7.49",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "CREAM"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "PARFUMS CHRISTIAN DIOR"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "COMBINATIONS OF PROTECTIVES AGAINST UV-RADIATION"
+  ]
+}

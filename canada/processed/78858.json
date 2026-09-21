@@ -1,0 +1,28 @@
+{
+  "drug_code": "78858",
+  "din": "02303256",
+  "brand_name": "RIVA-CITALOPRAM",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "14-FEB-2008",
+  "active_ingredients": [
+    {
+      "name": "CITALOPRAM (CITALOPRAM HYDROBROMIDE)",
+      "strength": "10",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "LABORATOIRE RIVA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "CITALOPRAM"
+  ]
+}

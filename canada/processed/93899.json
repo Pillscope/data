@@ -1,0 +1,28 @@
+{
+  "drug_code": "93899",
+  "din": "02452634",
+  "brand_name": "MYLAN-TENOFOVIR DISOPROXIL",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "09-AUG-2017",
+  "active_ingredients": [
+    {
+      "name": "TENOFOVIR DISOPROXIL FUMARATE",
+      "strength": "300",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "MYLAN PHARMACEUTICALS ULC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "TENOFOVIR DISOPROXIL"
+  ]
+}

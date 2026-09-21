@@ -1,0 +1,28 @@
+{
+  "drug_code": "75311",
+  "din": "02267691",
+  "brand_name": "MEDI-WHITE PETROLEUM JELLY",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "04-JUN-2015",
+  "active_ingredients": [
+    {
+      "name": "WHITE PETROLATUM",
+      "strength": "100",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "GEL"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "MEDISCA PHARMACEUTIQUE INC"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "SOFT PARAFFIN AND FAT PRODUCTS"
+  ]
+}

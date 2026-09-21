@@ -1,0 +1,28 @@
+{
+  "drug_code": "86342",
+  "din": "02377616",
+  "brand_name": "APO-MONTELUKAST",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "20-FEB-2013",
+  "active_ingredients": [
+    {
+      "name": "MONTELUKAST (MONTELUKAST SODIUM)",
+      "strength": "5",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET (CHEWABLE)"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "APOTEX INC"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "MONTELUKAST"
+  ]
+}

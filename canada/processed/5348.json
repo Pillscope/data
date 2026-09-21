@@ -1,0 +1,51 @@
+{
+  "drug_code": "5348",
+  "din": "00598321",
+  "brand_name": "CO-OP LANOLIN UDDER OINTMENT",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "16-SEP-2005",
+  "active_ingredients": [
+    {
+      "name": "PHENOL",
+      "strength": "2",
+      "unit": "%"
+    },
+    {
+      "name": "LANOLIN",
+      "strength": "5",
+      "unit": "%"
+    },
+    {
+      "name": "OIL OF TURPENTINE",
+      "strength": "3",
+      "unit": "%"
+    },
+    {
+      "name": "EUCALYPTUS OIL",
+      "strength": ".25",
+      "unit": "%"
+    },
+    {
+      "name": "METHYL SALICYLATE",
+      "strength": "2",
+      "unit": "%"
+    },
+    {
+      "name": "ALLANTOIN",
+      "strength": ".5",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "OINTMENT"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "INTERPROVINCIAL CO-OP LTD"
+  ],
+  "status": "MARKETED",
+  "atc": []
+}

@@ -1,0 +1,28 @@
+{
+  "drug_code": "63472",
+  "din": "02239967",
+  "brand_name": "ANALGESIC CREAM EXTRA STRENGTH ODORLESS",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "20-MAY-2014",
+  "active_ingredients": [
+    {
+      "name": "TROLAMINE SALICYLATE",
+      "strength": "15",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "CREAM"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "PHARMASCIENCE INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "PREPARATIONS WITH SALICYLIC ACID DERIVATIVES"
+  ]
+}

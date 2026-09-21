@@ -1,0 +1,33 @@
+{
+  "drug_code": "16773",
+  "din": "01914227",
+  "brand_name": "DUAL QUAT LIQ",
+  "class": "Disinfectant",
+  "descriptor": "",
+  "last_update": "13-JUN-2006",
+  "active_ingredients": [
+    {
+      "name": "BENZALKONIUM CHLORIDE",
+      "strength": "2.5",
+      "unit": "%"
+    },
+    {
+      "name": "ALKYL DIMETHYL ETHYLBENZYL AMMONIUM CHLORIDE",
+      "strength": "2.5",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "LIQUID"
+  ],
+  "routes": [
+    "DISINFECTANT (Food Premises)"
+  ],
+  "companies": [
+    "EASY WAY CLEANING PRODUCTS LIMITED"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "TECHNICAL DISINFECTANTS"
+  ]
+}

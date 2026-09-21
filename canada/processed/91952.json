@@ -1,0 +1,29 @@
+{
+  "drug_code": "91952",
+  "din": "02435241",
+  "brand_name": "DIMENHYDRINATE INJECTION USP WITH PRESERVATIVE",
+  "class": "Human",
+  "descriptor": "MUST BE DILUTED FOR I.V. USE. 5ML MULTIDOSE VIALS.",
+  "last_update": "27-OCT-2016",
+  "active_ingredients": [
+    {
+      "name": "DIMENHYDRINATE",
+      "strength": "50",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "INTRAMUSCULAR",
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "TELIGENT OU"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "DIPHENHYDRAMINE"
+  ]
+}

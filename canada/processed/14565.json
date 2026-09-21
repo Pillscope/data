@@ -1,0 +1,28 @@
+{
+  "drug_code": "14565",
+  "din": "01950541",
+  "brand_name": "RHINARIS-CS ANTI-ALLERGIC NASAL MIST",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "05-MAY-2015",
+  "active_ingredients": [
+    {
+      "name": "CROMOLYN SODIUM",
+      "strength": "2",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "SPRAY, METERED DOSE"
+  ],
+  "routes": [
+    "NASAL"
+  ],
+  "companies": [
+    "PENDOPHARM DIVISION OF DE PHARMASCIENCE INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "CROMOGLICIC ACID"
+  ]
+}

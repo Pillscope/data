@@ -1,0 +1,28 @@
+{
+  "drug_code": "84835",
+  "din": "02363356",
+  "brand_name": "EMEND IV",
+  "class": "Human",
+  "descriptor": "SINGLE-DOSE VIAL",
+  "last_update": "13-JUL-2016",
+  "active_ingredients": [
+    {
+      "name": "FOSAPREPITANT (FOSAPREPITANT DIMEGLUMINE)",
+      "strength": "150",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "POWDER FOR SOLUTION"
+  ],
+  "routes": [
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "MERCK CANADA INC"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "OTHER ANTIEMETICS"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "drug_code": "90112",
+  "din": "02416522",
+  "brand_name": "OLANZAPINE FOR INJECTION",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "29-NOV-2017",
+  "active_ingredients": [
+    {
+      "name": "OLANZAPINE (OLANZAPINE TARTRATE)",
+      "strength": "10",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "POWDER FOR SOLUTION"
+  ],
+  "routes": [
+    "INTRAMUSCULAR"
+  ],
+  "companies": [
+    "SANDOZ CANADA INCORPORATED"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "OLANZAPINE"
+  ]
+}

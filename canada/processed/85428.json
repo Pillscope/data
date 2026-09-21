@@ -1,0 +1,28 @@
+{
+  "drug_code": "85428",
+  "din": "02369362",
+  "brand_name": "ACUVAIL",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "04-DEC-2013",
+  "active_ingredients": [
+    {
+      "name": "KETOROLAC TROMETHAMINE",
+      "strength": "0.45",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "OPHTHALMIC"
+  ],
+  "companies": [
+    "ALLERGAN INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "KETOROLAC"
+  ]
+}

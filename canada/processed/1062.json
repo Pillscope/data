@@ -1,0 +1,33 @@
+{
+  "drug_code": "1062",
+  "din": "00070254",
+  "brand_name": "CORA CAINE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "10-MAY-2016",
+  "active_ingredients": [
+    {
+      "name": "BENZOCAINE",
+      "strength": "23",
+      "unit": "%"
+    },
+    {
+      "name": "METHYL HEPTYL COLAMINO FORMYLMETHYL PYRIDINIUM CHL",
+      "strength": ".1",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "PASTE"
+  ],
+  "routes": [
+    "DENTAL"
+  ],
+  "companies": [
+    "CORALITE DENTAL PRODUCTS"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "VARIOUS"
+  ]
+}

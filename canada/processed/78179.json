@@ -1,0 +1,28 @@
+{
+  "drug_code": "78179",
+  "din": "02296462",
+  "brand_name": "ADVAGRAF",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "03-APR-2012",
+  "active_ingredients": [
+    {
+      "name": "TACROLIMUS",
+      "strength": "0.5",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "CAPSULE (EXTENDED RELEASE)"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "ASTELLAS PHARMA CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "TACROLIMUS"
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "drug_code": "66081",
+  "din": "02242370",
+  "brand_name": "SOOTHE DRY EYES",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "29-OCT-2015",
+  "active_ingredients": [
+    {
+      "name": "GLYCERINE",
+      "strength": "0.3",
+      "unit": "%"
+    },
+    {
+      "name": "PROPYLENE GLYCOL",
+      "strength": "1.0",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "OPHTHALMIC"
+  ],
+  "companies": [
+    "BAUSCH & LOMB INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "ARTIFICIAL TEARS AND OTHER INDIFFERENT PREPARATIONS."
+  ]
+}

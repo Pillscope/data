@@ -1,0 +1,28 @@
+{
+  "drug_code": "63305",
+  "din": "02239818",
+  "brand_name": "FLUOXETINE CAPSULES",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "29-MAR-2006",
+  "active_ingredients": [
+    {
+      "name": "FLUOXETINE (FLUOXETINE HYDROCHLORIDE)",
+      "strength": "20",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "CAPSULE"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "PHARMASCIENCE INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "FLUOXETINE"
+  ]
+}

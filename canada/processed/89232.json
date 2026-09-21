@@ -1,0 +1,28 @@
+{
+  "drug_code": "89232",
+  "din": "02407590",
+  "brand_name": "APO-TETRABENAZINE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "01-NOV-2013",
+  "active_ingredients": [
+    {
+      "name": "TETRABENAZINE",
+      "strength": "25",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "APOTEX INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "TETRABENAZINE"
+  ]
+}

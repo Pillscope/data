@@ -1,0 +1,26 @@
+{
+  "drug_code": "48214",
+  "din": "02229857",
+  "brand_name": "PHENYLBUTAZONE INJECTION",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "29-APR-2015",
+  "active_ingredients": [
+    {
+      "name": "PHENYLBUTAZONE",
+      "strength": "200",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "MAX PHARMA CANADA INC."
+  ],
+  "status": "APPROVED",
+  "atc": []
+}

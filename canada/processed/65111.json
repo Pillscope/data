@@ -1,0 +1,28 @@
+{
+  "drug_code": "65111",
+  "din": "02241472",
+  "brand_name": "TAMIFLU CAPSULE 75MG",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "30-SEP-2010",
+  "active_ingredients": [
+    {
+      "name": "OSELTAMIVIR (OSELTAMIVIR PHOSPHATE)",
+      "strength": "75",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "CAPSULE"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "HOFFMANN-LA ROCHE LIMITED"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "OSELTAMIVIR"
+  ]
+}

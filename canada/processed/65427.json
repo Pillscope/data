@@ -1,0 +1,38 @@
+{
+  "drug_code": "65427",
+  "din": "02241764",
+  "brand_name": "SPF 30 KIDS CREAM SUNSCREEN",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "07-AUG-2004",
+  "active_ingredients": [
+    {
+      "name": "TITANIUM DIOXIDE",
+      "strength": "4",
+      "unit": "%"
+    },
+    {
+      "name": "OXYBENZONE",
+      "strength": "6",
+      "unit": "%"
+    },
+    {
+      "name": "OCTINOXATE",
+      "strength": "7.5",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "CREAM"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "KINESYS PHARMACEUTICAL INC"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "COMBINATIONS OF PROTECTIVES AGAINST UV-RADIATION"
+  ]
+}

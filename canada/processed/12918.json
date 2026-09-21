@@ -1,0 +1,26 @@
+{
+  "drug_code": "12918",
+  "din": "00813540",
+  "brand_name": "ANTIROBE",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "23-NOV-2015",
+  "active_ingredients": [
+    {
+      "name": "CLINDAMYCIN (CLINDAMYCIN HYDROCHLORIDE)",
+      "strength": "75",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "CAPSULE"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "ZOETIS CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": []
+}

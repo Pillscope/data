@@ -1,0 +1,28 @@
+{
+  "drug_code": "80586",
+  "din": "02320444",
+  "brand_name": "M-EDIAT",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "07-MAR-2018",
+  "active_ingredients": [
+    {
+      "name": "MORPHINE SULFATE",
+      "strength": "30",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "CAPSULE (IMMEDIATE RELEASE)"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "ETHYPHARM INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "MORPHINE"
+  ]
+}

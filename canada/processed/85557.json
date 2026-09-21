@@ -1,0 +1,28 @@
+{
+  "drug_code": "85557",
+  "din": "02370417",
+  "brand_name": "ACTONEL DR",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "08-AUG-2017",
+  "active_ingredients": [
+    {
+      "name": "RISEDRONATE SODIUM (RISEDRONATE SODIUM HEMI-PENTAHYDRATE)",
+      "strength": "35",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET (DELAYED-RELEASE)"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "ALLERGAN PHARMA CO."
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "RISEDRONIC ACID"
+  ]
+}

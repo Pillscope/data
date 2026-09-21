@@ -1,0 +1,29 @@
+{
+  "drug_code": "10666",
+  "din": "00851752",
+  "brand_name": "PULMICORT TURBUHALER 200 MCG/DOSE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "12-AUG-2008",
+  "active_ingredients": [
+    {
+      "name": "BUDESONIDE",
+      "strength": "200",
+      "unit": "MCG"
+    }
+  ],
+  "forms": [
+    "METERED-DOSE AEROSOL",
+    "POWDER"
+  ],
+  "routes": [
+    "INHALATION"
+  ],
+  "companies": [
+    "ASTRAZENECA CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "BUDESONIDE"
+  ]
+}

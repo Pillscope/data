@@ -1,0 +1,39 @@
+{
+  "drug_code": "12288",
+  "din": "01945483",
+  "brand_name": "GERMIST",
+  "class": "Disinfectant",
+  "descriptor": "",
+  "last_update": "29-APR-2015",
+  "active_ingredients": [
+    {
+      "name": "ALCOHOL ANHYDROUS",
+      "strength": "53.72",
+      "unit": "%"
+    },
+    {
+      "name": "P-TERT-PENTYLPHENOL",
+      "strength": "0.03",
+      "unit": "%"
+    },
+    {
+      "name": "O-PHENYLPHENOL",
+      "strength": "0.10",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "AEROSOL"
+  ],
+  "routes": [
+    "DISINFECTANT (Food Premises)",
+    "DISINFECTANT (Hospital/HC Facilities)"
+  ],
+  "companies": [
+    "MEGA-LAB MANUFACTURING CO LTD"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "TECHNICAL DISINFECTANTS"
+  ]
+}

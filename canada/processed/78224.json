@@ -1,0 +1,28 @@
+{
+  "drug_code": "78224",
+  "din": "02296896",
+  "brand_name": "CIALIS",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "12-AUG-2008",
+  "active_ingredients": [
+    {
+      "name": "TADALAFIL",
+      "strength": "5.0",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "ELI LILLY CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "TADALAFIL"
+  ]
+}

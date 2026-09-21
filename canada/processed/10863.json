@@ -1,0 +1,48 @@
+{
+  "drug_code": "10863",
+  "din": "00865095",
+  "brand_name": "DIANEAL PD4 CAPD SOLUTION WITH 1.5% DEXTROSE AND 2.5MEQ/L CALCIUM",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "28-MAY-2009",
+  "active_ingredients": [
+    {
+      "name": "SODIUM CHLORIDE",
+      "strength": "538",
+      "unit": "MG"
+    },
+    {
+      "name": "DEXTROSE",
+      "strength": "1.5",
+      "unit": "G"
+    },
+    {
+      "name": "CALCIUM CHLORIDE",
+      "strength": "18.3",
+      "unit": "MG"
+    },
+    {
+      "name": "MAGNESIUM CHLORIDE",
+      "strength": "5.08",
+      "unit": "MG"
+    },
+    {
+      "name": "SODIUM LACTATE",
+      "strength": "448",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "DIALYSIS"
+  ],
+  "companies": [
+    "BAXTER CORPORATION"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "HEMODIALYTICS, CONCENTRATES"
+  ]
+}

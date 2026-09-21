@@ -1,0 +1,28 @@
+{
+  "drug_code": "71124",
+  "din": "02246897",
+  "brand_name": "PMS-LAMOTRIGINE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "03-APR-2006",
+  "active_ingredients": [
+    {
+      "name": "LAMOTRIGINE",
+      "strength": "25",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "PHARMASCIENCE INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "LAMOTRIGINE"
+  ]
+}

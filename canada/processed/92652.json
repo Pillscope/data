@@ -1,0 +1,28 @@
+{
+  "drug_code": "92652",
+  "din": "02442167",
+  "brand_name": "MOVANTIK",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "24-JUL-2017",
+  "active_ingredients": [
+    {
+      "name": "Naloxegol (Naloxegol oxalate)",
+      "strength": "12.5",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "KNIGHT THERAPEUTICS INC."
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "NALOXEGOL"
+  ]
+}

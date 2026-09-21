@@ -1,0 +1,28 @@
+{
+  "drug_code": "77851",
+  "din": "02293137",
+  "brand_name": "SPRYCEL",
+  "class": "Human",
+  "descriptor": "FILM-COATED",
+  "last_update": "13-DEC-2010",
+  "active_ingredients": [
+    {
+      "name": "DASATINIB (DASATINIB MONOHYDRATE)",
+      "strength": "50",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "BRISTOL-MYERS SQUIBB CANADA"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "DASATINIB"
+  ]
+}

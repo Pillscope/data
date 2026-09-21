@@ -1,0 +1,33 @@
+{
+  "drug_code": "87369",
+  "din": "02388146",
+  "brand_name": "ESME 28",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "13-SEP-2017",
+  "active_ingredients": [
+    {
+      "name": "LEVONORGESTREL",
+      "strength": "100",
+      "unit": "MCG"
+    },
+    {
+      "name": "ETHINYL ESTRADIOL",
+      "strength": "20",
+      "unit": "MCG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "MYLAN PHARMACEUTICALS ULC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "LEVONORGESTREL AND ESTROGEN"
+  ]
+}

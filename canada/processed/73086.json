@@ -1,0 +1,28 @@
+{
+  "drug_code": "73086",
+  "din": "02248722",
+  "brand_name": "ACULAR LS",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "06-AUG-2008",
+  "active_ingredients": [
+    {
+      "name": "KETOROLAC TROMETHAMINE",
+      "strength": "0.4",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "OPHTHALMIC"
+  ],
+  "companies": [
+    "ALLERGAN INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "KETOROLAC"
+  ]
+}

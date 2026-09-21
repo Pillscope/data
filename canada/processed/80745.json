@@ -1,0 +1,26 @@
+{
+  "drug_code": "80745",
+  "din": "02322048",
+  "brand_name": "VETORYL 60 MG",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "22-MAY-2012",
+  "active_ingredients": [
+    {
+      "name": "TRILOSTANE",
+      "strength": "60",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "CAPSULE"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "DECHRA LTD"
+  ],
+  "status": "APPROVED",
+  "atc": []
+}

@@ -1,0 +1,27 @@
+{
+  "drug_code": "3774",
+  "din": "00504793",
+  "brand_name": "BARN STORM IODINE CLEANER SANITIZER",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "13-JUL-2011",
+  "active_ingredients": [
+    {
+      "name": "NONYL PHENOXYPOLY ETHOXY ETHANOL-IODINE",
+      "strength": "12.4",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "LIQUID"
+  ],
+  "routes": [
+    "DISINFECTANT (Barn)",
+    "TOPICAL"
+  ],
+  "companies": [
+    "OSTREM CHEMICAL CO LTD."
+  ],
+  "status": "MARKETED",
+  "atc": []
+}

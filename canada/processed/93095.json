@@ -1,0 +1,28 @@
+{
+  "drug_code": "93095",
+  "din": "02445670",
+  "brand_name": "AURO-CELECOXIB",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "13-MAY-2016",
+  "active_ingredients": [
+    {
+      "name": "CELECOXIB",
+      "strength": "100",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "CAPSULE"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "AURO PHARMA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "CELECOXIB"
+  ]
+}

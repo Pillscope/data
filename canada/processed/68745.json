@@ -1,0 +1,28 @@
+{
+  "drug_code": "68745",
+  "din": "02244756",
+  "brand_name": "BIAXIN XL",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "08-MAR-2018",
+  "active_ingredients": [
+    {
+      "name": "CLARITHROMYCIN",
+      "strength": "500",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET (EXTENDED-RELEASE)"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "BGP PHARMA ULC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "CLARITHROMYCIN"
+  ]
+}

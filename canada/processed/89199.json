@@ -1,0 +1,28 @@
+{
+  "drug_code": "89199",
+  "din": "02407280",
+  "brand_name": "AURO-ATORVASTATIN",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "18-APR-2018",
+  "active_ingredients": [
+    {
+      "name": "ATORVASTATIN (ATORVASTATIN CALCIUM)",
+      "strength": "80",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "AURO PHARMA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "ATORVASTATIN"
+  ]
+}

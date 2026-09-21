@@ -1,0 +1,28 @@
+{
+  "drug_code": "67615",
+  "din": "02243685",
+  "brand_name": "ZYVOXAM 2 MG/ML",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "23-FEB-2006",
+  "active_ingredients": [
+    {
+      "name": "LINEZOLID",
+      "strength": "2",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "PFIZER CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "LINEZOLID"
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "drug_code": "51346",
+  "din": "02231893",
+  "brand_name": "METHYLPREDNISOLONE SODIUM SUCCINATE FOR INJECTION",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "05-MAY-2015",
+  "active_ingredients": [
+    {
+      "name": "METHYLPREDNISOLONE (METHYLPREDNISOLONE SODIUM SUCCINATE)",
+      "strength": "40",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "POWDER FOR SOLUTION"
+  ],
+  "routes": [
+    "INTRAMUSCULAR",
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "TEVA CANADA LIMITED"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "METHYLPREDNISOLONE"
+  ]
+}

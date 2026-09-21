@@ -1,0 +1,27 @@
+{
+  "drug_code": "76042",
+  "din": "02274892",
+  "brand_name": "OXYMYCINE LA 300",
+  "class": "Veterinary",
+  "descriptor": "CATTLE & SWINE: I.M.; CATTLE ONLY: S.C.",
+  "last_update": "11-DEC-2017",
+  "active_ingredients": [
+    {
+      "name": "OXYTETRACYCLINE (OXYTETRACYCLINE DIHYDRATE)",
+      "strength": "300",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "INTRAMUSCULAR",
+    "SUBCUTANEOUS"
+  ],
+  "companies": [
+    "ZOETIS CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": []
+}

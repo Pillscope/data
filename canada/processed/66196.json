@@ -1,0 +1,28 @@
+{
+  "drug_code": "66196",
+  "din": "02242470",
+  "brand_name": "CORVERT",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "07-NOV-2017",
+  "active_ingredients": [
+    {
+      "name": "IBUTILIDE FUMARATE",
+      "strength": "0.1",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "PFIZER CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "IBUTILIDE"
+  ]
+}

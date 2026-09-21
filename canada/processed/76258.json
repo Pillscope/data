@@ -1,0 +1,28 @@
+{
+  "drug_code": "76258",
+  "din": "02276917",
+  "brand_name": "QUICK CLEAN",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "05-SEP-2017",
+  "active_ingredients": [
+    {
+      "name": "CHLOROXYLENOL",
+      "strength": "1",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "GEL"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "SPRAKITA PRODUCTS INC"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "CHLOROXYLENOL"
+  ]
+}

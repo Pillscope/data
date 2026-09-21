@@ -1,0 +1,28 @@
+{
+  "drug_code": "87974",
+  "din": "02394596",
+  "brand_name": "METHADOSE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "20-FEB-2013",
+  "active_ingredients": [
+    {
+      "name": "METHADONE HYDROCHLORIDE",
+      "strength": "10",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "MALLINCKRODT CANADA ULC"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "METHADONE"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "drug_code": "61553",
+  "din": "02238162",
+  "brand_name": "DIASTAT",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "02-MAR-2018",
+  "active_ingredients": [
+    {
+      "name": "DIAZEPAM",
+      "strength": "5",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "GEL"
+  ],
+  "routes": [
+    "RECTAL"
+  ],
+  "companies": [
+    "VALEANT PHARMACEUTICALS NORTH AMERICA LLC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "DIAZEPAM"
+  ]
+}

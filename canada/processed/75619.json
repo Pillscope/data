@@ -1,0 +1,28 @@
+{
+  "drug_code": "75619",
+  "din": "02270846",
+  "brand_name": "INOMAX",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "24-JAN-2012",
+  "active_ingredients": [
+    {
+      "name": "NITRIC OXIDE",
+      "strength": "800",
+      "unit": "PPM"
+    }
+  ],
+  "forms": [
+    "GAS"
+  ],
+  "routes": [
+    "INHALATION"
+  ],
+  "companies": [
+    "INO THERAPEUTICS"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "NITRIC OXIDE"
+  ]
+}

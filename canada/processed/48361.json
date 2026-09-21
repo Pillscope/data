@@ -1,0 +1,38 @@
+{
+  "drug_code": "48361",
+  "din": "00176141",
+  "brand_name": "BELLERGAL SPACETABS",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "02-OCT-2015",
+  "active_ingredients": [
+    {
+      "name": "PHENOBARBITAL",
+      "strength": "40.0",
+      "unit": "MG"
+    },
+    {
+      "name": "BELLADONNA",
+      "strength": "0.2",
+      "unit": "MG"
+    },
+    {
+      "name": "ERGOTAMINE TARTRATE",
+      "strength": "0.6",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET (EXTENDED-RELEASE)"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "PALADIN LABS INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "ANTISPASMODICS IN COMBINATION WITH OTHER DRUGS"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "drug_code": "60853",
+  "din": "02237518",
+  "brand_name": "ISOFLURANE USP",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "05-MAY-2015",
+  "active_ingredients": [
+    {
+      "name": "ISOFLURANE",
+      "strength": "99.9",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "LIQUID"
+  ],
+  "routes": [
+    "INHALATION"
+  ],
+  "companies": [
+    "FRESENIUS KABI CANADA LTD"
+  ],
+  "status": "APPROVED",
+  "atc": []
+}

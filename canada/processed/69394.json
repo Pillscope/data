@@ -1,0 +1,33 @@
+{
+  "drug_code": "69394",
+  "din": "02245355",
+  "brand_name": "BOBBI BROWN NUDE FINISH TINTED MOISTURIZER SPF 15",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "16-DEC-2016",
+  "active_ingredients": [
+    {
+      "name": "TITANIUM DIOXIDE",
+      "strength": "3",
+      "unit": "%"
+    },
+    {
+      "name": "OCTINOXATE",
+      "strength": "7.5",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "CREAM"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "BOBBI BROWN PROFESSIONAL COSMETICS DIST"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "COMBINATIONS OF PROTECTIVES AGAINST UV-RADIATION"
+  ]
+}

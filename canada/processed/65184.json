@@ -1,0 +1,28 @@
+{
+  "drug_code": "65184",
+  "din": "02241532",
+  "brand_name": "ANTI-NAUSEANT",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "07-NOV-2013",
+  "active_ingredients": [
+    {
+      "name": "DIMENHYDRINATE",
+      "strength": "50",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "VITA HEALTH PRODUCTS INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "DIPHENHYDRAMINE"
+  ]
+}

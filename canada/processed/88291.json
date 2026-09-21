@@ -1,0 +1,33 @@
+{
+  "drug_code": "88291",
+  "din": "02397951",
+  "brand_name": "DIORSKIN FOREVER TEINT HAUTE PERFECTION TENUE FUSIONNELLE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "15-SEP-2014",
+  "active_ingredients": [
+    {
+      "name": "TITANIUM DIOXIDE",
+      "strength": "2.37",
+      "unit": "%"
+    },
+    {
+      "name": "OCTINOXATE",
+      "strength": "4.00",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "EMULSION"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "PARFUMS CHRISTIAN DIOR"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "COMBINATIONS OF PROTECTIVES AGAINST UV-RADIATION"
+  ]
+}

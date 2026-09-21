@@ -1,0 +1,28 @@
+{
+  "drug_code": "18071",
+  "din": "02132591",
+  "brand_name": "TEVA-LOPERAMIDE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "28-DEC-2016",
+  "active_ingredients": [
+    {
+      "name": "LOPERAMIDE HYDROCHLORIDE",
+      "strength": "2",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "TEVA CANADA LIMITED"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "LOPERAMIDE"
+  ]
+}

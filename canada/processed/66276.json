@@ -1,0 +1,43 @@
+{
+  "drug_code": "66276",
+  "din": "02242528",
+  "brand_name": "SANDOZ PROCTOMYXIN HC SUPPOSITORIES",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "01-FEB-2018",
+  "active_ingredients": [
+    {
+      "name": "DIBUCAINE HYDROCHLORIDE",
+      "strength": "5",
+      "unit": "MG"
+    },
+    {
+      "name": "ESCULIN",
+      "strength": "10",
+      "unit": "MG"
+    },
+    {
+      "name": "FRAMYCETIN SULFATE",
+      "strength": "10",
+      "unit": "MG"
+    },
+    {
+      "name": "HYDROCORTISONE",
+      "strength": "5",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SUPPOSITORY"
+  ],
+  "routes": [
+    "RECTAL"
+  ],
+  "companies": [
+    "SANDOZ CANADA INCORPORATED"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "HYDROCORTISONE, COMBINATIONS"
+  ]
+}

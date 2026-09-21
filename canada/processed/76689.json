@@ -1,0 +1,28 @@
+{
+  "drug_code": "76689",
+  "din": "02281244",
+  "brand_name": "CHERRY CREME HAND SOAP ANTIBACTERIAL",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "19-JUL-2006",
+  "active_ingredients": [
+    {
+      "name": "TRICLOSAN",
+      "strength": "0.1",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "LIQUID"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "ZEP MANUFACTURING COMPANY OF CANADA"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "TRICLOSAN"
+  ]
+}

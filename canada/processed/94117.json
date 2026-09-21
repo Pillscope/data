@@ -1,0 +1,29 @@
+{
+  "drug_code": "94117",
+  "din": "02454548",
+  "brand_name": "GRASTOFIL",
+  "class": "Human",
+  "descriptor": "SINGLE USE PRE-FILLED SYRINGE",
+  "last_update": "01-DEC-2016",
+  "active_ingredients": [
+    {
+      "name": "FILGRASTIM (R-METHUG-CSF)",
+      "strength": "480",
+      "unit": "MCG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "INTRAVENOUS",
+    "SUBCUTANEOUS"
+  ],
+  "companies": [
+    "APOTEX INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "FILGRASTIM"
+  ]
+}

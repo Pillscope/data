@@ -1,0 +1,28 @@
+{
+  "drug_code": "18750",
+  "din": "02148498",
+  "brand_name": "MINIMS PREDNISOLONE SODIUM PHOSPHATE 0.5%",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "01-SEP-2017",
+  "active_ingredients": [
+    {
+      "name": "PREDNISOLONE SODIUM PHOSPHATE",
+      "strength": "0.5",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "DROPS"
+  ],
+  "routes": [
+    "OPHTHALMIC"
+  ],
+  "companies": [
+    "VALEANT CANADA LP/VALEANT CANADA S.E.C."
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "PREDNISOLONE"
+  ]
+}

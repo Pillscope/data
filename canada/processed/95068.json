@@ -1,0 +1,28 @@
+{
+  "drug_code": "95068",
+  "din": "02462826",
+  "brand_name": "AZACITIDINE FOR INJECTION",
+  "class": "Human",
+  "descriptor": "SINGLE-USE VIAL",
+  "last_update": "31-OCT-2017",
+  "active_ingredients": [
+    {
+      "name": "AZACITIDINE",
+      "strength": "100",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "POWDER FOR SUSPENSION"
+  ],
+  "routes": [
+    "SUBCUTANEOUS"
+  ],
+  "companies": [
+    "DR REDDYS LABORATORIES LTD"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "AZACITIDINE"
+  ]
+}

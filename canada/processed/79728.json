@@ -1,0 +1,36 @@
+{
+  "drug_code": "79728",
+  "din": "02311739",
+  "brand_name": "CANESORAL COMBI-PAK",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "25-AUG-2017",
+  "active_ingredients": [
+    {
+      "name": "CLOTRIMAZOLE",
+      "strength": "1",
+      "unit": "%"
+    },
+    {
+      "name": "FLUCONAZOLE",
+      "strength": "150",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "CAPSULE",
+    "CREAM"
+  ],
+  "routes": [
+    "ORAL",
+    "TOPICAL",
+    "VAGINAL"
+  ],
+  "companies": [
+    "BAYER INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "FLUCONAZOLE"
+  ]
+}

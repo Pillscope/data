@@ -1,0 +1,29 @@
+{
+  "drug_code": "92657",
+  "din": "02442213",
+  "brand_name": "SUFENTANIL CITRATE INJECTION, USP",
+  "class": "Human",
+  "descriptor": "1ML & 5ML SINGLE USE VIALS",
+  "last_update": "28-OCT-2016",
+  "active_ingredients": [
+    {
+      "name": "SUFENTANIL (SUFENTANIL CITRATE)",
+      "strength": "50",
+      "unit": "MCG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "INTRAVENOUS",
+    "EPIDURAL"
+  ],
+  "companies": [
+    "STERIMAX INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "SUFENTANIL"
+  ]
+}

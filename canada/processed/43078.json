@@ -1,0 +1,28 @@
+{
+  "drug_code": "43078",
+  "din": "02212188",
+  "brand_name": "IMITREX",
+  "class": "Human",
+  "descriptor": "AUTO-INJECTOR",
+  "last_update": "15-JUN-2017",
+  "active_ingredients": [
+    {
+      "name": "SUMATRIPTAN (SUMATRIPTAN SUCCINATE)",
+      "strength": "6",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "LIQUID"
+  ],
+  "routes": [
+    "SUBCUTANEOUS"
+  ],
+  "companies": [
+    "GLAXOSMITHKLINE INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "SUMATRIPTAN"
+  ]
+}

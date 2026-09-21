@@ -1,0 +1,28 @@
+{
+  "drug_code": "2197",
+  "din": "00344508",
+  "brand_name": "TARGEL",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "10-MAY-2016",
+  "active_ingredients": [
+    {
+      "name": "COAL TAR",
+      "strength": "10",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "GEL"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "ODAN LABORATORIES LTD"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "TARS"
+  ]
+}

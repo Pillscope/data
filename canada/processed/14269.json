@@ -1,0 +1,33 @@
+{
+  "drug_code": "14269",
+  "din": "02024217",
+  "brand_name": "NOVOLIN GE 30/70",
+  "class": "Human",
+  "descriptor": "10 ML VIAL",
+  "last_update": "29-APR-2015",
+  "active_ingredients": [
+    {
+      "name": "INSULIN ISOPHANE HUMAN BIOSYNTHETIC",
+      "strength": "70",
+      "unit": "UNIT"
+    },
+    {
+      "name": "INSULIN INJECTION HUMAN BIOSYNTHETIC",
+      "strength": "30",
+      "unit": "UNIT"
+    }
+  ],
+  "forms": [
+    "SUSPENSION"
+  ],
+  "routes": [
+    "SUBCUTANEOUS"
+  ],
+  "companies": [
+    "NOVO NORDISK CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "INSULIN (HUMAN)"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "drug_code": "42902",
+  "din": "02188783",
+  "brand_name": "SYNAREL",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "28-JAN-2009",
+  "active_ingredients": [
+    {
+      "name": "NAFARELIN (NAFARELIN ACETATE)",
+      "strength": "2",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "METERED-DOSE AEROSOL"
+  ],
+  "routes": [
+    "NASAL"
+  ],
+  "companies": [
+    "PFIZER CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "NAFARELIN"
+  ]
+}

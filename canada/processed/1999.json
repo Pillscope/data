@@ -1,0 +1,26 @@
+{
+  "drug_code": "1999",
+  "din": "00308323",
+  "brand_name": "PREDNISOLONE ACETATE SUS 10MG/ML",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "10-AUG-2017",
+  "active_ingredients": [
+    {
+      "name": "PREDNISOLONE ACETATE",
+      "strength": "10",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SUSPENSION"
+  ],
+  "routes": [
+    "INTRAMUSCULAR"
+  ],
+  "companies": [
+    "PROFESSIONAL VETERINARY LABORATORIES"
+  ],
+  "status": "MARKETED",
+  "atc": []
+}

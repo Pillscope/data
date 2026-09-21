@@ -1,0 +1,28 @@
+{
+  "drug_code": "86374",
+  "din": "02377950",
+  "brand_name": "TEVA-GALANTAMINE ER",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "24-AUG-2015",
+  "active_ingredients": [
+    {
+      "name": "GALANTAMINE (GALANTAMINE HYDROBROMIDE)",
+      "strength": "8",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "CAPSULE (EXTENDED RELEASE)"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "TEVA CANADA LIMITED"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "GALANTAMINE"
+  ]
+}

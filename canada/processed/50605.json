@@ -1,0 +1,33 @@
+{
+  "drug_code": "50605",
+  "din": "02231298",
+  "brand_name": "LIP CARE SPF 15 WITH VITAMIN E",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "19-JUL-2011",
+  "active_ingredients": [
+    {
+      "name": "OXYBENZONE",
+      "strength": "5",
+      "unit": "%"
+    },
+    {
+      "name": "OCTINOXATE",
+      "strength": "7.5",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "STICK"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "THE BODY SHOP CANADA LIMITED"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "COMBINATIONS OF PROTECTIVES AGAINST UV-RADIATION"
+  ]
+}

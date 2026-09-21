@@ -1,0 +1,28 @@
+{
+  "drug_code": "92783",
+  "din": "02443244",
+  "brand_name": "KLEENEX ANTIMICROBIAL FOAM SKIN CLEANSER",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "17-MAY-2017",
+  "active_ingredients": [
+    {
+      "name": "BENZALKONIUM CHLORIDE",
+      "strength": "0.1",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "KIMBERLY-CLARK GLOBAL SALES LLC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "BENZALKONIUM"
+  ]
+}

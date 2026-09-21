@@ -1,0 +1,28 @@
+{
+  "drug_code": "80422",
+  "din": "02318741",
+  "brand_name": "GEMCITABINE FOR INJECTION, USP",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "26-OCT-2009",
+  "active_ingredients": [
+    {
+      "name": "GEMCITABINE (GEMCITABINE HYDROCHLORIDE)",
+      "strength": "2",
+      "unit": "G"
+    }
+  ],
+  "forms": [
+    "POWDER FOR SOLUTION"
+  ],
+  "routes": [
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "HOSPIRA HEALTHCARE CORPORATION"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "GEMCITABINE"
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "drug_code": "5784",
+  "din": "00625434",
+  "brand_name": "CO OP AUREOMYCIN VITAMIN PREMIX CRUMBLES",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "15-APR-2008",
+  "active_ingredients": [
+    {
+      "name": "VITAMIN D3",
+      "strength": "55000",
+      "unit": "UNIT"
+    },
+    {
+      "name": "CHLORTETRACYCLINE HYDROCHLORIDE",
+      "strength": "4.4",
+      "unit": "G"
+    },
+    {
+      "name": "VITAMIN A",
+      "strength": "550000",
+      "unit": "UNIT"
+    },
+    {
+      "name": "VITAMIN E",
+      "strength": "550",
+      "unit": "UNIT"
+    }
+  ],
+  "forms": [
+    "DRUG PREMIX"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "INTERPROVINCIAL CO-OP LTD"
+  ],
+  "status": "MARKETED",
+  "atc": []
+}

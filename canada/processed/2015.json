@@ -1,0 +1,31 @@
+{
+  "drug_code": "2015",
+  "din": "00319414",
+  "brand_name": "FOOT ROT BOLUSES",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "29-DEC-2017",
+  "active_ingredients": [
+    {
+      "name": "ETHYLENEDIAMINE DIHYDROIODIDE",
+      "strength": "400",
+      "unit": "MG"
+    },
+    {
+      "name": "SULFAPYRIDINE",
+      "strength": "13",
+      "unit": "G"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "PROFESSIONAL VETERINARY LABORATORIES"
+  ],
+  "status": "MARKETED",
+  "atc": []
+}

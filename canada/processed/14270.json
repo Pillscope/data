@@ -1,0 +1,33 @@
+{
+  "drug_code": "14270",
+  "din": "02024322",
+  "brand_name": "NOVOLIN GE 50/50 PENFILL",
+  "class": "Human",
+  "descriptor": "3 ML PENFILL CARTRIDGE",
+  "last_update": "29-APR-2015",
+  "active_ingredients": [
+    {
+      "name": "INSULIN ISOPHANE HUMAN BIOSYNTHETIC",
+      "strength": "50",
+      "unit": "UNIT"
+    },
+    {
+      "name": "INSULIN INJECTION HUMAN BIOSYNTHETIC",
+      "strength": "50",
+      "unit": "UNIT"
+    }
+  ],
+  "forms": [
+    "SUSPENSION"
+  ],
+  "routes": [
+    "SUBCUTANEOUS"
+  ],
+  "companies": [
+    "NOVO NORDISK CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "INSULIN (HUMAN)"
+  ]
+}

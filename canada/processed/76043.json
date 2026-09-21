@@ -1,0 +1,33 @@
+{
+  "drug_code": "76043",
+  "din": "02274906",
+  "brand_name": "TRUVADA",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "05-MAY-2015",
+  "active_ingredients": [
+    {
+      "name": "TENOFOVIR DISOPROXIL FUMARATE",
+      "strength": "300",
+      "unit": "MG"
+    },
+    {
+      "name": "EMTRICITABINE",
+      "strength": "200",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "GILEAD SCIENCES CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "TENOFOVIR DISOPROXIL AND EMTRICITABINE"
+  ]
+}

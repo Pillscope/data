@@ -1,0 +1,34 @@
+{
+  "drug_code": "10169",
+  "din": "00807788",
+  "brand_name": "BLEPHAMIDE OPHT SUSPENSION",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "29-NOV-2005",
+  "active_ingredients": [
+    {
+      "name": "PREDNISOLONE ACETATE",
+      "strength": "0.2",
+      "unit": "%"
+    },
+    {
+      "name": "SULFACETAMIDE SODIUM",
+      "strength": "10",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "DROPS"
+  ],
+  "routes": [
+    "OPHTHALMIC"
+  ],
+  "companies": [
+    "ALLERGAN INC"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "PREDNISOLONE AND ANTIINFECTIVES",
+    "PREDNISOLONE AND ANTIINFECTIVES"
+  ]
+}

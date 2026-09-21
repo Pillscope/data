@@ -1,0 +1,28 @@
+{
+  "drug_code": "86583",
+  "din": "02379988",
+  "brand_name": "ZOLMITRIPTAN ODT",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "11-JUN-2012",
+  "active_ingredients": [
+    {
+      "name": "ZOLMITRIPTAN",
+      "strength": "2.5",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET (ORALLY DISINTEGRATING)"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "PRO DOC LIMITEE"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "ZOLMITRIPTAN"
+  ]
+}

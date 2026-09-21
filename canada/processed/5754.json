@@ -1,0 +1,36 @@
+{
+  "drug_code": "5754",
+  "din": "00589365",
+  "brand_name": "MULTI RUB",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "14-AUG-2003",
+  "active_ingredients": [
+    {
+      "name": "MENTHOL",
+      "strength": "40",
+      "unit": "MG"
+    },
+    {
+      "name": "METHYL SALICYLATE",
+      "strength": "75",
+      "unit": "MG"
+    },
+    {
+      "name": "EUCALYPTOL",
+      "strength": "25",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "CREAM"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "DISTRIVET INC."
+  ],
+  "status": "MARKETED",
+  "atc": []
+}

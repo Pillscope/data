@@ -1,0 +1,56 @@
+{
+  "drug_code": "2479",
+  "din": "00370452",
+  "brand_name": "ELECTROLYTE TAB",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "19-SEP-2003",
+  "active_ingredients": [
+    {
+      "name": "SODIUM BICARBONATE",
+      "strength": "150",
+      "unit": "MG"
+    },
+    {
+      "name": "MAGNESIUM SULFATE",
+      "strength": "60",
+      "unit": "MG"
+    },
+    {
+      "name": "POTASSIUM CHLORIDE",
+      "strength": "1.98",
+      "unit": "G"
+    },
+    {
+      "name": "SODIUM CHLORIDE",
+      "strength": "2.5872",
+      "unit": "G"
+    },
+    {
+      "name": "SODIUM ACETATE",
+      "strength": "24",
+      "unit": "MG"
+    },
+    {
+      "name": "CITRIC ACID",
+      "strength": "150",
+      "unit": "MG"
+    },
+    {
+      "name": "CALCIUM LACTATE",
+      "strength": "24",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "DOMINION VETERINARY LABORATORIES LTD."
+  ],
+  "status": "MARKETED",
+  "atc": []
+}

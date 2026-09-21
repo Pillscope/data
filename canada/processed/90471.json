@@ -1,0 +1,29 @@
+{
+  "drug_code": "90471",
+  "din": "02420104",
+  "brand_name": "NEUPOGEN",
+  "class": "Human",
+  "descriptor": "0.5ML PRE-FILLED SYRINGE",
+  "last_update": "03-MAR-2016",
+  "active_ingredients": [
+    {
+      "name": "FILGRASTIM (R-METHUG-CSF)",
+      "strength": "600",
+      "unit": "MCG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "INTRAVENOUS",
+    "SUBCUTANEOUS"
+  ],
+  "companies": [
+    "AMGEN CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "FILGRASTIM"
+  ]
+}

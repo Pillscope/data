@@ -1,0 +1,28 @@
+{
+  "drug_code": "75280",
+  "din": "02267373",
+  "brand_name": "INO-F ANTIBAC ANTIBACTERIAL HAND SOAP",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "29-APR-2015",
+  "active_ingredients": [
+    {
+      "name": "TRICLOSAN",
+      "strength": "0.5",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "LIQUID"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "GROUPE DISSAN INC."
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "TRICLOSAN"
+  ]
+}

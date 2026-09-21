@@ -1,0 +1,28 @@
+{
+  "drug_code": "85324",
+  "din": "02368277",
+  "brand_name": "MYLAN-LOSARTAN",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "23-FEB-2012",
+  "active_ingredients": [
+    {
+      "name": "LOSARTAN POTASSIUM",
+      "strength": "25",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "MYLAN PHARMACEUTICALS ULC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "LOSARTAN"
+  ]
+}

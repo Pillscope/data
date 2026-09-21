@@ -1,0 +1,34 @@
+{
+  "drug_code": "91108",
+  "din": "02426501",
+  "brand_name": "PREZCOBIX",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "09-NOV-2015",
+  "active_ingredients": [
+    {
+      "name": "DARUNAVIR (DARUNAVIR ETHANOLATE)",
+      "strength": "800",
+      "unit": "MG"
+    },
+    {
+      "name": "COBICISTAT",
+      "strength": "150",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "JANSSEN INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "DARUNAVIR AND COBICISTAT",
+    "DARUNAVIR AND COBICISTAT"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "drug_code": "76000",
+  "din": "02274566",
+  "brand_name": "GD-AZITHROMYCIN",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "20-NOV-2013",
+  "active_ingredients": [
+    {
+      "name": "AZITHROMYCIN",
+      "strength": "100",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "POWDER FOR SUSPENSION"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "GENMED A DIVISION OF PFIZER CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "AZITHROMYCIN"
+  ]
+}

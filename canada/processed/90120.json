@@ -1,0 +1,38 @@
+{
+  "drug_code": "90120",
+  "din": "02416611",
+  "brand_name": "SOOTHING CARE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "15-JUL-2014",
+  "active_ingredients": [
+    {
+      "name": "AVOBENZONE",
+      "strength": "2.50",
+      "unit": "%"
+    },
+    {
+      "name": "OCTOCRYLENE",
+      "strength": "1.85",
+      "unit": "%"
+    },
+    {
+      "name": "OCTINOXATE",
+      "strength": "6.00",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "STICK"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "BEIERSDORF CANADA INC"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "COMBINATIONS OF PROTECTIVES AGAINST UV-RADIATION"
+  ]
+}

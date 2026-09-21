@@ -1,0 +1,28 @@
+{
+  "drug_code": "13805",
+  "din": "00881635",
+  "brand_name": "VOLTAREN RAPIDE TABLETS 50MG",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "04-MAY-2010",
+  "active_ingredients": [
+    {
+      "name": "DICLOFENAC POTASSIUM",
+      "strength": "50",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "NOVARTIS PHARMACEUTICALS CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "DICLOFENAC"
+  ]
+}

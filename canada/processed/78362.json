@@ -1,0 +1,26 @@
+{
+  "drug_code": "78362",
+  "din": "02298325",
+  "brand_name": "SPECTRAMAST LC",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "01-MAR-2017",
+  "active_ingredients": [
+    {
+      "name": "CEFTIOFUR (CEFTIOFUR HYDROCHLORIDE)",
+      "strength": "125",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SUSPENSION"
+  ],
+  "routes": [
+    "INTRAMAMMARY"
+  ],
+  "companies": [
+    "ZOETIS CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": []
+}

@@ -1,0 +1,29 @@
+{
+  "drug_code": "76896",
+  "din": "02283352",
+  "brand_name": "ACCEL TB WIPES",
+  "class": "Disinfectant",
+  "descriptor": "",
+  "last_update": "17-MAY-2011",
+  "active_ingredients": [
+    {
+      "name": "HYDROGEN PEROXIDE",
+      "strength": "0.5",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "WIPE"
+  ],
+  "routes": [
+    "DISINFECTANT (Food Premises)",
+    "DISINFECTANT (Hospital/HC Facilities)"
+  ],
+  "companies": [
+    "VIROX TECHNOLOGIES INC"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "TECHNICAL DISINFECTANTS"
+  ]
+}

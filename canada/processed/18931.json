@@ -1,0 +1,28 @@
+{
+  "drug_code": "18931",
+  "din": "02144328",
+  "brand_name": "CARNITOR",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "03-NOV-2017",
+  "active_ingredients": [
+    {
+      "name": "LEVOCARNITINE",
+      "strength": "330",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "LEADIANT BIOSCIENCES, INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "LEVOCARNITINE"
+  ]
+}

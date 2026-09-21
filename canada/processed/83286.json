@@ -1,0 +1,28 @@
+{
+  "drug_code": "83286",
+  "din": "02347474",
+  "brand_name": "RISEDRONATE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "16-NOV-2010",
+  "active_ingredients": [
+    {
+      "name": "RISEDRONATE SODIUM (RISEDRONATE SODIUM HEMI-PENTAHYDRATE)",
+      "strength": "35",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "PRO DOC LIMITEE"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "RISEDRONIC ACID"
+  ]
+}

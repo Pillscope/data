@@ -1,0 +1,28 @@
+{
+  "drug_code": "91494",
+  "din": "02430487",
+  "brand_name": "AURO-MODAFINIL",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "10-JUN-2015",
+  "active_ingredients": [
+    {
+      "name": "MODAFINIL",
+      "strength": "100",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "AURO PHARMA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "MODAFINIL"
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "drug_code": "7269",
+  "din": "00726990",
+  "brand_name": "H-30 TEAT DIP 0.55%",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "13-JUL-2011",
+  "active_ingredients": [
+    {
+      "name": "CHLORHEXIDINE ACETATE",
+      "strength": "0.55",
+      "unit": "%"
+    },
+    {
+      "name": "GLYCERINE",
+      "strength": "3.0",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "OSTREM CHEMICAL CO LTD."
+  ],
+  "status": "MARKETED",
+  "atc": []
+}

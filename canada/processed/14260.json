@@ -1,0 +1,30 @@
+{
+  "drug_code": "14260",
+  "din": "02024233",
+  "brand_name": "NOVOLIN GE TORONTO",
+  "class": "Human",
+  "descriptor": "10 ML VIAL",
+  "last_update": "29-APR-2015",
+  "active_ingredients": [
+    {
+      "name": "INSULIN INJECTION HUMAN BIOSYNTHETIC",
+      "strength": "100",
+      "unit": "UNIT"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "INTRAMUSCULAR",
+    "INTRAVENOUS",
+    "SUBCUTANEOUS"
+  ],
+  "companies": [
+    "NOVO NORDISK CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "INSULIN (HUMAN)"
+  ]
+}

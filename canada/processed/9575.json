@@ -1,0 +1,28 @@
+{
+  "drug_code": "9575",
+  "din": "00808571",
+  "brand_name": "TRIAZOLAM",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "25-JUL-2014",
+  "active_ingredients": [
+    {
+      "name": "TRIAZOLAM",
+      "strength": "0.25",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "AA PHARMA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "TRIAZOLAM"
+  ]
+}

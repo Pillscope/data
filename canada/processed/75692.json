@@ -1,0 +1,28 @@
+{
+  "drug_code": "75692",
+  "din": "02271478",
+  "brand_name": "ACT LISINOPRIL",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "06-JUL-2016",
+  "active_ingredients": [
+    {
+      "name": "LISINOPRIL (LISINOPRIL DIHYDRATE)",
+      "strength": "20",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "ACTAVIS PHARMA COMPANY"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "LISINOPRIL"
+  ]
+}

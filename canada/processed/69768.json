@@ -1,0 +1,28 @@
+{
+  "drug_code": "69768",
+  "din": "02245668",
+  "brand_name": "EURO-CYPROHEPTADINE 2MG/5ML",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "15-AUG-2016",
+  "active_ingredients": [
+    {
+      "name": "CYPROHEPTADINE HYDROCHLORIDE",
+      "strength": "2",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SYRUP"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "SANDOZ CANADA INCORPORATED"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "CYPROHEPTADINE"
+  ]
+}

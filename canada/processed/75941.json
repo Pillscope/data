@@ -1,0 +1,28 @@
+{
+  "drug_code": "75941",
+  "din": "02273950",
+  "brand_name": "APO-METHYLPHENIDATE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "08-NOV-2013",
+  "active_ingredients": [
+    {
+      "name": "METHYLPHENIDATE HYDROCHLORIDE",
+      "strength": "5",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "APOTEX INC"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "METHYLPHENIDATE"
+  ]
+}

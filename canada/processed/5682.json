@@ -1,0 +1,28 @@
+{
+  "drug_code": "5682",
+  "din": "00572810",
+  "brand_name": "OXYGEN 100%",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "11-JUL-2006",
+  "active_ingredients": [
+    {
+      "name": "OXYGEN",
+      "strength": "100",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "GAS"
+  ],
+  "routes": [
+    "INHALATION"
+  ],
+  "companies": [
+    "AIR LIQUIDE CANADA INC."
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "OXYGEN"
+  ]
+}

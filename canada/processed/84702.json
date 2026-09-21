@@ -1,0 +1,28 @@
+{
+  "drug_code": "84702",
+  "din": "02361981",
+  "brand_name": "FOAMING HAND SOAP",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "18-DEC-2012",
+  "active_ingredients": [
+    {
+      "name": "TRICLOSAN",
+      "strength": "0.46",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "LIQUID"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "LE GROUPE ULTRAPAC"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "TRICLOSAN"
+  ]
+}

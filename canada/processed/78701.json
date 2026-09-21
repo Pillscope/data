@@ -1,0 +1,48 @@
+{
+  "drug_code": "78701",
+  "din": "02301709",
+  "brand_name": "SPF/FPS 60 CONTINUOUS SPRAY",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "17-DEC-2015",
+  "active_ingredients": [
+    {
+      "name": "AVOBENZONE",
+      "strength": "5.0",
+      "unit": "%"
+    },
+    {
+      "name": "OCTOCRYLENE",
+      "strength": "4.0",
+      "unit": "%"
+    },
+    {
+      "name": "OXYBENZONE",
+      "strength": "6.0",
+      "unit": "%"
+    },
+    {
+      "name": "OCTISALATE",
+      "strength": "6.0",
+      "unit": "%"
+    },
+    {
+      "name": "HOMOSALATE",
+      "strength": "15.0",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "SPRAY, BAG-ON-VALVE"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "FRUIT OF THE EARTH, INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "COMBINATIONS OF PROTECTIVES AGAINST UV-RADIATION"
+  ]
+}

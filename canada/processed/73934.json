@@ -1,0 +1,28 @@
+{
+  "drug_code": "73934",
+  "din": "02254441",
+  "brand_name": "TRIAMINIC THIN STRIPS COUGH",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "02-DEC-2016",
+  "active_ingredients": [
+    {
+      "name": "DEXTROMETHORPHAN HYDROBROMIDE",
+      "strength": "7.5",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "STRIP"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "GLAXOSMITHKLINE CONSUMER HEALTHCARE INC."
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "DEXTROMETHORPHAN"
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "drug_code": "93856",
+  "din": "02452138",
+  "brand_name": "VIRSTOP",
+  "class": "Disinfectant",
+  "descriptor": "",
+  "last_update": "20-APR-2016",
+  "active_ingredients": [
+    {
+      "name": "DIDECYL DIMETHYL AMMONIUM CHLORIDE",
+      "strength": "1.8",
+      "unit": "%"
+    },
+    {
+      "name": "ALCOHOL ANHYDROUS",
+      "strength": "1.25",
+      "unit": "%"
+    },
+    {
+      "name": "GLUTARAL",
+      "strength": "7",
+      "unit": "%"
+    },
+    {
+      "name": "DIOCTYL DIMETHYL AMMONIUM CHLORIDE",
+      "strength": "1.2",
+      "unit": "%"
+    },
+    {
+      "name": "OCTYL DIMETHYL AMMONIUM CHLORIDE",
+      "strength": "3",
+      "unit": "%"
+    },
+    {
+      "name": "BENZALKONIUM CHLORIDE",
+      "strength": "4",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "DISINFECTANT (Barn)",
+    "DISINFECTANT (Institutional/Industrial)"
+  ],
+  "companies": [
+    "CONSTANT AMERICA INC"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "TECHNICAL DISINFECTANTS"
+  ]
+}

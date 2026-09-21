@@ -1,0 +1,26 @@
+{
+  "drug_code": "596",
+  "din": "00103594",
+  "brand_name": "TYLAN 200",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "19-FEB-2018",
+  "active_ingredients": [
+    {
+      "name": "TYLOSIN",
+      "strength": "200",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "INTRAMUSCULAR"
+  ],
+  "companies": [
+    "ELANCO CANADA LIMITED"
+  ],
+  "status": "APPROVED",
+  "atc": []
+}

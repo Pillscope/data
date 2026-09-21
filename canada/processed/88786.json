@@ -1,0 +1,28 @@
+{
+  "drug_code": "88786",
+  "din": "02403048",
+  "brand_name": "JAMP-LEVETIRACETAM",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "22-MAY-2013",
+  "active_ingredients": [
+    {
+      "name": "LEVETIRACETAM",
+      "strength": "750",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "JAMP PHARMA CORPORATION"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "LEVETIRACETAM"
+  ]
+}

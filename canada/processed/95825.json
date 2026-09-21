@@ -1,0 +1,28 @@
+{
+  "drug_code": "95825",
+  "din": "02469456",
+  "brand_name": "ETHACRYNATE SODIUM FOR INJECTION USP",
+  "class": "Human",
+  "descriptor": "SINGLE USE VIAL",
+  "last_update": "20-APR-2018",
+  "active_ingredients": [
+    {
+      "name": "ETHACRYNIC ACID (ETHACRYNATE SODIUM)",
+      "strength": "50",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "POWDER FOR SOLUTION"
+  ],
+  "routes": [
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "STERIMAX INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "ETACRYNIC ACID"
+  ]
+}

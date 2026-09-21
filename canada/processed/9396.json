@@ -1,0 +1,28 @@
+{
+  "drug_code": "9396",
+  "din": "00682268",
+  "brand_name": "ERYTHROCIN I.V.",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "23-SEP-2010",
+  "active_ingredients": [
+    {
+      "name": "ERYTHROMYCIN (ERYTHROMYCIN LACTOBIONATE)",
+      "strength": "500",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "POWDER FOR SOLUTION"
+  ],
+  "routes": [
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "AMDIPHARM LIMITED"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "ERYTHROMYCIN"
+  ]
+}

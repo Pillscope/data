@@ -1,0 +1,28 @@
+{
+  "drug_code": "76541",
+  "din": "02279827",
+  "brand_name": "SANDOZ RISPERIDONE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "05-DEC-2006",
+  "active_ingredients": [
+    {
+      "name": "RISPERIDONE",
+      "strength": "3.0",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "SANDOZ CANADA INCORPORATED"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "RISPERIDONE"
+  ]
+}

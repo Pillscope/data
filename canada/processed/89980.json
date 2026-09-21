@@ -1,0 +1,28 @@
+{
+  "drug_code": "89980",
+  "din": "02415186",
+  "brand_name": "TARO-ZOLEDRONIC ACID CONCENTRATE",
+  "class": "Human",
+  "descriptor": "TO BE DILUTED BEFORE USE. FOR IV INFUSION. 5ML SINGLE DOSE VIAL.",
+  "last_update": "18-JUN-2014",
+  "active_ingredients": [
+    {
+      "name": "ZOLEDRONIC ACID (Zoledronic acid monohydrate)",
+      "strength": "4",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "TARO PHARMACEUTICALS INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "ZOLEDRONIC ACID"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "drug_code": "83931",
+  "din": "02354101",
+  "brand_name": "TEVA-EZETIMIBE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "25-SEP-2014",
+  "active_ingredients": [
+    {
+      "name": "EZETIMIBE",
+      "strength": "10",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "TEVA CANADA LIMITED"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "EZETIMIBE"
+  ]
+}

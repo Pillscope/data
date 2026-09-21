@@ -1,0 +1,28 @@
+{
+  "drug_code": "62061",
+  "din": "02238633",
+  "brand_name": "DOM-CYCLOBENZAPRINE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "18-OCT-2008",
+  "active_ingredients": [
+    {
+      "name": "CYCLOBENZAPRINE HYDROCHLORIDE",
+      "strength": "10",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "DOMINION PHARMACAL"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "CYCLOBENZAPRINE"
+  ]
+}

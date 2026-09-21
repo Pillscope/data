@@ -1,0 +1,28 @@
+{
+  "drug_code": "690",
+  "din": "00176176",
+  "brand_name": "HYDERGINE TABLETS, 1MG",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "01-JUN-2011",
+  "active_ingredients": [
+    {
+      "name": "ERGOLOID MESYLATES",
+      "strength": "1",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "STERIMAX INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "ERGOLOID MESYLATES"
+  ]
+}

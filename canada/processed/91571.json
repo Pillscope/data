@@ -1,0 +1,28 @@
+{
+  "drug_code": "91571",
+  "din": "02431297",
+  "brand_name": "GABAPENTIN",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "24-MAR-2015",
+  "active_ingredients": [
+    {
+      "name": "GABAPENTIN",
+      "strength": "800",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "SANIS HEALTH INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "GABAPENTIN"
+  ]
+}

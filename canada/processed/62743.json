@@ -1,0 +1,33 @@
+{
+  "drug_code": "62743",
+  "din": "02239279",
+  "brand_name": "OIL OF OLAY PROTECTIVE RENEWAL LOTION",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "21-SEP-2003",
+  "active_ingredients": [
+    {
+      "name": "ZINC OXIDE",
+      "strength": "3",
+      "unit": "%"
+    },
+    {
+      "name": "OCTINOXATE",
+      "strength": "6",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "LOTION"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "PROCTER & GAMBLE INC"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "COMBINATIONS OF PROTECTIVES AGAINST UV-RADIATION"
+  ]
+}

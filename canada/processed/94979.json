@@ -1,0 +1,34 @@
+{
+  "drug_code": "94979",
+  "din": "02462052",
+  "brand_name": "JAMP-OLMESARTAN HCTZ",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "17-MAY-2017",
+  "active_ingredients": [
+    {
+      "name": "HYDROCHLOROTHIAZIDE",
+      "strength": "25",
+      "unit": "MG"
+    },
+    {
+      "name": "OLMESARTAN MEDOXOMIL",
+      "strength": "40",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "JAMP PHARMA CORPORATION"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "OLMESARTAN MEDOXOMIL AND DIURETICS",
+    "OLMESARTAN MEDOXOMIL AND DIURETICS"
+  ]
+}

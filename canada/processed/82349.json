@@ -1,0 +1,28 @@
+{
+  "drug_code": "82349",
+  "din": "02337843",
+  "brand_name": "SPF 4 SUNSCREEN LOTION",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "25-MAR-2010",
+  "active_ingredients": [
+    {
+      "name": "OCTINOXATE",
+      "strength": "2",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "LOTION"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "PRIME ENTERPRISES INC"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "OCTYL METHOXYCINNAMATE"
+  ]
+}

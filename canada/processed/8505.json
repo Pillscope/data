@@ -1,0 +1,29 @@
+{
+  "drug_code": "8505",
+  "din": "00764914",
+  "brand_name": "ZOCHLOR DISINFECTANT TAB 55%",
+  "class": "Disinfectant",
+  "descriptor": "",
+  "last_update": "30-JAN-2007",
+  "active_ingredients": [
+    {
+      "name": "SODIUM DICHLOROISOCYANURATE",
+      "strength": "55",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "DISINFECTANT (Food Premises)",
+    "DISINFECTANT (Hospital/HC Facilities)"
+  ],
+  "companies": [
+    "WOOD WYANT INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "TECHNICAL DISINFECTANTS"
+  ]
+}

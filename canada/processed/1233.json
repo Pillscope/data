@@ -1,0 +1,39 @@
+{
+  "drug_code": "1233",
+  "din": "00226327",
+  "brand_name": "FIORINAL",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "06-APR-2018",
+  "active_ingredients": [
+    {
+      "name": "BUTALBITAL",
+      "strength": "50",
+      "unit": "MG"
+    },
+    {
+      "name": "ACETYLSALICYLIC ACID",
+      "strength": "330",
+      "unit": "MG"
+    },
+    {
+      "name": "CAFFEINE",
+      "strength": "40",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "CAPSULE"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "TRIBUTE PHARMACEUTICALS CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "ACETYLSALICYLIC ACID, COMB WITH PSYCHOLEPTICS",
+    "ACETYLSALICYLIC ACID, COMB WITH PSYCHOLEPTICS"
+  ]
+}

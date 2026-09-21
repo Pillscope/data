@@ -1,0 +1,28 @@
+{
+  "drug_code": "17227",
+  "din": "01990748",
+  "brand_name": "HEPARIN SODIUM IN 0.9% SODIUM CHLORIDE INJECTION",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "13-JUN-2017",
+  "active_ingredients": [
+    {
+      "name": "HEPARIN SODIUM",
+      "strength": "2",
+      "unit": "UNIT"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "PFIZER CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "HEPARIN, COMBINATIONS"
+  ]
+}

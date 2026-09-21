@@ -1,0 +1,30 @@
+{
+  "drug_code": "86878",
+  "din": "02382997",
+  "brand_name": "MORPHINE SULFATE INJECTION SDZ",
+  "class": "Human",
+  "descriptor": "1ML & 5ML AMPOULES",
+  "last_update": "26-MAY-2015",
+  "active_ingredients": [
+    {
+      "name": "MORPHINE SULFATE",
+      "strength": "10",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "INTRAMUSCULAR",
+    "INTRAVENOUS",
+    "SUBCUTANEOUS"
+  ],
+  "companies": [
+    "SANDOZ CANADA INCORPORATED"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "MORPHINE"
+  ]
+}

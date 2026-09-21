@@ -1,0 +1,26 @@
+{
+  "drug_code": "88975",
+  "din": "02404915",
+  "brand_name": "IVERMECTIN LIQUID FOR HORSES",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "14-AUG-2013",
+  "active_ingredients": [
+    {
+      "name": "IVERMECTIN",
+      "strength": "10",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "ALBERTA VETERINARY LABORATORIES LTD"
+  ],
+  "status": "MARKETED",
+  "atc": []
+}

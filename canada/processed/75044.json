@@ -1,0 +1,33 @@
+{
+  "drug_code": "75044",
+  "din": "02264935",
+  "brand_name": "MALARONE PEDIATRIC",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "29-DEC-2006",
+  "active_ingredients": [
+    {
+      "name": "PROGUANIL HYDROCHLORIDE",
+      "strength": "25.0",
+      "unit": "MG"
+    },
+    {
+      "name": "ATOVAQUONE",
+      "strength": "62.5",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "GLAXOSMITHKLINE INC"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "PROGUANIL, COMBINATIONS *"
+  ]
+}

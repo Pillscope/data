@@ -1,0 +1,28 @@
+{
+  "drug_code": "42135",
+  "din": "02027798",
+  "brand_name": "PEDIATRIX",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "18-APR-2018",
+  "active_ingredients": [
+    {
+      "name": "ACETAMINOPHEN",
+      "strength": "160",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "TEVA CANADA LIMITED"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "ACETAMINOPHEN (PARACETAMOL)"
+  ]
+}

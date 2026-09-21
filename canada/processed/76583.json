@@ -1,0 +1,28 @@
+{
+  "drug_code": "76583",
+  "din": "02280159",
+  "brand_name": "24 HOUR ALLERGY REMEDY",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "04-DEC-2017",
+  "active_ingredients": [
+    {
+      "name": "LORATADINE",
+      "strength": "10",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "VITA HEALTH PRODUCTS INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "LORATADINE"
+  ]
+}

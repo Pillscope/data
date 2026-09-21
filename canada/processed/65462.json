@@ -1,0 +1,28 @@
+{
+  "drug_code": "65462",
+  "din": "02241797",
+  "brand_name": "PROCYTOX 200MG/VIAL",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "25-MAR-2004",
+  "active_ingredients": [
+    {
+      "name": "CYCLOPHOSPHAMIDE",
+      "strength": "200",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "POWDER FOR SOLUTION"
+  ],
+  "routes": [
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "BAXTER CORPORATION"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "CYCLOPHOSPHAMIDE"
+  ]
+}

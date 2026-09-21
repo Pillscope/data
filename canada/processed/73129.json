@@ -1,0 +1,28 @@
+{
+  "drug_code": "73129",
+  "din": "02248761",
+  "brand_name": "VIRACEPT",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "17-JUN-2005",
+  "active_ingredients": [
+    {
+      "name": "NELFINAVIR (NELFINAVIR MESYLATE)",
+      "strength": "625",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "PFIZER CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "NELFINAVIR"
+  ]
+}

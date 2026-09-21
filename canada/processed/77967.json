@@ -1,0 +1,28 @@
+{
+  "drug_code": "77967",
+  "din": "02294338",
+  "brand_name": "LANTUS",
+  "class": "Human",
+  "descriptor": "3ML SOLOSTAR PREFILLED DISPOSABLE PEN",
+  "last_update": "28-JUL-2016",
+  "active_ingredients": [
+    {
+      "name": "INSULIN GLARGINE",
+      "strength": "100",
+      "unit": "UNIT"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "SUBCUTANEOUS"
+  ],
+  "companies": [
+    "SANOFI-AVENTIS CANADA INC"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "INSULIN GLARGINE"
+  ]
+}

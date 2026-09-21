@@ -1,0 +1,28 @@
+{
+  "drug_code": "77184",
+  "din": "02286386",
+  "brand_name": "TYSABRI",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "29-FEB-2012",
+  "active_ingredients": [
+    {
+      "name": "NATALIZUMAB",
+      "strength": "300",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "BIOGEN CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "NATALIZUMAB"
+  ]
+}

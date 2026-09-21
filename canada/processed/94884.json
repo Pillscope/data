@@ -1,0 +1,28 @@
+{
+  "drug_code": "94884",
+  "din": "02461331",
+  "brand_name": "SANDOZ GLICLAZIDE MR",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "16-MAR-2018",
+  "active_ingredients": [
+    {
+      "name": "GLICLAZIDE",
+      "strength": "60",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET (EXTENDED-RELEASE)"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "SANDOZ CANADA INCORPORATED"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "GLICLAZIDE"
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "drug_code": "68231",
+  "din": "02244264",
+  "brand_name": "CHILDREN'S COLTALIN FRUIT FLAVOR CHEWABLE COLD TABLETS",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "10-FEB-2014",
+  "active_ingredients": [
+    {
+      "name": "PHENYLEPHRINE HYDROCHLORIDE",
+      "strength": "1.25",
+      "unit": "MG"
+    },
+    {
+      "name": "CHLORPHENIRAMINE MALEATE",
+      "strength": "0.5",
+      "unit": "MG"
+    },
+    {
+      "name": "ACETAMINOPHEN",
+      "strength": "80",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "FORTUNE PHARMACAL CO. LTD."
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "ACETAMINOPHEN, COMB EXCL PSYCHOLEPTICS",
+    "ACETAMINOPHEN, COMB EXCL PSYCHOLEPTICS"
+  ]
+}

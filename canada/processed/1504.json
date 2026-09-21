@@ -1,0 +1,27 @@
+{
+  "drug_code": "1504",
+  "din": "00250376",
+  "brand_name": "PREDNISOLONE ACETATE INJ 10MG",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "11-AUG-2017",
+  "active_ingredients": [
+    {
+      "name": "PREDNISOLONE ACETATE",
+      "strength": "10",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "LIQUID"
+  ],
+  "routes": [
+    "INTRA-ARTICULAR",
+    "INTRAMUSCULAR"
+  ],
+  "companies": [
+    "DOMINION VETERINARY LABORATORIES LTD."
+  ],
+  "status": "MARKETED",
+  "atc": []
+}

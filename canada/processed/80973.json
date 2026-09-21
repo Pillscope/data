@@ -1,0 +1,28 @@
+{
+  "drug_code": "80973",
+  "din": "02324253",
+  "brand_name": "PDP-HYDROCODONE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "28-OCT-2017",
+  "active_ingredients": [
+    {
+      "name": "HYDROCODONE BITARTRATE",
+      "strength": "5",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SYRUP"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "PENDOPHARM DIVISION OF DE PHARMASCIENCE INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "HYDROCODONE"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "drug_code": "35785",
+  "din": "02194066",
+  "brand_name": "ARISTOCORT C",
+  "class": "Human",
+  "descriptor": "CREAM 0.5%",
+  "last_update": "27-FEB-2016",
+  "active_ingredients": [
+    {
+      "name": "TRIAMCINOLONE ACETONIDE",
+      "strength": "0.5",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "CREAM"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "VALEANT CANADA LP/VALEANT CANADA S.E.C."
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "TRIAMCINOLONE"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "drug_code": "92971",
+  "din": "02444631",
+  "brand_name": "STRENSIQ",
+  "class": "Human",
+  "descriptor": "40MG/1ML SINGLE USE VIAL",
+  "last_update": "02-MAR-2018",
+  "active_ingredients": [
+    {
+      "name": "ASFOTASE ALFA",
+      "strength": "40",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "SUBCUTANEOUS"
+  ],
+  "companies": [
+    "ALEXION PHARMA GMBH"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "ASFOTASE ALFA"
+  ]
+}

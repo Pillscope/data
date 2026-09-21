@@ -1,0 +1,28 @@
+{
+  "drug_code": "80247",
+  "din": "02316986",
+  "brand_name": "XARELTO",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "04-FEB-2015",
+  "active_ingredients": [
+    {
+      "name": "RIVAROXABAN",
+      "strength": "10",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "BAYER INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "RIVAROXABAN"
+  ]
+}

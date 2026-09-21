@@ -1,0 +1,26 @@
+{
+  "drug_code": "14164",
+  "din": "01981390",
+  "brand_name": "NEOMED 325",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "21-DEC-2017",
+  "active_ingredients": [
+    {
+      "name": "NEOMYCIN (NEOMYCIN SULFATE)",
+      "strength": "56.875",
+      "unit": "G"
+    }
+  ],
+  "forms": [
+    "POWDER FOR SOLUTION"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "BIO AGRI MIX LP"
+  ],
+  "status": "APPROVED",
+  "atc": []
+}

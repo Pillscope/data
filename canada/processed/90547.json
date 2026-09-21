@@ -1,0 +1,27 @@
+{
+  "drug_code": "90547",
+  "din": "02420880",
+  "brand_name": "DMV\u00c3\u0089T DEXTROSE 50%",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "06-NOV-2014",
+  "active_ingredients": [
+    {
+      "name": "DEXTROSE",
+      "strength": "50",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "INTRAPERITONEAL",
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "DMVET INC"
+  ],
+  "status": "MARKETED",
+  "atc": []
+}

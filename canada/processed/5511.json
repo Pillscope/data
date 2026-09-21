@@ -1,0 +1,27 @@
+{
+  "drug_code": "5511",
+  "din": "00603864",
+  "brand_name": "NITROFUR SOLUTION 0.2%",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "02-MAY-2015",
+  "active_ingredients": [
+    {
+      "name": "NITROFURAZONE",
+      "strength": "0.2",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "INTRAUTERINE",
+    "VAGINAL"
+  ],
+  "companies": [
+    "DOMINION VETERINARY LABORATORIES LTD."
+  ],
+  "status": "MARKETED",
+  "atc": []
+}

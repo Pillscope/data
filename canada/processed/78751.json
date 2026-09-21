@@ -1,0 +1,28 @@
+{
+  "drug_code": "78751",
+  "din": "02302179",
+  "brand_name": "SANDOZ CEFPROZIL",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "02-FEB-2011",
+  "active_ingredients": [
+    {
+      "name": "CEFPROZIL",
+      "strength": "250",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "SANDOZ CANADA INCORPORATED"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "CEFPROZIL"
+  ]
+}

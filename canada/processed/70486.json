@@ -1,0 +1,28 @@
+{
+  "drug_code": "70486",
+  "din": "02246323",
+  "brand_name": "RAPICIDE HIGH LEVEL DISINFECTANT AND STERILANT",
+  "class": "Disinfectant",
+  "descriptor": "",
+  "last_update": "30-APR-2008",
+  "active_ingredients": [
+    {
+      "name": "GLUTARAL",
+      "strength": "2.5",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "DISINFECTANT (Medical Instruments)"
+  ],
+  "companies": [
+    "MEDIVATORS INC"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "TECHNICAL DISINFECTANTS"
+  ]
+}

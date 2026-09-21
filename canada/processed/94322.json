@@ -1,0 +1,43 @@
+{
+  "drug_code": "94322",
+  "din": "02456354",
+  "brand_name": "AVON NUTRA EFFECTS ACTIVE SEED COMPLEX RADIANCE DAY CREAM BROAD SPECTRUM SPF 20 SUNSCREEN",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "30-APR-2018",
+  "active_ingredients": [
+    {
+      "name": "AVOBENZONE",
+      "strength": "2.5",
+      "unit": "%"
+    },
+    {
+      "name": "OXYBENZONE",
+      "strength": "3.5",
+      "unit": "%"
+    },
+    {
+      "name": "HOMOSALATE",
+      "strength": "3",
+      "unit": "%"
+    },
+    {
+      "name": "OCTINOXATE",
+      "strength": "7.5",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "CREAM"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "AVON CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "COMBINATIONS OF PROTECTIVES AGAINST UV-RADIATION"
+  ]
+}

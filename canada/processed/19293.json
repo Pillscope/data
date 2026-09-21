@@ -1,0 +1,33 @@
+{
+  "drug_code": "19293",
+  "din": "02154749",
+  "brand_name": "CARBOGEN",
+  "class": "Human",
+  "descriptor": "CO2 BALANCED WITH 02",
+  "last_update": "29-APR-2015",
+  "active_ingredients": [
+    {
+      "name": "OXYGEN",
+      "strength": "50",
+      "unit": "%"
+    },
+    {
+      "name": "CARBON DIOXIDE",
+      "strength": "50",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "GAS"
+  ],
+  "routes": [
+    "INHALATION"
+  ],
+  "companies": [
+    "LINDE CANADA LIMITED"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "COMBINATION"
+  ]
+}

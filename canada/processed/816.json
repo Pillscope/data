@@ -1,0 +1,34 @@
+{
+  "drug_code": "816",
+  "din": "00177016",
+  "brand_name": "VALISONE-G CREAM",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "06-SEP-2016",
+  "active_ingredients": [
+    {
+      "name": "BETAMETHASONE (BETAMETHASONE VALERATE)",
+      "strength": "0.1",
+      "unit": "%"
+    },
+    {
+      "name": "GENTAMICIN (GENTAMICIN SULFATE)",
+      "strength": "0.1",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "CREAM"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "VALEANT CANADA LP/VALEANT CANADA S.E.C."
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "BETAMETHASONE AND ANTIBIOTICS",
+    "BETAMETHASONE AND ANTIBIOTICS"
+  ]
+}

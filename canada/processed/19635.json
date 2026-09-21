@@ -1,0 +1,41 @@
+{
+  "drug_code": "19635",
+  "din": "02139634",
+  "brand_name": "CHLORTET VITAMIN PREMIX CRUMBLES",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "13-JUN-2008",
+  "active_ingredients": [
+    {
+      "name": "VITAMIN D3",
+      "strength": "55000",
+      "unit": "UNIT"
+    },
+    {
+      "name": "CHLORTETRACYCLINE HYDROCHLORIDE",
+      "strength": "4.4",
+      "unit": "G"
+    },
+    {
+      "name": "VITAMIN A",
+      "strength": "550000",
+      "unit": "UNIT"
+    },
+    {
+      "name": "VITAMIN E",
+      "strength": "550",
+      "unit": "UNIT"
+    }
+  ],
+  "forms": [
+    "DRUG PREMIX"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "JONES FEED MILL LTD."
+  ],
+  "status": "MARKETED",
+  "atc": []
+}

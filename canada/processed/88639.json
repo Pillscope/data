@@ -1,0 +1,28 @@
+{
+  "drug_code": "88639",
+  "din": "02401495",
+  "brand_name": "AMOXICILLIN CAPSULES",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "04-JUN-2013",
+  "active_ingredients": [
+    {
+      "name": "AMOXICILLIN (AMOXICILLIN TRIHYDRATE)",
+      "strength": "250",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "CAPSULE"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "SIVEM PHARMACEUTICALS ULC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "AMOXICILLIN"
+  ]
+}

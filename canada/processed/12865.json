@@ -1,0 +1,28 @@
+{
+  "drug_code": "12865",
+  "din": "01959352",
+  "brand_name": "GLYBURIDE-2.5 TAB 2.5MG",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "10-MAR-2006",
+  "active_ingredients": [
+    {
+      "name": "GLYBURIDE",
+      "strength": "2.5",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "PRO DOC LIMITEE"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "GLIBENCLAMIDE"
+  ]
+}

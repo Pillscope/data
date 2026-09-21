@@ -1,0 +1,28 @@
+{
+  "drug_code": "43438",
+  "din": "02225964",
+  "brand_name": "TEMAZEPAM",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "09-JAN-2018",
+  "active_ingredients": [
+    {
+      "name": "TEMAZEPAM",
+      "strength": "15",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "CAPSULE"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "AA PHARMA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "TEMAZEPAM"
+  ]
+}

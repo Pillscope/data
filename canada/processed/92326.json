@@ -1,0 +1,28 @@
+{
+  "drug_code": "92326",
+  "din": "02438887",
+  "brand_name": "VAN-RAMIPRIL",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "12-JAN-2018",
+  "active_ingredients": [
+    {
+      "name": "RAMIPRIL",
+      "strength": "5",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "CAPSULE"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "VANC PHARMACEUTICALS INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "RAMIPRIL"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "drug_code": "74729",
+  "din": "02261944",
+  "brand_name": "SANDOZ-DICLOFENAC SR",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "09-MAY-2006",
+  "active_ingredients": [
+    {
+      "name": "DICLOFENAC SODIUM",
+      "strength": "100",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET (EXTENDED-RELEASE)"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "SANDOZ CANADA INCORPORATED"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "DICLOFENAC"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "drug_code": "81095",
+  "din": "02325586",
+  "brand_name": "BIBAG",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "27-JAN-2016",
+  "active_ingredients": [
+    {
+      "name": "SODIUM BICARBONATE",
+      "strength": "650",
+      "unit": "G"
+    }
+  ],
+  "forms": [
+    "POWDER FOR SOLUTION"
+  ],
+  "routes": [
+    "DIALYSIS"
+  ],
+  "companies": [
+    "FRESENIUS MEDICAL CARE DEUTCHLAND GMBH"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "HEMODIALYTICS, CONCENTRATES"
+  ]
+}

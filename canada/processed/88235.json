@@ -1,0 +1,26 @@
+{
+  "drug_code": "88235",
+  "din": "02397390",
+  "brand_name": "PROIN CHEWABLE TABLETS",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "13-NOV-2013",
+  "active_ingredients": [
+    {
+      "name": "PHENYLPROPANOLAMINE HYDROCHLORIDE",
+      "strength": "50",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "PEGASUS LABORATORIES INC"
+  ],
+  "status": "APPROVED",
+  "atc": []
+}

@@ -1,0 +1,28 @@
+{
+  "drug_code": "82774",
+  "din": "02342235",
+  "brand_name": "GD-ELETRIPTAN",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "02-NOV-2012",
+  "active_ingredients": [
+    {
+      "name": "ELETRIPTAN (ELETRIPTAN HYDROBROMIDE)",
+      "strength": "20",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "GENMED A DIVISION OF PFIZER CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "ELETRIPTAN"
+  ]
+}

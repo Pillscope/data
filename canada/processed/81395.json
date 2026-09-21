@@ -1,0 +1,28 @@
+{
+  "drug_code": "81395",
+  "din": "02328429",
+  "brand_name": "JUNIOR STRENGTH ADVIL FEVER FROM COLDS OR FLU",
+  "class": "Human",
+  "descriptor": "FRUIT FLAVOUR",
+  "last_update": "17-JUL-2013",
+  "active_ingredients": [
+    {
+      "name": "IBUPROFEN",
+      "strength": "100",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET (CHEWABLE)"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "PFIZER CONSUMER HEALTHCARE A DIVISION OF PFIZER CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "IBUPROFEN"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "drug_code": "50823",
+  "din": "02231493",
+  "brand_name": "XALATAN",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "04-NOV-2011",
+  "active_ingredients": [
+    {
+      "name": "LATANOPROST",
+      "strength": "50",
+      "unit": "MCG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "OPHTHALMIC"
+  ],
+  "companies": [
+    "PFIZER CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "LATANOPROST"
+  ]
+}

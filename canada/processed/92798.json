@@ -1,0 +1,33 @@
+{
+  "drug_code": "92798",
+  "din": "02443333",
+  "brand_name": "CAVILON MOISTURE BARRIER OINTMENT",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "16-JAN-2018",
+  "active_ingredients": [
+    {
+      "name": "DIMETHICONE",
+      "strength": "10.0",
+      "unit": "%"
+    },
+    {
+      "name": "WHITE PETROLATUM",
+      "strength": "68.4",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "OINTMENT"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "3M CANADA COMPANY"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "SOFT PARAFFIN AND FAT PRODUCTS"
+  ]
+}

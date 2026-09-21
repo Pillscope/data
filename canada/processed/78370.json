@@ -1,0 +1,26 @@
+{
+  "drug_code": "78370",
+  "din": "02298406",
+  "brand_name": "ESTROPLAN",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "01-NOV-2017",
+  "active_ingredients": [
+    {
+      "name": "CLOPROSTENOL (CLOPROSTENOL SODIUM)",
+      "strength": "250",
+      "unit": "MCG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "INTRAMUSCULAR"
+  ],
+  "companies": [
+    "PARNELL TECHNOLOGIES PTY LTD"
+  ],
+  "status": "APPROVED",
+  "atc": []
+}

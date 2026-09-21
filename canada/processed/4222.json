@@ -1,0 +1,28 @@
+{
+  "drug_code": "4222",
+  "din": "00511552",
+  "brand_name": "SANDOMIGRAN DS",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "05-MAY-2015",
+  "active_ingredients": [
+    {
+      "name": "PIZOTIFEN (PIZOTIFEN MALATE)",
+      "strength": "1",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "PALADIN LABS INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "PIZOTIFEN"
+  ]
+}

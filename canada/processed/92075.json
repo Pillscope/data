@@ -1,0 +1,28 @@
+{
+  "drug_code": "92075",
+  "din": "02436418",
+  "brand_name": "MODERIBA",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "19-DEC-2016",
+  "active_ingredients": [
+    {
+      "name": "RIBAVIRIN",
+      "strength": "400",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "ABBVIE CORPORATION"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "RIBAVIRIN"
+  ]
+}

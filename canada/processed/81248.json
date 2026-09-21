@@ -1,0 +1,28 @@
+{
+  "drug_code": "81248",
+  "din": "02327163",
+  "brand_name": "SANDOZ FENTANYL PATCH",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "17-DEC-2010",
+  "active_ingredients": [
+    {
+      "name": "FENTANYL",
+      "strength": "100",
+      "unit": "MCG"
+    }
+  ],
+  "forms": [
+    "PATCH"
+  ],
+  "routes": [
+    "TRANSDERMAL"
+  ],
+  "companies": [
+    "SANDOZ CANADA INCORPORATED"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "FENTANYL"
+  ]
+}

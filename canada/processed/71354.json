@@ -1,0 +1,31 @@
+{
+  "drug_code": "71354",
+  "din": "02247115",
+  "brand_name": "SYNOVEX CHOICE",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "28-APR-2017",
+  "active_ingredients": [
+    {
+      "name": "TRENBOLONE ACETATE",
+      "strength": "100",
+      "unit": "MG"
+    },
+    {
+      "name": "ESTRADIOL BENZOATE",
+      "strength": "14",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "IMPLANT"
+  ],
+  "routes": [
+    "SUBCUTANEOUS"
+  ],
+  "companies": [
+    "ZOETIS CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": []
+}

@@ -1,0 +1,28 @@
+{
+  "drug_code": "67741",
+  "din": "02243803",
+  "brand_name": "LAMICTAL",
+  "class": "Human",
+  "descriptor": "CHEWABLE/DISPERSIBLE TABLETS/MAY BE SWALLOWED WHOLE",
+  "last_update": "30-NOV-2010",
+  "active_ingredients": [
+    {
+      "name": "LAMOTRIGINE",
+      "strength": "2",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "GLAXOSMITHKLINE INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "LAMOTRIGINE"
+  ]
+}

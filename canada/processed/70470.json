@@ -1,0 +1,33 @@
+{
+  "drug_code": "70470",
+  "din": "02246308",
+  "brand_name": "PAINAID PMF PREMENSTRUAL FORMULA",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "09-JUL-2012",
+  "active_ingredients": [
+    {
+      "name": "PAMABROM",
+      "strength": "25",
+      "unit": "MG"
+    },
+    {
+      "name": "ACETAMINOPHEN",
+      "strength": "500",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "ZEE MEDICAL"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "ACETAMINOPHEN, COMB EXCL PSYCHOLEPTICS"
+  ]
+}

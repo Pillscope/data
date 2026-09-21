@@ -1,0 +1,26 @@
+{
+  "drug_code": "93923",
+  "din": "02452820",
+  "brand_name": "IMRESTOR",
+  "class": "Veterinary",
+  "descriptor": "SINGLE-DOSE SYRINGE (2.7 ML)",
+  "last_update": "02-NOV-2017",
+  "active_ingredients": [
+    {
+      "name": "PEGBOVIGRASTIM",
+      "strength": "15",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "SUBCUTANEOUS"
+  ],
+  "companies": [
+    "ELANCO CANADA LIMITED"
+  ],
+  "status": "APPROVED",
+  "atc": []
+}

@@ -1,0 +1,28 @@
+{
+  "drug_code": "87221",
+  "din": "02386631",
+  "brand_name": "CREST PRO-HEALTH FOR LIFE MULTI-PROTECTION",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "09-AUG-2013",
+  "active_ingredients": [
+    {
+      "name": "CETYLPYRIDINIUM CHLORIDE",
+      "strength": "0.07",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "MOUTHWASH/GARGLE"
+  ],
+  "routes": [
+    "BUCCAL"
+  ],
+  "companies": [
+    "PROCTER & GAMBLE INC"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "CETYLPYRIDINIUM"
+  ]
+}

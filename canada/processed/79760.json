@@ -1,0 +1,28 @@
+{
+  "drug_code": "79760",
+  "din": "02312085",
+  "brand_name": "PMS-TOPIRAMATE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "11-SEP-2008",
+  "active_ingredients": [
+    {
+      "name": "TOPIRAMATE",
+      "strength": "50",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "PHARMASCIENCE INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "TOPIRAMATE"
+  ]
+}

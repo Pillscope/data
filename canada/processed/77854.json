@@ -1,0 +1,28 @@
+{
+  "drug_code": "77854",
+  "din": "02293161",
+  "brand_name": "TEVA-CLOPIDOGREL",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "22-JAN-2013",
+  "active_ingredients": [
+    {
+      "name": "CLOPIDOGREL (CLOPIDOGREL BISULFATE)",
+      "strength": "75",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "TEVA CANADA LIMITED"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "CLOPIDOGREL"
+  ]
+}

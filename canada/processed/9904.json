@@ -1,0 +1,28 @@
+{
+  "drug_code": "9904",
+  "din": "00828793",
+  "brand_name": "ATENOLOL",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "11-JAN-2016",
+  "active_ingredients": [
+    {
+      "name": "ATENOLOL",
+      "strength": "100",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "PRO DOC LIMITEE"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "ATENOLOL"
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "drug_code": "26617",
+  "din": "02030586",
+  "brand_name": "2 SULFAMED",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "27-NOV-2017",
+  "active_ingredients": [
+    {
+      "name": "SULFATHIAZOLE SODIUM",
+      "strength": "315",
+      "unit": "MG"
+    },
+    {
+      "name": "SULFAMETHAZINE SODIUM",
+      "strength": "630",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "POWDER FOR SOLUTION"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "BIO AGRI MIX LP"
+  ],
+  "status": "APPROVED",
+  "atc": []
+}

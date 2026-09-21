@@ -1,0 +1,28 @@
+{
+  "drug_code": "65823",
+  "din": "02242145",
+  "brand_name": "CELLCEPT",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "09-JUL-2009",
+  "active_ingredients": [
+    {
+      "name": "MYCOPHENOLATE MOFETIL",
+      "strength": "200",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "POWDER FOR SUSPENSION"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "HOFFMANN-LA ROCHE LIMITED"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "MYCOPHENOLIC ACID"
+  ]
+}

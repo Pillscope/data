@@ -1,0 +1,28 @@
+{
+  "drug_code": "1931",
+  "din": "00287873",
+  "brand_name": "SANDOZ COLCHICINE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "10-NOV-2017",
+  "active_ingredients": [
+    {
+      "name": "COLCHICINE",
+      "strength": "0.6",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "SANDOZ CANADA INCORPORATED"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "COLCHICINE"
+  ]
+}

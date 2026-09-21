@@ -1,0 +1,38 @@
+{
+  "drug_code": "82602",
+  "din": "02340437",
+  "brand_name": "SPF 30 SUNBURN PROTECTION LOTION",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "21-JUN-2010",
+  "active_ingredients": [
+    {
+      "name": "OXYBENZONE",
+      "strength": "4",
+      "unit": "%"
+    },
+    {
+      "name": "OCTISALATE",
+      "strength": "5",
+      "unit": "%"
+    },
+    {
+      "name": "OCTINOXATE",
+      "strength": "7.5",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "LOTION"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "PRIME ENTERPRISES INC"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "COMBINATIONS OF PROTECTIVES AGAINST UV-RADIATION"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "drug_code": "10790",
+  "din": "00851965",
+  "brand_name": "TEVA-TAMOXIFEN",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "05-MAY-2015",
+  "active_ingredients": [
+    {
+      "name": "TAMOXIFEN (TAMOXIFEN CITRATE)",
+      "strength": "10",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "TEVA CANADA LIMITED"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "TAMOXIFEN"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "drug_code": "87637",
+  "din": "02390981",
+  "brand_name": "TOPOTECAN INJECTION",
+  "class": "Human",
+  "descriptor": "CONCENTRATE (DILUTE BEFORE USE). 1/3/4ML SINGLE-USE VIALS.",
+  "last_update": "18-FEB-2014",
+  "active_ingredients": [
+    {
+      "name": "TOPOTECAN (TOPOTECAN HYDROCHLORIDE)",
+      "strength": "1",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "SANDOZ CANADA INCORPORATED"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "TOPOTECAN"
+  ]
+}

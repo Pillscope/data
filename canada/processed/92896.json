@@ -1,0 +1,28 @@
+{
+  "drug_code": "92896",
+  "din": "02444127",
+  "brand_name": "LYSOL DISINFECTANT BATHROOM BLEACH CLEANER",
+  "class": "Disinfectant",
+  "descriptor": "",
+  "last_update": "16-JAN-2018",
+  "active_ingredients": [
+    {
+      "name": "SODIUM HYPOCHLORITE",
+      "strength": "2",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "FOAM"
+  ],
+  "routes": [
+    "DISINFECTANT (Domestic)"
+  ],
+  "companies": [
+    "RECKITT BENCKISER (CANADA) INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "TECHNICAL DISINFECTANTS"
+  ]
+}

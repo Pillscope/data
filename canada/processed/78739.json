@@ -1,0 +1,28 @@
+{
+  "drug_code": "78739",
+  "din": "02302063",
+  "brand_name": "RASILEZ",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "16-JAN-2018",
+  "active_ingredients": [
+    {
+      "name": "ALISKIREN (ALISKIREN FUMARATE)",
+      "strength": "150",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "NODEN PHARMA DAC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "ALISKIREN"
+  ]
+}

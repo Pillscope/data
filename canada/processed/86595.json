@@ -1,0 +1,26 @@
+{
+  "drug_code": "86595",
+  "din": "02380110",
+  "brand_name": "COPPER HOOF TREATMENT",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "11-OCT-2016",
+  "active_ingredients": [
+    {
+      "name": "COPPER NAPHTHENATE",
+      "strength": "37.5",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "ALBERTA VETERINARY LABORATORIES LTD"
+  ],
+  "status": "APPROVED",
+  "atc": []
+}

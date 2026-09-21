@@ -1,0 +1,26 @@
+{
+  "drug_code": "95135",
+  "din": "02463385",
+  "brand_name": "CEFASEPTIN 750 MG",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "09-AUG-2017",
+  "active_ingredients": [
+    {
+      "name": "CEPHALEXIN (CEPHALEXIN MONOHYDRATE)",
+      "strength": "750",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET (CHEWABLE)"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "VETOQUINOL N A INC"
+  ],
+  "status": "APPROVED",
+  "atc": []
+}

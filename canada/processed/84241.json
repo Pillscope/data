@@ -1,0 +1,28 @@
+{
+  "drug_code": "84241",
+  "din": "02357283",
+  "brand_name": "EXTRA STRENGTH IBUPROFEN LIQUID CAPSULES",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "29-NOV-2017",
+  "active_ingredients": [
+    {
+      "name": "IBUPROFEN",
+      "strength": "400",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "CAPSULE"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "VITA HEALTH PRODUCTS INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "IBUPROFEN"
+  ]
+}

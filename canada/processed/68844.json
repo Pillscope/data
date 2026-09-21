@@ -1,0 +1,28 @@
+{
+  "drug_code": "68844",
+  "din": "02244854",
+  "brand_name": "MILRINONE LACTATE INJECTION",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "05-MAY-2015",
+  "active_ingredients": [
+    {
+      "name": "MILRINONE (MILRINONE LACTATE)",
+      "strength": "1.0",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "SANDOZ CANADA INCORPORATED"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "MILRINONE"
+  ]
+}

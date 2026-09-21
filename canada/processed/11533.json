@@ -1,0 +1,26 @@
+{
+  "drug_code": "11533",
+  "din": "01908367",
+  "brand_name": "STAFAC 44",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "22-JAN-2018",
+  "active_ingredients": [
+    {
+      "name": "VIRGINIAMYCIN",
+      "strength": "44",
+      "unit": "G"
+    }
+  ],
+  "forms": [
+    "DRUG PREMIX"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "PHIBRO ANIMAL HEALTH CORPORATION"
+  ],
+  "status": "APPROVED",
+  "atc": []
+}

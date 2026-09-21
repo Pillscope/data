@@ -1,0 +1,28 @@
+{
+  "drug_code": "64398",
+  "din": "02240807",
+  "brand_name": "PMS-TERBINAFINE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "21-MAY-2010",
+  "active_ingredients": [
+    {
+      "name": "TERBINAFINE (TERBINAFINE HYDROCHLORIDE)",
+      "strength": "250",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "PHARMASCIENCE INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "TERBINAFINE"
+  ]
+}

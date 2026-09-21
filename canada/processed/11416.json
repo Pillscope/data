@@ -1,0 +1,28 @@
+{
+  "drug_code": "11416",
+  "din": "00886157",
+  "brand_name": "ZOVIRAX",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "15-SEP-2008",
+  "active_ingredients": [
+    {
+      "name": "ACYCLOVIR",
+      "strength": "200",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SUSPENSION"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "GLAXOSMITHKLINE INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "ACYCLOVIR"
+  ]
+}

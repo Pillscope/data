@@ -1,0 +1,28 @@
+{
+  "drug_code": "92134",
+  "din": "02437031",
+  "brand_name": "DOCETAXEL INJECTION",
+  "class": "Human",
+  "descriptor": "FOR I.V. INFUSION. 1/4/8ML SINGLE DOSE-VIALS",
+  "last_update": "10-JAN-2017",
+  "active_ingredients": [
+    {
+      "name": "DOCETAXEL",
+      "strength": "20",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "ACCORD HEALTHCARE INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "DOCETAXEL"
+  ]
+}

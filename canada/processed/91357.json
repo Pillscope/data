@@ -1,0 +1,31 @@
+{
+  "drug_code": "91357",
+  "din": "02429136",
+  "brand_name": "REVALOR-100",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "09-FEB-2018",
+  "active_ingredients": [
+    {
+      "name": "ESTRADIOL",
+      "strength": "10",
+      "unit": "MG"
+    },
+    {
+      "name": "TRENBOLONE ACETATE",
+      "strength": "100",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "IMPLANT"
+  ],
+  "routes": [
+    "SUBCUTANEOUS"
+  ],
+  "companies": [
+    "INTERVET CANADA CORP"
+  ],
+  "status": "APPROVED",
+  "atc": []
+}

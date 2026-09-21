@@ -1,0 +1,28 @@
+{
+  "drug_code": "61432",
+  "din": "02238048",
+  "brand_name": "APO-VALPROIC",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "28-SEP-2007",
+  "active_ingredients": [
+    {
+      "name": "VALPROIC ACID",
+      "strength": "250",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "CAPSULE"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "APOTEX INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "VALPROIC ACID"
+  ]
+}

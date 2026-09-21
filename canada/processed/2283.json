@@ -1,0 +1,28 @@
+{
+  "drug_code": "2283",
+  "din": "00356557",
+  "brand_name": "FOLIC ACID TAB 25MG",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "06-JUL-2011",
+  "active_ingredients": [
+    {
+      "name": "FOLIC ACID",
+      "strength": "25",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "KRIPPS PHARMACY LTD."
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "FOLIC ACID"
+  ]
+}

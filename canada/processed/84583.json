@@ -1,0 +1,33 @@
+{
+  "drug_code": "84583",
+  "din": "02360837",
+  "brand_name": "CLEAR EYES EXTRA STRENGTH REDNESS RELIEF",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "09-JUL-2012",
+  "active_ingredients": [
+    {
+      "name": "NAPHAZOLINE HYDROCHLORIDE",
+      "strength": "0.03",
+      "unit": "%"
+    },
+    {
+      "name": "GLYCERINE",
+      "strength": "0.50",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "OPHTHALMIC"
+  ],
+  "companies": [
+    "PRESTIGE BRANDS INC"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "NAPHAZOLINE, COMBINATIONS"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "drug_code": "4733",
+  "din": "00544981",
+  "brand_name": "APO ACETAMINOPHEN TAB 325MG",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "18-APR-2018",
+  "active_ingredients": [
+    {
+      "name": "ACETAMINOPHEN",
+      "strength": "325",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "APOTEX INC"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "ACETAMINOPHEN (PARACETAMOL)"
+  ]
+}

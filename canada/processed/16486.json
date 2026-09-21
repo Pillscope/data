@@ -1,0 +1,58 @@
+{
+  "drug_code": "16486",
+  "din": "02072378",
+  "brand_name": "UNI-STRESS LIQ IM",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "19-DEC-2005",
+  "active_ingredients": [
+    {
+      "name": "THIAMINE HYDROCHLORIDE",
+      "strength": "2",
+      "unit": "MG"
+    },
+    {
+      "name": "NICOTINAMIDE",
+      "strength": "20",
+      "unit": "MG"
+    },
+    {
+      "name": "FERRIC AMMONIUM CITRATE",
+      "strength": "10",
+      "unit": "MG"
+    },
+    {
+      "name": "COBALT GLUCONATE",
+      "strength": ".05",
+      "unit": "MG"
+    },
+    {
+      "name": "LIVER (LIVER EXTRACT)",
+      "strength": "25",
+      "unit": "MG"
+    },
+    {
+      "name": "COPPER GLUCONATE",
+      "strength": "5",
+      "unit": "MCG"
+    },
+    {
+      "name": "VITAMIN B12",
+      "strength": "25",
+      "unit": "MCG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "INTRAMUSCULAR"
+  ],
+  "companies": [
+    "UNIVET PHARMACEUTICALS LTD."
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "VITAMINS WITH MINERALS"
+  ]
+}

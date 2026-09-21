@@ -1,0 +1,56 @@
+{
+  "drug_code": "6202",
+  "din": "00641618",
+  "brand_name": "NEO-SULFALYTE",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "13-DEC-2017",
+  "active_ingredients": [
+    {
+      "name": "SULFAMETHAZINE",
+      "strength": "2",
+      "unit": "G"
+    },
+    {
+      "name": "NEOMYCIN (NEOMYCIN SULFATE)",
+      "strength": "250",
+      "unit": "MG"
+    },
+    {
+      "name": "SODIUM CHLORIDE",
+      "strength": "209",
+      "unit": "MG"
+    },
+    {
+      "name": "SODIUM ACETATE",
+      "strength": "229",
+      "unit": "MG"
+    },
+    {
+      "name": "MAGNESIUM CHLORIDE",
+      "strength": "11",
+      "unit": "MG"
+    },
+    {
+      "name": "CALCIUM CHLORIDE",
+      "strength": "11",
+      "unit": "MG"
+    },
+    {
+      "name": "POTASSIUM ACETATE",
+      "strength": "38",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "BOLUS"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "CAN-VET ANIMAL HEALTH SUPPLIES LTD."
+  ],
+  "status": "APPROVED",
+  "atc": []
+}

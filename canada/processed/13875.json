@@ -1,0 +1,28 @@
+{
+  "drug_code": "13875",
+  "din": "00873292",
+  "brand_name": "DERMA SMOOTHE/FS LIQ 0.01%",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "20-JUN-2006",
+  "active_ingredients": [
+    {
+      "name": "FLUOCINOLONE ACETONIDE",
+      "strength": "0.01",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "LIQUID"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "HILL DERMACEUTICALS INC"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "FLUOCINOLONE ACETONIDE"
+  ]
+}

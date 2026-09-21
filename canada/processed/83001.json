@@ -1,0 +1,43 @@
+{
+  "drug_code": "83001",
+  "din": "02344505",
+  "brand_name": "SPF/FPS 50 FRAGRANCE-FREE SPRAY SUNSCREEN",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "15-NOV-2010",
+  "active_ingredients": [
+    {
+      "name": "AVOBENZONE",
+      "strength": "3",
+      "unit": "%"
+    },
+    {
+      "name": "OXYBENZONE",
+      "strength": "6",
+      "unit": "%"
+    },
+    {
+      "name": "OCTISALATE",
+      "strength": "5",
+      "unit": "%"
+    },
+    {
+      "name": "HOMOSALATE",
+      "strength": "15",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "SPRAY"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "KINESYS PHARMACEUTICAL INC"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "COMBINATIONS OF PROTECTIVES AGAINST UV-RADIATION"
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "drug_code": "95265",
+  "din": "02464519",
+  "brand_name": "TARO-BENZOYL PEROXIDE / CLINDAMYCIN KIT",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "31-JUL-2017",
+  "active_ingredients": [
+    {
+      "name": "BENZOYL PEROXIDE",
+      "strength": "5",
+      "unit": "%"
+    },
+    {
+      "name": "CLINDAMYCIN (CLINDAMYCIN PHOSPHATE)",
+      "strength": "1",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "GEL"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "TARO PHARMACEUTICALS INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "CLINDAMYCIN, COMBINATIONS",
+    "CLINDAMYCIN, COMBINATIONS"
+  ]
+}

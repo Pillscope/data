@@ -1,0 +1,28 @@
+{
+  "drug_code": "75597",
+  "din": "02270609",
+  "brand_name": "PMS-CITALOPRAM",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "21-NOV-2006",
+  "active_ingredients": [
+    {
+      "name": "CITALOPRAM (CITALOPRAM HYDROBROMIDE)",
+      "strength": "10",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "PHARMASCIENCE INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "CITALOPRAM"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "drug_code": "91243",
+  "din": "02427931",
+  "brand_name": "APO-NEVIRAPINE XR",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "27-NOV-2015",
+  "active_ingredients": [
+    {
+      "name": "NEVIRAPINE",
+      "strength": "400",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET (EXTENDED-RELEASE)"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "APOTEX INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "NEVIRAPINE"
+  ]
+}

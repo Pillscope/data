@@ -1,0 +1,26 @@
+{
+  "drug_code": "2988",
+  "din": "00433780",
+  "brand_name": "STRONGID P",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "21-NOV-2016",
+  "active_ingredients": [
+    {
+      "name": "PYRANTEL (PYRANTEL PAMOATE)",
+      "strength": "3.58",
+      "unit": "G"
+    }
+  ],
+  "forms": [
+    "PASTE"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "ZOETIS CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": []
+}

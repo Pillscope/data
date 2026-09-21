@@ -1,0 +1,28 @@
+{
+  "drug_code": "15704",
+  "din": "02043440",
+  "brand_name": "PREMARIN VAGINAL CREAM",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "18-APR-2018",
+  "active_ingredients": [
+    {
+      "name": "CONJUGATED ESTROGENS",
+      "strength": "0.625",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "CREAM"
+  ],
+  "routes": [
+    "VAGINAL"
+  ],
+  "companies": [
+    "PFIZER CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "CONJUGATED ESTROGENS"
+  ]
+}

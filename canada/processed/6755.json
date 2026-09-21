@@ -1,0 +1,28 @@
+{
+  "drug_code": "6755",
+  "din": "00594652",
+  "brand_name": "STATEX TAB 5MG",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "28-SEP-2009",
+  "active_ingredients": [
+    {
+      "name": "MORPHINE SULFATE",
+      "strength": "5",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "PALADIN LABS INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "MORPHINE"
+  ]
+}

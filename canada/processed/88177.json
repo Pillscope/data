@@ -1,0 +1,28 @@
+{
+  "drug_code": "88177",
+  "din": "02396750",
+  "brand_name": "INTELENCE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "05-SEP-2017",
+  "active_ingredients": [
+    {
+      "name": "ETRAVIRINE",
+      "strength": "25",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "JANSSEN INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "ETRAVIRINE"
+  ]
+}

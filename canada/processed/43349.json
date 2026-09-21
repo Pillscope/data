@@ -1,0 +1,28 @@
+{
+  "drug_code": "43349",
+  "din": "02223163",
+  "brand_name": "BUSPIRONE-10 - TAB 10MG",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "07-MAY-2008",
+  "active_ingredients": [
+    {
+      "name": "BUSPIRONE HYDROCHLORIDE",
+      "strength": "10",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "PRO DOC LIMITEE"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "BUSPIRONE"
+  ]
+}

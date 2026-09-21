@@ -1,0 +1,28 @@
+{
+  "drug_code": "95856",
+  "din": "02469723",
+  "brand_name": "BAVENCIO",
+  "class": "Human",
+  "descriptor": "SINGLE USE VIAL",
+  "last_update": "21-MAR-2018",
+  "active_ingredients": [
+    {
+      "name": "AVELUMAB",
+      "strength": "20",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "EMD SERONO A DIVISION OF EMD INC CANADA"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "MONOCLONAL ANTIBODIES"
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "drug_code": "85183",
+  "din": "02367017",
+  "brand_name": "VALSARTAN HCT",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "17-AUG-2012",
+  "active_ingredients": [
+    {
+      "name": "VALSARTAN",
+      "strength": "160",
+      "unit": "MG"
+    },
+    {
+      "name": "HYDROCHLOROTHIAZIDE",
+      "strength": "12.5",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "SANIS HEALTH INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "VALSARTAN AND DIURETICS",
+    "VALSARTAN AND DIURETICS"
+  ]
+}

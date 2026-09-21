@@ -1,0 +1,39 @@
+{
+  "drug_code": "12942",
+  "din": "01934767",
+  "brand_name": "ROBAXACET-8",
+  "class": "Human",
+  "descriptor": "CAPLET",
+  "last_update": "28-FEB-2018",
+  "active_ingredients": [
+    {
+      "name": "CODEINE PHOSPHATE",
+      "strength": "8",
+      "unit": "MG"
+    },
+    {
+      "name": "METHOCARBAMOL",
+      "strength": "400",
+      "unit": "MG"
+    },
+    {
+      "name": "ACETAMINOPHEN",
+      "strength": "325",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "PFIZER CONSUMER HEALTHCARE A DIVISION OF PFIZER CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "CODEINE, COMBINATIONS EXCL. PSYCHOLEPTICS",
+    "CODEINE, COMBINATIONS EXCL. PSYCHOLEPTICS"
+  ]
+}

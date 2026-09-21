@@ -1,0 +1,28 @@
+{
+  "drug_code": "75421",
+  "din": "02268817",
+  "brand_name": "MEDICATED ACNE GEL",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "26-MAY-2017",
+  "active_ingredients": [
+    {
+      "name": "BENZOYL PEROXIDE",
+      "strength": "5",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "GEL"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "PRIME ENTERPRISES INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "BENZOYL PEROXIDE"
+  ]
+}

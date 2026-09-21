@@ -1,0 +1,38 @@
+{
+  "drug_code": "89908",
+  "din": "02414430",
+  "brand_name": "MARY KAY CC CREAM",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "13-JUN-2014",
+  "active_ingredients": [
+    {
+      "name": "OXYBENZONE",
+      "strength": "1.2",
+      "unit": "%"
+    },
+    {
+      "name": "HOMOSALATE",
+      "strength": "5.0",
+      "unit": "%"
+    },
+    {
+      "name": "OCTINOXATE",
+      "strength": "6.5",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "CREAM"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "MARY KAY COSMETICS LTD"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "COMBINATIONS OF PROTECTIVES AGAINST UV-RADIATION"
+  ]
+}

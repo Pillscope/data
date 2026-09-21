@@ -1,0 +1,28 @@
+{
+  "drug_code": "84197",
+  "din": "02356856",
+  "brand_name": "TOPIRAMATE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "15-NOV-2010",
+  "active_ingredients": [
+    {
+      "name": "TOPIRAMATE",
+      "strength": "25",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "SANIS HEALTH INC"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "TOPIRAMATE"
+  ]
+}

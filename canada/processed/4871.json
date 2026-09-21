@@ -1,0 +1,26 @@
+{
+  "drug_code": "4871",
+  "din": "00572233",
+  "brand_name": "BUTEQUINE",
+  "class": "Veterinary",
+  "descriptor": "PHENYLBUTAZONE ORAL PASTE FOR HORSES",
+  "last_update": "05-MAY-2015",
+  "active_ingredients": [
+    {
+      "name": "PHENYLBUTAZONE",
+      "strength": "1",
+      "unit": "G"
+    }
+  ],
+  "forms": [
+    "PASTE"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "VETOQUINOL N A INC"
+  ],
+  "status": "APPROVED",
+  "atc": []
+}

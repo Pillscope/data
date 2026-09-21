@@ -1,0 +1,28 @@
+{
+  "drug_code": "81319",
+  "din": "02327783",
+  "brand_name": "SANDOZ OLANZAPINE ODT",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "19-MAY-2010",
+  "active_ingredients": [
+    {
+      "name": "OLANZAPINE",
+      "strength": "10",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET (ORALLY DISINTEGRATING)"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "SANDOZ CANADA INCORPORATED"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "OLANZAPINE"
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "drug_code": "76384",
+  "din": "02278251",
+  "brand_name": "DUOTRAV PQ",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "02-FEB-2017",
+  "active_ingredients": [
+    {
+      "name": "TIMOLOL (TIMOLOL MALEATE)",
+      "strength": "0.5",
+      "unit": "%"
+    },
+    {
+      "name": "TRAVOPROST",
+      "strength": "0.004",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "OPHTHALMIC"
+  ],
+  "companies": [
+    "NOVARTIS PHARMACEUTICALS CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "TIMOLOL, COMBINATIONS",
+    "TIMOLOL, COMBINATIONS"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "drug_code": "82246",
+  "din": "02336847",
+  "brand_name": "BESIVANCE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "15-SEP-2014",
+  "active_ingredients": [
+    {
+      "name": "BESIFLOXACIN",
+      "strength": "0.6",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "SUSPENSION"
+  ],
+  "routes": [
+    "OPHTHALMIC"
+  ],
+  "companies": [
+    "BAUSCH & LOMB INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "BESIFLOXACIN"
+  ]
+}

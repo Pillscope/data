@@ -1,0 +1,28 @@
+{
+  "drug_code": "77265",
+  "din": "02287234",
+  "brand_name": "MINOCYCLINE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "19-MAR-2010",
+  "active_ingredients": [
+    {
+      "name": "MINOCYCLINE (MINOCYCLINE HYDROCHLORIDE)",
+      "strength": "100",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "CAPSULE"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "SANIS HEALTH INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "MINOCYCLINE"
+  ]
+}

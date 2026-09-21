@@ -1,0 +1,28 @@
+{
+  "drug_code": "19218",
+  "din": "02138301",
+  "brand_name": "DOM-LOPERAMIDE HYDROCHLORIDE SOLUTION-ORL",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "10-MAY-2016",
+  "active_ingredients": [
+    {
+      "name": "LOPERAMIDE HYDROCHLORIDE",
+      "strength": ".2",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "DOMINION PHARMACAL"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "LOPERAMIDE"
+  ]
+}

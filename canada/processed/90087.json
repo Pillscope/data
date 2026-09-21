@@ -1,0 +1,28 @@
+{
+  "drug_code": "90087",
+  "din": "02416301",
+  "brand_name": "PMS-NIFEDIPINE ER",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "27-MAR-2015",
+  "active_ingredients": [
+    {
+      "name": "NIFEDIPINE",
+      "strength": "60",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET (EXTENDED-RELEASE)"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "PHARMASCIENCE INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "NIFEDIPINE"
+  ]
+}

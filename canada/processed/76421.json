@@ -1,0 +1,28 @@
+{
+  "drug_code": "76421",
+  "din": "02278642",
+  "brand_name": "SANDOZ FAMCICLOVIR",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "09-MAR-2007",
+  "active_ingredients": [
+    {
+      "name": "FAMCICLOVIR",
+      "strength": "250",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "SANDOZ CANADA INCORPORATED"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "FAMCICLOVIR"
+  ]
+}

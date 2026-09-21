@@ -1,0 +1,26 @@
+{
+  "drug_code": "9165",
+  "din": "00639036",
+  "brand_name": "B-55",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "04-JAN-2011",
+  "active_ingredients": [
+    {
+      "name": "CHLORHEXIDINE ACETATE",
+      "strength": "1.50",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "GEA FARM TECHNOLOGIES INC"
+  ],
+  "status": "APPROVED",
+  "atc": []
+}

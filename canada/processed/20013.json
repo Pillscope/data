@@ -1,0 +1,33 @@
+{
+  "drug_code": "20013",
+  "din": "02161656",
+  "brand_name": "CAVICIDE",
+  "class": "Disinfectant",
+  "descriptor": "",
+  "last_update": "30-AUG-2011",
+  "active_ingredients": [
+    {
+      "name": "ISOPROPYL ALCOHOL",
+      "strength": "17.20",
+      "unit": "%"
+    },
+    {
+      "name": "BENZETHONIUM CHLORIDE",
+      "strength": "0.28",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "LIQUID"
+  ],
+  "routes": [
+    "DISINFECTANT (Hospital/HC Facilities)"
+  ],
+  "companies": [
+    "METREX RESEARCH"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "TECHNICAL DISINFECTANTS"
+  ]
+}

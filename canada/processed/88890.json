@@ -1,0 +1,33 @@
+{
+  "drug_code": "88890",
+  "din": "02404125",
+  "brand_name": "3M SOLUPREP SPONGE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "23-SEP-2013",
+  "active_ingredients": [
+    {
+      "name": "CHLORHEXIDINE GLUCONATE",
+      "strength": "2",
+      "unit": "%"
+    },
+    {
+      "name": "ISOPROPYL ALCOHOL",
+      "strength": "70",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "SPONGE"
+  ],
+  "routes": [
+    "TOPICAL (HOSPITAL/HC FACILITIES)"
+  ],
+  "companies": [
+    "3M CANADA COMPANY"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "CHLORHEXIDINE, COMBINATIONS"
+  ]
+}

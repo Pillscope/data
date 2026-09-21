@@ -1,0 +1,38 @@
+{
+  "drug_code": "88595",
+  "din": "02401223",
+  "brand_name": "AVON ELEMENTS MOISTURE BOOST SPF.FPS 15 DAILY MOISTURE CREAM",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "15-AUG-2013",
+  "active_ingredients": [
+    {
+      "name": "AVOBENZONE",
+      "strength": "2.00",
+      "unit": "%"
+    },
+    {
+      "name": "OCTISALATE",
+      "strength": "4.75",
+      "unit": "%"
+    },
+    {
+      "name": "OCTINOXATE",
+      "strength": "7.11",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "CREAM"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "AVON CANADA INC"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "COMBINATIONS OF PROTECTIVES AGAINST UV-RADIATION"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "drug_code": "78536",
+  "din": "02300036",
+  "brand_name": "MYLAN-ENALAPRIL",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "23-JUL-2016",
+  "active_ingredients": [
+    {
+      "name": "ENALAPRIL SODIUM",
+      "strength": "2",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "MYLAN PHARMACEUTICALS ULC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "ENALAPRIL"
+  ]
+}

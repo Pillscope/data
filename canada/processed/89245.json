@@ -1,0 +1,28 @@
+{
+  "drug_code": "89245",
+  "din": "02407744",
+  "brand_name": "JAMP-VANCOMYCIN",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "08-APR-2014",
+  "active_ingredients": [
+    {
+      "name": "VANCOMYCIN (VANCOMYCIN HYDROCHLORIDE)",
+      "strength": "125",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "CAPSULE"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "JAMP PHARMA CORPORATION"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "VANCOMYCIN"
+  ]
+}

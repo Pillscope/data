@@ -1,0 +1,28 @@
+{
+  "drug_code": "95745",
+  "din": "02468840",
+  "brand_name": "MINT-ACITRETIN",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "02-MAR-2018",
+  "active_ingredients": [
+    {
+      "name": "ACITRETIN",
+      "strength": "10",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "CAPSULE"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "MINT PHARMACEUTICALS INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "ACITRETIN"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "drug_code": "71336",
+  "din": "02247099",
+  "brand_name": "ZYPREXA INTRAMUSCULAR",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "11-MAY-2005",
+  "active_ingredients": [
+    {
+      "name": "OLANZAPINE (OLANZAPINE TARTRATE)",
+      "strength": "10",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "POWDER FOR SOLUTION"
+  ],
+  "routes": [
+    "INTRAMUSCULAR"
+  ],
+  "companies": [
+    "ELI LILLY CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "OLANZAPINE"
+  ]
+}

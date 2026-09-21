@@ -1,0 +1,28 @@
+{
+  "drug_code": "92742",
+  "din": "02442914",
+  "brand_name": "RIZATRIPTAN ODT",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "08-SEP-2015",
+  "active_ingredients": [
+    {
+      "name": "RIZATRIPTAN (RIZATRIPTAN BENZOATE)",
+      "strength": "10",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET (ORALLY DISINTEGRATING)"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "SANIS HEALTH INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "RIZATRIPTAN"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "drug_code": "76153",
+  "din": "02275872",
+  "brand_name": "HYPURIN REGULAR INSULIN PORK",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "20-AUG-2012",
+  "active_ingredients": [
+    {
+      "name": "INSULIN INJECTION PORK",
+      "strength": "100",
+      "unit": "UNIT"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "INTRAMUSCULAR",
+    "INTRAVENOUS",
+    "SUBCUTANEOUS"
+  ],
+  "companies": [
+    "WOCKHARDT UK LTD"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "INSULIN (PORK)"
+  ]
+}

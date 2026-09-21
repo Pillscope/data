@@ -1,0 +1,28 @@
+{
+  "drug_code": "89682",
+  "din": "02412268",
+  "brand_name": "LACTULOSE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "28-NOV-2017",
+  "active_ingredients": [
+    {
+      "name": "LACTULOSE",
+      "strength": "667",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "SANIS HEALTH INC"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "LACTULOSE"
+  ]
+}

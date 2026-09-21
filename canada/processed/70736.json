@@ -1,0 +1,29 @@
+{
+  "drug_code": "70736",
+  "din": "02246553",
+  "brand_name": "REMODULIN",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "15-OCT-2015",
+  "active_ingredients": [
+    {
+      "name": "TREPROSTINIL (TREPROSTINIL SODIUM)",
+      "strength": "2.5",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "INTRAVENOUS",
+    "SUBCUTANEOUS"
+  ],
+  "companies": [
+    "UNITED THERAPEUTICS CORPORATION"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "TREPROSTINIL"
+  ]
+}

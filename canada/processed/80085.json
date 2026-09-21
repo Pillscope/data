@@ -1,0 +1,28 @@
+{
+  "drug_code": "80085",
+  "din": "02315300",
+  "brand_name": "RIVA-METOPROLOL L",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "13-MAY-2010",
+  "active_ingredients": [
+    {
+      "name": "METOPROLOL TARTRATE",
+      "strength": "25",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "LABORATOIRE RIVA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "METOPROLOL"
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "drug_code": "92669",
+  "din": "02442329",
+  "brand_name": "BIOTEXT",
+  "class": "Disinfectant",
+  "descriptor": "",
+  "last_update": "18-SEP-2017",
+  "active_ingredients": [
+    {
+      "name": "ALCOHOL ANHYDROUS",
+      "strength": "19.9",
+      "unit": "%"
+    },
+    {
+      "name": "CHLORHEXIDINE GLUCONATE",
+      "strength": "0.1",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "WIPE"
+  ],
+  "routes": [
+    "DISINFECTANT (Food Premises)",
+    "DISINFECTANT (Hospital/HC Facilities)",
+    "DISINFECTANT (Institutional/Industrial)"
+  ],
+  "companies": [
+    "MICRYLIUM LABORATORIES INC."
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "TECHNICAL DISINFECTANTS"
+  ]
+}

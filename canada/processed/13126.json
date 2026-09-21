@@ -1,0 +1,28 @@
+{
+  "drug_code": "13126",
+  "din": "00888400",
+  "brand_name": "ZAROXOLYN",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "03-SEP-2009",
+  "active_ingredients": [
+    {
+      "name": "METOLAZONE",
+      "strength": "2.5",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "SANOFI-AVENTIS CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "METOLAZONE"
+  ]
+}

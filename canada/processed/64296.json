@@ -1,0 +1,28 @@
+{
+  "drug_code": "64296",
+  "din": "02240713",
+  "brand_name": "IMUNOVIR",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "22-MAY-2013",
+  "active_ingredients": [
+    {
+      "name": "INOSINE PRANOBEX",
+      "strength": "500",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "KORA HEALTHCARE"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "INOSINE PRANOBEX"
+  ]
+}

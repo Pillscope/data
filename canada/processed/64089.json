@@ -1,0 +1,28 @@
+{
+  "drug_code": "64089",
+  "din": "02240518",
+  "brand_name": "MAXALT RPD",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "10-MAY-2012",
+  "active_ingredients": [
+    {
+      "name": "RIZATRIPTAN (RIZATRIPTAN BENZOATE)",
+      "strength": "5",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET (ORALLY DISINTEGRATING)"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "MERCK CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "RIZATRIPTAN"
+  ]
+}

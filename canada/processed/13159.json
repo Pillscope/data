@@ -1,0 +1,28 @@
+{
+  "drug_code": "13159",
+  "din": "01926756",
+  "brand_name": "NEULEPTIL GOUTTES 10MG/ML",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "05-MAY-2015",
+  "active_ingredients": [
+    {
+      "name": "PERICIAZINE",
+      "strength": "10",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "DROPS"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "ERFA CANADA 2012 INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "PERICIAZINE"
+  ]
+}

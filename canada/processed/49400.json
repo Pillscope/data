@@ -1,0 +1,29 @@
+{
+  "drug_code": "49400",
+  "din": "02230451",
+  "brand_name": "MITOMYCIN FOR INJECTION",
+  "class": "Human",
+  "descriptor": "SINGLE DOSE VIAL",
+  "last_update": "05-MAY-2015",
+  "active_ingredients": [
+    {
+      "name": "MITOMYCIN",
+      "strength": "20",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "POWDER FOR SOLUTION"
+  ],
+  "routes": [
+    "INTRAVENOUS",
+    "INTRAVESICAL"
+  ],
+  "companies": [
+    "TEVA CANADA LIMITED"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "MITOMYCIN"
+  ]
+}

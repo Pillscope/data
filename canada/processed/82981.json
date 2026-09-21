@@ -1,0 +1,33 @@
+{
+  "drug_code": "82981",
+  "din": "02344327",
+  "brand_name": "CLINOLEIC 20%",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "04-DEC-2013",
+  "active_ingredients": [
+    {
+      "name": "OLIVE OIL",
+      "strength": "16",
+      "unit": "%"
+    },
+    {
+      "name": "SOYBEAN OIL",
+      "strength": "4",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "EMULSION"
+  ],
+  "routes": [
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "BAXTER CORPORATION"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "FAT EMULSIONS"
+  ]
+}

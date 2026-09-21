@@ -1,0 +1,43 @@
+{
+  "drug_code": "91111",
+  "din": "02426544",
+  "brand_name": "FLUMIST QUADRIVALENT",
+  "class": "Human",
+  "descriptor": "0.2ML PREFILLED, SINGLE-USE GLASS SPRAYER",
+  "last_update": "27-AUG-2015",
+  "active_ingredients": [
+    {
+      "name": "Influenza Virus Type A (H1N1)",
+      "strength": "32000000",
+      "unit": "FFU"
+    },
+    {
+      "name": "Influenza Virus Type A (H3N2)",
+      "strength": "32000000",
+      "unit": "FFU"
+    },
+    {
+      "name": "Influenza virus type B (Victoria)",
+      "strength": "32000000",
+      "unit": "FFU"
+    },
+    {
+      "name": "Influenza virus type B (Yamagata)",
+      "strength": "32000000",
+      "unit": "FFU"
+    }
+  ],
+  "forms": [
+    "SPRAY"
+  ],
+  "routes": [
+    "NASAL"
+  ],
+  "companies": [
+    "ASTRAZENECA CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "INFLUENZA, LIVE ATTENUATED"
+  ]
+}

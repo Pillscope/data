@@ -1,0 +1,28 @@
+{
+  "drug_code": "2739",
+  "din": "00397431",
+  "brand_name": "LOPRESOR 100MG",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "19-FEB-2009",
+  "active_ingredients": [
+    {
+      "name": "METOPROLOL TARTRATE",
+      "strength": "100",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "NOVARTIS PHARMACEUTICALS CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "METOPROLOL"
+  ]
+}

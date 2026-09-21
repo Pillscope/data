@@ -1,0 +1,28 @@
+{
+  "drug_code": "91732",
+  "din": "02432919",
+  "brand_name": "TRINTELLIX",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "26-MAY-2015",
+  "active_ingredients": [
+    {
+      "name": "VORTIOXETINE (VORTIOXETINE HYDROBROMIDE)",
+      "strength": "5",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "LUNDBECK CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "Vortioxetine"
+  ]
+}

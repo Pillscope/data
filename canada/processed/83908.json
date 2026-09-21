@@ -1,0 +1,43 @@
+{
+  "drug_code": "83908",
+  "din": "02353873",
+  "brand_name": "ANEW PLATINUM DAY CREAM",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "02-FEB-2011",
+  "active_ingredients": [
+    {
+      "name": "AVOBENZONE",
+      "strength": "2.85",
+      "unit": "%"
+    },
+    {
+      "name": "OXYBENZONE",
+      "strength": "4.0",
+      "unit": "%"
+    },
+    {
+      "name": "OCTISALATE",
+      "strength": "4.75",
+      "unit": "%"
+    },
+    {
+      "name": "OCTINOXATE",
+      "strength": "7.5",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "CREAM"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "AVON CANADA INC"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "COMBINATIONS OF PROTECTIVES AGAINST UV-RADIATION"
+  ]
+}

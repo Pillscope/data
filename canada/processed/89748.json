@@ -1,0 +1,28 @@
+{
+  "drug_code": "89748",
+  "din": "02412829",
+  "brand_name": "LEVEMIR FLEXTOUCH",
+  "class": "Human",
+  "descriptor": "PREFILLED PEN-INJECTOR (3ML CARTRIDGE)",
+  "last_update": "19-JUN-2014",
+  "active_ingredients": [
+    {
+      "name": "INSULIN DETEMIR",
+      "strength": "100",
+      "unit": "UNIT"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "SUBCUTANEOUS"
+  ],
+  "companies": [
+    "NOVO NORDISK CANADA INC"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "INSULIN DETEMIR"
+  ]
+}

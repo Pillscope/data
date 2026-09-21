@@ -1,0 +1,31 @@
+{
+  "drug_code": "11785",
+  "din": "01936107",
+  "brand_name": "LAXA-STAT ORAL PASTE",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "27-JUN-2011",
+  "active_ingredients": [
+    {
+      "name": "PETROLATUM",
+      "strength": "21.4",
+      "unit": "%"
+    },
+    {
+      "name": "MINERAL OIL",
+      "strength": "3.4",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "PASTE"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "TOMLYN PRODUCTS DIVISION OF VETOQUINOL USA INC."
+  ],
+  "status": "MARKETED",
+  "atc": []
+}

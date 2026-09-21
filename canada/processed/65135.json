@@ -1,0 +1,28 @@
+{
+  "drug_code": "65135",
+  "din": "02241495",
+  "brand_name": "DM COUGH SYRUP",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "24-APR-2013",
+  "active_ingredients": [
+    {
+      "name": "DEXTROMETHORPHAN HYDROBROMIDE",
+      "strength": "15",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SYRUP"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "TRILLIUM HEALTH CARE PRODUCTS INC"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "DEXTROMETHORPHAN"
+  ]
+}

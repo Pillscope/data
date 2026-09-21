@@ -1,0 +1,28 @@
+{
+  "drug_code": "62021",
+  "din": "02238593",
+  "brand_name": "MUSE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "11-MAR-2010",
+  "active_ingredients": [
+    {
+      "name": "ALPROSTADIL",
+      "strength": "250",
+      "unit": "MCG"
+    }
+  ],
+  "forms": [
+    "SUPPOSITORY"
+  ],
+  "routes": [
+    "URETHRAL"
+  ],
+  "companies": [
+    "PALADIN LABS INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "ALPROSTADIL"
+  ]
+}

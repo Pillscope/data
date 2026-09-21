@@ -1,0 +1,28 @@
+{
+  "drug_code": "3182",
+  "din": "00455881",
+  "brand_name": "LIORESAL TAB 10MG",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "27-MAY-2015",
+  "active_ingredients": [
+    {
+      "name": "BACLOFEN",
+      "strength": "10",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "NOVARTIS PHARMACEUTICALS CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "BACLOFEN"
+  ]
+}

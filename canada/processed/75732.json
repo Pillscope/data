@@ -1,0 +1,28 @@
+{
+  "drug_code": "75732",
+  "din": "02271796",
+  "brand_name": "CARBOCAINE 3%",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "23-MAR-2018",
+  "active_ingredients": [
+    {
+      "name": "MEPIVACAINE HYDROCHLORIDE",
+      "strength": "30",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "BLOCK/INFILTRATION"
+  ],
+  "companies": [
+    "CARESTREAM HEALTH CANADA COMPANY"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "MEPIVACAINE"
+  ]
+}

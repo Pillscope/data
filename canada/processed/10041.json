@@ -1,0 +1,33 @@
+{
+  "drug_code": "10041",
+  "din": "00438049",
+  "brand_name": "(20 MMOL/L) POTASSIUM CHLORIDE IN 5% DEXTROSE INJECTION USP",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "28-JUL-2015",
+  "active_ingredients": [
+    {
+      "name": "DEXTROSE",
+      "strength": "5",
+      "unit": "G"
+    },
+    {
+      "name": "POTASSIUM CHLORIDE",
+      "strength": "150",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "LIQUID"
+  ],
+  "routes": [
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "BAXTER CORPORATION"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "ELECTROLYTES WITH CARBOHYDRATES"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "drug_code": "76652",
+  "din": "02280841",
+  "brand_name": "GENTLE FRESH SANITIZER",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "02-OCT-2006",
+  "active_ingredients": [
+    {
+      "name": "BENZETHONIUM CHLORIDE",
+      "strength": "0.2",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "LIQUID"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "STATE INDUSTRIAL PRODUCTS"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "BENZETHONIUM CHLORIDE"
+  ]
+}

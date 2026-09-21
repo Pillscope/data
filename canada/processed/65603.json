@@ -1,0 +1,38 @@
+{
+  "drug_code": "65603",
+  "din": "02241933",
+  "brand_name": "VIOKACE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "16-MAY-2016",
+  "active_ingredients": [
+    {
+      "name": "LIPASE",
+      "strength": "20880",
+      "unit": "UNIT"
+    },
+    {
+      "name": "PROTEASE",
+      "strength": "112500",
+      "unit": "UNIT"
+    },
+    {
+      "name": "AMYLASE",
+      "strength": "113400",
+      "unit": "UNIT"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "APTALIS PHARMA CANADA ULC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "MULTIENZYMES (LIPASE, PROTEASE ETC)"
+  ]
+}

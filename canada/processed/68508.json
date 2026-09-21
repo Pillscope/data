@@ -1,0 +1,28 @@
+{
+  "drug_code": "68508",
+  "din": "02244527",
+  "brand_name": "PMS-DOXAZOSIN",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "18-SEP-2006",
+  "active_ingredients": [
+    {
+      "name": "DOXAZOSIN (DOXAZOSIN MESYLATE)",
+      "strength": "1",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "PHARMASCIENCE INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "DOXAZOSIN"
+  ]
+}

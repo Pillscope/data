@@ -1,0 +1,28 @@
+{
+  "drug_code": "19125",
+  "din": "02162814",
+  "brand_name": "APO-DICLO SR",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "16-OCT-2014",
+  "active_ingredients": [
+    {
+      "name": "DICLOFENAC SODIUM",
+      "strength": "75",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET (EXTENDED-RELEASE)"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "APOTEX INC"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "DICLOFENAC"
+  ]
+}

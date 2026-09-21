@@ -1,0 +1,28 @@
+{
+  "drug_code": "69",
+  "din": "00050474",
+  "brand_name": "METHYLENE BLEU LIQ 2%",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "10-MAY-2016",
+  "active_ingredients": [
+    {
+      "name": "METHYLENE BLUE",
+      "strength": "2",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "LIQUID"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "LABORATOIRE ATLAS INC"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "METHYLTHIONINIUM CHLORIDE"
+  ]
+}

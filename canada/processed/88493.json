@@ -1,0 +1,28 @@
+{
+  "drug_code": "88493",
+  "din": "02400103",
+  "brand_name": "ACID REDUCER",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "28-APR-2016",
+  "active_ingredients": [
+    {
+      "name": "RANITIDINE (RANITIDINE HYDROCHLORIDE)",
+      "strength": "150",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "PHARMASCIENCE INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "RANITIDINE"
+  ]
+}

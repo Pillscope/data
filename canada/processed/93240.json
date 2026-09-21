@@ -1,0 +1,33 @@
+{
+  "drug_code": "93240",
+  "din": "02446855",
+  "brand_name": "HEMORRHOIDAL SUPPOSITORIES",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "09-JUN-2016",
+  "active_ingredients": [
+    {
+      "name": "PHENYLEPHRINE HYDROCHLORIDE",
+      "strength": "0.25",
+      "unit": "%"
+    },
+    {
+      "name": "COCOA BUTTER",
+      "strength": "88.44",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "SUPPOSITORY"
+  ],
+  "routes": [
+    "RECTAL"
+  ],
+  "companies": [
+    "H.J. SUTTON INDUSTRIES LTD."
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "OTHER AGENTS FOR TREATMENT OF HEMORRHOIDS AND ANAL FISSURES FOR TOPICAL USE"
+  ]
+}

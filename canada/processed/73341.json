@@ -1,0 +1,28 @@
+{
+  "drug_code": "73341",
+  "din": "02248966",
+  "brand_name": "FABRAZYME",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "10-DEC-2014",
+  "active_ingredients": [
+    {
+      "name": "AGALSIDASE BETA",
+      "strength": "35",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "POWDER FOR SOLUTION"
+  ],
+  "routes": [
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "SANOFI GENZYME, A DIVISION OF SANOFI-AVENTIS CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "AGALSIDASE BETA"
+  ]
+}

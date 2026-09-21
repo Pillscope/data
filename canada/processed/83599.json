@@ -1,0 +1,28 @@
+{
+  "drug_code": "83599",
+  "din": "02350785",
+  "brand_name": "NAPROXEN EC",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "13-APR-2017",
+  "active_ingredients": [
+    {
+      "name": "NAPROXEN",
+      "strength": "250",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET (ENTERIC-COATED)"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "SANIS HEALTH INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "NAPROXEN"
+  ]
+}

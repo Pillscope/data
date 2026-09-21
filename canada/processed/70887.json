@@ -1,0 +1,26 @@
+{
+  "drug_code": "70887",
+  "din": "02246692",
+  "brand_name": "BIO-COX 120G PLUS",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "24-AUG-2016",
+  "active_ingredients": [
+    {
+      "name": "SALINOMYCIN SODIUM",
+      "strength": "120",
+      "unit": "G"
+    }
+  ],
+  "forms": [
+    "DRUG PREMIX"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "HUVEPHARMA EOOD"
+  ],
+  "status": "APPROVED",
+  "atc": []
+}

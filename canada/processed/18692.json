@@ -1,0 +1,28 @@
+{
+  "drug_code": "18692",
+  "din": "00690112",
+  "brand_name": "RED-COTE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "02-AUG-2013",
+  "active_ingredients": [
+    {
+      "name": "D&C RED NO. 28",
+      "strength": "5",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "DENTAL"
+  ],
+  "companies": [
+    "SUNSTAR AMERICAS INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "OTHER DIAGNOSTIC AGENTS"
+  ]
+}

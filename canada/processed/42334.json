@@ -1,0 +1,48 @@
+{
+  "drug_code": "42334",
+  "din": "01977717",
+  "brand_name": "LIP CONDITIONER LIP BALM",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "10-MAY-2016",
+  "active_ingredients": [
+    {
+      "name": "CAMPHOR",
+      "strength": ".38",
+      "unit": "%"
+    },
+    {
+      "name": "PHENOL",
+      "strength": ".45",
+      "unit": "%"
+    },
+    {
+      "name": "MERADIMATE",
+      "strength": "2.5",
+      "unit": "%"
+    },
+    {
+      "name": "MENTHOL",
+      "strength": ".6",
+      "unit": "%"
+    },
+    {
+      "name": "PADIMATE O",
+      "strength": "6.6",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "OINTMENT"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "BLISTEX CORPORATION"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "OTHER EMOLLIENTS AND PROTECTIVES"
+  ]
+}

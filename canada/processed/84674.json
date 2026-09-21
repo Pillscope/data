@@ -1,0 +1,28 @@
+{
+  "drug_code": "84674",
+  "din": "02361671",
+  "brand_name": "RAPAFLO",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "13-MAR-2018",
+  "active_ingredients": [
+    {
+      "name": "SILODOSIN",
+      "strength": "8",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "CAPSULE"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "ALLERGAN INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "SILODOSIN"
+  ]
+}

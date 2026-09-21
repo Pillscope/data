@@ -1,0 +1,28 @@
+{
+  "drug_code": "86588",
+  "din": "02380048",
+  "brand_name": "TOVIAZ",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "30-DEC-2013",
+  "active_ingredients": [
+    {
+      "name": "FESOTERODINE FUMARATE",
+      "strength": "8",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET (EXTENDED-RELEASE)"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "PFIZER CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "FESOTERODINE"
+  ]
+}

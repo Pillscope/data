@@ -1,0 +1,28 @@
+{
+  "drug_code": "5599",
+  "din": "00607142",
+  "brand_name": "ERYC DELAYED-RELEASE CAPSULES",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "17-AUG-2015",
+  "active_ingredients": [
+    {
+      "name": "ERYTHROMYCIN",
+      "strength": "250",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "CAPSULE (ENTERIC-COATED)"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "PFIZER CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "ERYTHROMYCIN"
+  ]
+}

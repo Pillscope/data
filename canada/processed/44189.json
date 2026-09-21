@@ -1,0 +1,28 @@
+{
+  "drug_code": "44189",
+  "din": "02173239",
+  "brand_name": "KETASET",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "11-JUL-2016",
+  "active_ingredients": [
+    {
+      "name": "KETAMINE (KETAMINE HYDROCHLORIDE)",
+      "strength": "100",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "INTRAMUSCULAR"
+  ],
+  "companies": [
+    "ZOETIS CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "KETAMINE"
+  ]
+}

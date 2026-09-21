@@ -1,0 +1,53 @@
+{
+  "drug_code": "81598",
+  "din": "02330229",
+  "brand_name": "NATURALYTE H-320",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "18-JUN-2010",
+  "active_ingredients": [
+    {
+      "name": "POTASSIUM CHLORIDE",
+      "strength": "6.71",
+      "unit": "G"
+    },
+    {
+      "name": "DEXTROSE",
+      "strength": "49.49",
+      "unit": "G"
+    },
+    {
+      "name": "ACETIC ACID",
+      "strength": "8.1",
+      "unit": "G"
+    },
+    {
+      "name": "SODIUM CHLORIDE",
+      "strength": "289.3",
+      "unit": "G"
+    },
+    {
+      "name": "MAGNESIUM CHLORIDE",
+      "strength": "4.57",
+      "unit": "G"
+    },
+    {
+      "name": "CALCIUM CHLORIDE",
+      "strength": "8.27",
+      "unit": "G"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "DIALYSIS"
+  ],
+  "companies": [
+    "FRESENIUS MEDICAL CARE CANADA INC"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "HEMODIALYTICS, CONCENTRATES"
+  ]
+}

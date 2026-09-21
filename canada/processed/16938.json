@@ -1,0 +1,28 @@
+{
+  "drug_code": "16938",
+  "din": "02074834",
+  "brand_name": "PMS-LITHIUM CITRATE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "05-MAY-2015",
+  "active_ingredients": [
+    {
+      "name": "LITHIUM (LITHIUM CITRATE)",
+      "strength": "8",
+      "unit": "MMOL"
+    }
+  ],
+  "forms": [
+    "SYRUP"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "PHARMASCIENCE INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "LITHIUM"
+  ]
+}

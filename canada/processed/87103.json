@@ -1,0 +1,30 @@
+{
+  "drug_code": "87103",
+  "din": "02385406",
+  "brand_name": "FENTANYL CITRATE INJECTION USP",
+  "class": "Human",
+  "descriptor": " SINGLE USE AMPOULE",
+  "last_update": "27-SEP-2017",
+  "active_ingredients": [
+    {
+      "name": "FENTANYL (FENTANYL CITRATE)",
+      "strength": "50",
+      "unit": "MCG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "INTRAMUSCULAR",
+    "INTRAVENOUS",
+    "EPIDURAL"
+  ],
+  "companies": [
+    "TELIGENT OU"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "FENTANYL"
+  ]
+}

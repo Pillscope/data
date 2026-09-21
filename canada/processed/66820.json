@@ -1,0 +1,28 @@
+{
+  "drug_code": "66820",
+  "din": "02242980",
+  "brand_name": "ANTIZOL",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "05-MAY-2015",
+  "active_ingredients": [
+    {
+      "name": "FOMEPIZOLE",
+      "strength": "1",
+      "unit": "G"
+    }
+  ],
+  "forms": [
+    "LIQUID"
+  ],
+  "routes": [
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "PALADIN LABS INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "FOMEPIZOLE"
+  ]
+}

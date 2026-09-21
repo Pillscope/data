@@ -1,0 +1,28 @@
+{
+  "drug_code": "79404",
+  "din": "02308398",
+  "brand_name": "DOM-ALENDRONATE-FC",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "10-OCT-2017",
+  "active_ingredients": [
+    {
+      "name": "ALENDRONIC ACID (ALENDRONATE SODIUM)",
+      "strength": "70",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "DOMINION PHARMACAL"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "ALENDRONIC ACID"
+  ]
+}

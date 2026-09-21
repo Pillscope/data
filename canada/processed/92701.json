@@ -1,0 +1,28 @@
+{
+  "drug_code": "92701",
+  "din": "02442671",
+  "brand_name": "ZOLMITRIPTAN ODT",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "17-NOV-2015",
+  "active_ingredients": [
+    {
+      "name": "ZOLMITRIPTAN",
+      "strength": "2.5",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET (ORALLY DISINTEGRATING)"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "SANIS HEALTH INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "ZOLMITRIPTAN"
+  ]
+}

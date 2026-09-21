@@ -1,0 +1,31 @@
+{
+  "drug_code": "1134",
+  "din": "00030759",
+  "brand_name": "DEPO-MEDROL 40 MG/ML",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "31-JAN-2014",
+  "active_ingredients": [
+    {
+      "name": "METHYLPREDNISOLONE ACETATE",
+      "strength": "40",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SUSPENSION"
+  ],
+  "routes": [
+    "INTRA-ARTICULAR",
+    "INTRALESIONAL",
+    "INTRAMUSCULAR",
+    "INTRASYNOVIAL"
+  ],
+  "companies": [
+    "PFIZER CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "METHYLPREDNISOLONE"
+  ]
+}

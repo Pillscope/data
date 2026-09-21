@@ -1,0 +1,31 @@
+{
+  "drug_code": "1639",
+  "din": "00262056",
+  "brand_name": "SYNOVEX S",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "04-MAY-2017",
+  "active_ingredients": [
+    {
+      "name": "PROGESTERONE",
+      "strength": "200",
+      "unit": "MG"
+    },
+    {
+      "name": "ESTRADIOL BENZOATE",
+      "strength": "20",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "IMPLANT"
+  ],
+  "routes": [
+    "SUBCUTANEOUS"
+  ],
+  "companies": [
+    "ZOETIS CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": []
+}

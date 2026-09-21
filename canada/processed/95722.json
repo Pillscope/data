@@ -1,0 +1,29 @@
+{
+  "drug_code": "95722",
+  "din": "02468743",
+  "brand_name": "CDIFF DISINFECTANT TABLETS",
+  "class": "Disinfectant",
+  "descriptor": "INN NAME - TROCLOSENE SODIUM",
+  "last_update": "11-DEC-2017",
+  "active_ingredients": [
+    {
+      "name": "SODIUM DICHLOROISOCYANURATE",
+      "strength": "50",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "DISINFECTANT (Food Premises)",
+    "DISINFECTANT (Hospital/HC Facilities)"
+  ],
+  "companies": [
+    "TOTAL SOLUTIONS"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "TECHNICAL DISINFECTANTS"
+  ]
+}

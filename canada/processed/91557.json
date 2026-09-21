@@ -1,0 +1,28 @@
+{
+  "drug_code": "91557",
+  "din": "02431130",
+  "brand_name": "VINORELBINE INJECTION, USP",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "09-AUG-2017",
+  "active_ingredients": [
+    {
+      "name": "VINORELBINE (VINORELBINE TARTRATE)",
+      "strength": "10",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "GENERIC MEDICAL PARTNERS INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "VINORELBINE"
+  ]
+}

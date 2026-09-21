@@ -1,0 +1,28 @@
+{
+  "drug_code": "43395",
+  "din": "02224135",
+  "brand_name": "ARIMIDEX TAB 1MG",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "07-MAR-2006",
+  "active_ingredients": [
+    {
+      "name": "ANASTROZOLE",
+      "strength": "1",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "ASTRAZENECA CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "ANASTROZOLE"
+  ]
+}

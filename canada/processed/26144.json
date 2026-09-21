@@ -1,0 +1,28 @@
+{
+  "drug_code": "26144",
+  "din": "02015676",
+  "brand_name": "CHILDREN'S ACETAMINOPHEN TABLETS",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "28-FEB-2011",
+  "active_ingredients": [
+    {
+      "name": "ACETAMINOPHEN",
+      "strength": "80",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "TANTA PHARMACEUTICALS INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "ACETAMINOPHEN (PARACETAMOL)"
+  ]
+}

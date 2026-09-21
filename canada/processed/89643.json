@@ -1,0 +1,28 @@
+{
+  "drug_code": "89643",
+  "din": "02411849",
+  "brand_name": "VEREGEN",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "12-OCT-2016",
+  "active_ingredients": [
+    {
+      "name": "Sinecatechins",
+      "strength": "10",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "OINTMENT"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "PALADIN LABS INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "Sinecatechins"
+  ]
+}

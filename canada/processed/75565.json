@@ -1,0 +1,38 @@
+{
+  "drug_code": "75565",
+  "din": "02270269",
+  "brand_name": "HYDRANCE OPTIMALE SPF 25",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "13-JUL-2012",
+  "active_ingredients": [
+    {
+      "name": "TITANIUM DIOXIDE",
+      "strength": "3.2",
+      "unit": "%"
+    },
+    {
+      "name": "OCTOCRYLENE",
+      "strength": "8",
+      "unit": "%"
+    },
+    {
+      "name": "OCTINOXATE",
+      "strength": "7.5",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "CREAM"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "LABORATOIRES DERMATOLOGIQUES AV\u00c3\u0088NE"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "COMBINATIONS OF PROTECTIVES AGAINST UV-RADIATION"
+  ]
+}

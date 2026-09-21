@@ -1,0 +1,28 @@
+{
+  "drug_code": "91739",
+  "din": "02433028",
+  "brand_name": "LANSOPRAZOLE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "17-FEB-2015",
+  "active_ingredients": [
+    {
+      "name": "LANSOPRAZOLE",
+      "strength": "30",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "CAPSULE (DELAYED RELEASE)"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "PHARMASCIENCE INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "LANSOPRAZOLE"
+  ]
+}

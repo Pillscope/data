@@ -1,0 +1,28 @@
+{
+  "drug_code": "60041",
+  "din": "02236754",
+  "brand_name": "FLUVOXAMINE-100",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "30-SEP-2010",
+  "active_ingredients": [
+    {
+      "name": "FLUVOXAMINE MALEATE",
+      "strength": "100",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "PRO DOC LIMITEE"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "FLUVOXAMINE"
+  ]
+}

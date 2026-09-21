@@ -1,0 +1,28 @@
+{
+  "drug_code": "1802",
+  "din": "00280437",
+  "brand_name": "CORTISONE ACETATE TAB 25MG",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "09-DEC-2005",
+  "active_ingredients": [
+    {
+      "name": "CORTISONE ACETATE",
+      "strength": "25",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "VALEANT CANADA LP/VALEANT CANADA S.E.C."
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "CORTISONE"
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "drug_code": "5925",
+  "din": "00616117",
+  "brand_name": "DOMCOL SOLUTION",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "02-JUL-1999",
+  "active_ingredients": [
+    {
+      "name": "COBALT SULFATE",
+      "strength": "1",
+      "unit": "MG"
+    },
+    {
+      "name": "ETHYLENEDIAMINE DIHYDROIODIDE",
+      "strength": ".44",
+      "unit": "MG"
+    },
+    {
+      "name": "PROPYLENE GLYCOL",
+      "strength": ".67",
+      "unit": "ML"
+    },
+    {
+      "name": "POTASSIUM IODIDE",
+      "strength": "1.76",
+      "unit": "MG"
+    },
+    {
+      "name": "CHOLINE CHLORIDE",
+      "strength": "20",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "LIQUID"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "DOMINION VETERINARY LABORATORIES LTD."
+  ],
+  "status": "MARKETED",
+  "atc": []
+}

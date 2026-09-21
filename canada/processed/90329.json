@@ -1,0 +1,28 @@
+{
+  "drug_code": "90329",
+  "din": "02418738",
+  "brand_name": "CORIFACT 250",
+  "class": "Human",
+  "descriptor": "FACTOR XIII CONCENTRATE",
+  "last_update": "07-JUL-2015",
+  "active_ingredients": [
+    {
+      "name": "FACTOR XIII",
+      "strength": "250",
+      "unit": "UNIT"
+    }
+  ],
+  "forms": [
+    "POWDER FOR SOLUTION"
+  ],
+  "routes": [
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "CSL BEHRING CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "COAGULATION FACTOR XIII"
+  ]
+}

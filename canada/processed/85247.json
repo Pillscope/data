@@ -1,0 +1,28 @@
+{
+  "drug_code": "85247",
+  "din": "02367629",
+  "brand_name": "PRAMIPEXOLE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "24-MAR-2015",
+  "active_ingredients": [
+    {
+      "name": "PRAMIPEXOLE DIHYDROCHLORIDE MONOHYDRATE",
+      "strength": "1",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "SANIS HEALTH INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "PRAMIPEXOLE"
+  ]
+}

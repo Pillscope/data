@@ -1,0 +1,28 @@
+{
+  "drug_code": "94872",
+  "din": "02461226",
+  "brand_name": "TIVICAY",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "26-JUN-2017",
+  "active_ingredients": [
+    {
+      "name": "DOLUTEGRAVIR (DOLUTEGRAVIR SODIUM)",
+      "strength": "25",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "VIIV HEALTHCARE ULC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "DOLUTEGRAVIR"
+  ]
+}

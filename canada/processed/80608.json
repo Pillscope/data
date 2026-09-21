@@ -1,0 +1,28 @@
+{
+  "drug_code": "80608",
+  "din": "02320673",
+  "brand_name": "STELARA",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "31-MAY-2017",
+  "active_ingredients": [
+    {
+      "name": "USTEKINUMAB",
+      "strength": "45",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "SUBCUTANEOUS"
+  ],
+  "companies": [
+    "JANSSEN INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "USTEKINUMAB"
+  ]
+}

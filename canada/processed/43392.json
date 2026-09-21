@@ -1,0 +1,28 @@
+{
+  "drug_code": "43392",
+  "din": "02223775",
+  "brand_name": "NORPROLAC",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "22-NOV-2005",
+  "active_ingredients": [
+    {
+      "name": "QUINAGOLIDE (QUINAGOLIDE HYDROCHLORIDE)",
+      "strength": "0.15",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "FERRING INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "QUINAGOLIDE"
+  ]
+}

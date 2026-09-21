@@ -1,0 +1,28 @@
+{
+  "drug_code": "88484",
+  "din": "02400006",
+  "brand_name": "HEAD & SHOULDERS DAMAGE RESCUE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "23-APR-2014",
+  "active_ingredients": [
+    {
+      "name": "PYRITHIONE ZINC",
+      "strength": "1",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "SHAMPOO"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "PROCTER & GAMBLE INC"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "PYRITHIONE ZINC"
+  ]
+}

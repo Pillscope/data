@@ -1,0 +1,28 @@
+{
+  "drug_code": "87257",
+  "din": "02387018",
+  "brand_name": "TRUE MATCH LUMI",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "22-JUL-2017",
+  "active_ingredients": [
+    {
+      "name": "OCTINOXATE",
+      "strength": "7",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "LOTION"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "L' OREAL CANADA"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "OCTYL METHOXYCINNAMATE"
+  ]
+}

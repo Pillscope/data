@@ -1,0 +1,29 @@
+{
+  "drug_code": "77637",
+  "din": "02290979",
+  "brand_name": "HEPAGAM B",
+  "class": "Human",
+  "descriptor": "ACTIVE INGREDIENT STRENGTH > 312 IU/ML",
+  "last_update": "21-DEC-2017",
+  "active_ingredients": [
+    {
+      "name": "HEPATITIS B IMMUNE GLOBULIN HUMAN",
+      "strength": "312",
+      "unit": "UNIT"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "INTRAMUSCULAR",
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "SAOL THERAPEUTICS RESEARCH LIMITED"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "HEPATITIS B IMMUNOGLOBULIN"
+  ]
+}

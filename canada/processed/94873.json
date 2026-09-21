@@ -1,0 +1,33 @@
+{
+  "drug_code": "94873",
+  "din": "02461242",
+  "brand_name": "OLAY COMPLETE UV365* DAILY MOISTURIZING LOTION WITH SUNSCREEN BROAD SPECTRUM SPF 15 SENSITIVE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "09-APR-2018",
+  "active_ingredients": [
+    {
+      "name": "ZINC OXIDE",
+      "strength": "3",
+      "unit": "%"
+    },
+    {
+      "name": "OCTINOXATE",
+      "strength": "6",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "LOTION"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "PROCTER & GAMBLE INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "COMBINATIONS OF PROTECTIVES AGAINST UV-RADIATION"
+  ]
+}

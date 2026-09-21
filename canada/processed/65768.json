@@ -1,0 +1,28 @@
+{
+  "drug_code": "65768",
+  "din": "02242093",
+  "brand_name": "RIVA-ATENOLOL 100 MG",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "17-FEB-2006",
+  "active_ingredients": [
+    {
+      "name": "ATENOLOL",
+      "strength": "100",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "LABORATOIRE RIVA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "ATENOLOL"
+  ]
+}

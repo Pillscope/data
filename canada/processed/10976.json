@@ -1,0 +1,28 @@
+{
+  "drug_code": "10976",
+  "din": "00792659",
+  "brand_name": "PMS-CHLORAL HYDRATE SYRUP 100MG/ML",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "12-APR-2018",
+  "active_ingredients": [
+    {
+      "name": "CHLORAL HYDRATE",
+      "strength": "500",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SYRUP"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "PHARMASCIENCE INC"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "CHLORAL HYDRATE"
+  ]
+}

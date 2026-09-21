@@ -1,0 +1,28 @@
+{
+  "drug_code": "77113",
+  "din": "02285622",
+  "brand_name": "RAN-CITALO",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "01-DEC-2014",
+  "active_ingredients": [
+    {
+      "name": "CITALOPRAM (CITALOPRAM HYDROBROMIDE)",
+      "strength": "20",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "RANBAXY PHARMACEUTICALS CANADA INC."
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "CITALOPRAM"
+  ]
+}

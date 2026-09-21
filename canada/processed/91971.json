@@ -1,0 +1,28 @@
+{
+  "drug_code": "91971",
+  "din": "02435381",
+  "brand_name": "SPIRIVA RESPIMAT",
+  "class": "Human",
+  "descriptor": "FOR ORAL INHALATION WITH RESPIMAT INHALER ONLY. 5\u00c2\u00b5G/DOSE",
+  "last_update": "21-NOV-2017",
+  "active_ingredients": [
+    {
+      "name": "TIOTROPIUM (TIOTROPIUM BROMIDE MONOHYDRATE)",
+      "strength": "2.5",
+      "unit": "MCG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "INHALATION"
+  ],
+  "companies": [
+    "BOEHRINGER INGELHEIM (CANADA) LTD LTEE"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "TIOTROPIUM BROMIDE"
+  ]
+}

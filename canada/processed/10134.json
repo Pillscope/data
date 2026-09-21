@@ -1,0 +1,28 @@
+{
+  "drug_code": "10134",
+  "din": "00842664",
+  "brand_name": "KETOPROFEN-E",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "10-APR-2012",
+  "active_ingredients": [
+    {
+      "name": "KETOPROFEN",
+      "strength": "100",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET (ENTERIC-COATED)"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "AA PHARMA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "KETOPROFEN"
+  ]
+}

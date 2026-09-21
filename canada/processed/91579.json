@@ -1,0 +1,29 @@
+{
+  "drug_code": "91579",
+  "din": "02431378",
+  "brand_name": "PHENYTOIN SODIUM INJECTION, USP",
+  "class": "Human",
+  "descriptor": "2ML & 5ML SINGLE USE VIALS",
+  "last_update": "18-MAR-2015",
+  "active_ingredients": [
+    {
+      "name": "PHENYTOIN SODIUM",
+      "strength": "50",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "INTRAMUSCULAR",
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "STERIMAX INC"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "PHENYTOIN"
+  ]
+}

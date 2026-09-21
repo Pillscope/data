@@ -1,0 +1,28 @@
+{
+  "drug_code": "43270",
+  "din": "02220075",
+  "brand_name": "HYMENOPTERA VENOM PRODUCT - HONEY BEE VENOM (550 MCG)",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "09-OCT-2012",
+  "active_ingredients": [
+    {
+      "name": "HONEY BEE VENOM PROTEIN",
+      "strength": "550",
+      "unit": "MCG"
+    }
+  ],
+  "forms": [
+    "POWDER FOR SOLUTION"
+  ],
+  "routes": [
+    "SUBCUTANEOUS"
+  ],
+  "companies": [
+    "JUBILANT HOLLISTERSTIER LLC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "INSECTS"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "drug_code": "5439",
+  "din": "00598933",
+  "brand_name": "TIAMOL CREAM 0.05%",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "02-JAN-2008",
+  "active_ingredients": [
+    {
+      "name": "FLUOCINONIDE",
+      "strength": "0.05",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "CREAM"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "TAROPHARMA, A DIVISION OF TARO PHARMACEUTICALS INC."
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "FLUOCINONIDE"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "drug_code": "48627",
+  "din": "02230095",
+  "brand_name": "TEVA-TEMAZEPAM",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "25-SEP-2015",
+  "active_ingredients": [
+    {
+      "name": "TEMAZEPAM",
+      "strength": "15",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "CAPSULE"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "TEVA CANADA LIMITED"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "TEMAZEPAM"
+  ]
+}

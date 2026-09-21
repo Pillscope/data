@@ -1,0 +1,34 @@
+{
+  "drug_code": "73677",
+  "din": "02251876",
+  "brand_name": "MUSCLE AND BACK PAIN RELIEF REGULAR STRENGTH TABLETS",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "17-JUL-2012",
+  "active_ingredients": [
+    {
+      "name": "METHOCARBAMOL",
+      "strength": "400",
+      "unit": "MG"
+    },
+    {
+      "name": "ACETAMINOPHEN",
+      "strength": "325",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "PHARMETICS (2011) INC"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "METHOCARBAMOL, COMBINATIONS EXCL PSYCHOLEPTICS",
+    "METHOCARBAMOL, COMBINATIONS EXCL PSYCHOLEPTICS"
+  ]
+}

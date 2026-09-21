@@ -1,0 +1,28 @@
+{
+  "drug_code": "49975",
+  "din": "02230714",
+  "brand_name": "LIPITOR",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "11-FEB-2010",
+  "active_ingredients": [
+    {
+      "name": "ATORVASTATIN (ATORVASTATIN CALCIUM)",
+      "strength": "40",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "PFIZER CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "ATORVASTATIN"
+  ]
+}

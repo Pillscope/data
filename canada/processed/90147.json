@@ -1,0 +1,28 @@
+{
+  "drug_code": "90147",
+  "din": "02416867",
+  "brand_name": "GABAPENTIN CAPSULES USP",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "18-JAN-2016",
+  "active_ingredients": [
+    {
+      "name": "GABAPENTIN",
+      "strength": "400",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "CAPSULE"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "ACCORD HEALTHCARE INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "GABAPENTIN"
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "drug_code": "86278",
+  "din": "02377187",
+  "brand_name": "ANTIBIOTIC CREAM PLUS PAIN RELIEF FOR KIDS",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "16-JAN-2014",
+  "active_ingredients": [
+    {
+      "name": "GRAMICIDIN",
+      "strength": "0.25",
+      "unit": "MG"
+    },
+    {
+      "name": "POLYMYXIN B SULFATE",
+      "strength": "10000",
+      "unit": "UNIT"
+    },
+    {
+      "name": "LIDOCAINE HYDROCHLORIDE",
+      "strength": "40",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "CREAM"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "CANADIAN CUSTOM PACKAGING COMPANY"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "COMBINATIONS OF ANTIBIOTICS",
+    "COMBINATIONS OF ANTIBIOTICS"
+  ]
+}

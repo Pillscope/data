@@ -1,0 +1,28 @@
+{
+  "drug_code": "80363",
+  "din": "02318121",
+  "brand_name": "ROCURONIUM BROMIDE INJECTION",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "04-JAN-2018",
+  "active_ingredients": [
+    {
+      "name": "ROCURONIUM BROMIDE",
+      "strength": "10",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "PFIZER CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "ROCURONIUM BROMIDE"
+  ]
+}

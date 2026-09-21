@@ -1,0 +1,28 @@
+{
+  "drug_code": "79795",
+  "din": "02312441",
+  "brand_name": "PRADAXA",
+  "class": "Human",
+  "descriptor": "KNOWN AS PRADAX",
+  "last_update": "23-MAR-2015",
+  "active_ingredients": [
+    {
+      "name": "DABIGATRAN ETEXILATE (DABIGATRAN ETEXILATE MESILATE)",
+      "strength": "110",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "CAPSULE"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "BOEHRINGER INGELHEIM (CANADA) LTD LTEE"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "DABIGATRAN ETEXILATE"
+  ]
+}

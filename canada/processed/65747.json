@@ -1,0 +1,35 @@
+{
+  "drug_code": "65747",
+  "din": "02242074",
+  "brand_name": "M-C 10 DISINFECTANT SANITIZER",
+  "class": "Disinfectant",
+  "descriptor": "",
+  "last_update": "03-NOV-2015",
+  "active_ingredients": [
+    {
+      "name": "BENZALKONIUM CHLORIDE",
+      "strength": "5",
+      "unit": "%"
+    },
+    {
+      "name": "ALKYL DIMETHYL ETHYLBENZYL AMMONIUM CHLORIDE",
+      "strength": "5",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "LIQUID"
+  ],
+  "routes": [
+    "DISINFECTANT (Food Premises)",
+    "DISINFECTANT (Hospital/HC Facilities)",
+    "DISINFECTANT (Institutional/Industrial)"
+  ],
+  "companies": [
+    "MULTI-CLEAN"
+  ],
+  "status": "CANCELLED POST MARKET",
+  "atc": [
+    "TECHNICAL DISINFECTANTS"
+  ]
+}

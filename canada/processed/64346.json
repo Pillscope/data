@@ -1,0 +1,28 @@
+{
+  "drug_code": "64346",
+  "din": "02240757",
+  "brand_name": "OXYGEN U.S.P.",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "15-JUN-2017",
+  "active_ingredients": [
+    {
+      "name": "OXYGEN",
+      "strength": "99",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "GAS"
+  ],
+  "routes": [
+    "INHALATION"
+  ],
+  "companies": [
+    "NORTHSIDE DEVELOPMENT CORPORATION"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "OXYGEN"
+  ]
+}

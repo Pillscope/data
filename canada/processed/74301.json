@@ -1,0 +1,28 @@
+{
+  "drug_code": "74301",
+  "din": "02257777",
+  "brand_name": "VINORELBINE TARTRATE FOR INJECTION",
+  "class": "Human",
+  "descriptor": "1ML AND 5ML SINGLE USE VIALS",
+  "last_update": "24-JUL-2017",
+  "active_ingredients": [
+    {
+      "name": "VINORELBINE (VINORELBINE TARTRATE)",
+      "strength": "10",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "PFIZER CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "VINORELBINE"
+  ]
+}

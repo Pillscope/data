@@ -1,0 +1,29 @@
+{
+  "drug_code": "46471",
+  "din": "01948997",
+  "brand_name": "PHARMALGEN WHITE FACED HORNET VENOM PROTEIN",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "19-MAR-2009",
+  "active_ingredients": [
+    {
+      "name": "DOLICHOVESPULA MACULATA VENOM PROTEIN EXTRACT",
+      "strength": "1.1",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "POWDER FOR SOLUTION"
+  ],
+  "routes": [
+    "INTRADERMAL",
+    "SUBCUTANEOUS"
+  ],
+  "companies": [
+    "ALK - ABELLO A/S"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "INSECTS"
+  ]
+}

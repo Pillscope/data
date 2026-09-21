@@ -1,0 +1,33 @@
+{
+  "drug_code": "90611",
+  "din": "02421496",
+  "brand_name": "PMS-LEVOCARB CR",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "27-MAY-2014",
+  "active_ingredients": [
+    {
+      "name": "CARBIDOPA",
+      "strength": "50",
+      "unit": "MG"
+    },
+    {
+      "name": "LEVODOPA",
+      "strength": "200",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET (EXTENDED-RELEASE)"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "PHARMASCIENCE INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "LEVODOPA AND DECARBOXYLASE INHIBITOR"
+  ]
+}

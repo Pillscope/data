@@ -1,0 +1,53 @@
+{
+  "drug_code": "88685",
+  "din": "02401975",
+  "brand_name": "TRICIRA LO",
+  "class": "Human",
+  "descriptor": "28 DAY",
+  "last_update": "13-JUN-2014",
+  "active_ingredients": [
+    {
+      "name": "NORGESTIMATE",
+      "strength": "0.180",
+      "unit": "MG"
+    },
+    {
+      "name": "NORGESTIMATE",
+      "strength": "0.215",
+      "unit": "MG"
+    },
+    {
+      "name": "NORGESTIMATE",
+      "strength": "0.250",
+      "unit": "MG"
+    },
+    {
+      "name": "ETHINYL ESTRADIOL",
+      "strength": "0.025",
+      "unit": "MG"
+    },
+    {
+      "name": "ETHINYL ESTRADIOL",
+      "strength": "0.025",
+      "unit": "MG"
+    },
+    {
+      "name": "ETHINYL ESTRADIOL",
+      "strength": "0.025",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "APOTEX INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "NORGESTIMATE AND ESTROGEN"
+  ]
+}

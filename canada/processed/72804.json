@@ -1,0 +1,28 @@
+{
+  "drug_code": "72804",
+  "din": "02248453",
+  "brand_name": "GLICLAZIDE-80",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "10-MAR-2006",
+  "active_ingredients": [
+    {
+      "name": "GLICLAZIDE",
+      "strength": "80",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "PRO DOC LIMITEE"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "GLICLAZIDE"
+  ]
+}

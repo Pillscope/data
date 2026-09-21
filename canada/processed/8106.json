@@ -1,0 +1,28 @@
+{
+  "drug_code": "8106",
+  "din": "00740829",
+  "brand_name": "TRIMIPRAMINE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "10-APR-2012",
+  "active_ingredients": [
+    {
+      "name": "TRIMIPRAMINE (TRIMIPRAMINE MALEATE)",
+      "strength": "100",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "AA PHARMA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "TRIMIPRAMINE"
+  ]
+}

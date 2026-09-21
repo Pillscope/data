@@ -1,0 +1,28 @@
+{
+  "drug_code": "76939",
+  "din": "02283816",
+  "brand_name": "ANTIBACTERIAL CLEAN & SMOOTH",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "30-JAN-2007",
+  "active_ingredients": [
+    {
+      "name": "TRICLOSAN",
+      "strength": "0.3",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "ECOLAB CO"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "TRICLOSAN"
+  ]
+}

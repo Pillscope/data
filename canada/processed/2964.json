@@ -1,0 +1,28 @@
+{
+  "drug_code": "2964",
+  "din": "00428833",
+  "brand_name": "YF-VAX (YELLOW FEVER VACCINE)",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "02-MAR-2015",
+  "active_ingredients": [
+    {
+      "name": "YELLOW FEVER VACCINE",
+      "strength": "109648",
+      "unit": "PFU"
+    }
+  ],
+  "forms": [
+    "POWDER FOR SOLUTION"
+  ],
+  "routes": [
+    "SUBCUTANEOUS"
+  ],
+  "companies": [
+    "SANOFI PASTEUR LIMITED"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "YELLOW FEVER, LIVE ATTENUATED"
+  ]
+}

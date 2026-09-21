@@ -1,0 +1,26 @@
+{
+  "drug_code": "43757",
+  "din": "02089882",
+  "brand_name": "LINCOMYCIN 110 G",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "26-APR-2018",
+  "active_ingredients": [
+    {
+      "name": "LINCOMYCIN (LINCOMYCIN HYDROCHLORIDE)",
+      "strength": "110",
+      "unit": "G"
+    }
+  ],
+  "forms": [
+    "DRUG PREMIX"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "BIO AGRI MIX LP"
+  ],
+  "status": "APPROVED",
+  "atc": []
+}

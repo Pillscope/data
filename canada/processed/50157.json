@@ -1,0 +1,28 @@
+{
+  "drug_code": "50157",
+  "din": "02230880",
+  "brand_name": "APO-AMOXI SUGAR FREE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "08-JUN-2017",
+  "active_ingredients": [
+    {
+      "name": "AMOXICILLIN (AMOXICILLIN TRIHYDRATE)",
+      "strength": "250",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "POWDER FOR SUSPENSION"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "APOTEX INC"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "AMOXICILLIN"
+  ]
+}

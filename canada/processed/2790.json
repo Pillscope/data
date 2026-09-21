@@ -1,0 +1,26 @@
+{
+  "drug_code": "2790",
+  "din": "00416010",
+  "brand_name": "DEXAMETHASONE PWR",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "20-SEP-2004",
+  "active_ingredients": [
+    {
+      "name": "DEXAMETHASONE",
+      "strength": "10",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "POWDER"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "DOMINION VETERINARY LABORATORIES LTD."
+  ],
+  "status": "MARKETED",
+  "atc": []
+}

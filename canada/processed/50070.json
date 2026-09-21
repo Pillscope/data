@@ -1,0 +1,28 @@
+{
+  "drug_code": "50070",
+  "din": "02230806",
+  "brand_name": "TEVA-TERAZOSIN",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "24-AUG-2015",
+  "active_ingredients": [
+    {
+      "name": "TERAZOSIN (TERAZOSIN HYDROCHLORIDE)",
+      "strength": "2",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "TEVA CANADA LIMITED"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "TERAZOSIN"
+  ]
+}

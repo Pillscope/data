@@ -1,0 +1,28 @@
+{
+  "drug_code": "49403",
+  "din": "02230454",
+  "brand_name": "BROMOCRIPTINE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "20-MAR-2013",
+  "active_ingredients": [
+    {
+      "name": "BROMOCRIPTINE (BROMOCRIPTINE MESYLATE)",
+      "strength": "5",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "CAPSULE"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "AA PHARMA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "BROMOCRIPTINE"
+  ]
+}

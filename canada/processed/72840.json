@@ -1,0 +1,33 @@
+{
+  "drug_code": "72840",
+  "din": "02248488",
+  "brand_name": "4% ASTRACAINE DENTAL WITH EPINEPHRINE FORTE 1:100,000 (0.01MG/ML)",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "03-SEP-2009",
+  "active_ingredients": [
+    {
+      "name": "EPINEPHRINE (EPINEPHRINE BITARTRATE)",
+      "strength": "0.01",
+      "unit": "MG"
+    },
+    {
+      "name": "ARTICAINE HYDROCHLORIDE",
+      "strength": "40",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "BLOCK/INFILTRATION"
+  ],
+  "companies": [
+    "DENTSPLY CANADA LIMITED"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "ARTICAINE, COMBINATIONS"
+  ]
+}

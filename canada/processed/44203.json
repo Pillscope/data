@@ -1,0 +1,26 @@
+{
+  "drug_code": "44203",
+  "din": "02174650",
+  "brand_name": "SPECTAM SCOUR-HALT",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "11-JAN-2018",
+  "active_ingredients": [
+    {
+      "name": "SPECTINOMYCIN (SPECTINOMYCIN DIHYDROCHLORIDE PENTAHYDRATE)",
+      "strength": "50",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "VETOQUINOL N A INC"
+  ],
+  "status": "APPROVED",
+  "atc": []
+}

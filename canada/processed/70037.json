@@ -1,0 +1,28 @@
+{
+  "drug_code": "70037",
+  "din": "02245917",
+  "brand_name": "PMS-CARVEDILOL",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "18-SEP-2006",
+  "active_ingredients": [
+    {
+      "name": "CARVEDILOL",
+      "strength": "25",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "PHARMASCIENCE INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "CARVEDILOL"
+  ]
+}

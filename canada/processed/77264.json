@@ -1,0 +1,28 @@
+{
+  "drug_code": "77264",
+  "din": "02287226",
+  "brand_name": "MINOCYCLINE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "19-MAR-2010",
+  "active_ingredients": [
+    {
+      "name": "MINOCYCLINE (MINOCYCLINE HYDROCHLORIDE)",
+      "strength": "50",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "CAPSULE"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "SANIS HEALTH INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "MINOCYCLINE"
+  ]
+}

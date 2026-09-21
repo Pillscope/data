@@ -1,0 +1,28 @@
+{
+  "drug_code": "75836",
+  "din": "02272857",
+  "brand_name": "IBUPROFEN CAPLETS 200 MG",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "05-NOV-2014",
+  "active_ingredients": [
+    {
+      "name": "IBUPROFEN",
+      "strength": "200",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "VITA HEALTH PRODUCTS INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "IBUPROFEN"
+  ]
+}

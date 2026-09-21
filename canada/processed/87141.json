@@ -1,0 +1,28 @@
+{
+  "drug_code": "87141",
+  "din": "02385791",
+  "brand_name": "AMLODIPINE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "28-OCT-2016",
+  "active_ingredients": [
+    {
+      "name": "AMLODIPINE (AMLODIPINE BESYLATE)",
+      "strength": "5",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "SIVEM PHARMACEUTICALS ULC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "AMLODIPINE"
+  ]
+}

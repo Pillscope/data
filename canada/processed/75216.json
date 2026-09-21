@@ -1,0 +1,31 @@
+{
+  "drug_code": "75216",
+  "din": "02266741",
+  "brand_name": "UDDERDINE 75",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "23-MAY-2007",
+  "active_ingredients": [
+    {
+      "name": "GLYCERINE",
+      "strength": "8",
+      "unit": "%"
+    },
+    {
+      "name": "NONYL PHENOXYPOLYETHOXYETHANOL-IODINE COMPLEX",
+      "strength": "7.5",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "AGRISAN SPECIALTY CHEMICAL & PHARMACEUTICAL"
+  ],
+  "status": "APPROVED",
+  "atc": []
+}

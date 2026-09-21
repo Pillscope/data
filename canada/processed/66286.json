@@ -1,0 +1,28 @@
+{
+  "drug_code": "66286",
+  "din": "02242537",
+  "brand_name": "EXTRA-STRENGTH BISMUTH",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "18-MAR-2014",
+  "active_ingredients": [
+    {
+      "name": "BISMUTH SUBSALICYLATE",
+      "strength": "35",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SUSPENSION"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "PERRIGO INTERNATIONAL"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "BISMUTH PREPARATIONS"
+  ]
+}

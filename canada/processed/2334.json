@@ -1,0 +1,29 @@
+{
+  "drug_code": "2334",
+  "din": "00328162",
+  "brand_name": "50% MAGNESIUM SULFATE INJECTION USP",
+  "class": "Human",
+  "descriptor": "10ML IN A  PREFILLED SYRINGE. TO BE DILUTED BEFORE USE.",
+  "last_update": "25-SEP-2015",
+  "active_ingredients": [
+    {
+      "name": "MAGNESIUM SULFATE",
+      "strength": "500",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "INTRAMUSCULAR",
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "HOSPIRA HEALTHCARE CORPORATION"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "MAGNESIUM SULPHATE"
+  ]
+}

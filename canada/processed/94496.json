@@ -1,0 +1,35 @@
+{
+  "drug_code": "94496",
+  "din": "02457938",
+  "brand_name": "STUBBORN ACNE SOLUTION",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "19-MAY-2017",
+  "active_ingredients": [
+    {
+      "name": "BENZOYL PEROXIDE",
+      "strength": "3.5",
+      "unit": "%"
+    },
+    {
+      "name": "BENZOYL PEROXIDE",
+      "strength": "2.5",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "GEL",
+    "KIT",
+    "PASTE"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "JOHNSON & JOHNSON INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "BENZOYL PEROXIDE"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "drug_code": "90814",
+  "din": "02423413",
+  "brand_name": "MYLAN-RIVASTIGMINE PATCH 5",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "01-NOV-2017",
+  "active_ingredients": [
+    {
+      "name": "RIVASTIGMINE",
+      "strength": "4.6",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "PATCH"
+  ],
+  "routes": [
+    "TRANSDERMAL"
+  ],
+  "companies": [
+    "MYLAN PHARMACEUTICALS ULC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "RIVASTIGMINE"
+  ]
+}

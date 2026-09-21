@@ -1,0 +1,38 @@
+{
+  "drug_code": "1649",
+  "din": "00263818",
+  "brand_name": "COTAZYM",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "19-JAN-2016",
+  "active_ingredients": [
+    {
+      "name": "LIPASE",
+      "strength": "10000",
+      "unit": "UNIT"
+    },
+    {
+      "name": "PROTEASE",
+      "strength": "35000",
+      "unit": "UNIT"
+    },
+    {
+      "name": "AMYLASE",
+      "strength": "40000",
+      "unit": "UNIT"
+    }
+  ],
+  "forms": [
+    "CAPSULE (IMMEDIATE RELEASE)"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "MERCK CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "MULTIENZYMES (LIPASE, PROTEASE ETC)"
+  ]
+}

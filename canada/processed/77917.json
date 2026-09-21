@@ -1,0 +1,28 @@
+{
+  "drug_code": "77917",
+  "din": "02293781",
+  "brand_name": "BENEFIX",
+  "class": "Human",
+  "descriptor": "ALSO KNOWN AS NONACOG ALFA",
+  "last_update": "21-JUL-2017",
+  "active_ingredients": [
+    {
+      "name": "COAGULATION FACTOR IX (RECOMBINANT)",
+      "strength": "1000",
+      "unit": "UNIT"
+    }
+  ],
+  "forms": [
+    "POWDER FOR SOLUTION"
+  ],
+  "routes": [
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "PFIZER CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "COAGULATION FACTOR IX"
+  ]
+}

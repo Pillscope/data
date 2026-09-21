@@ -1,0 +1,28 @@
+{
+  "drug_code": "9611",
+  "din": "00769541",
+  "brand_name": "SOLYSTAT",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "03-AUG-2012",
+  "active_ingredients": [
+    {
+      "name": "SODIUM POLYSTYRENE SULFONATE",
+      "strength": "250",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SUSPENSION"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "PENDOPHARM DIVISION OF DE PHARMASCIENCE INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "POLYSTYRENE SULPHONATE"
+  ]
+}

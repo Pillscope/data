@@ -1,0 +1,36 @@
+{
+  "drug_code": "81942",
+  "din": "02333775",
+  "brand_name": "GLOVES OFF",
+  "class": "Disinfectant",
+  "descriptor": "",
+  "last_update": "15-JUN-2011",
+  "active_ingredients": [
+    {
+      "name": "THYMOL",
+      "strength": "0.18",
+      "unit": "%"
+    },
+    {
+      "name": "CARVACROL",
+      "strength": "0.02",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "DISINFECTANT (Food Premises)",
+    "DISINFECTANT (Hospital/HC Facilities)",
+    "DISINFECTANT (Domestic)",
+    "DISINFECTANT (Institutional/Industrial)"
+  ],
+  "companies": [
+    "LABORATOIRE M2 INC"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "TECHNICAL DISINFECTANTS"
+  ]
+}

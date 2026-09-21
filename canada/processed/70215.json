@@ -1,0 +1,26 @@
+{
+  "drug_code": "70215",
+  "din": "02246080",
+  "brand_name": "PREDNISOLONE 5 MG TABLETS",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "09-NOV-2012",
+  "active_ingredients": [
+    {
+      "name": "PREDNISOLONE (PREDNISOLONE ACETATE)",
+      "strength": "5",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "ALFASAN INTERNATIONAL B.V."
+  ],
+  "status": "MARKETED",
+  "atc": []
+}

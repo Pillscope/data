@@ -1,0 +1,28 @@
+{
+  "drug_code": "80778",
+  "din": "02322323",
+  "brand_name": "SANDOZ NARATRIPTAN",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "14-FEB-2018",
+  "active_ingredients": [
+    {
+      "name": "NARATRIPTAN (NARATRIPTAN HYDROCHLORIDE)",
+      "strength": "2.5",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "SANDOZ CANADA INCORPORATED"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "NARATRIPTAN"
+  ]
+}

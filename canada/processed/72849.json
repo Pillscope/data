@@ -1,0 +1,28 @@
+{
+  "drug_code": "72849",
+  "din": "02248497",
+  "brand_name": "RIVA-SERTRALINE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "20-APR-2015",
+  "active_ingredients": [
+    {
+      "name": "SERTRALINE (SERTRALINE HYDROCHLORIDE)",
+      "strength": "50",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "CAPSULE"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "LABORATOIRE RIVA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "SERTRALINE"
+  ]
+}

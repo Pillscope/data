@@ -1,0 +1,28 @@
+{
+  "drug_code": "74833",
+  "din": "02262924",
+  "brand_name": "RIVA-TERBINAFINE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "24-SEP-2008",
+  "active_ingredients": [
+    {
+      "name": "TERBINAFINE (TERBINAFINE HYDROCHLORIDE)",
+      "strength": "250",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "LABORATOIRE RIVA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "TERBINAFINE"
+  ]
+}

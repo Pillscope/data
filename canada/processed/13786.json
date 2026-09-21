@@ -1,0 +1,33 @@
+{
+  "drug_code": "13786",
+  "din": "02025426",
+  "brand_name": "BM-7000 CHEMICAL AUTOCLAVE SOLUTION",
+  "class": "Disinfectant",
+  "descriptor": "",
+  "last_update": "08-JUL-2011",
+  "active_ingredients": [
+    {
+      "name": "FORMALDEHYDE",
+      "strength": "0.2",
+      "unit": "%"
+    },
+    {
+      "name": "ALCOHOL ANHYDROUS",
+      "strength": "82.2",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "DISINFECTANT (Medical Instruments)"
+  ],
+  "companies": [
+    "N.A.K.P. FOTO INC."
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "TECHNICAL DISINFECTANTS"
+  ]
+}

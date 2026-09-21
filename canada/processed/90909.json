@@ -1,0 +1,28 @@
+{
+  "drug_code": "90909",
+  "din": "02424398",
+  "brand_name": "CELECOXIB",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "27-NOV-2014",
+  "active_ingredients": [
+    {
+      "name": "CELECOXIB",
+      "strength": "200",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "CAPSULE"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "PRO DOC LIMITEE"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "CELECOXIB"
+  ]
+}

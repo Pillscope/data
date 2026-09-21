@@ -1,0 +1,28 @@
+{
+  "drug_code": "95104",
+  "din": "02463121",
+  "brand_name": "OCALIVA",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "29-MAY-2017",
+  "active_ingredients": [
+    {
+      "name": "OBETICHOLIC ACID",
+      "strength": "5",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "INTERCEPT PHARMACEUTICALS INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "OBETICHOLIC ACID"
+  ]
+}

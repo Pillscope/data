@@ -1,0 +1,28 @@
+{
+  "drug_code": "80667",
+  "din": "02321270",
+  "brand_name": "EXTRA STRENGTH ALLERGY FORMULA LIQUID CAPSULES",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "27-NOV-2013",
+  "active_ingredients": [
+    {
+      "name": "DIPHENHYDRAMINE HYDROCHLORIDE",
+      "strength": "50",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "CAPSULE"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "VITA HEALTH PRODUCTS INC"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "DIPHENHYDRAMINE"
+  ]
+}

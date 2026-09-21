@@ -1,0 +1,28 @@
+{
+  "drug_code": "73376",
+  "din": "02248991",
+  "brand_name": "READY BATH ANTIBACTERIAL TOTAL BODY CLEANSING SYSTEM - MSC 095105",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "18-MAY-2006",
+  "active_ingredients": [
+    {
+      "name": "BENZALKONIUM CHLORIDE",
+      "strength": "0.12",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "WIPE"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "MEDLINE INDUSTRIES INCORPORATED"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "BENZALKONIUM"
+  ]
+}

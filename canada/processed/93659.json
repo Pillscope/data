@@ -1,0 +1,28 @@
+{
+  "drug_code": "93659",
+  "din": "02450445",
+  "brand_name": "TARO-TRAMADOL ER",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "17-JAN-2018",
+  "active_ingredients": [
+    {
+      "name": "TRAMADOL HYDROCHLORIDE",
+      "strength": "300",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET (EXTENDED-RELEASE)"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "TARO PHARMACEUTICALS INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "TRAMADOL"
+  ]
+}

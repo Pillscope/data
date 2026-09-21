@@ -1,0 +1,43 @@
+{
+  "drug_code": "84580",
+  "din": "02360802",
+  "brand_name": "CELAZOME SPF 30",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "17-JAN-2013",
+  "active_ingredients": [
+    {
+      "name": "OXYBENZONE",
+      "strength": "5.0",
+      "unit": "%"
+    },
+    {
+      "name": "OCTISALATE",
+      "strength": "5.0",
+      "unit": "%"
+    },
+    {
+      "name": "HOMOSALATE",
+      "strength": "5.0",
+      "unit": "%"
+    },
+    {
+      "name": "OCTINOXATE",
+      "strength": "7.5",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "LOTION"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "DERMAZONE SOLUTIONS CANADA INC."
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "COMBINATIONS OF PROTECTIVES AGAINST UV-RADIATION"
+  ]
+}

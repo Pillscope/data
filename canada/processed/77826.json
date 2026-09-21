@@ -1,0 +1,28 @@
+{
+  "drug_code": "77826",
+  "din": "02292912",
+  "brand_name": "APO-PANTOPRAZOLE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "30-APR-2014",
+  "active_ingredients": [
+    {
+      "name": "PANTOPRAZOLE (PANTOPRAZOLE SODIUM)",
+      "strength": "20",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET (DELAYED-RELEASE)"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "APOTEX INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "PANTOPRAZOLE"
+  ]
+}

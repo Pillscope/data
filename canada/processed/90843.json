@@ -1,0 +1,28 @@
+{
+  "drug_code": "90843",
+  "din": "02423715",
+  "brand_name": "CHARCO CAPS",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "23-APR-2018",
+  "active_ingredients": [
+    {
+      "name": "CHARCOAL ACTIVATED",
+      "strength": "260",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "CAPSULE"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "DSE HEALTHCARE SOLUTIONS LLC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "MEDICINAL CHARCOAL"
+  ]
+}

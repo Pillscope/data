@@ -1,0 +1,28 @@
+{
+  "drug_code": "87847",
+  "din": "02393239",
+  "brand_name": "APO-LAMIVUDINE HBV",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "07-DEC-2017",
+  "active_ingredients": [
+    {
+      "name": "LAMIVUDINE",
+      "strength": "100",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "APOTEX INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "LAMIVUDINE"
+  ]
+}

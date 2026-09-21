@@ -1,0 +1,28 @@
+{
+  "drug_code": "90198",
+  "din": "02417359",
+  "brand_name": "QUETIAPINE XR",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "11-APR-2018",
+  "active_ingredients": [
+    {
+      "name": "QUETIAPINE (QUETIAPINE FUMARATE)",
+      "strength": "50",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET (EXTENDED-RELEASE)"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "SIVEM PHARMACEUTICALS ULC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "QUETIAPINE"
+  ]
+}

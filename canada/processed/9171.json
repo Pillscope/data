@@ -1,0 +1,28 @@
+{
+  "drug_code": "9171",
+  "din": "00768723",
+  "brand_name": "APO-CEPHALEX",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "19-JUL-2017",
+  "active_ingredients": [
+    {
+      "name": "CEPHALEXIN (CEPHALEXIN MONOHYDRATE)",
+      "strength": "250",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "APOTEX INC"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "CEFALEXIN"
+  ]
+}

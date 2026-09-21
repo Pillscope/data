@@ -1,0 +1,28 @@
+{
+  "drug_code": "74372",
+  "din": "02258528",
+  "brand_name": "EDECRIN",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "19-MAY-2016",
+  "active_ingredients": [
+    {
+      "name": "ETHACRYNIC ACID",
+      "strength": "25",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "VALEANT CANADA LP/VALEANT CANADA S.E.C."
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "ETACRYNIC ACID"
+  ]
+}

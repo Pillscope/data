@@ -1,0 +1,28 @@
+{
+  "drug_code": "89156",
+  "din": "02406896",
+  "brand_name": "FONDAPARINUX SODIUM INJECTION",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "02-APR-2014",
+  "active_ingredients": [
+    {
+      "name": "FONDAPARINUX SODIUM",
+      "strength": "7.5",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "SUBCUTANEOUS"
+  ],
+  "companies": [
+    "DR REDDYS LABORATORIES LTD"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "FONDAPARINUX"
+  ]
+}

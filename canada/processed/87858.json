@@ -1,0 +1,28 @@
+{
+  "drug_code": "87858",
+  "din": "02393352",
+  "brand_name": "RIASTAP",
+  "class": "Human",
+  "descriptor": "900-1300 MG FIBRINOGEN /VIAL (20MG/ML AFTER REC.). SINGLE-USE VIALS",
+  "last_update": "07-DEC-2015",
+  "active_ingredients": [
+    {
+      "name": "FIBRINOGEN (HUMAN)",
+      "strength": "1000",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "POWDER FOR SOLUTION"
+  ],
+  "routes": [
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "CSL BEHRING CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "FIBRINOGEN, HUMAN"
+  ]
+}

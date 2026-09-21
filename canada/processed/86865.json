@@ -1,0 +1,29 @@
+{
+  "drug_code": "86865",
+  "din": "02382849",
+  "brand_name": "GLYCOPYRROLATE INJECTION MULTIDOSE",
+  "class": "Human",
+  "descriptor": "CONTAINS BENZYL ALCHOL, MULTIDOSE VIAL",
+  "last_update": "14-MAR-2018",
+  "active_ingredients": [
+    {
+      "name": "GLYCOPYRROLATE",
+      "strength": "0.2",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "INTRAMUSCULAR",
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "OMEGA LABORATORIES LTD"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "GLYCOPYRRONIUM"
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "drug_code": "82773",
+  "din": "02342227",
+  "brand_name": "CERVARIX",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "16-JUN-2011",
+  "active_ingredients": [
+    {
+      "name": "RECOMBINANT HUMAN PAPILLOMAVIRUS TYPE 16 L1 PROTEIN",
+      "strength": "20",
+      "unit": "MCG"
+    },
+    {
+      "name": "RECOMBINANT HUMAN PAPILLOMAVIRUS TYPE 18 L1 PROTEIN",
+      "strength": "20",
+      "unit": "MCG"
+    }
+  ],
+  "forms": [
+    "SUSPENSION"
+  ],
+  "routes": [
+    "INTRAMUSCULAR"
+  ],
+  "companies": [
+    "GLAXOSMITHKLINE INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "PAPILLOMAVIRUS (HUMAN TYPES 16,18)"
+  ]
+}

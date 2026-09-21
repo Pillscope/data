@@ -1,0 +1,29 @@
+{
+  "drug_code": "86785",
+  "din": "02381982",
+  "brand_name": "DOXORUBICIN INJECTION",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "18-JAN-2016",
+  "active_ingredients": [
+    {
+      "name": "DOXORUBICIN HYDROCHLORIDE",
+      "strength": "2",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "INTRAVENOUS",
+    "INTRAVESICAL"
+  ],
+  "companies": [
+    "ACCORD HEALTHCARE INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "DOXORUBICIN"
+  ]
+}

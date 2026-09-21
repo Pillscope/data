@@ -1,0 +1,29 @@
+{
+  "drug_code": "89862",
+  "din": "02413973",
+  "brand_name": "DOXORUBICIN HYDROCHLORIDE INJECTION, USP",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "17-JAN-2017",
+  "active_ingredients": [
+    {
+      "name": "DOXORUBICIN HYDROCHLORIDE",
+      "strength": "2",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "INTRAVENOUS",
+    "INTRAVESICAL"
+  ],
+  "companies": [
+    "MYLAN PHARMACEUTICALS ULC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "DOXORUBICIN"
+  ]
+}

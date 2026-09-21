@@ -1,0 +1,34 @@
+{
+  "drug_code": "810",
+  "din": "00074500",
+  "brand_name": "VIOFORM HYDROCORTISONE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "28-MAY-2015",
+  "active_ingredients": [
+    {
+      "name": "CLIOQUINOL",
+      "strength": "3",
+      "unit": "%"
+    },
+    {
+      "name": "HYDROCORTISONE",
+      "strength": "1",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "CREAM"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "PALADIN LABS INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "HYDROCORTISONE AND ANTIBIOTICS",
+    "HYDROCORTISONE AND ANTIBIOTICS"
+  ]
+}

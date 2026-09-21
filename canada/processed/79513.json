@@ -1,0 +1,28 @@
+{
+  "drug_code": "79513",
+  "din": "02309548",
+  "brand_name": "PMS-CLOBETASOL",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "02-JAN-2013",
+  "active_ingredients": [
+    {
+      "name": "CLOBETASOL PROPIONATE",
+      "strength": "0.05",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "OINTMENT"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "PHARMASCIENCE INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "CLOBETASOL"
+  ]
+}

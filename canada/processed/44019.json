@@ -1,0 +1,38 @@
+{
+  "drug_code": "44019",
+  "din": "01959042",
+  "brand_name": "IMOVAX POLIO",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "04-JAN-2011",
+  "active_ingredients": [
+    {
+      "name": "INACTIVATED POLIOMYELITIS VACCINE (V.C.O.) TYPE 1 MAHONEY",
+      "strength": "40",
+      "unit": "UNIT"
+    },
+    {
+      "name": "INACTIVATED POLIOMYELITIS VACCINE (V.C.O.) TYPE 3 SAUKETT",
+      "strength": "32",
+      "unit": "UNIT"
+    },
+    {
+      "name": "INACTIVATED POLIOMYELITIS VACCINE (V.C.O.) TYPE 2 MEF1",
+      "strength": "8",
+      "unit": "UNIT"
+    }
+  ],
+  "forms": [
+    "SUSPENSION"
+  ],
+  "routes": [
+    "SUBCUTANEOUS"
+  ],
+  "companies": [
+    "SANOFI PASTEUR LIMITED"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "POLIOMYELITIS, TRIVALENT, INACTIVATED, WHOLE VIRUS"
+  ]
+}

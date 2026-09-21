@@ -1,0 +1,28 @@
+{
+  "drug_code": "88354",
+  "din": "02398591",
+  "brand_name": "APO-CLOPIDOGREL",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "23-JAN-2013",
+  "active_ingredients": [
+    {
+      "name": "CLOPIDOGREL (CLOPIDOGREL BISULFATE)",
+      "strength": "300",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "APOTEX INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "CLOPIDOGREL"
+  ]
+}

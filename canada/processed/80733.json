@@ -1,0 +1,26 @@
+{
+  "drug_code": "80733",
+  "din": "02321920",
+  "brand_name": "AVATEC 20",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "16-MAR-2016",
+  "active_ingredients": [
+    {
+      "name": "LASALOCID SODIUM",
+      "strength": "200",
+      "unit": "G"
+    }
+  ],
+  "forms": [
+    "DRUG PREMIX"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "ZOETIS CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": []
+}

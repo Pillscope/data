@@ -1,0 +1,28 @@
+{
+  "drug_code": "88225",
+  "din": "02397285",
+  "brand_name": "NAT-IMATINIB",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "17-AUG-2017",
+  "active_ingredients": [
+    {
+      "name": "IMATINIB (IMATINIB MESYLATE)",
+      "strength": "100",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "NATCO PHARMA (CANADA) INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "IMATINIB"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "drug_code": "81486",
+  "din": "02329174",
+  "brand_name": "RAN-SIMVASTATIN",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "14-FEB-2018",
+  "active_ingredients": [
+    {
+      "name": "SIMVASTATIN",
+      "strength": "40",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "RANBAXY PHARMACEUTICALS CANADA INC."
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "SIMVASTATIN"
+  ]
+}

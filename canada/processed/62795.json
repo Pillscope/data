@@ -1,0 +1,28 @@
+{
+  "drug_code": "62795",
+  "din": "02239326",
+  "brand_name": "TRYPTAN TAB 250MG",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "17-SEP-2014",
+  "active_ingredients": [
+    {
+      "name": "TRYPTOPHAN",
+      "strength": "250",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "VALEANT CANADA LP/VALEANT CANADA S.E.C."
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "TRYPTOPHAN"
+  ]
+}

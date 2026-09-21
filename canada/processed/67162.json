@@ -1,0 +1,26 @@
+{
+  "drug_code": "67162",
+  "din": "02243264",
+  "brand_name": "UNIMECTRIN POUR-ON FOR CATTLE",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "15-OCT-2004",
+  "active_ingredients": [
+    {
+      "name": "IVERMECTIN",
+      "strength": "5",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "LIQUID"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "MERIAL CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": []
+}

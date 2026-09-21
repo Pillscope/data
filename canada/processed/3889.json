@@ -1,0 +1,31 @@
+{
+  "drug_code": "3889",
+  "din": "00509043",
+  "brand_name": "LANOVET ONT",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "30-APR-2008",
+  "active_ingredients": [
+    {
+      "name": "LANOLIN",
+      "strength": "50",
+      "unit": "MG"
+    },
+    {
+      "name": "METHYL SALICYLATE",
+      "strength": "20",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "OINTMENT"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "DOMINION VETERINARY LABORATORIES LTD."
+  ],
+  "status": "MARKETED",
+  "atc": []
+}

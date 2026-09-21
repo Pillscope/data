@@ -1,0 +1,28 @@
+{
+  "drug_code": "3769",
+  "din": "00493392",
+  "brand_name": "RIMSO-50",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "16-JUL-2015",
+  "active_ingredients": [
+    {
+      "name": "DIMETHYL SULFOXIDE",
+      "strength": "500",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "INTRAVESICAL"
+  ],
+  "companies": [
+    "MYLAN PHARMACEUTICALS ULC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "DIMETHYL SULFOXIDE"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "drug_code": "61804",
+  "din": "02238389",
+  "brand_name": "CAELYX",
+  "class": "Human",
+  "descriptor": "SINGLE USE VIALS. 20MG/10ML AND 50MG/25ML. PEG. LIPOSOMAL SUSPENSION.",
+  "last_update": "12-OCT-2016",
+  "active_ingredients": [
+    {
+      "name": "DOXORUBICIN HYDROCHLORIDE",
+      "strength": "2",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SUSPENSION"
+  ],
+  "routes": [
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "JANSSEN INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "DOXORUBICIN"
+  ]
+}

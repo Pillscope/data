@@ -1,0 +1,38 @@
+{
+  "drug_code": "87640",
+  "din": "02391023",
+  "brand_name": "ARTISTRY YOUTH XTEND PROTECTING CREAM",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "01-NOV-2013",
+  "active_ingredients": [
+    {
+      "name": "AVOBENZONE",
+      "strength": "3",
+      "unit": "%"
+    },
+    {
+      "name": "OXYBENZONE",
+      "strength": "1",
+      "unit": "%"
+    },
+    {
+      "name": "OCTINOXATE",
+      "strength": "7.5",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "CREAM"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "AMWAY CANADA CORPORATION"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "COMBINATIONS OF PROTECTIVES AGAINST UV-RADIATION"
+  ]
+}

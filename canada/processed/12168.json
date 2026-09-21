@@ -1,0 +1,28 @@
+{
+  "drug_code": "12168",
+  "din": "00783625",
+  "brand_name": "SODIUM CHLORIDE 12% USP",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "16-JUN-2006",
+  "active_ingredients": [
+    {
+      "name": "SODIUM CHLORIDE",
+      "strength": "12",
+      "unit": "G"
+    }
+  ],
+  "forms": [
+    "LIQUID"
+  ],
+  "routes": [
+    "IRRIGATION"
+  ],
+  "companies": [
+    "BAXTER CORPORATION"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "SODIUM CHLORIDE"
+  ]
+}

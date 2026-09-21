@@ -1,0 +1,29 @@
+{
+  "drug_code": "73377",
+  "din": "02248992",
+  "brand_name": "ZOMIG NASAL SPRAY",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "29-MAR-2018",
+  "active_ingredients": [
+    {
+      "name": "ZOLMITRIPTAN",
+      "strength": "2.5",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SPRAY"
+  ],
+  "routes": [
+    "NASAL",
+    "ORAL"
+  ],
+  "companies": [
+    "ASTRAZENECA CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "ZOLMITRIPTAN"
+  ]
+}

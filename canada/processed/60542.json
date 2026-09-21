@@ -1,0 +1,28 @@
+{
+  "drug_code": "60542",
+  "din": "02237224",
+  "brand_name": "OXEZE TURBUHALER",
+  "class": "Human",
+  "descriptor": "POWDER FOR INHALATION",
+  "last_update": "31-JAN-2018",
+  "active_ingredients": [
+    {
+      "name": "FORMOTEROL FUMARATE DIHYDRATE",
+      "strength": "12",
+      "unit": "MCG"
+    }
+  ],
+  "forms": [
+    "POWDER"
+  ],
+  "routes": [
+    "INHALATION"
+  ],
+  "companies": [
+    "ASTRAZENECA CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "FORMOTEROL"
+  ]
+}

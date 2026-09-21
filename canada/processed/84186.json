@@ -1,0 +1,34 @@
+{
+  "drug_code": "84186",
+  "din": "02356732",
+  "brand_name": "SANDOZ VALSARTAN HCT",
+  "class": "Human",
+  "descriptor": "320MG/25MG",
+  "last_update": "27-MAY-2016",
+  "active_ingredients": [
+    {
+      "name": "VALSARTAN",
+      "strength": "320",
+      "unit": "MG"
+    },
+    {
+      "name": "HYDROCHLOROTHIAZIDE",
+      "strength": "25",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "SANDOZ CANADA INCORPORATED"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "VALSARTAN AND DIURETICS",
+    "VALSARTAN AND DIURETICS"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "drug_code": "80530",
+  "din": "02319837",
+  "brand_name": "OBAGI CLENZIDERM ACNE LOTION",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "20-MAY-2015",
+  "active_ingredients": [
+    {
+      "name": "BENZOYL PEROXIDE",
+      "strength": "5.0",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "LOTION"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "OBAGI MEDICAL PRODUCTS A DIV OF VALEANT PHARMACEUTICALS NORTH AMERICA LLC"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "BENZOYL PEROXIDE"
+  ]
+}

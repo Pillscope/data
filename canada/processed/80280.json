@@ -1,0 +1,31 @@
+{
+  "drug_code": "80280",
+  "din": "02317257",
+  "brand_name": "LAX-A-KAT",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "19-NOV-2014",
+  "active_ingredients": [
+    {
+      "name": "MINERAL OIL",
+      "strength": "39.77",
+      "unit": "MG"
+    },
+    {
+      "name": "WHITE PETROLATUM",
+      "strength": "214.02",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "PASTE"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "SANTE ANIMALE ANIVET INC"
+  ],
+  "status": "MARKETED",
+  "atc": []
+}

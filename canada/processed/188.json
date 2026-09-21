@@ -1,0 +1,38 @@
+{
+  "drug_code": "188",
+  "din": "00116882",
+  "brand_name": "DIOVOL PLUS TABLETS",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "29-APR-2015",
+  "active_ingredients": [
+    {
+      "name": "ALUMINUM HYDROXIDE-MAGNESIUM CARBONATE-CO DRIED GEL",
+      "strength": "300",
+      "unit": "MG"
+    },
+    {
+      "name": "SIMETHICONE",
+      "strength": "25",
+      "unit": "MG"
+    },
+    {
+      "name": "MAGNESIUM HYDROXIDE",
+      "strength": "100",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "CHURCH & DWIGHT CANADA CORP"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "ORDINARY SALT COMBINATIONS AND ANTIFLATULENTS"
+  ]
+}

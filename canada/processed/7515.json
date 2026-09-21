@@ -1,0 +1,27 @@
+{
+  "drug_code": "7515",
+  "din": "00670804",
+  "brand_name": "ALAMYCIN LA",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "16-JAN-2018",
+  "active_ingredients": [
+    {
+      "name": "OXYTETRACYCLINE (OXYTETRACYCLINE DIHYDRATE)",
+      "strength": "200",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "INTRAMUSCULAR",
+    "SUBCUTANEOUS"
+  ],
+  "companies": [
+    "NORBROOK LABORATORIES LTD."
+  ],
+  "status": "APPROVED",
+  "atc": []
+}

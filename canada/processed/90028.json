@@ -1,0 +1,28 @@
+{
+  "drug_code": "90028",
+  "din": "02415682",
+  "brand_name": "GIOTRIF",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "10-JUN-2014",
+  "active_ingredients": [
+    {
+      "name": "Afatinib (Afatinib Dimaleate)",
+      "strength": "40",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "BOEHRINGER INGELHEIM (CANADA) LTD LTEE"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "AFATINIB"
+  ]
+}

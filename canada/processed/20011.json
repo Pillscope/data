@@ -1,0 +1,28 @@
+{
+  "drug_code": "20011",
+  "din": "02211076",
+  "brand_name": "APO-BUSPIRONE - TAB 10MG",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "09-OCT-2014",
+  "active_ingredients": [
+    {
+      "name": "BUSPIRONE HYDROCHLORIDE",
+      "strength": "10",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "APOTEX INC"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "BUSPIRONE"
+  ]
+}

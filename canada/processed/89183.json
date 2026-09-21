@@ -1,0 +1,31 @@
+{
+  "drug_code": "89183",
+  "din": "02407132",
+  "brand_name": "CLOROX COMMERCIAL SOLUTIONS PINE-SOL ALL-PURPOSE CLEANER DISINFECTANT",
+  "class": "Disinfectant",
+  "descriptor": "",
+  "last_update": "09-OCT-2013",
+  "active_ingredients": [
+    {
+      "name": "GLYCOLIC ACID",
+      "strength": "1.75",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "LIQUID"
+  ],
+  "routes": [
+    "DISINFECTANT (Food Premises)",
+    "DISINFECTANT (Hospital/HC Facilities)",
+    "DISINFECTANT (Domestic)",
+    "DISINFECTANT (Institutional/Industrial)"
+  ],
+  "companies": [
+    "THE CLOROX COMPANY OF CANADA LTD"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "TECHNICAL DISINFECTANTS"
+  ]
+}

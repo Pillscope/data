@@ -1,0 +1,28 @@
+{
+  "drug_code": "42778",
+  "din": "00432814",
+  "brand_name": "SANDOZ FLUOROMETHOLONE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "28-JUN-2013",
+  "active_ingredients": [
+    {
+      "name": "FLUOROMETHOLONE",
+      "strength": "0.1",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "SUSPENSION"
+  ],
+  "routes": [
+    "OPHTHALMIC"
+  ],
+  "companies": [
+    "SANDOZ CANADA INCORPORATED"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "FLUOROMETHOLONE"
+  ]
+}

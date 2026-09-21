@@ -1,0 +1,28 @@
+{
+  "drug_code": "19189",
+  "din": "00667080",
+  "brand_name": "FUROSEMIDE-80 TAB 80MG",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "05-JUL-2010",
+  "active_ingredients": [
+    {
+      "name": "FUROSEMIDE",
+      "strength": "80",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "PRO DOC LIMITEE"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "FUROSEMIDE"
+  ]
+}

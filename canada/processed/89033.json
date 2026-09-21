@@ -1,0 +1,28 @@
+{
+  "drug_code": "89033",
+  "din": "02405547",
+  "brand_name": "PREGABALIN",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "06-JUN-2016",
+  "active_ingredients": [
+    {
+      "name": "PREGABALIN",
+      "strength": "50",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "CAPSULE"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "SANIS HEALTH INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "PREGABALIN"
+  ]
+}

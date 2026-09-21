@@ -1,0 +1,33 @@
+{
+  "drug_code": "88981",
+  "din": "02404982",
+  "brand_name": "CEPACOL CHILDREN'S FRUITY STRAWBERRY",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "15-NOV-2017",
+  "active_ingredients": [
+    {
+      "name": "AMYLMETACRESOL",
+      "strength": "0.6",
+      "unit": "MG"
+    },
+    {
+      "name": "DICHLOROBENZYL ALCOHOL",
+      "strength": "1.2",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "LOZENGE"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "RECKITT BENCKISER (CANADA) INC"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "DICHLOROBENZYL ALCOHOL"
+  ]
+}

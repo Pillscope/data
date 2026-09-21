@@ -1,0 +1,28 @@
+{
+  "drug_code": "16053",
+  "din": "02094835",
+  "brand_name": "ALIQUAT LIQ 10%",
+  "class": "Disinfectant",
+  "descriptor": "",
+  "last_update": "29-SEP-2010",
+  "active_ingredients": [
+    {
+      "name": "BENZALKONIUM CHLORIDE",
+      "strength": "10",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "LIQUID"
+  ],
+  "routes": [
+    "DISINFECTANT (Hospital/HC Facilities)"
+  ],
+  "companies": [
+    "LALEMA INC"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    ""
+  ]
+}

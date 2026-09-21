@@ -1,0 +1,34 @@
+{
+  "drug_code": "4258",
+  "din": "00476374",
+  "brand_name": "CHOLEDYL EXPECTORANT ELIXIR",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "13-JAN-2015",
+  "active_ingredients": [
+    {
+      "name": "GUAIFENESIN",
+      "strength": "50",
+      "unit": "MG"
+    },
+    {
+      "name": "OXTRIPHYLLINE",
+      "strength": "100",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "ELIXIR"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "ERFA CANADA 2012 INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "THEOPHYLLINE, COMBINATIONS EXCL. PSYCHOLEPTICS",
+    "THEOPHYLLINE, COMBINATIONS EXCL. PSYCHOLEPTICS"
+  ]
+}

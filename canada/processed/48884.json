@@ -1,0 +1,28 @@
+{
+  "drug_code": "48884",
+  "din": "02230191",
+  "brand_name": "VANCOMYCIN HYDROCHLORIDE FOR INJECTION, USP",
+  "class": "Human",
+  "descriptor": "SINGLE-USE VILE",
+  "last_update": "20-JUN-2017",
+  "active_ingredients": [
+    {
+      "name": "VANCOMYCIN (VANCOMYCIN HYDROCHLORIDE)",
+      "strength": "500",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "POWDER FOR SOLUTION"
+  ],
+  "routes": [
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "PFIZER CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "VANCOMYCIN"
+  ]
+}

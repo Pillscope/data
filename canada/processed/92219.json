@@ -1,0 +1,28 @@
+{
+  "drug_code": "92219",
+  "din": "02437813",
+  "brand_name": "MOISTURIZING LUBRICANT EYE DROPS",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "17-MAY-2017",
+  "active_ingredients": [
+    {
+      "name": "SODIUM CARBOXYMETHYL CELLULOSE",
+      "strength": "0.5",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "OPHTHALMIC"
+  ],
+  "companies": [
+    "ADVANCED VISION RESEARCH, INC."
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "ARTIFICIAL TEARS AND OTHER INDIFFERENT PREPARATIONS."
+  ]
+}

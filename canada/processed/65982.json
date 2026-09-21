@@ -1,0 +1,28 @@
+{
+  "drug_code": "65982",
+  "din": "02242281",
+  "brand_name": "ENTROPHEN",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "30-NOV-2016",
+  "active_ingredients": [
+    {
+      "name": "ACETYLSALICYLIC ACID",
+      "strength": "81",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET (DELAYED-RELEASE)"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "PENDOPHARM DIVISION OF DE PHARMASCIENCE INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "ACETYLSALICYLIC ACID"
+  ]
+}

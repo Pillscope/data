@@ -1,0 +1,29 @@
+{
+  "drug_code": "13950",
+  "din": "01948989",
+  "brand_name": "PHARMALGEN WASP VENOM PROTEIN",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "19-MAR-2009",
+  "active_ingredients": [
+    {
+      "name": "POLISTES SPP VENOM PROTEIN EXTRACT",
+      "strength": "120",
+      "unit": "MCG"
+    }
+  ],
+  "forms": [
+    "POWDER FOR SOLUTION"
+  ],
+  "routes": [
+    "INTRADERMAL",
+    "SUBCUTANEOUS"
+  ],
+  "companies": [
+    "ALK - ABELLO A/S"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "INSECTS"
+  ]
+}

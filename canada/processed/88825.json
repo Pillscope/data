@@ -1,0 +1,28 @@
+{
+  "drug_code": "88825",
+  "din": "02403447",
+  "brand_name": "HUMULIN N (KWIKPEN)",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "03-JUL-2014",
+  "active_ingredients": [
+    {
+      "name": "INSULIN ISOPHANE HUMAN BIOSYNTHETIC",
+      "strength": "100",
+      "unit": "UNIT"
+    }
+  ],
+  "forms": [
+    "SUSPENSION"
+  ],
+  "routes": [
+    "SUBCUTANEOUS"
+  ],
+  "companies": [
+    "ELI LILLY CANADA INC"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "INSULIN (HUMAN)"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "drug_code": "13190",
+  "din": "01978926",
+  "brand_name": "PULMICORT NEBUAMP 0.5 MG/ML",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "07-FEB-2007",
+  "active_ingredients": [
+    {
+      "name": "BUDESONIDE",
+      "strength": "0.5",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SUSPENSION"
+  ],
+  "routes": [
+    "INHALATION"
+  ],
+  "companies": [
+    "ASTRAZENECA CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "BUDESONIDE"
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "drug_code": "35700",
+  "din": "02193221",
+  "brand_name": "THIAMIJECT INJECTION  - LIQ IM IV 100MG/ML",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "13-FEB-2008",
+  "active_ingredients": [
+    {
+      "name": "THIAMINE HYDROCHLORIDE",
+      "strength": "100",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "LIQUID"
+  ],
+  "routes": [
+    "INTRAMUSCULAR",
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "OMEGA LABORATORIES LTD"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "THIAMINE (VIT B1)"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "drug_code": "5684",
+  "din": "00572837",
+  "brand_name": "MEDICAL AIR 100%",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "07-OCT-2009",
+  "active_ingredients": [
+    {
+      "name": "AIR",
+      "strength": "100",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "GAS"
+  ],
+  "routes": [
+    "INHALATION"
+  ],
+  "companies": [
+    "AIR LIQUIDE CANADA INC."
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "MEDICAL AIR"
+  ]
+}

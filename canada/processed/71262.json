@@ -1,0 +1,28 @@
+{
+  "drug_code": "71262",
+  "din": "02247027",
+  "brand_name": "KEPPRA",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "15-OCT-2010",
+  "active_ingredients": [
+    {
+      "name": "LEVETIRACETAM",
+      "strength": "250",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "UCB CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "LEVETIRACETAM"
+  ]
+}

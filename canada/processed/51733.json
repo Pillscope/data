@@ -1,0 +1,33 @@
+{
+  "drug_code": "51733",
+  "din": "02232205",
+  "brand_name": "CR\u00c3\u0088ME DE JOUR",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "22-SEP-2017",
+  "active_ingredients": [
+    {
+      "name": "AVOBENZONE",
+      "strength": "3",
+      "unit": "%"
+    },
+    {
+      "name": "OCTINOXATE",
+      "strength": "7.5",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "CREAM"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "INTEGA SCIENCES DE LA PEAU / INTEGA SKIN SCIENCES INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "COMBINATIONS OF PROTECTIVES AGAINST UV-RADIATION"
+  ]
+}

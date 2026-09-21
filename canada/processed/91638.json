@@ -1,0 +1,26 @@
+{
+  "drug_code": "91638",
+  "din": "02431912",
+  "brand_name": "HYMATIL",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "15-JUL-2015",
+  "active_ingredients": [
+    {
+      "name": "TILMICOSIN",
+      "strength": "300",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "SUBCUTANEOUS"
+  ],
+  "companies": [
+    "MODERN VETERINARY THERAPEUTICS LLC"
+  ],
+  "status": "APPROVED",
+  "atc": []
+}

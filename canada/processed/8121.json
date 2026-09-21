@@ -1,0 +1,30 @@
+{
+  "drug_code": "8121",
+  "din": "00725765",
+  "brand_name": "MEPERIDINE HYDROCHLORIDE INJECTION USP",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "18-OCT-2017",
+  "active_ingredients": [
+    {
+      "name": "MEPERIDINE HYDROCHLORIDE",
+      "strength": "50",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "INTRAMUSCULAR",
+    "INTRAVENOUS",
+    "SUBCUTANEOUS"
+  ],
+  "companies": [
+    "SANDOZ CANADA INCORPORATED"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "PETHIDINE"
+  ]
+}

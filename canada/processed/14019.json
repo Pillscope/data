@@ -1,0 +1,28 @@
+{
+  "drug_code": "14019",
+  "din": "01997602",
+  "brand_name": "DANTRIUM CAPSULES",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "20-APR-2018",
+  "active_ingredients": [
+    {
+      "name": "DANTROLENE SODIUM",
+      "strength": "25",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "CAPSULE"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "PAR PHARMACEUTICAL COMPANIES"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "DANTROLENE"
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "drug_code": "78769",
+  "din": "02302365",
+  "brand_name": "SANDOZ LISINOPRIL HCT",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "03-SEP-2009",
+  "active_ingredients": [
+    {
+      "name": "HYDROCHLOROTHIAZIDE",
+      "strength": "12.5",
+      "unit": "MG"
+    },
+    {
+      "name": "LISINOPRIL (LISINOPRIL DIHYDRATE)",
+      "strength": "10",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "SANDOZ CANADA INCORPORATED"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "LISINOPRIL AND DIURETICS",
+    "LISINOPRIL AND DIURETICS"
+  ]
+}

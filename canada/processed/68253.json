@@ -1,0 +1,28 @@
+{
+  "drug_code": "68253",
+  "din": "02244286",
+  "brand_name": "HEAD & SHOULDERS DANDRUFF CONDITIONER",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "09-MAY-2013",
+  "active_ingredients": [
+    {
+      "name": "PYRITHIONE ZINC",
+      "strength": "0.5",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "LOTION"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "PROCTER & GAMBLE INC"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "PYRITHIONE ZINC"
+  ]
+}

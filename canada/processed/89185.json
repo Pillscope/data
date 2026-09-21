@@ -1,0 +1,31 @@
+{
+  "drug_code": "89185",
+  "din": "02407183",
+  "brand_name": "SEBOLUX",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "13-JAN-2014",
+  "active_ingredients": [
+    {
+      "name": "SALICYLIC ACID",
+      "strength": "2",
+      "unit": "%"
+    },
+    {
+      "name": "SULFUR (SODIUM THIOSULFATE)",
+      "strength": "2",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "SHAMPOO"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "VIRBAC AH INC"
+  ],
+  "status": "MARKETED",
+  "atc": []
+}

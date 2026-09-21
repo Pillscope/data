@@ -1,0 +1,28 @@
+{
+  "drug_code": "31478",
+  "din": "02141736",
+  "brand_name": "ALLERGY FORMULA LIQUID",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "07-JUL-2015",
+  "active_ingredients": [
+    {
+      "name": "DIPHENHYDRAMINE HYDROCHLORIDE",
+      "strength": "12.5",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "LIQUID"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "PERRIGO INTERNATIONAL"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "DIPHENHYDRAMINE"
+  ]
+}

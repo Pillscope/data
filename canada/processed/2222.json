@@ -1,0 +1,29 @@
+{
+  "drug_code": "2222",
+  "din": "00030635",
+  "brand_name": "SOLU-CORTEF 1 GM ACT-O-VIAL",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "22-APR-2009",
+  "active_ingredients": [
+    {
+      "name": "HYDROCORTISONE (HYDROCORTISONE SODIUM SUCCINATE)",
+      "strength": "1",
+      "unit": "G"
+    }
+  ],
+  "forms": [
+    "POWDER FOR SOLUTION"
+  ],
+  "routes": [
+    "INTRAMUSCULAR",
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "PFIZER CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "HYDROCORTISONE"
+  ]
+}

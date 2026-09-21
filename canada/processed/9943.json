@@ -1,0 +1,28 @@
+{
+  "drug_code": "9943",
+  "din": "00782459",
+  "brand_name": "VOLTAREN SR 75 TAB",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "04-APR-2006",
+  "active_ingredients": [
+    {
+      "name": "DICLOFENAC SODIUM",
+      "strength": "75",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET (EXTENDED-RELEASE)"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "NOVARTIS PHARMACEUTICALS CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "DICLOFENAC"
+  ]
+}

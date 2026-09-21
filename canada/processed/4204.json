@@ -1,0 +1,28 @@
+{
+  "drug_code": "4204",
+  "din": "00052124",
+  "brand_name": "OXYTO-SURE",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "17-AUG-2011",
+  "active_ingredients": [
+    {
+      "name": "OXYTOCIN",
+      "strength": "20",
+      "unit": "UNIT"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "INTRAMUSCULAR",
+    "INTRAVENOUS",
+    "SUBCUTANEOUS"
+  ],
+  "companies": [
+    "VETOQUINOL N A INC"
+  ],
+  "status": "APPROVED",
+  "atc": []
+}

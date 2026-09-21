@@ -1,0 +1,38 @@
+{
+  "drug_code": "42376",
+  "din": "02093006",
+  "brand_name": "MARCELLE/ OIL FREE MULTI-D\u00c3\u0089FENSE LOTION SPF 15 FPS/ FLUIDE MULTI-D\u00c3\u0089FENSE SANS HUILE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "05-JUL-2013",
+  "active_ingredients": [
+    {
+      "name": "MERADIMATE",
+      "strength": "4.0",
+      "unit": "%"
+    },
+    {
+      "name": "ENSULIZOLE",
+      "strength": "2.0",
+      "unit": "%"
+    },
+    {
+      "name": "OCTINOXATE",
+      "strength": "7.5",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "LOTION"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "GROUPE MARCELLE INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "COMBINATIONS OF PROTECTIVES AGAINST UV-RADIATION"
+  ]
+}

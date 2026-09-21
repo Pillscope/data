@@ -1,0 +1,26 @@
+{
+  "drug_code": "50585",
+  "din": "02231278",
+  "brand_name": "TOLFEDINE TABLETS 6MG",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "18-AUG-2008",
+  "active_ingredients": [
+    {
+      "name": "TOLFENAMIC ACID",
+      "strength": "6",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "VETOQUINOL N A INC"
+  ],
+  "status": "APPROVED",
+  "atc": []
+}

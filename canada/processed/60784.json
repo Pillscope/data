@@ -1,0 +1,28 @@
+{
+  "drug_code": "60784",
+  "din": "02237450",
+  "brand_name": "D-FORTE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "17-AUG-2016",
+  "active_ingredients": [
+    {
+      "name": "VITAMIN D2",
+      "strength": "50000",
+      "unit": "UNIT"
+    }
+  ],
+  "forms": [
+    "CAPSULE"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "SANDOZ CANADA INCORPORATED"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "ERGOCALCIFEROL"
+  ]
+}

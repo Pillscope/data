@@ -1,0 +1,28 @@
+{
+  "drug_code": "79543",
+  "din": "02309769",
+  "brand_name": "PMS-LOSARTAN",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "13-JUL-2015",
+  "active_ingredients": [
+    {
+      "name": "LOSARTAN POTASSIUM",
+      "strength": "50",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "PHARMASCIENCE INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "LOSARTAN"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "drug_code": "76150",
+  "din": "02275848",
+  "brand_name": "DURAGESIC",
+  "class": "Human",
+  "descriptor": "12.6 MG/PATCH",
+  "last_update": "15-NOV-2017",
+  "active_ingredients": [
+    {
+      "name": "FENTANYL",
+      "strength": "75",
+      "unit": "MCG"
+    }
+  ],
+  "forms": [
+    "PATCH"
+  ],
+  "routes": [
+    "TRANSDERMAL"
+  ],
+  "companies": [
+    "JANSSEN INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "FENTANYL"
+  ]
+}

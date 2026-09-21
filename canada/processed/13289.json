@@ -1,0 +1,33 @@
+{
+  "drug_code": "13289",
+  "din": "01938991",
+  "brand_name": "STANHEXIDINE 2% WITH ISOPROPYL ALCOHOL 4%",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "29-APR-2015",
+  "active_ingredients": [
+    {
+      "name": "CHLORHEXIDINE GLUCONATE",
+      "strength": "2",
+      "unit": "%"
+    },
+    {
+      "name": "ISOPROPYL ALCOHOL",
+      "strength": "4",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "OMEGA LABORATORIES LTD"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "CHLORHEXIDINE, COMBINATIONS"
+  ]
+}

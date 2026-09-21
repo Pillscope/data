@@ -1,0 +1,28 @@
+{
+  "drug_code": "94490",
+  "din": "02457865",
+  "brand_name": "JAMP-HYDRALAZINE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "02-OCT-2017",
+  "active_ingredients": [
+    {
+      "name": "HYDRALAZINE HYDROCHLORIDE",
+      "strength": "10",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "JAMP PHARMA CORPORATION"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "HYDRALAZINE"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "drug_code": "287",
+  "din": "00016055",
+  "brand_name": "CUPRIMINE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "19-SEP-2014",
+  "active_ingredients": [
+    {
+      "name": "D-PENICILLAMINE",
+      "strength": "250",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "CAPSULE"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "VALEANT CANADA LP/VALEANT CANADA S.E.C."
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "PENICILLAMINE"
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "drug_code": "870",
+  "din": "00170968",
+  "brand_name": "DYSTOSEL",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "21-JUN-2017",
+  "active_ingredients": [
+    {
+      "name": "VITAMIN E (D-ALPHA TOCOPHERYL ACETATE)",
+      "strength": "136",
+      "unit": "UNIT"
+    },
+    {
+      "name": "SELENIUM (SODIUM SELENITE)",
+      "strength": "3",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "EMULSION"
+  ],
+  "routes": [
+    "INTRAMUSCULAR",
+    "SUBCUTANEOUS"
+  ],
+  "companies": [
+    "ZOETIS CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "VITAMINS WITH MINERALS"
+  ]
+}

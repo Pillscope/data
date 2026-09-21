@@ -1,0 +1,28 @@
+{
+  "drug_code": "91874",
+  "din": "02434407",
+  "brand_name": "IMBRUVICA",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "19-JUL-2016",
+  "active_ingredients": [
+    {
+      "name": "Ibrutinib",
+      "strength": "140",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "CAPSULE"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "JANSSEN INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "IBRUTINIB"
+  ]
+}

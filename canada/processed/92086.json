@@ -1,0 +1,28 @@
+{
+  "drug_code": "92086",
+  "din": "02436523",
+  "brand_name": "FERRIPROX",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "16-JAN-2018",
+  "active_ingredients": [
+    {
+      "name": "Deferiprone",
+      "strength": "100",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "APOPHARMA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "DEFERIPRONE"
+  ]
+}

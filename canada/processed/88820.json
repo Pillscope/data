@@ -1,0 +1,28 @@
+{
+  "drug_code": "88820",
+  "din": "02403390",
+  "brand_name": "STIVARGA",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "17-MAY-2013",
+  "active_ingredients": [
+    {
+      "name": "Regorafenib",
+      "strength": "40",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "BAYER INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "REGORAFENIB"
+  ]
+}

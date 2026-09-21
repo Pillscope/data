@@ -1,0 +1,33 @@
+{
+  "drug_code": "79408",
+  "din": "02308444",
+  "brand_name": "PIPERACILLIN AND TAZOBACTAM FOR INJECTION",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "30-JAN-2013",
+  "active_ingredients": [
+    {
+      "name": "PIPERACILLIN (PIPERACILLIN SODIUM)",
+      "strength": "2",
+      "unit": "G"
+    },
+    {
+      "name": "TAZOBACTAM (TAZOBACTAM SODIUM)",
+      "strength": "0.25",
+      "unit": "G"
+    }
+  ],
+  "forms": [
+    "POWDER FOR SOLUTION"
+  ],
+  "routes": [
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "APOTEX INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "PIPERACILLIN AND BETA-LACTAMASE INHIBITOR"
+  ]
+}

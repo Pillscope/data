@@ -1,0 +1,28 @@
+{
+  "drug_code": "5792",
+  "din": "00608734",
+  "brand_name": "LANSOYL GEL 78%",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "05-APR-2006",
+  "active_ingredients": [
+    {
+      "name": "MINERAL OIL",
+      "strength": "78",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "GEL"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "AURIUM PHARMA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "LIQUID PARAFFIN"
+  ]
+}

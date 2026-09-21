@@ -1,0 +1,28 @@
+{
+  "drug_code": "50802",
+  "din": "02231478",
+  "brand_name": "INNOHEP",
+  "class": "Human",
+  "descriptor": "GRADUATED 0.5ML PRE-FILLED SYRINGES 20000 ANTI-XA IU/ML PRESERVATIVE FREE",
+  "last_update": "21-SEP-2017",
+  "active_ingredients": [
+    {
+      "name": "TINZAPARIN SODIUM",
+      "strength": "20000",
+      "unit": "UNIT"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "SUBCUTANEOUS"
+  ],
+  "companies": [
+    "LEO PHARMA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "TINZAPARIN"
+  ]
+}

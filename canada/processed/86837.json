@@ -1,0 +1,29 @@
+{
+  "drug_code": "86837",
+  "din": "02382539",
+  "brand_name": "FUROSEMIDE INJECTION SDZ",
+  "class": "Human",
+  "descriptor": "SINGLE USE 2ML AND 4ML AMPOULES",
+  "last_update": "19-NOV-2012",
+  "active_ingredients": [
+    {
+      "name": "FUROSEMIDE",
+      "strength": "10",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "INTRAMUSCULAR",
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "SANDOZ CANADA INCORPORATED"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "FUROSEMIDE"
+  ]
+}

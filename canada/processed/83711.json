@@ -1,0 +1,28 @@
+{
+  "drug_code": "83711",
+  "din": "02351870",
+  "brand_name": "SANDOZ RIZATRIPTAN ODT",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "20-MAR-2012",
+  "active_ingredients": [
+    {
+      "name": "RIZATRIPTAN (RIZATRIPTAN BENZOATE)",
+      "strength": "5",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET (ORALLY DISINTEGRATING)"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "SANDOZ CANADA INCORPORATED"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "RIZATRIPTAN"
+  ]
+}

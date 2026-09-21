@@ -1,0 +1,28 @@
+{
+  "drug_code": "79848",
+  "din": "02312921",
+  "brand_name": "CLEAN & CLEAR ADVANTAGE PLUS 3-IN-1 CLEANSER",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "05-DEC-2011",
+  "active_ingredients": [
+    {
+      "name": "BENZOYL PEROXIDE",
+      "strength": "5.0",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "CREAM"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "JOHNSON & JOHNSON INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "BENZOYL PEROXIDE"
+  ]
+}

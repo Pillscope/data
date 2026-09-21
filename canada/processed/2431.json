@@ -1,0 +1,26 @@
+{
+  "drug_code": "2431",
+  "din": "00373117",
+  "brand_name": "ANTI BLOAT",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "28-JUN-2000",
+  "active_ingredients": [
+    {
+      "name": "DOCUSATE SODIUM",
+      "strength": "60",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "LIQUID"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "PROFESSIONAL VETERINARY LABORATORIES"
+  ],
+  "status": "MARKETED",
+  "atc": []
+}

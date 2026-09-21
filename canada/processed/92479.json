@@ -1,0 +1,28 @@
+{
+  "drug_code": "92479",
+  "din": "02440423",
+  "brand_name": "APO-DULOXETINE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "17-MAY-2016",
+  "active_ingredients": [
+    {
+      "name": "DULOXETINE (DULOXETINE HYDROCHLORIDE)",
+      "strength": "30",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "CAPSULE (DELAYED RELEASE)"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "APOTEX INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "DULOXETINE"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "drug_code": "91232",
+  "din": "02427826",
+  "brand_name": "APO-EZETIMIBE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "28-OCT-2016",
+  "active_ingredients": [
+    {
+      "name": "EZETIMIBE",
+      "strength": "10",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "APOTEX INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "EZETIMIBE"
+  ]
+}

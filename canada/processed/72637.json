@@ -1,0 +1,33 @@
+{
+  "drug_code": "72637",
+  "din": "02248297",
+  "brand_name": "EVRA   -(6/0.60)",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "01-NOV-2017",
+  "active_ingredients": [
+    {
+      "name": "NORELGESTROMIN",
+      "strength": "200",
+      "unit": "MCG"
+    },
+    {
+      "name": "ETHINYL ESTRADIOL",
+      "strength": "35",
+      "unit": "MCG"
+    }
+  ],
+  "forms": [
+    "PATCH (EXTENDED RELEASE)"
+  ],
+  "routes": [
+    "TRANSDERMAL"
+  ],
+  "companies": [
+    "JANSSEN INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "NORELGESTROMIN AND ESTROGEN"
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "drug_code": "8352",
+  "din": "00710814",
+  "brand_name": "EPINEPHRINE INJECTION USP",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "17-MAR-2018",
+  "active_ingredients": [
+    {
+      "name": "EPINEPHRINE",
+      "strength": "1",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "INTRACARDIAC",
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "PFIZER CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "EPINEPHRINE"
+  ]
+}

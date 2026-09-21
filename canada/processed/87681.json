@@ -1,0 +1,28 @@
+{
+  "drug_code": "87681",
+  "din": "02391465",
+  "brand_name": "PACLITAXEL INJECTION USP",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "24-JUN-2015",
+  "active_ingredients": [
+    {
+      "name": "PACLITAXEL",
+      "strength": "6",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "ACCORD HEALTHCARE INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "PACLITAXEL"
+  ]
+}

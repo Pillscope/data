@@ -1,0 +1,56 @@
+{
+  "drug_code": "7141",
+  "din": "00715654",
+  "brand_name": "ELECTROLYTE INFUSION STERILE INJECTION",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "28-MAY-2009",
+  "active_ingredients": [
+    {
+      "name": "DEXTROSE",
+      "strength": "50",
+      "unit": "G"
+    },
+    {
+      "name": "SODIUM CITRATE",
+      "strength": "0.7",
+      "unit": "G"
+    },
+    {
+      "name": "SODIUM CHLORIDE",
+      "strength": "5.5",
+      "unit": "G"
+    },
+    {
+      "name": "SODIUM ACETATE",
+      "strength": "3",
+      "unit": "G"
+    },
+    {
+      "name": "MAGNESIUM CHLORIDE",
+      "strength": "0.3",
+      "unit": "G"
+    },
+    {
+      "name": "CALCIUM CHLORIDE",
+      "strength": "0.4",
+      "unit": "G"
+    },
+    {
+      "name": "POTASSIUM ACETATE",
+      "strength": "1",
+      "unit": "G"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "BIMEDA-MTC ANIMAL HEALTH INC"
+  ],
+  "status": "APPROVED",
+  "atc": []
+}

@@ -1,0 +1,46 @@
+{
+  "drug_code": "3665",
+  "din": "00490989",
+  "brand_name": "ABSORBINE VETERINARY LINIMENT",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "23-APR-2018",
+  "active_ingredients": [
+    {
+      "name": "IODINE",
+      "strength": "0.02",
+      "unit": "%"
+    },
+    {
+      "name": "THYMOL",
+      "strength": "0.25",
+      "unit": "%"
+    },
+    {
+      "name": "CHLOROXYLENOL",
+      "strength": "0.5",
+      "unit": "%"
+    },
+    {
+      "name": "MENTHOL",
+      "strength": "1.25",
+      "unit": "%"
+    },
+    {
+      "name": "POTASSIUM IODIDE",
+      "strength": "0.0267",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "LIQUID"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "W.F. YOUNG, INC."
+  ],
+  "status": "MARKETED",
+  "atc": []
+}

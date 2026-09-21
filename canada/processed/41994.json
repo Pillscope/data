@@ -1,0 +1,33 @@
+{
+  "drug_code": "41994",
+  "din": "01911325",
+  "brand_name": "SENSITIVE EYES MULTI PURPOSE SOLUTION",
+  "class": "Disinfectant",
+  "descriptor": "",
+  "last_update": "08-MAY-2015",
+  "active_ingredients": [
+    {
+      "name": "POLYAMINOPROPYL BIGUANIDE",
+      "strength": "0.00005",
+      "unit": "%"
+    },
+    {
+      "name": "DISODIUM EDETATE",
+      "strength": "0.10",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "DISINFECTANT (Contact Lens)"
+  ],
+  "companies": [
+    "BAUSCH & LOMB INC"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "ARTIFICIAL TEARS AND OTHER INDIFFERENT PREPARATIONS."
+  ]
+}

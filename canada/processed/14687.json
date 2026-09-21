@@ -1,0 +1,26 @@
+{
+  "drug_code": "14687",
+  "din": "01913085",
+  "brand_name": "IVOMEC PREMIX FOR SWINE",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "05-MAY-2015",
+  "active_ingredients": [
+    {
+      "name": "IVERMECTIN B1A",
+      "strength": "6",
+      "unit": "G"
+    }
+  ],
+  "forms": [
+    "DRUG PREMIX"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "MERIAL CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": []
+}

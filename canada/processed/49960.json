@@ -1,0 +1,28 @@
+{
+  "drug_code": "49960",
+  "din": "02230700",
+  "brand_name": "HYPERRAB S/D",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "28-DEC-2012",
+  "active_ingredients": [
+    {
+      "name": "RABIES IMMUNE GLOBULIN HUMAN",
+      "strength": "150",
+      "unit": "UNIT"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "INTRAMUSCULAR"
+  ],
+  "companies": [
+    "GRIFOLS THERAPEUTICS LLC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "RABIES IMMUNOGLOBULIN"
+  ]
+}

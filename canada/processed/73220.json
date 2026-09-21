@@ -1,0 +1,28 @@
+{
+  "drug_code": "73220",
+  "din": "02248849",
+  "brand_name": "CORRECTOR 4",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "19-MAR-2018",
+  "active_ingredients": [
+    {
+      "name": "HYDROQUINONE",
+      "strength": "4",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "CREAM"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "VIVIER CANADA INCORPORATED"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "HYDROQUINONE"
+  ]
+}

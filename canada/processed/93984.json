@@ -1,0 +1,28 @@
+{
+  "drug_code": "93984",
+  "din": "02453312",
+  "brand_name": "JAMP-BEZAFIBRATE SR",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "13-MAY-2016",
+  "active_ingredients": [
+    {
+      "name": "BEZAFIBRATE",
+      "strength": "400",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET (EXTENDED-RELEASE)"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "JAMP PHARMA CORPORATION"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "BEZAFIBRATE"
+  ]
+}

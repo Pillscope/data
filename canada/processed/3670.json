@@ -1,0 +1,26 @@
+{
+  "drug_code": "3670",
+  "din": "00497061",
+  "brand_name": "SUPER NITRO TWELVE TAB 17.5MG",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "09-MAY-2016",
+  "active_ingredients": [
+    {
+      "name": "ROXARSONE",
+      "strength": "17.5",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "DOMINION VETERINARY LABORATORIES LTD."
+  ],
+  "status": "MARKETED",
+  "atc": []
+}

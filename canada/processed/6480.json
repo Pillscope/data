@@ -1,0 +1,39 @@
+{
+  "drug_code": "6480",
+  "din": "00608238",
+  "brand_name": "TEVA-TECNAL",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "26-FEB-2018",
+  "active_ingredients": [
+    {
+      "name": "BUTALBITAL",
+      "strength": "50",
+      "unit": "MG"
+    },
+    {
+      "name": "ACETYLSALICYLIC ACID",
+      "strength": "330",
+      "unit": "MG"
+    },
+    {
+      "name": "CAFFEINE",
+      "strength": "40",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "CAPSULE"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "TEVA CANADA LIMITED"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "ACETYLSALICYLIC ACID, COMB WITH PSYCHOLEPTICS",
+    "ACETYLSALICYLIC ACID, COMB WITH PSYCHOLEPTICS"
+  ]
+}

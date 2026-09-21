@@ -1,0 +1,36 @@
+{
+  "drug_code": "91326",
+  "din": "02428806",
+  "brand_name": "UKAL-TOWEL",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "09-JAN-2015",
+  "active_ingredients": [
+    {
+      "name": "CHLORHEXIDINE ACETATE",
+      "strength": "0.002",
+      "unit": "%"
+    },
+    {
+      "name": "ALCOHOL ANHYDROUS",
+      "strength": "50",
+      "unit": "%"
+    },
+    {
+      "name": "LANOLIN",
+      "strength": "2",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "WIPE"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "LIBERCHEM INC"
+  ],
+  "status": "MARKETED",
+  "atc": []
+}

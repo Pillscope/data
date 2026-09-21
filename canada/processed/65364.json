@@ -1,0 +1,28 @@
+{
+  "drug_code": "65364",
+  "din": "02241704",
+  "brand_name": "TEVA-GEMFIBROZIL",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "25-SEP-2015",
+  "active_ingredients": [
+    {
+      "name": "GEMFIBROZIL",
+      "strength": "300",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "CAPSULE"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "TEVA CANADA LIMITED"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "GEMFIBROZIL"
+  ]
+}

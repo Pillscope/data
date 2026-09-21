@@ -1,0 +1,28 @@
+{
+  "drug_code": "17789",
+  "din": "02141442",
+  "brand_name": "DIFLUCAN ONE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "28-MAY-2013",
+  "active_ingredients": [
+    {
+      "name": "FLUCONAZOLE",
+      "strength": "150",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "CAPSULE"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "PFIZER CONSUMER HEALTHCARE A DIVISION OF PFIZER CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "FLUCONAZOLE"
+  ]
+}

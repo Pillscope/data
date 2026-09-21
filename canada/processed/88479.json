@@ -1,0 +1,28 @@
+{
+  "drug_code": "88479",
+  "din": "02399954",
+  "brand_name": "LIFE BRAND OINTMENT",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "19-JAN-2016",
+  "active_ingredients": [
+    {
+      "name": "PETROLATUM",
+      "strength": "95.7",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "OINTMENT"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "CRLS"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "SOFT PARAFFIN AND FAT PRODUCTS"
+  ]
+}

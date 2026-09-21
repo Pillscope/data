@@ -1,0 +1,28 @@
+{
+  "drug_code": "4212",
+  "din": "00514713",
+  "brand_name": "ALLERGENIC EXTRACTS INJ",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "11-OCT-2017",
+  "active_ingredients": [
+    {
+      "name": "NON POLLEN",
+      "strength": "0",
+      "unit": "NIL"
+    }
+  ],
+  "forms": [
+    "LIQUID"
+  ],
+  "routes": [
+    "SUBCUTANEOUS"
+  ],
+  "companies": [
+    "MEDIC SAVOURE LTD."
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "VARIOUS"
+  ]
+}

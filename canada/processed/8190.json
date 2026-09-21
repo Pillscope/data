@@ -1,0 +1,28 @@
+{
+  "drug_code": "8190",
+  "din": "00688622",
+  "brand_name": "DIPROLENE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "25-APR-2017",
+  "active_ingredients": [
+    {
+      "name": "BETAMETHASONE (BETAMETHASONE DIPROPIONATE)",
+      "strength": "0.05",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "CREAM"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "MERCK CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "BETAMETHASONE"
+  ]
+}

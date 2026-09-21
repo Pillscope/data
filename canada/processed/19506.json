@@ -1,0 +1,28 @@
+{
+  "drug_code": "19506",
+  "din": "02004992",
+  "brand_name": "CHLORHEXSEPTIC-LIQ 0.5MG/ML",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "25-JUL-2017",
+  "active_ingredients": [
+    {
+      "name": "CHLORHEXIDINE GLUCONATE",
+      "strength": "0.05",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "PHARMASCIENCE INC"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "CHLORHEXIDINE"
+  ]
+}

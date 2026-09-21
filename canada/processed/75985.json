@@ -1,0 +1,28 @@
+{
+  "drug_code": "75985",
+  "din": "02274396",
+  "brand_name": "AZITHROMYCIN",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "05-MAY-2015",
+  "active_ingredients": [
+    {
+      "name": "AZITHROMYCIN (AZITHROMYCIN MONOHYDRATE HEMIETHANOLATE)",
+      "strength": "200",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "POWDER FOR SUSPENSION"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "PHARMASCIENCE INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "AZITHROMYCIN"
+  ]
+}

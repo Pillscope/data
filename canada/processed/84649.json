@@ -1,0 +1,28 @@
+{
+  "drug_code": "84649",
+  "din": "02361434",
+  "brand_name": "RAN-CLARITHROMYCIN",
+  "class": "Human",
+  "descriptor": "FILM-COATED TABLET",
+  "last_update": "18-DEC-2012",
+  "active_ingredients": [
+    {
+      "name": "CLARITHROMYCIN",
+      "strength": "500",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "RANBAXY PHARMACEUTICALS CANADA INC."
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "CLARITHROMYCIN"
+  ]
+}

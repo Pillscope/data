@@ -1,0 +1,30 @@
+{
+  "drug_code": "62524",
+  "din": "02239070",
+  "brand_name": "VIROCIDIN-X",
+  "class": "Disinfectant",
+  "descriptor": "",
+  "last_update": "06-JUL-2017",
+  "active_ingredients": [
+    {
+      "name": "SODIUM HYPOCHLORITE",
+      "strength": "0.5",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "SPRAY"
+  ],
+  "routes": [
+    "DISINFECTANT (Medical Instruments)",
+    "DISINFECTANT (Food Premises)",
+    "DISINFECTANT (Hospital/HC Facilities)"
+  ],
+  "companies": [
+    "KAM SCIENTIFIC INC."
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "TECHNICAL DISINFECTANTS"
+  ]
+}

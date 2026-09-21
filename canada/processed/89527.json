@@ -1,0 +1,31 @@
+{
+  "drug_code": "89527",
+  "din": "02410605",
+  "brand_name": "ENVIRONIZE ANOLYTE",
+  "class": "Disinfectant",
+  "descriptor": "",
+  "last_update": "11-JAN-2016",
+  "active_ingredients": [
+    {
+      "name": "HYPOCHLOROUS ACID",
+      "strength": "0.0338",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "DISINFECTANT (Food Premises)",
+    "DISINFECTANT (Hospital/HC Facilities)",
+    "DISINFECTANT (Domestic)",
+    "DISINFECTANT (Institutional/Industrial)"
+  ],
+  "companies": [
+    "PJ HOLDINGS CORP."
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "TECHNICAL DISINFECTANTS"
+  ]
+}

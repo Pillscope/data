@@ -1,0 +1,28 @@
+{
+  "drug_code": "1118",
+  "din": "00010383",
+  "brand_name": "SINTROM",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "03-MAR-2010",
+  "active_ingredients": [
+    {
+      "name": "ACENOCOUMAROL",
+      "strength": "1",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "PALADIN LABS INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "ACENOCOUMAROL"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "drug_code": "86426",
+  "din": "02378469",
+  "brand_name": "LOVENOX HP",
+  "class": "Human",
+  "descriptor": "SINGLE DOSE PRE-FILLED SYRINGE 150MG/ML",
+  "last_update": "21-SEP-2017",
+  "active_ingredients": [
+    {
+      "name": "ENOXAPARIN SODIUM",
+      "strength": "150",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "SUBCUTANEOUS"
+  ],
+  "companies": [
+    "SANOFI-AVENTIS CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "ENOXAPARIN"
+  ]
+}

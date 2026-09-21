@@ -1,0 +1,28 @@
+{
+  "drug_code": "72247",
+  "din": "02247937",
+  "brand_name": "APO-HYDROXYUREA",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "12-DEC-2017",
+  "active_ingredients": [
+    {
+      "name": "HYDROXYUREA",
+      "strength": "500",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "CAPSULE"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "APOTEX INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "HYDROXYCARBAMIDE"
+  ]
+}

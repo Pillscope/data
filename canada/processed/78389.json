@@ -1,0 +1,28 @@
+{
+  "drug_code": "78389",
+  "din": "02298597",
+  "brand_name": "ZELDOX",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "26-JAN-2013",
+  "active_ingredients": [
+    {
+      "name": "ZIPRASIDONE (ZIPRASIDONE HYDROCHLORIDE MONOHYDRATE)",
+      "strength": "20.0",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "CAPSULE"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "PFIZER CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "ZIPRASIDONE"
+  ]
+}

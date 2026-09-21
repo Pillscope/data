@@ -1,0 +1,28 @@
+{
+  "drug_code": "87458",
+  "din": "02389053",
+  "brand_name": "ROSUVASTATIN",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "15-NOV-2012",
+  "active_ingredients": [
+    {
+      "name": "ROSUVASTATIN (ROSUVASTATIN CALCIUM)",
+      "strength": "20",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "SIVEM PHARMACEUTICALS ULC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "ROSUVASTATIN"
+  ]
+}

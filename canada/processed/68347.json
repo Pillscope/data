@@ -1,0 +1,28 @@
+{
+  "drug_code": "68347",
+  "din": "02244379",
+  "brand_name": "PMS-PROPOFOL",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "05-MAY-2015",
+  "active_ingredients": [
+    {
+      "name": "PROPOFOL",
+      "strength": "10",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "EMULSION"
+  ],
+  "routes": [
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "PHARMASCIENCE INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "PROPOFOL"
+  ]
+}

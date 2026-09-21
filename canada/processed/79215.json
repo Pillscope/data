@@ -1,0 +1,33 @@
+{
+  "drug_code": "79215",
+  "din": "02306441",
+  "brand_name": "LUXIVA FLAWLESS EFFECT LIQUID FOUNDATION SPF 15",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "17-AUG-2012",
+  "active_ingredients": [
+    {
+      "name": "OXYBENZONE",
+      "strength": "3.0",
+      "unit": "%"
+    },
+    {
+      "name": "OCTINOXATE",
+      "strength": "7.5",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "LOTION"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "MERLE NORMAN COSMETICS INC"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "COMBINATIONS OF PROTECTIVES AGAINST UV-RADIATION"
+  ]
+}

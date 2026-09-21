@@ -1,0 +1,34 @@
+{
+  "drug_code": "76210",
+  "din": "02276429",
+  "brand_name": "FOSAVANCE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "19-APR-2013",
+  "active_ingredients": [
+    {
+      "name": "VITAMIN D3 (CHOLECALCIFEROL)",
+      "strength": "2800",
+      "unit": "UNIT"
+    },
+    {
+      "name": "ALENDRONIC ACID (ALENDRONATE SODIUM TRIHYDRATE)",
+      "strength": "70",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "MERCK CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "ALENDRONIC ACID AND CHOLECALCIFEROL",
+    "ALENDRONIC ACID AND CHOLECALCIFEROL"
+  ]
+}

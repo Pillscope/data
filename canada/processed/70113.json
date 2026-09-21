@@ -1,0 +1,28 @@
+{
+  "drug_code": "70113",
+  "din": "02245987",
+  "brand_name": "VITALUMI\u00c3\u0088RE - FLUIDE DE TEINT \u00c3\u0089CLAT - SPF 15",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "21-OCT-2005",
+  "active_ingredients": [
+    {
+      "name": "OCTINOXATE",
+      "strength": "5",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "LOTION"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "CHANEL INC"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "OCTYL METHOXYCINNAMATE"
+  ]
+}

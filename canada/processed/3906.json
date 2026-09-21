@@ -1,0 +1,28 @@
+{
+  "drug_code": "3906",
+  "din": "00042544",
+  "brand_name": "MIOSTAT OPHTHALMIC LIQ 0.01%",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "01-MAY-2015",
+  "active_ingredients": [
+    {
+      "name": "CARBACHOL",
+      "strength": ".01",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "INTRAOCULAR"
+  ],
+  "companies": [
+    "ALCON CANADA INC"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "CARBACHOL"
+  ]
+}

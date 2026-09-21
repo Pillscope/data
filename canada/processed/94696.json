@@ -1,0 +1,35 @@
+{
+  "drug_code": "94696",
+  "din": "02459655",
+  "brand_name": "OTIXAL",
+  "class": "Human",
+  "descriptor": "SINGLE-USE VIAL",
+  "last_update": "03-JAN-2018",
+  "active_ingredients": [
+    {
+      "name": "CIPROFLOXACIN (CIPROFLOXACIN HYDROCHLORIDE)",
+      "strength": "0.3",
+      "unit": "%"
+    },
+    {
+      "name": "FLUOCINOLONE ACETONIDE",
+      "strength": "0.025",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "OTIC"
+  ],
+  "companies": [
+    "PEDIAPHARM INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "FLUOCINOLONE ACETONIDE AND ANTIINFECTIVES",
+    "FLUOCINOLONE ACETONIDE AND ANTIINFECTIVES",
+    "FLUOCINOLONE ACETONIDE AND ANTIINFECTIVES"
+  ]
+}

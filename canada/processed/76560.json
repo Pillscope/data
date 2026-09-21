@@ -1,0 +1,28 @@
+{
+  "drug_code": "76560",
+  "din": "02279983",
+  "brand_name": "TARO-MUPIROCIN",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "14-AUG-2012",
+  "active_ingredients": [
+    {
+      "name": "MUPIROCIN",
+      "strength": "2",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "OINTMENT"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "TARO PHARMACEUTICALS INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "MUPIROCIN"
+  ]
+}

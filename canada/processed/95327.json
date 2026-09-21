@@ -1,0 +1,28 @@
+{
+  "drug_code": "95327",
+  "din": "02465086",
+  "brand_name": "JAMP-RIZATRIPTAN ODT",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "01-MAR-2018",
+  "active_ingredients": [
+    {
+      "name": "RIZATRIPTAN (RIZATRIPTAN BENZOATE)",
+      "strength": "5",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET (ORALLY DISINTEGRATING)"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "JAMP PHARMA CORPORATION"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "RIZATRIPTAN"
+  ]
+}

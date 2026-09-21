@@ -1,0 +1,29 @@
+{
+  "drug_code": "4191",
+  "din": "00524123",
+  "brand_name": "ANTIBAC B",
+  "class": "Disinfectant",
+  "descriptor": "",
+  "last_update": "29-APR-2013",
+  "active_ingredients": [
+    {
+      "name": "SODIUM DICHLOROISOCYANURATE",
+      "strength": "25.8",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "POWDER"
+  ],
+  "routes": [
+    "DISINFECTANT (Barn)",
+    "DISINFECTANT (Food Premises)"
+  ],
+  "companies": [
+    "DIVERSEY INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "TECHNICAL DISINFECTANTS"
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "drug_code": "1979",
+  "din": "00317128",
+  "brand_name": "ELECTRAS",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "23-JUN-2009",
+  "active_ingredients": [
+    {
+      "name": "POTASSIUM CHLORIDE",
+      "strength": "84.46",
+      "unit": "%"
+    },
+    {
+      "name": "MAGNESIUM CHLORIDE",
+      "strength": "2.81",
+      "unit": "%"
+    },
+    {
+      "name": "CALCIUM CHLORIDE",
+      "strength": "11.32",
+      "unit": "%"
+    },
+    {
+      "name": "CALCIUM LACTATE",
+      "strength": "1.41",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "POWDER"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "DOMINION VETERINARY LABORATORIES LTD."
+  ],
+  "status": "MARKETED",
+  "atc": []
+}

@@ -1,0 +1,34 @@
+{
+  "drug_code": "16850",
+  "din": "02123398",
+  "brand_name": "SEPTANEST SP",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "05-MAR-2012",
+  "active_ingredients": [
+    {
+      "name": "EPINEPHRINE (EPINEPHRINE BITARTRATE)",
+      "strength": "0.01",
+      "unit": "MG"
+    },
+    {
+      "name": "ARTICAINE HYDROCHLORIDE",
+      "strength": "40.0",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "BLOCK/INFILTRATION"
+  ],
+  "companies": [
+    "SEPTODONT"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "ARTICAINE, COMBINATIONS",
+    "ARTICAINE, COMBINATIONS"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "drug_code": "68668",
+  "din": "02244680",
+  "brand_name": "FLOCTAFENINE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "10-APR-2012",
+  "active_ingredients": [
+    {
+      "name": "FLOCTAFENINE",
+      "strength": "200",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "AA PHARMA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "FLOCTAFENINE"
+  ]
+}

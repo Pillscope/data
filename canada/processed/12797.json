@@ -1,0 +1,36 @@
+{
+  "drug_code": "12797",
+  "din": "01941178",
+  "brand_name": "SCOUR TREAT",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "16-JAN-2018",
+  "active_ingredients": [
+    {
+      "name": "SULFAMETHAZINE",
+      "strength": "8.8",
+      "unit": "MG"
+    },
+    {
+      "name": "NEOMYCIN (NEOMYCIN SULFATE)",
+      "strength": "4.4",
+      "unit": "MG"
+    },
+    {
+      "name": "SULFATHIAZOLE",
+      "strength": "26.4",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "CITADEL ANIMAL HEALTH"
+  ],
+  "status": "MARKETED",
+  "atc": []
+}

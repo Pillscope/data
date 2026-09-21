@@ -1,0 +1,36 @@
+{
+  "drug_code": "6496",
+  "din": "00641979",
+  "brand_name": "CHLOR 250",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "18-JAN-2018",
+  "active_ingredients": [
+    {
+      "name": "SULFAMETHAZINE",
+      "strength": "44",
+      "unit": "G"
+    },
+    {
+      "name": "CHLORTETRACYCLINE HYDROCHLORIDE",
+      "strength": "44",
+      "unit": "G"
+    },
+    {
+      "name": "PENICILLIN G (PENICILLIN G PROCAINE)",
+      "strength": "22",
+      "unit": "G"
+    }
+  ],
+  "forms": [
+    "DRUG PREMIX"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "BIO AGRI MIX LP"
+  ],
+  "status": "MARKETED",
+  "atc": []
+}

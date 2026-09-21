@@ -1,0 +1,28 @@
+{
+  "drug_code": "14767",
+  "din": "01926764",
+  "brand_name": "NEULEPTIL 20MG CAPSULES",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "23-NOV-2005",
+  "active_ingredients": [
+    {
+      "name": "PERICIAZINE",
+      "strength": "20",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "CAPSULE"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "ERFA CANADA 2012 INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "PERICIAZINE"
+  ]
+}

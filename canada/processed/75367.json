@@ -1,0 +1,28 @@
+{
+  "drug_code": "75367",
+  "din": "02268272",
+  "brand_name": "XYREM",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "09-FEB-2018",
+  "active_ingredients": [
+    {
+      "name": "SODIUM OXYBATE",
+      "strength": "500",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "JAZZ PHARMACEUTICALS IRELAND LIMITED"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "HYDROXYBUTYRIC ACID"
+  ]
+}

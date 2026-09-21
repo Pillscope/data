@@ -1,0 +1,28 @@
+{
+  "drug_code": "93212",
+  "din": "02446685",
+  "brand_name": "ZEVTERA",
+  "class": "Human",
+  "descriptor": "SINGLE USE VIAL",
+  "last_update": "13-APR-2018",
+  "active_ingredients": [
+    {
+      "name": "CEFTOBIPROLE (CEFTOBIPROLE MEDOCARIL SODIUM)",
+      "strength": "500",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "POWDER FOR SOLUTION"
+  ],
+  "routes": [
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "AVIR PHARMA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "CEFTOBIPROLE MEDOCARIL"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "drug_code": "48226",
+  "din": "02229868",
+  "brand_name": "HYOSCINE BUTYLBROMIDE INJECTION SANDOZ STANDARD",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "26-SEP-2016",
+  "active_ingredients": [
+    {
+      "name": "HYOSCINE BUTYLBROMIDE",
+      "strength": "20",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "INTRAMUSCULAR",
+    "INTRAVENOUS",
+    "SUBCUTANEOUS"
+  ],
+  "companies": [
+    "SANDOZ CANADA INCORPORATED"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "BUTYLSCOPOLAMINE"
+  ]
+}

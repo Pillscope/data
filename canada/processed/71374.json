@@ -1,0 +1,33 @@
+{
+  "drug_code": "71374",
+  "din": "02247134",
+  "brand_name": "SENNA LAXATIVE AND DOCUSATE SODIUM TABLETS",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "05-NOV-2012",
+  "active_ingredients": [
+    {
+      "name": "SENNOSIDES",
+      "strength": "8.6",
+      "unit": "MG"
+    },
+    {
+      "name": "DOCUSATE SODIUM",
+      "strength": "50",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "VITA HEALTH PRODUCTS INC"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "SENNA GLYCOSIDES, COMBINATIONS"
+  ]
+}

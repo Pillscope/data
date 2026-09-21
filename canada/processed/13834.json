@@ -1,0 +1,28 @@
+{
+  "drug_code": "13834",
+  "din": "01911481",
+  "brand_name": "INHIBACE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "06-FEB-2018",
+  "active_ingredients": [
+    {
+      "name": "CILAZAPRIL (CILAZAPRIL MONOHYDRATE)",
+      "strength": "5",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "HOFFMANN-LA ROCHE LIMITED"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "CILAZAPRIL"
+  ]
+}

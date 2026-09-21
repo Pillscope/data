@@ -1,0 +1,33 @@
+{
+  "drug_code": "81814",
+  "din": "02332477",
+  "brand_name": "AURALGAN",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "23-SEP-2015",
+  "active_ingredients": [
+    {
+      "name": "BENZOCAINE",
+      "strength": "14",
+      "unit": "MG"
+    },
+    {
+      "name": "ANTIPYRINE",
+      "strength": "54",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "OTIC"
+  ],
+  "companies": [
+    "PALADIN LABS INC"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "COMBINATIONS"
+  ]
+}

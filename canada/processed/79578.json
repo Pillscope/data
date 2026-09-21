@@ -1,0 +1,28 @@
+{
+  "drug_code": "79578",
+  "din": "02310112",
+  "brand_name": "PMS-FINASTERIDE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "24-MAR-2010",
+  "active_ingredients": [
+    {
+      "name": "FINASTERIDE",
+      "strength": "5",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "PHARMASCIENCE INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "FINASTERIDE"
+  ]
+}

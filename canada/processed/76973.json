@@ -1,0 +1,31 @@
+{
+  "drug_code": "76973",
+  "din": "02284189",
+  "brand_name": "DELLA-SOFT ACT",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "24-OCT-2017",
+  "active_ingredients": [
+    {
+      "name": "IODINE",
+      "strength": "1",
+      "unit": "%"
+    },
+    {
+      "name": "GLYCERINE",
+      "strength": "10",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "DELAVAL INC."
+  ],
+  "status": "MARKETED",
+  "atc": []
+}

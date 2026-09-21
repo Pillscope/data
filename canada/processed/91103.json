@@ -1,0 +1,26 @@
+{
+  "drug_code": "91103",
+  "din": "02426447",
+  "brand_name": "ENGAIN 20",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "15-JUL-2016",
+  "active_ingredients": [
+    {
+      "name": "RACTOPAMINE HYDROCHLORIDE",
+      "strength": "20",
+      "unit": "G"
+    }
+  ],
+  "forms": [
+    "DRUG PREMIX"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "ZOETIS CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": []
+}

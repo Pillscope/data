@@ -1,0 +1,28 @@
+{
+  "drug_code": "81740",
+  "din": "02331705",
+  "brand_name": "APO-VENLAFAXINE XR",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "24-JUL-2017",
+  "active_ingredients": [
+    {
+      "name": "VENLAFAXINE (VENLAFAXINE HYDROCHLORIDE)",
+      "strength": "150",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "CAPSULE (EXTENDED RELEASE)"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "APOTEX INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "VENLAFAXINE"
+  ]
+}

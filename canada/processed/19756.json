@@ -1,0 +1,28 @@
+{
+  "drug_code": "19756",
+  "din": "02143305",
+  "brand_name": "VINCRISTINE SULFATE INJECTION",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "05-MAY-2015",
+  "active_ingredients": [
+    {
+      "name": "VINCRISTINE SULFATE",
+      "strength": "1",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "TEVA CANADA LIMITED"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "VINCRISTINE"
+  ]
+}

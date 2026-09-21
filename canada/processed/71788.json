@@ -1,0 +1,33 @@
+{
+  "drug_code": "71788",
+  "din": "02247538",
+  "brand_name": "MURINE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "09-JUL-2012",
+  "active_ingredients": [
+    {
+      "name": "POVIDONE",
+      "strength": "6",
+      "unit": "MG"
+    },
+    {
+      "name": "POLYVINYL ALCOHOL",
+      "strength": "5",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "OPHTHALMIC"
+  ],
+  "companies": [
+    "PRESTIGE BRANDS INC"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "ARTIFICIAL TEARS AND OTHER INDIFFERENT PREPARATIONS."
+  ]
+}

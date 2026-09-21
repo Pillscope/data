@@ -1,0 +1,28 @@
+{
+  "drug_code": "3922",
+  "din": "00504513",
+  "brand_name": "MAGNESIUM SULFATE INJ 50%",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "08-JUL-2011",
+  "active_ingredients": [
+    {
+      "name": "MAGNESIUM SULFATE",
+      "strength": "500",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "LIQUID"
+  ],
+  "routes": [
+    "INTRAMUSCULAR"
+  ],
+  "companies": [
+    "KRIPPS PHARMACY LTD."
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "MAGNESIUM SULPHATE"
+  ]
+}

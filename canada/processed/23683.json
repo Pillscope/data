@@ -1,0 +1,31 @@
+{
+  "drug_code": "23683",
+  "din": "01971530",
+  "brand_name": "SULFA MT",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "10-JAN-2018",
+  "active_ingredients": [
+    {
+      "name": "SULFATHIAZOLE SODIUM",
+      "strength": "33",
+      "unit": "G"
+    },
+    {
+      "name": "SULFAMETHAZINE SODIUM",
+      "strength": "66",
+      "unit": "G"
+    }
+  ],
+  "forms": [
+    "POWDER"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "JAAPHARM CANADA INC."
+  ],
+  "status": "MARKETED",
+  "atc": []
+}

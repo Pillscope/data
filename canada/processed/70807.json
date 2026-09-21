@@ -1,0 +1,34 @@
+{
+  "drug_code": "70807",
+  "din": "02246619",
+  "brand_name": "XALACOM",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "04-NOV-2011",
+  "active_ingredients": [
+    {
+      "name": "LATANOPROST",
+      "strength": "50",
+      "unit": "MCG"
+    },
+    {
+      "name": "TIMOLOL (TIMOLOL MALEATE)",
+      "strength": "5",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "OPHTHALMIC"
+  ],
+  "companies": [
+    "PFIZER CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "TIMOLOL, COMBINATIONS",
+    "TIMOLOL, COMBINATIONS"
+  ]
+}

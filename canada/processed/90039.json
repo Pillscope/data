@@ -1,0 +1,28 @@
+{
+  "drug_code": "90039",
+  "din": "02415798",
+  "brand_name": "RIZATRIPTAN RDT",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "15-JAN-2015",
+  "active_ingredients": [
+    {
+      "name": "RIZATRIPTAN (RIZATRIPTAN BENZOATE)",
+      "strength": "5",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET (ORALLY DISINTEGRATING)"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "PRO DOC LIMITEE"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "RIZATRIPTAN"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "drug_code": "60571",
+  "din": "02237250",
+  "brand_name": "TEVA-TRYPTOPHAN",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "05-MAY-2015",
+  "active_ingredients": [
+    {
+      "name": "TRYPTOPHAN",
+      "strength": "1",
+      "unit": "G"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "TEVA CANADA LIMITED"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "TRYPTOPHAN"
+  ]
+}

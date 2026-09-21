@@ -1,0 +1,28 @@
+{
+  "drug_code": "9349",
+  "din": "00728187",
+  "brand_name": "PMS-LORAZEPAM TAB 0.5MG",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "27-JUL-2007",
+  "active_ingredients": [
+    {
+      "name": "LORAZEPAM",
+      "strength": "0.5",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "PHARMASCIENCE INC"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "LORAZEPAM"
+  ]
+}

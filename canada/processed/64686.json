@@ -1,0 +1,28 @@
+{
+  "drug_code": "64686",
+  "din": "02241091",
+  "brand_name": "THE MAGIC BULLET",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "23-MAR-2006",
+  "active_ingredients": [
+    {
+      "name": "BISACODYL",
+      "strength": "10",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SUPPOSITORY"
+  ],
+  "routes": [
+    "RECTAL"
+  ],
+  "companies": [
+    "D & C MOBILITY SOLUTIONS INC."
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "BISACODYL"
+  ]
+}

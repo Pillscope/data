@@ -1,0 +1,28 @@
+{
+  "drug_code": "19487",
+  "din": "02150867",
+  "brand_name": "CANESTEN 1% TOPICAL CREAM",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "25-AUG-2017",
+  "active_ingredients": [
+    {
+      "name": "CLOTRIMAZOLE",
+      "strength": "1",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "CREAM"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "BAYER INC"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "CLOTRIMAZOLE"
+  ]
+}

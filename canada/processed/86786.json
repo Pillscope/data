@@ -1,0 +1,33 @@
+{
+  "drug_code": "86786",
+  "din": "02381990",
+  "brand_name": "DOUBLE-DUTY FACE MOISTURIZER SPF 20",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "20-MAY-2016",
+  "active_ingredients": [
+    {
+      "name": "AVOBENZONE",
+      "strength": "2.2",
+      "unit": "%"
+    },
+    {
+      "name": "OCTINOXATE",
+      "strength": "7.5",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "LOTION"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "JACK BLACK LLC"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "COMBINATIONS OF PROTECTIVES AGAINST UV-RADIATION"
+  ]
+}

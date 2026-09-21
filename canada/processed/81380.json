@@ -1,0 +1,36 @@
+{
+  "drug_code": "81380",
+  "din": "02328275",
+  "brand_name": "DOLPAC 2",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "06-APR-2010",
+  "active_ingredients": [
+    {
+      "name": "PYRANTEL PAMOATE",
+      "strength": "28.8",
+      "unit": "MG"
+    },
+    {
+      "name": "PRAZIQUANTEL",
+      "strength": "10.0",
+      "unit": "MG"
+    },
+    {
+      "name": "OXANTEL PAMOATE",
+      "strength": "111.8",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "VETOQUINOL N A INC"
+  ],
+  "status": "APPROVED",
+  "atc": []
+}

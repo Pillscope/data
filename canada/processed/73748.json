@@ -1,0 +1,28 @@
+{
+  "drug_code": "73748",
+  "din": "02252600",
+  "brand_name": "MYLAN-HYDROXYCHLOROQUINE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "16-NOV-2009",
+  "active_ingredients": [
+    {
+      "name": "HYDROXYCHLOROQUINE SULFATE",
+      "strength": "200",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "MYLAN PHARMACEUTICALS ULC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "HYDROXYCHLOROQUINE"
+  ]
+}

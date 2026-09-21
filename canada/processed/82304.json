@@ -1,0 +1,33 @@
+{
+  "drug_code": "82304",
+  "din": "02337452",
+  "brand_name": "DIAPER RASH CREAM",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "08-JUL-2013",
+  "active_ingredients": [
+    {
+      "name": "ZINC OXIDE",
+      "strength": "15",
+      "unit": "%"
+    },
+    {
+      "name": "WHITE PETROLATUM",
+      "strength": "80.3",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "CREAM"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "H.J. SUTTON INDUSTRIES LTD."
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "ZINC PRODUCTS"
+  ]
+}

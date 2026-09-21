@@ -1,0 +1,29 @@
+{
+  "drug_code": "19357",
+  "din": "02184486",
+  "brand_name": "PROCAINAMIDE HYDROCHLORIDE INJ. USP",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "05-MAY-2015",
+  "active_ingredients": [
+    {
+      "name": "PROCAINAMIDE HYDROCHLORIDE",
+      "strength": "100",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "INTRAMUSCULAR",
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "SANDOZ CANADA INCORPORATED"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "PROCAINAMIDE"
+  ]
+}

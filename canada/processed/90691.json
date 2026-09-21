@@ -1,0 +1,31 @@
+{
+  "drug_code": "90691",
+  "din": "02422204",
+  "brand_name": "METHOTREXATE INJECTION, BP",
+  "class": "Human",
+  "descriptor": "1 ML SINGLE USE PREFILLED SYRINGE.",
+  "last_update": "06-JUL-2016",
+  "active_ingredients": [
+    {
+      "name": "METHOTREXATE",
+      "strength": "25",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "INTRA-ARTERIAL",
+    "INTRAMUSCULAR",
+    "INTRATHECAL",
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "PHARMASCIENCE INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "METHOTREXATE"
+  ]
+}

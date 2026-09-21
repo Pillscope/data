@@ -1,0 +1,26 @@
+{
+  "drug_code": "93930",
+  "din": "02452901",
+  "brand_name": "DOUXO PYO SHAMPOO",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "13-JUN-2016",
+  "active_ingredients": [
+    {
+      "name": "CHLORHEXIDINE (CHLORHEXIDINE DIGLUCONATE)",
+      "strength": "3",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "SHAMPOO"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "CEVA ANIMAL HEALTH INC"
+  ],
+  "status": "APPROVED",
+  "atc": []
+}

@@ -1,0 +1,28 @@
+{
+  "drug_code": "85053",
+  "din": "02365650",
+  "brand_name": "TARO-ANASTROZOLE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "28-MAY-2013",
+  "active_ingredients": [
+    {
+      "name": "ANASTROZOLE",
+      "strength": "1",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "TARO PHARMACEUTICALS INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "ANASTROZOLE"
+  ]
+}

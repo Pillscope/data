@@ -1,0 +1,43 @@
+{
+  "drug_code": "81654",
+  "din": "02330792",
+  "brand_name": "ROSALIAC UV LEGERE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "31-JUL-2012",
+  "active_ingredients": [
+    {
+      "name": "AVOBENZONE",
+      "strength": "2.0",
+      "unit": "%"
+    },
+    {
+      "name": "OCTOCRYLENE",
+      "strength": "4.6",
+      "unit": "%"
+    },
+    {
+      "name": "OCTISALATE",
+      "strength": "3.3",
+      "unit": "%"
+    },
+    {
+      "name": "DROMETRIZOLE TRISILOXANE",
+      "strength": "1.0",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "CREAM"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "LABORATOIRES LA ROCHE-POSAY CANADA"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "COMBINATIONS OF PROTECTIVES AGAINST UV-RADIATION"
+  ]
+}

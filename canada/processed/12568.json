@@ -1,0 +1,33 @@
+{
+  "drug_code": "12568",
+  "din": "01959212",
+  "brand_name": "HUMULIN 30/70 CARTRIDGE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "18-APR-2016",
+  "active_ingredients": [
+    {
+      "name": "INSULIN ISOPHANE HUMAN BIOSYNTHETIC",
+      "strength": "70",
+      "unit": "UNIT"
+    },
+    {
+      "name": "INSULIN INJECTION HUMAN BIOSYNTHETIC",
+      "strength": "30",
+      "unit": "UNIT"
+    }
+  ],
+  "forms": [
+    "SUSPENSION"
+  ],
+  "routes": [
+    "SUBCUTANEOUS"
+  ],
+  "companies": [
+    "ELI LILLY CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "INSULIN (HUMAN)"
+  ]
+}

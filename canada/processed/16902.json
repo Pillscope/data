@@ -1,0 +1,28 @@
+{
+  "drug_code": "16902",
+  "din": "02130300",
+  "brand_name": "HALOPERIDOL LA",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "05-MAY-2015",
+  "active_ingredients": [
+    {
+      "name": "HALOPERIDOL (HALOPERIDOL DECANOATE)",
+      "strength": "100",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "LIQUID"
+  ],
+  "routes": [
+    "INTRAMUSCULAR"
+  ],
+  "companies": [
+    "SANDOZ CANADA INCORPORATED"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "HALOPERIDOL"
+  ]
+}

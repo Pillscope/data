@@ -1,0 +1,28 @@
+{
+  "drug_code": "73930",
+  "din": "02254409",
+  "brand_name": "GRAVOL IMMEDIATE RELEASE & LONG ACTING CAPLETS",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "20-NOV-2012",
+  "active_ingredients": [
+    {
+      "name": "DIMENHYDRINATE",
+      "strength": "100",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET (COMBINED RELEASE)"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "CHURCH & DWIGHT CANADA CORP"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "DIPHENHYDRAMINE"
+  ]
+}

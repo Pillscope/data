@@ -1,0 +1,28 @@
+{
+  "drug_code": "81141",
+  "din": "02326078",
+  "brand_name": "TEVA-AMITRIPTYLINE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "23-DEC-2014",
+  "active_ingredients": [
+    {
+      "name": "AMITRIPTYLINE HYDROCHLORIDE",
+      "strength": "50",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "TEVA CANADA LIMITED"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "AMITRIPTYLINE"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "drug_code": "74277",
+  "din": "02257513",
+  "brand_name": "CITALOPRAM-20",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "30-DEC-2004",
+  "active_ingredients": [
+    {
+      "name": "CITALOPRAM (CITALOPRAM HYDROBROMIDE)",
+      "strength": "20",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "PRO DOC LIMITEE"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "CITALOPRAM"
+  ]
+}

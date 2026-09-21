@@ -1,0 +1,28 @@
+{
+  "drug_code": "78877",
+  "din": "02303469",
+  "brand_name": "ACCEL PIOGLITAZONE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "27-JAN-2014",
+  "active_ingredients": [
+    {
+      "name": "PIOGLITAZONE (PIOGLITAZONE HYDROCHLORIDE)",
+      "strength": "45",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "ACCEL PHARMA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "PIOGLITAZONE"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "drug_code": "73231",
+  "din": "02248859",
+  "brand_name": "BENYLIN SLEEP TIME",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "03-OCT-2012",
+  "active_ingredients": [
+    {
+      "name": "DIPHENHYDRAMINE HYDROCHLORIDE",
+      "strength": "12.5",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "LIQUID"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "MCNEIL CONSUMER HEALTHCARE DIVISION OF JOHNSON & JOHNSON INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "DIPHENHYDRAMINE"
+  ]
+}

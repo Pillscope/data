@@ -1,0 +1,33 @@
+{
+  "drug_code": "75299",
+  "din": "02267586",
+  "brand_name": "EXCEDRIN TENSION HEADACHE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "24-NOV-2016",
+  "active_ingredients": [
+    {
+      "name": "ACETAMINOPHEN",
+      "strength": "500",
+      "unit": "MG"
+    },
+    {
+      "name": "CAFFEINE",
+      "strength": "65",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "GLAXOSMITHKLINE CONSUMER HEALTHCARE INC."
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "ACETAMINOPHEN, COMB EXCL PSYCHOLEPTICS"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "drug_code": "89383",
+  "din": "02409100",
+  "brand_name": "INTUNIV XR",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "09-DEC-2015",
+  "active_ingredients": [
+    {
+      "name": "Guanfacine (GUANFACINE HYDROCHLORIDE)",
+      "strength": "1",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET (EXTENDED-RELEASE)"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "SHIRE PHARMA CANADA ULC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "GUANFACINE"
+  ]
+}

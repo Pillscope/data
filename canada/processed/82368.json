@@ -1,0 +1,38 @@
+{
+  "drug_code": "82368",
+  "din": "02338033",
+  "brand_name": "SPF 15 SUNBURN PROTECTION LOTION",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "21-JUN-2010",
+  "active_ingredients": [
+    {
+      "name": "OXYBENZONE",
+      "strength": "2.0",
+      "unit": "%"
+    },
+    {
+      "name": "OCTISALATE",
+      "strength": "3.0",
+      "unit": "%"
+    },
+    {
+      "name": "OCTINOXATE",
+      "strength": "5.0",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "LOTION"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "PRIME ENTERPRISES INC"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "COMBINATIONS OF PROTECTIVES AGAINST UV-RADIATION"
+  ]
+}

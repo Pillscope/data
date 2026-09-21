@@ -1,0 +1,28 @@
+{
+  "drug_code": "14518",
+  "din": "02047454",
+  "brand_name": "SPORANOX",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "05-MAY-2015",
+  "active_ingredients": [
+    {
+      "name": "ITRACONAZOLE",
+      "strength": "100",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "CAPSULE"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "JANSSEN INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "ITRACONAZOLE"
+  ]
+}

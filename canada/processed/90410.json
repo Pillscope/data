@@ -1,0 +1,28 @@
+{
+  "drug_code": "90410",
+  "din": "02419475",
+  "brand_name": "INFLECTRA",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "02-JUN-2015",
+  "active_ingredients": [
+    {
+      "name": "INFLIXIMAB",
+      "strength": "100",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "POWDER FOR SOLUTION"
+  ],
+  "routes": [
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "CELLTRION HEALTHCARE CO LTD"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "INFLIXIMAB"
+  ]
+}

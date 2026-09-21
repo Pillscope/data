@@ -1,0 +1,28 @@
+{
+  "drug_code": "14587",
+  "din": "02048728",
+  "brand_name": "PMS-CLONAZEPAM TAB 1.0MG",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "18-SEP-2006",
+  "active_ingredients": [
+    {
+      "name": "CLONAZEPAM",
+      "strength": "1",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "PHARMASCIENCE INC"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "CLONAZEPAM"
+  ]
+}

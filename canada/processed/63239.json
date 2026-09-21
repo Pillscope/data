@@ -1,0 +1,28 @@
+{
+  "drug_code": "63239",
+  "din": "02239757",
+  "brand_name": "BACTROBAN CREAM",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "13-OCT-2017",
+  "active_ingredients": [
+    {
+      "name": "MUPIROCIN (MUPIROCIN CALCIUM DIHYDRATE)",
+      "strength": "2",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "CREAM"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "GLAXOSMITHKLINE CONSUMER HEALTHCARE INC."
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "MUPIROCIN"
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "drug_code": "84252",
+  "din": "02357399",
+  "brand_name": "ACT IRBESARTAN/HCT",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "05-MAY-2015",
+  "active_ingredients": [
+    {
+      "name": "IRBESARTAN",
+      "strength": "150",
+      "unit": "MG"
+    },
+    {
+      "name": "HYDROCHLOROTHIAZIDE",
+      "strength": "12.5",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "ACTAVIS PHARMA COMPANY"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "IRBESARTAN AND DIURETICS",
+    "IRBESARTAN AND DIURETICS"
+  ]
+}

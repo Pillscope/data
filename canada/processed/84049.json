@@ -1,0 +1,28 @@
+{
+  "drug_code": "84049",
+  "din": "02355248",
+  "brand_name": "ACCEL-CITALOPRAM TABLETS",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "16-APR-2013",
+  "active_ingredients": [
+    {
+      "name": "CITALOPRAM (CITALOPRAM HYDROBROMIDE)",
+      "strength": "10",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "ACCEL PHARMA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "CITALOPRAM"
+  ]
+}

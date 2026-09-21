@@ -1,0 +1,26 @@
+{
+  "drug_code": "6526",
+  "din": "00167215",
+  "brand_name": "SODIDE INJ 200MG/ML",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "01-AUG-2017",
+  "active_ingredients": [
+    {
+      "name": "SODIUM IODIDE",
+      "strength": "200",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "LIQUID"
+  ],
+  "routes": [
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "RAFTER 8 PRODUCTS INC"
+  ],
+  "status": "MARKETED",
+  "atc": []
+}

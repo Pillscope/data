@@ -1,0 +1,28 @@
+{
+  "drug_code": "88470",
+  "din": "02399857",
+  "brand_name": "MAR-QUETIAPINE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "17-FEB-2014",
+  "active_ingredients": [
+    {
+      "name": "QUETIAPINE (QUETIAPINE FUMARATE)",
+      "strength": "300",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET (IMMEDIATE RELEASE)"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "MARCAN PHARMACEUTICALS INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "QUETIAPINE"
+  ]
+}

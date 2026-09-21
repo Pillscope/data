@@ -1,0 +1,28 @@
+{
+  "drug_code": "86848",
+  "din": "02382660",
+  "brand_name": "RAN-ROSUVASTATIN",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "31-OCT-2017",
+  "active_ingredients": [
+    {
+      "name": "ROSUVASTATIN (ROSUVASTATIN CALCIUM)",
+      "strength": "20",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "RANBAXY PHARMACEUTICALS CANADA INC."
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "ROSUVASTATIN"
+  ]
+}

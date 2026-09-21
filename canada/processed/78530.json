@@ -1,0 +1,28 @@
+{
+  "drug_code": "78530",
+  "din": "02299968",
+  "brand_name": "SANDOZ ENALAPRIL",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "30-AUG-2017",
+  "active_ingredients": [
+    {
+      "name": "ENALAPRIL SODIUM",
+      "strength": "8",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "SANDOZ CANADA INCORPORATED"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "ENALAPRIL"
+  ]
+}

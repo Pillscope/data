@@ -1,0 +1,27 @@
+{
+  "drug_code": "93165",
+  "din": "02446316",
+  "brand_name": "KETOPROFEN V",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "04-MAY-2016",
+  "active_ingredients": [
+    {
+      "name": "KETOPROFEN",
+      "strength": "100",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "INTRAMUSCULAR",
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "MODERN VETERINARY THERAPEUTICS LLC"
+  ],
+  "status": "APPROVED",
+  "atc": []
+}

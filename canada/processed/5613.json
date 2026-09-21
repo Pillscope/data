@@ -1,0 +1,68 @@
+{
+  "drug_code": "5613",
+  "din": "00586315",
+  "brand_name": "MULTI 1000",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "09-AUG-2017",
+  "active_ingredients": [
+    {
+      "name": "NICOTINAMIDE",
+      "strength": "10",
+      "unit": "MG"
+    },
+    {
+      "name": "D-PANTOTHENIC ACID (CALCIUM D-PANTOTHENATE, RIBOFLAVIN-5-PHOSPHATE)",
+      "strength": "2.6",
+      "unit": "MG"
+    },
+    {
+      "name": "VITAMIN B1 (THIAMINE HYDROCHLORIDE)",
+      "strength": "4.5",
+      "unit": "MG"
+    },
+    {
+      "name": "VITAMIN B2 (RIBOFLAVIN-5-PHOSPHATE)",
+      "strength": "1",
+      "unit": "MG"
+    },
+    {
+      "name": "VITAMIN A",
+      "strength": "1000",
+      "unit": "UNIT"
+    },
+    {
+      "name": "VITAMIN D",
+      "strength": "100",
+      "unit": "UNIT"
+    },
+    {
+      "name": "VITAMIN E (DL-ALPHA TOCOPHERYL ACETATE)",
+      "strength": "1",
+      "unit": "UNIT"
+    },
+    {
+      "name": "VITAMIN C",
+      "strength": "100",
+      "unit": "MG"
+    },
+    {
+      "name": "VITAMIN B6 (PYRIDOXINE HYDROCHLORIDE)",
+      "strength": "1.2",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "SANDOZ CANADA INCORPORATED"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "MULTIVITAMINS, PLAIN"
+  ]
+}

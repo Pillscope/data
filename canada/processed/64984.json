@@ -1,0 +1,26 @@
+{
+  "drug_code": "64984",
+  "din": "02241353",
+  "brand_name": "HEXADENE",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "23-AUG-2016",
+  "active_ingredients": [
+    {
+      "name": "CHLORHEXIDINE GLUCONATE",
+      "strength": "2",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "SHAMPOO"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "VIRBAC AH INC"
+  ],
+  "status": "MARKETED",
+  "atc": []
+}

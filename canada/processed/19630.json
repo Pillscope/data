@@ -1,0 +1,26 @@
+{
+  "drug_code": "19630",
+  "din": "02186098",
+  "brand_name": "SUPERWASH",
+  "class": "Veterinary",
+  "descriptor": "(UDDERWASH)",
+  "last_update": "26-MAY-2015",
+  "active_ingredients": [
+    {
+      "name": "CHLORHEXIDINE ACETATE",
+      "strength": "1.25",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "ECOLAB CO"
+  ],
+  "status": "APPROVED",
+  "atc": []
+}

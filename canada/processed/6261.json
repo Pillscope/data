@@ -1,0 +1,28 @@
+{
+  "drug_code": "6261",
+  "din": "00623571",
+  "brand_name": "SALIJECT 570MG/ML",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "11-APR-2006",
+  "active_ingredients": [
+    {
+      "name": "SODIUM SALICYLATE",
+      "strength": "570",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "LIQUID"
+  ],
+  "routes": [
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "OMEGA LABORATORIES LTD"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "SCLEROSINGAGENTS FOR LOCAL INJECTION"
+  ]
+}

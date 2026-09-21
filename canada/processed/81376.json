@@ -1,0 +1,28 @@
+{
+  "drug_code": "81376",
+  "din": "02328232",
+  "brand_name": "PEGALAX",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "14-OCT-2011",
+  "active_ingredients": [
+    {
+      "name": "POLYETHYLENE GLYCOL 3350",
+      "strength": "100",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "POWDER FOR SOLUTION"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "MEDICAL FUTURES INC"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "MACROGOL"
+  ]
+}

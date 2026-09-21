@@ -1,0 +1,49 @@
+{
+  "drug_code": "66962",
+  "din": "02243095",
+  "brand_name": "PRISMASOL 0",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "26-JUL-2016",
+  "active_ingredients": [
+    {
+      "name": "SODIUM BICARBONATE",
+      "strength": "3.09",
+      "unit": "G"
+    },
+    {
+      "name": "SODIUM CHLORIDE",
+      "strength": "6.45",
+      "unit": "G"
+    },
+    {
+      "name": "MAGNESIUM CHLORIDE",
+      "strength": "2.033",
+      "unit": "G"
+    },
+    {
+      "name": "CALCIUM CHLORIDE",
+      "strength": "5.145",
+      "unit": "G"
+    },
+    {
+      "name": "LACTIC ACID",
+      "strength": "5.4",
+      "unit": "G"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "INTRAVENOUS",
+    "DIALYSIS"
+  ],
+  "companies": [
+    "BAXTER CORPORATION"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "HEMODIALYTICS, CONCENTRATES"
+  ]
+}

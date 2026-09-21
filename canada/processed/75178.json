@@ -1,0 +1,28 @@
+{
+  "drug_code": "75178",
+  "din": "02266369",
+  "brand_name": "TEVA-CILAZAPRIL",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "25-SEP-2015",
+  "active_ingredients": [
+    {
+      "name": "CILAZAPRIL (CILAZAPRIL MONOHYDRATE)",
+      "strength": "2.5",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "TEVA CANADA LIMITED"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "CILAZAPRIL"
+  ]
+}

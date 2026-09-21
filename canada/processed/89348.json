@@ -1,0 +1,28 @@
+{
+  "drug_code": "89348",
+  "din": "02408740",
+  "brand_name": "DESLORATADINE ALLERGY CONTROL",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "22-NOV-2017",
+  "active_ingredients": [
+    {
+      "name": "DESLORATADINE",
+      "strength": "5",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "DOMINION PHARMACAL"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "DESLORATADINE"
+  ]
+}

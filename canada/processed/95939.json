@@ -1,0 +1,34 @@
+{
+  "drug_code": "95939",
+  "din": "02470411",
+  "brand_name": "SANDOZ PERINDOPRIL ERBUMINE/ INDAPAMIDE LD",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "14-MAR-2018",
+  "active_ingredients": [
+    {
+      "name": "PERINDOPRIL ERBUMINE",
+      "strength": "2",
+      "unit": "MG"
+    },
+    {
+      "name": "INDAPAMIDE",
+      "strength": "0.625",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "SANDOZ CANADA INCORPORATED"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "PERINDOPRIL AND DIURETICS",
+    "PERINDOPRIL AND DIURETICS"
+  ]
+}

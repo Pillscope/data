@@ -1,0 +1,28 @@
+{
+  "drug_code": "19916",
+  "din": "02216582",
+  "brand_name": "TEVA-FLUOXETINE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "13-JUL-2015",
+  "active_ingredients": [
+    {
+      "name": "FLUOXETINE (FLUOXETINE HYDROCHLORIDE)",
+      "strength": "10",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "CAPSULE"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "TEVA CANADA LIMITED"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "FLUOXETINE"
+  ]
+}

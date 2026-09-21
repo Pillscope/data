@@ -1,0 +1,28 @@
+{
+  "drug_code": "88927",
+  "din": "02404516",
+  "brand_name": "FYCOMPA",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "14-AUG-2013",
+  "active_ingredients": [
+    {
+      "name": "Perampanel",
+      "strength": "2.0",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "EISAI LIMITED"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "PERAMPANEL"
+  ]
+}

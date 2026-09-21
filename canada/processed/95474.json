@@ -1,0 +1,28 @@
+{
+  "drug_code": "95474",
+  "din": "02466392",
+  "brand_name": "AURO-NITROFURANTOIN",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "20-FEB-2018",
+  "active_ingredients": [
+    {
+      "name": "NITROFURANTOIN",
+      "strength": "100",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "CAPSULE"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "AURO PHARMA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "NITROFURANTOIN"
+  ]
+}

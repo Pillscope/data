@@ -1,0 +1,28 @@
+{
+  "drug_code": "1090",
+  "din": "00065927",
+  "brand_name": "NEO-LARYNGOBIS",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "29-APR-2015",
+  "active_ingredients": [
+    {
+      "name": "BISMUTH DIPROPYLACETATE",
+      "strength": "135",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SUPPOSITORY"
+  ],
+  "routes": [
+    "RECTAL"
+  ],
+  "companies": [
+    "TEVA CANADA LIMITED"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "VARIOUS"
+  ]
+}

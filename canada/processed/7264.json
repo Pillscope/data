@@ -1,0 +1,28 @@
+{
+  "drug_code": "7264",
+  "din": "00654531",
+  "brand_name": "TRYPTAN TAB 1000MG",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "17-SEP-2014",
+  "active_ingredients": [
+    {
+      "name": "TRYPTOPHAN",
+      "strength": "1",
+      "unit": "G"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "VALEANT CANADA LP/VALEANT CANADA S.E.C."
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "TRYPTOPHAN"
+  ]
+}

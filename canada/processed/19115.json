@@ -1,0 +1,28 @@
+{
+  "drug_code": "19115",
+  "din": "02172577",
+  "brand_name": "KETOPROFEN SR",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "25-AUG-2011",
+  "active_ingredients": [
+    {
+      "name": "KETOPROFEN",
+      "strength": "200",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET (EXTENDED-RELEASE)"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "AA PHARMA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "KETOPROFEN"
+  ]
+}

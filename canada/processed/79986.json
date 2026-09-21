@@ -1,0 +1,28 @@
+{
+  "drug_code": "79986",
+  "din": "02314304",
+  "brand_name": "TEVA-NARATRIPTAN",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "29-APR-2015",
+  "active_ingredients": [
+    {
+      "name": "NARATRIPTAN (NARATRIPTAN HYDROCHLORIDE)",
+      "strength": "2.5",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "TEVA CANADA LIMITED"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "NARATRIPTAN"
+  ]
+}

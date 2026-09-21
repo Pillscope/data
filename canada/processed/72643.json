@@ -1,0 +1,28 @@
+{
+  "drug_code": "72643",
+  "din": "02248302",
+  "brand_name": "MULTIHANCE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "08-JAN-2010",
+  "active_ingredients": [
+    {
+      "name": "GADOBENATE DIMEGLUMINE",
+      "strength": "529",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "BRACCO IMAGING CANADA"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "GADOBENIC ACID"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "drug_code": "432",
+  "din": "00030910",
+  "brand_name": "CORTEF TABLETS 10MG",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "19-DEC-2013",
+  "active_ingredients": [
+    {
+      "name": "HYDROCORTISONE",
+      "strength": "10",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "PFIZER CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "HYDROCORTISONE"
+  ]
+}

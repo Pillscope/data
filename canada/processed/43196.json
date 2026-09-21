@@ -1,0 +1,28 @@
+{
+  "drug_code": "43196",
+  "din": "02216973",
+  "brand_name": "REOPRO",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "10-JAN-2017",
+  "active_ingredients": [
+    {
+      "name": "ABCIXIMAB",
+      "strength": "2",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "JANSSEN INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "ABCIXIMAB"
+  ]
+}

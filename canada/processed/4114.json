@@ -1,0 +1,28 @@
+{
+  "drug_code": "4114",
+  "din": "00500895",
+  "brand_name": "NALCROM",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "18-MAR-2009",
+  "active_ingredients": [
+    {
+      "name": "CROMOLYN SODIUM",
+      "strength": "100",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "CAPSULE"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "SANOFI-AVENTIS CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "CROMOGLICIC ACID"
+  ]
+}

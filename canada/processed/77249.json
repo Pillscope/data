@@ -1,0 +1,28 @@
+{
+  "drug_code": "77249",
+  "din": "02287064",
+  "brand_name": "CYCLOBENZAPRINE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "25-AUG-2016",
+  "active_ingredients": [
+    {
+      "name": "CYCLOBENZAPRINE HYDROCHLORIDE",
+      "strength": "10",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "SANIS HEALTH INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "CYCLOBENZAPRINE"
+  ]
+}

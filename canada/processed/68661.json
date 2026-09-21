@@ -1,0 +1,28 @@
+{
+  "drug_code": "68661",
+  "din": "02244673",
+  "brand_name": "TRILEPTAL ORAL SUSPENSION",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "06-JUN-2006",
+  "active_ingredients": [
+    {
+      "name": "OXCARBAZEPINE",
+      "strength": "60",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SUSPENSION"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "NOVARTIS PHARMACEUTICALS CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "OXCARBAZEPINE"
+  ]
+}

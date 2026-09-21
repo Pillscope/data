@@ -1,0 +1,33 @@
+{
+  "drug_code": "81007",
+  "din": "02324636",
+  "brand_name": "DIORSKIN NUDE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "06-MAY-2010",
+  "active_ingredients": [
+    {
+      "name": "TITANIUM DIOXIDE",
+      "strength": "3.16",
+      "unit": "%"
+    },
+    {
+      "name": "OCTINOXATE",
+      "strength": "3.00",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "LIQUID"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "PARFUMS CHRISTIAN DIOR"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "COMBINATIONS OF PROTECTIVES AGAINST UV-RADIATION"
+  ]
+}

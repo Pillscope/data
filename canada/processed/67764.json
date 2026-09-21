@@ -1,0 +1,28 @@
+{
+  "drug_code": "67764",
+  "din": "02243825",
+  "brand_name": "PRAVASTATIN-20",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "28-FEB-2006",
+  "active_ingredients": [
+    {
+      "name": "PRAVASTATIN SODIUM",
+      "strength": "20",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "PRO DOC LIMITEE"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "PRAVASTATIN"
+  ]
+}

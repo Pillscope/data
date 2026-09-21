@@ -1,0 +1,34 @@
+{
+  "drug_code": "73678",
+  "din": "02251884",
+  "brand_name": "EXTRA STRENGTH MUSCLE & BACK PAIN RELIEF",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "28-JUN-2016",
+  "active_ingredients": [
+    {
+      "name": "METHOCARBAMOL",
+      "strength": "400",
+      "unit": "MG"
+    },
+    {
+      "name": "ACETAMINOPHEN",
+      "strength": "500",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "PHARMETICS (2011) INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "METHOCARBAMOL, COMBINATIONS EXCL PSYCHOLEPTICS",
+    "METHOCARBAMOL, COMBINATIONS EXCL PSYCHOLEPTICS"
+  ]
+}

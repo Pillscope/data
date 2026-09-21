@@ -1,0 +1,28 @@
+{
+  "drug_code": "83493",
+  "din": "02349655",
+  "brand_name": "SMART-SAN ALCOHOL-FREE HAND SANITIZER FOAM",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "29-NOV-2013",
+  "active_ingredients": [
+    {
+      "name": "BENZALKONIUM CHLORIDE",
+      "strength": "0.1",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "LIQUID"
+  ],
+  "routes": [
+    "TOPICAL (HOUSEHOLD)"
+  ],
+  "companies": [
+    "BEST SANITIZERS INC"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "BENZALKONIUM"
+  ]
+}

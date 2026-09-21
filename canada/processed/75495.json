@@ -1,0 +1,28 @@
+{
+  "drug_code": "75495",
+  "din": "02269597",
+  "brand_name": "SANDOZ GLIMEPIRIDE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "05-MAY-2015",
+  "active_ingredients": [
+    {
+      "name": "GLIMEPIRIDE",
+      "strength": "2",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "SANDOZ CANADA INCORPORATED"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "GLIMEPIRIDE"
+  ]
+}

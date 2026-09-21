@@ -1,0 +1,28 @@
+{
+  "drug_code": "94137",
+  "din": "02454661",
+  "brand_name": "LEVETIRACETAM",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "03-NOV-2016",
+  "active_ingredients": [
+    {
+      "name": "LEVETIRACETAM",
+      "strength": "500",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "PHARMASCIENCE INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "LEVETIRACETAM"
+  ]
+}

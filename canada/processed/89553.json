@@ -1,0 +1,28 @@
+{
+  "drug_code": "89553",
+  "din": "02410893",
+  "brand_name": "BISACODYL SUPPOSITORY 5 MG",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "15-JAN-2016",
+  "active_ingredients": [
+    {
+      "name": "BISACODYL",
+      "strength": "5",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SUPPOSITORY"
+  ],
+  "routes": [
+    "RECTAL"
+  ],
+  "companies": [
+    "JAMP PHARMA CORPORATION"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "BISACODYL"
+  ]
+}

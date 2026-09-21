@@ -1,0 +1,28 @@
+{
+  "drug_code": "65189",
+  "din": "02241537",
+  "brand_name": "MARCELLE SHEER TINT FLUID MOISTURIZER SPF 15 / FLUIDE HYDRATANT TEINT\u00c3\u0089 TRANSLUCIDE FPS 15",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "09-JUL-2012",
+  "active_ingredients": [
+    {
+      "name": "OCTINOXATE",
+      "strength": "7.5",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "LOTION"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "GROUPE MARCELLE INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "OCTYL METHOXYCINNAMATE"
+  ]
+}

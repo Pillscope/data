@@ -1,0 +1,28 @@
+{
+  "drug_code": "86695",
+  "din": "02381176",
+  "brand_name": "ROSUVASTATIN",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "30-AUG-2012",
+  "active_ingredients": [
+    {
+      "name": "ROSUVASTATIN (ROSUVASTATIN CALCIUM)",
+      "strength": "5",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "PRO DOC LIMITEE"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "ROSUVASTATIN"
+  ]
+}

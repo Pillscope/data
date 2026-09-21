@@ -1,0 +1,28 @@
+{
+  "drug_code": "49688",
+  "din": "02230579",
+  "brand_name": "GAMASTAN S/D",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "19-FEB-2013",
+  "active_ingredients": [
+    {
+      "name": "IMMUNE GLOBULIN (HUMAN)",
+      "strength": "18",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "INTRAMUSCULAR"
+  ],
+  "companies": [
+    "GRIFOLS THERAPEUTICS LLC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "IMMUNOGLOBULINS, NORMAL HUMAN, FOR EXTRAVASC. ADM"
+  ]
+}

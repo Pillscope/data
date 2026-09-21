@@ -1,0 +1,28 @@
+{
+  "drug_code": "94094",
+  "din": "02454351",
+  "brand_name": "LONG LASTING DECONGESTANT NASAL SPRAY",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "16-APR-2018",
+  "active_ingredients": [
+    {
+      "name": "OXYMETAZOLINE HYDROCHLORIDE",
+      "strength": "0.05",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "SPRAY"
+  ],
+  "routes": [
+    "NASAL"
+  ],
+  "companies": [
+    "CRLS"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "OXYMETAZOLINE"
+  ]
+}

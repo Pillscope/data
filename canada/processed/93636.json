@@ -1,0 +1,28 @@
+{
+  "drug_code": "93636",
+  "din": "02450275",
+  "brand_name": "CINTAS ALCOHOL-FREE FOAMING HAND SANITIZER / CINTAS ASSAINISSEUR MOUSSANT SANS ALCOOL POUR LES MAINS",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "15-SEP-2017",
+  "active_ingredients": [
+    {
+      "name": "BENZALKONIUM CHLORIDE",
+      "strength": "0.13",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "TOPICAL (COMMERCIAL)"
+  ],
+  "companies": [
+    "AVMOR LTD"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "BENZALKONIUM"
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "drug_code": "75711",
+  "din": "02271567",
+  "brand_name": "GAMUT PLUS",
+  "class": "Disinfectant",
+  "descriptor": "",
+  "last_update": "30-JAN-2007",
+  "active_ingredients": [
+    {
+      "name": "ISOPROPYL ALCOHOL",
+      "strength": "20.0",
+      "unit": "%"
+    },
+    {
+      "name": "BENZETHONIUM CHLORIDE",
+      "strength": "0.35",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "LIQUID"
+  ],
+  "routes": [
+    "DISINFECTANT (Hospital/HC Facilities)"
+  ],
+  "companies": [
+    "GERMIPHENE CORPORATION"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "TECHNICAL DISINFECTANTS"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "drug_code": "1181",
+  "din": "00038024",
+  "brand_name": "MANNITOL INJECTION USP",
+  "class": "Human",
+  "descriptor": "SINGLE-USE VIAL",
+  "last_update": "11-NOV-2017",
+  "active_ingredients": [
+    {
+      "name": "MANNITOL",
+      "strength": "12.5",
+      "unit": "G"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "PFIZER CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "MANNITOL"
+  ]
+}

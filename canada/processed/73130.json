@@ -1,0 +1,28 @@
+{
+  "drug_code": "73130",
+  "din": "02248762",
+  "brand_name": "PMS-MIRTAZAPINE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "01-MAR-2006",
+  "active_ingredients": [
+    {
+      "name": "MIRTAZAPINE",
+      "strength": "30",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "PHARMASCIENCE INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "MIRTAZAPINE"
+  ]
+}

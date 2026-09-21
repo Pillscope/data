@@ -1,0 +1,28 @@
+{
+  "drug_code": "88501",
+  "din": "02400189",
+  "brand_name": "HEAD & SHOULDERS FULL & THICK 2IN1 MEN",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "09-MAY-2017",
+  "active_ingredients": [
+    {
+      "name": "PYRITHIONE ZINC",
+      "strength": "1",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "SHAMPOO"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "PROCTER & GAMBLE INC"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "PYRITHIONE ZINC"
+  ]
+}

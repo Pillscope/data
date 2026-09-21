@@ -1,0 +1,28 @@
+{
+  "drug_code": "93205",
+  "din": "02446634",
+  "brand_name": "OPDIVO",
+  "class": "Human",
+  "descriptor": "100MG/10ML (SINGLE-USE VIAL)",
+  "last_update": "16-MAY-2016",
+  "active_ingredients": [
+    {
+      "name": "NIVOLUMAB",
+      "strength": "10",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "BRISTOL-MYERS SQUIBB CANADA"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "NIVOLUMAB"
+  ]
+}

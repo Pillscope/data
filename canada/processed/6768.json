@@ -1,0 +1,33 @@
+{
+  "drug_code": "6768",
+  "din": "00619698",
+  "brand_name": "DOPAMINE HYDROCHLORIDE AND 5% DEXTROSE INJECTION USP",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "13-AUG-2008",
+  "active_ingredients": [
+    {
+      "name": "DEXTROSE",
+      "strength": "50",
+      "unit": "MG"
+    },
+    {
+      "name": "DOPAMINE HYDROCHLORIDE",
+      "strength": "1.6",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "HOSPIRA HEALTHCARE CORPORATION"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "DOPAMINE"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "drug_code": "65740",
+  "din": "02242067",
+  "brand_name": "TRILEPTAL 150 MG",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "06-JUN-2006",
+  "active_ingredients": [
+    {
+      "name": "OXCARBAZEPINE",
+      "strength": "150",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "NOVARTIS PHARMACEUTICALS CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "OXCARBAZEPINE"
+  ]
+}

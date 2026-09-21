@@ -1,0 +1,28 @@
+{
+  "drug_code": "77968",
+  "din": "02294346",
+  "brand_name": "APIDRA",
+  "class": "Human",
+  "descriptor": "3ML SOLOSTAR PRE-FILLED PEN",
+  "last_update": "08-DEC-2016",
+  "active_ingredients": [
+    {
+      "name": "INSULIN GLULISINE (RECOMBINANT DNA ORIGIN)",
+      "strength": "100",
+      "unit": "UNIT"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "SUBCUTANEOUS"
+  ],
+  "companies": [
+    "SANOFI-AVENTIS CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "INSULIN GLULISINE"
+  ]
+}

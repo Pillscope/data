@@ -1,0 +1,28 @@
+{
+  "drug_code": "78793",
+  "din": "02302632",
+  "brand_name": "PMS-BISOPROLOL",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "24-DEC-2007",
+  "active_ingredients": [
+    {
+      "name": "BISOPROLOL FUMARATE",
+      "strength": "5",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "PHARMASCIENCE INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "BISOPROLOL"
+  ]
+}

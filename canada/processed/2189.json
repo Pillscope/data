@@ -1,0 +1,26 @@
+{
+  "drug_code": "2189",
+  "din": "00345318",
+  "brand_name": "ESTRADIOL CYPIONATE INJ 4MG/ML",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "04-SEP-2007",
+  "active_ingredients": [
+    {
+      "name": "ESTRADIOL CYPIONATE",
+      "strength": "4",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "INTRAMUSCULAR"
+  ],
+  "companies": [
+    "PROFESSIONAL VETERINARY LABORATORIES"
+  ],
+  "status": "MARKETED",
+  "atc": []
+}

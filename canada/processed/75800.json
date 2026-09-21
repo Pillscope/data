@@ -1,0 +1,28 @@
+{
+  "drug_code": "75800",
+  "din": "02272482",
+  "brand_name": "ACETAMINOPHEN ARTHRITIS PAIN",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "14-AUG-2013",
+  "active_ingredients": [
+    {
+      "name": "ACETAMINOPHEN",
+      "strength": "650",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET (EXTENDED-RELEASE)"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "PERRIGO INTERNATIONAL"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "ACETAMINOPHEN (PARACETAMOL)"
+  ]
+}

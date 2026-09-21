@@ -1,0 +1,28 @@
+{
+  "drug_code": "75765",
+  "din": "02272113",
+  "brand_name": "MYLAN-AMLODIPINE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "05-FEB-2010",
+  "active_ingredients": [
+    {
+      "name": "AMLODIPINE (AMLODIPINE BESYLATE)",
+      "strength": "5.0",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "MYLAN PHARMACEUTICALS ULC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "AMLODIPINE"
+  ]
+}

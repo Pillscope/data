@@ -1,0 +1,28 @@
+{
+  "drug_code": "92224",
+  "din": "02437872",
+  "brand_name": "PINE CLEANER",
+  "class": "Disinfectant",
+  "descriptor": "",
+  "last_update": "14-JUN-2016",
+  "active_ingredients": [
+    {
+      "name": "BENZALKONIUM CHLORIDE",
+      "strength": "0.333",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "LIQUID"
+  ],
+  "routes": [
+    "DISINFECTANT (Domestic)"
+  ],
+  "companies": [
+    "GEMINI PACKAGING LTD"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "TECHNICAL DISINFECTANTS"
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "drug_code": "92046",
+  "din": "02436132",
+  "brand_name": "VISINE FOR DRY EYE EYE REVIVAL",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "15-JUN-2016",
+  "active_ingredients": [
+    {
+      "name": "GLYCERINE",
+      "strength": "0.2",
+      "unit": "%"
+    },
+    {
+      "name": "HYPROMELLOSE",
+      "strength": "0.2",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "DROPS"
+  ],
+  "routes": [
+    "OPHTHALMIC"
+  ],
+  "companies": [
+    "JOHNSON & JOHNSON INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "ARTIFICIAL TEARS AND OTHER INDIFFERENT PREPARATIONS."
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "drug_code": "75535",
+  "din": "02269996",
+  "brand_name": "CONCROBIUM",
+  "class": "Disinfectant",
+  "descriptor": "",
+  "last_update": "23-JUN-2009",
+  "active_ingredients": [
+    {
+      "name": "SODIUM PHOSPHATE (TRIBASIC)",
+      "strength": "1.19",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "LIQUID"
+  ],
+  "routes": [
+    "DISINFECTANT (Hospital/HC Facilities)",
+    "DISINFECTANT (Domestic)"
+  ],
+  "companies": [
+    "SIAMONS INTERNATIONAL INC."
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "TECHNICAL DISINFECTANTS"
+  ]
+}

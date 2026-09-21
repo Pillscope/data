@@ -1,0 +1,26 @@
+{
+  "drug_code": "3620",
+  "din": "00493597",
+  "brand_name": "WART ADE",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "15-DEC-2010",
+  "active_ingredients": [
+    {
+      "name": "WHITE CEDAR OIL",
+      "strength": "10",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "LIQUID"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "DOMINION VETERINARY LABORATORIES LTD."
+  ],
+  "status": "MARKETED",
+  "atc": []
+}

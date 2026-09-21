@@ -1,0 +1,33 @@
+{
+  "drug_code": "17800",
+  "din": "02131684",
+  "brand_name": "TELEBRIX 38 ORAL",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "11-SEP-2015",
+  "active_ingredients": [
+    {
+      "name": "MEGLUMINE IOXITALAMATE",
+      "strength": "513",
+      "unit": "MG"
+    },
+    {
+      "name": "SODIUM IOXITALAMATE",
+      "strength": "255",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "LIEBEL-FLARSHEIM CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "IOXITALAMIC ACID"
+  ]
+}

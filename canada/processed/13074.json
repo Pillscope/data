@@ -1,0 +1,38 @@
+{
+  "drug_code": "13074",
+  "din": "00894079",
+  "brand_name": "PMS-ALUMINA MAG AND SIMETHICONE SUS",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "10-MAY-2016",
+  "active_ingredients": [
+    {
+      "name": "MAGNESIUM HYDROXIDE",
+      "strength": "200",
+      "unit": "MG"
+    },
+    {
+      "name": "DIMETHICONE",
+      "strength": "25",
+      "unit": "MG"
+    },
+    {
+      "name": "ALUMINUM HYDROXIDE",
+      "strength": "200",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SUSPENSION"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "PHARMASCIENCE INC"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "ORDINARY SALT COMBINATIONS AND ANTIFLATULENTS"
+  ]
+}

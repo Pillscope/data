@@ -1,0 +1,26 @@
+{
+  "drug_code": "10226",
+  "din": "00769959",
+  "brand_name": "YOBINE INJECTABLE",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "01-DEC-2015",
+  "active_ingredients": [
+    {
+      "name": "YOHIMBINE (YOHIMBINE HYDROCHLORIDE)",
+      "strength": "2",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "AKORN ANIMAL HEALTH INC"
+  ],
+  "status": "APPROVED",
+  "atc": []
+}

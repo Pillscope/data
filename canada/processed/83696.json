@@ -1,0 +1,33 @@
+{
+  "drug_code": "83696",
+  "din": "02351706",
+  "brand_name": "RAN-IMIPENEM-CILASTATIN",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "27-AUG-2010",
+  "active_ingredients": [
+    {
+      "name": "CILASTATIN (CILASTATIN SODIUM)",
+      "strength": "500",
+      "unit": "MG"
+    },
+    {
+      "name": "IMIPENEM",
+      "strength": "500",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "POWDER FOR SOLUTION"
+  ],
+  "routes": [
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "RANBAXY PHARMACEUTICALS CANADA INC."
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "IMIPENEM AND CILASTATIN"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "drug_code": "19757",
+  "din": "02210320",
+  "brand_name": "OLESTYR",
+  "class": "Human",
+  "descriptor": "REGULAR POWDER",
+  "last_update": "15-NOV-2017",
+  "active_ingredients": [
+    {
+      "name": "CHOLESTYRAMINE RESIN",
+      "strength": "4",
+      "unit": "G"
+    }
+  ],
+  "forms": [
+    "POWDER FOR SUSPENSION"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "PHARMASCIENCE INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "COLESTYRAMINE"
+  ]
+}

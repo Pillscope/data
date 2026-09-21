@@ -1,0 +1,29 @@
+{
+  "drug_code": "93681",
+  "din": "02450666",
+  "brand_name": "FRAXIPARINE FORTE",
+  "class": "Human",
+  "descriptor": "0.8 ML (15200 IU) PREFILLED SYRINGE - MAGENTA",
+  "last_update": "21-SEP-2017",
+  "active_ingredients": [
+    {
+      "name": "NADROPARIN CALCIUM",
+      "strength": "19000",
+      "unit": "UNIT"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "INTRAVENOUS",
+    "SUBCUTANEOUS"
+  ],
+  "companies": [
+    "ASPEN PHARMACARE CANADA INC."
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "NADROPARIN"
+  ]
+}

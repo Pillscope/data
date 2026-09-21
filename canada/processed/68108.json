@@ -1,0 +1,29 @@
+{
+  "drug_code": "68108",
+  "din": "02244147",
+  "brand_name": "SUFENTANIL CITRATE INJECTION USP",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "05-MAY-2015",
+  "active_ingredients": [
+    {
+      "name": "SUFENTANIL (SUFENTANIL CITRATE)",
+      "strength": "50",
+      "unit": "MCG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "INTRAVENOUS",
+    "EPIDURAL"
+  ],
+  "companies": [
+    "SANDOZ CANADA INCORPORATED"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "SUFENTANIL"
+  ]
+}

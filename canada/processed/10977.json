@@ -1,0 +1,28 @@
+{
+  "drug_code": "10977",
+  "din": "00811874",
+  "brand_name": "PMS-LIDOCAINE VISCOUS 2%",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "14-JUL-2014",
+  "active_ingredients": [
+    {
+      "name": "LIDOCAINE HYDROCHLORIDE",
+      "strength": "2",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "LIQUID"
+  ],
+  "routes": [
+    "DENTAL"
+  ],
+  "companies": [
+    "PHARMASCIENCE INC"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "LIDOCAINE"
+  ]
+}

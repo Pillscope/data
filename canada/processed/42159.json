@@ -1,0 +1,38 @@
+{
+  "drug_code": "42159",
+  "din": "02013878",
+  "brand_name": "BLISTEX LIP BALM",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "10-MAY-2016",
+  "active_ingredients": [
+    {
+      "name": "DIMETHICONE",
+      "strength": "2",
+      "unit": "%"
+    },
+    {
+      "name": "PADIMATE O",
+      "strength": "6.6",
+      "unit": "%"
+    },
+    {
+      "name": "OXYBENZONE",
+      "strength": "2.5",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "OINTMENT"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "BLISTEX CORPORATION"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "COMBINATIONS OF PROTECTIVES AGAINST UV-RADIATION"
+  ]
+}

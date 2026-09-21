@@ -1,0 +1,28 @@
+{
+  "drug_code": "67530",
+  "din": "02243611",
+  "brand_name": "APO-ALPRAZ",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "08-MAR-2006",
+  "active_ingredients": [
+    {
+      "name": "ALPRAZOLAM",
+      "strength": "1",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "APOTEX INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "ALPRAZOLAM"
+  ]
+}

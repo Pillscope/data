@@ -1,0 +1,38 @@
+{
+  "drug_code": "70567",
+  "din": "02246397",
+  "brand_name": "TEARS NATURALE FORTE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "26-MAY-2017",
+  "active_ingredients": [
+    {
+      "name": "GLYCERINE",
+      "strength": "0.2",
+      "unit": "%"
+    },
+    {
+      "name": "DEXTRAN 70",
+      "strength": "0.1",
+      "unit": "%"
+    },
+    {
+      "name": "HYPROMELLOSE",
+      "strength": "0.3",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "OPHTHALMIC"
+  ],
+  "companies": [
+    "NOVARTIS PHARMACEUTICALS CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "ARTIFICIAL TEARS AND OTHER INDIFFERENT PREPARATIONS."
+  ]
+}

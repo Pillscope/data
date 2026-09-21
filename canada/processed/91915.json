@@ -1,0 +1,48 @@
+{
+  "drug_code": "91915",
+  "din": "02434857",
+  "brand_name": "ROC SOLEIL PROTEXION DAILY ANTI-AGEING SUNSCREEN",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "17-FEB-2017",
+  "active_ingredients": [
+    {
+      "name": "AVOBENZONE",
+      "strength": "3",
+      "unit": "%"
+    },
+    {
+      "name": "OCTOCRYLENE",
+      "strength": "9",
+      "unit": "%"
+    },
+    {
+      "name": "OCTISALATE",
+      "strength": "5",
+      "unit": "%"
+    },
+    {
+      "name": "BISOCTRIZOLE",
+      "strength": "2",
+      "unit": "%"
+    },
+    {
+      "name": "BEMOTRIZINOL",
+      "strength": "2.5",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "LOTION"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "JOHNSON & JOHNSON INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "COMBINATIONS OF PROTECTIVES AGAINST UV-RADIATION"
+  ]
+}

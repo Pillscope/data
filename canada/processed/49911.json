@@ -1,0 +1,27 @@
+{
+  "drug_code": "49911",
+  "din": "02230652",
+  "brand_name": "CRONYXIN INJECTION",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "04-FEB-2013",
+  "active_ingredients": [
+    {
+      "name": "FLUNIXIN (FLUNIXIN MEGLUMINE)",
+      "strength": "50",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "INTRAMUSCULAR",
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "CROSS VETPHARM GROUP LTD"
+  ],
+  "status": "APPROVED",
+  "atc": []
+}

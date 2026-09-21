@@ -1,0 +1,29 @@
+{
+  "drug_code": "87102",
+  "din": "02385392",
+  "brand_name": "DIAZEPAM INJECTION USP",
+  "class": "Human",
+  "descriptor": "2ML AMPOULES",
+  "last_update": "05-OCT-2017",
+  "active_ingredients": [
+    {
+      "name": "DIAZEPAM",
+      "strength": "5",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "INTRAMUSCULAR",
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "TELIGENT OU"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "DIAZEPAM"
+  ]
+}

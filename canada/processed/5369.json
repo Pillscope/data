@@ -1,0 +1,28 @@
+{
+  "drug_code": "5369",
+  "din": "00575186",
+  "brand_name": "HISTANTIL TAB 50MG",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "10-MAY-2016",
+  "active_ingredients": [
+    {
+      "name": "PROMETHAZINE HYDROCHLORIDE",
+      "strength": "50",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "PHARMASCIENCE INC"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "PROMETHAZINE"
+  ]
+}

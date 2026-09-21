@@ -1,0 +1,33 @@
+{
+  "drug_code": "85715",
+  "din": "02372029",
+  "brand_name": "ANTIBIOTIC CREAM",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "16-JAN-2014",
+  "active_ingredients": [
+    {
+      "name": "GRAMICIDIN",
+      "strength": "0.25",
+      "unit": "MG"
+    },
+    {
+      "name": "POLYMYXIN B SULFATE",
+      "strength": "10000",
+      "unit": "UNIT"
+    }
+  ],
+  "forms": [
+    "CREAM"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "CANADIAN CUSTOM PACKAGING COMPANY"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "COMBINATIONS OF ANTIBIOTICS"
+  ]
+}

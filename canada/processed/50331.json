@@ -1,0 +1,31 @@
+{
+  "drug_code": "50331",
+  "din": "02231050",
+  "brand_name": "HARTZ ULTRA GUARD PLUS RID WORM TABLET",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "29-APR-2015",
+  "active_ingredients": [
+    {
+      "name": "PIPERAZINE (PIPERAZINE CITRATE)",
+      "strength": "50",
+      "unit": "MG"
+    },
+    {
+      "name": "DICHLOROPHENE",
+      "strength": "250",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "BEAPHAR B.V."
+  ],
+  "status": "APPROVED",
+  "atc": []
+}

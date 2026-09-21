@@ -1,0 +1,28 @@
+{
+  "drug_code": "95925",
+  "din": "02470276",
+  "brand_name": "REBINYN",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "20-APR-2018",
+  "active_ingredients": [
+    {
+      "name": "COAGULATION FACTOR IX (RECOMBINANT), PEGYLATED",
+      "strength": "2000",
+      "unit": "UNIT"
+    }
+  ],
+  "forms": [
+    "POWDER FOR SOLUTION"
+  ],
+  "routes": [
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "NOVO NORDISK CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "COAGULATION FACTOR IX"
+  ]
+}

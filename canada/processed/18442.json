@@ -1,0 +1,33 @@
+{
+  "drug_code": "18442",
+  "din": "02158442",
+  "brand_name": "HYGENIPAK GREEN ANTI-MICROBIAL SKIN CLEANSER",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "10-MAY-2016",
+  "active_ingredients": [
+    {
+      "name": "TRICLOSAN",
+      "strength": "0.15",
+      "unit": "%"
+    },
+    {
+      "name": "CHLOROXYLENOL",
+      "strength": "0.15",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "GEL"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "DEB CANADA"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "COMBINATIONS, OF PHENOL AND DERIVATIVES"
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "drug_code": "2182",
+  "din": "00346160",
+  "brand_name": "WHITE LOTION TAB",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "26-FEB-2002",
+  "active_ingredients": [
+    {
+      "name": "CALCIUM ACETATE",
+      "strength": "1.755",
+      "unit": "G"
+    },
+    {
+      "name": "ALUMINUM SODIUM SULFATE",
+      "strength": "520",
+      "unit": "MG"
+    },
+    {
+      "name": "ZINC SULFATE",
+      "strength": "1.43",
+      "unit": "G"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "DOMINION VETERINARY LABORATORIES LTD."
+  ],
+  "status": "MARKETED",
+  "atc": []
+}

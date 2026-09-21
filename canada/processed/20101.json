@@ -1,0 +1,27 @@
+{
+  "drug_code": "20101",
+  "din": "02157209",
+  "brand_name": "LIQUAMYCIN LA-200",
+  "class": "Veterinary",
+  "descriptor": "ROUTE I.M.: CATTLE, SHEEP, SWINE; ROUTE S.C:CATTLE",
+  "last_update": "15-JAN-2018",
+  "active_ingredients": [
+    {
+      "name": "OXYTETRACYCLINE (OXYTETRACYCLINE DIHYDRATE)",
+      "strength": "200",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "INTRAMUSCULAR",
+    "SUBCUTANEOUS"
+  ],
+  "companies": [
+    "ZOETIS CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": []
+}

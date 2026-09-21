@@ -1,0 +1,33 @@
+{
+  "drug_code": "80709",
+  "din": "02321696",
+  "brand_name": "LUBRICANT EYE DROPS/ ARTIFICIAL TEARS",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "18-JUL-2012",
+  "active_ingredients": [
+    {
+      "name": "GLYCERINE",
+      "strength": "0.3",
+      "unit": "%"
+    },
+    {
+      "name": "PROPYLENE GLYCOL",
+      "strength": "1",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "DROPS"
+  ],
+  "routes": [
+    "OPHTHALMIC"
+  ],
+  "companies": [
+    "BAUSCH & LOMB INC"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "ARTIFICIAL TEARS AND OTHER INDIFFERENT PREPARATIONS."
+  ]
+}

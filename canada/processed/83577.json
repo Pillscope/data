@@ -1,0 +1,28 @@
+{
+  "drug_code": "83577",
+  "din": "02350580",
+  "brand_name": "KUVAN",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "15-JUL-2010",
+  "active_ingredients": [
+    {
+      "name": "SAPROPTERIN DIHYDROCHLORIDE",
+      "strength": "100",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "BIOMARIN PHARMACEUTICAL INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "SAPROPTERIN"
+  ]
+}

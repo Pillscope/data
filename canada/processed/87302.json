@@ -1,0 +1,43 @@
+{
+  "drug_code": "87302",
+  "din": "02387433",
+  "brand_name": "YAZ PLUS",
+  "class": "Human",
+  "descriptor": "PINK TAB CONTAINS DROSPIRENONE, ETHINYL ESTRADIOL AND LEVOMEFOLATE CALCIUM AND LIGHT ORANGE TAB CONTAINS LEVOMEFOLATE CALCIUM",
+  "last_update": "07-AUG-2015",
+  "active_ingredients": [
+    {
+      "name": "DROSPIRENONE",
+      "strength": "3.00",
+      "unit": "MG"
+    },
+    {
+      "name": "Levomefolate Calcium",
+      "strength": "0.451",
+      "unit": "MG"
+    },
+    {
+      "name": "Levomefolate Calcium",
+      "strength": "0.451",
+      "unit": "MG"
+    },
+    {
+      "name": "ETHINYL ESTRADIOL",
+      "strength": "0.02",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "BAYER INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "DROSPIRENONE AND ESTROGEN"
+  ]
+}

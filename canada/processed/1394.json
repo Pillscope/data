@@ -1,0 +1,44 @@
+{
+  "drug_code": "1394",
+  "din": "00195057",
+  "brand_name": "NEO-MEDROL ACNE LOTION",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "01-MAY-2009",
+  "active_ingredients": [
+    {
+      "name": "NEOMYCIN SULFATE",
+      "strength": "2.5",
+      "unit": "MG"
+    },
+    {
+      "name": "SULFUR",
+      "strength": "50",
+      "unit": "MG"
+    },
+    {
+      "name": "ALUMINUM CHLOROHYDRATE",
+      "strength": "100",
+      "unit": "MG"
+    },
+    {
+      "name": "METHYLPREDNISOLONE ACETATE",
+      "strength": "2.5",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "LOTION"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "PFIZER CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "METHYLPREDNISOLONE",
+    "METHYLPREDNISOLONE"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "drug_code": "85284",
+  "din": "02368021",
+  "brand_name": "MINT-ATENOL",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "22-JAN-2013",
+  "active_ingredients": [
+    {
+      "name": "ATENOLOL",
+      "strength": "50",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "MINT PHARMACEUTICALS INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "ATENOLOL"
+  ]
+}

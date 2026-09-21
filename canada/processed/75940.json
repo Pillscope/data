@@ -1,0 +1,28 @@
+{
+  "drug_code": "75940",
+  "din": "02273942",
+  "brand_name": "PMS-MIRTAZAPINE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "22-NOV-2006",
+  "active_ingredients": [
+    {
+      "name": "MIRTAZAPINE",
+      "strength": "15",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "PHARMASCIENCE INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "MIRTAZAPINE"
+  ]
+}

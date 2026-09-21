@@ -1,0 +1,28 @@
+{
+  "drug_code": "92661",
+  "din": "02442256",
+  "brand_name": "LUXA-D",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "27-NOV-2017",
+  "active_ingredients": [
+    {
+      "name": "VITAMIN D3",
+      "strength": "2000",
+      "unit": "UNIT"
+    }
+  ],
+  "forms": [
+    "CAPSULE"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "ORIMED PHARMA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "COLECALCIFEROL"
+  ]
+}

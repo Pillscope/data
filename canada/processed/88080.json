@@ -1,0 +1,28 @@
+{
+  "drug_code": "88080",
+  "din": "02395746",
+  "brand_name": "TOPIRAMATE TABLETS",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "14-DEC-2012",
+  "active_ingredients": [
+    {
+      "name": "TOPIRAMATE",
+      "strength": "100",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "ACCORD HEALTHCARE INC"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "TOPIRAMATE"
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "drug_code": "84681",
+  "din": "02361760",
+  "brand_name": "ZENHALE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "31-JAN-2018",
+  "active_ingredients": [
+    {
+      "name": "FORMOTEROL FUMARATE DIHYDRATE",
+      "strength": "5",
+      "unit": "MCG"
+    },
+    {
+      "name": "MOMETASONE FUROATE",
+      "strength": "200",
+      "unit": "MCG"
+    }
+  ],
+  "forms": [
+    "AEROSOL, METERED DOSE"
+  ],
+  "routes": [
+    "INHALATION"
+  ],
+  "companies": [
+    "MERCK CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "FORMOTEROL AND MOMETASONE",
+    "FORMOTEROL AND MOMETASONE"
+  ]
+}

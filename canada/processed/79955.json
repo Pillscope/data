@@ -1,0 +1,28 @@
+{
+  "drug_code": "79955",
+  "din": "02314037",
+  "brand_name": "RAN-ROPINIROLE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "24-AUG-2009",
+  "active_ingredients": [
+    {
+      "name": "ROPINIROLE (ROPINIROLE HYDROCHLORIDE)",
+      "strength": "0.25",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "RANBAXY PHARMACEUTICALS CANADA INC."
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "ROPINIROLE"
+  ]
+}

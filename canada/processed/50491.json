@@ -1,0 +1,28 @@
+{
+  "drug_code": "50491",
+  "din": "02231184",
+  "brand_name": "TEVA-INDAPAMIDE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "01-JUN-2016",
+  "active_ingredients": [
+    {
+      "name": "INDAPAMIDE",
+      "strength": "2.5",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "TEVA CANADA LIMITED"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "INDAPAMIDE"
+  ]
+}

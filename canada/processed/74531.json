@@ -1,0 +1,28 @@
+{
+  "drug_code": "74531",
+  "din": "02260077",
+  "brand_name": "APO-BRIMONIDINE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "22-AUG-2008",
+  "active_ingredients": [
+    {
+      "name": "BRIMONIDINE TARTRATE",
+      "strength": "0.2",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "OPHTHALMIC"
+  ],
+  "companies": [
+    "APOTEX INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "BRIMONIDINE"
+  ]
+}

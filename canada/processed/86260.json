@@ -1,0 +1,28 @@
+{
+  "drug_code": "86260",
+  "din": "02377020",
+  "brand_name": "RESOTRAN",
+  "class": "Human",
+  "descriptor": "FILM-COATED",
+  "last_update": "23-FEB-2016",
+  "active_ingredients": [
+    {
+      "name": "Prucalopride (Prucalopride Succinate)",
+      "strength": "2",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "JANSSEN INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "PRUCALOPRIDE"
+  ]
+}

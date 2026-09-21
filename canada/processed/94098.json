@@ -1,0 +1,28 @@
+{
+  "drug_code": "94098",
+  "din": "02454408",
+  "brand_name": "LYNPARZA",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "07-APR-2017",
+  "active_ingredients": [
+    {
+      "name": "OLAPARIB",
+      "strength": "50",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "CAPSULE"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "ASTRAZENECA CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "OLAPARIB"
+  ]
+}

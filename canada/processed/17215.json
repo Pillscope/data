@@ -1,0 +1,28 @@
+{
+  "drug_code": "17215",
+  "din": "02049376",
+  "brand_name": "ZESTRIL",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "31-MAY-2017",
+  "active_ingredients": [
+    {
+      "name": "LISINOPRIL",
+      "strength": "10",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "ASTRAZENECA CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "LISINOPRIL"
+  ]
+}

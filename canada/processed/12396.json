@@ -1,0 +1,34 @@
+{
+  "drug_code": "12396",
+  "din": "01933663",
+  "brand_name": "PATHEX DISINFECTANT SOLUTION",
+  "class": "Disinfectant",
+  "descriptor": "",
+  "last_update": "13-AUG-2009",
+  "active_ingredients": [
+    {
+      "name": "CLOROPHENE",
+      "strength": "1",
+      "unit": "%"
+    },
+    {
+      "name": "O-PHENYLPHENOL",
+      "strength": "9",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "DISINFECTANT (Medical Instruments)",
+    "DISINFECTANT (Hospital/HC Facilities)"
+  ],
+  "companies": [
+    "CERTOL INTERNATIONAL LLC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "TECHNICAL DISINFECTANTS"
+  ]
+}

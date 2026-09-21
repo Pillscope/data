@@ -1,0 +1,33 @@
+{
+  "drug_code": "84267",
+  "din": "02357569",
+  "brand_name": "JAMPOLYCIN",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "13-JAN-2015",
+  "active_ingredients": [
+    {
+      "name": "BACITRACIN",
+      "strength": "500",
+      "unit": "UNIT"
+    },
+    {
+      "name": "POLYMYXIN B SULFATE",
+      "strength": "10000",
+      "unit": "UNIT"
+    }
+  ],
+  "forms": [
+    "OINTMENT"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "JAMP PHARMA CORPORATION"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "BACITRACIN"
+  ]
+}

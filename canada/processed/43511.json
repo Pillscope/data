@@ -1,0 +1,28 @@
+{
+  "drug_code": "43511",
+  "din": "02229099",
+  "brand_name": "PULMICORT NEBUAMP 0.125 MG/ML",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "05-AUG-2017",
+  "active_ingredients": [
+    {
+      "name": "BUDESONIDE",
+      "strength": "0.125",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SUSPENSION"
+  ],
+  "routes": [
+    "INHALATION"
+  ],
+  "companies": [
+    "ASTRAZENECA CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "BUDESONIDE"
+  ]
+}

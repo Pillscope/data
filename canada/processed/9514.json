@@ -1,0 +1,38 @@
+{
+  "drug_code": "9514",
+  "din": "00789445",
+  "brand_name": "PANCREASE MT 4",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "17-JUL-2015",
+  "active_ingredients": [
+    {
+      "name": "LIPASE",
+      "strength": "4200",
+      "unit": "UNIT"
+    },
+    {
+      "name": "PROTEASE",
+      "strength": "10000",
+      "unit": "UNIT"
+    },
+    {
+      "name": "AMYLASE",
+      "strength": "17500",
+      "unit": "UNIT"
+    }
+  ],
+  "forms": [
+    "CAPSULE (ENTERIC-COATED)"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "JANSSEN INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "MULTIENZYMES (LIPASE, PROTEASE ETC)"
+  ]
+}

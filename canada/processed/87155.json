@@ -1,0 +1,28 @@
+{
+  "drug_code": "87155",
+  "din": "02385945",
+  "brand_name": "VENLAFAXINE XR",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "08-MAR-2018",
+  "active_ingredients": [
+    {
+      "name": "VENLAFAXINE (VENLAFAXINE HYDROCHLORIDE)",
+      "strength": "150",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "CAPSULE (EXTENDED RELEASE)"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "SIVEM PHARMACEUTICALS ULC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "VENLAFAXINE"
+  ]
+}

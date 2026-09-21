@@ -1,0 +1,28 @@
+{
+  "drug_code": "47426",
+  "din": "02229521",
+  "brand_name": "APO-CIPROFLOX",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "06-MAR-2006",
+  "active_ingredients": [
+    {
+      "name": "CIPROFLOXACIN (CIPROFLOXACIN HYDROCHLORIDE)",
+      "strength": "250",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "APOTEX INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "CIPROFLOXACIN"
+  ]
+}

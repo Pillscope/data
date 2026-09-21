@@ -1,0 +1,34 @@
+{
+  "drug_code": "78032",
+  "din": "02294990",
+  "brand_name": "INSTILLAGEL",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "05-DEC-2013",
+  "active_ingredients": [
+    {
+      "name": "CHLORHEXIDINE GLUCONATE",
+      "strength": "0.05",
+      "unit": "%"
+    },
+    {
+      "name": "LIDOCAINE HYDROCHLORIDE (LIDOCAINE HYDROCHLORIDE MONOHYDRATE)",
+      "strength": "2",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "GEL"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "PENDOPHARM DIVISION OF DE PHARMASCIENCE INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "LIDOCAINE, COMBINATIONS",
+    "LIDOCAINE, COMBINATIONS"
+  ]
+}

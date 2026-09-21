@@ -1,0 +1,28 @@
+{
+  "drug_code": "69748",
+  "din": "02245648",
+  "brand_name": "MYLAN-CIPROFLOXACIN",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "04-MAY-2011",
+  "active_ingredients": [
+    {
+      "name": "CIPROFLOXACIN (CIPROFLOXACIN HYDROCHLORIDE)",
+      "strength": "500",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "MYLAN PHARMACEUTICALS ULC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "CIPROFLOXACIN"
+  ]
+}

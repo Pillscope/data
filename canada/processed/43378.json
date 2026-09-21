@@ -1,0 +1,26 @@
+{
+  "drug_code": "43378",
+  "din": "02223635",
+  "brand_name": "TUMIL-K POWDER",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "05-MAY-2015",
+  "active_ingredients": [
+    {
+      "name": "POTASSIUM GLUCONATE",
+      "strength": "720",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "POWDER"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "VIRBAC AH INC"
+  ],
+  "status": "APPROVED",
+  "atc": []
+}

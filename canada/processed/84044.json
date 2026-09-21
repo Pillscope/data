@@ -1,0 +1,28 @@
+{
+  "drug_code": "84044",
+  "din": "02355183",
+  "brand_name": "CISPLATIN INJECTION, BP",
+  "class": "Human",
+  "descriptor": "SINGLE DOSE VIALS. 10MG/10ML, 50MG/50ML AND 100MG/100ML.PRESERVATIVE-FREE.",
+  "last_update": "10-APR-2012",
+  "active_ingredients": [
+    {
+      "name": "CISPLATIN",
+      "strength": "1",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "ACCORD HEALTHCARE INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "CISPLATIN"
+  ]
+}

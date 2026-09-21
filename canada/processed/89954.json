@@ -1,0 +1,28 @@
+{
+  "drug_code": "89954",
+  "din": "02414910",
+  "brand_name": "OLD DUTCH BIOD\u00c3\u0089GRADABLE DISINFECTANT CLEANER NETTOYANT D\u00c3\u0089SINFECTANT MULTI SURFACE",
+  "class": "Disinfectant",
+  "descriptor": "",
+  "last_update": "01-JUN-2017",
+  "active_ingredients": [
+    {
+      "name": "BENZALKONIUM CHLORIDE",
+      "strength": "0.08",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "LIQUID"
+  ],
+  "routes": [
+    "DISINFECTANT (Domestic)"
+  ],
+  "companies": [
+    "LAVO"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "TECHNICAL DISINFECTANTS"
+  ]
+}

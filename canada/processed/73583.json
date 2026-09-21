@@ -1,0 +1,28 @@
+{
+  "drug_code": "73583",
+  "din": "02250896",
+  "brand_name": "TARO-PHENYTOIN",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "31-OCT-2006",
+  "active_ingredients": [
+    {
+      "name": "PHENYTOIN",
+      "strength": "125",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SUSPENSION"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "TARO PHARMACEUTICALS INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "PHENYTOIN"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "drug_code": "77729",
+  "din": "02291924",
+  "brand_name": "BICILLIN L-A",
+  "class": "Human",
+  "descriptor": "2ML SINGLE-USE CARTRIDGE NEEDLE UNITS",
+  "last_update": "21-NOV-2014",
+  "active_ingredients": [
+    {
+      "name": "PENICILLIN G BENZATHINE",
+      "strength": "1200000",
+      "unit": "UNIT"
+    }
+  ],
+  "forms": [
+    "SUSPENSION"
+  ],
+  "routes": [
+    "INTRAMUSCULAR"
+  ],
+  "companies": [
+    "PFIZER CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "BENZATHINE BENZYLPENICILLIN"
+  ]
+}

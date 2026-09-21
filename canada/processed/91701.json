@@ -1,0 +1,28 @@
+{
+  "drug_code": "91701",
+  "din": "02432560",
+  "brand_name": "MAR-MODAFINIL",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "12-JAN-2015",
+  "active_ingredients": [
+    {
+      "name": "MODAFINIL",
+      "strength": "100",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "MARCAN PHARMACEUTICALS INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "MODAFINIL"
+  ]
+}

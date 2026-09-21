@@ -1,0 +1,28 @@
+{
+  "drug_code": "91195",
+  "din": "02427427",
+  "brand_name": "NIGHTTIME SLEEP AID LIQUID",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "12-JAN-2017",
+  "active_ingredients": [
+    {
+      "name": "DIPHENHYDRAMINE HYDROCHLORIDE",
+      "strength": "50",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "PERRIGO INTERNATIONAL"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "DIPHENHYDRAMINE"
+  ]
+}

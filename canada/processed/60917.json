@@ -1,0 +1,39 @@
+{
+  "drug_code": "60917",
+  "din": "02237578",
+  "brand_name": "SPASMHALT-8",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "06-MAR-2017",
+  "active_ingredients": [
+    {
+      "name": "CODEINE PHOSPHATE",
+      "strength": "8",
+      "unit": "MG"
+    },
+    {
+      "name": "METHOCARBAMOL",
+      "strength": "400",
+      "unit": "MG"
+    },
+    {
+      "name": "ACETAMINOPHEN",
+      "strength": "325",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "PENDOPHARM DIVISION OF DE PHARMASCIENCE INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "CODEINE, COMBINATIONS EXCL. PSYCHOLEPTICS",
+    "CODEINE, COMBINATIONS EXCL. PSYCHOLEPTICS"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "drug_code": "19729",
+  "din": "02194333",
+  "brand_name": "TEGRETOL - SUS 100MG/5ML",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "08-JUN-2006",
+  "active_ingredients": [
+    {
+      "name": "CARBAMAZEPINE",
+      "strength": "100",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SUSPENSION"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "NOVARTIS PHARMACEUTICALS CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "CARBAMAZEPINE"
+  ]
+}

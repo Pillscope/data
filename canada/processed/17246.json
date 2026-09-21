@@ -1,0 +1,28 @@
+{
+  "drug_code": "17246",
+  "din": "02139332",
+  "brand_name": "APO-BACLOFEN TABLETS - 10MG",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "17-OCT-2008",
+  "active_ingredients": [
+    {
+      "name": "BACLOFEN",
+      "strength": "10",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "APOTEX INC"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "BACLOFEN"
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "drug_code": "61438",
+  "din": "02238054",
+  "brand_name": "SALONPAS GEL-PATCH",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "04-AUG-2005",
+  "active_ingredients": [
+    {
+      "name": "GLYCOL SALICYLATE",
+      "strength": "1.25",
+      "unit": "G"
+    },
+    {
+      "name": "CAMPHOR",
+      "strength": "0.3",
+      "unit": "G"
+    },
+    {
+      "name": "L-MENTHOL",
+      "strength": "1.00",
+      "unit": "G"
+    }
+  ],
+  "forms": [
+    "PLASTER"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "HISAMITSU PHARMACEUTICAL CO., INC."
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "PREPARATIONS WITH SALICYLIC ACID DERIVATIVES"
+  ]
+}

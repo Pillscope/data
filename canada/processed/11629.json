@@ -1,0 +1,28 @@
+{
+  "drug_code": "11629",
+  "din": "01935348",
+  "brand_name": "MINERAL OIL (HEAVY)",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "10-MAY-2016",
+  "active_ingredients": [
+    {
+      "name": "MINERAL OIL",
+      "strength": "100",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "LIQUID"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "RW CONSUMER PRODUCTS LTD"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "LIQUID PARAFFIN"
+  ]
+}

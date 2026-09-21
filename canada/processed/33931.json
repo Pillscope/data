@@ -1,0 +1,28 @@
+{
+  "drug_code": "33931",
+  "din": "02154870",
+  "brand_name": "TRIDESILON 0.05% DESONIDE OINTMENT",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "29-APR-2015",
+  "active_ingredients": [
+    {
+      "name": "DESONIDE",
+      "strength": ".05",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "OINTMENT"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "PERRIGO INTERNATIONAL"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "DESONIDE"
+  ]
+}

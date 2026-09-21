@@ -1,0 +1,28 @@
+{
+  "drug_code": "62657",
+  "din": "02239200",
+  "brand_name": "HIBERIX",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "14-JAN-2014",
+  "active_ingredients": [
+    {
+      "name": "HAEMOPHILUS INFLUENZAE TYPE B-PRP AND TETANUS TOXOID CONJUGATE (PRP-T)",
+      "strength": "10",
+      "unit": "MCG"
+    }
+  ],
+  "forms": [
+    "POWDER FOR SOLUTION"
+  ],
+  "routes": [
+    "INTRAMUSCULAR"
+  ],
+  "companies": [
+    "GLAXOSMITHKLINE INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "HEMOPHILUS INFLUENZAE B, COMBINATIONS WITH TOXOIDS"
+  ]
+}

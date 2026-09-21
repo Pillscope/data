@@ -1,0 +1,36 @@
+{
+  "drug_code": "84738",
+  "din": "02362376",
+  "brand_name": "DAIRY PREP WIPES",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "15-FEB-2013",
+  "active_ingredients": [
+    {
+      "name": "CHLORHEXIDINE ACETATE",
+      "strength": "0.002",
+      "unit": "%"
+    },
+    {
+      "name": "ALCOHOL ANHYDROUS",
+      "strength": "50.00",
+      "unit": "%"
+    },
+    {
+      "name": "LANOLIN",
+      "strength": "2.00",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "WIPE"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "AGRISAN SPECIALTY CHEMICAL & PHARMACEUTICAL"
+  ],
+  "status": "MARKETED",
+  "atc": []
+}

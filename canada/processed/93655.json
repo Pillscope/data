@@ -1,0 +1,29 @@
+{
+  "drug_code": "93655",
+  "din": "02450410",
+  "brand_name": "SANI-CLOTH BLEACH GERMICIDAL DISPOSABLE WIPE",
+  "class": "Disinfectant",
+  "descriptor": "",
+  "last_update": "11-JAN-2018",
+  "active_ingredients": [
+    {
+      "name": "SODIUM HYPOCHLORITE",
+      "strength": "0.63",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "WIPE"
+  ],
+  "routes": [
+    "DISINFECTANT (Hospital/HC Facilities)",
+    "DISINFECTANT (Institutional/Industrial)"
+  ],
+  "companies": [
+    "PROFESSIONAL DISPOSABLES INTERNATIONAL INC."
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "TECHNICAL DISINFECTANTS"
+  ]
+}

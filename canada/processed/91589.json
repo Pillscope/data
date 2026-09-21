@@ -1,0 +1,28 @@
+{
+  "drug_code": "91589",
+  "din": "02431483",
+  "brand_name": "SOLUPREP AQ SWAB",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "19-NOV-2015",
+  "active_ingredients": [
+    {
+      "name": "CHLORHEXIDINE GLUCONATE",
+      "strength": "2",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "SWAB"
+  ],
+  "routes": [
+    "TOPICAL (HOSPITAL/HC FACILITIES)"
+  ],
+  "companies": [
+    "3M CANADA COMPANY"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "CHLORHEXIDINE"
+  ]
+}

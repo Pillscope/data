@@ -1,0 +1,28 @@
+{
+  "drug_code": "80368",
+  "din": "02318180",
+  "brand_name": "TEVA-ESCITALOPRAM",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "26-SEP-2014",
+  "active_ingredients": [
+    {
+      "name": "ESCITALOPRAM (ESCITALOPRAM OXALATE)",
+      "strength": "10",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "TEVA CANADA LIMITED"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "ESCITALOPRAM"
+  ]
+}

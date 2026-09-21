@@ -1,0 +1,28 @@
+{
+  "drug_code": "77313",
+  "din": "02287730",
+  "brand_name": "TEVA-DESMOPRESSIN",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "16-MAY-2017",
+  "active_ingredients": [
+    {
+      "name": "DESMOPRESSIN ACETATE",
+      "strength": "0.1",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "TEVA CANADA LIMITED"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "DESMOPRESSIN"
+  ]
+}

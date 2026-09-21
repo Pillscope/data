@@ -1,0 +1,28 @@
+{
+  "drug_code": "13392",
+  "din": "01962779",
+  "brand_name": "ZOLOFT CAP 100MG",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "19-SEP-2005",
+  "active_ingredients": [
+    {
+      "name": "SERTRALINE (SERTRALINE HYDROCHLORIDE)",
+      "strength": "100",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "CAPSULE"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "PFIZER CANADA INC"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "SERTRALINE"
+  ]
+}

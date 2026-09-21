@@ -1,0 +1,28 @@
+{
+  "drug_code": "94037",
+  "din": "02453835",
+  "brand_name": "PRALUENT",
+  "class": "Human",
+  "descriptor": "SINGLE-USE PREFILLED PEN",
+  "last_update": "16-JAN-2017",
+  "active_ingredients": [
+    {
+      "name": "ALIROCUMAB",
+      "strength": "150",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "SUBCUTANEOUS"
+  ],
+  "companies": [
+    "SANOFI-AVENTIS CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "ALIROCUMAB"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "drug_code": "85690",
+  "din": "02371774",
+  "brand_name": "MAR-RISPERIDONE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "25-APR-2013",
+  "active_ingredients": [
+    {
+      "name": "RISPERIDONE",
+      "strength": "0.50",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "MARCAN PHARMACEUTICALS INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "RISPERIDONE"
+  ]
+}

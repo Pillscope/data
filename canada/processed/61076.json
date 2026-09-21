@@ -1,0 +1,28 @@
+{
+  "drug_code": "61076",
+  "din": "02237722",
+  "brand_name": "MYLAN-ACEBUTOLOL",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "27-SEP-2017",
+  "active_ingredients": [
+    {
+      "name": "ACEBUTOLOL (ACEBUTOLOL HYDROCHLORIDE)",
+      "strength": "200",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "MYLAN PHARMACEUTICALS ULC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "ACEBUTOLOL"
+  ]
+}

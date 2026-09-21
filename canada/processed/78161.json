@@ -1,0 +1,28 @@
+{
+  "drug_code": "78161",
+  "din": "02296284",
+  "brand_name": "ELOXATIN",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "30-JAN-2015",
+  "active_ingredients": [
+    {
+      "name": "OXALIPLATIN",
+      "strength": "5",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "SANOFI-AVENTIS CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "OXALIPLATIN"
+  ]
+}

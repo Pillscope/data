@@ -1,0 +1,28 @@
+{
+  "drug_code": "86734",
+  "din": "02381494",
+  "brand_name": "ACH-ALENDRONATE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "02-MAY-2014",
+  "active_ingredients": [
+    {
+      "name": "ALENDRONIC ACID (ALENDRONATE SODIUM)",
+      "strength": "70",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "ACCORD HEALTHCARE INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "ALENDRONIC ACID"
+  ]
+}

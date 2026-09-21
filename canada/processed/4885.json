@@ -1,0 +1,33 @@
+{
+  "drug_code": "4885",
+  "din": "00551805",
+  "brand_name": "SECARIS",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "29-APR-2015",
+  "active_ingredients": [
+    {
+      "name": "PROPYLENE GLYCOL",
+      "strength": "20",
+      "unit": "%"
+    },
+    {
+      "name": "MACROGOL",
+      "strength": "15",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "GEL"
+  ],
+  "routes": [
+    "NASAL"
+  ],
+  "companies": [
+    "PENDOPHARM DIVISION OF DE PHARMASCIENCE INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "VARIOUS"
+  ]
+}

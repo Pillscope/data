@@ -1,0 +1,28 @@
+{
+  "drug_code": "87639",
+  "din": "02391015",
+  "brand_name": "RODAN & FIELDS PROACTIV SOLUTION CLEANSE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "20-JUN-2016",
+  "active_ingredients": [
+    {
+      "name": "BENZOYL PEROXIDE",
+      "strength": "2.5",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "GEL"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "THE PROACTIV COMPANY LLC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "BENZOYL PEROXIDE"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "drug_code": "91025",
+  "din": "02425610",
+  "brand_name": "ACH-EZETIMIBE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "18-JAN-2016",
+  "active_ingredients": [
+    {
+      "name": "EZETIMIBE",
+      "strength": "10",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "ACCORD HEALTHCARE INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "EZETIMIBE"
+  ]
+}

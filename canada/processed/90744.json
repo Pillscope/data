@@ -1,0 +1,28 @@
+{
+  "drug_code": "90744",
+  "din": "02422786",
+  "brand_name": "RIVA-ATORVASTATIN",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "28-APR-2014",
+  "active_ingredients": [
+    {
+      "name": "ATORVASTATIN (ATORVASTATIN CALCIUM)",
+      "strength": "40",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "LABORATOIRE RIVA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "ATORVASTATIN"
+  ]
+}

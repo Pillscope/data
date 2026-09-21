@@ -1,0 +1,34 @@
+{
+  "drug_code": "94043",
+  "din": "02453908",
+  "brand_name": "ACT BUPRENORPHINE/NALOXONE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "12-JAN-2018",
+  "active_ingredients": [
+    {
+      "name": "BUPRENORPHINE (BUPRENORPHINE HYDROCHLORIDE)",
+      "strength": "2",
+      "unit": "MG"
+    },
+    {
+      "name": "NALOXONE (NALOXONE HYDROCHLORIDE DIHYDRATE)",
+      "strength": "0.5",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "SUBLINGUAL"
+  ],
+  "companies": [
+    "ACTAVIS PHARMA COMPANY"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "BUPRENORPHINE, COMBINATIONS",
+    "BUPRENORPHINE, COMBINATIONS"
+  ]
+}

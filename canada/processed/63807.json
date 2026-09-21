@@ -1,0 +1,26 @@
+{
+  "drug_code": "63807",
+  "din": "02240270",
+  "brand_name": "MAG-O-LAX",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "12-JAN-2016",
+  "active_ingredients": [
+    {
+      "name": "MAGNESIUM HYDROXIDE",
+      "strength": "360",
+      "unit": "G"
+    }
+  ],
+  "forms": [
+    "POWDER"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "NUTRI-SCI 2000 INC"
+  ],
+  "status": "MARKETED",
+  "atc": []
+}

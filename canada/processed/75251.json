@@ -1,0 +1,34 @@
+{
+  "drug_code": "75251",
+  "din": "02267101",
+  "brand_name": "NU-QUAT NEUTRAL DISINFECTANT",
+  "class": "Disinfectant",
+  "descriptor": "",
+  "last_update": "24-JUN-2005",
+  "active_ingredients": [
+    {
+      "name": "DIDECYL DIMETHYL AMMONIUM CHLORIDE",
+      "strength": "2.31",
+      "unit": "%"
+    },
+    {
+      "name": "BENZALKONIUM CHLORIDE",
+      "strength": "1.54",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "LIQUID"
+  ],
+  "routes": [
+    "DISINFECTANT (Food Premises)",
+    "DISINFECTANT (Hospital/HC Facilities)"
+  ],
+  "companies": [
+    "PRIME SOURCE"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "TECHNICAL DISINFECTANTS"
+  ]
+}

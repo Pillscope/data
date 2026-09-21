@@ -1,0 +1,26 @@
+{
+  "drug_code": "13030",
+  "din": "01904779",
+  "brand_name": "VALBAZEN",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "15-AUG-2016",
+  "active_ingredients": [
+    {
+      "name": "ALBENDAZOLE",
+      "strength": "113.6",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SUSPENSION"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "ZOETIS CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": []
+}

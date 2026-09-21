@@ -1,0 +1,28 @@
+{
+  "drug_code": "78378",
+  "din": "02298473",
+  "brand_name": "CLOROX DISINFECTING TOILET BOWL CLEANER WITH BLEACH-1",
+  "class": "Disinfectant",
+  "descriptor": "",
+  "last_update": "29-APR-2015",
+  "active_ingredients": [
+    {
+      "name": "SODIUM HYPOCHLORITE",
+      "strength": "2.4",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "LIQUID"
+  ],
+  "routes": [
+    "DISINFECTANT (Domestic)"
+  ],
+  "companies": [
+    "THE CLOROX COMPANY OF CANADA LTD"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "TECHNICAL DISINFECTANTS"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "drug_code": "88394",
+  "din": "02399032",
+  "brand_name": "SANDOZ SOLIFENACIN",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "02-OCT-2015",
+  "active_ingredients": [
+    {
+      "name": "SOLIFENACIN SUCCINATE",
+      "strength": "5",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "SANDOZ CANADA INCORPORATED"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "SOLIFENACIN"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "drug_code": "12779",
+  "din": "01984853",
+  "brand_name": "BIAXIN BID",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "27-SEP-2016",
+  "active_ingredients": [
+    {
+      "name": "CLARITHROMYCIN",
+      "strength": "250",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "BGP PHARMA ULC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "CLARITHROMYCIN"
+  ]
+}

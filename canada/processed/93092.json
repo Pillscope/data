@@ -1,0 +1,38 @@
+{
+  "drug_code": "93092",
+  "din": "02445646",
+  "brand_name": "FLUZONE HIGH-DOSE",
+  "class": "Human",
+  "descriptor": "INFLUENZA VIRUS VACCINE TRIVALENT TYPES A AND B (SPLIT VIRION).0.5 ML SINGLE-DOSE PREFILLED SYRINGES",
+  "last_update": "31-OCT-2017",
+  "active_ingredients": [
+    {
+      "name": "HAEMAGGLUTININ-STRAIN A(H3N2)",
+      "strength": "60",
+      "unit": "MCG"
+    },
+    {
+      "name": "HAEMAGGLUTININ-STRAIN A(H1N1)",
+      "strength": "60",
+      "unit": "MCG"
+    },
+    {
+      "name": "HAEMAGGLUTININ-STRAIN B",
+      "strength": "60",
+      "unit": "MCG"
+    }
+  ],
+  "forms": [
+    "SUSPENSION"
+  ],
+  "routes": [
+    "INTRAMUSCULAR"
+  ],
+  "companies": [
+    "SANOFI PASTEUR LIMITED"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "INFLUENZA, INACTIVATED, SPLIT VIRUS OR SURFACE ANTIGEN"
+  ]
+}

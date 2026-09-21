@@ -1,0 +1,28 @@
+{
+  "drug_code": "86808",
+  "din": "02382210",
+  "brand_name": "MYLAN-PREGABALIN",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "29-AUG-2017",
+  "active_ingredients": [
+    {
+      "name": "PREGABALIN",
+      "strength": "25",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "CAPSULE"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "MYLAN PHARMACEUTICALS ULC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "PREGABALIN"
+  ]
+}

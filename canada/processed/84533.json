@@ -1,0 +1,29 @@
+{
+  "drug_code": "84533",
+  "din": "02360365",
+  "brand_name": "FUROSEMIDE INJECTION",
+  "class": "Human",
+  "descriptor": "SINGLE USE VIALS. 20MG/2ML AND 40MG/4ML VIALS. PRESERVATIVE-FREE.",
+  "last_update": "18-DEC-2012",
+  "active_ingredients": [
+    {
+      "name": "FUROSEMIDE",
+      "strength": "10",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "LIQUID"
+  ],
+  "routes": [
+    "INTRAMUSCULAR",
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "OMEGA LABORATORIES LTD"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "FUROSEMIDE"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "drug_code": "94654",
+  "din": "02459345",
+  "brand_name": "RIVA-DORZOLAMIDE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "03-JAN-2017",
+  "active_ingredients": [
+    {
+      "name": "DORZOLAMIDE (DORZOLAMIDE HYDROCHLORIDE)",
+      "strength": "2",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "OPHTHALMIC"
+  ],
+  "companies": [
+    "LABORATOIRE RIVA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "DORZOLAMIDE"
+  ]
+}

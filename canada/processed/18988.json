@@ -1,0 +1,31 @@
+{
+  "drug_code": "18988",
+  "din": "01934325",
+  "brand_name": "DEPO-MEDROL (WITH PRESERVATIVE) 20 MG/ML",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "31-JAN-2014",
+  "active_ingredients": [
+    {
+      "name": "METHYLPREDNISOLONE ACETATE",
+      "strength": "20",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SUSPENSION"
+  ],
+  "routes": [
+    "INTRA-ARTICULAR",
+    "INTRALESIONAL",
+    "INTRAMUSCULAR",
+    "INTRASYNOVIAL"
+  ],
+  "companies": [
+    "PFIZER CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "METHYLPREDNISOLONE"
+  ]
+}

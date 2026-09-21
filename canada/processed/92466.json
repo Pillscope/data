@@ -1,0 +1,28 @@
+{
+  "drug_code": "92466",
+  "din": "02440296",
+  "brand_name": "NAT-ESCITALOPRAM",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "17-JUN-2016",
+  "active_ingredients": [
+    {
+      "name": "ESCITALOPRAM (ESCITALOPRAM OXALATE)",
+      "strength": "10",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "NATCO PHARMA (CANADA) INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "ESCITALOPRAM"
+  ]
+}

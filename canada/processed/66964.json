@@ -1,0 +1,28 @@
+{
+  "drug_code": "66964",
+  "din": "02243097",
+  "brand_name": "LIPITOR",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "11-FEB-2010",
+  "active_ingredients": [
+    {
+      "name": "ATORVASTATIN (ATORVASTATIN CALCIUM)",
+      "strength": "80",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "PFIZER CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "ATORVASTATIN"
+  ]
+}

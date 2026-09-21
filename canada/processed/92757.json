@@ -1,0 +1,28 @@
+{
+  "drug_code": "92757",
+  "din": "02443015",
+  "brand_name": "GALANTAMINE ER",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "25-AUG-2016",
+  "active_ingredients": [
+    {
+      "name": "GALANTAMINE (GALANTAMINE HYDROBROMIDE)",
+      "strength": "8",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "CAPSULE (EXTENDED RELEASE)"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "SANIS HEALTH INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "GALANTAMINE"
+  ]
+}

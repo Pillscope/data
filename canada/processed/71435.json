@@ -1,0 +1,28 @@
+{
+  "drug_code": "71435",
+  "din": "02247193",
+  "brand_name": "AERIUS KIDS",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "08-SEP-2017",
+  "active_ingredients": [
+    {
+      "name": "DESLORATADINE",
+      "strength": "0.5",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SYRUP"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "BAYER INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "DESLORATADINE"
+  ]
+}

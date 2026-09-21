@@ -1,0 +1,43 @@
+{
+  "drug_code": "88698",
+  "din": "02402114",
+  "brand_name": "CLINIQUE MOISTURE SURGE CC CREAM HYDRATING COLOUR CORRECTOR SPF 30",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "19-AUG-2013",
+  "active_ingredients": [
+    {
+      "name": "ZINC OXIDE",
+      "strength": "3.2",
+      "unit": "%"
+    },
+    {
+      "name": "TITANIUM DIOXIDE",
+      "strength": "5.2",
+      "unit": "%"
+    },
+    {
+      "name": "OCTISALATE",
+      "strength": "5.0",
+      "unit": "%"
+    },
+    {
+      "name": "OCTINOXATE",
+      "strength": "7.5",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "CREAM"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "CLINIQUE LABORATORIES DIST"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "COMBINATIONS OF PROTECTIVES AGAINST UV-RADIATION"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "drug_code": "84250",
+  "din": "02357380",
+  "brand_name": "ULORIC",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "14-OCT-2010",
+  "active_ingredients": [
+    {
+      "name": "FEBUXOSTAT",
+      "strength": "80",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "TAKEDA CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "FEBUXOSTAT"
+  ]
+}

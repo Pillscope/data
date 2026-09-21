@@ -1,0 +1,26 @@
+{
+  "drug_code": "87671",
+  "din": "02391368",
+  "brand_name": "SULFAMETHAZINE 25% SOLUTION",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "29-DEC-2017",
+  "active_ingredients": [
+    {
+      "name": "SULFAMETHAZINE SODIUM",
+      "strength": "25",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "ALBERTA VETERINARY LABORATORIES LTD"
+  ],
+  "status": "MARKETED",
+  "atc": []
+}

@@ -1,0 +1,33 @@
+{
+  "drug_code": "937",
+  "din": "00036323",
+  "brand_name": "LOMOTIL",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "05-JUN-2008",
+  "active_ingredients": [
+    {
+      "name": "DIPHENOXYLATE HYDROCHLORIDE",
+      "strength": "2.5",
+      "unit": "MG"
+    },
+    {
+      "name": "ATROPINE SULFATE",
+      "strength": ".025",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "PFIZER CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "DIPHENOXYLATE"
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "drug_code": "94105",
+  "din": "02454475",
+  "brand_name": "APO-ALENDRONATE/VITAMIN D3",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "03-AUG-2016",
+  "active_ingredients": [
+    {
+      "name": "VITAMIN D3 (CHOLECALCIFEROL)",
+      "strength": "5600",
+      "unit": "UNIT"
+    },
+    {
+      "name": "ALENDRONIC ACID (ALENDRONATE SODIUM)",
+      "strength": "70",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "APOTEX INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "ALENDRONIC ACID AND CHOLECALCIFEROL",
+    "ALENDRONIC ACID AND CHOLECALCIFEROL"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "drug_code": "10001",
+  "din": "00813826",
+  "brand_name": "MGA 100 PREMIX",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "15-AUG-2016",
+  "active_ingredients": [
+    {
+      "name": "MELENGESTROL ACETATE",
+      "strength": "220",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "DRUG PREMIX"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "ZOETIS CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": []
+}

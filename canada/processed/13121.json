@@ -1,0 +1,28 @@
+{
+  "drug_code": "13121",
+  "din": "01968300",
+  "brand_name": "ACULAR LIQ 0.5%",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "06-AUG-2008",
+  "active_ingredients": [
+    {
+      "name": "KETOROLAC TROMETHAMINE",
+      "strength": "0.5",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "OPHTHALMIC"
+  ],
+  "companies": [
+    "ALLERGAN INC"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "KETOROLAC"
+  ]
+}

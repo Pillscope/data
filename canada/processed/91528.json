@@ -1,0 +1,33 @@
+{
+  "drug_code": "91528",
+  "din": "02430843",
+  "brand_name": "DIORSKIN NUDE TEINT \u00c3\u0089CLAT EFFET PEAU NUE NUDE SKIN-GLOWING MAKEUP FPS 15 SPF",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "21-SEP-2015",
+  "active_ingredients": [
+    {
+      "name": "TITANIUM DIOXIDE",
+      "strength": "4.35",
+      "unit": "%"
+    },
+    {
+      "name": "OCTINOXATE",
+      "strength": "3",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "LIQUID"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "PARFUMS CHRISTIAN DIOR"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "COMBINATIONS OF PROTECTIVES AGAINST UV-RADIATION"
+  ]
+}

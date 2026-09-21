@@ -1,0 +1,38 @@
+{
+  "drug_code": "92171",
+  "din": "02437376",
+  "brand_name": "M.A.C. STUDIO WATERWEIGHT SPF 30 FOUNDATION",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "17-OCT-2015",
+  "active_ingredients": [
+    {
+      "name": "ZINC OXIDE",
+      "strength": "2.1",
+      "unit": "%"
+    },
+    {
+      "name": "TITANIUM DIOXIDE",
+      "strength": "3.1",
+      "unit": "%"
+    },
+    {
+      "name": "OCTINOXATE",
+      "strength": "5",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "CREAM"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "MAKE UP ART COSMETICS DIST MAC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "COMBINATIONS OF PROTECTIVES AGAINST UV-RADIATION"
+  ]
+}

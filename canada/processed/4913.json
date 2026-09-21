@@ -1,0 +1,64 @@
+{
+  "drug_code": "4913",
+  "din": "00568082",
+  "brand_name": "BSS PLUS",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "28-MAY-2009",
+  "active_ingredients": [
+    {
+      "name": "SODIUM BICARBONATE",
+      "strength": "0.21",
+      "unit": "%"
+    },
+    {
+      "name": "SODIUM CHLORIDE",
+      "strength": "0.714",
+      "unit": "%"
+    },
+    {
+      "name": "DEXTROSE",
+      "strength": "0.092",
+      "unit": "%"
+    },
+    {
+      "name": "POTASSIUM CHLORIDE",
+      "strength": "0.038",
+      "unit": "%"
+    },
+    {
+      "name": "GLUTATHIONE DISULFIDE",
+      "strength": "0.0184",
+      "unit": "%"
+    },
+    {
+      "name": "SODIUM PHOSPHATE DIBASIC",
+      "strength": "0.042",
+      "unit": "%"
+    },
+    {
+      "name": "MAGNESIUM CHLORIDE",
+      "strength": "0.02",
+      "unit": "%"
+    },
+    {
+      "name": "CALCIUM CHLORIDE",
+      "strength": "0.0154",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "SOLUTION",
+    "KIT"
+  ],
+  "routes": [
+    "INTRAOCULAR"
+  ],
+  "companies": [
+    "ALCON CANADA INC"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "SOLVENTS AND DILUTING AGENTS,INCL IRRIGAT SOLUT"
+  ]
+}

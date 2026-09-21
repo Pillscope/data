@@ -1,0 +1,36 @@
+{
+  "drug_code": "62060",
+  "din": "02238632",
+  "brand_name": "SOLE PACK HOOF PACKING PASTE",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "08-DEC-2015",
+  "active_ingredients": [
+    {
+      "name": "IODINE",
+      "strength": "1.82",
+      "unit": "%"
+    },
+    {
+      "name": "POTASSIUM IODIDE",
+      "strength": "1.3",
+      "unit": "%"
+    },
+    {
+      "name": "PINE TAR",
+      "strength": "38.12",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "PASTE"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "HAWTHORNE PRODUCTS INC."
+  ],
+  "status": "MARKETED",
+  "atc": []
+}

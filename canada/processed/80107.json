@@ -1,0 +1,38 @@
+{
+  "drug_code": "80107",
+  "din": "02315548",
+  "brand_name": "ARTHRITIS EXTRA STRENGTH ROLL-ON LOTION",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "27-MAY-2016",
+  "active_ingredients": [
+    {
+      "name": "TROLAMINE SALICYLATE",
+      "strength": "10",
+      "unit": "%"
+    },
+    {
+      "name": "CAPSAICIN",
+      "strength": "0.035",
+      "unit": "%"
+    },
+    {
+      "name": "MENTHOL",
+      "strength": "1.25",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "LOTION"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "CHURCH & DWIGHT CANADA CORP"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "PREPARATIONS WITH SALICYLIC ACID DERIVATIVES"
+  ]
+}

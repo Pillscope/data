@@ -1,0 +1,28 @@
+{
+  "drug_code": "69937",
+  "din": "02245821",
+  "brand_name": "KETOROLAC",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "25-JUN-2015",
+  "active_ingredients": [
+    {
+      "name": "KETOROLAC TROMETHAMINE",
+      "strength": "0.5",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "OPHTHALMIC"
+  ],
+  "companies": [
+    "AA PHARMA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "KETOROLAC"
+  ]
+}

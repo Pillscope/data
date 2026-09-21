@@ -1,0 +1,28 @@
+{
+  "drug_code": "68609",
+  "din": "02244622",
+  "brand_name": "MILRINONE LACTATE INJECTION",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "23-NOV-2017",
+  "active_ingredients": [
+    {
+      "name": "MILRINONE (MILRINONE LACTATE)",
+      "strength": "1",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "FRESENIUS KABI CANADA LTD"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "MILRINONE"
+  ]
+}

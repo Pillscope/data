@@ -1,0 +1,32 @@
+{
+  "drug_code": "93738",
+  "din": "02451115",
+  "brand_name": "ENVIRO SOLUTIONS 65H",
+  "class": "Disinfectant",
+  "descriptor": "",
+  "last_update": "18-MAY-2016",
+  "active_ingredients": [
+    {
+      "name": "HYDROGEN PEROXIDE",
+      "strength": "7.25",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "DISINFECTANT (Barn)",
+    "DISINFECTANT (Food Premises)",
+    "DISINFECTANT (Hospital/HC Facilities)",
+    "DISINFECTANT (Domestic)",
+    "DISINFECTANT (Institutional/Industrial)"
+  ],
+  "companies": [
+    "CHARLOTTE PRODUCTS LIMITED"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "TECHNICAL DISINFECTANTS"
+  ]
+}

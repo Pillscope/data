@@ -1,0 +1,29 @@
+{
+  "drug_code": "91844",
+  "din": "02434091",
+  "brand_name": "CEFOTAXIME SODIUM FOR INJECTION, BP",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "18-MAR-2015",
+  "active_ingredients": [
+    {
+      "name": "CEFOTAXIME SODIUM",
+      "strength": "1",
+      "unit": "G"
+    }
+  ],
+  "forms": [
+    "POWDER FOR SOLUTION"
+  ],
+  "routes": [
+    "INTRAMUSCULAR",
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "STERIMAX INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "CEFOTAXIME"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "drug_code": "4280",
+  "din": "00312800",
+  "brand_name": "APO HYDRO TAB 50MG",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "01-FEB-2010",
+  "active_ingredients": [
+    {
+      "name": "HYDROCHLOROTHIAZIDE",
+      "strength": "50",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "APOTEX INC"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "HYDROCHLOROTHIAZIDE"
+  ]
+}

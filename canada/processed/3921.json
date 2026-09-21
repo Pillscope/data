@@ -1,0 +1,29 @@
+{
+  "drug_code": "3921",
+  "din": "00504483",
+  "brand_name": "NIACINAMIDE INJ 100MG/ML",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "06-JUL-2011",
+  "active_ingredients": [
+    {
+      "name": "NICOTINAMIDE",
+      "strength": "100",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "LIQUID"
+  ],
+  "routes": [
+    "INTRAMUSCULAR",
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "KRIPPS PHARMACY LTD."
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "NICOTINAMIDE"
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "drug_code": "94053",
+  "din": "02454009",
+  "brand_name": "KAOLIN-PECTIN ORAL SUSPENSION",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "11-OCT-2016",
+  "active_ingredients": [
+    {
+      "name": "PECTIN",
+      "strength": "4.33",
+      "unit": "MG"
+    },
+    {
+      "name": "KAOLIN",
+      "strength": "197",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SUSPENSION"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "ALBERTA VETERINARY LABORATORIES LTD"
+  ],
+  "status": "APPROVED",
+  "atc": []
+}

@@ -1,0 +1,28 @@
+{
+  "drug_code": "88302",
+  "din": "02398079",
+  "brand_name": "PMS-PREGABALIN",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "13-MAR-2013",
+  "active_ingredients": [
+    {
+      "name": "PREGABALIN",
+      "strength": "225",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "CAPSULE"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "PHARMASCIENCE INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "PREGABALIN"
+  ]
+}

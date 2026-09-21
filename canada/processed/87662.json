@@ -1,0 +1,28 @@
+{
+  "drug_code": "87662",
+  "din": "02391279",
+  "brand_name": "JAMP-ROSUVASTATIN",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "04-MAY-2017",
+  "active_ingredients": [
+    {
+      "name": "ROSUVASTATIN (ROSUVASTATIN CALCIUM)",
+      "strength": "20",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "JAMP PHARMA CORPORATION"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "ROSUVASTATIN"
+  ]
+}

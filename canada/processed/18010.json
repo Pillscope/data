@@ -1,0 +1,28 @@
+{
+  "drug_code": "18010",
+  "din": "02024152",
+  "brand_name": "DIFLUCAN PWS 50MG/5ML",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "15-DEC-2016",
+  "active_ingredients": [
+    {
+      "name": "FLUCONAZOLE",
+      "strength": "50",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "POWDER FOR SOLUTION"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "PFIZER CANADA INC"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "FLUCONAZOLE"
+  ]
+}

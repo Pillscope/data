@@ -1,0 +1,49 @@
+{
+  "drug_code": "88773",
+  "din": "02402904",
+  "brand_name": "NIMENRIX",
+  "class": "Human",
+  "descriptor": "SINGLE-DOSE VIAL WITH DILUENT (0.5ML IN A PREFILLED-SYRINGE). 1 & 10 KITS",
+  "last_update": "14-JUN-2017",
+  "active_ingredients": [
+    {
+      "name": "MENINGOCOCCAL POLYSACCHARIDE ANTIGEN GROUP W-135",
+      "strength": "5",
+      "unit": "MCG"
+    },
+    {
+      "name": "MENINGOCOCCAL POLYSACCHARIDE ANTIGEN GROUP Y",
+      "strength": "5",
+      "unit": "MCG"
+    },
+    {
+      "name": "MENINGOCOCCAL POLYSACCHARIDE ANTIGEN GROUP C",
+      "strength": "5",
+      "unit": "MCG"
+    },
+    {
+      "name": "MENINGOCOCCAL POLYSACCHARIDE ANTIGEN GROUP A",
+      "strength": "5",
+      "unit": "MCG"
+    },
+    {
+      "name": "TETANUS TOXOID",
+      "strength": "44",
+      "unit": "MCG"
+    }
+  ],
+  "forms": [
+    "KIT",
+    "POWDER FOR SOLUTION"
+  ],
+  "routes": [
+    "INTRAMUSCULAR"
+  ],
+  "companies": [
+    "PFIZER CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "Meningococcus, A, C, Y, W-135, Tetraval. purified polysacc. antigen"
+  ]
+}

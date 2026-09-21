@@ -1,0 +1,28 @@
+{
+  "drug_code": "79016",
+  "din": "02304899",
+  "brand_name": "REVLIMID",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "30-MAY-2017",
+  "active_ingredients": [
+    {
+      "name": "LENALIDOMIDE",
+      "strength": "5",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "CAPSULE"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "CELGENE INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "LENALIDOMIDE"
+  ]
+}

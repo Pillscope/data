@@ -1,0 +1,28 @@
+{
+  "drug_code": "89802",
+  "din": "02413345",
+  "brand_name": "APO-CLARITHROMYCIN XL",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "09-SEP-2014",
+  "active_ingredients": [
+    {
+      "name": "CLARITHROMYCIN",
+      "strength": "500",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET (EXTENDED-RELEASE)"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "APOTEX INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "CLARITHROMYCIN"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "drug_code": "87444",
+  "din": "02388901",
+  "brand_name": "CANDESARTAN",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "17-AUG-2012",
+  "active_ingredients": [
+    {
+      "name": "CANDESARTAN CILEXETIL",
+      "strength": "4",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "SANIS HEALTH INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "CANDESARTAN"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "drug_code": "49693",
+  "din": "02230584",
+  "brand_name": "TEVA-BROMAZEPAM",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "03-JUN-2015",
+  "active_ingredients": [
+    {
+      "name": "BROMAZEPAM",
+      "strength": "3",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "TEVA CANADA LIMITED"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "BROMAZEPAM"
+  ]
+}

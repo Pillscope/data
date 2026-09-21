@@ -1,0 +1,28 @@
+{
+  "drug_code": "91745",
+  "din": "02433044",
+  "brand_name": "ASA",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "02-JUN-2015",
+  "active_ingredients": [
+    {
+      "name": "ACETYLSALICYLIC ACID",
+      "strength": "81",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET (DELAYED-RELEASE)"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "PHARMASCIENCE INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "ACETYLSALICYLIC ACID"
+  ]
+}

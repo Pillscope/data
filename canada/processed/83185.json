@@ -1,0 +1,28 @@
+{
+  "drug_code": "83185",
+  "din": "02346486",
+  "brand_name": "ATORVASTATIN",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "18-FEB-2014",
+  "active_ingredients": [
+    {
+      "name": "ATORVASTATIN (ATORVASTATIN CALCIUM PROPYLENE GLYCOL SOLVATE)",
+      "strength": "10",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "PRO DOC LIMITEE"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "ATORVASTATIN"
+  ]
+}

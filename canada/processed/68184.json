@@ -1,0 +1,29 @@
+{
+  "drug_code": "68184",
+  "din": "02244220",
+  "brand_name": "VINOXX",
+  "class": "Disinfectant",
+  "descriptor": "",
+  "last_update": "14-MAY-2010",
+  "active_ingredients": [
+    {
+      "name": "BENZALKONIUM CHLORIDE",
+      "strength": "0.3",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "DISINFECTANT (Hospital/HC Facilities)",
+    "DISINFECTANT (Institutional/Industrial)"
+  ],
+  "companies": [
+    "MAXILL INC"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "TECHNICAL DISINFECTANTS"
+  ]
+}

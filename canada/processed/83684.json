@@ -1,0 +1,28 @@
+{
+  "drug_code": "83684",
+  "din": "02351560",
+  "brand_name": "MYLAN-VALACYCLOVIR",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "17-DEC-2010",
+  "active_ingredients": [
+    {
+      "name": "VALACYCLOVIR (VALACYCLOVIR HYDROCHLORIDE)",
+      "strength": "1000",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "MYLAN PHARMACEUTICALS ULC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "VALACICLOVIR"
+  ]
+}

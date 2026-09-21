@@ -1,0 +1,34 @@
+{
+  "drug_code": "50632",
+  "din": "02231325",
+  "brand_name": "ALLERGENIC EXTRACT - STANDARDIZED MITE MIX",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "26-MAY-2016",
+  "active_ingredients": [
+    {
+      "name": "DERMATOPHAGOIDES FARINAE",
+      "strength": "5000",
+      "unit": "UNIT"
+    },
+    {
+      "name": "DERMATOPHAGOIDES PTERONYSSINUS",
+      "strength": "5000",
+      "unit": "UNIT"
+    }
+  ],
+  "forms": [
+    "LIQUID"
+  ],
+  "routes": [
+    "INTRACUTANEOUS",
+    "SUBCUTANEOUS"
+  ],
+  "companies": [
+    "GREER LABORATORIES INC"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "HOUSE DUST MITES"
+  ]
+}

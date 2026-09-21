@@ -1,0 +1,28 @@
+{
+  "drug_code": "85666",
+  "din": "02371502",
+  "brand_name": "PHARMA-D 50000 IU",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "02-JAN-2013",
+  "active_ingredients": [
+    {
+      "name": "VITAMIN D3",
+      "strength": "50000",
+      "unit": "UNIT"
+    }
+  ],
+  "forms": [
+    "CAPSULE"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "PHARMASCIENCE INC"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "COLECALCIFEROL"
+  ]
+}

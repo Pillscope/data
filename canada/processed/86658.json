@@ -1,0 +1,28 @@
+{
+  "drug_code": "86658",
+  "din": "02380811",
+  "brand_name": "STERILE DILUENT FOR MERCK SHARP & DOHME CORP. LIVE ATTENUATED VIRUS VACCINES",
+  "class": "Human",
+  "descriptor": "0.7ML VIALS, 0.7ML SYRINGES WITH FIXED NEEDLE AND 0.7ML SYRINGES WITH SEPARATE NEEDLE",
+  "last_update": "11-JAN-2013",
+  "active_ingredients": [
+    {
+      "name": "WATER",
+      "strength": "100",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "LIQUID"
+  ],
+  "routes": [
+    "PARENTERAL (UNSPECIFIED)"
+  ],
+  "companies": [
+    "MERCK CANADA INC"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "SOLVENTS AND DILUTING AGENTS,INCL IRRIGAT SOLUT"
+  ]
+}

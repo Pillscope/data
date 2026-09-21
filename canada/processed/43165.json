@@ -1,0 +1,26 @@
+{
+  "drug_code": "43165",
+  "din": "02215691",
+  "brand_name": "VIRGINIAMYCIN 44",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "22-JAN-2018",
+  "active_ingredients": [
+    {
+      "name": "VIRGINIAMYCIN",
+      "strength": "44",
+      "unit": "G"
+    }
+  ],
+  "forms": [
+    "DRUG PREMIX"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "BIO AGRI MIX LP"
+  ],
+  "status": "APPROVED",
+  "atc": []
+}

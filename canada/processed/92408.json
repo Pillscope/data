@@ -1,0 +1,28 @@
+{
+  "drug_code": "92408",
+  "din": "02439689",
+  "brand_name": "IBUPROFEN",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "22-AUG-2017",
+  "active_ingredients": [
+    {
+      "name": "IBUPROFEN",
+      "strength": "200",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "APOTEX INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "IBUPROFEN"
+  ]
+}

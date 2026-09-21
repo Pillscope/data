@@ -1,0 +1,33 @@
+{
+  "drug_code": "47540",
+  "din": "02229613",
+  "brand_name": "CHAPSTICK MOISTURIZER",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "02-AUG-2013",
+  "active_ingredients": [
+    {
+      "name": "OXYBENZONE",
+      "strength": "3.5",
+      "unit": "%"
+    },
+    {
+      "name": "OCTINOXATE",
+      "strength": "7.5",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "STICK"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "PFIZER CONSUMER HEALTHCARE A DIVISION OF PFIZER CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "COMBINATIONS OF PROTECTIVES AGAINST UV-RADIATION"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "drug_code": "67118",
+  "din": "02243232",
+  "brand_name": "MONENSIN PREMIX",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "21-APR-2008",
+  "active_ingredients": [
+    {
+      "name": "MONENSIN (MONENSIN SODIUM)",
+      "strength": "200",
+      "unit": "G"
+    }
+  ],
+  "forms": [
+    "DRUG PREMIX"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "BIO AGRI MIX LP"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "MONENSIN"
+  ]
+}

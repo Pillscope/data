@@ -1,0 +1,29 @@
+{
+  "drug_code": "37244",
+  "din": "02220261",
+  "brand_name": "PENICILLIN G SODIUM FOR INJECTION, USP",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "17-JUL-2015",
+  "active_ingredients": [
+    {
+      "name": "PENICILLIN G (PENICILLIN G SODIUM)",
+      "strength": "1000000",
+      "unit": "UNIT"
+    }
+  ],
+  "forms": [
+    "POWDER FOR SOLUTION"
+  ],
+  "routes": [
+    "INTRAMUSCULAR",
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "FRESENIUS KABI CANADA LTD"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "BENZYLPENICILLIN"
+  ]
+}

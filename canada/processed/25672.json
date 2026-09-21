@@ -1,0 +1,44 @@
+{
+  "drug_code": "25672",
+  "din": "02004259",
+  "brand_name": "DISINFECTANT SPRAY",
+  "class": "Disinfectant",
+  "descriptor": "",
+  "last_update": "29-APR-2015",
+  "active_ingredients": [
+    {
+      "name": "ALCOHOL ANHYDROUS",
+      "strength": "50.16",
+      "unit": "%"
+    },
+    {
+      "name": "P-TERT-PENTYLPHENOL",
+      "strength": "0.03",
+      "unit": "%"
+    },
+    {
+      "name": "TRIETHYLENE GLYCOL",
+      "strength": "4.66",
+      "unit": "%"
+    },
+    {
+      "name": "O-PHENYLPHENOL",
+      "strength": "0.1",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "AEROSOL"
+  ],
+  "routes": [
+    "DISINFECTANT (Food Premises)",
+    "DISINFECTANT (Hospital/HC Facilities)"
+  ],
+  "companies": [
+    "K-G SPRAY-PAK INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "TECHNICAL DISINFECTANTS"
+  ]
+}

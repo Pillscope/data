@@ -1,0 +1,28 @@
+{
+  "drug_code": "81517",
+  "din": "02329425",
+  "brand_name": "MYLAN-OMEPRAZOLE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "17-SEP-2009",
+  "active_ingredients": [
+    {
+      "name": "OMEPRAZOLE",
+      "strength": "10",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "CAPSULE (DELAYED RELEASE)"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "MYLAN PHARMACEUTICALS ULC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "OMEPRAZOLE"
+  ]
+}

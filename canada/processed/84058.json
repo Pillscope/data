@@ -1,0 +1,28 @@
+{
+  "drug_code": "84058",
+  "din": "02355337",
+  "brand_name": "APO-IMATINIB",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "25-APR-2013",
+  "active_ingredients": [
+    {
+      "name": "IMATINIB (IMATINIB MESYLATE)",
+      "strength": "100",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "APOTEX INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "IMATINIB"
+  ]
+}

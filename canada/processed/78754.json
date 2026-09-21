@@ -1,0 +1,28 @@
+{
+  "drug_code": "78754",
+  "din": "02302209",
+  "brand_name": "PMS-RISEDRONATE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "28-JUL-2010",
+  "active_ingredients": [
+    {
+      "name": "RISEDRONATE SODIUM (RISEDRONATE SODIUM HEMI-PENTAHYDRATE)",
+      "strength": "35",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "PHARMASCIENCE INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "RISEDRONIC ACID"
+  ]
+}

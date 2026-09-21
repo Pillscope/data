@@ -1,0 +1,28 @@
+{
+  "drug_code": "88003",
+  "din": "02394871",
+  "brand_name": "MINT-ALENDRONATE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "20-MAR-2014",
+  "active_ingredients": [
+    {
+      "name": "ALENDRONIC ACID (ALENDRONATE SODIUM)",
+      "strength": "70.0",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "MINT PHARMACEUTICALS INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "ALENDRONIC ACID"
+  ]
+}

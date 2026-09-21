@@ -1,0 +1,29 @@
+{
+  "drug_code": "66465",
+  "din": "02242676",
+  "brand_name": "ALLERGENIC EXTRACT - STANDARDIZED GRASS POLLEN - PERENNIAL RYE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "30-MAY-2006",
+  "active_ingredients": [
+    {
+      "name": "STANDARDIZED PERENNIAL RYE GRASS POLLEN",
+      "strength": "100000",
+      "unit": "UNIT"
+    }
+  ],
+  "forms": [
+    "LIQUID"
+  ],
+  "routes": [
+    "INTRACUTANEOUS",
+    "SUBCUTANEOUS"
+  ],
+  "companies": [
+    "GREER LABORATORIES INC"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "GRASS POLLEN"
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "drug_code": "94604",
+  "din": "02458861",
+  "brand_name": "CEVAXEL RTU",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "20-FEB-2018",
+  "active_ingredients": [
+    {
+      "name": "CEFTIOFUR (CEFTIOFUR HYDROCHLORIDE)",
+      "strength": "50",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SUSPENSION"
+  ],
+  "routes": [
+    "INTRAMUSCULAR",
+    "SUBCUTANEOUS"
+  ],
+  "companies": [
+    "CEVA ANIMAL HEALTH INC"
+  ],
+  "status": "APPROVED",
+  "atc": []
+}

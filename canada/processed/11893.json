@@ -1,0 +1,28 @@
+{
+  "drug_code": "11893",
+  "din": "00812382",
+  "brand_name": "CLOTRIMADERM CREAM 1%",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "10-MAY-2016",
+  "active_ingredients": [
+    {
+      "name": "CLOTRIMAZOLE",
+      "strength": "1",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "CREAM"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "TARO PHARMACEUTICALS INC"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "CLOTRIMAZOLE"
+  ]
+}

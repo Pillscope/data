@@ -1,0 +1,40 @@
+{
+  "drug_code": "37363",
+  "din": "02224623",
+  "brand_name": "SOFRACORT STERILE EAR/EYE DROPS",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "20-APR-2018",
+  "active_ingredients": [
+    {
+      "name": "DEXAMETHASONE (DEXAMETHASONE SODIUM METASULPHOBENZOATE)",
+      "strength": "0.5",
+      "unit": "MG"
+    },
+    {
+      "name": "GRAMICIDIN",
+      "strength": "0.05",
+      "unit": "MG"
+    },
+    {
+      "name": "FRAMYCETIN SULFATE",
+      "strength": "5",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "DROPS"
+  ],
+  "routes": [
+    "OPHTHALMIC",
+    "OTIC"
+  ],
+  "companies": [
+    "SANOFI-AVENTIS CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "DEXAMETHASONE AND ANTIINFECTIVES",
+    "DEXAMETHASONE AND ANTIINFECTIVES"
+  ]
+}

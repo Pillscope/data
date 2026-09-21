@@ -1,0 +1,28 @@
+{
+  "drug_code": "61379",
+  "din": "02238001",
+  "brand_name": "ORASOFT 3",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "08-AUG-2014",
+  "active_ingredients": [
+    {
+      "name": "TRICLOSAN",
+      "strength": "0.2",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "LIQUID"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "MEGA-LAB MANUFACTURING CO LTD"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "TRICLOSAN"
+  ]
+}

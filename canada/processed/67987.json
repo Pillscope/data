@@ -1,0 +1,33 @@
+{
+  "drug_code": "67987",
+  "din": "02244044",
+  "brand_name": "FRUIT SMOOTHIES",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "11-JUN-2014",
+  "active_ingredients": [
+    {
+      "name": "OXYBENZONE",
+      "strength": "2.5",
+      "unit": "%"
+    },
+    {
+      "name": "OCTINOXATE",
+      "strength": "7.5",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "STICK"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "BLISTEX CORPORATION"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "COMBINATIONS OF PROTECTIVES AGAINST UV-RADIATION"
+  ]
+}

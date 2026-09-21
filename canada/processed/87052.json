@@ -1,0 +1,38 @@
+{
+  "drug_code": "87052",
+  "din": "02384833",
+  "brand_name": "CLINIQUE REPAIRWEAR UPLIFTING FIRMING CREAM SPF 15 DRY COMBINATION TO COMBINATION OILY",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "22-OCT-2012",
+  "active_ingredients": [
+    {
+      "name": "TITANIUM DIOXIDE",
+      "strength": "1.7",
+      "unit": "%"
+    },
+    {
+      "name": "OCTISALATE",
+      "strength": "3.5",
+      "unit": "%"
+    },
+    {
+      "name": "OCTINOXATE",
+      "strength": "7.5",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "CREAM"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "CLINIQUE LABORATORIES DIST"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "COMBINATIONS OF PROTECTIVES AGAINST UV-RADIATION"
+  ]
+}

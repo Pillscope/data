@@ -1,0 +1,28 @@
+{
+  "drug_code": "77112",
+  "din": "02285614",
+  "brand_name": "ALVESCO",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "03-NOV-2017",
+  "active_ingredients": [
+    {
+      "name": "CICLESONIDE",
+      "strength": "200",
+      "unit": "MCG"
+    }
+  ],
+  "forms": [
+    "AEROSOL, METERED DOSE"
+  ],
+  "routes": [
+    "INHALATION"
+  ],
+  "companies": [
+    "ASTRAZENECA CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "CICLESONIDE"
+  ]
+}

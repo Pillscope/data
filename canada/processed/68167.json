@@ -1,0 +1,28 @@
+{
+  "drug_code": "68167",
+  "din": "02244204",
+  "brand_name": "ULTRA STRENGTH GAS RELIEF",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "03-MAR-2017",
+  "active_ingredients": [
+    {
+      "name": "SIMETHICONE",
+      "strength": "180",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "CAPSULE"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "VITA HEALTH PRODUCTS INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "SILICONES"
+  ]
+}

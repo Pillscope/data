@@ -1,0 +1,38 @@
+{
+  "drug_code": "93037",
+  "din": "02445158",
+  "brand_name": "CREON MINIMICROSPHERES MICRO",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "18-JAN-2017",
+  "active_ingredients": [
+    {
+      "name": "PROTEASE",
+      "strength": "320",
+      "unit": "UNIT"
+    },
+    {
+      "name": "LIPASE",
+      "strength": "5000",
+      "unit": "UNIT"
+    },
+    {
+      "name": "AMYLASE",
+      "strength": "5100",
+      "unit": "UNIT"
+    }
+  ],
+  "forms": [
+    "GRANULES"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "BGP PHARMA ULC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "MULTIENZYMES (LIPASE, PROTEASE ETC)"
+  ]
+}

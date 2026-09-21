@@ -1,0 +1,28 @@
+{
+  "drug_code": "80097",
+  "din": "02315432",
+  "brand_name": "ACT LEVOFLOXACIN",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "16-AUG-2017",
+  "active_ingredients": [
+    {
+      "name": "LEVOFLOXACIN (LEVOFLOXACIN HEMIHYDRATE)",
+      "strength": "500",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "TEVA CANADA LIMITED"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "LEVOFLOXACIN"
+  ]
+}

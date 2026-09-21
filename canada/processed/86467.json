@@ -1,0 +1,28 @@
+{
+  "drug_code": "86467",
+  "din": "02378795",
+  "brand_name": "MEROPENEM FOR INJECTION",
+  "class": "Human",
+  "descriptor": "SINGLE USE VIALS",
+  "last_update": "04-DEC-2013",
+  "active_ingredients": [
+    {
+      "name": "MEROPENEM (MEROPENEM TRIHYDRATE)",
+      "strength": "1",
+      "unit": "G"
+    }
+  ],
+  "forms": [
+    "POWDER FOR SOLUTION"
+  ],
+  "routes": [
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "SANDOZ CANADA INCORPORATED"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "MEROPENEM"
+  ]
+}

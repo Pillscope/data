@@ -1,0 +1,34 @@
+{
+  "drug_code": "80418",
+  "din": "02318709",
+  "brand_name": "MICARDIS PLUS",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "13-MAR-2013",
+  "active_ingredients": [
+    {
+      "name": "TELMISARTAN",
+      "strength": "80",
+      "unit": "MG"
+    },
+    {
+      "name": "HYDROCHLOROTHIAZIDE",
+      "strength": "25",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "BOEHRINGER INGELHEIM (CANADA) LTD LTEE"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "TELMISARTAN AND DIURETICS",
+    "TELMISARTAN AND DIURETICS"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "drug_code": "6135",
+  "din": "00637742",
+  "brand_name": "TEVA-LORAZEPAM",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "05-MAY-2015",
+  "active_ingredients": [
+    {
+      "name": "LORAZEPAM",
+      "strength": "1",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "TEVA CANADA LIMITED"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "LORAZEPAM"
+  ]
+}

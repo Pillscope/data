@@ -1,0 +1,28 @@
+{
+  "drug_code": "6295",
+  "din": "00655740",
+  "brand_name": "APO-LORAZEPAM TAB 0.5MG",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "14-AUG-2014",
+  "active_ingredients": [
+    {
+      "name": "LORAZEPAM",
+      "strength": "0.5",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "APOTEX INC"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "LORAZEPAM"
+  ]
+}

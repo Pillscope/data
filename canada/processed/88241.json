@@ -1,0 +1,28 @@
+{
+  "drug_code": "88241",
+  "din": "02397455",
+  "brand_name": "CARIPUL",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "15-OCT-2015",
+  "active_ingredients": [
+    {
+      "name": "EPOPROSTENOL (EPOPROSTENOL SODIUM)",
+      "strength": "1.5",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "POWDER FOR SOLUTION"
+  ],
+  "routes": [
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "ACTELION PHARMACEUTICALS LTD"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "EPOPROSTENOL"
+  ]
+}

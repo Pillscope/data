@@ -1,0 +1,28 @@
+{
+  "drug_code": "19685",
+  "din": "02019876",
+  "brand_name": "PHOTOFRIN",
+  "class": "Human",
+  "descriptor": "SINGLE-USE VIAL",
+  "last_update": "10-MAR-2017",
+  "active_ingredients": [
+    {
+      "name": "PORFIMER SODIUM",
+      "strength": "75",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "POWDER FOR SOLUTION"
+  ],
+  "routes": [
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "CONCORDIA LABORATORIES INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "PORFIMER SODIUM"
+  ]
+}

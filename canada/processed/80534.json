@@ -1,0 +1,33 @@
+{
+  "drug_code": "80534",
+  "din": "02319888",
+  "brand_name": "CHEWABLE BISMUTH TABLETS WITH CALCIUM CARBONATE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "17-JUL-2012",
+  "active_ingredients": [
+    {
+      "name": "BISMUTH SUBSALICYLATE",
+      "strength": "262",
+      "unit": "MG"
+    },
+    {
+      "name": "CALCIUM CARBONATE",
+      "strength": "350",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET (CHEWABLE)"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "PHARMETICS (2011) INC"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "ANTACIDS, OTHER COMBINATIONS"
+  ]
+}

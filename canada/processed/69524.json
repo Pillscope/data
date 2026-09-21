@@ -1,0 +1,33 @@
+{
+  "drug_code": "69524",
+  "din": "02245464",
+  "brand_name": "BLES",
+  "class": "Human",
+  "descriptor": "SINGLE USE VIALS",
+  "last_update": "22-DEC-2011",
+  "active_ingredients": [
+    {
+      "name": "PHOSPHOLIPID",
+      "strength": "27",
+      "unit": "MG"
+    },
+    {
+      "name": "SURFACTANT-ASSOCIATED PROTEINS SP-B AND SP-C",
+      "strength": "500",
+      "unit": "MCG"
+    }
+  ],
+  "forms": [
+    "SUSPENSION"
+  ],
+  "routes": [
+    "INTRATRACHEAL"
+  ],
+  "companies": [
+    "BLES BIOCHEMICALS INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "NATURAL PHOSPHOLIPIDS"
+  ]
+}

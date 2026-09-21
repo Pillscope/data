@@ -1,0 +1,28 @@
+{
+  "drug_code": "85467",
+  "din": "02369753",
+  "brand_name": "PREZISTA",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "23-APR-2012",
+  "active_ingredients": [
+    {
+      "name": "DARUNAVIR (DARUNAVIR ETHANOLATE)",
+      "strength": "150",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "JANSSEN INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "DARUNAVIR"
+  ]
+}

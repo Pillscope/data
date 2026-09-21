@@ -1,0 +1,28 @@
+{
+  "drug_code": "86514",
+  "din": "02379260",
+  "brand_name": "ACH-CANDESARTAN",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "07-SEP-2017",
+  "active_ingredients": [
+    {
+      "name": "CANDESARTAN CILEXETIL",
+      "strength": "4",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "ACCORD HEALTHCARE INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "CANDESARTAN"
+  ]
+}

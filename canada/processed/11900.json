@@ -1,0 +1,26 @@
+{
+  "drug_code": "11900",
+  "din": "00861987",
+  "brand_name": "ACE POWDER 1.25GM/227GM",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "01-MAY-2008",
+  "active_ingredients": [
+    {
+      "name": "ACEPROMAZINE MALEATE",
+      "strength": "1.25",
+      "unit": "G"
+    }
+  ],
+  "forms": [
+    "POWDER"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "JAAPHARM CANADA INC."
+  ],
+  "status": "MARKETED",
+  "atc": []
+}

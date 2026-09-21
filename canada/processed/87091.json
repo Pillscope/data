@@ -1,0 +1,28 @@
+{
+  "drug_code": "87091",
+  "din": "02385279",
+  "brand_name": "TERBINAFINE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "25-APR-2018",
+  "active_ingredients": [
+    {
+      "name": "TERBINAFINE (TERBINAFINE HYDROCHLORIDE)",
+      "strength": "250",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "SIVEM PHARMACEUTICALS ULC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "TERBINAFINE"
+  ]
+}

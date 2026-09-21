@@ -1,0 +1,28 @@
+{
+  "drug_code": "7394",
+  "din": "00704431",
+  "brand_name": "ANDROCUR",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "21-JUN-2010",
+  "active_ingredients": [
+    {
+      "name": "CYPROTERONE ACETATE",
+      "strength": "50",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "BAYER INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "CYPROTERONE"
+  ]
+}

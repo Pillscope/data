@@ -1,0 +1,33 @@
+{
+  "drug_code": "4886",
+  "din": "00551813",
+  "brand_name": "LUBRICATING NASAL MIST",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "07-DEC-2016",
+  "active_ingredients": [
+    {
+      "name": "PROPYLENE GLYCOL",
+      "strength": "20",
+      "unit": "%"
+    },
+    {
+      "name": "MACROGOL",
+      "strength": "15",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "METERED-DOSE AEROSOL"
+  ],
+  "routes": [
+    "NASAL"
+  ],
+  "companies": [
+    "PHARMASCIENCE INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "VARIOUS"
+  ]
+}

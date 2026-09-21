@@ -1,0 +1,28 @@
+{
+  "drug_code": "61184",
+  "din": "02237825",
+  "brand_name": "WELLBUTRIN SR",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "26-MAY-2014",
+  "active_ingredients": [
+    {
+      "name": "BUPROPION HYDROCHLORIDE",
+      "strength": "150",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET (EXTENDED-RELEASE)"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "VALEANT CANADA LP/VALEANT CANADA S.E.C."
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "BUPROPION"
+  ]
+}

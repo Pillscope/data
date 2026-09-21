@@ -1,0 +1,33 @@
+{
+  "drug_code": "71177",
+  "din": "02246950",
+  "brand_name": "STANHEXIDINE AQUEOUS 2% WITH 4% ISOPROPYL ALCOHOL",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "12-APR-2006",
+  "active_ingredients": [
+    {
+      "name": "CHLORHEXIDINE GLUCONATE",
+      "strength": "2",
+      "unit": "%"
+    },
+    {
+      "name": "ISOPROPYL ALCOHOL",
+      "strength": "4",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "OMEGA LABORATORIES LTD"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "CHLORHEXIDINE"
+  ]
+}

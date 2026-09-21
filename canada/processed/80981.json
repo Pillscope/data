@@ -1,0 +1,53 @@
+{
+  "drug_code": "80981",
+  "din": "02324393",
+  "brand_name": "ADDITIVE SOLUTION FORMULA 3 AS-3",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "15-JUL-2013",
+  "active_ingredients": [
+    {
+      "name": "ADENINE",
+      "strength": "0.030",
+      "unit": "G"
+    },
+    {
+      "name": "DEXTROSE",
+      "strength": "1.10",
+      "unit": "G"
+    },
+    {
+      "name": "SODIUM CHLORIDE",
+      "strength": "0.410",
+      "unit": "G"
+    },
+    {
+      "name": "SODIUM CITRATE DIHYDRATE",
+      "strength": "0.588",
+      "unit": "G"
+    },
+    {
+      "name": "SODIUM PHOSPHATE MONOBASIC, MONOHYDRATE",
+      "strength": "0.276",
+      "unit": "G"
+    },
+    {
+      "name": "CITRIC ACID MONOHYDRATE",
+      "strength": "0.042",
+      "unit": "G"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "0-UNASSIGNED"
+  ],
+  "companies": [
+    "TERUMO BCT, INC."
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "BLOOD TRANSFUSION, AUXILIARY PRODUCTS"
+  ]
+}

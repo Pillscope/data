@@ -1,0 +1,33 @@
+{
+  "drug_code": "80854",
+  "din": "02323044",
+  "brand_name": "MULTI-PURPOSE SOLUTION",
+  "class": "Disinfectant",
+  "descriptor": "",
+  "last_update": "15-SEP-2017",
+  "active_ingredients": [
+    {
+      "name": "POLYAMINOPROPYL BIGUANIDE",
+      "strength": "0.0001",
+      "unit": "%"
+    },
+    {
+      "name": "DISODIUM EDETATE",
+      "strength": "0.10",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "DISINFECTANT (Contact Lens)"
+  ],
+  "companies": [
+    "BAUSCH & LOMB INC"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "ARTIFICIAL TEARS AND OTHER INDIFFERENT PREPARATIONS."
+  ]
+}

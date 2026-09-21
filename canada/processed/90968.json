@@ -1,0 +1,33 @@
+{
+  "drug_code": "90968",
+  "din": "02425017",
+  "brand_name": "RAN-CYPROTERONE/ETHINYL ESTRADIOL",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "10-JUN-2015",
+  "active_ingredients": [
+    {
+      "name": "CYPROTERONE ACETATE",
+      "strength": "2.0",
+      "unit": "MG"
+    },
+    {
+      "name": "ETHINYL ESTRADIOL",
+      "strength": "0.035",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "RANBAXY PHARMACEUTICALS CANADA INC."
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "CYPROTERONE AND ESTROGEN"
+  ]
+}

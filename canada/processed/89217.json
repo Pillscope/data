@@ -1,0 +1,28 @@
+{
+  "drug_code": "89217",
+  "din": "02407485",
+  "brand_name": "TELMISARTAN TABLETS",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "18-JAN-2016",
+  "active_ingredients": [
+    {
+      "name": "TELMISARTAN",
+      "strength": "40",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "ACCORD HEALTHCARE INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "TELMISARTAN"
+  ]
+}

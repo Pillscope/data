@@ -1,0 +1,34 @@
+{
+  "drug_code": "87575",
+  "din": "02390302",
+  "brand_name": "TELMISARTAN HCTZ",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "17-APR-2018",
+  "active_ingredients": [
+    {
+      "name": "TELMISARTAN (TELMISARTAN SODIUM)",
+      "strength": "80",
+      "unit": "MG"
+    },
+    {
+      "name": "HYDROCHLOROTHIAZIDE",
+      "strength": "12.5",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "SIVEM PHARMACEUTICALS ULC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "TELMISARTAN AND DIURETICS",
+    "TELMISARTAN AND DIURETICS"
+  ]
+}

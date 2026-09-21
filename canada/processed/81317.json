@@ -1,0 +1,51 @@
+{
+  "drug_code": "81317",
+  "din": "02327767",
+  "brand_name": "ALL-TRACE FOR CATTLE",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "17-MAY-2011",
+  "active_ingredients": [
+    {
+      "name": "IODINE (CALCIUM IODATE)",
+      "strength": "505",
+      "unit": "MG"
+    },
+    {
+      "name": "COBALT (COBALT CARBONATE (BASIC))",
+      "strength": "235",
+      "unit": "MG"
+    },
+    {
+      "name": "COPPER (COPPER OXIDE)",
+      "strength": "16187",
+      "unit": "MG"
+    },
+    {
+      "name": "MANGANESE (MANGANESE SULFATE)",
+      "strength": "8768",
+      "unit": "MG"
+    },
+    {
+      "name": "ZINC (ZINC OXIDE, ZINC SULFATE)",
+      "strength": "13326",
+      "unit": "MG"
+    },
+    {
+      "name": "SELENIUM (SODIUM SELENITE)",
+      "strength": "247",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "BOLUS"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "AGRIMIN LTD"
+  ],
+  "status": "APPROVED",
+  "atc": []
+}

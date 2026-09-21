@@ -1,0 +1,28 @@
+{
+  "drug_code": "90148",
+  "din": "02416875",
+  "brand_name": "SCRUBBING BUBBLES BATHROOM CLEANER DISINFECTANT",
+  "class": "Disinfectant",
+  "descriptor": "",
+  "last_update": "18-SEP-2015",
+  "active_ingredients": [
+    {
+      "name": "LACTIC ACID",
+      "strength": "1.77",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "LIQUID"
+  ],
+  "routes": [
+    "DISINFECTANT (Domestic)"
+  ],
+  "companies": [
+    "S.C. JOHNSON AND SON LTD"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "TECHNICAL DISINFECTANTS"
+  ]
+}

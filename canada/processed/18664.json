@@ -1,0 +1,28 @@
+{
+  "drug_code": "18664",
+  "din": "00786063",
+  "brand_name": "JAA PYRAL S SUSPENSION 50MG/76",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "10-MAY-2016",
+  "active_ingredients": [
+    {
+      "name": "PYRANTEL (PYRANTEL PAMOATE)",
+      "strength": "50",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SUSPENSION"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "JAAPHARM CANADA INC."
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "PYRANTEL"
+  ]
+}

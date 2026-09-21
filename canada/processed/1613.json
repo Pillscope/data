@@ -1,0 +1,61 @@
+{
+  "drug_code": "1613",
+  "din": "00260061",
+  "brand_name": "SULFALITE SUPER",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "17-JAN-2018",
+  "active_ingredients": [
+    {
+      "name": "NICOTINAMIDE",
+      "strength": "400",
+      "unit": "MG"
+    },
+    {
+      "name": "VITAMIN D3",
+      "strength": "140000",
+      "unit": "UNIT"
+    },
+    {
+      "name": "ETHYLENEDIAMINE DIHYDROIODIDE",
+      "strength": "75",
+      "unit": "G"
+    },
+    {
+      "name": "SULFATHIAZOLE SODIUM",
+      "strength": "180",
+      "unit": "G"
+    },
+    {
+      "name": "VITAMIN B2",
+      "strength": "300",
+      "unit": "MG"
+    },
+    {
+      "name": "VITAMIN A",
+      "strength": "400000",
+      "unit": "UNIT"
+    },
+    {
+      "name": "SULFAMETHAZINE SODIUM",
+      "strength": "20",
+      "unit": "G"
+    },
+    {
+      "name": "VITAMIN B12",
+      "strength": "4",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "POWDER FOR SOLUTION"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "DOMINION VETERINARY LABORATORIES LTD."
+  ],
+  "status": "MARKETED",
+  "atc": []
+}

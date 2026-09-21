@@ -1,0 +1,28 @@
+{
+  "drug_code": "91283",
+  "din": "02428393",
+  "brand_name": "SODIUM THIOSULFATE INJECTION USP",
+  "class": "Human",
+  "descriptor": "SINGLE-USE VIAL",
+  "last_update": "11-JAN-2018",
+  "active_ingredients": [
+    {
+      "name": "SODIUM THIOSULFATE",
+      "strength": "250",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "HOPE PHARMACEUTICALS LTD"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "THIOSULPHATE"
+  ]
+}

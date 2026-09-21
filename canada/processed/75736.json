@@ -1,0 +1,28 @@
+{
+  "drug_code": "75736",
+  "din": "02271842",
+  "brand_name": "LEVEMIR PENFILL",
+  "class": "Human",
+  "descriptor": "3 ML CARTRIDGE",
+  "last_update": "05-AUG-2015",
+  "active_ingredients": [
+    {
+      "name": "INSULIN DETEMIR",
+      "strength": "100",
+      "unit": "UNIT"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "SUBCUTANEOUS"
+  ],
+  "companies": [
+    "NOVO NORDISK CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "INSULIN DETEMIR"
+  ]
+}

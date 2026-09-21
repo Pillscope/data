@@ -1,0 +1,28 @@
+{
+  "drug_code": "91911",
+  "din": "02434814",
+  "brand_name": "JAKAVI",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "24-APR-2015",
+  "active_ingredients": [
+    {
+      "name": "Ruxolitinib (Ruxolitinib Phosphate)",
+      "strength": "10",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "NOVARTIS PHARMACEUTICALS CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "RUXOLITINIB"
+  ]
+}

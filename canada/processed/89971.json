@@ -1,0 +1,29 @@
+{
+  "drug_code": "89971",
+  "din": "02415089",
+  "brand_name": "HUMULIN R (KWIKPEN)",
+  "class": "Human",
+  "descriptor": "3ML PREFILLED PEN",
+  "last_update": "08-JAN-2016",
+  "active_ingredients": [
+    {
+      "name": "INSULIN BIOSYNTHETIC HUMAN BR",
+      "strength": "100",
+      "unit": "UNIT"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "INTRAMUSCULAR",
+    "SUBCUTANEOUS"
+  ],
+  "companies": [
+    "ELI LILLY CANADA INC"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "INSULIN (HUMAN)"
+  ]
+}

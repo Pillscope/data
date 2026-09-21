@@ -1,0 +1,28 @@
+{
+  "drug_code": "13723",
+  "din": "02018985",
+  "brand_name": "PROZAC CAPSULES 10MG",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "02-OCT-2010",
+  "active_ingredients": [
+    {
+      "name": "FLUOXETINE (FLUOXETINE HYDROCHLORIDE)",
+      "strength": "10",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "CAPSULE"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "ELI LILLY CANADA INC"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "FLUOXETINE"
+  ]
+}

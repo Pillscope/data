@@ -1,0 +1,28 @@
+{
+  "drug_code": "68166",
+  "din": "02244203",
+  "brand_name": "SLEEP AID LIQUID FASTGELS",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "09-JUL-2013",
+  "active_ingredients": [
+    {
+      "name": "DIPHENHYDRAMINE HYDROCHLORIDE",
+      "strength": "50",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "CAPSULE"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "VITA HEALTH PRODUCTS INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "DIPHENHYDRAMINE"
+  ]
+}

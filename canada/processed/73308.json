@@ -1,0 +1,33 @@
+{
+  "drug_code": "73308",
+  "din": "02248933",
+  "brand_name": "LIP BALM SPF 20",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "22-MAY-2015",
+  "active_ingredients": [
+    {
+      "name": "OXYBENZONE",
+      "strength": "4.5",
+      "unit": "%"
+    },
+    {
+      "name": "OCTINOXATE",
+      "strength": "7.3",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "SUSPENSION"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "EMPACK SPRAYTECH INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "COMBINATIONS OF PROTECTIVES AGAINST UV-RADIATION"
+  ]
+}

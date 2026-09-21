@@ -1,0 +1,28 @@
+{
+  "drug_code": "77192",
+  "din": "02286467",
+  "brand_name": "REVITAL-OX RESERT HIGH LEVEL DISINFECTANT - CHEMOSTERILANT",
+  "class": "Disinfectant",
+  "descriptor": "",
+  "last_update": "23-JAN-2015",
+  "active_ingredients": [
+    {
+      "name": "HYDROGEN PEROXIDE",
+      "strength": "2",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "LIQUID"
+  ],
+  "routes": [
+    "DISINFECTANT (Medical Instruments)"
+  ],
+  "companies": [
+    "STERIS CORPORATION"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "TECHNICAL DISINFECTANTS"
+  ]
+}

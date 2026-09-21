@@ -1,0 +1,28 @@
+{
+  "drug_code": "76475",
+  "din": "02279215",
+  "brand_name": "APO-RALOXIFENE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "10-AUG-2009",
+  "active_ingredients": [
+    {
+      "name": "RALOXIFENE HYDROCHLORIDE",
+      "strength": "60",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "APOTEX INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "RALOXIFENE"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "drug_code": "81743",
+  "din": "02331748",
+  "brand_name": "CO VALACYCLOVIR",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "19-AUG-2010",
+  "active_ingredients": [
+    {
+      "name": "VALACYCLOVIR (VALACYCLOVIR HYDROCHLORIDE)",
+      "strength": "500",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "COBALT PHARMACEUTICALS COMPANY"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "VALACICLOVIR"
+  ]
+}

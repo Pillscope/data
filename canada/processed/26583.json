@@ -1,0 +1,26 @@
+{
+  "drug_code": "26583",
+  "din": "02029693",
+  "brand_name": "VITMED K3",
+  "class": "Veterinary",
+  "descriptor": "SOLUBLE POWDER",
+  "last_update": "29-APR-2015",
+  "active_ingredients": [
+    {
+      "name": "MENADIONE SODIUM BISULFITE",
+      "strength": "2.5",
+      "unit": "G"
+    }
+  ],
+  "forms": [
+    "POWDER FOR SOLUTION"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "BIO AGRI MIX LP"
+  ],
+  "status": "APPROVED",
+  "atc": []
+}

@@ -1,0 +1,28 @@
+{
+  "drug_code": "27903",
+  "din": "02072955",
+  "brand_name": "SOLUPREP LD SPONGE",
+  "class": "Human",
+  "descriptor": "(SOLUTION)",
+  "last_update": "24-JUL-2017",
+  "active_ingredients": [
+    {
+      "name": "CHLORHEXIDINE GLUCONATE",
+      "strength": "0.05",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "SPONGE"
+  ],
+  "routes": [
+    "TOPICAL (HOSPITAL/HC FACILITIES)"
+  ],
+  "companies": [
+    "3M CANADA COMPANY"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "CHLORHEXIDINE"
+  ]
+}

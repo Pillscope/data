@@ -1,0 +1,43 @@
+{
+  "drug_code": "92041",
+  "din": "02436086",
+  "brand_name": "VISINE FOR RED EYE WORKPLACE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "16-JUN-2016",
+  "active_ingredients": [
+    {
+      "name": "TETRAHYDROZOLINE HYDROCHLORIDE",
+      "strength": "0.05",
+      "unit": "%"
+    },
+    {
+      "name": "DEXTRAN 70",
+      "strength": "0.1",
+      "unit": "%"
+    },
+    {
+      "name": "POLYETHYLENE GLYCOL 400",
+      "strength": "1",
+      "unit": "%"
+    },
+    {
+      "name": "POVIDONE",
+      "strength": "1",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "DROPS"
+  ],
+  "routes": [
+    "OPHTHALMIC"
+  ],
+  "companies": [
+    "JOHNSON & JOHNSON INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "TETRYZOLINE, COMBINATIONS"
+  ]
+}

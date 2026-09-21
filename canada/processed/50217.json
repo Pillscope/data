@@ -1,0 +1,33 @@
+{
+  "drug_code": "50217",
+  "din": "02230939",
+  "brand_name": "BUCKLEY'S NIGHT TIME MIXTURE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "11-JUL-2012",
+  "active_ingredients": [
+    {
+      "name": "MENTHOL",
+      "strength": "22",
+      "unit": "MG"
+    },
+    {
+      "name": "DIPHENHYDRAMINE HYDROCHLORIDE",
+      "strength": "12.5",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SYRUP"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "THE BUCKLEY'S COMPANY"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "DIPHENHYDRAMINE, COMBINATIONS"
+  ]
+}

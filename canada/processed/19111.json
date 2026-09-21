@@ -1,0 +1,33 @@
+{
+  "drug_code": "19111",
+  "din": "02160617",
+  "brand_name": "SUPER ZONE",
+  "class": "Disinfectant",
+  "descriptor": "",
+  "last_update": "29-SEP-2010",
+  "active_ingredients": [
+    {
+      "name": "ALKYL C9-C15 TOLYL METHYL TRIMETHYL AMMONIUM CHLORI",
+      "strength": "4",
+      "unit": "%"
+    },
+    {
+      "name": "METHYL DODECYL BENZYL TRIMETHYL AMMONIUM CHLORIDE",
+      "strength": "16",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "LIQUID"
+  ],
+  "routes": [
+    "DISINFECTANT (Food Premises)"
+  ],
+  "companies": [
+    "DOMINION VETERINARY LABORATORIES LTD."
+  ],
+  "status": "MARKETED",
+  "atc": [
+    ""
+  ]
+}

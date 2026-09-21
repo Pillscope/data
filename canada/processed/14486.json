@@ -1,0 +1,28 @@
+{
+  "drug_code": "14486",
+  "din": "00813095",
+  "brand_name": "EXPECTORANT COUGH FORMULA SYR 100MG/5ML",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "10-MAY-2016",
+  "active_ingredients": [
+    {
+      "name": "GUAIFENESIN",
+      "strength": "100",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SYRUP"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "TANTA PHARMACEUTICALS INC"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "GUAIFENESIN"
+  ]
+}

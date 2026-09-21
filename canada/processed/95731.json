@@ -1,0 +1,28 @@
+{
+  "drug_code": "95731",
+  "din": "02468786",
+  "brand_name": "MINT-HYDRALAZINE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "26-MAR-2018",
+  "active_ingredients": [
+    {
+      "name": "HYDRALAZINE HYDROCHLORIDE",
+      "strength": "25",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "MINT PHARMACEUTICALS INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "HYDRALAZINE"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "drug_code": "12839",
+  "din": "01946323",
+  "brand_name": "APO-ZIDOVUDINE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "07-OCT-2014",
+  "active_ingredients": [
+    {
+      "name": "ZIDOVUDINE",
+      "strength": "100",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "CAPSULE"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "APOTEX INC"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "ZIDOVUDINE"
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "drug_code": "94866",
+  "din": "02461161",
+  "brand_name": "INDEFENSE30",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "01-JUN-2017",
+  "active_ingredients": [
+    {
+      "name": "ZINC OXIDE",
+      "strength": "7",
+      "unit": "%"
+    },
+    {
+      "name": "OCTINOXATE",
+      "strength": "7.5",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "CREAM"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "INDEED LABORATORIES INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "COMBINATIONS OF PROTECTIVES AGAINST UV-RADIATION"
+  ]
+}

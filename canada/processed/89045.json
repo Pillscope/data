@@ -1,0 +1,28 @@
+{
+  "drug_code": "89045",
+  "din": "02405687",
+  "brand_name": "JAMP-SILDENAFIL",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "16-DEC-2014",
+  "active_ingredients": [
+    {
+      "name": "SILDENAFIL (SILDENAFIL CITRATE)",
+      "strength": "100.0",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "JAMP PHARMA CORPORATION"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "SILDENAFIL"
+  ]
+}

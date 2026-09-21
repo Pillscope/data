@@ -1,0 +1,28 @@
+{
+  "drug_code": "5721",
+  "din": "00583979",
+  "brand_name": "PMS-PROMETHAZINE SYR 10MG/5ML",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "10-MAY-2016",
+  "active_ingredients": [
+    {
+      "name": "PROMETHAZINE HYDROCHLORIDE",
+      "strength": "10",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SYRUP"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "PHARMASCIENCE INC"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "PROMETHAZINE"
+  ]
+}

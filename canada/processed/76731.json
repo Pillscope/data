@@ -1,0 +1,28 @@
+{
+  "drug_code": "76731",
+  "din": "02281643",
+  "brand_name": "DOM-SIMVASTATIN",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "21-AUG-2006",
+  "active_ingredients": [
+    {
+      "name": "SIMVASTATIN",
+      "strength": "40",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "DOMINION PHARMACAL"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "SIMVASTATIN"
+  ]
+}

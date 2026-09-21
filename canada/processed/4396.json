@@ -1,0 +1,26 @@
+{
+  "drug_code": "4396",
+  "din": "00540625",
+  "brand_name": "IRON DEXTRAN",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "29-APR-2015",
+  "active_ingredients": [
+    {
+      "name": "IRON (IRON DEXTRAN COMPLEX)",
+      "strength": "100",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "INTRAMUSCULAR"
+  ],
+  "companies": [
+    "REMEDY ANIMAL HEALTH PRODUCTS LTD"
+  ],
+  "status": "APPROVED",
+  "atc": []
+}

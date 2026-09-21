@@ -1,0 +1,28 @@
+{
+  "drug_code": "89983",
+  "din": "02415216",
+  "brand_name": "MEROPENEM FOR INJECTION",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "29-MAR-2016",
+  "active_ingredients": [
+    {
+      "name": "MEROPENEM",
+      "strength": "500",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "POWDER FOR SOLUTION"
+  ],
+  "routes": [
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "FRESENIUS KABI CANADA LTD"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "MEROPENEM"
+  ]
+}

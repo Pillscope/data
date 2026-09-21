@@ -1,0 +1,29 @@
+{
+  "drug_code": "15481",
+  "din": "01999869",
+  "brand_name": "KENALOG-40 INJECTION 40MG/ML",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "11-JAN-2011",
+  "active_ingredients": [
+    {
+      "name": "TRIAMCINOLONE ACETONIDE",
+      "strength": "40",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SUSPENSION"
+  ],
+  "routes": [
+    "INTRA-ARTICULAR",
+    "INTRAMUSCULAR"
+  ],
+  "companies": [
+    "BRISTOL-MYERS SQUIBB CANADA"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "TRIAMCINOLONE"
+  ]
+}

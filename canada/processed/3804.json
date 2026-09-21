@@ -1,0 +1,28 @@
+{
+  "drug_code": "3804",
+  "din": "00479934",
+  "brand_name": "SCANDONEST 3% PLAIN INJ",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "03-SEP-2009",
+  "active_ingredients": [
+    {
+      "name": "MEPIVACAINE HYDROCHLORIDE",
+      "strength": "30",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "LIQUID"
+  ],
+  "routes": [
+    "BLOCK/INFILTRATION"
+  ],
+  "companies": [
+    "SEPTODONT"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "MEPIVACAINE"
+  ]
+}

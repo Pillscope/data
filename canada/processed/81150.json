@@ -1,0 +1,43 @@
+{
+  "drug_code": "81150",
+  "din": "02326167",
+  "brand_name": "ARTISS",
+  "class": "Human",
+  "descriptor": "FROZEN(SYNTHETIC APROTININ),SLOW SET(4IU)-PRE-FILLED DOUBLE-CHAMBERED SYRINGE OF SEALER PROTEIN-APROTININ SOLN AND THROMBIN-CALCIUM CHLORIDE SOLN",
+  "last_update": "12-JAN-2018",
+  "active_ingredients": [
+    {
+      "name": "THROMBIN (HUMAN)",
+      "strength": "4",
+      "unit": "UNIT"
+    },
+    {
+      "name": "CALCIUM CHLORIDE",
+      "strength": "40",
+      "unit": "MCMOL"
+    },
+    {
+      "name": "APROTININ (SYNTHETIC)",
+      "strength": "3000",
+      "unit": "KIU"
+    },
+    {
+      "name": "SEALER PROTEIN (HUMAN)",
+      "strength": "125",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "BAXTER CORPORATION"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "COMBINATIONS"
+  ]
+}

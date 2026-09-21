@@ -1,0 +1,26 @@
+{
+  "drug_code": "18789",
+  "din": "02010054",
+  "brand_name": "TETRA 4000",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "10-JAN-2018",
+  "active_ingredients": [
+    {
+      "name": "TETRACYCLINE HYDROCHLORIDE",
+      "strength": "4",
+      "unit": "G"
+    }
+  ],
+  "forms": [
+    "BOLUS"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "JAAPHARM CANADA INC."
+  ],
+  "status": "MARKETED",
+  "atc": []
+}

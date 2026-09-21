@@ -1,0 +1,28 @@
+{
+  "drug_code": "93130",
+  "din": "02446030",
+  "brand_name": "VIM POWER & SHINE ANTI-BACTERIAL MULTI-PURPOSE CLEANER",
+  "class": "Disinfectant",
+  "descriptor": "LIQUID",
+  "last_update": "19-FEB-2016",
+  "active_ingredients": [
+    {
+      "name": "BENZALKONIUM CHLORIDE",
+      "strength": "0.75",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "SPRAY"
+  ],
+  "routes": [
+    "DISINFECTANT (Domestic)"
+  ],
+  "companies": [
+    "UNILEVER CANADA"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "TECHNICAL DISINFECTANTS"
+  ]
+}

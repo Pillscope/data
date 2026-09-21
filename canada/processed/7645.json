@@ -1,0 +1,28 @@
+{
+  "drug_code": "7645",
+  "din": "00727369",
+  "brand_name": "ESTRAGYN VAGINAL CREAM",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "11-MAY-2017",
+  "active_ingredients": [
+    {
+      "name": "ESTRONE",
+      "strength": "0.1",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "CREAM"
+  ],
+  "routes": [
+    "VAGINAL"
+  ],
+  "companies": [
+    "SEARCHLIGHT PHARMA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "ESTRONE"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "drug_code": "158",
+  "din": "00010200",
+  "brand_name": "PROPYL-THYRACIL",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "11-AUG-2010",
+  "active_ingredients": [
+    {
+      "name": "PROPYLTHIOURACIL",
+      "strength": "50",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "PALADIN LABS INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "PROPYLTHIOURACIL"
+  ]
+}

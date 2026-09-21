@@ -1,0 +1,28 @@
+{
+  "drug_code": "76283",
+  "din": "02277182",
+  "brand_name": "BIPHENTIN",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "08-NOV-2013",
+  "active_ingredients": [
+    {
+      "name": "METHYLPHENIDATE HYDROCHLORIDE",
+      "strength": "40",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "CAPSULE (EXTENDED RELEASE)"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "PURDUE PHARMA"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "METHYLPHENIDATE"
+  ]
+}

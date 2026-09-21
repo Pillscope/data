@@ -1,0 +1,31 @@
+{
+  "drug_code": "20102",
+  "din": "02209098",
+  "brand_name": "LINCOMYCIN SPECTINOMYCIN 4.4% G PREMIX",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "04-JAN-2018",
+  "active_ingredients": [
+    {
+      "name": "SPECTINOMYCIN (SPECTINOMYCIN HYDROCHLORIDE)",
+      "strength": "22",
+      "unit": "G"
+    },
+    {
+      "name": "LINCOMYCIN (LINCOMYCIN HYDROCHLORIDE)",
+      "strength": "22",
+      "unit": "G"
+    }
+  ],
+  "forms": [
+    "DRUG PREMIX"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "BIO AGRI MIX LP"
+  ],
+  "status": "MARKETED",
+  "atc": []
+}

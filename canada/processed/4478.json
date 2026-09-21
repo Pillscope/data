@@ -1,0 +1,28 @@
+{
+  "drug_code": "4478",
+  "din": "00001937",
+  "brand_name": "XYLOCARD",
+  "class": "Human",
+  "descriptor": "SINGLE USE AMPOULE",
+  "last_update": "15-AUG-2017",
+  "active_ingredients": [
+    {
+      "name": "LIDOCAINE HYDROCHLORIDE",
+      "strength": "100",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "ASPEN PHARMACARE CANADA INC."
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "LIDOCAINE"
+  ]
+}

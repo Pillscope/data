@@ -1,0 +1,26 @@
+{
+  "drug_code": "5924",
+  "din": "00611891",
+  "brand_name": "IRON DEXTRAN INJ 100MG/ML",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "08-JUL-2004",
+  "active_ingredients": [
+    {
+      "name": "IRON (IRON DEXTRAN COMPLEX)",
+      "strength": "100",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "INTRAMUSCULAR"
+  ],
+  "companies": [
+    "DOMINION VETERINARY LABORATORIES LTD."
+  ],
+  "status": "MARKETED",
+  "atc": []
+}

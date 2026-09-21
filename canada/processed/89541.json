@@ -1,0 +1,28 @@
+{
+  "drug_code": "89541",
+  "din": "02410745",
+  "brand_name": "LORAZEPAM SUBLINGUAL",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "17-JAN-2018",
+  "active_ingredients": [
+    {
+      "name": "LORAZEPAM",
+      "strength": "0.5",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "SUBLINGUAL"
+  ],
+  "companies": [
+    "AA PHARMA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "LORAZEPAM"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "drug_code": "5069",
+  "din": "00572349",
+  "brand_name": "COLCHICINE TAB 0.6MG",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "09-JUL-2009",
+  "active_ingredients": [
+    {
+      "name": "COLCHICINE",
+      "strength": "0.6",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "ODAN LABORATORIES LTD"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "COLCHICINE"
+  ]
+}

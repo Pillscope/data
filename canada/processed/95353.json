@@ -1,0 +1,28 @@
+{
+  "drug_code": "95353",
+  "din": "02465337",
+  "brand_name": "ISENTRESS HD",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "15-SEP-2017",
+  "active_ingredients": [
+    {
+      "name": "RALTEGRAVIR (RALTEGRAVIR POTASSIUM)",
+      "strength": "600",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "MERCK CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "RALTEGRAVIR"
+  ]
+}

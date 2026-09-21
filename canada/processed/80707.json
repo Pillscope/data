@@ -1,0 +1,33 @@
+{
+  "drug_code": "80707",
+  "din": "02321688",
+  "brand_name": "MINT GLAZE FX",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "29-APR-2011",
+  "active_ingredients": [
+    {
+      "name": "OXYBENZONE",
+      "strength": "2.5",
+      "unit": "%"
+    },
+    {
+      "name": "OCTINOXATE",
+      "strength": "7.5",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "LIQUID"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "COVER FX SKINCARE INC"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "COMBINATIONS OF PROTECTIVES AGAINST UV-RADIATION"
+  ]
+}

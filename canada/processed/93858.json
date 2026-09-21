@@ -1,0 +1,27 @@
+{
+  "drug_code": "93858",
+  "din": "02452146",
+  "brand_name": "RHEUMOCAM INJECTION",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "26-JAN-2017",
+  "active_ingredients": [
+    {
+      "name": "MELOXICAM",
+      "strength": "20",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "INTRAVENOUS",
+    "SUBCUTANEOUS"
+  ],
+  "companies": [
+    "CHANELLE PHARMACEUTICALS MANUFACTURING LIMITED"
+  ],
+  "status": "APPROVED",
+  "atc": []
+}

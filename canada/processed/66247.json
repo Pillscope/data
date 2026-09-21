@@ -1,0 +1,28 @@
+{
+  "drug_code": "66247",
+  "din": "02242504",
+  "brand_name": "BUTORPHANOL NASAL SPRAY",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "26-JUL-2016",
+  "active_ingredients": [
+    {
+      "name": "BUTORPHANOL TARTRATE",
+      "strength": "10",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "NASAL"
+  ],
+  "companies": [
+    "AA PHARMA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "BUTORPHANOL"
+  ]
+}

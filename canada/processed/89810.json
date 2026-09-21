@@ -1,0 +1,28 @@
+{
+  "drug_code": "89810",
+  "din": "02413450",
+  "brand_name": "FLUOROURACIL INJECTION USP",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "19-JUN-2017",
+  "active_ingredients": [
+    {
+      "name": "FLUOROURACIL",
+      "strength": "5",
+      "unit": "G"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "ACCORD HEALTHCARE INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "FLUOROURACIL"
+  ]
+}

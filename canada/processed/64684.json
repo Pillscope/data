@@ -1,0 +1,28 @@
+{
+  "drug_code": "64684",
+  "din": "02241089",
+  "brand_name": "GADOVIST 1.0",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "28-AUG-2008",
+  "active_ingredients": [
+    {
+      "name": "GADOBUTROL",
+      "strength": "604.72",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "BAYER INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "GADOBUTROL"
+  ]
+}

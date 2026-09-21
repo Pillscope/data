@@ -1,0 +1,26 @@
+{
+  "drug_code": "78042",
+  "din": "02295091",
+  "brand_name": "OPTAFLEXX 100",
+  "class": "Veterinary",
+  "descriptor": "RACTOPAMINE HYDROCHLORIDE PREMIX",
+  "last_update": "01-DEC-2017",
+  "active_ingredients": [
+    {
+      "name": "RACTOPAMINE HYDROCHLORIDE",
+      "strength": "100",
+      "unit": "G"
+    }
+  ],
+  "forms": [
+    "DRUG PREMIX"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "ELANCO CANADA LIMITED"
+  ],
+  "status": "APPROVED",
+  "atc": []
+}

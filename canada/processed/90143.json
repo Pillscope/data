@@ -1,0 +1,28 @@
+{
+  "drug_code": "90143",
+  "din": "02416824",
+  "brand_name": "SANDOZ TACROLIMUS",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "06-JUN-2014",
+  "active_ingredients": [
+    {
+      "name": "TACROLIMUS (Tacrolimus Monohydrate)",
+      "strength": "1",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "CAPSULE (IMMEDIATE RELEASE)"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "SANDOZ CANADA INCORPORATED"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "TACROLIMUS"
+  ]
+}

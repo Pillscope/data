@@ -1,0 +1,33 @@
+{
+  "drug_code": "16228",
+  "din": "02060329",
+  "brand_name": "MICROBAN HOSPITAL SPRAY",
+  "class": "Disinfectant",
+  "descriptor": "",
+  "last_update": "29-APR-2015",
+  "active_ingredients": [
+    {
+      "name": "BROMINE-PHENOL-BENZETHONIUM CHLORIDE COMPLEX",
+      "strength": "0.852",
+      "unit": "%"
+    },
+    {
+      "name": "ISOPROPYL ALCOHOL",
+      "strength": "5.0",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "SPRAY"
+  ],
+  "routes": [
+    "DISINFECTANT (Hospital/HC Facilities)"
+  ],
+  "companies": [
+    "PRORESTORE PRODUCTS"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "TECHNICAL DISINFECTANTS"
+  ]
+}

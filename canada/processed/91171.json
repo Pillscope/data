@@ -1,0 +1,28 @@
+{
+  "drug_code": "91171",
+  "din": "02427184",
+  "brand_name": "VIMIZIM",
+  "class": "Human",
+  "descriptor": "5MG/5ML. SINGLE-USE VIAL",
+  "last_update": "16-DEC-2015",
+  "active_ingredients": [
+    {
+      "name": "Elosulfase Alfa",
+      "strength": "1",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "BIOMARIN INTERNATIONAL LIMITED"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "ELOSULFASE ALFA"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "drug_code": "89756",
+  "din": "02412853",
+  "brand_name": "BIO-DONEPEZIL",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "30-JAN-2017",
+  "active_ingredients": [
+    {
+      "name": "DONEPEZIL HYDROCHLORIDE",
+      "strength": "5",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "BIOMED PHARMA"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "DONEPEZIL"
+  ]
+}

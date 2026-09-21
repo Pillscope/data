@@ -1,0 +1,28 @@
+{
+  "drug_code": "94757",
+  "din": "02460289",
+  "brand_name": "MICTORYL PEDIATRIC",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "02-JUN-2017",
+  "active_ingredients": [
+    {
+      "name": "PROPIVERINE HYDROCHLORIDE",
+      "strength": "5",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "DUCHESNAY INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "PROPIVERINE"
+  ]
+}

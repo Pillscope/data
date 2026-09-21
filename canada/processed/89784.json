@@ -1,0 +1,28 @@
+{
+  "drug_code": "89784",
+  "din": "02413167",
+  "brand_name": "SANDOZ TRAVOPROST",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "28-AUG-2014",
+  "active_ingredients": [
+    {
+      "name": "TRAVOPROST",
+      "strength": "0.004",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "OPHTHALMIC"
+  ],
+  "companies": [
+    "SANDOZ CANADA INCORPORATED"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "TRAVOPROST"
+  ]
+}

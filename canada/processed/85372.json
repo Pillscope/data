@@ -1,0 +1,53 @@
+{
+  "drug_code": "85372",
+  "din": "02368730",
+  "brand_name": "PHYSIONEAL 40 GLUCOSE 1.36% W/V 13.6MG/ML CLEAR-FLEX",
+  "class": "Human",
+  "descriptor": "FOR PERITONEAL DIALYSIS",
+  "last_update": "26-FEB-2015",
+  "active_ingredients": [
+    {
+      "name": "SODIUM BICARBONATE",
+      "strength": "9.29",
+      "unit": "G"
+    },
+    {
+      "name": "SODIUM CHLORIDE",
+      "strength": "19.95",
+      "unit": "G"
+    },
+    {
+      "name": "DEXTROSE",
+      "strength": "18.2",
+      "unit": "G"
+    },
+    {
+      "name": "MAGNESIUM CHLORIDE",
+      "strength": "0.068",
+      "unit": "G"
+    },
+    {
+      "name": "CALCIUM CHLORIDE",
+      "strength": "0.245",
+      "unit": "G"
+    },
+    {
+      "name": "SODIUM LACTATE",
+      "strength": "6.73",
+      "unit": "G"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "DIALYSIS"
+  ],
+  "companies": [
+    "BAXTER CORPORATION"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "HEMODIALYTICS, CONCENTRATES"
+  ]
+}

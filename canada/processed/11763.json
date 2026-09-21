@@ -1,0 +1,28 @@
+{
+  "drug_code": "11763",
+  "din": "01942972",
+  "brand_name": "TEVA-CAPTOPRIL",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "29-APR-2015",
+  "active_ingredients": [
+    {
+      "name": "CAPTOPRIL",
+      "strength": "25",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "TEVA CANADA LIMITED"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "CAPTOPRIL"
+  ]
+}

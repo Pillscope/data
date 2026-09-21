@@ -1,0 +1,28 @@
+{
+  "drug_code": "50779",
+  "din": "02231462",
+  "brand_name": "ALLEGRA 12 HOUR",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "14-FEB-2018",
+  "active_ingredients": [
+    {
+      "name": "FEXOFENADINE HYDROCHLORIDE",
+      "strength": "60",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "SANOFI-AVENTIS CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "FEXOFENADINE"
+  ]
+}

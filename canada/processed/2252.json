@@ -1,0 +1,27 @@
+{
+  "drug_code": "2252",
+  "din": "00349119",
+  "brand_name": "DEXAMETHASONE 21 PHOSPHATE INJ 5MG/ML",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "20-SEP-2004",
+  "active_ingredients": [
+    {
+      "name": "DEXAMETHASONE PHOSPHATE",
+      "strength": "5",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "INTRAMUSCULAR",
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "DOMINION VETERINARY LABORATORIES LTD."
+  ],
+  "status": "MARKETED",
+  "atc": []
+}

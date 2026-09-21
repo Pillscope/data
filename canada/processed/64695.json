@@ -1,0 +1,31 @@
+{
+  "drug_code": "64695",
+  "din": "02241092",
+  "brand_name": "CANADIAN MEDICATED SHAMPOO",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "29-JUL-2009",
+  "active_ingredients": [
+    {
+      "name": "SALICYLIC ACID",
+      "strength": "2",
+      "unit": "%"
+    },
+    {
+      "name": "SULFUR (SODIUM THIOSULPHATE)",
+      "strength": "2",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "SHAMPOO"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "VETOQUINOL N A INC"
+  ],
+  "status": "APPROVED",
+  "atc": []
+}

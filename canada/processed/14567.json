@@ -1,0 +1,28 @@
+{
+  "drug_code": "14567",
+  "din": "02016095",
+  "brand_name": "PMS-LOPERAMIDE HYDROCHLORIDE SOLUTION.2MG/ML",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "10-MAY-2016",
+  "active_ingredients": [
+    {
+      "name": "LOPERAMIDE HYDROCHLORIDE",
+      "strength": "0.2",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "PHARMASCIENCE INC"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "LOPERAMIDE"
+  ]
+}

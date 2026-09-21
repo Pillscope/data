@@ -1,0 +1,28 @@
+{
+  "drug_code": "73352",
+  "din": "02248971",
+  "brand_name": "ZEP FOAM SAN",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "04-JUN-2009",
+  "active_ingredients": [
+    {
+      "name": "BENZETHONIUM CHLORIDE",
+      "strength": "0.2",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "LIQUID"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "ZEP MANUFACTURING COMPANY OF CANADA"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "BENZETHONIUM CHLORIDE"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "drug_code": "61971",
+  "din": "02238545",
+  "brand_name": "ASAPHEN E.C. 80 MG",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "25-JAN-2018",
+  "active_ingredients": [
+    {
+      "name": "ACETYLSALICYLIC ACID",
+      "strength": "80",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET (DELAYED-RELEASE)"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "PHARMASCIENCE INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "ACETYLSALICYLIC ACID"
+  ]
+}

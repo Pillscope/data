@@ -1,0 +1,43 @@
+{
+  "drug_code": "94609",
+  "din": "02458942",
+  "brand_name": "COOLA MAKEUP SETTING SPRAY GREEN TEA SCENT",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "14-AUG-2017",
+  "active_ingredients": [
+    {
+      "name": "AVOBENZONE",
+      "strength": "2.1",
+      "unit": "%"
+    },
+    {
+      "name": "OCTISALATE",
+      "strength": "2.8",
+      "unit": "%"
+    },
+    {
+      "name": "HOMOSALATE",
+      "strength": "3.5",
+      "unit": "%"
+    },
+    {
+      "name": "OCTINOXATE",
+      "strength": "3.5",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "SPRAY"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "COOLA LLC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "COMBINATIONS OF PROTECTIVES AGAINST UV-RADIATION"
+  ]
+}

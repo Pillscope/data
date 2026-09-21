@@ -1,0 +1,26 @@
+{
+  "drug_code": "92085",
+  "din": "02436515",
+  "brand_name": "LIGHT MINERAL OIL, NF",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "19-SEP-2017",
+  "active_ingredients": [
+    {
+      "name": "MINERAL OIL LIGHT",
+      "strength": "100",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "LIQUID"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "RAFTER 8 PRODUCTS INC"
+  ],
+  "status": "APPROVED",
+  "atc": []
+}

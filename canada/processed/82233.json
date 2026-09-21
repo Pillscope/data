@@ -1,0 +1,28 @@
+{
+  "drug_code": "82233",
+  "din": "02336707",
+  "brand_name": "VIDAZA",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "07-JAN-2010",
+  "active_ingredients": [
+    {
+      "name": "AZACITIDINE",
+      "strength": "100",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "POWDER FOR SUSPENSION"
+  ],
+  "routes": [
+    "SUBCUTANEOUS"
+  ],
+  "companies": [
+    "CELGENE INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "AZACITIDINE"
+  ]
+}

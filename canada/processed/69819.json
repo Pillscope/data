@@ -1,0 +1,26 @@
+{
+  "drug_code": "69819",
+  "din": "02245714",
+  "brand_name": "PROCILLIN",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "10-JAN-2018",
+  "active_ingredients": [
+    {
+      "name": "PENICILLIN G PROCAINE",
+      "strength": "300000",
+      "unit": "UNIT"
+    }
+  ],
+  "forms": [
+    "SUSPENSION"
+  ],
+  "routes": [
+    "INTRAMUSCULAR"
+  ],
+  "companies": [
+    "BIMEDA-MTC ANIMAL HEALTH INC"
+  ],
+  "status": "MARKETED",
+  "atc": []
+}

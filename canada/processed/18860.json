@@ -1,0 +1,28 @@
+{
+  "drug_code": "18860",
+  "din": "02148447",
+  "brand_name": "MINIMS PHENYLEPHRINE HYDROCHLORIDE 2.5%",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "11-AUG-2016",
+  "active_ingredients": [
+    {
+      "name": "PHENYLEPHRINE HYDROCHLORIDE",
+      "strength": "2.5",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "DROPS"
+  ],
+  "routes": [
+    "OPHTHALMIC"
+  ],
+  "companies": [
+    "VALEANT CANADA LP/VALEANT CANADA S.E.C."
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "PHENYLEPHRINE"
+  ]
+}

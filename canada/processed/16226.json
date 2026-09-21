@@ -1,0 +1,53 @@
+{
+  "drug_code": "16226",
+  "din": "02091100",
+  "brand_name": "MICRO PLUS 6   (PEDIATRIC)",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "05-MAY-2015",
+  "active_ingredients": [
+    {
+      "name": "IODINE (SODIUM IODIDE)",
+      "strength": "60",
+      "unit": "MCG"
+    },
+    {
+      "name": "COPPER (COPPER SULFATE)",
+      "strength": "0.4",
+      "unit": "MG"
+    },
+    {
+      "name": "CHROMIUM (CHROMIC CHLORIDE)",
+      "strength": "4",
+      "unit": "MCG"
+    },
+    {
+      "name": "MANGANESE (MANGANESE SULFATE)",
+      "strength": "0.1",
+      "unit": "MG"
+    },
+    {
+      "name": "ZINC (ZINC SULFATE)",
+      "strength": "3",
+      "unit": "MG"
+    },
+    {
+      "name": "SELENIUM (SELENIOUS ACID)",
+      "strength": "20",
+      "unit": "MCG"
+    }
+  ],
+  "forms": [
+    "LIQUID"
+  ],
+  "routes": [
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "SANDOZ CANADA INCORPORATED"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "ELECTROLYTES IN COMB WITH OTHER DRUGS"
+  ]
+}

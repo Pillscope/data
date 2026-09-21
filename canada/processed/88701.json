@@ -1,0 +1,35 @@
+{
+  "drug_code": "88701",
+  "din": "02402149",
+  "brand_name": "ACNE TREATMENT SYSTEM",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "04-OCT-2016",
+  "active_ingredients": [
+    {
+      "name": "SALICYLIC ACID",
+      "strength": "2",
+      "unit": "%"
+    },
+    {
+      "name": "BENZOYL PEROXIDE",
+      "strength": "5",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "KIT",
+    "LIQUID",
+    "LOTION"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "VIVIER CANADA INCORPORATED"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "BENZOYL PEROXIDE, COMBINATIONS"
+  ]
+}

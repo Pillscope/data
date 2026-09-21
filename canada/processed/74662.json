@@ -1,0 +1,33 @@
+{
+  "drug_code": "74662",
+  "din": "02261227",
+  "brand_name": "HUMATE-P",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "29-APR-2015",
+  "active_ingredients": [
+    {
+      "name": "ANTIHEMOPHILIC FACTOR (HUMAN)",
+      "strength": "600",
+      "unit": "UNIT"
+    },
+    {
+      "name": "VON WILLEBRAND FACTOR (HUMAN)",
+      "strength": "1680",
+      "unit": "UNIT"
+    }
+  ],
+  "forms": [
+    "POWDER FOR SOLUTION"
+  ],
+  "routes": [
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "CSL BEHRING CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "VON WILLEBRAND FACTOR AND COAG. FACT. VIII IN COMB"
+  ]
+}

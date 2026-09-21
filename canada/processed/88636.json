@@ -1,0 +1,28 @@
+{
+  "drug_code": "88636",
+  "din": "02401460",
+  "brand_name": "VINBLASTINE SULPHATE INJECTION",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "24-AUG-2015",
+  "active_ingredients": [
+    {
+      "name": "VINBLASTINE SULFATE",
+      "strength": "1",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "TEVA CANADA LIMITED"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "VINBLASTINE"
+  ]
+}

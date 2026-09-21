@@ -1,0 +1,39 @@
+{
+  "drug_code": "6844",
+  "din": "00690074",
+  "brand_name": "COUGH SYRUP",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "23-NOV-2017",
+  "active_ingredients": [
+    {
+      "name": "CODEINE PHOSPHATE",
+      "strength": "3.33",
+      "unit": "MG"
+    },
+    {
+      "name": "DIPHENHYDRAMINE HYDROCHLORIDE",
+      "strength": "12.5",
+      "unit": "MG"
+    },
+    {
+      "name": "AMMONIUM CHLORIDE",
+      "strength": "125",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SYRUP"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "TEVA CANADA LIMITED"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "OPIUM DERIVATIVES AND EXPECTORANTS",
+    "OPIUM DERIVATIVES AND EXPECTORANTS"
+  ]
+}

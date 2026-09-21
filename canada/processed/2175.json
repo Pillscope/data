@@ -1,0 +1,28 @@
+{
+  "drug_code": "2175",
+  "din": "00328693",
+  "brand_name": "PRE-PEN",
+  "class": "Human",
+  "descriptor": "0.25 ML AMPOULE",
+  "last_update": "11-JUL-2012",
+  "active_ingredients": [
+    {
+      "name": "BENZYLPENICILLOYL-POLYLYSINE",
+      "strength": "0.000060",
+      "unit": "M"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "INTRADERMAL"
+  ],
+  "companies": [
+    "ALK-ABELLO INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "OTHER DIAGNOSTIC AGENTS"
+  ]
+}

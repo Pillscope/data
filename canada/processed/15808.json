@@ -1,0 +1,56 @@
+{
+  "drug_code": "15808",
+  "din": "02031353",
+  "brand_name": "ENTEROLYTE",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "09-JAN-2018",
+  "active_ingredients": [
+    {
+      "name": "NEOMYCIN SULFATE",
+      "strength": "357",
+      "unit": "MG"
+    },
+    {
+      "name": "SULFAMETHAZINE",
+      "strength": "2",
+      "unit": "G"
+    },
+    {
+      "name": "SODIUM CHLORIDE",
+      "strength": "209",
+      "unit": "MG"
+    },
+    {
+      "name": "SODIUM ACETATE",
+      "strength": "229",
+      "unit": "MG"
+    },
+    {
+      "name": "MAGNESIUM CHLORIDE",
+      "strength": "11",
+      "unit": "MG"
+    },
+    {
+      "name": "CALCIUM CHLORIDE (CALCIUM CHLORIDE)",
+      "strength": "11",
+      "unit": "MG"
+    },
+    {
+      "name": "POTASSIUM ACETATE",
+      "strength": "63",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "BOLUS"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "BIMEDA-MTC ANIMAL HEALTH INC"
+  ],
+  "status": "APPROVED",
+  "atc": []
+}

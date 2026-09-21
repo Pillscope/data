@@ -1,0 +1,28 @@
+{
+  "drug_code": "87216",
+  "din": "02386585",
+  "brand_name": "BENZOYL PEROXIDE ACNE TREATMENT WASH 2.5%",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "20-JAN-2015",
+  "active_ingredients": [
+    {
+      "name": "BENZOYL PEROXIDE",
+      "strength": "2.5",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "JAN MARINI SKIN RESEARCH INC"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "BENZOYL PEROXIDE"
+  ]
+}

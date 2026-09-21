@@ -1,0 +1,28 @@
+{
+  "drug_code": "76363",
+  "din": "02278049",
+  "brand_name": "RIVA ZOPICLONE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "28-JUL-2015",
+  "active_ingredients": [
+    {
+      "name": "ZOPICLONE",
+      "strength": "7.5",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "LABORATOIRE RIVA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "ZOPICLONE"
+  ]
+}

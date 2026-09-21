@@ -1,0 +1,33 @@
+{
+  "drug_code": "79439",
+  "din": "02308770",
+  "brand_name": "EXACT LIP BALM REGULAR",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "26-MAY-2015",
+  "active_ingredients": [
+    {
+      "name": "PADIMATE O",
+      "strength": "6.6",
+      "unit": "%"
+    },
+    {
+      "name": "OXYBENZONE",
+      "strength": "2.5",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "STICK"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "EMPACK SPRAYTECH INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "COMBINATIONS OF PROTECTIVES AGAINST UV-RADIATION"
+  ]
+}

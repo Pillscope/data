@@ -1,0 +1,28 @@
+{
+  "drug_code": "17250",
+  "din": "02100622",
+  "brand_name": "SULCRATE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "05-SEP-2014",
+  "active_ingredients": [
+    {
+      "name": "SUCRALFATE",
+      "strength": "1",
+      "unit": "G"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "APTALIS PHARMA CANADA ULC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "SUCRALFATE"
+  ]
+}

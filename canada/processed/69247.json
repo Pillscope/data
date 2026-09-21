@@ -1,0 +1,28 @@
+{
+  "drug_code": "69247",
+  "din": "02245232",
+  "brand_name": "APO-CLINDAMYCIN",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "26-JUN-2008",
+  "active_ingredients": [
+    {
+      "name": "CLINDAMYCIN (CLINDAMYCIN HYDROCHLORIDE)",
+      "strength": "150",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "CAPSULE"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "APOTEX INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "CLINDAMYCIN"
+  ]
+}

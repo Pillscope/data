@@ -1,0 +1,28 @@
+{
+  "drug_code": "78871",
+  "din": "02303396",
+  "brand_name": "SANDOZ METOPROLOL SR",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "08-MAY-2008",
+  "active_ingredients": [
+    {
+      "name": "METOPROLOL TARTRATE",
+      "strength": "100",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET (EXTENDED-RELEASE)"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "SANDOZ CANADA INCORPORATED"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "METOPROLOL"
+  ]
+}

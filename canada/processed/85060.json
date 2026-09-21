@@ -1,0 +1,28 @@
+{
+  "drug_code": "85060",
+  "din": "02365723",
+  "brand_name": "X3 ON-THE-GO FIRST AID BURN RELIEF SPRAY",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "29-APR-2015",
+  "active_ingredients": [
+    {
+      "name": "LIDOCAINE HYDROCHLORIDE",
+      "strength": "0.5",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "SPRAY"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "NATURAL ESSENTIALS INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "LIDOCAINE"
+  ]
+}

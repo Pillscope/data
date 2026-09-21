@@ -1,0 +1,28 @@
+{
+  "drug_code": "10567",
+  "din": "00869961",
+  "brand_name": "MESTINON TAB 60MG USP",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "12-DEC-2005",
+  "active_ingredients": [
+    {
+      "name": "PYRIDOSTIGMINE BROMIDE",
+      "strength": "60",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "VALEANT CANADA LP/VALEANT CANADA S.E.C."
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "PYRIDOSTIGMINE"
+  ]
+}

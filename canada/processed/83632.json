@@ -1,0 +1,28 @@
+{
+  "drug_code": "83632",
+  "din": "02351110",
+  "brand_name": "FAMOTIDINE TABLETS",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "05-MAY-2015",
+  "active_ingredients": [
+    {
+      "name": "FAMOTIDINE",
+      "strength": "40",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "SANIS HEALTH INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "FAMOTIDINE"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "drug_code": "79925",
+  "din": "02313758",
+  "brand_name": "RAN-ATORVASTATIN",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "03-DEC-2012",
+  "active_ingredients": [
+    {
+      "name": "ATORVASTATIN (ATORVASTATIN CALCIUM)",
+      "strength": "80",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "RANBAXY PHARMACEUTICALS CANADA INC."
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "ATORVASTATIN"
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "drug_code": "2757",
+  "din": "00413674",
+  "brand_name": "ACTH INJ 40UNIT/ML",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "11-AUG-2017",
+  "active_ingredients": [
+    {
+      "name": "ACTH",
+      "strength": "40",
+      "unit": "UNIT"
+    }
+  ],
+  "forms": [
+    "LIQUID"
+  ],
+  "routes": [
+    "INTRAMUSCULAR",
+    "SUBCUTANEOUS"
+  ],
+  "companies": [
+    "DOMINION VETERINARY LABORATORIES LTD."
+  ],
+  "status": "MARKETED",
+  "atc": []
+}

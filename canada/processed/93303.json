@@ -1,0 +1,28 @@
+{
+  "drug_code": "93303",
+  "din": "02447444",
+  "brand_name": "ACETAMINOPHEN 500 MG TABLETS",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "25-OCT-2016",
+  "active_ingredients": [
+    {
+      "name": "ACETAMINOPHEN",
+      "strength": "500",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "PHARMETICS (2011) INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "ACETAMINOPHEN (PARACETAMOL)"
+  ]
+}

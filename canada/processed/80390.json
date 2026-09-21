@@ -1,0 +1,28 @@
+{
+  "drug_code": "80390",
+  "din": "02318415",
+  "brand_name": "ROCURONIUM BROMIDE INJECTION",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "05-NOV-2008",
+  "active_ingredients": [
+    {
+      "name": "ROCURONIUM BROMIDE",
+      "strength": "10",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "SANDOZ CANADA INCORPORATED"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "ROCURONIUM BROMIDE"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "drug_code": "44067",
+  "din": "02157217",
+  "brand_name": "ISOFLURANE USP",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "27-MAR-2000",
+  "active_ingredients": [
+    {
+      "name": "ISOFLURANE",
+      "strength": "100",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "LIQUID"
+  ],
+  "routes": [
+    "INHALATION"
+  ],
+  "companies": [
+    "BIMEDA-MTC ANIMAL HEALTH INC"
+  ],
+  "status": "APPROVED",
+  "atc": []
+}

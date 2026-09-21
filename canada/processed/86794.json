@@ -1,0 +1,28 @@
+{
+  "drug_code": "86794",
+  "din": "02382075",
+  "brand_name": "MYLAN-BUPROPION XL",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "21-OCT-2013",
+  "active_ingredients": [
+    {
+      "name": "BUPROPION HYDROCHLORIDE",
+      "strength": "150",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET (EXTENDED-RELEASE)"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "MYLAN PHARMACEUTICALS ULC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "BUPROPION"
+  ]
+}

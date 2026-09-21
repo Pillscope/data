@@ -1,0 +1,29 @@
+{
+  "drug_code": "10526",
+  "din": "00453811",
+  "brand_name": "HEPARIN LEO INJ 1000UNIT/ML",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "25-JUL-2005",
+  "active_ingredients": [
+    {
+      "name": "HEPARIN SODIUM",
+      "strength": "1000",
+      "unit": "UNIT"
+    }
+  ],
+  "forms": [
+    "LIQUID"
+  ],
+  "routes": [
+    "INTRAVENOUS",
+    "SUBCUTANEOUS"
+  ],
+  "companies": [
+    "LEO PHARMA INC"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "HEPARIN"
+  ]
+}

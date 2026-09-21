@@ -1,0 +1,43 @@
+{
+  "drug_code": "89933",
+  "din": "02414724",
+  "brand_name": "SELECTBAG ONE (AX050G)",
+  "class": "Human",
+  "descriptor": "SINGLE USE BAG",
+  "last_update": "19-JAN-2018",
+  "active_ingredients": [
+    {
+      "name": "ACETIC ACID",
+      "strength": "36",
+      "unit": "G"
+    },
+    {
+      "name": "DEXTROSE",
+      "strength": "220",
+      "unit": "G"
+    },
+    {
+      "name": "MAGNESIUM CHLORIDE",
+      "strength": "20.3",
+      "unit": "G"
+    },
+    {
+      "name": "CALCIUM CHLORIDE",
+      "strength": "44.1",
+      "unit": "G"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "DIALYSIS"
+  ],
+  "companies": [
+    "BAXTER CORPORATION"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "HEMODIALYTICS, CONCENTRATES"
+  ]
+}

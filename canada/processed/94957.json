@@ -1,0 +1,33 @@
+{
+  "drug_code": "94957",
+  "din": "02461838",
+  "brand_name": "BEAUTY BOOSTER LIP GLOSS SPF 15",
+  "class": "Human",
+  "descriptor": "GLOSS",
+  "last_update": "21-SEP-2017",
+  "active_ingredients": [
+    {
+      "name": "AVOBENZONE",
+      "strength": "2",
+      "unit": "%"
+    },
+    {
+      "name": "OCTINOXATE",
+      "strength": "7.5",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "CREAM"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "TRISH MCEVOY LTD"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "COMBINATIONS OF PROTECTIVES AGAINST UV-RADIATION"
+  ]
+}

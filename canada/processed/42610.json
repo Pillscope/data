@@ -1,0 +1,28 @@
+{
+  "drug_code": "42610",
+  "din": "02184680",
+  "brand_name": "EXOREX GEL 2",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "08-MAY-2015",
+  "active_ingredients": [
+    {
+      "name": "COAL TAR",
+      "strength": "2",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "EMULSION"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "LEDA HEALTH INNOVATIONS INC."
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "TARS"
+  ]
+}

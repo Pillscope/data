@@ -1,0 +1,28 @@
+{
+  "drug_code": "61146",
+  "din": "02237789",
+  "brand_name": "DORMIPHEN EXTRA-FORT COMPRIME",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "17-NOV-2017",
+  "active_ingredients": [
+    {
+      "name": "DIPHENHYDRAMINE HYDROCHLORIDE",
+      "strength": "50",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "LABORATOIRE LALCO INC."
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "DIPHENHYDRAMINE"
+  ]
+}

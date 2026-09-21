@@ -1,0 +1,28 @@
+{
+  "drug_code": "87297",
+  "din": "02387387",
+  "brand_name": "AURO-RAMIPRIL",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "24-MAY-2013",
+  "active_ingredients": [
+    {
+      "name": "RAMIPRIL",
+      "strength": "1.25",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "CAPSULE"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "AURO PHARMA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "RAMIPRIL"
+  ]
+}

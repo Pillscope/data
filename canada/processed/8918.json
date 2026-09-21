@@ -1,0 +1,29 @@
+{
+  "drug_code": "8918",
+  "din": "00755338",
+  "brand_name": "SOLYSTAT",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "11-MAR-2014",
+  "active_ingredients": [
+    {
+      "name": "SODIUM POLYSTYRENE SULFONATE",
+      "strength": "94.3",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "POWDER"
+  ],
+  "routes": [
+    "ORAL",
+    "RECTAL"
+  ],
+  "companies": [
+    "PENDOPHARM DIVISION OF DE PHARMASCIENCE INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "POLYSTYRENE SULPHONATE"
+  ]
+}

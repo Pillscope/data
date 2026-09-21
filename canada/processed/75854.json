@@ -1,0 +1,28 @@
+{
+  "drug_code": "75854",
+  "din": "02273047",
+  "brand_name": "PMS-TEMAZEPAM",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "22-NOV-2006",
+  "active_ingredients": [
+    {
+      "name": "TEMAZEPAM",
+      "strength": "30",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "CAPSULE"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "PHARMASCIENCE INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "TEMAZEPAM"
+  ]
+}

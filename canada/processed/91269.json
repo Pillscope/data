@@ -1,0 +1,28 @@
+{
+  "drug_code": "91269",
+  "din": "02428210",
+  "brand_name": "LAMOTRIGINE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "16-DEC-2014",
+  "active_ingredients": [
+    {
+      "name": "LAMOTRIGINE",
+      "strength": "100",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "SIVEM PHARMACEUTICALS ULC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "LAMOTRIGINE"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "drug_code": "79124",
+  "din": "02305682",
+  "brand_name": "ACT FAMCICLOVIR",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "05-MAY-2015",
+  "active_ingredients": [
+    {
+      "name": "FAMCICLOVIR",
+      "strength": "125",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "ACTAVIS PHARMA COMPANY"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "FAMCICLOVIR"
+  ]
+}

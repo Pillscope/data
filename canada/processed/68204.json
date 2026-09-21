@@ -1,0 +1,28 @@
+{
+  "drug_code": "68204",
+  "din": "02244238",
+  "brand_name": "AB HANDSOAP",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "22-SEP-2017",
+  "active_ingredients": [
+    {
+      "name": "TRICLOSAN",
+      "strength": "0.375",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "LIQUID"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "EPSILON CHEMICALS LTD."
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "TRICLOSAN"
+  ]
+}

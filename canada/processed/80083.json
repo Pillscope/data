@@ -1,0 +1,28 @@
+{
+  "drug_code": "80083",
+  "din": "02315297",
+  "brand_name": "SANDOZ PRAMIPEXOLE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "28-SEP-2009",
+  "active_ingredients": [
+    {
+      "name": "PRAMIPEXOLE DIHYDROCHLORIDE MONOHYDRATE",
+      "strength": "1.5",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "SANDOZ CANADA INCORPORATED"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "PRAMIPEXOLE"
+  ]
+}

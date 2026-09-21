@@ -1,0 +1,28 @@
+{
+  "drug_code": "84191",
+  "din": "02356783",
+  "brand_name": "PMS-DICLOFENAC",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "10-APR-2015",
+  "active_ingredients": [
+    {
+      "name": "DICLOFENAC SODIUM",
+      "strength": "1.5",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "PHARMASCIENCE INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "DICLOFENAC"
+  ]
+}

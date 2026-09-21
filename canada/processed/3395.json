@@ -1,0 +1,28 @@
+{
+  "drug_code": "3395",
+  "din": "00402230",
+  "brand_name": "SODIUM CHLORIDE INJ 23.4%",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "11-APR-2006",
+  "active_ingredients": [
+    {
+      "name": "SODIUM CHLORIDE",
+      "strength": "234",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "OMEGA LABORATORIES LTD"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "SODIUM CHLORIDE"
+  ]
+}

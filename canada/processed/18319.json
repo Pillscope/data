@@ -1,0 +1,28 @@
+{
+  "drug_code": "18319",
+  "din": "02160978",
+  "brand_name": "DEXTROSE-45  5.55-4.5",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "16-JUN-2006",
+  "active_ingredients": [
+    {
+      "name": "DEXTROSE",
+      "strength": "222.7",
+      "unit": "G"
+    }
+  ],
+  "forms": [
+    "POWDER"
+  ],
+  "routes": [
+    "DIALYSIS"
+  ],
+  "companies": [
+    "BAXTER CORPORATION"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "HEMODIALYTICS, CONCENTRATES"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "drug_code": "50212",
+  "din": "02230934",
+  "brand_name": "JUNIOR STRENGTH ACETAMINOPHEN TABLETS",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "07-DEC-2010",
+  "active_ingredients": [
+    {
+      "name": "ACETAMINOPHEN",
+      "strength": "160",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "TANTA PHARMACEUTICALS INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "ACETAMINOPHEN (PARACETAMOL)"
+  ]
+}

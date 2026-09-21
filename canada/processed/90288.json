@@ -1,0 +1,28 @@
+{
+  "drug_code": "90288",
+  "din": "02418304",
+  "brand_name": "GRASTEK",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "07-NOV-2017",
+  "active_ingredients": [
+    {
+      "name": "STANDARDIZED TIMOTHY GRASS POLLEN",
+      "strength": "2800",
+      "unit": "UNIT"
+    }
+  ],
+  "forms": [
+    "TABLET (ORALLY DISINTEGRATING)"
+  ],
+  "routes": [
+    "SUBLINGUAL"
+  ],
+  "companies": [
+    "ALK - ABELLO A/S"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "GRASS POLLEN"
+  ]
+}

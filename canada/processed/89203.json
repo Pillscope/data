@@ -1,0 +1,28 @@
+{
+  "drug_code": "89203",
+  "din": "02407329",
+  "brand_name": "XTANDI",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "27-OCT-2014",
+  "active_ingredients": [
+    {
+      "name": "Enzalutamide",
+      "strength": "40",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "CAPSULE"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "ASTELLAS PHARMA CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "ENZALUTAMIDE"
+  ]
+}

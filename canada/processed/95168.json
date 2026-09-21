@@ -1,0 +1,28 @@
+{
+  "drug_code": "95168",
+  "din": "02463571",
+  "brand_name": "RAN-GLICLAZIDE MR",
+  "class": "Human",
+  "descriptor": "MODIFIED RELEASE TABLETS",
+  "last_update": "25-APR-2018",
+  "active_ingredients": [
+    {
+      "name": "GLICLAZIDE",
+      "strength": "30",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET (EXTENDED-RELEASE)"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "RANBAXY PHARMACEUTICALS CANADA INC."
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "GLICLAZIDE"
+  ]
+}

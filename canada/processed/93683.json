@@ -1,0 +1,33 @@
+{
+  "drug_code": "93683",
+  "din": "02450682",
+  "brand_name": "MYLAN-ABACAVIR/LAMIVUDINE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "20-MAY-2016",
+  "active_ingredients": [
+    {
+      "name": "ABACAVIR (ABACAVIR SULFATE)",
+      "strength": "600",
+      "unit": "MG"
+    },
+    {
+      "name": "LAMIVUDINE",
+      "strength": "300",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "MYLAN PHARMACEUTICALS ULC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "LAMIVUDINE AND ABACAVIR"
+  ]
+}

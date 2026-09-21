@@ -1,0 +1,28 @@
+{
+  "drug_code": "49064",
+  "din": "02230304",
+  "brand_name": "MICATIN POWDER SPRAY     - UNSCENTED 2%",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "05-MAY-2015",
+  "active_ingredients": [
+    {
+      "name": "MICONAZOLE NITRATE",
+      "strength": "2",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "AEROSOL"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "WELLSPRING PHARMACEUTICAL CANADA CORP"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "MICONAZOLE"
+  ]
+}

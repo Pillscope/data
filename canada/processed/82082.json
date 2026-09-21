@@ -1,0 +1,36 @@
+{
+  "drug_code": "82082",
+  "din": "02335212",
+  "brand_name": "SWISH SILVER SUPREME",
+  "class": "Disinfectant",
+  "descriptor": "",
+  "last_update": "12-JAN-2016",
+  "active_ingredients": [
+    {
+      "name": "CITRIC ACID",
+      "strength": "4.846",
+      "unit": "%"
+    },
+    {
+      "name": "SILVER DIHYDROGEN CITRATE",
+      "strength": "0.003",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "DISINFECTANT (Food Premises)",
+    "DISINFECTANT (Hospital/HC Facilities)",
+    "DISINFECTANT (Domestic)",
+    "DISINFECTANT (Institutional/Industrial)"
+  ],
+  "companies": [
+    "CHARLOTTE PRODUCTS LIMITED"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "TECHNICAL DISINFECTANTS"
+  ]
+}

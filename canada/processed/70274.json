@@ -1,0 +1,33 @@
+{
+  "drug_code": "70274",
+  "din": "02246131",
+  "brand_name": "PROQUAT GERMICIDAL DETERGENT CONCENTRATE",
+  "class": "Disinfectant",
+  "descriptor": "",
+  "last_update": "07-SEP-2006",
+  "active_ingredients": [
+    {
+      "name": "DIDECYL DIMETHYL AMMONIUM CHLORIDE",
+      "strength": "1.4",
+      "unit": "%"
+    },
+    {
+      "name": "BENZALKONIUM CHLORIDE",
+      "strength": "11.2",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "LIQUID"
+  ],
+  "routes": [
+    "DISINFECTANT (Institutional/Industrial)"
+  ],
+  "companies": [
+    "HACCO, INC."
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "TECHNICAL DISINFECTANTS"
+  ]
+}

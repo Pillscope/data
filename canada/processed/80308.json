@@ -1,0 +1,28 @@
+{
+  "drug_code": "80308",
+  "din": "02317559",
+  "brand_name": "SILDENAFIL",
+  "class": "Human",
+  "descriptor": "DIAMOND-SHAPED TABLETS",
+  "last_update": "22-FEB-2016",
+  "active_ingredients": [
+    {
+      "name": "SILDENAFIL (SILDENAFIL CITRATE)",
+      "strength": "25",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "PHARMASCIENCE INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "SILDENAFIL"
+  ]
+}

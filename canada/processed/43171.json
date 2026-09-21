@@ -1,0 +1,28 @@
+{
+  "drug_code": "43171",
+  "din": "02216167",
+  "brand_name": "IMOVANE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "18-DEC-2017",
+  "active_ingredients": [
+    {
+      "name": "ZOPICLONE",
+      "strength": "5.0",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "SANOFI-AVENTIS CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "ZOPICLONE"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "drug_code": "83040",
+  "din": "02344939",
+  "brand_name": "ILARIS",
+  "class": "Human",
+  "descriptor": "SINGLE-USE VIAL",
+  "last_update": "05-JUN-2017",
+  "active_ingredients": [
+    {
+      "name": "CANAKINUMAB",
+      "strength": "150",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "POWDER FOR SOLUTION"
+  ],
+  "routes": [
+    "SUBCUTANEOUS"
+  ],
+  "companies": [
+    "NOVARTIS PHARMACEUTICALS CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "CANAKINUMAB"
+  ]
+}

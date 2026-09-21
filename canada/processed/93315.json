@@ -1,0 +1,28 @@
+{
+  "drug_code": "93315",
+  "din": "02447576",
+  "brand_name": "ALFUZOSIN",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "15-JUN-2016",
+  "active_ingredients": [
+    {
+      "name": "ALFUZOSIN HYDROCHLORIDE",
+      "strength": "10",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET (EXTENDED-RELEASE)"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "SIVEM PHARMACEUTICALS ULC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "ALFUZOSIN"
+  ]
+}

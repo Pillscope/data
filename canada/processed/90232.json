@@ -1,0 +1,33 @@
+{
+  "drug_code": "90232",
+  "din": "02417693",
+  "brand_name": "ABC ARBONNE BABY CARE DIAPER RASH CREAM",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "30-SEP-2014",
+  "active_ingredients": [
+    {
+      "name": "ZINC OXIDE",
+      "strength": "12",
+      "unit": "%"
+    },
+    {
+      "name": "DIMETHICONE",
+      "strength": "1",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "CREAM"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "ARBONNE INTERNATIONAL LLC"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "ZINC PRODUCTS"
+  ]
+}

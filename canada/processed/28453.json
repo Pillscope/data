@@ -1,0 +1,28 @@
+{
+  "drug_code": "28453",
+  "din": "02090163",
+  "brand_name": "COLACE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "09-JAN-2017",
+  "active_ingredients": [
+    {
+      "name": "DOCUSATE SODIUM",
+      "strength": "10",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "BOYD PHARMACEUTICALS INC."
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "DOCUSATE SODIUM"
+  ]
+}

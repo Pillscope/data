@@ -1,0 +1,28 @@
+{
+  "drug_code": "28979",
+  "din": "02100207",
+  "brand_name": "DEQUADIN",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "23-APR-2018",
+  "active_ingredients": [
+    {
+      "name": "DEQUALINIUM CHLORIDE",
+      "strength": "0.25",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "LOZENGE"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "BOYD PHARMACEUTICALS INC."
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "DEQUALINIUM"
+  ]
+}

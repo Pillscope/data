@@ -1,0 +1,28 @@
+{
+  "drug_code": "65565",
+  "din": "02241895",
+  "brand_name": "APO-FLUCONAZOLE-150",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "16-APR-2018",
+  "active_ingredients": [
+    {
+      "name": "FLUCONAZOLE",
+      "strength": "150",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "CAPSULE"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "APOTEX INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "FLUCONAZOLE"
+  ]
+}

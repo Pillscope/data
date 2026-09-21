@@ -1,0 +1,29 @@
+{
+  "drug_code": "92310",
+  "din": "02438704",
+  "brand_name": "LORAZEPAM INJECTION USP",
+  "class": "Human",
+  "descriptor": "MULTIDOSE VIAL",
+  "last_update": "27-JUL-2017",
+  "active_ingredients": [
+    {
+      "name": "LORAZEPAM",
+      "strength": "2",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "INTRAMUSCULAR",
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "SANDOZ CANADA INCORPORATED"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "LORAZEPAM"
+  ]
+}

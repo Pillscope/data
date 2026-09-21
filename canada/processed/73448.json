@@ -1,0 +1,28 @@
+{
+  "drug_code": "73448",
+  "din": "02249677",
+  "brand_name": "PAMIDRONATE DISODIUM OMEGA 6 MG/ML",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "27-APR-2009",
+  "active_ingredients": [
+    {
+      "name": "PAMIDRONATE DISODIUM",
+      "strength": "6.0",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "OMEGA LABORATORIES LTD"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "PAMIDRONIC ACID"
+  ]
+}

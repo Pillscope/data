@@ -1,0 +1,28 @@
+{
+  "drug_code": "20002",
+  "din": "02210428",
+  "brand_name": "APO-SOTALOL 80MG TABLETS",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "08-FEB-2008",
+  "active_ingredients": [
+    {
+      "name": "SOTALOL HYDROCHLORIDE",
+      "strength": "80",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "APOTEX INC"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "SOTALOL"
+  ]
+}

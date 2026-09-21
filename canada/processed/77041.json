@@ -1,0 +1,28 @@
+{
+  "drug_code": "77041",
+  "din": "02284863",
+  "brand_name": "MYOZYME",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "05-OCT-2012",
+  "active_ingredients": [
+    {
+      "name": "ALGLUCOSIDASE ALFA",
+      "strength": "50",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "POWDER FOR SOLUTION"
+  ],
+  "routes": [
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "SANOFI GENZYME, A DIVISION OF SANOFI-AVENTIS CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "ALGLUCOSIDASE ALFA"
+  ]
+}

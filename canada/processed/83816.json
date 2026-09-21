@@ -1,0 +1,34 @@
+{
+  "drug_code": "83816",
+  "din": "02352923",
+  "brand_name": "ENALAPRIL MALEATE/HCTZ",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "12-JAN-2018",
+  "active_ingredients": [
+    {
+      "name": "HYDROCHLOROTHIAZIDE",
+      "strength": "12.5",
+      "unit": "MG"
+    },
+    {
+      "name": "ENALAPRIL MALEATE",
+      "strength": "5",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "AA PHARMA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "ENALAPRIL AND DIURETICS",
+    "ENALAPRIL AND DIURETICS"
+  ]
+}

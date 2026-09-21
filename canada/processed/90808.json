@@ -1,0 +1,33 @@
+{
+  "drug_code": "90808",
+  "din": "02423359",
+  "brand_name": "ORANGE MANGO BLAST",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "07-AUG-2014",
+  "active_ingredients": [
+    {
+      "name": "OXYBENZONE",
+      "strength": "2.5",
+      "unit": "%"
+    },
+    {
+      "name": "OCTINOXATE",
+      "strength": "7.5",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "STICK"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "BLISTEX CORPORATION"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "COMBINATIONS OF PROTECTIVES AGAINST UV-RADIATION"
+  ]
+}

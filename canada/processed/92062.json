@@ -1,0 +1,28 @@
+{
+  "drug_code": "92062",
+  "din": "02436299",
+  "brand_name": "CELECOXIB",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "20-FEB-2015",
+  "active_ingredients": [
+    {
+      "name": "CELECOXIB",
+      "strength": "100",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "CAPSULE"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "SANIS HEALTH INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "CELECOXIB"
+  ]
+}

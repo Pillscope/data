@@ -1,0 +1,26 @@
+{
+  "drug_code": "5165",
+  "din": "00574996",
+  "brand_name": "COPPEROX LIQ 37.5%",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "02-JUL-1999",
+  "active_ingredients": [
+    {
+      "name": "COPPER NAPHTHENATE",
+      "strength": "37.5",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "LIQUID"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "UNIVET PHARMACEUTICALS LTD."
+  ],
+  "status": "MARKETED",
+  "atc": []
+}

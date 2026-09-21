@@ -1,0 +1,29 @@
+{
+  "drug_code": "92096",
+  "din": "02436639",
+  "brand_name": "CYSVIEW",
+  "class": "Human",
+  "descriptor": "FOR INTRAVESICAL INSTILLATION. SINGLE USE. KIT INCLUDES DILUENT",
+  "last_update": "19-JAN-2017",
+  "active_ingredients": [
+    {
+      "name": "Hexaminolevulinate hydrochloride",
+      "strength": "100",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "KIT",
+    "POWDER FOR SOLUTION"
+  ],
+  "routes": [
+    "INTRAVESICAL"
+  ],
+  "companies": [
+    "BIOSYENT PHARMA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "OTHER DIAGNOSTIC AGENTS"
+  ]
+}

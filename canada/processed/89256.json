@@ -1,0 +1,28 @@
+{
+  "drug_code": "89256",
+  "din": "02407841",
+  "brand_name": "MED-EXEMESTANE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "16-JAN-2015",
+  "active_ingredients": [
+    {
+      "name": "EXEMESTANE",
+      "strength": "25",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "GENERIC MEDICAL PARTNERS INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "EXEMESTANE"
+  ]
+}

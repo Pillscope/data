@@ -1,0 +1,31 @@
+{
+  "drug_code": "49921",
+  "din": "02230662",
+  "brand_name": "LAXATONE",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "16-APR-2004",
+  "active_ingredients": [
+    {
+      "name": "PETROLATUM",
+      "strength": "214",
+      "unit": "MG"
+    },
+    {
+      "name": "MINERAL OIL",
+      "strength": "34",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "PASTE"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "TOMLYN PRODUCTS DIVISION OF VETOQUINOL USA INC."
+  ],
+  "status": "MARKETED",
+  "atc": []
+}

@@ -1,0 +1,29 @@
+{
+  "drug_code": "90316",
+  "din": "02418614",
+  "brand_name": "REGULAR STRENGTH BISMUTH",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "28-NOV-2017",
+  "active_ingredients": [
+    {
+      "name": "BISMUTH SUBSALICYLATE",
+      "strength": "17.6",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SUSPENSION"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "TEVA CANADA LIMITED"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "BISMUTH PREPARATIONS",
+    "BISMUTH PREPARATIONS"
+  ]
+}

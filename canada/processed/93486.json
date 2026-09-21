@@ -1,0 +1,28 @@
+{
+  "drug_code": "93486",
+  "din": "02449048",
+  "brand_name": "LUPIN-ESTRADIOL",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "25-MAY-2016",
+  "active_ingredients": [
+    {
+      "name": "ESTRADIOL (ESTRADIOL HEMIHYDRATE)",
+      "strength": "0.5",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "LUPIN PHARMA CANADA LIMITED"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "ESTRADIOL"
+  ]
+}

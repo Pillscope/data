@@ -1,0 +1,28 @@
+{
+  "drug_code": "62067",
+  "din": "02238639",
+  "brand_name": "NABUMETONE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "30-NOV-2017",
+  "active_ingredients": [
+    {
+      "name": "NABUMETONE",
+      "strength": "500",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "AA PHARMA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "NABUMETONE"
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "drug_code": "20353",
+  "din": "02215756",
+  "brand_name": "CAVERJECT STERILE POWDER - KIT 23.2MCG/VIAL",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "22-OCT-2008",
+  "active_ingredients": [
+    {
+      "name": "WATER",
+      "strength": "99.1",
+      "unit": "%"
+    },
+    {
+      "name": "ALPROSTADIL",
+      "strength": "23.2",
+      "unit": "MCG"
+    }
+  ],
+  "forms": [
+    "KIT",
+    "LIQUID",
+    "POWDER FOR SOLUTION"
+  ],
+  "routes": [
+    "INTRACAVERNOSAL"
+  ],
+  "companies": [
+    "PFIZER CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "ALPROSTADIL"
+  ]
+}

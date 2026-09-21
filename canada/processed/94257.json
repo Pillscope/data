@@ -1,0 +1,31 @@
+{
+  "drug_code": "94257",
+  "din": "02455765",
+  "brand_name": "MAX-V",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "16-FEB-2017",
+  "active_ingredients": [
+    {
+      "name": "CHLORHEXIDINE ACETATE",
+      "strength": "0.52",
+      "unit": "%"
+    },
+    {
+      "name": "GLYCERINE",
+      "strength": "4.85",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "LIBERCHEM INC"
+  ],
+  "status": "APPROVED",
+  "atc": []
+}

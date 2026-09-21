@@ -1,0 +1,28 @@
+{
+  "drug_code": "44",
+  "din": "00050857",
+  "brand_name": "GENTIANE VIOLET LIQ TOP",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "10-MAY-2016",
+  "active_ingredients": [
+    {
+      "name": "GENTIAN VIOLET",
+      "strength": "1",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "LIQUID"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "LABORATOIRE ATLAS INC"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "METHYLROSANILINE"
+  ]
+}

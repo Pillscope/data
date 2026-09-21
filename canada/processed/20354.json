@@ -1,0 +1,28 @@
+{
+  "drug_code": "20354",
+  "din": "02215721",
+  "brand_name": "BACTERIOSTATIC WATER FOR INJECTION USP-PRE-FILLED SYRINGE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "22-OCT-2008",
+  "active_ingredients": [
+    {
+      "name": "WATER",
+      "strength": "99.1",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "LIQUID"
+  ],
+  "routes": [
+    "INTRACAVERNOSAL"
+  ],
+  "companies": [
+    "PFIZER CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "SOLVENTS AND DILUTING AGENTS,INCL IRRIGAT SOLUT"
+  ]
+}

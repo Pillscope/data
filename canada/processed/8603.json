@@ -1,0 +1,28 @@
+{
+  "drug_code": "8603",
+  "din": "00749354",
+  "brand_name": "APO METOPROLOL (TYPE L) TAB 50MG",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "23-FEB-2011",
+  "active_ingredients": [
+    {
+      "name": "METOPROLOL TARTRATE",
+      "strength": "50",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "APOTEX INC"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "METOPROLOL"
+  ]
+}

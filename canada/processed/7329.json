@@ -1,0 +1,72 @@
+{
+  "drug_code": "7329",
+  "din": "00712957",
+  "brand_name": "NEWCELLS INJECTABLE",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "15-SEP-2015",
+  "active_ingredients": [
+    {
+      "name": "NICOTINAMIDE",
+      "strength": "100",
+      "unit": "MG"
+    },
+    {
+      "name": "SOLUBLE LIVER EXTRACT",
+      "strength": "27",
+      "unit": "MG"
+    },
+    {
+      "name": "THIAMINE HYDROCHLORIDE",
+      "strength": "75",
+      "unit": "MG"
+    },
+    {
+      "name": "PYRIDOXINE HYDROCHLORIDE",
+      "strength": "5",
+      "unit": "MG"
+    },
+    {
+      "name": "FERRIC AMMONIUM CITRATE",
+      "strength": "15",
+      "unit": "MG"
+    },
+    {
+      "name": "COBALT GLUCONATE",
+      "strength": "0.7",
+      "unit": "MG"
+    },
+    {
+      "name": "VITAMIN B2 (RIBOFLAVIN 5'-PHOSPHATE SODIUM)",
+      "strength": "2",
+      "unit": "MG"
+    },
+    {
+      "name": "COPPER GLUCONATE",
+      "strength": "0.2",
+      "unit": "MG"
+    },
+    {
+      "name": "DEXPANTHENOL",
+      "strength": "20",
+      "unit": "MG"
+    },
+    {
+      "name": "VITAMIN B12",
+      "strength": "100",
+      "unit": "MCG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "INTRAMUSCULAR",
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "ZOETIS CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": []
+}

@@ -1,0 +1,27 @@
+{
+  "drug_code": "80273",
+  "din": "02317214",
+  "brand_name": "EXCENEL RTU EZ",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "04-MAY-2017",
+  "active_ingredients": [
+    {
+      "name": "CEFTIOFUR (CEFTIOFUR HYDROCHLORIDE)",
+      "strength": "50",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SUSPENSION"
+  ],
+  "routes": [
+    "INTRAMUSCULAR",
+    "SUBCUTANEOUS"
+  ],
+  "companies": [
+    "ZOETIS CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": []
+}

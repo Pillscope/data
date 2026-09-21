@@ -1,0 +1,28 @@
+{
+  "drug_code": "86679",
+  "din": "02381052",
+  "brand_name": "PMS-ATOMOXETINE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "27-JUN-2012",
+  "active_ingredients": [
+    {
+      "name": "ATOMOXETINE (ATOMOXETINE HYDROCHLORIDE)",
+      "strength": "40",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "CAPSULE"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "PHARMASCIENCE INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "ATOMOXETINE"
+  ]
+}

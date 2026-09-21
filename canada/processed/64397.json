@@ -1,0 +1,48 @@
+{
+  "drug_code": "64397",
+  "din": "02240806",
+  "brand_name": "EXTRANEAL",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "10-JUN-2016",
+  "active_ingredients": [
+    {
+      "name": "ICODEXTRIN",
+      "strength": "75",
+      "unit": "G"
+    },
+    {
+      "name": "SODIUM CHLORIDE",
+      "strength": "5.35",
+      "unit": "G"
+    },
+    {
+      "name": "MAGNESIUM CHLORIDE",
+      "strength": "51",
+      "unit": "MG"
+    },
+    {
+      "name": "CALCIUM CHLORIDE",
+      "strength": "257",
+      "unit": "MG"
+    },
+    {
+      "name": "SODIUM LACTATE",
+      "strength": "4.48",
+      "unit": "G"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "INTRAPERITONEAL"
+  ],
+  "companies": [
+    "BAXTER CORPORATION"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "PERITONEAL DIALYTICS"
+  ]
+}

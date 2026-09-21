@@ -1,0 +1,28 @@
+{
+  "drug_code": "66280",
+  "din": "02242532",
+  "brand_name": "OXYGEN USP",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "01-JUN-2011",
+  "active_ingredients": [
+    {
+      "name": "OXYGEN",
+      "strength": "99",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "GAS"
+  ],
+  "routes": [
+    "INHALATION"
+  ],
+  "companies": [
+    "WEST CARE MEDICAL LTD."
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "OXYGEN"
+  ]
+}

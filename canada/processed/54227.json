@@ -1,0 +1,27 @@
+{
+  "drug_code": "54227",
+  "din": "02234061",
+  "brand_name": "FLUNIXIN INJECTION",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "20-JAN-2017",
+  "active_ingredients": [
+    {
+      "name": "FLUNIXIN (FLUNIXIN MEGLUMINE)",
+      "strength": "50",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "INTRAMUSCULAR",
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "NORBROOK LABORATORIES LTD."
+  ],
+  "status": "APPROVED",
+  "atc": []
+}

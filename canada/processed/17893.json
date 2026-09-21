@@ -1,0 +1,28 @@
+{
+  "drug_code": "17893",
+  "din": "02063808",
+  "brand_name": "DIPENTUM",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "28-JAN-2016",
+  "active_ingredients": [
+    {
+      "name": "OLSALAZINE SODIUM",
+      "strength": "250",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "CAPSULE"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "ATNAHS PHARMA UK LIMITED"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "OLSALAZINE"
+  ]
+}

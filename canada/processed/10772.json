@@ -1,0 +1,28 @@
+{
+  "drug_code": "10772",
+  "din": "00870978",
+  "brand_name": "DICLOFENAC ECT 50MG",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "29-NOV-2011",
+  "active_ingredients": [
+    {
+      "name": "DICLOFENAC SODIUM",
+      "strength": "50",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET (ENTERIC-COATED)"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "PRO DOC LIMITEE"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "DICLOFENAC"
+  ]
+}

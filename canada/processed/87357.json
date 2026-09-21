@@ -1,0 +1,28 @@
+{
+  "drug_code": "87357",
+  "din": "02388006",
+  "brand_name": "JAKAVI",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "29-NOV-2014",
+  "active_ingredients": [
+    {
+      "name": "Ruxolitinib (Ruxolitinib Phosphate)",
+      "strength": "5",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "NOVARTIS PHARMACEUTICALS CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "RUXOLITINIB"
+  ]
+}

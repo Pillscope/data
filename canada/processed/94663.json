@@ -1,0 +1,28 @@
+{
+  "drug_code": "94663",
+  "din": "02459396",
+  "brand_name": "FOSINOPRIL",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "19-APR-2017",
+  "active_ingredients": [
+    {
+      "name": "FOSINOPRIL SODIUM",
+      "strength": "20",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "SANIS HEALTH INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "FOSINOPRIL"
+  ]
+}

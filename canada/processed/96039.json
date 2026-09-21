@@ -1,0 +1,28 @@
+{
+  "drug_code": "96039",
+  "din": "02471280",
+  "brand_name": "M-VENLAFAXINE XR",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "16-MAR-2018",
+  "active_ingredients": [
+    {
+      "name": "VENLAFAXINE (VENLAFAXINE HYDROCHLORIDE)",
+      "strength": "37.5",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "CAPSULE (EXTENDED RELEASE)"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "MANTRA PHARMA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "VENLAFAXINE"
+  ]
+}

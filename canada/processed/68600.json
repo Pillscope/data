@@ -1,0 +1,28 @@
+{
+  "drug_code": "68600",
+  "din": "02244613",
+  "brand_name": "DETROL LA",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "30-DEC-2013",
+  "active_ingredients": [
+    {
+      "name": "TOLTERODINE TARTRATE",
+      "strength": "4",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "CAPSULE (EXTENDED RELEASE)"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "PFIZER CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "TOLTERODINE"
+  ]
+}

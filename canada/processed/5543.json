@@ -1,0 +1,31 @@
+{
+  "drug_code": "5543",
+  "din": "00590932",
+  "brand_name": "COMPUDOSE",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "19-FEB-2018",
+  "active_ingredients": [
+    {
+      "name": "ESTRADIOL",
+      "strength": "25.7",
+      "unit": "MG"
+    },
+    {
+      "name": "OXYTETRACYCLINE",
+      "strength": "0.5",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "IMPLANT"
+  ],
+  "routes": [
+    "SUBCUTANEOUS"
+  ],
+  "companies": [
+    "ELANCO CANADA LIMITED"
+  ],
+  "status": "APPROVED",
+  "atc": []
+}

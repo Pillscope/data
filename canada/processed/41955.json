@@ -1,0 +1,33 @@
+{
+  "drug_code": "41955",
+  "din": "01933949",
+  "brand_name": "DRULA FADE CREAM MEDIUM-MEDICATED",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "10-MAY-2016",
+  "active_ingredients": [
+    {
+      "name": "HYDROQUINONE",
+      "strength": "1.8",
+      "unit": "%"
+    },
+    {
+      "name": "OXYBENZONE",
+      "strength": "4",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "CREAM"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "DRULA-FABRIK, DR. O. DRUCKERY GMBH"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "HYDROQUINONE"
+  ]
+}

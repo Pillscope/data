@@ -1,0 +1,56 @@
+{
+  "drug_code": "91109",
+  "din": "02426536",
+  "brand_name": "VETALYTE",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "06-NOV-2014",
+  "active_ingredients": [
+    {
+      "name": "SORBITOL",
+      "strength": "25.0",
+      "unit": "MG"
+    },
+    {
+      "name": "SODIUM CHLORIDE",
+      "strength": "4.8",
+      "unit": "MG"
+    },
+    {
+      "name": "DEXTROSE",
+      "strength": "25.0",
+      "unit": "MG"
+    },
+    {
+      "name": "POTASSIUM CHLORIDE",
+      "strength": "0.74",
+      "unit": "MG"
+    },
+    {
+      "name": "CALCIUM CHLORIDE",
+      "strength": "0.38",
+      "unit": "MG"
+    },
+    {
+      "name": "MAGNESIUM CHLORIDE",
+      "strength": "0.42",
+      "unit": "MG"
+    },
+    {
+      "name": "SODIUM LACTATE",
+      "strength": "7.87",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "DMVET INC"
+  ],
+  "status": "MARKETED",
+  "atc": []
+}

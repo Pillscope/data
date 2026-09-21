@@ -1,0 +1,28 @@
+{
+  "drug_code": "19810",
+  "din": "01925202",
+  "brand_name": "SOLUPREP ANTISEPTIC SKIN CLEANSER",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "12-MAR-2015",
+  "active_ingredients": [
+    {
+      "name": "CHLORHEXIDINE GLUCONATE",
+      "strength": "4",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "SPONGE"
+  ],
+  "routes": [
+    "TOPICAL (HOSPITAL/HC FACILITIES)"
+  ],
+  "companies": [
+    "3M CANADA COMPANY"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "CHLORHEXIDINE"
+  ]
+}

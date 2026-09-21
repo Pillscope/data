@@ -1,0 +1,28 @@
+{
+  "drug_code": "61822",
+  "din": "02238405",
+  "brand_name": "METHOPRAZINE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "05-MAY-2014",
+  "active_ingredients": [
+    {
+      "name": "METHOTRIMEPRAZINE (METHOTRIMEPRAZINE MALEATE)",
+      "strength": "25",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "AA PHARMA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "LEVOMEPROMAZINE"
+  ]
+}

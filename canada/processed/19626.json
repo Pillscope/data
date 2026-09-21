@@ -1,0 +1,34 @@
+{
+  "drug_code": "19626",
+  "din": "02116472",
+  "brand_name": "SOLUPREP QD SOLUTION",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "05-MAY-2017",
+  "active_ingredients": [
+    {
+      "name": "CHLORHEXIDINE GLUCONATE",
+      "strength": "0.5",
+      "unit": "%"
+    },
+    {
+      "name": "ISOPROPYL ALCOHOL",
+      "strength": "70",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "SOLUTION",
+    "SPONGE"
+  ],
+  "routes": [
+    "TOPICAL (HOSPITAL/HC FACILITIES)"
+  ],
+  "companies": [
+    "3M CANADA COMPANY"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "CHLORHEXIDINE, COMBINATIONS"
+  ]
+}

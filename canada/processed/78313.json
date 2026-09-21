@@ -1,0 +1,28 @@
+{
+  "drug_code": "78313",
+  "din": "02297795",
+  "brand_name": "APO-GLICLAZIDE MR",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "07-JUL-2016",
+  "active_ingredients": [
+    {
+      "name": "GLICLAZIDE",
+      "strength": "30",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET (EXTENDED-RELEASE)"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "APOTEX INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "GLICLAZIDE"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "drug_code": "67875",
+  "din": "02243933",
+  "brand_name": "LEVULAN KERASTICK",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "17-AUG-2017",
+  "active_ingredients": [
+    {
+      "name": "AMINOLEVULINIC ACID HYDROCHLORIDE",
+      "strength": "20",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "POWDER FOR SOLUTION"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "DUSA PHARMACEUTICALS INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "AMINOLEVULINIC ACID"
+  ]
+}

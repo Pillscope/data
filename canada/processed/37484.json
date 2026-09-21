@@ -1,0 +1,30 @@
+{
+  "drug_code": "37484",
+  "din": "02226928",
+  "brand_name": "ALLERGENIC EXTRACT - POLLENS",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "20-NOV-2012",
+  "active_ingredients": [
+    {
+      "name": "POLLEN",
+      "strength": "40000",
+      "unit": "UNIT"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "INTRADERMAL",
+    "SUBCUTANEOUS",
+    "PERCUTANEOUS"
+  ],
+  "companies": [
+    "JUBILANT HOLLISTERSTIER LLC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "VARIOUS"
+  ]
+}

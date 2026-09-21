@@ -1,0 +1,28 @@
+{
+  "drug_code": "76481",
+  "din": "02279266",
+  "brand_name": "PMS-RISPERIDONE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "31-OCT-2006",
+  "active_ingredients": [
+    {
+      "name": "RISPERIDONE (RISPERIDONE TARTRATE)",
+      "strength": "1",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "PHARMASCIENCE INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "RISPERIDONE"
+  ]
+}

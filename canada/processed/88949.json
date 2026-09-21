@@ -1,0 +1,28 @@
+{
+  "drug_code": "88949",
+  "din": "02404699",
+  "brand_name": "APO-RASAGILINE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "18-JAN-2016",
+  "active_ingredients": [
+    {
+      "name": "RASAGILINE (RASAGILINE MESYLATE)",
+      "strength": "1",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "APOTEX INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "RASAGILINE"
+  ]
+}

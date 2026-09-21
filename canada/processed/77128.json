@@ -1,0 +1,28 @@
+{
+  "drug_code": "77128",
+  "din": "02285797",
+  "brand_name": "EXTRA STRENGTH ACETAMINOPHEN",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "06-JUN-2012",
+  "active_ingredients": [
+    {
+      "name": "ACETAMINOPHEN",
+      "strength": "500",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "VITA HEALTH PRODUCTS INC"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "ACETAMINOPHEN (PARACETAMOL)"
+  ]
+}

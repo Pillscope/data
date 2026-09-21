@@ -1,0 +1,26 @@
+{
+  "drug_code": "11656",
+  "din": "00768685",
+  "brand_name": "IMAVEROL",
+  "class": "Veterinary",
+  "descriptor": "CONCENTRATED SOLUTION",
+  "last_update": "27-OCT-2017",
+  "active_ingredients": [
+    {
+      "name": "ENILCONAZOLE",
+      "strength": "100",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "ELANCO CANADA LIMITED"
+  ],
+  "status": "APPROVED",
+  "atc": []
+}

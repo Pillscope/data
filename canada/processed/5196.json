@@ -1,0 +1,28 @@
+{
+  "drug_code": "5196",
+  "din": "00487872",
+  "brand_name": "APO CIMETIDINE TAB 300MG",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "06-FEB-2008",
+  "active_ingredients": [
+    {
+      "name": "CIMETIDINE",
+      "strength": "300",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "APOTEX INC"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "CIMETIDINE"
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "drug_code": "1500",
+  "din": "00250317",
+  "brand_name": "CRISTISOL",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "21-MAY-2008",
+  "active_ingredients": [
+    {
+      "name": "GENTIAN VIOLET",
+      "strength": ".675",
+      "unit": "%"
+    },
+    {
+      "name": "ISOPROPYL ALCOHOL",
+      "strength": "30",
+      "unit": "%"
+    },
+    {
+      "name": "ACRIFLAVINE",
+      "strength": ".0034",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "LIQUID"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "DOMINION VETERINARY LABORATORIES LTD."
+  ],
+  "status": "MARKETED",
+  "atc": []
+}

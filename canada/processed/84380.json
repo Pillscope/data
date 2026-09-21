@@ -1,0 +1,33 @@
+{
+  "drug_code": "84380",
+  "din": "02358786",
+  "brand_name": "GAMACIDE 3 WIPES",
+  "class": "Disinfectant",
+  "descriptor": "",
+  "last_update": "19-JAN-2018",
+  "active_ingredients": [
+    {
+      "name": "ISOPROPYL ALCOHOL",
+      "strength": "20.0",
+      "unit": "%"
+    },
+    {
+      "name": "BENZETHONIUM CHLORIDE",
+      "strength": "0.35",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "WIPE"
+  ],
+  "routes": [
+    "DISINFECTANT (Hospital/HC Facilities)"
+  ],
+  "companies": [
+    "GERMIPHENE CORPORATION"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "TECHNICAL DISINFECTANTS"
+  ]
+}

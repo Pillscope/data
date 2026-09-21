@@ -1,0 +1,61 @@
+{
+  "drug_code": "65790",
+  "din": "02242114",
+  "brand_name": "CALF-LYTE II HE",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "01-MAR-2013",
+  "active_ingredients": [
+    {
+      "name": "CALCIUM D-PANTOTHENATE",
+      "strength": "0.012",
+      "unit": "G"
+    },
+    {
+      "name": "SODIUM CHLORIDE",
+      "strength": "3.507",
+      "unit": "G"
+    },
+    {
+      "name": "SODIUM ACETATE",
+      "strength": "13.127",
+      "unit": "G"
+    },
+    {
+      "name": "DEXTROSE",
+      "strength": "149.04",
+      "unit": "G"
+    },
+    {
+      "name": "POTASSIUM CHLORIDE",
+      "strength": "1.940",
+      "unit": "G"
+    },
+    {
+      "name": "SODIUM PHOSPHATE DIBASIC",
+      "strength": "0.600",
+      "unit": "G"
+    },
+    {
+      "name": "GLYCINE",
+      "strength": "6.756",
+      "unit": "G"
+    },
+    {
+      "name": "POTASSIUM PHOSPHATE DIBASIC",
+      "strength": "0.349",
+      "unit": "G"
+    }
+  ],
+  "forms": [
+    "POWDER FOR SOLUTION"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "VETOQUINOL N A INC"
+  ],
+  "status": "MARKETED",
+  "atc": []
+}

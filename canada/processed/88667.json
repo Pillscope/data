@@ -1,0 +1,28 @@
+{
+  "drug_code": "88667",
+  "din": "02401797",
+  "brand_name": "GENOTROPIN",
+  "class": "Human",
+  "descriptor": "MINIQUICK - PREFILLED SYRINGE",
+  "last_update": "06-SEP-2017",
+  "active_ingredients": [
+    {
+      "name": "SOMATROPIN",
+      "strength": "1.2",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "POWDER FOR SOLUTION"
+  ],
+  "routes": [
+    "SUBCUTANEOUS"
+  ],
+  "companies": [
+    "PFIZER CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "SOMATROPIN"
+  ]
+}

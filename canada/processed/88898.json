@@ -1,0 +1,28 @@
+{
+  "drug_code": "88898",
+  "din": "02404192",
+  "brand_name": "MYLAN-TOLTERODINE ER",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "23-NOV-2015",
+  "active_ingredients": [
+    {
+      "name": "TOLTERODINE TARTRATE",
+      "strength": "4",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "CAPSULE (EXTENDED RELEASE)"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "MYLAN PHARMACEUTICALS ULC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "TOLTERODINE"
+  ]
+}

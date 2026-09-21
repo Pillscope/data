@@ -1,0 +1,28 @@
+{
+  "drug_code": "91672",
+  "din": "02432242",
+  "brand_name": "AURO-MOXIFLOXACIN",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "16-DEC-2015",
+  "active_ingredients": [
+    {
+      "name": "MOXIFLOXACIN (MOXIFLOXACIN HYDROCHLORIDE)",
+      "strength": "400",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "AURO PHARMA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "MOXIFLOXACIN"
+  ]
+}

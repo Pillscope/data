@@ -1,0 +1,29 @@
+{
+  "drug_code": "62882",
+  "din": "02239410",
+  "brand_name": "ALLERGENIC EXTRACT-STANDARDIZED CAT HAIR",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "19-DEC-2005",
+  "active_ingredients": [
+    {
+      "name": "CAT (FELIS DOMESTICUS) PELT AND CAT DANDER",
+      "strength": "10000",
+      "unit": "UNIT"
+    }
+  ],
+  "forms": [
+    "LIQUID"
+  ],
+  "routes": [
+    "INTRACUTANEOUS",
+    "SUBCUTANEOUS"
+  ],
+  "companies": [
+    "GREER LABORATORIES INC"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "ANIMALS"
+  ]
+}

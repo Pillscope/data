@@ -1,0 +1,28 @@
+{
+  "drug_code": "74355",
+  "din": "02258331",
+  "brand_name": "MYLAN-CLINDAMYCIN",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "29-DEC-2009",
+  "active_ingredients": [
+    {
+      "name": "CLINDAMYCIN (CLINDAMYCIN HYDROCHLORIDE)",
+      "strength": "150",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "CAPSULE"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "MYLAN PHARMACEUTICALS ULC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "CLINDAMYCIN"
+  ]
+}

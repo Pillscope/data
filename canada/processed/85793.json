@@ -1,0 +1,28 @@
+{
+  "drug_code": "85793",
+  "din": "02372843",
+  "brand_name": "OLANZAPINE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "30-DEC-2015",
+  "active_ingredients": [
+    {
+      "name": "OLANZAPINE",
+      "strength": "10",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "SANIS HEALTH INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "OLANZAPINE"
+  ]
+}

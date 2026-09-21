@@ -1,0 +1,26 @@
+{
+  "drug_code": "83526",
+  "din": "02350017",
+  "brand_name": "FOLLTROPIN-V DUAL PACK",
+  "class": "Veterinary",
+  "descriptor": "FOLLICLE STIMULATING HORMONE FOR INJECTION",
+  "last_update": "27-MAY-2016",
+  "active_ingredients": [
+    {
+      "name": "FOLLICLE STIMULATING HORMONE (FSH)",
+      "strength": "400",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "POWDER FOR SOLUTION"
+  ],
+  "routes": [
+    "INTRAMUSCULAR"
+  ],
+  "companies": [
+    "VETOQUINOL N A INC"
+  ],
+  "status": "APPROVED",
+  "atc": []
+}

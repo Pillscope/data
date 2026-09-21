@@ -1,0 +1,28 @@
+{
+  "drug_code": "73983",
+  "din": "02254689",
+  "brand_name": "FORTEO",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "15-NOV-2007",
+  "active_ingredients": [
+    {
+      "name": "TERIPARATIDE",
+      "strength": "250",
+      "unit": "MCG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "SUBCUTANEOUS"
+  ],
+  "companies": [
+    "ELI LILLY CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "TERIPARATIDE"
+  ]
+}

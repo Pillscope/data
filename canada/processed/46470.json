@@ -1,0 +1,29 @@
+{
+  "drug_code": "46470",
+  "din": "01948938",
+  "brand_name": "PHARMALGEN YELLOW HORNET VENOM",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "19-MAR-2009",
+  "active_ingredients": [
+    {
+      "name": "DOLICHOVESPULA ARENARIA VENOM PROTEIN EXTRACT",
+      "strength": "1.1",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "POWDER FOR SOLUTION"
+  ],
+  "routes": [
+    "INTRADERMAL",
+    "SUBCUTANEOUS"
+  ],
+  "companies": [
+    "ALK - ABELLO A/S"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "INSECTS"
+  ]
+}

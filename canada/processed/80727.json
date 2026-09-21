@@ -1,0 +1,28 @@
+{
+  "drug_code": "80727",
+  "din": "02321866",
+  "brand_name": "RAN-AMLODIPINE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "11-AUG-2009",
+  "active_ingredients": [
+    {
+      "name": "AMLODIPINE (AMLODIPINE BESYLATE)",
+      "strength": "10",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "RANBAXY PHARMACEUTICALS CANADA INC."
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "AMLODIPINE"
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "drug_code": "11384",
+  "din": "00816027",
+  "brand_name": "PMS-ACETAMINOPHEN W CODEINE ELIXIR",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "14-SEP-2017",
+  "active_ingredients": [
+    {
+      "name": "CODEINE PHOSPHATE",
+      "strength": "8",
+      "unit": "MG"
+    },
+    {
+      "name": "ACETAMINOPHEN",
+      "strength": "160",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "ELIXIR"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "PHARMASCIENCE INC"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "ACETAMINOPHEN, COMB EXCL PSYCHOLEPTICS"
+  ]
+}

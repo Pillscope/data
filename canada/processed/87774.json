@@ -1,0 +1,28 @@
+{
+  "drug_code": "87774",
+  "din": "02392461",
+  "brand_name": "LYSOL BRAND II NO-TOUCH ANTIBACTERIAL HAND SOAP",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "21-NOV-2014",
+  "active_ingredients": [
+    {
+      "name": "BENZALKONIUM CHLORIDE",
+      "strength": "0.1",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "LIQUID"
+  ],
+  "routes": [
+    "TOPICAL (HOUSEHOLD)"
+  ],
+  "companies": [
+    "RECKITT BENCKISER (CANADA) INC"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "BENZALKONIUM"
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "drug_code": "89287",
+  "din": "02408120",
+  "brand_name": "AURO-VALSARTAN HCT",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "16-JAN-2015",
+  "active_ingredients": [
+    {
+      "name": "VALSARTAN",
+      "strength": "160",
+      "unit": "MG"
+    },
+    {
+      "name": "HYDROCHLOROTHIAZIDE",
+      "strength": "12.5",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "AURO PHARMA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "VALSARTAN AND DIURETICS",
+    "VALSARTAN AND DIURETICS"
+  ]
+}

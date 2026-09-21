@@ -1,0 +1,28 @@
+{
+  "drug_code": "36953",
+  "din": "02213273",
+  "brand_name": "DERMOVATE OINTMENT",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "03-JUN-2004",
+  "active_ingredients": [
+    {
+      "name": "CLOBETASOL PROPIONATE",
+      "strength": ".05",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "OINTMENT"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "TAROPHARMA, A DIVISION OF TARO PHARMACEUTICALS INC."
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "CLOBETASOL"
+  ]
+}

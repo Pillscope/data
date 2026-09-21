@@ -1,0 +1,28 @@
+{
+  "drug_code": "2146",
+  "din": "00323098",
+  "brand_name": "FLAMAZINE CRM 1%",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "20-JUL-2007",
+  "active_ingredients": [
+    {
+      "name": "SILVER SULFADIAZINE",
+      "strength": "1",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "CREAM"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "SMITH & NEPHEW INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "SILVER SULFADIAZINE"
+  ]
+}

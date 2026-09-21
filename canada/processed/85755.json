@@ -1,0 +1,28 @@
+{
+  "drug_code": "85755",
+  "din": "02372436",
+  "brand_name": "STAXYN",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "19-SEP-2011",
+  "active_ingredients": [
+    {
+      "name": "VARDENAFIL (VARDENAFIL HYDROCHLORIDE)",
+      "strength": "10",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET (ORALLY DISINTEGRATING)"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "BAYER INC"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "VARDENAFIL"
+  ]
+}

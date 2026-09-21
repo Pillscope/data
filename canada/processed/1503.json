@@ -1,0 +1,26 @@
+{
+  "drug_code": "1503",
+  "din": "00250368",
+  "brand_name": "PHENYLBUTAZONE TAB 1000MG",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "26-FEB-2002",
+  "active_ingredients": [
+    {
+      "name": "PHENYLBUTAZONE",
+      "strength": "1",
+      "unit": "G"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "DOMINION VETERINARY LABORATORIES LTD."
+  ],
+  "status": "MARKETED",
+  "atc": []
+}

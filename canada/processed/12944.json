@@ -1,0 +1,39 @@
+{
+  "drug_code": "12944",
+  "din": "01934783",
+  "brand_name": "ROBAXISAL C 1/4",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "28-FEB-2018",
+  "active_ingredients": [
+    {
+      "name": "CODEINE PHOSPHATE",
+      "strength": "16.2",
+      "unit": "MG"
+    },
+    {
+      "name": "METHOCARBAMOL",
+      "strength": "400",
+      "unit": "MG"
+    },
+    {
+      "name": "ACETYLSALICYLIC ACID",
+      "strength": "325",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "PFIZER CONSUMER HEALTHCARE A DIVISION OF PFIZER CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "CODEINE, COMBINATIONS EXCL. PSYCHOLEPTICS",
+    "CODEINE, COMBINATIONS EXCL. PSYCHOLEPTICS"
+  ]
+}

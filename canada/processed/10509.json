@@ -1,0 +1,33 @@
+{
+  "drug_code": "10509",
+  "din": "00804789",
+  "brand_name": "POTASSIUM PHOSPHATES",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "27-JUL-2016",
+  "active_ingredients": [
+    {
+      "name": "POTASSIUM PHOSPHATE MONOBASIC",
+      "strength": "224",
+      "unit": "MG"
+    },
+    {
+      "name": "POTASSIUM PHOSPHATE DIBASIC",
+      "strength": "236",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "LIQUID"
+  ],
+  "routes": [
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "SANDOZ CANADA INCORPORATED"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "POTASSIUM PHOS INCL COMB W/0TH POT. SALTS"
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "drug_code": "37334",
+  "din": "02223252",
+  "brand_name": "PROCTOSEDYL OINTMENT",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "26-JUL-2017",
+  "active_ingredients": [
+    {
+      "name": "DIBUCAINE HYDROCHLORIDE",
+      "strength": "0.5",
+      "unit": "%"
+    },
+    {
+      "name": "ESCULIN",
+      "strength": "1",
+      "unit": "%"
+    },
+    {
+      "name": "FRAMYCETIN SULFATE",
+      "strength": "1",
+      "unit": "%"
+    },
+    {
+      "name": "HYDROCORTISONE",
+      "strength": "0.5",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "OINTMENT"
+  ],
+  "routes": [
+    "RECTAL"
+  ],
+  "companies": [
+    "APTALIS PHARMA CANADA ULC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "HYDROCORTISONE"
+  ]
+}

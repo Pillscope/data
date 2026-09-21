@@ -1,0 +1,34 @@
+{
+  "drug_code": "90365",
+  "din": "02419114",
+  "brand_name": "ACH-TELMISARTAN HCTZ",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "18-JAN-2016",
+  "active_ingredients": [
+    {
+      "name": "TELMISARTAN",
+      "strength": "80",
+      "unit": "MG"
+    },
+    {
+      "name": "HYDROCHLOROTHIAZIDE",
+      "strength": "12.5",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "ACCORD HEALTHCARE INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "TELMISARTAN AND DIURETICS",
+    "TELMISARTAN AND DIURETICS"
+  ]
+}

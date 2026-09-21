@@ -1,0 +1,28 @@
+{
+  "drug_code": "82061",
+  "din": "02334992",
+  "brand_name": "ENDOMETRIN",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "16-FEB-2010",
+  "active_ingredients": [
+    {
+      "name": "PROGESTERONE",
+      "strength": "100",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "VAGINAL TABLET, EFFERVESCENT"
+  ],
+  "routes": [
+    "VAGINAL"
+  ],
+  "companies": [
+    "FERRING INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "PROGESTERONE"
+  ]
+}

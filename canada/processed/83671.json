@@ -1,0 +1,28 @@
+{
+  "drug_code": "83671",
+  "din": "02351447",
+  "brand_name": "FUROSEMIDE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "20-MAY-2015",
+  "active_ingredients": [
+    {
+      "name": "FUROSEMIDE",
+      "strength": "80",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "SANIS HEALTH INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "FUROSEMIDE"
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "drug_code": "88441",
+  "din": "02399539",
+  "brand_name": "APO-ABACAVIR-LAMIVUDINE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "23-MAR-2016",
+  "active_ingredients": [
+    {
+      "name": "ABACAVIR (ABACAVIR SULFATE)",
+      "strength": "600",
+      "unit": "MG"
+    },
+    {
+      "name": "LAMIVUDINE",
+      "strength": "300",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "APOTEX INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "LAMIVUDINE AND ABACAVIR"
+  ]
+}

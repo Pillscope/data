@@ -1,0 +1,28 @@
+{
+  "drug_code": "62542",
+  "din": "02239087",
+  "brand_name": "WHITE PETROLEUM JELLY U.S.P.",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "19-JAN-2010",
+  "active_ingredients": [
+    {
+      "name": "PETROLATUM",
+      "strength": "1000",
+      "unit": "G"
+    }
+  ],
+  "forms": [
+    "PASTE"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "LABORATOIRES DELON (1990) INC"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "SOFT PARAFFIN AND FAT PRODUCTS"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "drug_code": "94555",
+  "din": "02458411",
+  "brand_name": "JAMP-OLOPATADINE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "06-OCT-2017",
+  "active_ingredients": [
+    {
+      "name": "OLOPATADINE (OLOPATADINE HYDROCHLORIDE)",
+      "strength": "0.1",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "OPHTHALMIC"
+  ],
+  "companies": [
+    "JAMP PHARMA CORPORATION"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "OLOPATADINE"
+  ]
+}

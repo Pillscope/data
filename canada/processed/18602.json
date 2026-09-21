@@ -1,0 +1,58 @@
+{
+  "drug_code": "18602",
+  "din": "02103052",
+  "brand_name": "ALERTONIC",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "29-APR-2015",
+  "active_ingredients": [
+    {
+      "name": "THIAMINE HYDROCHLORIDE",
+      "strength": "0.222",
+      "unit": "MG"
+    },
+    {
+      "name": "NICOTINAMIDE",
+      "strength": "1.111",
+      "unit": "MG"
+    },
+    {
+      "name": "PYRIDOXINE HYDROCHLORIDE",
+      "strength": "0.042",
+      "unit": "MG"
+    },
+    {
+      "name": "CHOLINE",
+      "strength": "2.222",
+      "unit": "MG"
+    },
+    {
+      "name": "INOSITOL",
+      "strength": "2.222",
+      "unit": "MG"
+    },
+    {
+      "name": "VITAMIN B2",
+      "strength": "0.111",
+      "unit": "MG"
+    },
+    {
+      "name": "PIPRADROL HYDROCHLORIDE",
+      "strength": "0.044",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "ELIXIR"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "ODAN LABORATORIES LTD"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "TONICS"
+  ]
+}

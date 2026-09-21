@@ -1,0 +1,39 @@
+{
+  "drug_code": "88238",
+  "din": "02397420",
+  "brand_name": "MENSTRUAL COMPLETE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "25-JAN-2017",
+  "active_ingredients": [
+    {
+      "name": "PYRILAMINE MALEATE",
+      "strength": "15",
+      "unit": "MG"
+    },
+    {
+      "name": "ACETAMINOPHEN",
+      "strength": "500",
+      "unit": "MG"
+    },
+    {
+      "name": "CAFFEINE",
+      "strength": "60",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "TANTA PHARMACEUTICALS INC"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "ACETAMINOPHEN, COMB EXCL PSYCHOLEPTICS",
+    "ACETAMINOPHEN, COMB EXCL PSYCHOLEPTICS"
+  ]
+}

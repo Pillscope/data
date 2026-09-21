@@ -1,0 +1,29 @@
+{
+  "drug_code": "65669",
+  "din": "02241999",
+  "brand_name": "CARBOCAINE 1%",
+  "class": "Human",
+  "descriptor": "30ML SINGLE USE VIAL",
+  "last_update": "02-AUG-2017",
+  "active_ingredients": [
+    {
+      "name": "MEPIVACAINE HYDROCHLORIDE",
+      "strength": "1",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "INTRACAUDAL",
+    "EPIDURAL"
+  ],
+  "companies": [
+    "PFIZER CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "MEPIVACAINE"
+  ]
+}

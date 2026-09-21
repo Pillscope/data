@@ -1,0 +1,28 @@
+{
+  "drug_code": "69744",
+  "din": "02245644",
+  "brand_name": "PMS-FLUCONAZOLE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "27-NOV-2002",
+  "active_ingredients": [
+    {
+      "name": "FLUCONAZOLE",
+      "strength": "100",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "PHARMASCIENCE INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "FLUCONAZOLE"
+  ]
+}

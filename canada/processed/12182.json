@@ -1,0 +1,29 @@
+{
+  "drug_code": "12182",
+  "din": "00851760",
+  "brand_name": "PULMICORT TURBUHALER 400 MCG/DOSE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "07-MAR-2006",
+  "active_ingredients": [
+    {
+      "name": "BUDESONIDE",
+      "strength": "400",
+      "unit": "MCG"
+    }
+  ],
+  "forms": [
+    "METERED-DOSE AEROSOL",
+    "POWDER"
+  ],
+  "routes": [
+    "INHALATION"
+  ],
+  "companies": [
+    "ASTRAZENECA CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "BUDESONIDE"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "drug_code": "76771",
+  "din": "02282062",
+  "brand_name": "ATOPICA",
+  "class": "Veterinary",
+  "descriptor": "50 MG CAPSULES",
+  "last_update": "16-MAR-2017",
+  "active_ingredients": [
+    {
+      "name": "CYCLOSPORINE",
+      "strength": "50",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "CAPSULE"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "ELANCO CANADA LIMITED"
+  ],
+  "status": "APPROVED",
+  "atc": []
+}

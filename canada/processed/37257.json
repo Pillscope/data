@@ -1,0 +1,33 @@
+{
+  "drug_code": "37257",
+  "din": "02220806",
+  "brand_name": "LUBRICATING NASAL GEL",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "29-APR-2015",
+  "active_ingredients": [
+    {
+      "name": "PROPYLENE GLYCOL",
+      "strength": "20",
+      "unit": "%"
+    },
+    {
+      "name": "MACROGOL",
+      "strength": "15",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "GEL"
+  ],
+  "routes": [
+    "NASAL"
+  ],
+  "companies": [
+    "PHARMASCIENCE INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "VARIOUS"
+  ]
+}

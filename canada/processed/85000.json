@@ -1,0 +1,28 @@
+{
+  "drug_code": "85000",
+  "din": "02365154",
+  "brand_name": "TOBI PODHALER",
+  "class": "Human",
+  "descriptor": "TOBRAMYCIN INHALATION POWDER. FOR ORAL INHALATION ONLY.",
+  "last_update": "27-JUN-2013",
+  "active_ingredients": [
+    {
+      "name": "TOBRAMYCIN",
+      "strength": "28",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "CAPSULE"
+  ],
+  "routes": [
+    "INHALATION"
+  ],
+  "companies": [
+    "NOVARTIS PHARMACEUTICALS CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "TOBRAMYCIN"
+  ]
+}

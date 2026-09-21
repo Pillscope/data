@@ -1,0 +1,28 @@
+{
+  "drug_code": "5618",
+  "din": "00604461",
+  "brand_name": "RESTORIL",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "03-AUG-2017",
+  "active_ingredients": [
+    {
+      "name": "TEMAZEPAM",
+      "strength": "30",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "CAPSULE"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "AA PHARMA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "TEMAZEPAM"
+  ]
+}

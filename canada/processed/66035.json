@@ -1,0 +1,28 @@
+{
+  "drug_code": "66035",
+  "din": "02242324",
+  "brand_name": "ZADITOR",
+  "class": "Human",
+  "descriptor": "WITH PRESERVATIVE",
+  "last_update": "19-SEP-2012",
+  "active_ingredients": [
+    {
+      "name": "KETOTIFEN (KETOTIFEN FUMARATE)",
+      "strength": "0.25",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "OPHTHALMIC"
+  ],
+  "companies": [
+    "LABORATOIRES THEA"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "KETOTIFEN"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "drug_code": "12892",
+  "din": "01950150",
+  "brand_name": "VITAMIN K1 INJECTION",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "27-JUL-2011",
+  "active_ingredients": [
+    {
+      "name": "VITAMIN K1",
+      "strength": "10",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "INTRAMUSCULAR",
+    "INTRAVENOUS",
+    "SUBCUTANEOUS"
+  ],
+  "companies": [
+    "VETOQUINOL N A INC"
+  ],
+  "status": "APPROVED",
+  "atc": []
+}

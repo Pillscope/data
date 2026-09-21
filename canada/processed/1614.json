@@ -1,0 +1,36 @@
+{
+  "drug_code": "1614",
+  "din": "00260096",
+  "brand_name": "SUPERCAL INJ",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "16-SEP-2004",
+  "active_ingredients": [
+    {
+      "name": "CALCIUM GLUCONATE",
+      "strength": "100",
+      "unit": "G"
+    },
+    {
+      "name": "MAGNESIUM HYPOPHOSPHITE",
+      "strength": "3",
+      "unit": "G"
+    },
+    {
+      "name": "DEXTROSE",
+      "strength": "75",
+      "unit": "G"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "DOMINION VETERINARY LABORATORIES LTD."
+  ],
+  "status": "MARKETED",
+  "atc": []
+}

@@ -1,0 +1,28 @@
+{
+  "drug_code": "8203",
+  "din": "00687456",
+  "brand_name": "VIROPTIC",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "19-SEP-2014",
+  "active_ingredients": [
+    {
+      "name": "TRIFLURIDINE",
+      "strength": "1",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "OPHTHALMIC"
+  ],
+  "companies": [
+    "VALEANT CANADA LP/VALEANT CANADA S.E.C."
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "TRIFLURIDINE"
+  ]
+}

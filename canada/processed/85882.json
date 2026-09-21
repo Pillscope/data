@@ -1,0 +1,38 @@
+{
+  "drug_code": "85882",
+  "din": "02373599",
+  "brand_name": "HAWAIIAN TROPIC SILK HYDRATION SUNSCREEN LOTION \u00c3\u0089CRAN SOLAIRE 50 SPF/FPS",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "18-MAY-2017",
+  "active_ingredients": [
+    {
+      "name": "AVOBENZONE",
+      "strength": "3",
+      "unit": "%"
+    },
+    {
+      "name": "OCTOCRYLENE",
+      "strength": "6",
+      "unit": "%"
+    },
+    {
+      "name": "OXYBENZONE",
+      "strength": "4",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "LOTION"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "EDGEWELL PERSONAL CARE CANADA, ULC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "COMBINATIONS OF PROTECTIVES AGAINST UV-RADIATION"
+  ]
+}

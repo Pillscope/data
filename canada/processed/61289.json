@@ -1,0 +1,28 @@
+{
+  "drug_code": "61289",
+  "din": "02237924",
+  "brand_name": "AVAPRO",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "12-AUG-2009",
+  "active_ingredients": [
+    {
+      "name": "IRBESARTAN",
+      "strength": "150",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "SANOFI-AVENTIS CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "IRBESARTAN"
+  ]
+}

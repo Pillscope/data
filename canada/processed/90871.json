@@ -1,0 +1,28 @@
+{
+  "drug_code": "90871",
+  "din": "02423987",
+  "brand_name": "RAN-ESOMEPRAZOLE",
+  "class": "Human",
+  "descriptor": "ESOMEPRAZOLE MAGNESIUM AMORPHOUS",
+  "last_update": "12-JAN-2015",
+  "active_ingredients": [
+    {
+      "name": "ESOMEPRAZOLE (ESOMEPRAZOLE MAGNESIUM)",
+      "strength": "40",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET (DELAYED-RELEASE)"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "RANBAXY PHARMACEUTICALS CANADA INC."
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "ESOMEPRAZOLE"
+  ]
+}

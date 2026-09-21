@@ -1,0 +1,28 @@
+{
+  "drug_code": "468",
+  "din": "00010340",
+  "brand_name": "ENTROPHEN ECT 650MG",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "15-NOV-2013",
+  "active_ingredients": [
+    {
+      "name": "ACETYLSALICYLIC ACID",
+      "strength": "650",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET (ENTERIC-COATED)"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "PENDOPHARM DIVISION OF DE PHARMASCIENCE INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "ACETYLSALICYLIC ACID"
+  ]
+}

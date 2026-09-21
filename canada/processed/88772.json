@@ -1,0 +1,43 @@
+{
+  "drug_code": "88772",
+  "din": "02402890",
+  "brand_name": "WRINKLE REPAIR MOISTURIZING CC CREAM SPF 30",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "01-OCT-2013",
+  "active_ingredients": [
+    {
+      "name": "OCTOCRYLENE",
+      "strength": "10.0",
+      "unit": "%"
+    },
+    {
+      "name": "OXYBENZONE",
+      "strength": "5.0",
+      "unit": "%"
+    },
+    {
+      "name": "OCTISALATE",
+      "strength": "3.0",
+      "unit": "%"
+    },
+    {
+      "name": "OCTINOXATE",
+      "strength": "7.5",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "CREAM"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "SANOFI CONSUMER HEALTH INC SANOFI SANTE GRAND PUBLIC INC"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "COMBINATIONS OF PROTECTIVES AGAINST UV-RADIATION"
+  ]
+}

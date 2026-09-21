@@ -1,0 +1,33 @@
+{
+  "drug_code": "73342",
+  "din": "02248967",
+  "brand_name": "SYSTANE LUBRICANT EYE DROPS",
+  "class": "Human",
+  "descriptor": "DROPS",
+  "last_update": "15-JUN-2017",
+  "active_ingredients": [
+    {
+      "name": "PROPYLENE GLYCOL",
+      "strength": "0.3",
+      "unit": "%"
+    },
+    {
+      "name": "POLYETHYLENE GLYCOL 400",
+      "strength": "0.4",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "OPHTHALMIC"
+  ],
+  "companies": [
+    "NOVARTIS PHARMACEUTICALS CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "ARTIFICIAL TEARS AND OTHER INDIFFERENT PREPARATIONS."
+  ]
+}

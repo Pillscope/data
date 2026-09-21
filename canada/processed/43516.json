@@ -1,0 +1,28 @@
+{
+  "drug_code": "43516",
+  "din": "02229145",
+  "brand_name": "NORVIR",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "02-JUN-2014",
+  "active_ingredients": [
+    {
+      "name": "RITONAVIR",
+      "strength": "80",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "ABBVIE CORPORATION"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "RITONAVIR"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "drug_code": "19197",
+  "din": "02160773",
+  "brand_name": "DIOFLUOR STRIPS",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "29-OCT-2014",
+  "active_ingredients": [
+    {
+      "name": "FLUORESCEIN SODIUM",
+      "strength": "1",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "STRIP"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "DIOPTIC PHARMACEUTICALS INC"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "FLUORESCEIN"
+  ]
+}

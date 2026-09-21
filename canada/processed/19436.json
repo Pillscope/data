@@ -1,0 +1,28 @@
+{
+  "drug_code": "19436",
+  "din": "00824305",
+  "brand_name": "DDAVP TABLETS 0.1MG",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "22-NOV-2005",
+  "active_ingredients": [
+    {
+      "name": "DESMOPRESSIN ACETATE",
+      "strength": "0.1",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "FERRING INC"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "DESMOPRESSIN"
+  ]
+}

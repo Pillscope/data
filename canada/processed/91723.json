@@ -1,0 +1,33 @@
+{
+  "drug_code": "91723",
+  "din": "02432854",
+  "brand_name": "DUAVIVE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "17-JAN-2017",
+  "active_ingredients": [
+    {
+      "name": "CONJUGATED ESTROGENS",
+      "strength": "0.45",
+      "unit": "MG"
+    },
+    {
+      "name": "BAZEDOXIFENE (BAZEDOXIFENE ACETATE)",
+      "strength": "20",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET (IMMEDIATE AND EXTENDED RELEASE)"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "PFIZER CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "CONJUGATED ESTROGENS AND BAZEDOXIFENE"
+  ]
+}

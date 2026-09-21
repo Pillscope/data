@@ -1,0 +1,28 @@
+{
+  "drug_code": "73418",
+  "din": "02249340",
+  "brand_name": "ANTIBACTERIAL LOTION SOAP",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "12-JAN-2016",
+  "active_ingredients": [
+    {
+      "name": "TRICLOSAN",
+      "strength": "0.4",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "LIQUID"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "CHARLOTTE PRODUCTS LIMITED"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "TRICLOSAN"
+  ]
+}

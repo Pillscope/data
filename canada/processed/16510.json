@@ -1,0 +1,111 @@
+{
+  "drug_code": "16510",
+  "din": "02080486",
+  "brand_name": "STRESS-AID",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "02-JUL-2008",
+  "active_ingredients": [
+    {
+      "name": "SODIUM DIACETATE",
+      "strength": "2.083",
+      "unit": "G"
+    },
+    {
+      "name": "VITAMIN A ACETATE",
+      "strength": "2566000",
+      "unit": "UNIT"
+    },
+    {
+      "name": "THIAMINE HYDROCHLORIDE",
+      "strength": "462.5",
+      "unit": "MG"
+    },
+    {
+      "name": "NICOTINAMIDE",
+      "strength": "4488",
+      "unit": "MG"
+    },
+    {
+      "name": "CALCIUM D-PANTOTHENATE",
+      "strength": "3252",
+      "unit": "MG"
+    },
+    {
+      "name": "PYRIDOXINE HYDROCHLORIDE",
+      "strength": "448.8",
+      "unit": "MG"
+    },
+    {
+      "name": "SODIUM BICARBONATE",
+      "strength": "4.166",
+      "unit": "G"
+    },
+    {
+      "name": "BIOTIN",
+      "strength": "18700",
+      "unit": "MCG"
+    },
+    {
+      "name": "VITAMIN D3",
+      "strength": "561000",
+      "unit": "UNIT"
+    },
+    {
+      "name": "VITAMIN B2",
+      "strength": "1122",
+      "unit": "MG"
+    },
+    {
+      "name": "VITAMIN C",
+      "strength": "555",
+      "unit": "MG"
+    },
+    {
+      "name": "VITAMIN E",
+      "strength": "1870",
+      "unit": "UNIT"
+    },
+    {
+      "name": "SODIUM CHLORIDE",
+      "strength": "49.3",
+      "unit": "G"
+    },
+    {
+      "name": "SODIUM ACETATE",
+      "strength": "4.166",
+      "unit": "G"
+    },
+    {
+      "name": "POTASSIUM CHLORIDE",
+      "strength": "12.49",
+      "unit": "G"
+    },
+    {
+      "name": "FOLIC ACID",
+      "strength": "112.2",
+      "unit": "MG"
+    },
+    {
+      "name": "VITAMIN B12",
+      "strength": "3740",
+      "unit": "MCG"
+    },
+    {
+      "name": "MENADIONE SODIUM BISULFITE",
+      "strength": "748",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "POWDER FOR SOLUTION"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "VETOQUINOL N A INC"
+  ],
+  "status": "APPROVED",
+  "atc": []
+}

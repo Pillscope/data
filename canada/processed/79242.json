@@ -1,0 +1,28 @@
+{
+  "drug_code": "79242",
+  "din": "02306727",
+  "brand_name": "PANTOPRAZOLE SODIUM FOR INJECTION",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "11-APR-2008",
+  "active_ingredients": [
+    {
+      "name": "PANTOPRAZOLE (PANTOPRAZOLE SODIUM)",
+      "strength": "40",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "POWDER FOR SOLUTION"
+  ],
+  "routes": [
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "SANDOZ CANADA INCORPORATED"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "PANTOPRAZOLE"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "drug_code": "50960",
+  "din": "02231593",
+  "brand_name": "DURATOCIN INJECTION",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "04-MAY-2006",
+  "active_ingredients": [
+    {
+      "name": "CARBETOCIN",
+      "strength": "100",
+      "unit": "MCG"
+    }
+  ],
+  "forms": [
+    "LIQUID"
+  ],
+  "routes": [
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "FERRING INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "CARBETOCIN"
+  ]
+}

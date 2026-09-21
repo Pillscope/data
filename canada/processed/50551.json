@@ -1,0 +1,28 @@
+{
+  "drug_code": "50551",
+  "din": "02231244",
+  "brand_name": "PMS-IPRATROPIUM",
+  "class": "Human",
+  "descriptor": "1ML UNIT DOSE",
+  "last_update": "08-DEC-2016",
+  "active_ingredients": [
+    {
+      "name": "IPRATROPIUM BROMIDE",
+      "strength": "250",
+      "unit": "MCG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "INHALATION"
+  ],
+  "companies": [
+    "PHARMASCIENCE INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "IPRATROPIUM BROMIDE"
+  ]
+}

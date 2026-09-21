@@ -1,0 +1,28 @@
+{
+  "drug_code": "90735",
+  "din": "02422689",
+  "brand_name": "SANDOZ LINEZOLID",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "08-OCT-2014",
+  "active_ingredients": [
+    {
+      "name": "LINEZOLID",
+      "strength": "600",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "SANDOZ CANADA INCORPORATED"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "LINEZOLID"
+  ]
+}

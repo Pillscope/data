@@ -1,0 +1,28 @@
+{
+  "drug_code": "87999",
+  "din": "02394839",
+  "brand_name": "ESOMEPRAZOLE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "15-JAN-2015",
+  "active_ingredients": [
+    {
+      "name": "ESOMEPRAZOLE (ESOMEPRAZOLE MAGNESIUM)",
+      "strength": "20",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET (DELAYED-RELEASE)"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "PRO DOC LIMITEE"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "ESOMEPRAZOLE"
+  ]
+}

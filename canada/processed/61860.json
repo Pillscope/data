@@ -1,0 +1,28 @@
+{
+  "drug_code": "61860",
+  "din": "02238441",
+  "brand_name": "ZYBAN",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "13-DEC-2013",
+  "active_ingredients": [
+    {
+      "name": "BUPROPION HYDROCHLORIDE",
+      "strength": "150",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET (EXTENDED-RELEASE)"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "VALEANT CANADA LP/VALEANT CANADA S.E.C."
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "BUPROPION"
+  ]
+}

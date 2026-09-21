@@ -1,0 +1,33 @@
+{
+  "drug_code": "9829",
+  "din": "00799963",
+  "brand_name": "CYSTOSOL W 3% HEXITOLS",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "20-JUN-2006",
+  "active_ingredients": [
+    {
+      "name": "MANNITOL",
+      "strength": "500",
+      "unit": "MG"
+    },
+    {
+      "name": "SORBITOL",
+      "strength": "2.5",
+      "unit": "G"
+    }
+  ],
+  "forms": [
+    "LIQUID"
+  ],
+  "routes": [
+    "IRRIGATION"
+  ],
+  "companies": [
+    "BAXTER CORPORATION"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "COMBINATIONS"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "drug_code": "91035",
+  "din": "02425718",
+  "brand_name": "CISATRACURIUM BESYLATE INJECTION",
+  "class": "Human",
+  "descriptor": "MULTIDOSE VIAL",
+  "last_update": "09-NOV-2017",
+  "active_ingredients": [
+    {
+      "name": "CISATRACURIUM (CISATRACURIUM BESYLATE)",
+      "strength": "2",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "PFIZER CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "CISATRACURIUM"
+  ]
+}

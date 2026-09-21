@@ -1,0 +1,53 @@
+{
+  "drug_code": "6366",
+  "din": "00512990",
+  "brand_name": "BSS STERILE IRRIGATING SOLUTION",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "29-APR-2015",
+  "active_ingredients": [
+    {
+      "name": "SODIUM CHLORIDE",
+      "strength": "0.64",
+      "unit": "%"
+    },
+    {
+      "name": "POTASSIUM CHLORIDE",
+      "strength": "0.075",
+      "unit": "%"
+    },
+    {
+      "name": "SODIUM CITRATE DIHYDRATE",
+      "strength": "0.17",
+      "unit": "%"
+    },
+    {
+      "name": "MAGNESIUM CHLORIDE",
+      "strength": "0.03",
+      "unit": "%"
+    },
+    {
+      "name": "CALCIUM CHLORIDE",
+      "strength": "0.048",
+      "unit": "%"
+    },
+    {
+      "name": "SODIUM ACETATE TRIHYDRATE",
+      "strength": "0.39",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "OPHTHALMIC"
+  ],
+  "companies": [
+    "ALCON CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "SOLVENTS AND DILUTING AGENTS,INCL IRRIGAT SOLUT"
+  ]
+}

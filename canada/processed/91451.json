@@ -1,0 +1,28 @@
+{
+  "drug_code": "91451",
+  "din": "02430118",
+  "brand_name": "ESCITALOPRAM",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "22-OCT-2014",
+  "active_ingredients": [
+    {
+      "name": "ESCITALOPRAM (ESCITALOPRAM OXALATE)",
+      "strength": "10",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "SANIS HEALTH INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "ESCITALOPRAM"
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "drug_code": "77410",
+  "din": "02288699",
+  "brand_name": "ANEW AGE-TRANSFORMING FOUNDATION LOTION",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "08-JAN-2013",
+  "active_ingredients": [
+    {
+      "name": "TITANIUM DIOXIDE",
+      "strength": "4.0",
+      "unit": "%"
+    },
+    {
+      "name": "OCTINOXATE",
+      "strength": "7.5",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "LOTION"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "AVON CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "COMBINATIONS OF PROTECTIVES AGAINST UV-RADIATION"
+  ]
+}

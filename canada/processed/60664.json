@@ -1,0 +1,31 @@
+{
+  "drug_code": "60664",
+  "din": "02237340",
+  "brand_name": "SYNOTIC",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "02-AUG-2017",
+  "active_ingredients": [
+    {
+      "name": "DIMETHYL SULFOXIDE",
+      "strength": "60",
+      "unit": "%"
+    },
+    {
+      "name": "FLUOCINOLONE ACETONIDE",
+      "strength": "0.01",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "OTIC"
+  ],
+  "companies": [
+    "ZOETIS CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": []
+}

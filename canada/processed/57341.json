@@ -1,0 +1,30 @@
+{
+  "drug_code": "57341",
+  "din": "02235299",
+  "brand_name": "ALLERGENIC EXTRACT, STANDARDIZED CAT PELT",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "12-JAN-2006",
+  "active_ingredients": [
+    {
+      "name": "STANDARDIZED CAT PELT",
+      "strength": "10000",
+      "unit": "UNIT"
+    }
+  ],
+  "forms": [
+    "LIQUID"
+  ],
+  "routes": [
+    "INTRADERMAL",
+    "SUBCUTANEOUS",
+    "PERCUTANEOUS"
+  ],
+  "companies": [
+    "ALK-ABELLO INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "ANIMALS"
+  ]
+}

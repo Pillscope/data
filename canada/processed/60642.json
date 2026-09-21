@@ -1,0 +1,28 @@
+{
+  "drug_code": "60642",
+  "din": "02237320",
+  "brand_name": "REBIF",
+  "class": "Human",
+  "descriptor": "PRE-FILLED SYRINGE",
+  "last_update": "02-FEB-2011",
+  "active_ingredients": [
+    {
+      "name": "INTERFERON BETA-1A",
+      "strength": "44",
+      "unit": "MCG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "SUBCUTANEOUS"
+  ],
+  "companies": [
+    "EMD SERONO A DIVISION OF EMD INC CANADA"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "INTERFERON BETA-1A"
+  ]
+}

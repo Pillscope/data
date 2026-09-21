@@ -1,0 +1,28 @@
+{
+  "drug_code": "12016",
+  "din": "01901885",
+  "brand_name": "YOHIMBINE TAB 5.4MG",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "27-APR-2009",
+  "active_ingredients": [
+    {
+      "name": "YOHIMBINE HYDROCHLORIDE",
+      "strength": "5.4",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "ODAN LABORATORIES LTD"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "YOHIMBIN"
+  ]
+}

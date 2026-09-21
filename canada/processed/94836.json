@@ -1,0 +1,33 @@
+{
+  "drug_code": "94836",
+  "din": "02460874",
+  "brand_name": "OLAY AGE DEFYING ADVANCED WITH HYALURONIC ACID HYDRATING MOISTURIZER LOTION WITH SUNSCREEN",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "09-APR-2018",
+  "active_ingredients": [
+    {
+      "name": "ZINC OXIDE",
+      "strength": "3",
+      "unit": "%"
+    },
+    {
+      "name": "OCTINOXATE",
+      "strength": "6",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "LOTION"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "PROCTER & GAMBLE INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "COMBINATIONS OF PROTECTIVES AGAINST UV-RADIATION"
+  ]
+}

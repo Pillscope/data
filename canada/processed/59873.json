@@ -1,0 +1,33 @@
+{
+  "drug_code": "59873",
+  "din": "02236399",
+  "brand_name": "ANODAN-HC 10MG SUPPOSITORIES",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "20-MAY-2006",
+  "active_ingredients": [
+    {
+      "name": "HYDROCORTISONE ACETATE",
+      "strength": "10",
+      "unit": "MG"
+    },
+    {
+      "name": "ZINC SULFATE",
+      "strength": "10",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SUPPOSITORY"
+  ],
+  "routes": [
+    "RECTAL"
+  ],
+  "companies": [
+    "ODAN LABORATORIES LTD"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "HYDROCORTISONE"
+  ]
+}

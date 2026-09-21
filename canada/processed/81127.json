@@ -1,0 +1,28 @@
+{
+  "drug_code": "81127",
+  "din": "02325926",
+  "brand_name": "NIMOTOP",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "01-SEP-2009",
+  "active_ingredients": [
+    {
+      "name": "NIMODIPINE",
+      "strength": "30",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "BAYER INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "NIMODIPINE"
+  ]
+}

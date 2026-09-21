@@ -1,0 +1,34 @@
+{
+  "drug_code": "79099",
+  "din": "02305445",
+  "brand_name": "THYMOX B\u00c3\u0082TIMENT AGRICOLE ET ENTREP\u00c3\u0094T",
+  "class": "Disinfectant",
+  "descriptor": "",
+  "last_update": "29-APR-2015",
+  "active_ingredients": [
+    {
+      "name": "THYMOL",
+      "strength": "18.02",
+      "unit": "%"
+    },
+    {
+      "name": "CARVACROL",
+      "strength": "2.37",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "DISINFECTANT (Barn)",
+    "DISINFECTANT (Institutional/Industrial)"
+  ],
+  "companies": [
+    "LABORATOIRE M2 INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "TECHNICAL DISINFECTANTS"
+  ]
+}

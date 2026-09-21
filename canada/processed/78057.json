@@ -1,0 +1,28 @@
+{
+  "drug_code": "78057",
+  "din": "02295253",
+  "brand_name": "CHLORHEXIDINE SOLUTION",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "16-JUN-2011",
+  "active_ingredients": [
+    {
+      "name": "CHLORHEXIDINE GLUCONATE",
+      "strength": "2",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "PARTNAR ANIMAL HEALTH INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "CHLORHEXIDINE"
+  ]
+}

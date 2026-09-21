@@ -1,0 +1,26 @@
+{
+  "drug_code": "81610",
+  "din": "02330369",
+  "brand_name": "IVERMECTIN POUR-ON FOR CATTLE",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "24-OCT-2017",
+  "active_ingredients": [
+    {
+      "name": "IVERMECTIN",
+      "strength": "5",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "ALBERTA VETERINARY LABORATORIES LTD"
+  ],
+  "status": "APPROVED",
+  "atc": []
+}

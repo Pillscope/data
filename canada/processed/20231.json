@@ -1,0 +1,27 @@
+{
+  "drug_code": "20231",
+  "din": "02169541",
+  "brand_name": "LEGEND",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "17-AUG-2015",
+  "active_ingredients": [
+    {
+      "name": "HYALURONATE SODIUM",
+      "strength": "10",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "INTRA-ARTICULAR",
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "MERIAL CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": []
+}

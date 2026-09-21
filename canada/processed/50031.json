@@ -1,0 +1,28 @@
+{
+  "drug_code": "50031",
+  "din": "02230768",
+  "brand_name": "PMS-VALPROIC ACID",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "29-MAR-2006",
+  "active_ingredients": [
+    {
+      "name": "VALPROIC ACID",
+      "strength": "250",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "CAPSULE"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "PHARMASCIENCE INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "VALPROIC ACID"
+  ]
+}

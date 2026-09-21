@@ -1,0 +1,28 @@
+{
+  "drug_code": "2909",
+  "din": "00426830",
+  "brand_name": "METHYLDOPA",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "18-MAY-2011",
+  "active_ingredients": [
+    {
+      "name": "METHYLDOPA",
+      "strength": "500",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "AA PHARMA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "METHYLDOPA (RACEMIC)"
+  ]
+}

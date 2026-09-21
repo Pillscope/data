@@ -1,0 +1,43 @@
+{
+  "drug_code": "89819",
+  "din": "02413531",
+  "brand_name": "DR. ANDREW WEIL FOR ORIGINS MEGA-BRIGHT SPF 30 SKIN TONE CORRECTING OIL-FREE MOISTURIZER",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "26-OCT-2017",
+  "active_ingredients": [
+    {
+      "name": "AVOBENZONE",
+      "strength": "3",
+      "unit": "%"
+    },
+    {
+      "name": "OCTOCRYLENE",
+      "strength": "2.7",
+      "unit": "%"
+    },
+    {
+      "name": "OCTISALATE",
+      "strength": "5",
+      "unit": "%"
+    },
+    {
+      "name": "HOMOSALATE",
+      "strength": "5",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "CREAM"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "ORIGINS NATURAL RESOURCES DIST"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "COMBINATIONS OF PROTECTIVES AGAINST UV-RADIATION"
+  ]
+}

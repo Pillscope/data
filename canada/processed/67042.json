@@ -1,0 +1,78 @@
+{
+  "drug_code": "67042",
+  "din": "02243167",
+  "brand_name": "PEDIACEL",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "03-JUL-2014",
+  "active_ingredients": [
+    {
+      "name": "TETANUS PROTEIN",
+      "strength": "30",
+      "unit": "MCG"
+    },
+    {
+      "name": "HAEMOPHILUS INFLUENZAE TYPE B-PRP",
+      "strength": "10",
+      "unit": "MCG"
+    },
+    {
+      "name": "DIPHTHERIA TOXOID",
+      "strength": "15",
+      "unit": "LF"
+    },
+    {
+      "name": "TETANUS TOXOID",
+      "strength": "5",
+      "unit": "LF"
+    },
+    {
+      "name": "INACTIVATED POLIOMYELITIS VACCINE (D.C.O.) TYPE 3 SAUKETT",
+      "strength": "32",
+      "unit": "UNIT"
+    },
+    {
+      "name": "INACTIVATED POLIOMYELITIS VACCINE (D.C.O.) TYPE 2 MEF1",
+      "strength": "8",
+      "unit": "UNIT"
+    },
+    {
+      "name": "INACTIVATED POLIOMYELITIS VACCINE (D.C.O.) TYPE 1 MAHONEY",
+      "strength": "40",
+      "unit": "UNIT"
+    },
+    {
+      "name": "PERTACTIN",
+      "strength": "3",
+      "unit": "MCG"
+    },
+    {
+      "name": "FIMBRIAE",
+      "strength": "5",
+      "unit": "MCG"
+    },
+    {
+      "name": "PERTUSSIS TOXOID",
+      "strength": "20",
+      "unit": "MCG"
+    },
+    {
+      "name": "FILAMENTOUS HAEMAGGLUTININ",
+      "strength": "20",
+      "unit": "MCG"
+    }
+  ],
+  "forms": [
+    "SUSPENSION"
+  ],
+  "routes": [
+    "INTRAMUSCULAR"
+  ],
+  "companies": [
+    "SANOFI PASTEUR LIMITED"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "DIPHT-HEMOPH INFLUEN B-PERTUSS-POLIO-TETANUS"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "drug_code": "933",
+  "din": "00029149",
+  "brand_name": "FUNGIZONE INTRAVENOUS INJECTION 50MG",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "05-MAY-2015",
+  "active_ingredients": [
+    {
+      "name": "AMPHOTERICIN B",
+      "strength": "50",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "POWDER FOR SOLUTION"
+  ],
+  "routes": [
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "BRISTOL-MYERS SQUIBB CANADA"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "AMPHOTERICIN B"
+  ]
+}

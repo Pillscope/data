@@ -1,0 +1,28 @@
+{
+  "drug_code": "62731",
+  "din": "02239267",
+  "brand_name": "MAVIK",
+  "class": "Human",
+  "descriptor": "4MG",
+  "last_update": "07-OCT-2015",
+  "active_ingredients": [
+    {
+      "name": "TRANDOLAPRIL",
+      "strength": "4",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "CAPSULE"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "BGP PHARMA ULC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "TRANDOLAPRIL"
+  ]
+}

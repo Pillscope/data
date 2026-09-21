@@ -1,0 +1,27 @@
+{
+  "drug_code": "48212",
+  "din": "02229855",
+  "brand_name": "DIPYRONE 50",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "02-NOV-2017",
+  "active_ingredients": [
+    {
+      "name": "DIPYRONE MONOHYDRATE",
+      "strength": "50",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "INTRAMUSCULAR",
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "MAX PHARMA CANADA INC."
+  ],
+  "status": "APPROVED",
+  "atc": []
+}

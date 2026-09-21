@@ -1,0 +1,26 @@
+{
+  "drug_code": "10387",
+  "din": "00797103",
+  "brand_name": "TEAT GUARD LIQUID 14.6%",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "04-AUG-2004",
+  "active_ingredients": [
+    {
+      "name": "NONYL PHENOXYPOLY ETHOXY ETHANOL-IODINE",
+      "strength": "14.6",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "LIQUID"
+  ],
+  "routes": [
+    "TEAT-DIP"
+  ],
+  "companies": [
+    "ECOLAB CO"
+  ],
+  "status": "MARKETED",
+  "atc": []
+}

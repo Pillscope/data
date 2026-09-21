@@ -1,0 +1,26 @@
+{
+  "drug_code": "12999",
+  "din": "01913034",
+  "brand_name": "CESTEX",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "15-AUG-2016",
+  "active_ingredients": [
+    {
+      "name": "EPSIPRANTEL",
+      "strength": "12.5",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "ZOETIS CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": []
+}

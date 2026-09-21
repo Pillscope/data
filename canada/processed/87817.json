@@ -1,0 +1,28 @@
+{
+  "drug_code": "87817",
+  "din": "02392909",
+  "brand_name": "MAR-FLUOXETINE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "08-MAY-2013",
+  "active_ingredients": [
+    {
+      "name": "FLUOXETINE (FLUOXETINE HYDROCHLORIDE)",
+      "strength": "10",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "CAPSULE"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "MARCAN PHARMACEUTICALS INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "FLUOXETINE"
+  ]
+}

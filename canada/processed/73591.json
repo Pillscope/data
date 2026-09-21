@@ -1,0 +1,28 @@
+{
+  "drug_code": "73591",
+  "din": "02250985",
+  "brand_name": "WINNING HANDS FOAMING ANTIBACTERIAL HAND CLEANSER",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "21-NOV-2008",
+  "active_ingredients": [
+    {
+      "name": "TRICLOSAN",
+      "strength": "0.3",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "LIQUID"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "BETCO CORPORATION"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "TRICLOSAN"
+  ]
+}

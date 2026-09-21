@@ -1,0 +1,28 @@
+{
+  "drug_code": "94441",
+  "din": "02457350",
+  "brand_name": "RITUXAN SC",
+  "class": "Human",
+  "descriptor": "SINGLE DOSE VIAL - 120 MG/ML",
+  "last_update": "16-MAR-2018",
+  "active_ingredients": [
+    {
+      "name": "RITUXIMAB",
+      "strength": "1400",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "SUBCUTANEOUS"
+  ],
+  "companies": [
+    "HOFFMANN-LA ROCHE LIMITED"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "RITUXIMAB"
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "drug_code": "2954",
+  "din": "00435430",
+  "brand_name": "MIKROKLENE",
+  "class": "Disinfectant",
+  "descriptor": "",
+  "last_update": "29-SEP-2010",
+  "active_ingredients": [
+    {
+      "name": "BUTOXY POLYOXYPROPYLENE POLYOXYETHYLENE GLY.IODINE",
+      "strength": "15.5",
+      "unit": "%"
+    },
+    {
+      "name": "PHOSPHORIC ACID",
+      "strength": "6.5",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "LIQUID"
+  ],
+  "routes": [
+    "DISINFECTANT (Medical Instruments)",
+    "DISINFECTANT (Food Premises)"
+  ],
+  "companies": [
+    "ECOLAB CO"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "TECHNICAL DISINFECTANTS"
+  ]
+}

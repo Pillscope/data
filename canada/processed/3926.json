@@ -1,0 +1,91 @@
+{
+  "drug_code": "3926",
+  "din": "00511757",
+  "brand_name": "3-SULVIT",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "11-DEC-2017",
+  "active_ingredients": [
+    {
+      "name": "NICOTINAMIDE",
+      "strength": "3",
+      "unit": "G"
+    },
+    {
+      "name": "CALCIUM D-PANTOTHENATE",
+      "strength": "761.9",
+      "unit": "MG"
+    },
+    {
+      "name": "VITAMIN D3",
+      "strength": "80000",
+      "unit": "UNIT"
+    },
+    {
+      "name": "SULFAMERAZINE SODIUM",
+      "strength": "67.4",
+      "unit": "G"
+    },
+    {
+      "name": "SULFATHIAZOLE SODIUM (SULFATHIAZOLE SODIUM SESQUIHYDRATE)",
+      "strength": "102.9",
+      "unit": "G"
+    },
+    {
+      "name": "VITAMIN B2",
+      "strength": "200",
+      "unit": "MG"
+    },
+    {
+      "name": "VITAMIN A",
+      "strength": "240000",
+      "unit": "UNIT"
+    },
+    {
+      "name": "SODIUM CHLORIDE",
+      "strength": "3.15",
+      "unit": "G"
+    },
+    {
+      "name": "MAGNESIUM SULFATE",
+      "strength": "200",
+      "unit": "MG"
+    },
+    {
+      "name": "SODIUM ACETATE",
+      "strength": "2.8",
+      "unit": "G"
+    },
+    {
+      "name": "POTASSIUM CHLORIDE",
+      "strength": "250",
+      "unit": "MG"
+    },
+    {
+      "name": "CALCIUM CHLORIDE",
+      "strength": "250",
+      "unit": "MG"
+    },
+    {
+      "name": "SULFAMETHAZINE SODIUM",
+      "strength": "170.5",
+      "unit": "G"
+    },
+    {
+      "name": "VITAMIN B12",
+      "strength": "2.3",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "POWDER FOR SOLUTION"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "VETOQUINOL N A INC"
+  ],
+  "status": "APPROVED",
+  "atc": []
+}

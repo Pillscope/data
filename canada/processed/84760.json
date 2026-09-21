@@ -1,0 +1,28 @@
+{
+  "drug_code": "84760",
+  "din": "02362597",
+  "brand_name": "POTASSIUM ACETATE INJECTION USP",
+  "class": "Human",
+  "descriptor": "POTASSIUM 4MMOL/ML. 50ML SINGLE USE VIALS.",
+  "last_update": "02-AUG-2016",
+  "active_ingredients": [
+    {
+      "name": "POTASSIUM ACETATE",
+      "strength": "39.2",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "LIQUID"
+  ],
+  "routes": [
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "OMEGA LABORATORIES LTD"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "POTASSIUM ACETATE"
+  ]
+}

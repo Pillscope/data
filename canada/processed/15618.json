@@ -1,0 +1,43 @@
+{
+  "drug_code": "15618",
+  "din": "02053403",
+  "brand_name": "TEVA-COTRIDIN EXPECTORANT",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "05-MAR-2018",
+  "active_ingredients": [
+    {
+      "name": "GUAIFENESIN",
+      "strength": "100",
+      "unit": "MG"
+    },
+    {
+      "name": "CODEINE PHOSPHATE",
+      "strength": "10",
+      "unit": "MG"
+    },
+    {
+      "name": "PSEUDOEPHEDRINE HYDROCHLORIDE",
+      "strength": "30",
+      "unit": "MG"
+    },
+    {
+      "name": "TRIPROLIDINE HYDROCHLORIDE",
+      "strength": "2",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SYRUP"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "TEVA CANADA LIMITED"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "OPIUM DERIVATIVES AND EXPECTORANTS"
+  ]
+}

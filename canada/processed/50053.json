@@ -1,0 +1,28 @@
+{
+  "drug_code": "50053",
+  "din": "02230784",
+  "brand_name": "TAZORAC",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "06-AUG-2008",
+  "active_ingredients": [
+    {
+      "name": "TAZAROTENE",
+      "strength": "0.05",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "GEL"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "ALLERGAN INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "TAZAROTENE"
+  ]
+}

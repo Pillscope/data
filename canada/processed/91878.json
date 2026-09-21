@@ -1,0 +1,28 @@
+{
+  "drug_code": "91878",
+  "din": "02434458",
+  "brand_name": "ZOLEDRONIC ACID FOR INJECTION",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "19-FEB-2016",
+  "active_ingredients": [
+    {
+      "name": "ZOLEDRONIC ACID (Zoledronic acid monohydrate)",
+      "strength": "4",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "FRESENIUS KABI CANADA LTD"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "ZOLEDRONIC ACID"
+  ]
+}

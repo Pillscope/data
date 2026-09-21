@@ -1,0 +1,28 @@
+{
+  "drug_code": "91806",
+  "din": "02433702",
+  "brand_name": "PRIVA-FLUCONAZOLE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "13-JAN-2017",
+  "active_ingredients": [
+    {
+      "name": "FLUCONAZOLE",
+      "strength": "150",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "CAPSULE"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "PHARMAPAR INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "FLUCONAZOLE"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "drug_code": "61060",
+  "din": "02237712",
+  "brand_name": "ORBAX",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "15-FEB-2013",
+  "active_ingredients": [
+    {
+      "name": "ORBIFLOXACIN",
+      "strength": "5.7",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "INTERVET CANADA CORP"
+  ],
+  "status": "APPROVED",
+  "atc": []
+}

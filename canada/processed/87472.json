@@ -1,0 +1,33 @@
+{
+  "drug_code": "87472",
+  "din": "02389215",
+  "brand_name": "STOMACH RELIEF CHEWABLE TABLETS",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "15-JAN-2015",
+  "active_ingredients": [
+    {
+      "name": "BISMUTH SUBSALICYLATE",
+      "strength": "262",
+      "unit": "MG"
+    },
+    {
+      "name": "CALCIUM CARBONATE",
+      "strength": "350",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET (CHEWABLE)"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "GUARDIAN DRUG COMPANY INC"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "ANTACIDS, OTHER COMBINATIONS"
+  ]
+}

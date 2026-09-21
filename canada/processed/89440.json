@@ -1,0 +1,28 @@
+{
+  "drug_code": "89440",
+  "din": "02409720",
+  "brand_name": "TUDORZA GENUAIR",
+  "class": "Human",
+  "descriptor": "FOR ORAL INHALATION. 1 INHALER WITH 30 ACTUATIONS & 1 INHALER WITH 60 ACTUATIONS",
+  "last_update": "05-JUL-2016",
+  "active_ingredients": [
+    {
+      "name": "Aclidinium bromide",
+      "strength": "400",
+      "unit": "MCG"
+    }
+  ],
+  "forms": [
+    "POWDER (METERED DOSE)"
+  ],
+  "routes": [
+    "INHALATION"
+  ],
+  "companies": [
+    "ASTRAZENECA CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "Aclidinium Bromide"
+  ]
+}

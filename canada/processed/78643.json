@@ -1,0 +1,28 @@
+{
+  "drug_code": "78643",
+  "din": "02301083",
+  "brand_name": "SANDOZ PANTOPRAZOLE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "20-MAY-2015",
+  "active_ingredients": [
+    {
+      "name": "PANTOPRAZOLE (PANTOPRAZOLE SODIUM SESQUIHYDRATE)",
+      "strength": "40",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET (DELAYED-RELEASE)"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "SANDOZ CANADA INCORPORATED"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "PANTOPRAZOLE"
+  ]
+}

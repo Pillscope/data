@@ -1,0 +1,28 @@
+{
+  "drug_code": "87628",
+  "din": "02390892",
+  "brand_name": "AURO-MELOXICAM",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "22-NOV-2012",
+  "active_ingredients": [
+    {
+      "name": "MELOXICAM",
+      "strength": "15",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "AURO PHARMA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "MELOXICAM"
+  ]
+}

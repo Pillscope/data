@@ -1,0 +1,33 @@
+{
+  "drug_code": "66843",
+  "din": "02243003",
+  "brand_name": "CHLORHEXIDINE AND ISOPROPYL ALCOHOL PREP PADS",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "16-JAN-2006",
+  "active_ingredients": [
+    {
+      "name": "CHLORHEXIDINE GLUCONATE",
+      "strength": "0.5",
+      "unit": "%"
+    },
+    {
+      "name": "ISOPROPYL ALCOHOL",
+      "strength": "70",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "PAD"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "PROFESSIONAL DISPOSABLES INTERNATIONAL INC."
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "CHLORHEXIDINE, COMBINATIONS"
+  ]
+}

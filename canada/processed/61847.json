@@ -1,0 +1,28 @@
+{
+  "drug_code": "61847",
+  "din": "02238428",
+  "brand_name": "OXYGEN (COMPRESSED)",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "26-JAN-2003",
+  "active_ingredients": [
+    {
+      "name": "OXYGEN",
+      "strength": "99",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "GAS"
+  ],
+  "routes": [
+    "INHALATION"
+  ],
+  "companies": [
+    "ST. THOMAS ELGIN GENERAL HOSPITAL"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "OXYGEN"
+  ]
+}

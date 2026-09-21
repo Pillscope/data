@@ -1,0 +1,28 @@
+{
+  "drug_code": "43233",
+  "din": "02218313",
+  "brand_name": "APO-ZOPICLONE - TAB 7.5MG",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "11-APR-2018",
+  "active_ingredients": [
+    {
+      "name": "ZOPICLONE",
+      "strength": "7.5",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "APOTEX INC"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "ZOPICLONE"
+  ]
+}

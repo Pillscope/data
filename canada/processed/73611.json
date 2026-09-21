@@ -1,0 +1,28 @@
+{
+  "drug_code": "73611",
+  "din": "02251159",
+  "brand_name": "T/GEL DAILY CONTROL 2 IN 1",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "09-NOV-2004",
+  "active_ingredients": [
+    {
+      "name": "PYRITHIONE ZINC",
+      "strength": "1",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "SHAMPOO"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "JOHNSON & JOHNSON INC"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "PYRITHIONE ZINC"
+  ]
+}

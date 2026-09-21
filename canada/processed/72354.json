@@ -1,0 +1,28 @@
+{
+  "drug_code": "72354",
+  "din": "02248034",
+  "brand_name": "AA-CLOZAPINE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "18-JAN-2017",
+  "active_ingredients": [
+    {
+      "name": "CLOZAPINE",
+      "strength": "25",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "AA PHARMA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "CLOZAPINE"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "drug_code": "2743",
+  "din": "00364304",
+  "brand_name": "ISOCAINE HCL INJ 3%",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "08-AUG-2017",
+  "active_ingredients": [
+    {
+      "name": "MEPIVACAINE HYDROCHLORIDE",
+      "strength": "30",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "SUBCUTANEOUS"
+  ],
+  "companies": [
+    "NOVOCOL PHARMACEUTICAL OF CANADA INC"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "MEPIVACAINE"
+  ]
+}

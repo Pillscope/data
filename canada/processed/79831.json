@@ -1,0 +1,28 @@
+{
+  "drug_code": "79831",
+  "din": "02312794",
+  "brand_name": "TEMODAL",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "24-APR-2012",
+  "active_ingredients": [
+    {
+      "name": "TEMOZOLOMIDE",
+      "strength": "140",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "CAPSULE"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "MERCK CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "TEMOZOLOMIDE"
+  ]
+}

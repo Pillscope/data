@@ -1,0 +1,28 @@
+{
+  "drug_code": "76489",
+  "din": "02279320",
+  "brand_name": "INVIRASE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "28-JUL-2010",
+  "active_ingredients": [
+    {
+      "name": "SAQUINAVIR (SAQUINAVIR MESYLATE)",
+      "strength": "500",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "HOFFMANN-LA ROCHE LIMITED"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "SAQUINAVIR"
+  ]
+}

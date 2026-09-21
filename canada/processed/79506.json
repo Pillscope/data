@@ -1,0 +1,28 @@
+{
+  "drug_code": "79506",
+  "din": "02309467",
+  "brand_name": "MYLAN-ESCITALOPRAM",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "23-SEP-2014",
+  "active_ingredients": [
+    {
+      "name": "ESCITALOPRAM (ESCITALOPRAM OXALATE)",
+      "strength": "10",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "MYLAN PHARMACEUTICALS ULC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "ESCITALOPRAM"
+  ]
+}

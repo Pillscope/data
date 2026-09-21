@@ -1,0 +1,28 @@
+{
+  "drug_code": "19677",
+  "din": "02171775",
+  "brand_name": "MICONAZOLE 3 DAY OVULE TREATMENT 400MG",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "10-JUN-2010",
+  "active_ingredients": [
+    {
+      "name": "MICONAZOLE NITRATE",
+      "strength": "400",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SUPPOSITORY"
+  ],
+  "routes": [
+    "VAGINAL"
+  ],
+  "companies": [
+    "VITA HEALTH PRODUCTS INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "MICONAZOLE"
+  ]
+}

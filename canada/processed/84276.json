@@ -1,0 +1,28 @@
+{
+  "drug_code": "84276",
+  "din": "02357666",
+  "brand_name": "VIMPAT",
+  "class": "Human",
+  "descriptor": "20ML SINGLE USE VIAL",
+  "last_update": "05-JUN-2017",
+  "active_ingredients": [
+    {
+      "name": "LACOSAMIDE",
+      "strength": "10",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "UCB CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "LACOSAMIDE"
+  ]
+}

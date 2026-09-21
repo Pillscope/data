@@ -1,0 +1,28 @@
+{
+  "drug_code": "1141",
+  "din": "00097241",
+  "brand_name": "OXYTOCIN INJ SYNTHETIC 20IU/ML",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "24-AUG-2004",
+  "active_ingredients": [
+    {
+      "name": "OXYTOCIN",
+      "strength": "20",
+      "unit": "UNIT"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "INTRAMUSCULAR",
+    "INTRAVENOUS",
+    "SUBCUTANEOUS"
+  ],
+  "companies": [
+    "DOMINION VETERINARY LABORATORIES LTD."
+  ],
+  "status": "MARKETED",
+  "atc": []
+}

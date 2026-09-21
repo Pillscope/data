@@ -1,0 +1,33 @@
+{
+  "drug_code": "78256",
+  "din": "02297183",
+  "brand_name": "CLINIQUE ALMOST POWDER MAKEUP SPF 15",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "13-JUL-2012",
+  "active_ingredients": [
+    {
+      "name": "TITANIUM DIOXIDE",
+      "strength": "13",
+      "unit": "%"
+    },
+    {
+      "name": "OCTINOXATE",
+      "strength": "2",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "POWDER"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "CLINIQUE LABORATORIES DIST"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "COMBINATIONS OF PROTECTIVES AGAINST UV-RADIATION"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "drug_code": "3002",
+  "din": "00426849",
+  "brand_name": "APO FOLIC ACID TAB 5MG",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "10-JAN-2014",
+  "active_ingredients": [
+    {
+      "name": "FOLIC ACID",
+      "strength": "5",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "APOTEX INC"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "FOLIC ACID"
+  ]
+}

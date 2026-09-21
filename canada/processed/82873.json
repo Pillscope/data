@@ -1,0 +1,26 @@
+{
+  "drug_code": "82873",
+  "din": "02343266",
+  "brand_name": "PROPYLENE GLYCOL",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "10-JUL-2014",
+  "active_ingredients": [
+    {
+      "name": "PROPYLENE GLYCOL",
+      "strength": "100",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "LIQUID"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "PARTNAR ANIMAL HEALTH INC"
+  ],
+  "status": "MARKETED",
+  "atc": []
+}

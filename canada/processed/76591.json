@@ -1,0 +1,28 @@
+{
+  "drug_code": "76591",
+  "din": "02280248",
+  "brand_name": "TESTIM 1%",
+  "class": "Human",
+  "descriptor": "5 G UNIT DOSE TUBE",
+  "last_update": "30-APR-2018",
+  "active_ingredients": [
+    {
+      "name": "TESTOSTERONE",
+      "strength": "1",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "GEL"
+  ],
+  "routes": [
+    "TRANSDERMAL"
+  ],
+  "companies": [
+    "PALADIN LABS INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "TESTOSTERONE"
+  ]
+}

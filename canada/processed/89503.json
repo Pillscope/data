@@ -1,0 +1,28 @@
+{
+  "drug_code": "89503",
+  "din": "02410389",
+  "brand_name": "LANSOPRAZOLE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "30-AUG-2017",
+  "active_ingredients": [
+    {
+      "name": "LANSOPRAZOLE",
+      "strength": "30",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "CAPSULE (DELAYED RELEASE)"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "SIVEM PHARMACEUTICALS ULC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "LANSOPRAZOLE"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "drug_code": "85288",
+  "din": "02368064",
+  "brand_name": "REACTINE ALLERGY LIQUID GELS",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "29-MAY-2013",
+  "active_ingredients": [
+    {
+      "name": "CETIRIZINE HYDROCHLORIDE",
+      "strength": "10",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "CAPSULE (IMMEDIATE RELEASE)"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "MCNEIL CONSUMER HEALTHCARE DIVISION OF JOHNSON & JOHNSON INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "CETIRIZINE"
+  ]
+}

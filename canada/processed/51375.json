@@ -1,0 +1,28 @@
+{
+  "drug_code": "51375",
+  "din": "02231923",
+  "brand_name": "RHINOCORT AQUA",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "08-JUN-2017",
+  "active_ingredients": [
+    {
+      "name": "BUDESONIDE",
+      "strength": "64",
+      "unit": "MCG"
+    }
+  ],
+  "forms": [
+    "SPRAY, METERED DOSE"
+  ],
+  "routes": [
+    "NASAL"
+  ],
+  "companies": [
+    "MCNEIL CONSUMER HEALTHCARE DIVISION OF JOHNSON & JOHNSON INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "BUDESONIDE"
+  ]
+}

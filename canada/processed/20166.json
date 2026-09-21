@@ -1,0 +1,28 @@
+{
+  "drug_code": "20166",
+  "din": "02217937",
+  "brand_name": "HYGENIPAK PLUS ANTI-MICROBIAL SKIN CLEANSER",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "10-MAY-2016",
+  "active_ingredients": [
+    {
+      "name": "TRICLOSAN",
+      "strength": ".32",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "LIQUID"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "DEB CANADA"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "TRICLOSAN"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "drug_code": "81389",
+  "din": "02328372",
+  "brand_name": "RAN-RISPERIDONE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "29-OCT-2012",
+  "active_ingredients": [
+    {
+      "name": "RISPERIDONE",
+      "strength": "4.0",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "RANBAXY PHARMACEUTICALS CANADA INC."
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "RISPERIDONE"
+  ]
+}

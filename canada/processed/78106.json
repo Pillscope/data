@@ -1,0 +1,28 @@
+{
+  "drug_code": "78106",
+  "din": "02295717",
+  "brand_name": "STERIXIN 0.05%",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "13-FEB-2012",
+  "active_ingredients": [
+    {
+      "name": "CHLORHEXIDINE GLUCONATE",
+      "strength": "0.05",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "LABORATOIRES STERIGEN INC"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "CHLORHEXIDINE"
+  ]
+}

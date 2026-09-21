@@ -1,0 +1,28 @@
+{
+  "drug_code": "11035",
+  "din": "00895652",
+  "brand_name": "APO-DIPYRIDAMOLE-FC TAB 50MG",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "04-SEP-2008",
+  "active_ingredients": [
+    {
+      "name": "DIPYRIDAMOLE",
+      "strength": "50",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "APOTEX INC"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "DIPYRIDAMOLE"
+  ]
+}

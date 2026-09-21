@@ -1,0 +1,28 @@
+{
+  "drug_code": "18080",
+  "din": "02145839",
+  "brand_name": "VESANOID",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "16-NOV-2017",
+  "active_ingredients": [
+    {
+      "name": "TRETINOIN",
+      "strength": "10",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "CAPSULE"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "CHEPLAPHARM ARZNEIMITTEL GMBH GERMANY"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "TRETINOIN"
+  ]
+}

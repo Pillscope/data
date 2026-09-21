@@ -1,0 +1,28 @@
+{
+  "drug_code": "95716",
+  "din": "02468689",
+  "brand_name": "AURO-CEFIXIME",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "30-JAN-2018",
+  "active_ingredients": [
+    {
+      "name": "CEFIXIME",
+      "strength": "100",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "POWDER FOR SUSPENSION"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "AURO PHARMA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "CEFIXIME"
+  ]
+}

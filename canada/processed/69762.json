@@ -1,0 +1,28 @@
+{
+  "drug_code": "69762",
+  "din": "02245662",
+  "brand_name": "KETODERM CREAM 2%",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "10-AUG-2005",
+  "active_ingredients": [
+    {
+      "name": "KETOCONAZOLE",
+      "strength": "2",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "CREAM"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "TAROPHARMA, A DIVISION OF TARO PHARMACEUTICALS INC."
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "KETOCONAZOLE"
+  ]
+}

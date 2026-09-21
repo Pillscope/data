@@ -1,0 +1,28 @@
+{
+  "drug_code": "50961",
+  "din": "02231594",
+  "brand_name": "HYGENIPAK INSTAFOAM ANTI-MICROBIAL FOAMING SKIN CLEANSER",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "23-JAN-2015",
+  "active_ingredients": [
+    {
+      "name": "TRICLOSAN",
+      "strength": "0.32",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "LIQUID"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "DEB CANADA"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "TRICLOSAN"
+  ]
+}

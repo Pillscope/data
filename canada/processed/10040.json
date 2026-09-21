@@ -1,0 +1,28 @@
+{
+  "drug_code": "10040",
+  "din": "00060208",
+  "brand_name": "SODIUM CHLORIDE 0.9% INJ 900MG/100ML USP",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "15-OCT-2012",
+  "active_ingredients": [
+    {
+      "name": "SODIUM CHLORIDE",
+      "strength": "900",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "LIQUID"
+  ],
+  "routes": [
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "BAXTER CORPORATION"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "SODIUM CHLORIDE"
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "drug_code": "72902",
+  "din": "02248547",
+  "brand_name": "VITAMIN AD3 FORTE (VITAMIN A AND D3 INJECTION)",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "11-JUN-2008",
+  "active_ingredients": [
+    {
+      "name": "VITAMIN D3",
+      "strength": "75000",
+      "unit": "UNIT"
+    },
+    {
+      "name": "VITAMIN A PROPIONATE",
+      "strength": "500000",
+      "unit": "UNIT"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "INTRAMUSCULAR"
+  ],
+  "companies": [
+    "ALFASAN INTERNATIONAL B.V."
+  ],
+  "status": "MARKETED",
+  "atc": []
+}

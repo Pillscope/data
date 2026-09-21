@@ -1,0 +1,28 @@
+{
+  "drug_code": "83270",
+  "din": "02347318",
+  "brand_name": "MYLAN-IRBESARTAN",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "17-JAN-2013",
+  "active_ingredients": [
+    {
+      "name": "IRBESARTAN",
+      "strength": "150",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "MYLAN PHARMACEUTICALS ULC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "IRBESARTAN"
+  ]
+}

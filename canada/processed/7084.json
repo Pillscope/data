@@ -1,0 +1,28 @@
+{
+  "drug_code": "7084",
+  "din": "00708925",
+  "brand_name": "ROGAINE MINOXIDIL TOPICAL 2% SOLUTION",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "04-APR-2016",
+  "active_ingredients": [
+    {
+      "name": "MINOXIDIL",
+      "strength": "20",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "JOHNSON & JOHNSON INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "MINOXIDIL, TOPICAL"
+  ]
+}

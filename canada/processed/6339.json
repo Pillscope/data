@@ -1,0 +1,73 @@
+{
+  "drug_code": "6339",
+  "din": "00612898",
+  "brand_name": "B PLUS 10 INJ",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "23-MAR-2005",
+  "active_ingredients": [
+    {
+      "name": "NICOTINAMIDE",
+      "strength": "100",
+      "unit": "MG"
+    },
+    {
+      "name": "SOLUBLE LIVER EXTRACT",
+      "strength": "27",
+      "unit": "MG"
+    },
+    {
+      "name": "THIAMINE HYDROCHLORIDE",
+      "strength": "75",
+      "unit": "MG"
+    },
+    {
+      "name": "PYRIDOXINE HYDROCHLORIDE",
+      "strength": "5",
+      "unit": "MG"
+    },
+    {
+      "name": "FERRIC AMMONIUM CITRATE",
+      "strength": "15",
+      "unit": "MG"
+    },
+    {
+      "name": "COBALT GLUCONATE",
+      "strength": ".7",
+      "unit": "MG"
+    },
+    {
+      "name": "VITAMIN B2",
+      "strength": "2",
+      "unit": "MG"
+    },
+    {
+      "name": "COPPER GLUCONATE",
+      "strength": ".2",
+      "unit": "MG"
+    },
+    {
+      "name": "DEXPANTHENOL",
+      "strength": "20",
+      "unit": "MG"
+    },
+    {
+      "name": "VITAMIN B12",
+      "strength": "100",
+      "unit": "MCG"
+    }
+  ],
+  "forms": [
+    "LIQUID"
+  ],
+  "routes": [
+    "INTRAMUSCULAR"
+  ],
+  "companies": [
+    "PROFESSIONAL VETERINARY LABORATORIES"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "VITAMIN B-COMPLEX, OTHER COMBINATIONS"
+  ]
+}

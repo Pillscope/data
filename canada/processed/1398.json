@@ -1,0 +1,28 @@
+{
+  "drug_code": "1398",
+  "din": "00030783",
+  "brand_name": "DEPO-TESTOSTERONE INJ 100MG/ML",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "01-MAY-2009",
+  "active_ingredients": [
+    {
+      "name": "TESTOSTERONE CYPIONATE",
+      "strength": "100",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "INTRAMUSCULAR"
+  ],
+  "companies": [
+    "PFIZER CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "TESTOSTERONE"
+  ]
+}

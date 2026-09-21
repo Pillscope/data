@@ -1,0 +1,28 @@
+{
+  "drug_code": "85352",
+  "din": "02368544",
+  "brand_name": "BRILINTA",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "18-MAY-2016",
+  "active_ingredients": [
+    {
+      "name": "Ticagrelor",
+      "strength": "90",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "ASTRAZENECA CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "TICAGRELOR"
+  ]
+}

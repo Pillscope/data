@@ -1,0 +1,29 @@
+{
+  "drug_code": "10063",
+  "din": "00816078",
+  "brand_name": "VITAMIN B1",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "20-MAR-2017",
+  "active_ingredients": [
+    {
+      "name": "THIAMINE HYDROCHLORIDE",
+      "strength": "100",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "INTRAMUSCULAR",
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "SANDOZ CANADA INCORPORATED"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "THIAMINE (VIT B1)"
+  ]
+}

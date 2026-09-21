@@ -1,0 +1,28 @@
+{
+  "drug_code": "11300",
+  "din": "01902660",
+  "brand_name": "RETROVIR (AZT)",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "25-NOV-2010",
+  "active_ingredients": [
+    {
+      "name": "ZIDOVUDINE",
+      "strength": "100",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "CAPSULE"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "VIIV HEALTHCARE ULC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "ZIDOVUDINE"
+  ]
+}

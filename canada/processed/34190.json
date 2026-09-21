@@ -1,0 +1,28 @@
+{
+  "drug_code": "34190",
+  "din": "02160250",
+  "brand_name": "GERMGUARD DETERGENT",
+  "class": "Disinfectant",
+  "descriptor": "",
+  "last_update": "17-AUG-2011",
+  "active_ingredients": [
+    {
+      "name": "BENZALKONIUM CHLORIDE",
+      "strength": "5",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "LIQUID"
+  ],
+  "routes": [
+    "DISINFECTANT (Food Premises)"
+  ],
+  "companies": [
+    "GUARDIAN CHEMICALS INC."
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "TECHNICAL DISINFECTANTS"
+  ]
+}

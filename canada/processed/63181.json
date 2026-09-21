@@ -1,0 +1,28 @@
+{
+  "drug_code": "63181",
+  "din": "02239700",
+  "brand_name": "APO-DIVALPROEX",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "07-JUL-2006",
+  "active_ingredients": [
+    {
+      "name": "VALPROIC ACID (DIVALPROEX SODIUM)",
+      "strength": "500",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET (ENTERIC-COATED)"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "APOTEX INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "VALPROIC ACID"
+  ]
+}

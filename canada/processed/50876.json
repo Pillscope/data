@@ -1,0 +1,28 @@
+{
+  "drug_code": "50876",
+  "din": "02231533",
+  "brand_name": "MICONAZOLE NITRATE VAGINAL CREAM USP, 2%",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "14-AUG-2012",
+  "active_ingredients": [
+    {
+      "name": "MICONAZOLE NITRATE",
+      "strength": "2",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "CREAM"
+  ],
+  "routes": [
+    "VAGINAL"
+  ],
+  "companies": [
+    "TARO PHARMACEUTICALS INC"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "MICONAZOLE"
+  ]
+}

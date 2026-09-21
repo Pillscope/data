@@ -1,0 +1,33 @@
+{
+  "drug_code": "20134",
+  "din": "02181908",
+  "brand_name": "POLYDERM OINTMENT USP",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "10-MAY-2016",
+  "active_ingredients": [
+    {
+      "name": "BACITRACIN ZINC",
+      "strength": "500",
+      "unit": "UNIT"
+    },
+    {
+      "name": "POLYMYXIN B SULFATE",
+      "strength": "10000",
+      "unit": "UNIT"
+    }
+  ],
+  "forms": [
+    "OINTMENT"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "TARO PHARMACEUTICALS INC"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "COMBINATIONS OF ANTIBIOTICS"
+  ]
+}

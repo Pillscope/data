@@ -1,0 +1,28 @@
+{
+  "drug_code": "80959",
+  "din": "02324105",
+  "brand_name": "LYSOL BRAND III DISINFECTANT ALL PURPOSE CLEANER",
+  "class": "Disinfectant",
+  "descriptor": "",
+  "last_update": "05-MAY-2011",
+  "active_ingredients": [
+    {
+      "name": "LACTIC ACID",
+      "strength": "3.2",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "SPRAY"
+  ],
+  "routes": [
+    "DISINFECTANT (Domestic)"
+  ],
+  "companies": [
+    "RECKITT BENCKISER (CANADA) INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "TECHNICAL DISINFECTANTS"
+  ]
+}

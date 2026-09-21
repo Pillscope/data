@@ -1,0 +1,33 @@
+{
+  "drug_code": "74608",
+  "din": "02260646",
+  "brand_name": "ZORCAINE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "23-MAR-2018",
+  "active_ingredients": [
+    {
+      "name": "EPINEPHRINE (EPINEPHRINE BITARTRATE)",
+      "strength": "0.01",
+      "unit": "MG"
+    },
+    {
+      "name": "ARTICAINE HYDROCHLORIDE",
+      "strength": "40",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "BLOCK/INFILTRATION"
+  ],
+  "companies": [
+    "CARESTREAM HEALTH CANADA COMPANY"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "ARTICAINE, COMBINATIONS"
+  ]
+}

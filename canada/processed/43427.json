@@ -1,0 +1,29 @@
+{
+  "drug_code": "43427",
+  "din": "02225263",
+  "brand_name": "OPTIRAY 240",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "07-JUL-2016",
+  "active_ingredients": [
+    {
+      "name": "IOVERSOL",
+      "strength": "51",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "SUBARACHNOIDAL",
+    "INTRAVASCULAR"
+  ],
+  "companies": [
+    "LIEBEL-FLARSHEIM CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "IOVERSOL"
+  ]
+}

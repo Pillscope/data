@@ -1,0 +1,28 @@
+{
+  "drug_code": "75428",
+  "din": "02268892",
+  "brand_name": "ELIGARD 45 MG",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "31-OCT-2008",
+  "active_ingredients": [
+    {
+      "name": "LEUPROLIDE ACETATE",
+      "strength": "58.2",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "POWDER FOR SUSPENSION, SUSTAINED-RELEASE"
+  ],
+  "routes": [
+    "SUBCUTANEOUS"
+  ],
+  "companies": [
+    "SANOFI-AVENTIS CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "LEUPRORELIN"
+  ]
+}

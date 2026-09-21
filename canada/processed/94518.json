@@ -1,0 +1,28 @@
+{
+  "drug_code": "94518",
+  "din": "02458136",
+  "brand_name": "ALECENSARO",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "25-MAY-2017",
+  "active_ingredients": [
+    {
+      "name": "ALECTINIB (ALECTINIB HYDROCHLORIDE)",
+      "strength": "150",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "CAPSULE"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "HOFFMANN-LA ROCHE LIMITED"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "ALECTINIB"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "drug_code": "75001",
+  "din": "02264579",
+  "brand_name": "MYFORTIC",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "01-JUL-2017",
+  "active_ingredients": [
+    {
+      "name": "MYCOPHENOLIC ACID (MYCOPHENOLATE SODIUM)",
+      "strength": "360",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET (ENTERIC-COATED)"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "NOVARTIS PHARMACEUTICALS CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "MYCOPHENOLIC ACID"
+  ]
+}

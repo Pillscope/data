@@ -1,0 +1,33 @@
+{
+  "drug_code": "3823",
+  "din": "00498807",
+  "brand_name": "SORBITOL MANNITOL IRRIGATION",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "16-OCT-2017",
+  "active_ingredients": [
+    {
+      "name": "MANNITOL",
+      "strength": "5.4",
+      "unit": "MG"
+    },
+    {
+      "name": "SORBITOL",
+      "strength": "27",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "IRRIGATION"
+  ],
+  "companies": [
+    "ICU MEDICAL CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "COMBINATIONS"
+  ]
+}

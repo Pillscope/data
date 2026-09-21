@@ -1,0 +1,29 @@
+{
+  "drug_code": "11011",
+  "din": "00783900",
+  "brand_name": "PMS-DEXAMETHASONE SOD PHOSPHATE INJ 10MG/ML",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "20-SEP-2006",
+  "active_ingredients": [
+    {
+      "name": "DEXAMETHASONE PHOSPHATE (DEXAMETHASONE SODIUM PHOSPHATE)",
+      "strength": "10",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "LIQUID"
+  ],
+  "routes": [
+    "INTRAMUSCULAR",
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "PHARMASCIENCE INC"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "DEXAMETHASONE"
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "drug_code": "86998",
+  "din": "02384248",
+  "brand_name": "AVL ELECTROLYTE POWDER",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "09-OCT-2015",
+  "active_ingredients": [
+    {
+      "name": "CALCIUM D-PANTOTHENATE",
+      "strength": "0.012",
+      "unit": "G"
+    },
+    {
+      "name": "SODIUM CHLORIDE",
+      "strength": "3.507",
+      "unit": "G"
+    },
+    {
+      "name": "SODIUM ACETATE (SODIUM ACETATE TRIHYDRATE)",
+      "strength": "13.125",
+      "unit": "G"
+    },
+    {
+      "name": "POTASSIUM CHLORIDE",
+      "strength": "1.940",
+      "unit": "G"
+    },
+    {
+      "name": "SODIUM PHOSPHATE MONOBASIC (SODIUM PHOSPHATE MONOBASIC, MONOHYDRATE)",
+      "strength": "0.600",
+      "unit": "G"
+    },
+    {
+      "name": "GLYCINE",
+      "strength": "6.756",
+      "unit": "G"
+    },
+    {
+      "name": "POTASSIUM PHOSPHATE DIBASIC",
+      "strength": "0.349",
+      "unit": "G"
+    },
+    {
+      "name": "DEXTROSE ANHYDROUS",
+      "strength": "41.734",
+      "unit": "G"
+    }
+  ],
+  "forms": [
+    "POWDER FOR SOLUTION"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "ALBERTA VETERINARY LABORATORIES LTD"
+  ],
+  "status": "MARKETED",
+  "atc": []
+}

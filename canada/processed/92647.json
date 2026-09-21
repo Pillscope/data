@@ -1,0 +1,28 @@
+{
+  "drug_code": "92647",
+  "din": "02442116",
+  "brand_name": "METOPROLOL-L",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "31-JUL-2015",
+  "active_ingredients": [
+    {
+      "name": "METOPROLOL TARTRATE",
+      "strength": "25",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "SIVEM PHARMACEUTICALS ULC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "METOPROLOL"
+  ]
+}

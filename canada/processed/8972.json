@@ -1,0 +1,28 @@
+{
+  "drug_code": "8972",
+  "din": "00716618",
+  "brand_name": "BETADERM CRM 0.05%",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "22-JUL-2010",
+  "active_ingredients": [
+    {
+      "name": "BETAMETHASONE (BETAMETHASONE VALERATE)",
+      "strength": "0.05",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "CREAM"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "TARO PHARMACEUTICALS INC"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "BETAMETHASONE"
+  ]
+}

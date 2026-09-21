@@ -1,0 +1,26 @@
+{
+  "drug_code": "132",
+  "din": "00097225",
+  "brand_name": "CORYZA-CURB FOR POULTRY",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "17-JAN-2018",
+  "active_ingredients": [
+    {
+      "name": "SULFATHIAZOLE SODIUM",
+      "strength": "12.5",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "LIQUID"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "DOMINION VETERINARY LABORATORIES LTD."
+  ],
+  "status": "MARKETED",
+  "atc": []
+}

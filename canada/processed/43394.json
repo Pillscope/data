@@ -1,0 +1,28 @@
+{
+  "drug_code": "43394",
+  "din": "02224127",
+  "brand_name": "DICLOFENAC-SR",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "03-JAN-2013",
+  "active_ingredients": [
+    {
+      "name": "DICLOFENAC SODIUM",
+      "strength": "100",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET (EXTENDED-RELEASE)"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "PRO DOC LIMITEE"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "DICLOFENAC"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "drug_code": "17832",
+  "din": "02126567",
+  "brand_name": "MONISTAT DERM CREAM",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "05-SEP-2012",
+  "active_ingredients": [
+    {
+      "name": "MICONAZOLE NITRATE",
+      "strength": "2",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "CREAM"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "INSIGHT PHARMACEUTICALS LLC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "MICONAZOLE"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "drug_code": "91667",
+  "din": "02432218",
+  "brand_name": "PMS-MOXIFLOXACIN",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "06-JAN-2016",
+  "active_ingredients": [
+    {
+      "name": "MOXIFLOXACIN (MOXIFLOXACIN HYDROCHLORIDE)",
+      "strength": "0.5",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "OPHTHALMIC"
+  ],
+  "companies": [
+    "PHARMASCIENCE INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "MOXIFLOXACIN"
+  ]
+}

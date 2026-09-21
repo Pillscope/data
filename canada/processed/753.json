@@ -1,0 +1,56 @@
+{
+  "drug_code": "753",
+  "din": "00153990",
+  "brand_name": "NEO ATROPEC TAB",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "30-DEC-2017",
+  "active_ingredients": [
+    {
+      "name": "ATROPINE METHYLNITRATE",
+      "strength": "0.5",
+      "unit": "MG"
+    },
+    {
+      "name": "NEOMYCIN SULFATE",
+      "strength": "25",
+      "unit": "MG"
+    },
+    {
+      "name": "PECTIN",
+      "strength": "65",
+      "unit": "MG"
+    },
+    {
+      "name": "SULFACETAMIDE",
+      "strength": "130",
+      "unit": "MG"
+    },
+    {
+      "name": "SULFAGUANIDINE",
+      "strength": "195",
+      "unit": "MG"
+    },
+    {
+      "name": "KAOLIN",
+      "strength": "390",
+      "unit": "MG"
+    },
+    {
+      "name": "ALUMINUM HYDROXIDE",
+      "strength": "130",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "ORMOND VETERINARY SUPPLY LTD."
+  ],
+  "status": "MARKETED",
+  "atc": []
+}

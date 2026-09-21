@@ -1,0 +1,29 @@
+{
+  "drug_code": "89538",
+  "din": "02410710",
+  "brand_name": "LAST DEFENSE UTENSIL WIPES",
+  "class": "Disinfectant",
+  "descriptor": "",
+  "last_update": "07-JAN-2016",
+  "active_ingredients": [
+    {
+      "name": "SODIUM HYPOCHLORITE",
+      "strength": "100",
+      "unit": "PPM"
+    }
+  ],
+  "forms": [
+    "WIPE"
+  ],
+  "routes": [
+    "DISINFECTANT (Domestic)",
+    "DISINFECTANT (Institutional/Industrial)"
+  ],
+  "companies": [
+    "LAST DEFENSE UTENSIL WIPES"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "TECHNICAL DISINFECTANTS"
+  ]
+}

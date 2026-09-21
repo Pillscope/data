@@ -1,0 +1,28 @@
+{
+  "drug_code": "18901",
+  "din": "01983342",
+  "brand_name": "FORMULA 12167 LIQ 10.4%",
+  "class": "Disinfectant",
+  "descriptor": "",
+  "last_update": "27-JUL-2006",
+  "active_ingredients": [
+    {
+      "name": "SODIUM HYPOCHLORITE",
+      "strength": "10.4",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "LIQUID"
+  ],
+  "routes": [
+    "DISINFECTANT (Food Premises)"
+  ],
+  "companies": [
+    "ZEP MANUFACTURING COMPANY OF CANADA"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "TECHNICAL DISINFECTANTS"
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "drug_code": "1957",
+  "din": "00306819",
+  "brand_name": "B-30",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "27-JUL-2016",
+  "active_ingredients": [
+    {
+      "name": "ALKYL PHENOL POLYGLYCOL ETHER IODINE COMPLEX",
+      "strength": "2.584",
+      "unit": "%"
+    },
+    {
+      "name": "POLYOXYETHYLENE GLYCOL IODINE COMPLEX",
+      "strength": "5.31",
+      "unit": "%"
+    },
+    {
+      "name": "GLYCERINE",
+      "strength": "10.00",
+      "unit": "%"
+    },
+    {
+      "name": "NONYL PHENOXYPOLYETHOXYETHANOL-IODINE COMPLEX",
+      "strength": "2.584",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "GEA FARM TECHNOLOGIES INC"
+  ],
+  "status": "APPROVED",
+  "atc": []
+}

@@ -1,0 +1,34 @@
+{
+  "drug_code": "93152",
+  "din": "02446235",
+  "brand_name": "TACTUPUMP FORTE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "18-JAN-2016",
+  "active_ingredients": [
+    {
+      "name": "BENZOYL PEROXIDE",
+      "strength": "2.5",
+      "unit": "%"
+    },
+    {
+      "name": "ADAPALENE",
+      "strength": "0.3",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "GEL"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "GALDERMA CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "ADAPALENE, COMBINATIONS",
+    "ADAPALENE, COMBINATIONS"
+  ]
+}

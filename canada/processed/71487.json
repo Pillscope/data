@@ -1,0 +1,28 @@
+{
+  "drug_code": "71487",
+  "din": "02247245",
+  "brand_name": "RIVA-INDAPAMIDE 1.25",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "21-SEP-2009",
+  "active_ingredients": [
+    {
+      "name": "INDAPAMIDE",
+      "strength": "1.25",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "LABORATOIRE RIVA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "INDAPAMIDE"
+  ]
+}

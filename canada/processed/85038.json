@@ -1,0 +1,28 @@
+{
+  "drug_code": "85038",
+  "din": "02365480",
+  "brand_name": "GILENYA",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "06-APR-2011",
+  "active_ingredients": [
+    {
+      "name": "Fingolimod (Fingolimod Hydrochloride)",
+      "strength": "0.5",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "CAPSULE"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "NOVARTIS PHARMACEUTICALS CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "FINGOLIMOD"
+  ]
+}

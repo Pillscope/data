@@ -1,0 +1,48 @@
+{
+  "drug_code": "5907",
+  "din": "00615358",
+  "brand_name": "TD POLIO ADSORBED",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "13-JUN-2011",
+  "active_ingredients": [
+    {
+      "name": "DIPHTHERIA TOXOID",
+      "strength": "2",
+      "unit": "LF"
+    },
+    {
+      "name": "TETANUS TOXOID",
+      "strength": "5",
+      "unit": "LF"
+    },
+    {
+      "name": "INACTIVATED POLIOMYELITIS VACCINE (D.C.O.) TYPE 3 SAUKETT",
+      "strength": "32",
+      "unit": "UNIT"
+    },
+    {
+      "name": "INACTIVATED POLIOMYELITIS VACCINE (D.C.O.) TYPE 2 MEF1",
+      "strength": "8",
+      "unit": "UNIT"
+    },
+    {
+      "name": "INACTIVATED POLIOMYELITIS VACCINE (D.C.O.) TYPE 1 MAHONEY",
+      "strength": "40",
+      "unit": "UNIT"
+    }
+  ],
+  "forms": [
+    "SUSPENSION"
+  ],
+  "routes": [
+    "INTRAMUSCULAR"
+  ],
+  "companies": [
+    "SANOFI PASTEUR LIMITED"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "DIPHTHERIA-POLIOMYELITIS-TETANUS"
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "drug_code": "12549",
+  "din": "01927744",
+  "brand_name": "PARSITAN 50MG",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "22-SEP-2008",
+  "active_ingredients": [
+    {
+      "name": "ETHOPROPAZINE (ETHOPROPAZINE HYDROCHLORIDE)",
+      "strength": "50",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "ERFA CANADA 2012 INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "PROFENAMINE",
+    "PROFENAMINE"
+  ]
+}

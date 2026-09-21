@@ -1,0 +1,38 @@
+{
+  "drug_code": "92885",
+  "din": "02444062",
+  "brand_name": "SYSTANE OINTMENT",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "15-JUN-2017",
+  "active_ingredients": [
+    {
+      "name": "LANOLIN",
+      "strength": "3",
+      "unit": "%"
+    },
+    {
+      "name": "MINERAL OIL",
+      "strength": "3",
+      "unit": "%"
+    },
+    {
+      "name": "WHITE PETROLATUM",
+      "strength": "94",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "OINTMENT"
+  ],
+  "routes": [
+    "OPHTHALMIC"
+  ],
+  "companies": [
+    "NOVARTIS PHARMACEUTICALS CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "ARTIFICIAL TEARS AND OTHER INDIFFERENT PREPARATIONS."
+  ]
+}

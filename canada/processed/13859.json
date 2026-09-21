@@ -1,0 +1,26 @@
+{
+  "drug_code": "13859",
+  "din": "02013134",
+  "brand_name": "PPP TAR-IFIC THERAPEUTIC SPRAY",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "15-JUL-2011",
+  "active_ingredients": [
+    {
+      "name": "COAL TAR",
+      "strength": "1",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "SPRAY"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "PROFESSIONAL PET PRODUCTS INC."
+  ],
+  "status": "MARKETED",
+  "atc": []
+}

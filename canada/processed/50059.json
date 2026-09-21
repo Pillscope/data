@@ -1,0 +1,28 @@
+{
+  "drug_code": "50059",
+  "din": "02230792",
+  "brand_name": "SANIQUAT",
+  "class": "Disinfectant",
+  "descriptor": "",
+  "last_update": "03-OCT-2012",
+  "active_ingredients": [
+    {
+      "name": "BENZALKONIUM CHLORIDE",
+      "strength": "10",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "LIQUID"
+  ],
+  "routes": [
+    "DISINFECTANT (Food Premises)"
+  ],
+  "companies": [
+    "AVMOR LTD"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "TECHNICAL DISINFECTANTS"
+  ]
+}

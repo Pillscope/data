@@ -1,0 +1,28 @@
+{
+  "drug_code": "87305",
+  "din": "02387476",
+  "brand_name": "HEAD & SHOULDERS PYRITHIONE ZINC DANDRUFF SHAMPOO MEN OLD SPICE PURE SPORT",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "19-APR-2016",
+  "active_ingredients": [
+    {
+      "name": "PYRITHIONE ZINC",
+      "strength": "1",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "SHAMPOO"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "PROCTER & GAMBLE INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "PYRITHIONE ZINC"
+  ]
+}

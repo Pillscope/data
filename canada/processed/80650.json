@@ -1,0 +1,28 @@
+{
+  "drug_code": "80650",
+  "din": "02321092",
+  "brand_name": "PRISTIQ",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "06-OCT-2016",
+  "active_ingredients": [
+    {
+      "name": "DESVENLAFAXINE (DESVENLAFAXINE SUCCINATE)",
+      "strength": "50",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET (EXTENDED-RELEASE)"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "PFIZER CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "DESVENLAFAXINE"
+  ]
+}

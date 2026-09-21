@@ -1,0 +1,30 @@
+{
+  "drug_code": "69667",
+  "din": "02245571",
+  "brand_name": "BACIJECT 50,000 UNITS/VIAL",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "01-JUN-2011",
+  "active_ingredients": [
+    {
+      "name": "BACITRACIN",
+      "strength": "50000",
+      "unit": "UNIT"
+    }
+  ],
+  "forms": [
+    "POWDER FOR SOLUTION"
+  ],
+  "routes": [
+    "INTRAMUSCULAR",
+    "TOPICAL"
+  ],
+  "companies": [
+    "STERIMAX INC"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "BACITRACIN",
+    "BACITRACIN"
+  ]
+}

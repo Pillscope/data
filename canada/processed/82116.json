@@ -1,0 +1,29 @@
+{
+  "drug_code": "82116",
+  "din": "02335557",
+  "brand_name": "MR. CLEAN  DISINFECTANT MULTI-SURFACES",
+  "class": "Disinfectant",
+  "descriptor": "",
+  "last_update": "11-JAN-2011",
+  "active_ingredients": [
+    {
+      "name": "SODIUM HYDROXIDE",
+      "strength": "0.34",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "LIQUID"
+  ],
+  "routes": [
+    "DISINFECTANT (Food Premises)",
+    "DISINFECTANT (Domestic)"
+  ],
+  "companies": [
+    "PROCTER & GAMBLE INC"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "TECHNICAL DISINFECTANTS"
+  ]
+}

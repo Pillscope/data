@@ -1,0 +1,28 @@
+{
+  "drug_code": "76953",
+  "din": "02283964",
+  "brand_name": "SANDOZ LEFLUNOMIDE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "24-SEP-2009",
+  "active_ingredients": [
+    {
+      "name": "LEFLUNOMIDE",
+      "strength": "10",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "SANDOZ CANADA INCORPORATED"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "LEFLUNOMIDE"
+  ]
+}

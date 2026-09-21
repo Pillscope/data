@@ -1,0 +1,28 @@
+{
+  "drug_code": "14007",
+  "din": "01940481",
+  "brand_name": "PAXIL TAB 20MG",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "03-OCT-2007",
+  "active_ingredients": [
+    {
+      "name": "PAROXETINE (PAROXETINE HYDROCHLORIDE)",
+      "strength": "20",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "GLAXOSMITHKLINE INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "PAROXETINE"
+  ]
+}

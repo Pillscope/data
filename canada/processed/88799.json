@@ -1,0 +1,28 @@
+{
+  "drug_code": "88799",
+  "din": "02403161",
+  "brand_name": "APO-AMITRIPTYLINE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "24-JUN-2013",
+  "active_ingredients": [
+    {
+      "name": "AMITRIPTYLINE HYDROCHLORIDE",
+      "strength": "75",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "APOTEX INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "AMITRIPTYLINE"
+  ]
+}

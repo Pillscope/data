@@ -1,0 +1,34 @@
+{
+  "drug_code": "95195",
+  "din": "02463857",
+  "brand_name": "ACCEL-CANDESARTAN/HCTZ",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "01-FEB-2018",
+  "active_ingredients": [
+    {
+      "name": "CANDESARTAN CILEXETIL",
+      "strength": "32",
+      "unit": "MG"
+    },
+    {
+      "name": "HYDROCHLOROTHIAZIDE",
+      "strength": "25",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "ACCEL PHARMA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "CANDERSARTAN AND DIURETICS",
+    "CANDERSARTAN AND DIURETICS"
+  ]
+}

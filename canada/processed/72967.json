@@ -1,0 +1,28 @@
+{
+  "drug_code": "72967",
+  "din": "02248611",
+  "brand_name": "REYATAZ",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "07-MAY-2008",
+  "active_ingredients": [
+    {
+      "name": "ATAZANAVIR (ATAZANAVIR SULFATE)",
+      "strength": "200",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "CAPSULE"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "BRISTOL-MYERS SQUIBB CANADA"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "ATAZANAVIR"
+  ]
+}

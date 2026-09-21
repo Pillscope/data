@@ -1,0 +1,28 @@
+{
+  "drug_code": "91226",
+  "din": "02427753",
+  "brand_name": "RIVA-DUTASTERIDE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "26-JAN-2015",
+  "active_ingredients": [
+    {
+      "name": "DUTASTERIDE",
+      "strength": "0.5",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "CAPSULE"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "LABORATOIRE RIVA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "DUTASTERIDE"
+  ]
+}

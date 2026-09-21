@@ -1,0 +1,29 @@
+{
+  "drug_code": "37351",
+  "din": "02223953",
+  "brand_name": "ALLERGENIC EXTRACT STANDARDIZED MITE DF (10,000 AU/ML)",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "27-FEB-2014",
+  "active_ingredients": [
+    {
+      "name": "DERMATOPHAGOIDES FARINAE",
+      "strength": "10000",
+      "unit": "UNIT"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "SUBCUTANEOUS",
+    "PERCUTANEOUS"
+  ],
+  "companies": [
+    "JUBILANT HOLLISTERSTIER LLC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "HOUSE DUST MITES"
+  ]
+}

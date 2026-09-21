@@ -1,0 +1,28 @@
+{
+  "drug_code": "72607",
+  "din": "02248268",
+  "brand_name": "PMS-MELOXICAM",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "03-APR-2006",
+  "active_ingredients": [
+    {
+      "name": "MELOXICAM",
+      "strength": "15",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "PHARMASCIENCE INC"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "MELOXICAM"
+  ]
+}

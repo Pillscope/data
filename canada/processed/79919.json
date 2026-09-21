@@ -1,0 +1,28 @@
+{
+  "drug_code": "79919",
+  "din": "02313685",
+  "brand_name": "JAMP-ONDANSETRON",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "14-SEP-2015",
+  "active_ingredients": [
+    {
+      "name": "ONDANSETRON (ONDANSETRON HYDROCHLORIDE)",
+      "strength": "4",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "JAMP PHARMA CORPORATION"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "ONDANSETRON"
+  ]
+}

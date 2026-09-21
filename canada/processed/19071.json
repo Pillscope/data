@@ -1,0 +1,28 @@
+{
+  "drug_code": "19071",
+  "din": "02177625",
+  "brand_name": "DOM-FLUOXETINE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "30-SEP-2010",
+  "active_ingredients": [
+    {
+      "name": "FLUOXETINE (FLUOXETINE HYDROCHLORIDE)",
+      "strength": "20",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "CAPSULE"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "DOMINION PHARMACAL"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "FLUOXETINE"
+  ]
+}

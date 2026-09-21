@@ -1,0 +1,28 @@
+{
+  "drug_code": "77118",
+  "din": "02285673",
+  "brand_name": "SANDOZ FOLIC ACID",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "25-JAN-2018",
+  "active_ingredients": [
+    {
+      "name": "FOLIC ACID",
+      "strength": "5",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "SANDOZ CANADA INCORPORATED"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "FOLIC ACID"
+  ]
+}

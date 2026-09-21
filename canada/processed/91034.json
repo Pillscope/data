@@ -1,0 +1,28 @@
+{
+  "drug_code": "91034",
+  "din": "02425696",
+  "brand_name": "FIRAZYR",
+  "class": "Human",
+  "descriptor": "PRE-FILLED SYRINGE",
+  "last_update": "10-SEP-2014",
+  "active_ingredients": [
+    {
+      "name": "ICATIBANT (ICATIBANT ACETATE)",
+      "strength": "10",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "SUBCUTANEOUS"
+  ],
+  "companies": [
+    "SHIRE ORPHAN THERAPIES LLC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "ICATIBANT"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "drug_code": "12425",
+  "din": "01926772",
+  "brand_name": "NEULEPTIL 10MG CAPSULES",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "23-NOV-2005",
+  "active_ingredients": [
+    {
+      "name": "PERICIAZINE",
+      "strength": "10",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "CAPSULE"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "ERFA CANADA 2012 INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "PERICIAZINE"
+  ]
+}

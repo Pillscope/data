@@ -1,0 +1,31 @@
+{
+  "drug_code": "6497",
+  "din": "00655708",
+  "brand_name": "CHLOR-S-700",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "02-JUL-1999",
+  "active_ingredients": [
+    {
+      "name": "SULFAMETHAZINE",
+      "strength": "77",
+      "unit": "G"
+    },
+    {
+      "name": "CHLORTETRACYCLINE",
+      "strength": "77",
+      "unit": "G"
+    }
+  ],
+  "forms": [
+    "DRUG PREMIX"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "BIO AGRI MIX LP"
+  ],
+  "status": "MARKETED",
+  "atc": []
+}

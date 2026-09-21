@@ -1,0 +1,31 @@
+{
+  "drug_code": "19634",
+  "din": "02186136",
+  "brand_name": "IODIP 10",
+  "class": "Veterinary",
+  "descriptor": "(1% IODINE POST MILKING TEAT DIP)",
+  "last_update": "29-APR-2015",
+  "active_ingredients": [
+    {
+      "name": "GLYCERINE",
+      "strength": "8",
+      "unit": "%"
+    },
+    {
+      "name": "NONYL PHENOXYPOLYETHOXYETHANOL-IODINE COMPLEX",
+      "strength": "5.25",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "ECOLAB CO"
+  ],
+  "status": "APPROVED",
+  "atc": []
+}

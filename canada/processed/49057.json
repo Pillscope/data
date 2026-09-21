@@ -1,0 +1,28 @@
+{
+  "drug_code": "49057",
+  "din": "02230302",
+  "brand_name": "CODEINE CONTIN 50MG CONTROLLED RELEASE TAB",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "01-DEC-2016",
+  "active_ingredients": [
+    {
+      "name": "CODEINE (CODEINE MONOHYDRATE, Codeine Sulfate Trihydrate)",
+      "strength": "50",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET (EXTENDED-RELEASE)"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "PURDUE PHARMA"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "CODEINE"
+  ]
+}

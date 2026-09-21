@@ -1,0 +1,28 @@
+{
+  "drug_code": "2367",
+  "din": "00335126",
+  "brand_name": "PERPHENAZINE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "30-DEC-2010",
+  "active_ingredients": [
+    {
+      "name": "PERPHENAZINE",
+      "strength": "4",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "AA PHARMA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "PERPHENAZINE"
+  ]
+}

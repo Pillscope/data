@@ -1,0 +1,26 @@
+{
+  "drug_code": "76967",
+  "din": "02284111",
+  "brand_name": "TRU BLU CHLOR-HEX WASH",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "21-DEC-2007",
+  "active_ingredients": [
+    {
+      "name": "CHLORHEXIDINE ACETATE",
+      "strength": "1.6",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "AGRISAN SPECIALTY CHEMICAL & PHARMACEUTICAL"
+  ],
+  "status": "MARKETED",
+  "atc": []
+}

@@ -1,0 +1,28 @@
+{
+  "drug_code": "88747",
+  "din": "02402629",
+  "brand_name": "RAN-LANSOPRAZOLE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "11-SEP-2013",
+  "active_ingredients": [
+    {
+      "name": "LANSOPRAZOLE",
+      "strength": "30",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "CAPSULE (DELAYED RELEASE)"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "RANBAXY PHARMACEUTICALS CANADA INC."
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "LANSOPRAZOLE"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "drug_code": "88206",
+  "din": "02397072",
+  "brand_name": "AURO-AMLODIPINE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "22-MAY-2013",
+  "active_ingredients": [
+    {
+      "name": "AMLODIPINE (AMLODIPINE BESYLATE)",
+      "strength": "5",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "AURO PHARMA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "AMLODIPINE"
+  ]
+}

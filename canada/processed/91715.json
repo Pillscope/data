@@ -1,0 +1,28 @@
+{
+  "drug_code": "91715",
+  "din": "02432749",
+  "brand_name": "SANIMOR ASSAINISSEUR MOUSSANT SANS ALCOOL POUR LES MAINS | SANIMOR ALCOHOL FREE FOAMING HAND SANITIZER",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "29-MAY-2017",
+  "active_ingredients": [
+    {
+      "name": "BENZALKONIUM CHLORIDE",
+      "strength": "0.13",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "TOPICAL (COMMERCIAL)"
+  ],
+  "companies": [
+    "AVMOR LTD"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "BENZALKONIUM"
+  ]
+}

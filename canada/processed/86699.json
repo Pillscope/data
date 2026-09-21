@@ -1,0 +1,28 @@
+{
+  "drug_code": "86699",
+  "din": "02381214",
+  "brand_name": "TROPHON SONEX-HL",
+  "class": "Disinfectant",
+  "descriptor": "ONLY FOR USE WITH THE TROPHON EPR",
+  "last_update": "03-AUG-2012",
+  "active_ingredients": [
+    {
+      "name": "HYDROGEN PEROXIDE",
+      "strength": "35",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "DISINFECTANT (Medical Instruments)"
+  ],
+  "companies": [
+    "NANOSONICS LIMITED"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "TECHNICAL DISINFECTANTS"
+  ]
+}

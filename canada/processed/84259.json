@@ -1,0 +1,28 @@
+{
+  "drug_code": "84259",
+  "din": "02357453",
+  "brand_name": "SANDOZ REPAGLINIDE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "21-JAN-2013",
+  "active_ingredients": [
+    {
+      "name": "REPAGLINIDE",
+      "strength": "0.5",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "SANDOZ CANADA INCORPORATED"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "REPAGLINIDE"
+  ]
+}

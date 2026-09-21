@@ -1,0 +1,33 @@
+{
+  "drug_code": "64334",
+  "din": "02240745",
+  "brand_name": "AVON SUN LIP BALM SPF 15",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "01-MAY-2006",
+  "active_ingredients": [
+    {
+      "name": "OXYBENZONE",
+      "strength": "2",
+      "unit": "%"
+    },
+    {
+      "name": "OCTINOXATE",
+      "strength": "7.5",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "STICK"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "AVON CANADA INC"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "COMBINATIONS OF PROTECTIVES AGAINST UV-RADIATION"
+  ]
+}

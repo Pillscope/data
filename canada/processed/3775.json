@@ -1,0 +1,28 @@
+{
+  "drug_code": "3775",
+  "din": "00489867",
+  "brand_name": "DORMIPHEN EXTRA-FORT CAPSULE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "17-NOV-2017",
+  "active_ingredients": [
+    {
+      "name": "DIPHENHYDRAMINE HYDROCHLORIDE",
+      "strength": "50",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "CAPSULE"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "LABORATOIRE LALCO INC."
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "DIPHENHYDRAMINE"
+  ]
+}

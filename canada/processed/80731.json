@@ -1,0 +1,31 @@
+{
+  "drug_code": "80731",
+  "din": "02321904",
+  "brand_name": "VITALAX",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "17-AUG-2009",
+  "active_ingredients": [
+    {
+      "name": "MINERAL OIL LIGHT",
+      "strength": "34.0",
+      "unit": "MG"
+    },
+    {
+      "name": "WHITE PETROLATUM",
+      "strength": "214",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "GEL"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "VETOQUINOL N A INC"
+  ],
+  "status": "MARKETED",
+  "atc": []
+}

@@ -1,0 +1,28 @@
+{
+  "drug_code": "65769",
+  "din": "02242094",
+  "brand_name": "RIVA-ATENOLOL 50 MG",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "04-AUG-2006",
+  "active_ingredients": [
+    {
+      "name": "ATENOLOL",
+      "strength": "50",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "LABORATOIRE RIVA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "ATENOLOL"
+  ]
+}

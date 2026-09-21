@@ -1,0 +1,28 @@
+{
+  "drug_code": "51386",
+  "din": "02231934",
+  "brand_name": "OXY.IR",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "28-AUG-2009",
+  "active_ingredients": [
+    {
+      "name": "OXYCODONE HYDROCHLORIDE",
+      "strength": "5",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "PURDUE PHARMA"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "OXYCODONE"
+  ]
+}

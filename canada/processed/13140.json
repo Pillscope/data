@@ -1,0 +1,34 @@
+{
+  "drug_code": "13140",
+  "din": "01959034",
+  "brand_name": "ACT-HIB",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "04-JUL-2014",
+  "active_ingredients": [
+    {
+      "name": "TETANUS PROTEIN",
+      "strength": "30",
+      "unit": "MCG"
+    },
+    {
+      "name": "HAEMOPHILUS INFLUENZAE TYPE B-PRP",
+      "strength": "10",
+      "unit": "MCG"
+    }
+  ],
+  "forms": [
+    "KIT",
+    "POWDER FOR SOLUTION"
+  ],
+  "routes": [
+    "INTRAMUSCULAR"
+  ],
+  "companies": [
+    "SANOFI PASTEUR LIMITED"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "HEMOPHILUS INFLUENZAE B, COMBINATIONS WITH TOXOIDS"
+  ]
+}

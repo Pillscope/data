@@ -1,0 +1,28 @@
+{
+  "drug_code": "76503",
+  "din": "02279444",
+  "brand_name": "GAMMAGARD LIQUID",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "25-APR-2018",
+  "active_ingredients": [
+    {
+      "name": "IMMUNE GLOBULIN (HUMAN)",
+      "strength": "10",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "BAXALTA CANADA CORPORATION"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "IMMUNOGLOBULINS, NORMAL HUMAN, FOR INTRAVASC. ADM."
+  ]
+}

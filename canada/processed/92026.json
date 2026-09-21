@@ -1,0 +1,28 @@
+{
+  "drug_code": "92026",
+  "din": "02435926",
+  "brand_name": "AURO-TADALAFIL",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "21-JUL-2016",
+  "active_ingredients": [
+    {
+      "name": "TADALAFIL",
+      "strength": "5",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "AURO PHARMA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "TADALAFIL"
+  ]
+}

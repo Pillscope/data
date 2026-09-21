@@ -1,0 +1,48 @@
+{
+  "drug_code": "74648",
+  "din": "02261065",
+  "brand_name": "BALANCE 4.25% GLUCOSE, 1.25MMOL/L CALCIUM",
+  "class": "Human",
+  "descriptor": "PERITONEAL DIALYSIS",
+  "last_update": "25-SEP-2015",
+  "active_ingredients": [
+    {
+      "name": "DEXTROSE",
+      "strength": "46.75",
+      "unit": "G"
+    },
+    {
+      "name": "SODIUM CHLORIDE",
+      "strength": "5.640",
+      "unit": "G"
+    },
+    {
+      "name": "MAGNESIUM CHLORIDE",
+      "strength": "0.1017",
+      "unit": "G"
+    },
+    {
+      "name": "CALCIUM CHLORIDE",
+      "strength": "0.1838",
+      "unit": "G"
+    },
+    {
+      "name": "SODIUM LACTATE",
+      "strength": "3.925",
+      "unit": "G"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "DIALYSIS"
+  ],
+  "companies": [
+    "FRESENIUS MEDICAL CARE DEUTCHLAND GMBH"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "HYPERTONIC SOLUTIONS"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "drug_code": "89690",
+  "din": "02412322",
+  "brand_name": "TRELSTAR",
+  "class": "Human",
+  "descriptor": "MICROGRANULES FOR DEPOT SUSP. 6 MONTH SLOW-RELEASE",
+  "last_update": "03-MAR-2017",
+  "active_ingredients": [
+    {
+      "name": "TRIPTORELIN (TRIPTORELIN PAMOATE)",
+      "strength": "22.5",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "POWDER FOR SUSPENSION, SUSTAINED-RELEASE"
+  ],
+  "routes": [
+    "INTRAMUSCULAR"
+  ],
+  "companies": [
+    "ALLERGAN PHARMA CO."
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "TRIPTORELIN"
+  ]
+}

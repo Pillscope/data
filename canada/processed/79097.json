@@ -1,0 +1,28 @@
+{
+  "drug_code": "79097",
+  "din": "02305429",
+  "brand_name": "SANDOZ BRIMONIDINE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "06-FEB-2013",
+  "active_ingredients": [
+    {
+      "name": "BRIMONIDINE TARTRATE",
+      "strength": "0.2",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "OPHTHALMIC"
+  ],
+  "companies": [
+    "SANDOZ CANADA INCORPORATED"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "BRIMONIDINE"
+  ]
+}

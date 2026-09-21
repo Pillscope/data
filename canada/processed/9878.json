@@ -1,0 +1,26 @@
+{
+  "drug_code": "9878",
+  "din": "00761842",
+  "brand_name": "IVOMEC",
+  "class": "Veterinary",
+  "descriptor": "POUR-ON FOR CATTLE",
+  "last_update": "03-DEC-2014",
+  "active_ingredients": [
+    {
+      "name": "IVERMECTIN",
+      "strength": "5",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "LIQUID"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "MERIAL CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": []
+}

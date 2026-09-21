@@ -1,0 +1,36 @@
+{
+  "drug_code": "83017",
+  "din": "02344688",
+  "brand_name": "MOMETAMAX",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "12-AUG-2014",
+  "active_ingredients": [
+    {
+      "name": "GENTAMICIN (GENTAMICIN SULFATE)",
+      "strength": "3",
+      "unit": "MG"
+    },
+    {
+      "name": "CLOTRIMAZOLE",
+      "strength": "10",
+      "unit": "MG"
+    },
+    {
+      "name": "MOMETASONE FUROATE (MOMETASONE FUROATE MONOHYDRATE)",
+      "strength": "1",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SUSPENSION"
+  ],
+  "routes": [
+    "OTIC"
+  ],
+  "companies": [
+    "INTERVET CANADA CORP"
+  ],
+  "status": "APPROVED",
+  "atc": []
+}

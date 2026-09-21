@@ -1,0 +1,39 @@
+{
+  "drug_code": "7434",
+  "din": "00706221",
+  "brand_name": "ACETAMINOPHEN 325 MG WITH 15 MG CAFFEINE AND 8 MG CODEINE PHOSPHATE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "02-FEB-2017",
+  "active_ingredients": [
+    {
+      "name": "CODEINE PHOSPHATE",
+      "strength": "8",
+      "unit": "MG"
+    },
+    {
+      "name": "ACETAMINOPHEN",
+      "strength": "325",
+      "unit": "MG"
+    },
+    {
+      "name": "CAFFEINE",
+      "strength": "15",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "VITA HEALTH PRODUCTS INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "CODEINE AND PARACETAMOL",
+    "CODEINE AND PARACETAMOL"
+  ]
+}

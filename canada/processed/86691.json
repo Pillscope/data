@@ -1,0 +1,38 @@
+{
+  "drug_code": "86691",
+  "din": "02381141",
+  "brand_name": "NO7 BEAUTIFUL SKIN DAY CREAM DRY/VERY DRY SPF 15",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "05-JUN-2013",
+  "active_ingredients": [
+    {
+      "name": "AVOBENZONE",
+      "strength": "3",
+      "unit": "%"
+    },
+    {
+      "name": "OCTOCRYLENE",
+      "strength": "4",
+      "unit": "%"
+    },
+    {
+      "name": "OCTISALATE",
+      "strength": "2",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "CREAM"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "THE BOOTS COMPANY PLC"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "COMBINATIONS OF PROTECTIVES AGAINST UV-RADIATION"
+  ]
+}

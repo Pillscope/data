@@ -1,0 +1,28 @@
+{
+  "drug_code": "75463",
+  "din": "02269252",
+  "brand_name": "PMS-SIMVASTATIN",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "01-OCT-2014",
+  "active_ingredients": [
+    {
+      "name": "SIMVASTATIN",
+      "strength": "5",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "PHARMASCIENCE INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "SIMVASTATIN"
+  ]
+}

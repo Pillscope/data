@@ -1,0 +1,34 @@
+{
+  "drug_code": "73710",
+  "din": "02252228",
+  "brand_name": "EXTRA STRENGTH MUSCLE & BACK PAIN ASA 500 MG METHOCARBAMOL 400 MG & ACETYLSALICYLIC ACID 500 MG",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "13-MAY-2014",
+  "active_ingredients": [
+    {
+      "name": "METHOCARBAMOL",
+      "strength": "400",
+      "unit": "MG"
+    },
+    {
+      "name": "ACETYLSALICYLIC ACID",
+      "strength": "500",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "VITA HEALTH PRODUCTS INC"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "METHOCARBAMOL, COMBINATIONS EXCL PSYCHOLEPTICS",
+    "METHOCARBAMOL, COMBINATIONS EXCL PSYCHOLEPTICS"
+  ]
+}

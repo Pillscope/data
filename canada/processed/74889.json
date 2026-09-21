@@ -1,0 +1,31 @@
+{
+  "drug_code": "74889",
+  "din": "02263505",
+  "brand_name": "ADVANTAGE MULTI 9",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "05-MAY-2015",
+  "active_ingredients": [
+    {
+      "name": "MOXIDECTIN",
+      "strength": "4",
+      "unit": "MG"
+    },
+    {
+      "name": "IMIDACLOPRID",
+      "strength": "40",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "BAYER INC., ANIMAL HEALTH"
+  ],
+  "status": "APPROVED",
+  "atc": []
+}

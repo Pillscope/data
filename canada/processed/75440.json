@@ -1,0 +1,26 @@
+{
+  "drug_code": "75440",
+  "din": "02268973",
+  "brand_name": "PAYLEAN 20",
+  "class": "Veterinary",
+  "descriptor": "RACTOPAMINE HYDROCHLORIDE PREMIX",
+  "last_update": "08-DEC-2017",
+  "active_ingredients": [
+    {
+      "name": "RACTOPAMINE HYDROCHLORIDE",
+      "strength": "20",
+      "unit": "G"
+    }
+  ],
+  "forms": [
+    "DRUG PREMIX"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "ELANCO CANADA LIMITED"
+  ],
+  "status": "APPROVED",
+  "atc": []
+}

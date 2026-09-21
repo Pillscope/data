@@ -1,0 +1,58 @@
+{
+  "drug_code": "85901",
+  "din": "02373793",
+  "brand_name": "H.E.L.P.BICEL",
+  "class": "Human",
+  "descriptor": "BICARBONATE PLASMA DIALYSIS. FOR EXTRACORPOREAL USE ONLY, WITH THE H.E.L.P SYSTEM. SINGLE-USE.",
+  "last_update": "27-MAR-2012",
+  "active_ingredients": [
+    {
+      "name": "SODIUM BICARBONATE",
+      "strength": "3.59",
+      "unit": "G"
+    },
+    {
+      "name": "POTASSIUM CHLORIDE",
+      "strength": "2.68",
+      "unit": "G"
+    },
+    {
+      "name": "SODIUM CHLORIDE",
+      "strength": "6.18",
+      "unit": "G"
+    },
+    {
+      "name": "SODIUM CHLORIDE",
+      "strength": "4.21",
+      "unit": "G"
+    },
+    {
+      "name": "DEXTROSE",
+      "strength": "9.90",
+      "unit": "G"
+    },
+    {
+      "name": "MAGNESIUM CHLORIDE",
+      "strength": "1.83",
+      "unit": "G"
+    },
+    {
+      "name": "CALCIUM CHLORIDE",
+      "strength": "2.45",
+      "unit": "G"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "DIALYSIS"
+  ],
+  "companies": [
+    "B. BRAUN AVITUM AG"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "HEMODIALYTICS, CONCENTRATES"
+  ]
+}

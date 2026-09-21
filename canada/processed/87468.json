@@ -1,0 +1,34 @@
+{
+  "drug_code": "87468",
+  "din": "02389177",
+  "brand_name": "KOMBOGLYZE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "18-DEC-2014",
+  "active_ingredients": [
+    {
+      "name": "METFORMIN HYDROCHLORIDE",
+      "strength": "850",
+      "unit": "MG"
+    },
+    {
+      "name": "SAXAGLIPTIN (SAXAGLIPTIN HYDROCHLORIDE)",
+      "strength": "2.5",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "ASTRAZENECA CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "METFORMIN AND SAXAGLIPTIN",
+    "METFORMIN AND SAXAGLIPTIN"
+  ]
+}

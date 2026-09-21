@@ -1,0 +1,28 @@
+{
+  "drug_code": "8274",
+  "din": "00511226",
+  "brand_name": "TROMBOJECT 3% INJ 30MG/ML",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "12-APR-2006",
+  "active_ingredients": [
+    {
+      "name": "SODIUM TETRADECYL SULFATE",
+      "strength": "30",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "OMEGA LABORATORIES LTD"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "SODIUM TETRADECYL SULPHATE"
+  ]
+}

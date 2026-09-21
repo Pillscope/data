@@ -1,0 +1,28 @@
+{
+  "drug_code": "73230",
+  "din": "02248858",
+  "brand_name": "BENYLIN NIGHT FOR CHILDREN",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "09-MAY-2013",
+  "active_ingredients": [
+    {
+      "name": "DIPHENHYDRAMINE HYDROCHLORIDE",
+      "strength": "6.25",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "LIQUID"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "MCNEIL CONSUMER HEALTHCARE DIVISION OF JOHNSON & JOHNSON INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "DIPHENHYDRAMINE"
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "drug_code": "73859",
+  "din": "02253631",
+  "brand_name": "TEVETEN PLUS",
+  "class": "Human",
+  "descriptor": "FILM-COATED TABLETS",
+  "last_update": "10-FEB-2016",
+  "active_ingredients": [
+    {
+      "name": "EPROSARTAN (EPROSARTAN MESYLATE)",
+      "strength": "600",
+      "unit": "MG"
+    },
+    {
+      "name": "HYDROCHLOROTHIAZIDE",
+      "strength": "12.5",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "BGP PHARMA ULC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "EPROSARTAN AND DIURETICS",
+    "EPROSARTAN AND DIURETICS"
+  ]
+}

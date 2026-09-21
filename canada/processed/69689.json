@@ -1,0 +1,39 @@
+{
+  "drug_code": "69689",
+  "din": "02245592",
+  "brand_name": "DAMYLIN WITH CODEINE SYRUP",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "20-FEB-2017",
+  "active_ingredients": [
+    {
+      "name": "CODEINE PHOSPHATE",
+      "strength": "3.3",
+      "unit": "MG"
+    },
+    {
+      "name": "DIPHENHYDRAMINE HYDROCHLORIDE",
+      "strength": "12.5",
+      "unit": "MG"
+    },
+    {
+      "name": "AMMONIUM CHLORIDE",
+      "strength": "125",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SYRUP"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "LABORATOIRE RIVA INC"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "OPIUM DERIVATIVES AND EXPECTORANTS",
+    "OPIUM DERIVATIVES AND EXPECTORANTS"
+  ]
+}

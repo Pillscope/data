@@ -1,0 +1,31 @@
+{
+  "drug_code": "87852",
+  "din": "02393298",
+  "brand_name": "CLOROX DISINFECTING BLEACH",
+  "class": "Disinfectant",
+  "descriptor": "",
+  "last_update": "29-JAN-2015",
+  "active_ingredients": [
+    {
+      "name": "SODIUM HYPOCHLORITE",
+      "strength": "7.4",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "LIQUID"
+  ],
+  "routes": [
+    "DISINFECTANT (Food Premises)",
+    "DISINFECTANT (Hospital/HC Facilities)",
+    "DISINFECTANT (Domestic)",
+    "DISINFECTANT (Institutional/Industrial)"
+  ],
+  "companies": [
+    "THE CLOROX COMPANY OF CANADA LTD"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "TECHNICAL DISINFECTANTS"
+  ]
+}

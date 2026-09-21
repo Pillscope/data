@@ -1,0 +1,31 @@
+{
+  "drug_code": "80496",
+  "din": "02319497",
+  "brand_name": "CLOROX COMMERCIAL SOLUTIONS CLOROX DISINFECTING CLEANER DEGREASER",
+  "class": "Disinfectant",
+  "descriptor": "",
+  "last_update": "14-JAN-2013",
+  "active_ingredients": [
+    {
+      "name": "BENZALKONIUM CHLORIDE",
+      "strength": "0.3",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "SPRAY"
+  ],
+  "routes": [
+    "DISINFECTANT (Food Premises)",
+    "DISINFECTANT (Hospital/HC Facilities)",
+    "DISINFECTANT (Domestic)",
+    "DISINFECTANT (Institutional/Industrial)"
+  ],
+  "companies": [
+    "THE CLOROX COMPANY OF CANADA LTD"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "TECHNICAL DISINFECTANTS"
+  ]
+}

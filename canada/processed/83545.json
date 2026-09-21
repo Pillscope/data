@@ -1,0 +1,28 @@
+{
+  "drug_code": "83545",
+  "din": "02350238",
+  "brand_name": "OXYBUTYNIN",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "05-MAY-2015",
+  "active_ingredients": [
+    {
+      "name": "OXYBUTYNIN CHLORIDE",
+      "strength": "5",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "SANIS HEALTH INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "OXYBUTYNIN"
+  ]
+}

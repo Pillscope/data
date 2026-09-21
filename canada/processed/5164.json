@@ -1,0 +1,27 @@
+{
+  "drug_code": "5164",
+  "din": "00573159",
+  "brand_name": "ARICID INJ 0.5GM/10ML",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "06-DEC-2012",
+  "active_ingredients": [
+    {
+      "name": "ARSONOACETIC ACID,DISODIUM SALT",
+      "strength": "500",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "INTRAMUSCULAR",
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "UNIVET PHARMACEUTICALS LTD."
+  ],
+  "status": "MARKETED",
+  "atc": []
+}

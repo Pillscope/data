@@ -1,0 +1,33 @@
+{
+  "drug_code": "75728",
+  "din": "02271745",
+  "brand_name": "TRIAMINIC THIN STRIPS COLD & COUGH",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "24-NOV-2016",
+  "active_ingredients": [
+    {
+      "name": "PHENYLEPHRINE HYDROCHLORIDE",
+      "strength": "2.5",
+      "unit": "MG"
+    },
+    {
+      "name": "DEXTROMETHORPHAN HYDROBROMIDE",
+      "strength": "5",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "STRIP"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "GLAXOSMITHKLINE CONSUMER HEALTHCARE INC."
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "COMBINATIONS"
+  ]
+}

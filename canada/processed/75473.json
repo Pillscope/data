@@ -1,0 +1,33 @@
+{
+  "drug_code": "75473",
+  "din": "02269341",
+  "brand_name": "KIVEXA",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "30-SEP-2014",
+  "active_ingredients": [
+    {
+      "name": "ABACAVIR (ABACAVIR SULFATE)",
+      "strength": "600",
+      "unit": "MG"
+    },
+    {
+      "name": "LAMIVUDINE",
+      "strength": "300",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "VIIV HEALTHCARE ULC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "LAMIVUDINE AND ABACAVIR"
+  ]
+}

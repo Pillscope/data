@@ -1,0 +1,29 @@
+{
+  "drug_code": "78377",
+  "din": "02298465",
+  "brand_name": "RISPERDAL CONSTA",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "29-DEC-2014",
+  "active_ingredients": [
+    {
+      "name": "RISPERIDONE",
+      "strength": "12.5",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "POWDER FOR SUSPENSION, SUSTAINED-RELEASE",
+    "KIT"
+  ],
+  "routes": [
+    "INTRAMUSCULAR"
+  ],
+  "companies": [
+    "JANSSEN INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "RISPERIDONE"
+  ]
+}

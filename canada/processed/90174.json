@@ -1,0 +1,29 @@
+{
+  "drug_code": "90174",
+  "din": "02417103",
+  "brand_name": "NIASTASE RT",
+  "class": "Human",
+  "descriptor": "KIT INCLUDES 1 PREFILLED SYRINGE WITH SOLVENT, 1 PLUNGER ROD & 1 VIAL ADAPTER",
+  "last_update": "21-MAY-2015",
+  "active_ingredients": [
+    {
+      "name": "EPTACOG ALFA (ACTIVATED)",
+      "strength": "1",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "KIT",
+    "POWDER FOR SOLUTION"
+  ],
+  "routes": [
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "NOVO NORDISK CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "COAGULATION FACTOR VIIa"
+  ]
+}

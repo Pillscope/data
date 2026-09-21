@@ -1,0 +1,28 @@
+{
+  "drug_code": "11363",
+  "din": "00885428",
+  "brand_name": "PMS-HYDROMORPHONE TAB 8MG",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "06-JUN-2008",
+  "active_ingredients": [
+    {
+      "name": "HYDROMORPHONE HYDROCHLORIDE",
+      "strength": "8",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "PHARMASCIENCE INC"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "HYDROMORPHONE"
+  ]
+}

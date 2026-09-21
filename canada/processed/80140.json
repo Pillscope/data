@@ -1,0 +1,33 @@
+{
+  "drug_code": "80140",
+  "din": "02315890",
+  "brand_name": "REFRESH EYE ALLERGY RELIEF",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "11-JUL-2012",
+  "active_ingredients": [
+    {
+      "name": "NAPHAZOLINE HYDROCHLORIDE",
+      "strength": "0.051",
+      "unit": "%"
+    },
+    {
+      "name": "ANTAZOLINE PHOSPHATE",
+      "strength": "0.51",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "OPHTHALMIC"
+  ],
+  "companies": [
+    "ALLERGAN INC"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "NAPHAZOLINE, COMBINATIONS"
+  ]
+}

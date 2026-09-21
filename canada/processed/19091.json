@@ -1,0 +1,31 @@
+{
+  "drug_code": "19091",
+  "din": "02034956",
+  "brand_name": "SULFAQUINOXALINE-S",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "12-JAN-2018",
+  "active_ingredients": [
+    {
+      "name": "SULFAQUINOXALINE",
+      "strength": "32.5",
+      "unit": "G"
+    },
+    {
+      "name": "PYRIMETHAMINE",
+      "strength": "9.8",
+      "unit": "G"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "BIO AGRI MIX LP"
+  ],
+  "status": "APPROVED",
+  "atc": []
+}

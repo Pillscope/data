@@ -1,0 +1,28 @@
+{
+  "drug_code": "80321",
+  "din": "02317680",
+  "brand_name": "LAX-A-DAY",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "24-APR-2017",
+  "active_ingredients": [
+    {
+      "name": "POLYETHYLENE GLYCOL 3350",
+      "strength": "1",
+      "unit": "G"
+    }
+  ],
+  "forms": [
+    "POWDER FOR SOLUTION"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "PENDOPHARM DIVISION OF DE PHARMASCIENCE INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "MACROGOL"
+  ]
+}

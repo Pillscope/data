@@ -1,0 +1,28 @@
+{
+  "drug_code": "20107",
+  "din": "02148749",
+  "brand_name": "DIFFERIN - GEL TOP 0.1%",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "23-AUG-2007",
+  "active_ingredients": [
+    {
+      "name": "ADAPALENE",
+      "strength": "0.1",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "GEL"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "GALDERMA CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "ADAPALENE"
+  ]
+}

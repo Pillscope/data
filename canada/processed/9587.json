@@ -1,0 +1,28 @@
+{
+  "drug_code": "9587",
+  "din": "00741515",
+  "brand_name": "WHITE PETROLEUM JELLY USP OINTMENT",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "23-AUG-2016",
+  "active_ingredients": [
+    {
+      "name": "PETROLATUM",
+      "strength": "100",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "OINTMENT"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "CANADIAN CUSTOM PACKAGING COMPANY"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "SOFT PARAFFIN AND FAT PRODUCTS"
+  ]
+}

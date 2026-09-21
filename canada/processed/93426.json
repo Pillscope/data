@@ -1,0 +1,38 @@
+{
+  "drug_code": "93426",
+  "din": "02448564",
+  "brand_name": "SUNSCREEN OIL",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "04-JUL-2016",
+  "active_ingredients": [
+    {
+      "name": "AVOBENZONE",
+      "strength": "2.8",
+      "unit": "G"
+    },
+    {
+      "name": "OCTOCRYLENE",
+      "strength": "2.2",
+      "unit": "G"
+    },
+    {
+      "name": "OXYBENZONE",
+      "strength": "2",
+      "unit": "G"
+    }
+  ],
+  "forms": [
+    "OIL"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "FRUIT OF THE EARTH, INC"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "COMBINATIONS OF PROTECTIVES AGAINST UV-RADIATION"
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "drug_code": "95216",
+  "din": "02464020",
+  "brand_name": "TEVA-PERINDOPRIL/INDAPAMIDE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "15-MAR-2018",
+  "active_ingredients": [
+    {
+      "name": "PERINDOPRIL ERBUMINE",
+      "strength": "4",
+      "unit": "MG"
+    },
+    {
+      "name": "INDAPAMIDE",
+      "strength": "1.25",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "TEVA CANADA LIMITED"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "PERINDOPRIL AND DIURETICS",
+    "PERINDOPRIL AND DIURETICS"
+  ]
+}

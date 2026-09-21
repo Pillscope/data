@@ -1,0 +1,26 @@
+{
+  "drug_code": "86608",
+  "din": "02380269",
+  "brand_name": "PROPYLENE GLYCOL, USP",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "15-OCT-2013",
+  "active_ingredients": [
+    {
+      "name": "PROPYLENE GLYCOL",
+      "strength": "100",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "LIQUID"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "ALBERTA VETERINARY LABORATORIES LTD"
+  ],
+  "status": "MARKETED",
+  "atc": []
+}

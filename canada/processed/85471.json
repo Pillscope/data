@@ -1,0 +1,28 @@
+{
+  "drug_code": "85471",
+  "din": "02369818",
+  "brand_name": "SCOTT CLEAR ANTIBACTERIAL SKIN CLEANSER",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "10-JUL-2013",
+  "active_ingredients": [
+    {
+      "name": "TRICLOSAN",
+      "strength": "0.25",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "TOPICAL (HOUSEHOLD)"
+  ],
+  "companies": [
+    "KIMBERLY-CLARK GLOBAL SALES LLC"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "TRICLOSAN"
+  ]
+}

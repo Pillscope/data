@@ -1,0 +1,30 @@
+{
+  "drug_code": "87828",
+  "din": "02393034",
+  "brand_name": "NALOXONE HYDROCHLORIDE INJECTION",
+  "class": "Human",
+  "descriptor": "1ML & 10ML VIALS",
+  "last_update": "15-OCT-2013",
+  "active_ingredients": [
+    {
+      "name": "NALOXONE HYDROCHLORIDE (NALOXONE HYDROCHLORIDE DIHYDRATE)",
+      "strength": "0.4",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "INTRAMUSCULAR",
+    "INTRAVENOUS",
+    "SUBCUTANEOUS"
+  ],
+  "companies": [
+    "OMEGA LABORATORIES LTD"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "NALOXONE"
+  ]
+}

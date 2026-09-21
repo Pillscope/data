@@ -1,0 +1,26 @@
+{
+  "drug_code": "75122",
+  "din": "02265788",
+  "brand_name": "DERAMAXX FLAVOR TABS",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "24-NOV-2016",
+  "active_ingredients": [
+    {
+      "name": "DERACOXIB",
+      "strength": "100",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "ELANCO CANADA LIMITED"
+  ],
+  "status": "APPROVED",
+  "atc": []
+}

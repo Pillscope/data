@@ -1,0 +1,33 @@
+{
+  "drug_code": "85441",
+  "din": "02369486",
+  "brand_name": "BABY LIPS",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "21-DEC-2011",
+  "active_ingredients": [
+    {
+      "name": "OCTISALATE",
+      "strength": "3.0",
+      "unit": "%"
+    },
+    {
+      "name": "OCTINOXATE",
+      "strength": "7.5",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "STICK"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "MAYBELLINE CANADA"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "COMBINATIONS OF PROTECTIVES AGAINST UV-RADIATION"
+  ]
+}

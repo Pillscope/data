@@ -1,0 +1,28 @@
+{
+  "drug_code": "5380",
+  "din": "00518816",
+  "brand_name": "EUTHANSOL",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "13-JAN-2014",
+  "active_ingredients": [
+    {
+      "name": "PENTOBARBITAL SODIUM",
+      "strength": "340",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "INTERVET CANADA CORP"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "PENTOBARBITAL"
+  ]
+}

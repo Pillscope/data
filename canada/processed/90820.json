@@ -1,0 +1,28 @@
+{
+  "drug_code": "90820",
+  "din": "02423480",
+  "brand_name": "MAR-ESCITALOPRAM",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "10-DEC-2014",
+  "active_ingredients": [
+    {
+      "name": "ESCITALOPRAM (ESCITALOPRAM OXALATE)",
+      "strength": "10",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "MARCAN PHARMACEUTICALS INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "ESCITALOPRAM"
+  ]
+}

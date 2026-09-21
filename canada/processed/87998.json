@@ -1,0 +1,28 @@
+{
+  "drug_code": "87998",
+  "din": "02394820",
+  "brand_name": "CLOPIDOGREL",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "03-JAN-2013",
+  "active_ingredients": [
+    {
+      "name": "CLOPIDOGREL (CLOPIDOGREL BISULFATE)",
+      "strength": "75",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "PRO DOC LIMITEE"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "CLOPIDOGREL"
+  ]
+}

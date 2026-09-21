@@ -1,0 +1,28 @@
+{
+  "drug_code": "66190",
+  "din": "02242465",
+  "brand_name": "DESMOPRESSIN SPRAY",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "17-MAY-2011",
+  "active_ingredients": [
+    {
+      "name": "DESMOPRESSIN ACETATE",
+      "strength": "10",
+      "unit": "MCG"
+    }
+  ],
+  "forms": [
+    "SPRAY, METERED DOSE"
+  ],
+  "routes": [
+    "NASAL"
+  ],
+  "companies": [
+    "AA PHARMA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "DESMOPRESSIN"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "drug_code": "62650",
+  "din": "02239194",
+  "brand_name": "HEPTOVIR",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "22-AUG-2014",
+  "active_ingredients": [
+    {
+      "name": "LAMIVUDINE",
+      "strength": "5",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "GLAXOSMITHKLINE INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "LAMIVUDINE"
+  ]
+}

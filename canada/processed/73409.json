@@ -1,0 +1,26 @@
+{
+  "drug_code": "73409",
+  "din": "02249243",
+  "brand_name": "BAYTRIL 100",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "08-JAN-2013",
+  "active_ingredients": [
+    {
+      "name": "ENROFLOXACIN",
+      "strength": "100",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "SUBCUTANEOUS"
+  ],
+  "companies": [
+    "BAYER INC., ANIMAL HEALTH"
+  ],
+  "status": "APPROVED",
+  "atc": []
+}

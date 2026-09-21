@@ -1,0 +1,28 @@
+{
+  "drug_code": "61602",
+  "din": "02238209",
+  "brand_name": "PMS-SUCRALFATE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "30-SEP-2010",
+  "active_ingredients": [
+    {
+      "name": "SUCRALFATE",
+      "strength": "1000",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "PHARMASCIENCE INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "SUCRALFATE"
+  ]
+}

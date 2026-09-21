@@ -1,0 +1,26 @@
+{
+  "drug_code": "50480",
+  "din": "02231173",
+  "brand_name": "RUMENSIN PREMIX",
+  "class": "Veterinary",
+  "descriptor": "MONENSIN WITH MICROTRACER",
+  "last_update": "02-FEB-2018",
+  "active_ingredients": [
+    {
+      "name": "MONENSIN (MONENSIN SODIUM)",
+      "strength": "200",
+      "unit": "G"
+    }
+  ],
+  "forms": [
+    "DRUG PREMIX"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "ELANCO CANADA LIMITED"
+  ],
+  "status": "APPROVED",
+  "atc": []
+}

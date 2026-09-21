@@ -1,0 +1,28 @@
+{
+  "drug_code": "70015",
+  "din": "02245898",
+  "brand_name": "CYPROTERONE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "17-MAY-2011",
+  "active_ingredients": [
+    {
+      "name": "CYPROTERONE ACETATE",
+      "strength": "50",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "AA PHARMA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "CYPROTERONE"
+  ]
+}

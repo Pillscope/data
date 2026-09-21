@@ -1,0 +1,26 @@
+{
+  "drug_code": "1991",
+  "din": "00308188",
+  "brand_name": "SULFAQUINOXALINE 19.2% LIQUID CONCENTRATE",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "05-JAN-2018",
+  "active_ingredients": [
+    {
+      "name": "SULFAQUINOXALINE",
+      "strength": "19.2",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "PROFESSIONAL VETERINARY LABORATORIES"
+  ],
+  "status": "MARKETED",
+  "atc": []
+}

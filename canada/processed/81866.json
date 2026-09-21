@@ -1,0 +1,28 @@
+{
+  "drug_code": "81866",
+  "din": "02333015",
+  "brand_name": "APO-OLANZAPINE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "26-NOV-2009",
+  "active_ingredients": [
+    {
+      "name": "OLANZAPINE",
+      "strength": "20.0",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "APOTEX INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "OLANZAPINE"
+  ]
+}

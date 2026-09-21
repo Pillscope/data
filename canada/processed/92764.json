@@ -1,0 +1,28 @@
+{
+  "drug_code": "92764",
+  "din": "02443104",
+  "brand_name": "NON-ALCOHOL FOAMING HAND SANITIZER/ASSAINISSEUR MOUSSANT SANS ALCOOL",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "15-JAN-2018",
+  "active_ingredients": [
+    {
+      "name": "BENZALKONIUM CHLORIDE",
+      "strength": "0.13",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "AVMOR LTD"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "BENZALKONIUM"
+  ]
+}

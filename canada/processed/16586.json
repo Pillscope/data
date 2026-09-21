@@ -1,0 +1,28 @@
+{
+  "drug_code": "16586",
+  "din": "02041472",
+  "brand_name": "ATIVAN",
+  "class": "Human",
+  "descriptor": "SUBLINGUAL TABLETS",
+  "last_update": "13-JUN-2012",
+  "active_ingredients": [
+    {
+      "name": "LORAZEPAM",
+      "strength": "2",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "SUBLINGUAL"
+  ],
+  "companies": [
+    "PFIZER CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "LORAZEPAM"
+  ]
+}

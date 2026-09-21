@@ -1,0 +1,28 @@
+{
+  "drug_code": "90733",
+  "din": "02422662",
+  "brand_name": "MAR-EZETIMIBE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "16-DEC-2014",
+  "active_ingredients": [
+    {
+      "name": "EZETIMIBE",
+      "strength": "10",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "MARCAN PHARMACEUTICALS INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "EZETIMIBE"
+  ]
+}

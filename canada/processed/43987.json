@@ -1,0 +1,32 @@
+{
+  "drug_code": "43987",
+  "din": "02146045",
+  "brand_name": "TRIBRISSEN 48%",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "03-DEC-2013",
+  "active_ingredients": [
+    {
+      "name": "TRIMETHOPRIM",
+      "strength": "80",
+      "unit": "MG"
+    },
+    {
+      "name": "SULFADIAZINE (SULFADIAZINE SODIUM)",
+      "strength": "400",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "INTRAMUSCULAR",
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "INTERVET CANADA CORP"
+  ],
+  "status": "APPROVED",
+  "atc": []
+}

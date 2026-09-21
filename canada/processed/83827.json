@@ -1,0 +1,28 @@
+{
+  "drug_code": "83827",
+  "din": "02353040",
+  "brand_name": "ROPINIROLE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "15-SEP-2010",
+  "active_ingredients": [
+    {
+      "name": "ROPINIROLE (ROPINIROLE HYDROCHLORIDE)",
+      "strength": "0.25",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "SANIS HEALTH INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "ROPINIROLE"
+  ]
+}

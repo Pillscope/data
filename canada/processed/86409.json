@@ -1,0 +1,28 @@
+{
+  "drug_code": "86409",
+  "din": "02378272",
+  "brand_name": "NUCYNTA IR",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "27-SEP-2017",
+  "active_ingredients": [
+    {
+      "name": "Tapentadol (Tapentadol Hydrochloride)",
+      "strength": "50",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET (IMMEDIATE RELEASE)"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "ENDO VENTURES LTD"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "TAPENTADOL"
+  ]
+}

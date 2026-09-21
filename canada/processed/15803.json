@@ -1,0 +1,29 @@
+{
+  "drug_code": "15803",
+  "din": "02012952",
+  "brand_name": "PREMISE DISINFECTANT LIQ",
+  "class": "Disinfectant",
+  "descriptor": "",
+  "last_update": "28-APR-2006",
+  "active_ingredients": [
+    {
+      "name": "IODINE (NONYL PHENOXYPOLYETHOXYETHANOL-IODINE COMPLEX)",
+      "strength": "1.75",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "LIQUID"
+  ],
+  "routes": [
+    "DISINFECTANT (Barn)",
+    "DISINFECTANT (Food Premises)"
+  ],
+  "companies": [
+    "WEST PENETONE INC"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "TECHNICAL DISINFECTANTS"
+  ]
+}

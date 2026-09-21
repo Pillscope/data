@@ -1,0 +1,28 @@
+{
+  "drug_code": "28440",
+  "din": "02089602",
+  "brand_name": "PROPADERM",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "26-JUL-2016",
+  "active_ingredients": [
+    {
+      "name": "BECLOMETHASONE DIPROPIONATE",
+      "strength": "0.025",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "CREAM"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "VALEANT CANADA LP/VALEANT CANADA S.E.C."
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "BECLOMETASONE"
+  ]
+}

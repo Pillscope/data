@@ -1,0 +1,28 @@
+{
+  "drug_code": "91022",
+  "din": "02425580",
+  "brand_name": "SCALPSYNC ANTI-DANDRUFF",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "07-AUG-2014",
+  "active_ingredients": [
+    {
+      "name": "PYRITHIONE ZINC",
+      "strength": "1",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "SHAMPOO"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "MATRIX CANADA"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "PYRITHIONE ZINC"
+  ]
+}

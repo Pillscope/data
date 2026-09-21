@@ -1,0 +1,28 @@
+{
+  "drug_code": "16216",
+  "din": "02049325",
+  "brand_name": "ZOLADEX",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "14-MAR-2018",
+  "active_ingredients": [
+    {
+      "name": "GOSERELIN (GOSERELIN ACETATE)",
+      "strength": "3.6",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "IMPLANT"
+  ],
+  "routes": [
+    "SUBCUTANEOUS"
+  ],
+  "companies": [
+    "TERSERA THERAPEUTICS LLC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "GOSERELIN"
+  ]
+}

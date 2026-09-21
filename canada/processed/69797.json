@@ -1,0 +1,28 @@
+{
+  "drug_code": "69797",
+  "din": "02245696",
+  "brand_name": "AMIODARONE HYDROCHLORIDE FOR INJECTION",
+  "class": "Human",
+  "descriptor": "WITH PRESERVATIVE",
+  "last_update": "25-MAY-2015",
+  "active_ingredients": [
+    {
+      "name": "AMIODARONE HYDROCHLORIDE",
+      "strength": "50",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "HOSPIRA HEALTHCARE CORPORATION"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "AMIODARONE"
+  ]
+}

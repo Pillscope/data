@@ -1,0 +1,33 @@
+{
+  "drug_code": "86249",
+  "din": "02376911",
+  "brand_name": "BIOTRUE MULTI-PURPOSE SOLUTION",
+  "class": "Disinfectant",
+  "descriptor": "",
+  "last_update": "05-MAR-2012",
+  "active_ingredients": [
+    {
+      "name": "POLYAMINOPROPYL BIGUANIDE",
+      "strength": "0.00013",
+      "unit": "%"
+    },
+    {
+      "name": "POLYQUATERNIUM 1",
+      "strength": "0.0001",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "DISINFECTANT (Contact Lens)"
+  ],
+  "companies": [
+    "BAUSCH & LOMB INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "ARTIFICIAL TEARS AND OTHER INDIFFERENT PREPARATIONS."
+  ]
+}

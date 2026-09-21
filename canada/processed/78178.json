@@ -1,0 +1,28 @@
+{
+  "drug_code": "78178",
+  "din": "02296454",
+  "brand_name": "ENGERIX-B          (PEDIATRIC DOSE)",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "05-AUG-2010",
+  "active_ingredients": [
+    {
+      "name": "HEPATITIS B SURFACE ANTIGEN (RECOMBINANT)",
+      "strength": "10",
+      "unit": "MCG"
+    }
+  ],
+  "forms": [
+    "SUSPENSION"
+  ],
+  "routes": [
+    "INTRAMUSCULAR"
+  ],
+  "companies": [
+    "GLAXOSMITHKLINE INC"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "HEPATITIS B, PURIFIED ANTIGEN"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "drug_code": "61044",
+  "din": "02237698",
+  "brand_name": "ULTRA STRENGTH PHAZYME 180MG SOFTGELS",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "12-DEC-2013",
+  "active_ingredients": [
+    {
+      "name": "SIMETHICONE",
+      "strength": "180",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "CAPSULE"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "C B FLEET COMPANY INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "SILICONES"
+  ]
+}

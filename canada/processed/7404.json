@@ -1,0 +1,29 @@
+{
+  "drug_code": "7404",
+  "din": "00712884",
+  "brand_name": "LIDOCAINE NEAT",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "29-DEC-2016",
+  "active_ingredients": [
+    {
+      "name": "LIDOCAINE HYDROCHLORIDE",
+      "strength": "20",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "BLOCK/INFILTRATION",
+    "INTRAMUSCULAR",
+    "SUBCUTANEOUS",
+    "EPIDURAL"
+  ],
+  "companies": [
+    "ZOETIS CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": []
+}

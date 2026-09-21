@@ -1,0 +1,28 @@
+{
+  "drug_code": "18065",
+  "din": "02153483",
+  "brand_name": "MYLAN-INDAPAMIDE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "25-JAN-2010",
+  "active_ingredients": [
+    {
+      "name": "INDAPAMIDE",
+      "strength": "2.5",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "MYLAN PHARMACEUTICALS ULC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "INDAPAMIDE"
+  ]
+}

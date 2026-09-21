@@ -1,0 +1,28 @@
+{
+  "drug_code": "78559",
+  "din": "02300273",
+  "brand_name": "INVEGA",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "28-APR-2009",
+  "active_ingredients": [
+    {
+      "name": "PALIPERIDONE",
+      "strength": "3",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET (EXTENDED-RELEASE)"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "JANSSEN INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "PALIPERIDONE"
+  ]
+}

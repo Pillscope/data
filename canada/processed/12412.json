@@ -1,0 +1,28 @@
+{
+  "drug_code": "12412",
+  "din": "01958836",
+  "brand_name": "ACETAMINOPHEN ORAL SOL FOR CHILDREN USP",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "27-MAR-2018",
+  "active_ingredients": [
+    {
+      "name": "ACETAMINOPHEN",
+      "strength": "160",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "LABORATOIRES TRIANON INC"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "ACETAMINOPHEN (PARACETAMOL)"
+  ]
+}

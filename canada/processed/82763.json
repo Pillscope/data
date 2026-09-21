@@ -1,0 +1,34 @@
+{
+  "drug_code": "82763",
+  "din": "02342138",
+  "brand_name": "PMS-RAMIPRIL-HCTZ",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "04-FEB-2010",
+  "active_ingredients": [
+    {
+      "name": "HYDROCHLOROTHIAZIDE",
+      "strength": "12.5",
+      "unit": "MG"
+    },
+    {
+      "name": "RAMIPRIL",
+      "strength": "2.5",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "PHARMASCIENCE INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "RAMIPRIL AND DIURETICS",
+    "RAMIPRIL AND DIURETICS"
+  ]
+}

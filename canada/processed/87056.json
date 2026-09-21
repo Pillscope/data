@@ -1,0 +1,28 @@
+{
+  "drug_code": "87056",
+  "din": "02384884",
+  "brand_name": "TEVA-NABILONE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "07-JUN-2012",
+  "active_ingredients": [
+    {
+      "name": "NABILONE",
+      "strength": "0.5",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "CAPSULE"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "TEVA CANADA LIMITED"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "NABILONE"
+  ]
+}

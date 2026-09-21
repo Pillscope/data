@@ -1,0 +1,46 @@
+{
+  "drug_code": "49958",
+  "din": "02230699",
+  "brand_name": "QUIK KLOT",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "19-NOV-2015",
+  "active_ingredients": [
+    {
+      "name": "IRON SUBSULFATE",
+      "strength": "61",
+      "unit": "%"
+    },
+    {
+      "name": "KAOLIN",
+      "strength": "16",
+      "unit": "%"
+    },
+    {
+      "name": "COPPER SULFATE",
+      "strength": "2",
+      "unit": "%"
+    },
+    {
+      "name": "IODOPHOR",
+      "strength": "1",
+      "unit": "%"
+    },
+    {
+      "name": "ALUMINUM AMMONIUM SULFATE DODECAHYDRATE",
+      "strength": "20",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "POWDER"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "MIRACLECORP PRODUCTS"
+  ],
+  "status": "APPROVED",
+  "atc": []
+}

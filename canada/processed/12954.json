@@ -1,0 +1,31 @@
+{
+  "drug_code": "12954",
+  "din": "01955551",
+  "brand_name": "SELON-E",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "09-AUG-2016",
+  "active_ingredients": [
+    {
+      "name": "VITAMIN E (DL-ALPHA TOCOPHERYL ACETATE)",
+      "strength": "136",
+      "unit": "UNIT"
+    },
+    {
+      "name": "SELENIUM (SODIUM SELENITE)",
+      "strength": "3",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "EMULSION"
+  ],
+  "routes": [
+    "INTRAMUSCULAR"
+  ],
+  "companies": [
+    "VETOQUINOL N A INC"
+  ],
+  "status": "APPROVED",
+  "atc": []
+}

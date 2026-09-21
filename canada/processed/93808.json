@@ -1,0 +1,26 @@
+{
+  "drug_code": "93808",
+  "din": "02451743",
+  "brand_name": "SOLMECTIN POUR-ON FOR CATTLE",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "26-OCT-2016",
+  "active_ingredients": [
+    {
+      "name": "IVERMECTIN",
+      "strength": "5",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "ALBERTA VETERINARY LABORATORIES LTD"
+  ],
+  "status": "APPROVED",
+  "atc": []
+}

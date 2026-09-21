@@ -1,0 +1,33 @@
+{
+  "drug_code": "1743",
+  "din": "00224227",
+  "brand_name": "LMD 10% IN 0.9% SODIUM CHLORIDE",
+  "class": "Human",
+  "descriptor": "SINGLE-USE CONTAINER",
+  "last_update": "21-SEP-2017",
+  "active_ingredients": [
+    {
+      "name": "SODIUM CHLORIDE",
+      "strength": "0.9",
+      "unit": "%"
+    },
+    {
+      "name": "DEXTRAN",
+      "strength": "10",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "PFIZER CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "DEXTRAN,COMBINATIONS"
+  ]
+}

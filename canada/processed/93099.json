@@ -1,0 +1,28 @@
+{
+  "drug_code": "93099",
+  "din": "02445719",
+  "brand_name": "CITALOPRAM",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "06-MAY-2016",
+  "active_ingredients": [
+    {
+      "name": "CITALOPRAM (CITALOPRAM HYDROBROMIDE)",
+      "strength": "10",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "SANIS HEALTH INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "CITALOPRAM"
+  ]
+}

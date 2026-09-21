@@ -1,0 +1,28 @@
+{
+  "drug_code": "73122",
+  "din": "02248754",
+  "brand_name": "CARVEDILOL",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "08-MAR-2018",
+  "active_ingredients": [
+    {
+      "name": "CARVEDILOL",
+      "strength": "12.5",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "SIVEM PHARMACEUTICALS ULC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "CARVEDILOL"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "drug_code": "50758",
+  "din": "02231441",
+  "brand_name": "NITROLINGUAL PUMPSPRAY",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "22-DEC-2008",
+  "active_ingredients": [
+    {
+      "name": "NITROGLYCERIN",
+      "strength": "0.4",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "METERED-DOSE PUMP"
+  ],
+  "routes": [
+    "SUBLINGUAL"
+  ],
+  "companies": [
+    "SANOFI-AVENTIS CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "GLYCERYL TRINITRATE"
+  ]
+}

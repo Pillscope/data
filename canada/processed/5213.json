@@ -1,0 +1,28 @@
+{
+  "drug_code": "5213",
+  "din": "00568406",
+  "brand_name": "RIVA OXAZEPAM",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "22-OCT-2008",
+  "active_ingredients": [
+    {
+      "name": "OXAZEPAM",
+      "strength": "15",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "LABORATOIRE RIVA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "OXAZEPAM"
+  ]
+}

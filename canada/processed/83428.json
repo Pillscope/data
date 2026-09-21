@@ -1,0 +1,28 @@
+{
+  "drug_code": "83428",
+  "din": "02348950",
+  "brand_name": "RIVA-MEMANTINE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "31-JAN-2017",
+  "active_ingredients": [
+    {
+      "name": "MEMANTINE HYDROCHLORIDE",
+      "strength": "10",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "LABORATOIRE RIVA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "MEMANTINE"
+  ]
+}

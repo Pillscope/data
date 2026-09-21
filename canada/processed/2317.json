@@ -1,0 +1,28 @@
+{
+  "drug_code": "2317",
+  "din": "00358495",
+  "brand_name": "ODANS LIQUOR CARBONIS DETERGENS",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "10-MAY-2016",
+  "active_ingredients": [
+    {
+      "name": "COAL TAR",
+      "strength": "20",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "LIQUID"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "ODAN LABORATORIES LTD"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "TARS"
+  ]
+}

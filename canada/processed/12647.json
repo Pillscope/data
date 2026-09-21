@@ -1,0 +1,28 @@
+{
+  "drug_code": "12647",
+  "din": "00894648",
+  "brand_name": "HEPARIN SODIUM 20000UNIT/500ML IN DEXT 5% INJ",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "29-NOV-2007",
+  "active_ingredients": [
+    {
+      "name": "HEPARIN SODIUM",
+      "strength": "40",
+      "unit": "UNIT"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "HOSPIRA HEALTHCARE CORPORATION"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "HEPARIN"
+  ]
+}

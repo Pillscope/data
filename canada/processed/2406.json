@@ -1,0 +1,34 @@
+{
+  "drug_code": "2406",
+  "din": "00371572",
+  "brand_name": "FECTOL 3120 LIQ",
+  "class": "Disinfectant",
+  "descriptor": "",
+  "last_update": "11-JUL-2011",
+  "active_ingredients": [
+    {
+      "name": "ALCOHOL ANHYDROUS",
+      "strength": "2.5",
+      "unit": "%"
+    },
+    {
+      "name": "BENZALKONIUM CHLORIDE",
+      "strength": "10",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "LIQUID"
+  ],
+  "routes": [
+    "DISINFECTANT (Food Premises)",
+    "DISINFECTANT (Hospital/HC Facilities)"
+  ],
+  "companies": [
+    "LABORATOIRES CHOISY LTEE"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "TECHNICAL DISINFECTANTS"
+  ]
+}

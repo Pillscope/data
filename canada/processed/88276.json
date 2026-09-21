@@ -1,0 +1,28 @@
+{
+  "drug_code": "88276",
+  "din": "02397854",
+  "brand_name": "DULCOLAX FOR WOMEN",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "27-APR-2017",
+  "active_ingredients": [
+    {
+      "name": "BISACODYL",
+      "strength": "5",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "SANOFI-AVENTIS CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "BISACODYL"
+  ]
+}

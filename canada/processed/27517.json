@@ -1,0 +1,29 @@
+{
+  "drug_code": "27517",
+  "din": "02060884",
+  "brand_name": "BETNESOL RETENTION ENEMA 5MG/100ML",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "15-DEC-2009",
+  "active_ingredients": [
+    {
+      "name": "BETAMETHASONE (BETAMETHASONE SODIUM PHOSPHATE)",
+      "strength": "5",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "ENEMA"
+  ],
+  "routes": [
+    "RECTAL"
+  ],
+  "companies": [
+    "PALADIN LABS INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "BETAMETHASONE",
+    "BETAMETHASONE"
+  ]
+}

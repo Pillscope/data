@@ -1,0 +1,28 @@
+{
+  "drug_code": "87646",
+  "din": "02391090",
+  "brand_name": "LABETALOL HYDROCHLORIDE INJECTION USP",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "04-AUG-2017",
+  "active_ingredients": [
+    {
+      "name": "LABETALOL HYDROCHLORIDE",
+      "strength": "5",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "PFIZER CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "LABETALOL"
+  ]
+}

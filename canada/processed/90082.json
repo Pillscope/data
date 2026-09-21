@@ -1,0 +1,26 @@
+{
+  "drug_code": "90082",
+  "din": "02416239",
+  "brand_name": "CANINSULIN",
+  "class": "Veterinary",
+  "descriptor": "CARTRIDGES (2.7ML)",
+  "last_update": "24-JUN-2014",
+  "active_ingredients": [
+    {
+      "name": "INSULIN ZINC PORK",
+      "strength": "40",
+      "unit": "UNIT"
+    }
+  ],
+  "forms": [
+    "SUSPENSION"
+  ],
+  "routes": [
+    "SUBCUTANEOUS"
+  ],
+  "companies": [
+    "INTERVET CANADA CORP"
+  ],
+  "status": "APPROVED",
+  "atc": []
+}

@@ -1,0 +1,28 @@
+{
+  "drug_code": "70601",
+  "din": "02246427",
+  "brand_name": "KEYSTONE FOAM HAND SANITIZER",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "18-JUL-2006",
+  "active_ingredients": [
+    {
+      "name": "BENZALKONIUM CHLORIDE",
+      "strength": "0.1",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "LIQUID"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "ECOLAB CO"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "BENZALKONIUM"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "drug_code": "63011",
+  "din": "02239535",
+  "brand_name": "DOM-LOPERAMIDE CAPLETS 2MG",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "13-FEB-2002",
+  "active_ingredients": [
+    {
+      "name": "LOPERAMIDE HYDROCHLORIDE",
+      "strength": "2",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "DOMINION PHARMACAL"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "LOPERAMIDE"
+  ]
+}

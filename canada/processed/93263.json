@@ -1,0 +1,28 @@
+{
+  "drug_code": "93263",
+  "din": "02447053",
+  "brand_name": "MAR-MOXIFLOXACIN",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "22-JAN-2016",
+  "active_ingredients": [
+    {
+      "name": "MOXIFLOXACIN (MOXIFLOXACIN HYDROCHLORIDE)",
+      "strength": "400",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "MARCAN PHARMACEUTICALS INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "MOXIFLOXACIN"
+  ]
+}

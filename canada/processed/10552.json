@@ -1,0 +1,26 @@
+{
+  "drug_code": "10552",
+  "din": "00818542",
+  "brand_name": "APRALAN",
+  "class": "Veterinary",
+  "descriptor": "APRAMYCIN SULFATE SOLUBLE POWDER",
+  "last_update": "02-FEB-2018",
+  "active_ingredients": [
+    {
+      "name": "APRAMYCIN (APRAMYCIN SULFATE)",
+      "strength": "50",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "POWDER FOR SOLUTION"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "ELANCO CANADA LIMITED"
+  ],
+  "status": "APPROVED",
+  "atc": []
+}

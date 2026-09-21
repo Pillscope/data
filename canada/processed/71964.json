@@ -1,0 +1,28 @@
+{
+  "drug_code": "71964",
+  "din": "02247700",
+  "brand_name": "METADOL",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "30-NOV-2009",
+  "active_ingredients": [
+    {
+      "name": "METHADONE HYDROCHLORIDE",
+      "strength": "10",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "PALADIN LABS INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "METHADONE"
+  ]
+}

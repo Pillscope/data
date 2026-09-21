@@ -1,0 +1,31 @@
+{
+  "drug_code": "75154",
+  "din": "02266091",
+  "brand_name": "OTOCLEAN",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "09-MAY-2017",
+  "active_ingredients": [
+    {
+      "name": "SALICYLIC ACID",
+      "strength": "0.22",
+      "unit": "%"
+    },
+    {
+      "name": "LACTIC ACID",
+      "strength": "2.6044",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "OTIC"
+  ],
+  "companies": [
+    "INTERVET CANADA CORP"
+  ],
+  "status": "APPROVED",
+  "atc": []
+}

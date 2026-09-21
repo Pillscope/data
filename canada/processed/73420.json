@@ -1,0 +1,34 @@
+{
+  "drug_code": "73420",
+  "din": "02249405",
+  "brand_name": "ACTIVELLE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "16-JUN-2008",
+  "active_ingredients": [
+    {
+      "name": "NORETHINDRONE ACETATE",
+      "strength": "0.5",
+      "unit": "MG"
+    },
+    {
+      "name": "ESTRADIOL",
+      "strength": "1.0",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "NOVO NORDISK CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "NORETHISTERONE AND ESTROGEN",
+    "NORETHISTERONE AND ESTROGEN"
+  ]
+}

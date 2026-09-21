@@ -1,0 +1,43 @@
+{
+  "drug_code": "93187",
+  "din": "02446529",
+  "brand_name": "UV 50 ECRAN MULTI-PROTECTION SPF 50",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "16-MAY-2017",
+  "active_ingredients": [
+    {
+      "name": "TITANIUM DIOXIDE",
+      "strength": "10.9",
+      "unit": "G"
+    },
+    {
+      "name": "OCTOCRYLENE",
+      "strength": "4",
+      "unit": "G"
+    },
+    {
+      "name": "OXYBENZONE",
+      "strength": "1.5",
+      "unit": "G"
+    },
+    {
+      "name": "HOMOSALATE",
+      "strength": "4",
+      "unit": "G"
+    }
+  ],
+  "forms": [
+    "EMULSION"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "CLARINS CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "COMBINATIONS OF PROTECTIVES AGAINST UV-RADIATION"
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "drug_code": "9526",
+  "din": "00654612",
+  "brand_name": "CALPHOS INJECTION LIQ",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "28-MAY-2009",
+  "active_ingredients": [
+    {
+      "name": "MAGNESIUM (MAGNESIUM CHLORIDE)",
+      "strength": "2.76",
+      "unit": "G"
+    },
+    {
+      "name": "DEXTROSE",
+      "strength": "75",
+      "unit": "G"
+    },
+    {
+      "name": "PHOSPHORUS (CALCIUM HYPOPHOSPHITE)",
+      "strength": "7.09",
+      "unit": "G"
+    },
+    {
+      "name": "CALCIUM (CALCIUM GLUCONATE)",
+      "strength": "12.42",
+      "unit": "G"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "INTRAMUSCULAR",
+    "INTRAVENOUS",
+    "SUBCUTANEOUS"
+  ],
+  "companies": [
+    "RAFTER 8 PRODUCTS INC"
+  ],
+  "status": "MARKETED",
+  "atc": []
+}

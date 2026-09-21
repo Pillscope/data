@@ -1,0 +1,28 @@
+{
+  "drug_code": "67616",
+  "din": "02243686",
+  "brand_name": "ZYVOXAM",
+  "class": "Human",
+  "descriptor": "100MG/5ML WHEN RECONSTITUTED",
+  "last_update": "22-FEB-2012",
+  "active_ingredients": [
+    {
+      "name": "LINEZOLID",
+      "strength": "3",
+      "unit": "G"
+    }
+  ],
+  "forms": [
+    "POWDER FOR SUSPENSION"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "PFIZER CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "LINEZOLID"
+  ]
+}

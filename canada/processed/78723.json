@@ -1,0 +1,28 @@
+{
+  "drug_code": "78723",
+  "din": "02301903",
+  "brand_name": "CIPROFLOXACIN INJECTION USP",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "22-JUN-2017",
+  "active_ingredients": [
+    {
+      "name": "CIPROFLOXACIN",
+      "strength": "2",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "PFIZER CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "CIPROFLOXACIN"
+  ]
+}

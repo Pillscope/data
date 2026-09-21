@@ -1,0 +1,30 @@
+{
+  "drug_code": "6593",
+  "din": "00664227",
+  "brand_name": "DEXAMETHASONE SODIUM PHOSPHATE INJ USP 4MG/ML",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "29-APR-2015",
+  "active_ingredients": [
+    {
+      "name": "DEXAMETHASONE PHOSPHATE (DEXAMETHASONE SODIUM PHOSPHATE)",
+      "strength": "4",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "INTRAMUSCULAR",
+    "INTRASYNOVIAL",
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "SANDOZ CANADA INCORPORATED"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "DEXAMETHASONE"
+  ]
+}

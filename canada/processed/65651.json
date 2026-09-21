@@ -1,0 +1,28 @@
+{
+  "drug_code": "65651",
+  "din": "02241981",
+  "brand_name": "LEVOPHED",
+  "class": "Human",
+  "descriptor": "SINGLE-USE VIAL",
+  "last_update": "18-JUL-2017",
+  "active_ingredients": [
+    {
+      "name": "NOREPINEPHRINE (NOREPINEPHRINE BITARTRATE)",
+      "strength": "1",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "PFIZER CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "NOREPINEPHRINE"
+  ]
+}

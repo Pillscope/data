@@ -1,0 +1,28 @@
+{
+  "drug_code": "94847",
+  "din": "02460955",
+  "brand_name": "CASPOFUNGIN FOR INJECTION",
+  "class": "Human",
+  "descriptor": "SINGLE-DOSE VIAL",
+  "last_update": "30-JUN-2017",
+  "active_ingredients": [
+    {
+      "name": "CASPOFUNGIN (CASPOFUNGIN ACETATE)",
+      "strength": "70",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "POWDER FOR SOLUTION"
+  ],
+  "routes": [
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "MDA INC."
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "CASPOFUNGIN"
+  ]
+}

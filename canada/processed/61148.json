@@ -1,0 +1,28 @@
+{
+  "drug_code": "61148",
+  "din": "02237791",
+  "brand_name": "PMS-VERAPAMIL SR",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "13-JUN-2008",
+  "active_ingredients": [
+    {
+      "name": "VERAPAMIL HYDROCHLORIDE",
+      "strength": "240",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET (EXTENDED-RELEASE)"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "PHARMASCIENCE INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "VERAPAMIL"
+  ]
+}

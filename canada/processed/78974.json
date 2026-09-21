@@ -1,0 +1,38 @@
+{
+  "drug_code": "78974",
+  "din": "02304457",
+  "brand_name": "ANTIBIOTIC PLUS PAIN RELIEF CREAM",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "09-FEB-2018",
+  "active_ingredients": [
+    {
+      "name": "GRAMICIDIN",
+      "strength": "0.25",
+      "unit": "MG"
+    },
+    {
+      "name": "POLYMYXIN B SULFATE",
+      "strength": "10000",
+      "unit": "UNIT"
+    },
+    {
+      "name": "LIDOCAINE HYDROCHLORIDE",
+      "strength": "50",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "CREAM"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "TARO PHARMACEUTICALS INC"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "COMBINATIONS OF ANTIBIOTICS"
+  ]
+}

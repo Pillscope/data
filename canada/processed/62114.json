@@ -1,0 +1,28 @@
+{
+  "drug_code": "62114",
+  "din": "02238682",
+  "brand_name": "PLAVIX",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "09-APR-2009",
+  "active_ingredients": [
+    {
+      "name": "CLOPIDOGREL (CLOPIDOGREL BISULFATE)",
+      "strength": "75",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "SANOFI-AVENTIS CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "CLOPIDOGREL"
+  ]
+}

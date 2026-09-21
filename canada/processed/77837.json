@@ -1,0 +1,28 @@
+{
+  "drug_code": "77837",
+  "din": "02293005",
+  "brand_name": "APO-CEFPROZIL",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "05-APR-2007",
+  "active_ingredients": [
+    {
+      "name": "CEFPROZIL (CEFPROZIL MONOHYDRATE)",
+      "strength": "500",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "APOTEX INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "CEFPROZIL"
+  ]
+}

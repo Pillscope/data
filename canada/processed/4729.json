@@ -1,0 +1,28 @@
+{
+  "drug_code": "4729",
+  "din": "00521701",
+  "brand_name": "FLURAZEPAM",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "24-AUG-2015",
+  "active_ingredients": [
+    {
+      "name": "FLURAZEPAM HYDROCHLORIDE",
+      "strength": "30",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "CAPSULE"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "AA PHARMA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "FLURAZEPAM"
+  ]
+}

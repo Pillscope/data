@@ -1,0 +1,28 @@
+{
+  "drug_code": "12196",
+  "din": "01945149",
+  "brand_name": "CONDYLINE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "03-AUG-2012",
+  "active_ingredients": [
+    {
+      "name": "PODOPHYLLOTOXIN",
+      "strength": "0.5",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "SANOFI-AVENTIS CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "PODOPHYLLOTOXIN"
+  ]
+}

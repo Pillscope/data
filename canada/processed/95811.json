@@ -1,0 +1,28 @@
+{
+  "drug_code": "95811",
+  "din": "02469332",
+  "brand_name": "CUVPOSA",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "26-APR-2018",
+  "active_ingredients": [
+    {
+      "name": "GLYCOPYRROLATE",
+      "strength": "1",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "PEDIAPHARM INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "GLYCOPYRRONIUM"
+  ]
+}

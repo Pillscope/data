@@ -1,0 +1,28 @@
+{
+  "drug_code": "74079",
+  "din": "02255618",
+  "brand_name": "SHAMPOOING 2 EN 1 ANTIPELLICULAIRE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "06-JUL-2006",
+  "active_ingredients": [
+    {
+      "name": "PYRITHIONE ZINC",
+      "strength": "1",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "SHAMPOO"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "LE GROUPE ULTRAPAC"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "PYRITHIONE ZINC"
+  ]
+}

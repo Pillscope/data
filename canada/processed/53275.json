@@ -1,0 +1,28 @@
+{
+  "drug_code": "53275",
+  "din": "02233143",
+  "brand_name": "PATANOL",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "03-FEB-2017",
+  "active_ingredients": [
+    {
+      "name": "OLOPATADINE (OLOPATADINE HYDROCHLORIDE)",
+      "strength": "0.1",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "LIQUID"
+  ],
+  "routes": [
+    "OPHTHALMIC"
+  ],
+  "companies": [
+    "NOVARTIS PHARMACEUTICALS CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "OLOPATADINE"
+  ]
+}

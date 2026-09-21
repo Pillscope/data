@@ -1,0 +1,28 @@
+{
+  "drug_code": "75400",
+  "din": "02268604",
+  "brand_name": "SUCRETS SORE THROAT",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "29-APR-2015",
+  "active_ingredients": [
+    {
+      "name": "DYCLONINE HYDROCHLORIDE",
+      "strength": "3",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "LOZENGE"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "INSIGHT PHARMACEUTICALS LLC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "DYCLONINE"
+  ]
+}

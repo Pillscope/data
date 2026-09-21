@@ -1,0 +1,26 @@
+{
+  "drug_code": "14571",
+  "din": "02038307",
+  "brand_name": "AMOXIL",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "18-JUL-2017",
+  "active_ingredients": [
+    {
+      "name": "AMOXICILLIN (AMOXICILLIN TRIHYDRATE)",
+      "strength": "50",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "ZOETIS CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": []
+}

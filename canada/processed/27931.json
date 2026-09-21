@@ -1,0 +1,28 @@
+{
+  "drug_code": "27931",
+  "din": "02074192",
+  "brand_name": "CARBOXIDE GAS 10%",
+  "class": "Disinfectant",
+  "descriptor": "",
+  "last_update": "16-JAN-2006",
+  "active_ingredients": [
+    {
+      "name": "ETHYLENE OXIDE",
+      "strength": "10",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "GAS"
+  ],
+  "routes": [
+    "DISINFECTANT (Medical Instruments)"
+  ],
+  "companies": [
+    "PRAXAIR CANADA INC"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "TECHNICAL DISINFECTANTS"
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "drug_code": "6212",
+  "din": "00611433",
+  "brand_name": "1 STROKE ENVIRON",
+  "class": "Disinfectant",
+  "descriptor": "",
+  "last_update": "26-JUL-2006",
+  "active_ingredients": [
+    {
+      "name": "CLOROPHENE",
+      "strength": "8.5",
+      "unit": "%"
+    },
+    {
+      "name": "P-TERT-PENTYLPHENOL",
+      "strength": "2",
+      "unit": "%"
+    },
+    {
+      "name": "O-PHENYLPHENOL",
+      "strength": "10",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "LIQUID"
+  ],
+  "routes": [
+    "DISINFECTANT (Food Premises)",
+    "DISINFECTANT (Hospital/HC Facilities)"
+  ],
+  "companies": [
+    "STERIS CORPORATION"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "TECHNICAL DISINFECTANTS"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "drug_code": "77951",
+  "din": "02294168",
+  "brand_name": "TD-5",
+  "class": "Disinfectant",
+  "descriptor": "",
+  "last_update": "22-OCT-2008",
+  "active_ingredients": [
+    {
+      "name": "GLUTARAL",
+      "strength": "2.65",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "DISINFECTANT (Medical Instruments)"
+  ],
+  "companies": [
+    "PHOENIX AIRMID BIOMEDICAL CORP."
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "TECHNICAL DISINFECTANTS"
+  ]
+}

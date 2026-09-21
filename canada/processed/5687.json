@@ -1,0 +1,28 @@
+{
+  "drug_code": "5687",
+  "din": "00572861",
+  "brand_name": "CARBON DIOXIDE 100%",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "11-JUL-2006",
+  "active_ingredients": [
+    {
+      "name": "CARBON DIOXIDE",
+      "strength": "100",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "GAS"
+  ],
+  "routes": [
+    "INHALATION"
+  ],
+  "companies": [
+    "AIR LIQUIDE CANADA INC."
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "CARBON DIOXIDE"
+  ]
+}

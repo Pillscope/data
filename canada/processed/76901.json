@@ -1,0 +1,28 @@
+{
+  "drug_code": "76901",
+  "din": "02283409",
+  "brand_name": "SOMATULINE AUTOGEL",
+  "class": "Human",
+  "descriptor": "PRE-FILLED SYRINGE",
+  "last_update": "04-AUG-2016",
+  "active_ingredients": [
+    {
+      "name": "LANREOTIDE (LANREOTIDE ACETATE)",
+      "strength": "90",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION (EXTENDED RELEASE)"
+  ],
+  "routes": [
+    "SUBCUTANEOUS"
+  ],
+  "companies": [
+    "IPSEN BIOPHARM LIMITED"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "LANREOTIDE"
+  ]
+}

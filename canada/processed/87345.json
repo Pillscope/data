@@ -1,0 +1,33 @@
+{
+  "drug_code": "87345",
+  "din": "02387875",
+  "brand_name": "ALYSENA 21",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "27-NOV-2017",
+  "active_ingredients": [
+    {
+      "name": "LEVONORGESTREL",
+      "strength": "100",
+      "unit": "MCG"
+    },
+    {
+      "name": "ETHINYL ESTRADIOL",
+      "strength": "20",
+      "unit": "MCG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "APOTEX INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "LEVONORGESTREL AND ESTROGEN"
+  ]
+}

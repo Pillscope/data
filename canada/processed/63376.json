@@ -1,0 +1,28 @@
+{
+  "drug_code": "63376",
+  "din": "02239888",
+  "brand_name": "SUSTIVA 200MG",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "05-MAY-2015",
+  "active_ingredients": [
+    {
+      "name": "EFAVIRENZ",
+      "strength": "200",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "CAPSULE"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "BRISTOL-MYERS SQUIBB CANADA"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "EFAVIRENZ"
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "drug_code": "2043",
+  "din": "00308161",
+  "brand_name": "EGG SHELL IMPROVER",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "13-AUG-2003",
+  "active_ingredients": [
+    {
+      "name": "CETRIMONIUM BROMIDE",
+      "strength": "40",
+      "unit": "MG"
+    },
+    {
+      "name": "CALCIUM GLUCONATE",
+      "strength": "200",
+      "unit": "MG"
+    },
+    {
+      "name": "DEXTROSE",
+      "strength": "660",
+      "unit": "MG"
+    },
+    {
+      "name": "SODIUM ASCORBATE",
+      "strength": "25",
+      "unit": "MG"
+    },
+    {
+      "name": "CITRIC ACID",
+      "strength": "75",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "POWDER FOR SOLUTION"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "PROFESSIONAL VETERINARY LABORATORIES"
+  ],
+  "status": "MARKETED",
+  "atc": []
+}

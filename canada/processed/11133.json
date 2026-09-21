@@ -1,0 +1,28 @@
+{
+  "drug_code": "11133",
+  "din": "00806714",
+  "brand_name": "EYE DROPS 0.5MG/ML",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "10-MAY-2016",
+  "active_ingredients": [
+    {
+      "name": "TETRAHYDROZOLINE HYDROCHLORIDE",
+      "strength": ".5",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "DROPS"
+  ],
+  "routes": [
+    "OPHTHALMIC"
+  ],
+  "companies": [
+    "ZEE MEDICAL"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "TETRYZOLINE"
+  ]
+}

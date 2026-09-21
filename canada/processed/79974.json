@@ -1,0 +1,28 @@
+{
+  "drug_code": "79974",
+  "din": "02314177",
+  "brand_name": "SANDOZ RABEPRAZOLE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "24-SEP-2008",
+  "active_ingredients": [
+    {
+      "name": "RABEPRAZOLE SODIUM",
+      "strength": "10",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET (ENTERIC-COATED)"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "SANDOZ CANADA INCORPORATED"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "RABEPRAZOLE"
+  ]
+}

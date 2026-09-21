@@ -1,0 +1,33 @@
+{
+  "drug_code": "42960",
+  "din": "02199297",
+  "brand_name": "SELECT 1/35 (28-DAY)",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "05-MAY-2015",
+  "active_ingredients": [
+    {
+      "name": "NORETHINDRONE",
+      "strength": "1.0",
+      "unit": "MG"
+    },
+    {
+      "name": "ETHINYL ESTRADIOL",
+      "strength": "0.035",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "PFIZER CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "NORETHISTERONE AND ESTROGEN"
+  ]
+}

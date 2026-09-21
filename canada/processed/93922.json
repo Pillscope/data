@@ -1,0 +1,28 @@
+{
+  "drug_code": "93922",
+  "din": "02452812",
+  "brand_name": "DECONGESTANT NASAL SPRAY",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "17-APR-2018",
+  "active_ingredients": [
+    {
+      "name": "XYLOMETAZOLINE HYDROCHLORIDE",
+      "strength": "0.1",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "SPRAY"
+  ],
+  "routes": [
+    "NASAL"
+  ],
+  "companies": [
+    "CRLS"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "XYLOMETAZOLINE"
+  ]
+}

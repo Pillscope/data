@@ -1,0 +1,28 @@
+{
+  "drug_code": "16947",
+  "din": "02126222",
+  "brand_name": "APO-IPRAVENT SOLUTION - INH 250MCG/ML",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "03-MAY-2006",
+  "active_ingredients": [
+    {
+      "name": "IPRATROPIUM BROMIDE",
+      "strength": "250",
+      "unit": "MCG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "INHALATION"
+  ],
+  "companies": [
+    "APOTEX INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "IPRATROPIUM BROMIDE"
+  ]
+}

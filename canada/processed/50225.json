@@ -1,0 +1,31 @@
+{
+  "drug_code": "50225",
+  "din": "02230947",
+  "brand_name": "LINCOMYCIN SPECTINOMYCIN 100 SOLUBLE POWDER",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "12-JAN-2018",
+  "active_ingredients": [
+    {
+      "name": "SPECTINOMYCIN (SPECTINOMYCIN HYDROCHLORIDE)",
+      "strength": "66.6",
+      "unit": "MG"
+    },
+    {
+      "name": "LINCOMYCIN (LINCOMYCIN HYDROCHLORIDE)",
+      "strength": "33.3",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "POWDER FOR SOLUTION"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "BIO AGRI MIX LP"
+  ],
+  "status": "APPROVED",
+  "atc": []
+}

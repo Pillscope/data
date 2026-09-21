@@ -1,0 +1,33 @@
+{
+  "drug_code": "73042",
+  "din": "02248678",
+  "brand_name": "AVON MOISTURE THERAPY INTENSIVE MOISTURIZING LIP TREATMENT SPF 15",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "14-OCT-2005",
+  "active_ingredients": [
+    {
+      "name": "OXYBENZONE",
+      "strength": "2.0",
+      "unit": "%"
+    },
+    {
+      "name": "OCTINOXATE",
+      "strength": "7.5",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "STICK"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "AVON CANADA INC"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "COMBINATIONS OF PROTECTIVES AGAINST UV-RADIATION"
+  ]
+}

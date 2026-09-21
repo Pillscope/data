@@ -1,0 +1,33 @@
+{
+  "drug_code": "87054",
+  "din": "02384868",
+  "brand_name": "PDCARE WIPES",
+  "class": "Disinfectant",
+  "descriptor": "",
+  "last_update": "19-NOV-2013",
+  "active_ingredients": [
+    {
+      "name": "ISOPROPYL ALCOHOL",
+      "strength": "17.20",
+      "unit": "%"
+    },
+    {
+      "name": "BENZETHONIUM CHLORIDE",
+      "strength": "0.28",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "WIPE"
+  ],
+  "routes": [
+    "DISINFECTANT (Hospital/HC Facilities)"
+  ],
+  "companies": [
+    "PATTERSON DENTAL-DENTAIRE CANADA INC"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "TECHNICAL DISINFECTANTS"
+  ]
+}

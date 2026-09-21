@@ -1,0 +1,28 @@
+{
+  "drug_code": "69527",
+  "din": "02245467",
+  "brand_name": "ANTI-BAC FOAM SOAP",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "18-JAN-2006",
+  "active_ingredients": [
+    {
+      "name": "TRICLOSAN",
+      "strength": "0.50",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "LIQUID"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "BENTFIELD EUROPE BV"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "TRICLOSAN"
+  ]
+}

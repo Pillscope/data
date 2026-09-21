@@ -1,0 +1,29 @@
+{
+  "drug_code": "81923",
+  "din": "02333619",
+  "brand_name": "GLUCAGEN",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "02-MAR-2010",
+  "active_ingredients": [
+    {
+      "name": "GLUCAGON (RECOMBINANT DNA ORIGIN) (GLUCAGON HYDROCHLORIDE)",
+      "strength": "1",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "KIT",
+    "POWDER FOR SOLUTION"
+  ],
+  "routes": [
+    "INTRAMUSCULAR"
+  ],
+  "companies": [
+    "NOVO NORDISK CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "GLUCAGON"
+  ]
+}

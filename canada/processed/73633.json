@@ -1,0 +1,33 @@
+{
+  "drug_code": "73633",
+  "din": "02251396",
+  "brand_name": "SWIFFER WETJET ANTIBACTERIAL FLOOR CLEANER",
+  "class": "Disinfectant",
+  "descriptor": "",
+  "last_update": "14-FEB-2013",
+  "active_ingredients": [
+    {
+      "name": "CHLORHEXIDINE ACETATE",
+      "strength": "0.01",
+      "unit": "%"
+    },
+    {
+      "name": "DIDECYL DIMETHYL AMMONIUM CHLORIDE",
+      "strength": "0.03",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "LIQUID"
+  ],
+  "routes": [
+    "DISINFECTANT (Domestic)"
+  ],
+  "companies": [
+    "PROCTER & GAMBLE INC"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "TECHNICAL DISINFECTANTS"
+  ]
+}

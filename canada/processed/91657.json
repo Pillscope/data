@@ -1,0 +1,28 @@
+{
+  "drug_code": "91657",
+  "din": "02432129",
+  "brand_name": "SLEEP-EZE EZE-LIQUID",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "15-MAR-2017",
+  "active_ingredients": [
+    {
+      "name": "DIPHENHYDRAMINE HYDROCHLORIDE",
+      "strength": "50",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "MEDTECH PRODUCTS INC"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "DIPHENHYDRAMINE"
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "drug_code": "19182",
+  "din": "01905031",
+  "brand_name": "BIMOTRIM INJECTION",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "16-JUN-2004",
+  "active_ingredients": [
+    {
+      "name": "TRIMETHOPRIM",
+      "strength": "40",
+      "unit": "MG"
+    },
+    {
+      "name": "SULFADOXINE",
+      "strength": "200",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "INTRAMUSCULAR",
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "CROSS VETPHARM GROUP LTD"
+  ],
+  "status": "MARKETED",
+  "atc": []
+}

@@ -1,0 +1,28 @@
+{
+  "drug_code": "79886",
+  "din": "02313332",
+  "brand_name": "SANDOZ LOSARTAN",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "19-MAR-2012",
+  "active_ingredients": [
+    {
+      "name": "LOSARTAN POTASSIUM",
+      "strength": "25",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "SANDOZ CANADA INCORPORATED"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "LOSARTAN"
+  ]
+}

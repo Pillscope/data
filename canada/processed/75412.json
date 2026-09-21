@@ -1,0 +1,39 @@
+{
+  "drug_code": "75412",
+  "din": "02268701",
+  "brand_name": "CHILDREN'S ADVIL COLD & FLU MULTI-SYMPTOM",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "08-NOV-2011",
+  "active_ingredients": [
+    {
+      "name": "IBUPROFEN",
+      "strength": "100",
+      "unit": "MG"
+    },
+    {
+      "name": "PSEUDOEPHEDRINE HYDROCHLORIDE",
+      "strength": "15",
+      "unit": "MG"
+    },
+    {
+      "name": "CHLORPHENIRAMINE MALEATE",
+      "strength": "1",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SUSPENSION"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "PFIZER CONSUMER HEALTHCARE A DIVISION OF PFIZER CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "IBUPROFEN, COMBINATIONS",
+    "IBUPROFEN, COMBINATIONS"
+  ]
+}

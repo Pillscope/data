@@ -1,0 +1,28 @@
+{
+  "drug_code": "721",
+  "din": "00107875",
+  "brand_name": "FLEET ENEMA MINERAL OIL",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "20-APR-2018",
+  "active_ingredients": [
+    {
+      "name": "MINERAL OIL",
+      "strength": "100",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "ENEMA"
+  ],
+  "routes": [
+    "RECTAL"
+  ],
+  "companies": [
+    "C B FLEET COMPANY INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "LIQUID PARAFFIN"
+  ]
+}

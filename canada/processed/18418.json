@@ -1,0 +1,29 @@
+{
+  "drug_code": "18418",
+  "din": "02014793",
+  "brand_name": "IC-GREEN",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "18-JUL-2012",
+  "active_ingredients": [
+    {
+      "name": "INDOCYANINE GREEN",
+      "strength": "25",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "POWDER"
+  ],
+  "routes": [
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "AKORN INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "OTHER DIAGNOSTIC AGENTS",
+    "OTHER DIAGNOSTIC AGENTS"
+  ]
+}

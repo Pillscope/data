@@ -1,0 +1,28 @@
+{
+  "drug_code": "14543",
+  "din": "02019930",
+  "brand_name": "M-ESLON",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "13-SEP-2006",
+  "active_ingredients": [
+    {
+      "name": "MORPHINE SULFATE",
+      "strength": "10",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "CAPSULE (EXTENDED RELEASE)"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "ETHYPHARM INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "MORPHINE"
+  ]
+}

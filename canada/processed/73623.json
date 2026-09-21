@@ -1,0 +1,28 @@
+{
+  "drug_code": "73623",
+  "din": "02251280",
+  "brand_name": "DOM-CIPROFLOXACIN",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "04-APR-2004",
+  "active_ingredients": [
+    {
+      "name": "CIPROFLOXACIN (CIPROFLOXACIN HYDROCHLORIDE)",
+      "strength": "500",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "DOMINION PHARMACAL"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "CIPROFLOXACIN"
+  ]
+}

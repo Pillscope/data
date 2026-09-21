@@ -1,0 +1,48 @@
+{
+  "drug_code": "80960",
+  "din": "02324113",
+  "brand_name": "ULTRAQUIN 4% HYDROQUINONE CREAM WITH SUNSCREENS",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "04-OCT-2017",
+  "active_ingredients": [
+    {
+      "name": "HYDROQUINONE",
+      "strength": "4",
+      "unit": "%"
+    },
+    {
+      "name": "OCTOCRYLENE",
+      "strength": "2",
+      "unit": "%"
+    },
+    {
+      "name": "OXYBENZONE",
+      "strength": "4",
+      "unit": "%"
+    },
+    {
+      "name": "HOMOSALATE",
+      "strength": "5",
+      "unit": "%"
+    },
+    {
+      "name": "OCTINOXATE",
+      "strength": "7.5",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "CREAM"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "SANOFI CONSUMER HEALTH INC SANOFI SANTE GRAND PUBLIC INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "HYDROQUINONE"
+  ]
+}

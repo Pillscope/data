@@ -1,0 +1,28 @@
+{
+  "drug_code": "85464",
+  "din": "02369729",
+  "brand_name": "ATASOL FORTE CAP 500 MG",
+  "class": "Human",
+  "descriptor": "CAPLET",
+  "last_update": "08-FEB-2012",
+  "active_ingredients": [
+    {
+      "name": "ACETAMINOPHEN",
+      "strength": "500",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "CHURCH & DWIGHT CANADA CORP"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "ACETAMINOPHEN (PARACETAMOL)"
+  ]
+}

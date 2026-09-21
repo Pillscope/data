@@ -1,0 +1,28 @@
+{
+  "drug_code": "86601",
+  "din": "02380188",
+  "brand_name": "PRIMORY ANTIBACTERIAL PLUM SCENT FOAM HANDWASH TRICLOSAN LIQUID",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "16-JAN-2014",
+  "active_ingredients": [
+    {
+      "name": "TRICLOSAN",
+      "strength": "0.3",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "LIQUID"
+  ],
+  "routes": [
+    "TOPICAL (HOUSEHOLD)"
+  ],
+  "companies": [
+    "GOJO INDUSTRIES, INC."
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "TRICLOSAN"
+  ]
+}

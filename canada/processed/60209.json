@@ -1,0 +1,39 @@
+{
+  "drug_code": "60209",
+  "din": "02236917",
+  "brand_name": "OZONOL ANTIBIOTICS PLUS",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "25-JAN-2018",
+  "active_ingredients": [
+    {
+      "name": "BACITRACIN",
+      "strength": "500",
+      "unit": "UNIT"
+    },
+    {
+      "name": "POLYMYXIN B (POLYMYXIN B SULFATE)",
+      "strength": "10000",
+      "unit": "UNIT"
+    },
+    {
+      "name": "LIDOCAINE HYDROCHLORIDE",
+      "strength": "40",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "OINTMENT"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "EXZELL PHARMA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "BACITRACIN, COMBINATIONS",
+    "BACITRACIN, COMBINATIONS"
+  ]
+}

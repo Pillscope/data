@@ -1,0 +1,26 @@
+{
+  "drug_code": "3357",
+  "din": "00467340",
+  "brand_name": "SULFAZOLE POWDER",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "10-JAN-2018",
+  "active_ingredients": [
+    {
+      "name": "SULFATHIAZOLE SODIUM",
+      "strength": "1000",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "POWDER FOR SOLUTION"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "DOMINION VETERINARY LABORATORIES LTD."
+  ],
+  "status": "MARKETED",
+  "atc": []
+}

@@ -1,0 +1,28 @@
+{
+  "drug_code": "76612",
+  "din": "02280469",
+  "brand_name": "PMS-CILAZAPRIL",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "15-SEP-2009",
+  "active_ingredients": [
+    {
+      "name": "CILAZAPRIL (CILAZAPRIL MONOHYDRATE)",
+      "strength": "5.0",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "PHARMASCIENCE INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "CILAZAPRIL"
+  ]
+}

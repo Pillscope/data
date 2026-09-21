@@ -1,0 +1,28 @@
+{
+  "drug_code": "89772",
+  "din": "02413051",
+  "brand_name": "MAR-ROSUVASTATIN",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "30-JAN-2017",
+  "active_ingredients": [
+    {
+      "name": "ROSUVASTATIN (ROSUVASTATIN CALCIUM)",
+      "strength": "5",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "MARCAN PHARMACEUTICALS INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "ROSUVASTATIN"
+  ]
+}

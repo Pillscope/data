@@ -1,0 +1,28 @@
+{
+  "drug_code": "89989",
+  "din": "02415275",
+  "brand_name": "MERCAPTOPURINE TABLETS USP",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "02-MAY-2014",
+  "active_ingredients": [
+    {
+      "name": "MERCAPTOPURINE",
+      "strength": "50",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "STERIMAX INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "MERCAPTOPURINE"
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "drug_code": "1079",
+  "din": "00170925",
+  "brand_name": "VANECTYL-P",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "17-MAR-2016",
+  "active_ingredients": [
+    {
+      "name": "TRIMEPRAZINE TARTRATE",
+      "strength": "5",
+      "unit": "MG"
+    },
+    {
+      "name": "PREDNISOLONE",
+      "strength": "2",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "ZOETIS CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": []
+}

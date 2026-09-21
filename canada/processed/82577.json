@@ -1,0 +1,28 @@
+{
+  "drug_code": "82577",
+  "din": "02340208",
+  "brand_name": "SANDOZ TAMSULOSIN CR",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "27-JUN-2014",
+  "active_ingredients": [
+    {
+      "name": "TAMSULOSIN HYDROCHLORIDE",
+      "strength": "0.4",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET (EXTENDED-RELEASE)"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "SANDOZ CANADA INCORPORATED"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "TAMSULOSIN"
+  ]
+}

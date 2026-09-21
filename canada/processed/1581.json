@@ -1,0 +1,31 @@
+{
+  "drug_code": "1581",
+  "din": "00256536",
+  "brand_name": "GENTOCIN DURAFILM",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "15-NOV-2016",
+  "active_ingredients": [
+    {
+      "name": "BETAMETHASONE ACETATE",
+      "strength": "1",
+      "unit": "MG"
+    },
+    {
+      "name": "GENTAMICIN (GENTAMICIN SULFATE)",
+      "strength": "3",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "OPHTHALMIC"
+  ],
+  "companies": [
+    "INTERVET CANADA CORP"
+  ],
+  "status": "APPROVED",
+  "atc": []
+}

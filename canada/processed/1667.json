@@ -1,0 +1,39 @@
+{
+  "drug_code": "1667",
+  "din": "00266493",
+  "brand_name": "TARDAN SHP",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "10-MAY-2016",
+  "active_ingredients": [
+    {
+      "name": "SALICYLIC ACID",
+      "strength": "2.0",
+      "unit": "%"
+    },
+    {
+      "name": "TRICLOSAN",
+      "strength": "0.3",
+      "unit": "%"
+    },
+    {
+      "name": "COAL TAR",
+      "strength": "5.0",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "SHAMPOO"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "ODAN LABORATORIES LTD"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "TARS",
+    "TARS"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "drug_code": "70480",
+  "din": "02246317",
+  "brand_name": "DOM-ZOPICLONE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "27-MAY-2009",
+  "active_ingredients": [
+    {
+      "name": "ZOPICLONE",
+      "strength": "5",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "DOMINION PHARMACAL"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "ZOPICLONE"
+  ]
+}

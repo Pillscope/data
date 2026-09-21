@@ -1,0 +1,28 @@
+{
+  "drug_code": "79948",
+  "din": "02313960",
+  "brand_name": "TEVA-ZOLMITRIPTAN",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "11-JUN-2012",
+  "active_ingredients": [
+    {
+      "name": "ZOLMITRIPTAN",
+      "strength": "2.5",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "TEVA CANADA LIMITED"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "ZOLMITRIPTAN"
+  ]
+}

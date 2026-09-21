@@ -1,0 +1,28 @@
+{
+  "drug_code": "50822",
+  "din": "02231492",
+  "brand_name": "TEVA-BUSPIRONE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "05-JUN-2015",
+  "active_ingredients": [
+    {
+      "name": "BUSPIRONE HYDROCHLORIDE",
+      "strength": "10",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "TEVA CANADA LIMITED"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "BUSPIRONE"
+  ]
+}

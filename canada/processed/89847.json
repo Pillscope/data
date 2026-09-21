@@ -1,0 +1,28 @@
+{
+  "drug_code": "89847",
+  "din": "02413825",
+  "brand_name": "TEVA-VALGANCICLOVIR",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "24-AUG-2015",
+  "active_ingredients": [
+    {
+      "name": "VALGANCICLOVIR (VALGANCICLOVIR HYDROCHLORIDE)",
+      "strength": "450",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "TEVA CANADA LIMITED"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "VALGANCICLOVIR"
+  ]
+}

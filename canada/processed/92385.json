@@ -1,0 +1,34 @@
+{
+  "drug_code": "92385",
+  "din": "02439468",
+  "brand_name": "LIDOCAINE HYDROCHLORIDE 2% AND EPINEPHRINE 1:200000 INJECTION USP",
+  "class": "Human",
+  "descriptor": "PRESERVATIVE-FREE. 20ML SINGLE-DOSE VIAL",
+  "last_update": "16-DEC-2015",
+  "active_ingredients": [
+    {
+      "name": "EPINEPHRINE",
+      "strength": "0.005",
+      "unit": "MG"
+    },
+    {
+      "name": "LIDOCAINE HYDROCHLORIDE",
+      "strength": "20",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "BLOCK/INFILTRATION",
+    "EPIDURAL"
+  ],
+  "companies": [
+    "HOSPIRA HEALTHCARE CORPORATION"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "LIDOCAINE, COMBINATIONS"
+  ]
+}

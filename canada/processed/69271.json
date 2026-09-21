@@ -1,0 +1,28 @@
+{
+  "drug_code": "69271",
+  "din": "02245248",
+  "brand_name": "AMIODARONE HYDROCHLORIDE INJECTION",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "24-JAN-2017",
+  "active_ingredients": [
+    {
+      "name": "AMIODARONE HYDROCHLORIDE",
+      "strength": "50",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "FRESENIUS KABI CANADA LTD"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "AMIODARONE"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "drug_code": "2568",
+  "din": "00382825",
+  "brand_name": "RIVOTRIL 0.5TAB",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "20-JAN-2007",
+  "active_ingredients": [
+    {
+      "name": "CLONAZEPAM",
+      "strength": "0.5",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "HOFFMANN-LA ROCHE LIMITED"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "CLONAZEPAM"
+  ]
+}

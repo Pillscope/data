@@ -1,0 +1,28 @@
+{
+  "drug_code": "9276",
+  "din": "00716863",
+  "brand_name": "LYDERM CREAM 0.05%",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "12-MAY-2005",
+  "active_ingredients": [
+    {
+      "name": "FLUOCINONIDE",
+      "strength": "0.05",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "CREAM"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "TAROPHARMA, A DIVISION OF TARO PHARMACEUTICALS INC."
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "FLUOCINONIDE"
+  ]
+}

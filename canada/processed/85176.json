@@ -1,0 +1,28 @@
+{
+  "drug_code": "85176",
+  "din": "02366940",
+  "brand_name": "VALSARTAN",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "17-AUG-2012",
+  "active_ingredients": [
+    {
+      "name": "VALSARTAN",
+      "strength": "40",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "SANIS HEALTH INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "VALSARTAN"
+  ]
+}

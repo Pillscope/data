@@ -1,0 +1,28 @@
+{
+  "drug_code": "43316",
+  "din": "02221926",
+  "brand_name": "TOPICORT GEL",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "02-APR-2013",
+  "active_ingredients": [
+    {
+      "name": "DESOXIMETASONE",
+      "strength": "0.05",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "GEL"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "VALEANT CANADA LP/VALEANT CANADA S.E.C."
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "DESOXIMETASONE"
+  ]
+}

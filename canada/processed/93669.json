@@ -1,0 +1,33 @@
+{
+  "drug_code": "93669",
+  "din": "02450534",
+  "brand_name": "REFRESH OPTIVE FUSION SENSITIVE",
+  "class": "Human",
+  "descriptor": "PRESERVATIVE-FREE, SINGLE-USE CONTAINERS",
+  "last_update": "24-MAY-2016",
+  "active_ingredients": [
+    {
+      "name": "GLYCERINE",
+      "strength": "1",
+      "unit": "%"
+    },
+    {
+      "name": "SODIUM CARBOXYMETHYL CELLULOSE",
+      "strength": "0.5",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "OPHTHALMIC"
+  ],
+  "companies": [
+    "ALLERGAN INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "ARTIFICIAL TEARS AND OTHER INDIFFERENT PREPARATIONS."
+  ]
+}

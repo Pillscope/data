@@ -1,0 +1,28 @@
+{
+  "drug_code": "87438",
+  "din": "02388839",
+  "brand_name": "JANUVIA",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "24-MAY-2013",
+  "active_ingredients": [
+    {
+      "name": "SITAGLIPTIN (SITAGLIPTIN PHOSPHATE MONOHYDRATE)",
+      "strength": "25",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "MERCK CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "SITAGLIPTIN"
+  ]
+}

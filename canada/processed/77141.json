@@ -1,0 +1,28 @@
+{
+  "drug_code": "77141",
+  "din": "02285924",
+  "brand_name": "APO-LEVETIRACETAM",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "01-DEC-2006",
+  "active_ingredients": [
+    {
+      "name": "LEVETIRACETAM",
+      "strength": "250",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "APOTEX INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "LEVETIRACETAM"
+  ]
+}

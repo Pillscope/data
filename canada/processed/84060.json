@@ -1,0 +1,26 @@
+{
+  "drug_code": "84060",
+  "din": "02355353",
+  "brand_name": "BAYCOX",
+  "class": "Veterinary",
+  "descriptor": "5% ORAL SUSPENSION",
+  "last_update": "05-MAY-2015",
+  "active_ingredients": [
+    {
+      "name": "TOLTRAZURIL",
+      "strength": "50",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SUSPENSION"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "BAYER INC., ANIMAL HEALTH"
+  ],
+  "status": "APPROVED",
+  "atc": []
+}

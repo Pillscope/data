@@ -1,0 +1,28 @@
+{
+  "drug_code": "92138",
+  "din": "02437074",
+  "brand_name": "PMS-OXALIPLATIN",
+  "class": "Human",
+  "descriptor": "CONCENTRATE. 10/20/40ML SINGLE-USE VIALS",
+  "last_update": "10-JAN-2017",
+  "active_ingredients": [
+    {
+      "name": "OXALIPLATIN",
+      "strength": "5",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "PHARMASCIENCE INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "OXALIPLATIN"
+  ]
+}

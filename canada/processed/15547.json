@@ -1,0 +1,28 @@
+{
+  "drug_code": "15547",
+  "din": "02063735",
+  "brand_name": "PMS-BACLOFEN",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "31-MAY-2016",
+  "active_ingredients": [
+    {
+      "name": "BACLOFEN",
+      "strength": "10",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "PHARMASCIENCE INC"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "BACLOFEN"
+  ]
+}

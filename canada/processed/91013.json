@@ -1,0 +1,28 @@
+{
+  "drug_code": "91013",
+  "din": "02425483",
+  "brand_name": "INVOKANA",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "12-JUN-2014",
+  "active_ingredients": [
+    {
+      "name": "Canagliflozin",
+      "strength": "100",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "JANSSEN INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "CANAGLIFLOZIN"
+  ]
+}

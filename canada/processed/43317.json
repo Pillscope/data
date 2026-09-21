@@ -1,0 +1,28 @@
+{
+  "drug_code": "43317",
+  "din": "02221934",
+  "brand_name": "TOPICORT OINTMENT",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "08-MAY-2013",
+  "active_ingredients": [
+    {
+      "name": "DESOXIMETASONE",
+      "strength": "0.25",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "OINTMENT"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "VALEANT CANADA LP/VALEANT CANADA S.E.C."
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "DESOXIMETASONE"
+  ]
+}

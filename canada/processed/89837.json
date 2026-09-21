@@ -1,0 +1,28 @@
+{
+  "drug_code": "89837",
+  "din": "02413744",
+  "brand_name": "PMS-METHYLPHENIDATE ER",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "18-JUN-2014",
+  "active_ingredients": [
+    {
+      "name": "METHYLPHENIDATE HYDROCHLORIDE",
+      "strength": "36",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET (EXTENDED-RELEASE)"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "PHARMASCIENCE INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "METHYLPHENIDATE"
+  ]
+}

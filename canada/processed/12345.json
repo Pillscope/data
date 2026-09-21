@@ -1,0 +1,28 @@
+{
+  "drug_code": "12345",
+  "din": "00821772",
+  "brand_name": "D-TABS 10000UNIT",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "17-DEC-2016",
+  "active_ingredients": [
+    {
+      "name": "VITAMIN D3",
+      "strength": "10000",
+      "unit": "UNIT"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "LABORATOIRE RIVA INC"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "COLECALCIFEROL"
+  ]
+}

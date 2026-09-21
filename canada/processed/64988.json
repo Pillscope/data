@@ -1,0 +1,28 @@
+{
+  "drug_code": "64988",
+  "din": "02241356",
+  "brand_name": "IFEX (IFOSFAMIDE) 3 G/VIAL",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "05-APR-2006",
+  "active_ingredients": [
+    {
+      "name": "IFOSFAMIDE",
+      "strength": "3",
+      "unit": "G"
+    }
+  ],
+  "forms": [
+    "POWDER FOR SOLUTION"
+  ],
+  "routes": [
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "BAXTER CORPORATION"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "IFOSFAMIDE"
+  ]
+}

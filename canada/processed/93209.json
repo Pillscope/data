@@ -1,0 +1,33 @@
+{
+  "drug_code": "93209",
+  "din": "02446650",
+  "brand_name": "DIORSKIN FOREVER & EVER WEAR",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "15-JUN-2016",
+  "active_ingredients": [
+    {
+      "name": "TITANIUM DIOXIDE",
+      "strength": "4.38",
+      "unit": "%"
+    },
+    {
+      "name": "OCTINOXATE",
+      "strength": "4",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "EMULSION"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "PARFUMS CHRISTIAN DIOR"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "COMBINATIONS OF PROTECTIVES AGAINST UV-RADIATION"
+  ]
+}

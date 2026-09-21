@@ -1,0 +1,48 @@
+{
+  "drug_code": "11330",
+  "din": "00783668",
+  "brand_name": "GLYCEROLYTE 57 SOLUTION",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "08-SEP-2017",
+  "active_ingredients": [
+    {
+      "name": "GLYCERINE",
+      "strength": "57",
+      "unit": "G"
+    },
+    {
+      "name": "POTASSIUM CHLORIDE",
+      "strength": "30",
+      "unit": "MG"
+    },
+    {
+      "name": "SODIUM PHOSPHATE DIBASIC",
+      "strength": "124.2",
+      "unit": "MG"
+    },
+    {
+      "name": "SODIUM PHOSPHATE MONOBASIC",
+      "strength": "51.7",
+      "unit": "MG"
+    },
+    {
+      "name": "SODIUM LACTATE",
+      "strength": "1.6",
+      "unit": "G"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "0-UNASSIGNED"
+  ],
+  "companies": [
+    "FRESENIUS KABI AG"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "BLOOD TRANSFUSION, AUXILIARY PRODUCTS"
+  ]
+}

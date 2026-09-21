@@ -1,0 +1,28 @@
+{
+  "drug_code": "19315",
+  "din": "02162423",
+  "brand_name": "NAPROSYN",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "27-JUN-2016",
+  "active_ingredients": [
+    {
+      "name": "NAPROXEN",
+      "strength": "500",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET (ENTERIC-COATED)"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "ATNAHS PHARMA UK LIMITED"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "NAPROXEN"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "drug_code": "88499",
+  "din": "02400200",
+  "brand_name": "HEAD & SHOULDERS FULL & STRONG",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "15-OCT-2014",
+  "active_ingredients": [
+    {
+      "name": "PYRITHIONE ZINC",
+      "strength": "1",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "SHAMPOO"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "PROCTER & GAMBLE INC"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "PYRITHIONE ZINC"
+  ]
+}

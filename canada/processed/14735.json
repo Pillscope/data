@@ -1,0 +1,28 @@
+{
+  "drug_code": "14735",
+  "din": "02017709",
+  "brand_name": "PLAQUENIL",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "15-OCT-2008",
+  "active_ingredients": [
+    {
+      "name": "HYDROXYCHLOROQUINE SULFATE",
+      "strength": "200",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "SANOFI-AVENTIS CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "HYDROXYCHLOROQUINE"
+  ]
+}

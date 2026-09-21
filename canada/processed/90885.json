@@ -1,0 +1,26 @@
+{
+  "drug_code": "90885",
+  "din": "02424142",
+  "brand_name": "LINCOMED 100",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "15-DEC-2017",
+  "active_ingredients": [
+    {
+      "name": "LINCOMYCIN (LINCOMYCIN HYDROCHLORIDE)",
+      "strength": "100",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "INTRAMUSCULAR"
+  ],
+  "companies": [
+    "BIMEDA-MTC ANIMAL HEALTH INC"
+  ],
+  "status": "APPROVED",
+  "atc": []
+}

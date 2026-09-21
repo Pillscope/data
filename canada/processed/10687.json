@@ -1,0 +1,28 @@
+{
+  "drug_code": "10687",
+  "din": "00781851",
+  "brand_name": "CHORULON",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "13-FEB-2012",
+  "active_ingredients": [
+    {
+      "name": "CHORIONIC GONADOTROPIN",
+      "strength": "1000",
+      "unit": "UNIT"
+    }
+  ],
+  "forms": [
+    "POWDER FOR SOLUTION"
+  ],
+  "routes": [
+    "INTRAMUSCULAR",
+    "INTRAVENOUS",
+    "SUBCUTANEOUS"
+  ],
+  "companies": [
+    "INTERVET CANADA CORP"
+  ],
+  "status": "MARKETED",
+  "atc": []
+}

@@ -1,0 +1,28 @@
+{
+  "drug_code": "80793",
+  "din": "02322498",
+  "brand_name": "PMS-TESTOSTERONE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "02-NOV-2009",
+  "active_ingredients": [
+    {
+      "name": "TESTOSTERONE UNDECANOATE",
+      "strength": "40",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "CAPSULE"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "PHARMASCIENCE INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "TESTOSTERONE"
+  ]
+}

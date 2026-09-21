@@ -1,0 +1,28 @@
+{
+  "drug_code": "65399",
+  "din": "02241736",
+  "brand_name": "NASAL DECONGESTANT SPRAY WITH MOISTURIZERS",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "12-DEC-2017",
+  "active_ingredients": [
+    {
+      "name": "XYLOMETAZOLINE HYDROCHLORIDE",
+      "strength": "0.1",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "SPRAY"
+  ],
+  "routes": [
+    "NASAL"
+  ],
+  "companies": [
+    "LABORATOIRES CONFAB INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "XYLOMETAZOLINE"
+  ]
+}

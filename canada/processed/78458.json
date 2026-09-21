@@ -1,0 +1,28 @@
+{
+  "drug_code": "78458",
+  "din": "02299194",
+  "brand_name": "RALIVIA",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "17-FEB-2015",
+  "active_ingredients": [
+    {
+      "name": "TRAMADOL HYDROCHLORIDE",
+      "strength": "100",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET (EXTENDED-RELEASE)"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "VALEANT CANADA LP/VALEANT CANADA S.E.C."
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "TRAMADOL"
+  ]
+}

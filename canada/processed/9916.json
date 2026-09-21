@@ -1,0 +1,29 @@
+{
+  "drug_code": "9916",
+  "din": "00839205",
+  "brand_name": "SANDOSTATIN 100MCG/ML",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "05-JUN-2006",
+  "active_ingredients": [
+    {
+      "name": "OCTREOTIDE (OCTREOTIDE ACETATE)",
+      "strength": "100",
+      "unit": "MCG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "INTRAVENOUS",
+    "SUBCUTANEOUS"
+  ],
+  "companies": [
+    "NOVARTIS PHARMACEUTICALS CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "OCTREOTIDE"
+  ]
+}

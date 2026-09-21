@@ -1,0 +1,28 @@
+{
+  "drug_code": "10492",
+  "din": "00860786",
+  "brand_name": "PREPIDIL GEL",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "26-SEP-2006",
+  "active_ingredients": [
+    {
+      "name": "DINOPROSTONE",
+      "strength": "0.5",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "GEL"
+  ],
+  "routes": [
+    "INTRACERVICAL"
+  ],
+  "companies": [
+    "PFIZER CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "DINOPROSTONE"
+  ]
+}

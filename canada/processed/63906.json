@@ -1,0 +1,33 @@
+{
+  "drug_code": "63906",
+  "din": "02240363",
+  "brand_name": "PMS-POLYTRIMETHOPRIM",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "12-APR-2000",
+  "active_ingredients": [
+    {
+      "name": "POLYMYXIN B SULFATE",
+      "strength": "10000",
+      "unit": "UNIT"
+    },
+    {
+      "name": "TRIMETHOPRIM (TRIMETHOPRIM SULFATE)",
+      "strength": "1",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "LIQUID"
+  ],
+  "routes": [
+    "OPHTHALMIC"
+  ],
+  "companies": [
+    "PHARMASCIENCE INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "COMBINATIONS OF DIFFERENT ANTIBIOTICS"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "drug_code": "5764",
+  "din": "00598208",
+  "brand_name": "PODOFILM LIQ 250MG/ML",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "19-MAY-2006",
+  "active_ingredients": [
+    {
+      "name": "PODOPHYLLIN",
+      "strength": "250",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "LIQUID"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "PALADIN LABS INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "PODOPHYLLOTOXIN"
+  ]
+}

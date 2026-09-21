@@ -1,0 +1,28 @@
+{
+  "drug_code": "66939",
+  "din": "02243073",
+  "brand_name": "OXYGEN USP",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "29-APR-2015",
+  "active_ingredients": [
+    {
+      "name": "OXYGEN",
+      "strength": "99",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "GAS"
+  ],
+  "routes": [
+    "INHALATION"
+  ],
+  "companies": [
+    "RIMER ALCO NORTH AMERICA INC."
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "OXYGEN"
+  ]
+}

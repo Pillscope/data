@@ -1,0 +1,39 @@
+{
+  "drug_code": "18186",
+  "din": "02125013",
+  "brand_name": "MUCAINE - SUS",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "30-JUN-2017",
+  "active_ingredients": [
+    {
+      "name": "OXETACAINE",
+      "strength": "10",
+      "unit": "MG"
+    },
+    {
+      "name": "MAGNESIUM HYDROXIDE",
+      "strength": "100",
+      "unit": "MG"
+    },
+    {
+      "name": "ALUMINUM HYDROXIDE",
+      "strength": "300",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SUSPENSION"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "AURIUM PHARMA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "ANTACIDS, OTHER COMBINATIONS",
+    "ANTACIDS, OTHER COMBINATIONS"
+  ]
+}

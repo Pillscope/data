@@ -1,0 +1,26 @@
+{
+  "drug_code": "86534",
+  "din": "02379449",
+  "brand_name": "BLOAT-LAX",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "11-OCT-2016",
+  "active_ingredients": [
+    {
+      "name": "DOCUSATE SODIUM",
+      "strength": "60",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SUSPENSION"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "ALBERTA VETERINARY LABORATORIES LTD"
+  ],
+  "status": "APPROVED",
+  "atc": []
+}

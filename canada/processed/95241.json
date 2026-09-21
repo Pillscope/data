@@ -1,0 +1,28 @@
+{
+  "drug_code": "95241",
+  "din": "02464241",
+  "brand_name": "VEMLIDY",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "22-JUN-2017",
+  "active_ingredients": [
+    {
+      "name": "TENOFOVIR ALAFENAMIDE (TENOFOVIR ALAFENAMIDE HEMIFUMARATE)",
+      "strength": "25",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "GILEAD SCIENCES CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "TENOFOVIR ALAFENAMIDE"
+  ]
+}

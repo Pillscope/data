@@ -1,0 +1,26 @@
+{
+  "drug_code": "65722",
+  "din": "02242050",
+  "brand_name": "REVOLUTION",
+  "class": "Veterinary",
+  "descriptor": "PUPPIES AND KITTENS NOT MORE THAN 2.5 KG IN WEIGHT",
+  "last_update": "24-APR-2015",
+  "active_ingredients": [
+    {
+      "name": "SELAMECTIN",
+      "strength": "15",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "ZOETIS CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": []
+}

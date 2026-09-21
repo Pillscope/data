@@ -1,0 +1,31 @@
+{
+  "drug_code": "75694",
+  "din": "02271494",
+  "brand_name": "PROCILLIN LA",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "30-NOV-2006",
+  "active_ingredients": [
+    {
+      "name": "PENICILLIN G PROCAINE",
+      "strength": "150000",
+      "unit": "UNIT"
+    },
+    {
+      "name": "PENICILLIN G BENZATHINE",
+      "strength": "150000",
+      "unit": "UNIT"
+    }
+  ],
+  "forms": [
+    "SUSPENSION"
+  ],
+  "routes": [
+    "INTRAMUSCULAR"
+  ],
+  "companies": [
+    "BIMEDA-MTC ANIMAL HEALTH INC"
+  ],
+  "status": "MARKETED",
+  "atc": []
+}

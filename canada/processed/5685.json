@@ -1,0 +1,28 @@
+{
+  "drug_code": "5685",
+  "din": "00572845",
+  "brand_name": "NITROUS OXIDE 100%",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "12-JAN-2010",
+  "active_ingredients": [
+    {
+      "name": "NITROUS OXIDE",
+      "strength": "100",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "GAS"
+  ],
+  "routes": [
+    "INHALATION"
+  ],
+  "companies": [
+    "AIR LIQUIDE CANADA INC."
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "NITROUS OXIDE"
+  ]
+}

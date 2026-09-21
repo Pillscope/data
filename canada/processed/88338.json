@@ -1,0 +1,30 @@
+{
+  "drug_code": "88338",
+  "din": "02398427",
+  "brand_name": "METHOTREXATE INJECTION USP",
+  "class": "Human",
+  "descriptor": "50MG/2ML & 500MG/20ML VIALS",
+  "last_update": "22-MAY-2013",
+  "active_ingredients": [
+    {
+      "name": "METHOTREXATE (METHOTREXATE SODIUM)",
+      "strength": "25",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "INTRA-ARTERIAL",
+    "INTRAMUSCULAR",
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "SANDOZ CANADA INCORPORATED"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "METHOTREXATE"
+  ]
+}

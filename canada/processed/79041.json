@@ -1,0 +1,28 @@
+{
+  "drug_code": "79041",
+  "din": "02305046",
+  "brand_name": "RAN-PANTOPRAZOLE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "06-OCT-2017",
+  "active_ingredients": [
+    {
+      "name": "PANTOPRAZOLE (PANTOPRAZOLE SODIUM)",
+      "strength": "40",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET (DELAYED-RELEASE)"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "RANBAXY PHARMACEUTICALS CANADA INC."
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "PANTOPRAZOLE"
+  ]
+}

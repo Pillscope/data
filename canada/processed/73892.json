@@ -1,0 +1,33 @@
+{
+  "drug_code": "73892",
+  "din": "02253992",
+  "brand_name": "BOSTON SIMPLUS MULTI-ACTION SOLUTION",
+  "class": "Disinfectant",
+  "descriptor": "",
+  "last_update": "29-APR-2015",
+  "active_ingredients": [
+    {
+      "name": "CHLORHEXIDINE GLUCONATE",
+      "strength": "0.003",
+      "unit": "%"
+    },
+    {
+      "name": "POLYAMINOPROPYL BIGUANIDE",
+      "strength": "0.0005",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "DISINFECTANT (Contact Lens)"
+  ],
+  "companies": [
+    "BAUSCH & LOMB INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "ARTIFICIAL TEARS AND OTHER INDIFFERENT PREPARATIONS."
+  ]
+}

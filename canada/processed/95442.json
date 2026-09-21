@@ -1,0 +1,28 @@
+{
+  "drug_code": "95442",
+  "din": "02466112",
+  "brand_name": "DOVE DERMA+CARE SCALP ANTI-DANDRUFF FRESH & CLEAN",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "09-APR-2018",
+  "active_ingredients": [
+    {
+      "name": "PYRITHIONE ZINC",
+      "strength": "1",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "SHAMPOO"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "UNILEVER CANADA"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "PYRITHIONE ZINC"
+  ]
+}

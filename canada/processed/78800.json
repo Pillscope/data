@@ -1,0 +1,28 @@
+{
+  "drug_code": "78800",
+  "din": "02302705",
+  "brand_name": "OCTALBIN 5%",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "09-JAN-2015",
+  "active_ingredients": [
+    {
+      "name": "ALBUMIN (HUMAN)",
+      "strength": "5",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "OCTAPHARMA PHARMAZEUTIKA PRODUKTIONSGES M B H"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "ALBUMIN"
+  ]
+}

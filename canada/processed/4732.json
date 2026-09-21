@@ -1,0 +1,28 @@
+{
+  "drug_code": "4732",
+  "din": "00312770",
+  "brand_name": "APO PREDNISONE TAB 5MG",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "06-FEB-2008",
+  "active_ingredients": [
+    {
+      "name": "PREDNISONE",
+      "strength": "5",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "APOTEX INC"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "PREDNISONE"
+  ]
+}

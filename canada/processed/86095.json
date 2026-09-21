@@ -1,0 +1,28 @@
+{
+  "drug_code": "86095",
+  "din": "02375532",
+  "brand_name": "SANDOZ MEMANTINE FCT",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "31-MAR-2015",
+  "active_ingredients": [
+    {
+      "name": "MEMANTINE HYDROCHLORIDE",
+      "strength": "10",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "SANDOZ CANADA INCORPORATED"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "MEMANTINE"
+  ]
+}

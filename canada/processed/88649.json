@@ -1,0 +1,28 @@
+{
+  "drug_code": "88649",
+  "din": "02401606",
+  "brand_name": "ZOLEDRONIC ACID - Z",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "20-JUL-2017",
+  "active_ingredients": [
+    {
+      "name": "ZOLEDRONIC ACID (Zoledronic acid monohydrate)",
+      "strength": "4",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "SANDOZ CANADA INCORPORATED"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "ZOLEDRONIC ACID"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "drug_code": "12651",
+  "din": "01926292",
+  "brand_name": "PANECTYL TAB 5MG",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "13-JAN-2015",
+  "active_ingredients": [
+    {
+      "name": "TRIMEPRAZINE (TRIMEPRAZINE TARTRATE)",
+      "strength": "5",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "ERFA CANADA 2012 INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "ALIMEMAZINE"
+  ]
+}

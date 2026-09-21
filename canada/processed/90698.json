@@ -1,0 +1,27 @@
+{
+  "drug_code": "90698",
+  "din": "02422271",
+  "brand_name": "CALBORO-23%",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "06-NOV-2014",
+  "active_ingredients": [
+    {
+      "name": "Calcium gluconate monohydrate",
+      "strength": "23.963",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "INTRAVENOUS",
+    "SUBCUTANEOUS"
+  ],
+  "companies": [
+    "DMVET INC"
+  ],
+  "status": "MARKETED",
+  "atc": []
+}

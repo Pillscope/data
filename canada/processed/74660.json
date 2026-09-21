@@ -1,0 +1,26 @@
+{
+  "drug_code": "74660",
+  "din": "02261200",
+  "brand_name": "A180",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "08-JAN-2015",
+  "active_ingredients": [
+    {
+      "name": "DANOFLOXACIN (DANOFLOXACIN MESYLATE)",
+      "strength": "180",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "SUBCUTANEOUS"
+  ],
+  "companies": [
+    "ZOETIS CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": []
+}

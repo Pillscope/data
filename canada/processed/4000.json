@@ -1,0 +1,29 @@
+{
+  "drug_code": "4000",
+  "din": "00523720",
+  "brand_name": "BIODINE",
+  "class": "Disinfectant",
+  "descriptor": "",
+  "last_update": "03-MAR-2005",
+  "active_ingredients": [
+    {
+      "name": "IODINE (NONYL PHENOXYPOLYETHOXYETHANOL-IODINE COMPLEX)",
+      "strength": "1.75",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "LIQUID"
+  ],
+  "routes": [
+    "DISINFECTANT (Barn)",
+    "DISINFECTANT (Food Premises)"
+  ],
+  "companies": [
+    "DOMINION VETERINARY LABORATORIES LTD."
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "TECHNICAL DISINFECTANTS"
+  ]
+}

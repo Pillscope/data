@@ -1,0 +1,28 @@
+{
+  "drug_code": "78395",
+  "din": "02298635",
+  "brand_name": "SANDOZ LEVOFLOXACIN",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "28-SEP-2009",
+  "active_ingredients": [
+    {
+      "name": "LEVOFLOXACIN (LEVOFLOXACIN HEMIHYDRATE)",
+      "strength": "250",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "SANDOZ CANADA INCORPORATED"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "LEVOFLOXACIN"
+  ]
+}

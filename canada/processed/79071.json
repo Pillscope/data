@@ -1,0 +1,39 @@
+{
+  "drug_code": "79071",
+  "din": "02305216",
+  "brand_name": "COLDASIDE COLD & FLU EXTRA STRENGTH",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "07-DEC-2010",
+  "active_ingredients": [
+    {
+      "name": "CHLORPHENIRAMINE MALEATE",
+      "strength": "2",
+      "unit": "MG"
+    },
+    {
+      "name": "ACETAMINOPHEN",
+      "strength": "500",
+      "unit": "MG"
+    },
+    {
+      "name": "DEXTROMETHORPHAN HYDROBROMIDE",
+      "strength": "15",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "TANTA PHARMACEUTICALS INC"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "ACETAMINOPHEN, COMB EXCL PSYCHOLEPTICS",
+    "ACETAMINOPHEN, COMB EXCL PSYCHOLEPTICS"
+  ]
+}

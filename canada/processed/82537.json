@@ -1,0 +1,28 @@
+{
+  "drug_code": "82537",
+  "din": "02339773",
+  "brand_name": "ACT ROSUVASTATIN",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "30-MAY-2016",
+  "active_ingredients": [
+    {
+      "name": "ROSUVASTATIN (ROSUVASTATIN CALCIUM)",
+      "strength": "10",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "ACTAVIS PHARMA COMPANY"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "ROSUVASTATIN"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "drug_code": "86719",
+  "din": "02381362",
+  "brand_name": "AURO-LAMOTRIGINE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "16-JUL-2012",
+  "active_ingredients": [
+    {
+      "name": "LAMOTRIGINE",
+      "strength": "100",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "AURO PHARMA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "LAMOTRIGINE"
+  ]
+}

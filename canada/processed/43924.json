@@ -1,0 +1,26 @@
+{
+  "drug_code": "43924",
+  "din": "02137658",
+  "brand_name": "ESTRUMATE",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "09-NOV-2016",
+  "active_ingredients": [
+    {
+      "name": "CLOPROSTENOL (CLOPROSTENOL SODIUM)",
+      "strength": "250",
+      "unit": "MCG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "INTRAMUSCULAR"
+  ],
+  "companies": [
+    "INTERVET CANADA CORP"
+  ],
+  "status": "APPROVED",
+  "atc": []
+}

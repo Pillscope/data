@@ -1,0 +1,28 @@
+{
+  "drug_code": "69719",
+  "din": "02245619",
+  "brand_name": "COPAXONE",
+  "class": "Human",
+  "descriptor": "SINGLE USE PRE-FILLED SYRINGE",
+  "last_update": "28-JUN-2016",
+  "active_ingredients": [
+    {
+      "name": "GLATIRAMER ACETATE",
+      "strength": "20",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "SUBCUTANEOUS"
+  ],
+  "companies": [
+    "TEVA CANADA LIMITED"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "GLATIRAMER ACETATE"
+  ]
+}

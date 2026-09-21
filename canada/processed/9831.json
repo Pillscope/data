@@ -1,0 +1,28 @@
+{
+  "drug_code": "9831",
+  "din": "00799998",
+  "brand_name": "STERILE WATER FOR IRRIGATION",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "10-FEB-2010",
+  "active_ingredients": [
+    {
+      "name": "WATER",
+      "strength": "100",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "LIQUID"
+  ],
+  "routes": [
+    "IRRIGATION"
+  ],
+  "companies": [
+    "BAXTER CORPORATION"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "SOLVENTS AND DILUTING AGENTS,INCL IRRIGAT SOLUT"
+  ]
+}

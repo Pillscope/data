@@ -1,0 +1,28 @@
+{
+  "drug_code": "9169",
+  "din": "00755893",
+  "brand_name": "APO-PINDOL TAB 15MG",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "06-FEB-2008",
+  "active_ingredients": [
+    {
+      "name": "PINDOLOL",
+      "strength": "15",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "APOTEX INC"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "PINDOLOL"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "drug_code": "65204",
+  "din": "02241551",
+  "brand_name": "CUROSURF",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "09-JAN-2017",
+  "active_ingredients": [
+    {
+      "name": "PORACTANT ALFA",
+      "strength": "80",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SUSPENSION"
+  ],
+  "routes": [
+    "INTRATRACHEAL"
+  ],
+  "companies": [
+    "CHIESI FARMACEUTICI S.P.A."
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "NATURAL PHOSPHOLIPIDS"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "drug_code": "94027",
+  "din": "02453738",
+  "brand_name": "TEVA-FLUTICASONE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "17-APR-2018",
+  "active_ingredients": [
+    {
+      "name": "FLUTICASONE PROPIONATE",
+      "strength": "50",
+      "unit": "MCG"
+    }
+  ],
+  "forms": [
+    "METERED-DOSE PUMP"
+  ],
+  "routes": [
+    "NASAL"
+  ],
+  "companies": [
+    "TEVA CANADA LIMITED"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "FLUTICASONE"
+  ]
+}

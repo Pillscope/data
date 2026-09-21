@@ -1,0 +1,43 @@
+{
+  "drug_code": "44612",
+  "din": "00823066",
+  "brand_name": "LUNG DIFFUSION TEST MIXTURE GAS",
+  "class": "Human",
+  "descriptor": "CO:0.1%, HE:10%, O2:21%, BALANCED WITH N2",
+  "last_update": "14-JUL-2010",
+  "active_ingredients": [
+    {
+      "name": "OXYGEN",
+      "strength": "21",
+      "unit": "%"
+    },
+    {
+      "name": "HELIUM",
+      "strength": "10",
+      "unit": "%"
+    },
+    {
+      "name": "NITROGEN",
+      "strength": "68.9",
+      "unit": "%"
+    },
+    {
+      "name": "CARBON MONOXIDE",
+      "strength": "0.1",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "GAS"
+  ],
+  "routes": [
+    "INHALATION"
+  ],
+  "companies": [
+    "PRAXAIR CANADA INC"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "MEDICAL GASES"
+  ]
+}

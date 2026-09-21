@@ -1,0 +1,33 @@
+{
+  "drug_code": "89545",
+  "din": "02410796",
+  "brand_name": "ZAMINE 28",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "13-FEB-2014",
+  "active_ingredients": [
+    {
+      "name": "DROSPIRENONE",
+      "strength": "3.0",
+      "unit": "MG"
+    },
+    {
+      "name": "ETHINYL ESTRADIOL",
+      "strength": "0.030",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "APOTEX INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "DROSPIRENONE AND ESTROGEN"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "drug_code": "73690",
+  "din": "02252007",
+  "brand_name": "PMS-RISPERIDONE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "31-OCT-2006",
+  "active_ingredients": [
+    {
+      "name": "RISPERIDONE",
+      "strength": "0.25",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "PHARMASCIENCE INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "RISPERIDONE"
+  ]
+}

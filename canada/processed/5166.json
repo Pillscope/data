@@ -1,0 +1,26 @@
+{
+  "drug_code": "5166",
+  "din": "00575011",
+  "brand_name": "NITROFURAZONE ONT 0.2%",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "14-AUG-2003",
+  "active_ingredients": [
+    {
+      "name": "NITROFURAZONE",
+      "strength": ".2",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "OINTMENT"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "UNIVET PHARMACEUTICALS LTD."
+  ],
+  "status": "MARKETED",
+  "atc": []
+}

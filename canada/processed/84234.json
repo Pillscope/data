@@ -1,0 +1,28 @@
+{
+  "drug_code": "84234",
+  "din": "02357216",
+  "brand_name": "JAMP-BICALUTAMIDE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "18-MAY-2016",
+  "active_ingredients": [
+    {
+      "name": "BICALUTAMIDE",
+      "strength": "50",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "JAMP PHARMA CORPORATION"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "BICALUTAMIDE"
+  ]
+}

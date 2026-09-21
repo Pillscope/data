@@ -1,0 +1,34 @@
+{
+  "drug_code": "86839",
+  "din": "02382555",
+  "brand_name": "APO-VALSARTAN/HCTZ",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "24-SEP-2012",
+  "active_ingredients": [
+    {
+      "name": "VALSARTAN",
+      "strength": "160",
+      "unit": "MG"
+    },
+    {
+      "name": "HYDROCHLOROTHIAZIDE",
+      "strength": "12.5",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "APOTEX INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "VALSARTAN AND DIURETICS",
+    "VALSARTAN AND DIURETICS"
+  ]
+}

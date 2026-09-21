@@ -1,0 +1,28 @@
+{
+  "drug_code": "87364",
+  "din": "02388073",
+  "brand_name": "AURO-AMOXICILLIN",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "03-OCT-2012",
+  "active_ingredients": [
+    {
+      "name": "AMOXICILLIN (AMOXICILLIN TRIHYDRATE)",
+      "strength": "250",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "CAPSULE"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "AURO PHARMA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "AMOXICILLIN"
+  ]
+}

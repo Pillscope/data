@@ -1,0 +1,28 @@
+{
+  "drug_code": "16179",
+  "din": "02078600",
+  "brand_name": "ULTRAVIST 300",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "05-MAY-2015",
+  "active_ingredients": [
+    {
+      "name": "IOPROMIDE",
+      "strength": "62",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "INTRAVASCULAR"
+  ],
+  "companies": [
+    "BAYER INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "IOPROMIDE"
+  ]
+}

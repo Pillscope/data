@@ -1,0 +1,28 @@
+{
+  "drug_code": "80396",
+  "din": "02318474",
+  "brand_name": "DANDRUFF",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "08-MAY-2009",
+  "active_ingredients": [
+    {
+      "name": "PYRITHIONE ZINC",
+      "strength": "1.0",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "SHAMPOO"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "BELVEDERE INTERNATIONAL INC."
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "PYRITHIONE ZINC"
+  ]
+}

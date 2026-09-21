@@ -1,0 +1,41 @@
+{
+  "drug_code": "2443",
+  "din": "00374946",
+  "brand_name": "ANDERSONS STIFLE LINIMENT",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "28-JUL-2000",
+  "active_ingredients": [
+    {
+      "name": "CAMPHOR",
+      "strength": "90",
+      "unit": "G"
+    },
+    {
+      "name": "OIL OF TURPENTINE",
+      "strength": "1.92",
+      "unit": "Kg"
+    },
+    {
+      "name": "ACETIC ACID",
+      "strength": "1.44",
+      "unit": "Kg"
+    },
+    {
+      "name": "METHYL SALICYLATE",
+      "strength": "30",
+      "unit": "G"
+    }
+  ],
+  "forms": [
+    "LIQUID"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "DOMINION VETERINARY LABORATORIES LTD."
+  ],
+  "status": "MARKETED",
+  "atc": []
+}

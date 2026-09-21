@@ -1,0 +1,31 @@
+{
+  "drug_code": "12901",
+  "din": "01941437",
+  "brand_name": "VITAMINS AD INJ LIQ",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "18-AUG-1999",
+  "active_ingredients": [
+    {
+      "name": "VITAMIN A",
+      "strength": "500000",
+      "unit": "UNIT"
+    },
+    {
+      "name": "VITAMIN D",
+      "strength": "75000",
+      "unit": "UNIT"
+    }
+  ],
+  "forms": [
+    "LIQUID"
+  ],
+  "routes": [
+    "INTRAMUSCULAR"
+  ],
+  "companies": [
+    "CITADEL ANIMAL HEALTH"
+  ],
+  "status": "MARKETED",
+  "atc": []
+}

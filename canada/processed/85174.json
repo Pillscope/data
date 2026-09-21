@@ -1,0 +1,28 @@
+{
+  "drug_code": "85174",
+  "din": "02366924",
+  "brand_name": "LUXIQ",
+  "class": "Human",
+  "descriptor": "EMULSION",
+  "last_update": "05-MAR-2018",
+  "active_ingredients": [
+    {
+      "name": "BETAMETHASONE VALERATE",
+      "strength": "0.12",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "AEROSOL, FOAM"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "MAYNE PHARMA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "BETAMETHASONE"
+  ]
+}

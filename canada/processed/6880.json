@@ -1,0 +1,32 @@
+{
+  "drug_code": "6880",
+  "din": "00555657",
+  "brand_name": "BORGAL",
+  "class": "Veterinary",
+  "descriptor": "TRIMETHOPRIM AND SULFADOXINE INJECTABLE SOLUTION",
+  "last_update": "05-MAY-2015",
+  "active_ingredients": [
+    {
+      "name": "TRIMETHOPRIM",
+      "strength": "40",
+      "unit": "MG"
+    },
+    {
+      "name": "SULFADOXINE",
+      "strength": "200",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "INTRAMUSCULAR",
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "INTERVET CANADA CORP"
+  ],
+  "status": "APPROVED",
+  "atc": []
+}

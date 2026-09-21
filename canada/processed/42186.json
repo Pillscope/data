@@ -1,0 +1,33 @@
+{
+  "drug_code": "42186",
+  "din": "01999524",
+  "brand_name": "ABSORBINE POWER GEL",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "30-JUN-2017",
+  "active_ingredients": [
+    {
+      "name": "CHLOROXYLENOL",
+      "strength": ".5",
+      "unit": "%"
+    },
+    {
+      "name": "MENTHOL",
+      "strength": "4",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "GEL"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "W.F. YOUNG, INC."
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "VARIOUS"
+  ]
+}

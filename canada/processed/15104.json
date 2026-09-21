@@ -1,0 +1,28 @@
+{
+  "drug_code": "15104",
+  "din": "02050048",
+  "brand_name": "DOXEPIN",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "12-JAN-2018",
+  "active_ingredients": [
+    {
+      "name": "DOXEPIN (DOXEPIN HYDROCHLORIDE)",
+      "strength": "100",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "CAPSULE"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "AA PHARMA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "DOXEPIN"
+  ]
+}

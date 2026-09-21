@@ -1,0 +1,28 @@
+{
+  "drug_code": "6753",
+  "din": "00594636",
+  "brand_name": "STATEX TABLET 25MG",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "03-MAR-2010",
+  "active_ingredients": [
+    {
+      "name": "MORPHINE SULFATE",
+      "strength": "25",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "PALADIN LABS INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "MORPHINE"
+  ]
+}

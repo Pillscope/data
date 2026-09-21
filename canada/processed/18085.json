@@ -1,0 +1,33 @@
+{
+  "drug_code": "18085",
+  "din": "02145316",
+  "brand_name": "NITROGLYCERIN IN 5% DEXTROSE INJ.-400MCG/ML",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "22-JUN-2006",
+  "active_ingredients": [
+    {
+      "name": "NITROGLYCERIN",
+      "strength": "40",
+      "unit": "MG"
+    },
+    {
+      "name": "DEXTROSE",
+      "strength": "5",
+      "unit": "G"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "BAXTER CORPORATION"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "GLYCERYL TRINITRATE"
+  ]
+}

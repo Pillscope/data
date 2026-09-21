@@ -1,0 +1,28 @@
+{
+  "drug_code": "76110",
+  "din": "02275465",
+  "brand_name": "LYSOL DISINFECTANT TOILET BOWL CLEANER POWER",
+  "class": "Disinfectant",
+  "descriptor": "",
+  "last_update": "08-AUG-2014",
+  "active_ingredients": [
+    {
+      "name": "HYDROCHLORIC ACID",
+      "strength": "9.5",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "LIQUID"
+  ],
+  "routes": [
+    "DISINFECTANT (Domestic)"
+  ],
+  "companies": [
+    "RECKITT BENCKISER (CANADA) INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "TECHNICAL DISINFECTANTS"
+  ]
+}

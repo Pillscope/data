@@ -1,0 +1,33 @@
+{
+  "drug_code": "89491",
+  "din": "02410257",
+  "brand_name": "MIRVALA 28",
+  "class": "Human",
+  "descriptor": "ORAL CONTRACEPTIVE",
+  "last_update": "20-MAY-2014",
+  "active_ingredients": [
+    {
+      "name": "DESOGESTREL",
+      "strength": "0.1500",
+      "unit": "MG"
+    },
+    {
+      "name": "ETHINYL ESTRADIOL",
+      "strength": "0.0300",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "APOTEX INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "DESOGESTREL AND ESTROGEN"
+  ]
+}

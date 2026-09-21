@@ -1,0 +1,28 @@
+{
+  "drug_code": "64277",
+  "din": "02240692",
+  "brand_name": "HERCEPTIN",
+  "class": "Human",
+  "descriptor": "VIALS",
+  "last_update": "12-APR-2013",
+  "active_ingredients": [
+    {
+      "name": "TRASTUZUMAB",
+      "strength": "440",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "POWDER FOR SOLUTION"
+  ],
+  "routes": [
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "HOFFMANN-LA ROCHE LIMITED"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "TRASTUZUMAB"
+  ]
+}

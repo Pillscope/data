@@ -1,0 +1,28 @@
+{
+  "drug_code": "86510",
+  "din": "02379228",
+  "brand_name": "TEINT IDOLE ULTRA WEAR",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "08-AUG-2017",
+  "active_ingredients": [
+    {
+      "name": "OCTINOXATE",
+      "strength": "3",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "LOTION"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "LANCOME CANADA"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "OCTYL METHOXYCINNAMATE"
+  ]
+}

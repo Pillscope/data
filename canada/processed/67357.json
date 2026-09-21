@@ -1,0 +1,28 @@
+{
+  "drug_code": "67357",
+  "din": "02243447",
+  "brand_name": "PMS-GABAPENTIN",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "20-JAN-2009",
+  "active_ingredients": [
+    {
+      "name": "GABAPENTIN",
+      "strength": "300",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "CAPSULE"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "PHARMASCIENCE INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "GABAPENTIN"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "drug_code": "9890",
+  "din": "00828556",
+  "brand_name": "TEVA-RANITIDINE",
+  "class": "Human",
+  "descriptor": "FILM COATED",
+  "last_update": "05-MAY-2015",
+  "active_ingredients": [
+    {
+      "name": "RANITIDINE (RANITIDINE HYDROCHLORIDE)",
+      "strength": "300",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "TEVA CANADA LIMITED"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "RANITIDINE"
+  ]
+}

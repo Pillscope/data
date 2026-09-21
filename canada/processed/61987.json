@@ -1,0 +1,28 @@
+{
+  "drug_code": "61987",
+  "din": "02238560",
+  "brand_name": "APO-FLUTAMIDE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "30-SEP-2010",
+  "active_ingredients": [
+    {
+      "name": "FLUTAMIDE",
+      "strength": "250",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "APOTEX INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "FLUTAMIDE"
+  ]
+}

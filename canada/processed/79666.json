@@ -1,0 +1,28 @@
+{
+  "drug_code": "79666",
+  "din": "02311062",
+  "brand_name": "PRO-CEFADROXIL - 500",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "01-AUG-2008",
+  "active_ingredients": [
+    {
+      "name": "CEFADROXIL",
+      "strength": "500",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "CAPSULE"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "PRO DOC LIMITEE"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "CEFADROXIL"
+  ]
+}

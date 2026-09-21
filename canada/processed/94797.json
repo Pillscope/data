@@ -1,0 +1,28 @@
+{
+  "drug_code": "94797",
+  "din": "02460548",
+  "brand_name": "KEVZARA",
+  "class": "Human",
+  "descriptor": "1.14 ML PREFILLED SYRINGES",
+  "last_update": "31-MAR-2017",
+  "active_ingredients": [
+    {
+      "name": "SARILUMAB",
+      "strength": "200",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "SUBCUTANEOUS"
+  ],
+  "companies": [
+    "SANOFI-AVENTIS CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "SARILUMAB"
+  ]
+}

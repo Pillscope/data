@@ -1,0 +1,28 @@
+{
+  "drug_code": "13559",
+  "din": "01986007",
+  "brand_name": "MICRO SE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "05-MAY-2015",
+  "active_ingredients": [
+    {
+      "name": "SELENIUM (SELENIOUS ACID)",
+      "strength": "40",
+      "unit": "MCG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "SANDOZ CANADA INCORPORATED"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "OTHER MINERAL PRODUCTS"
+  ]
+}

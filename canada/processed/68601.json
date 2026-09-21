@@ -1,0 +1,28 @@
+{
+  "drug_code": "68601",
+  "din": "02244614",
+  "brand_name": "MITOXANTRONE INJECTION USP",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "24-MAY-2017",
+  "active_ingredients": [
+    {
+      "name": "MITOXANTRONE (MITOXANTRONE HYDROCHLORIDE)",
+      "strength": "2",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "PFIZER CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "MITOXANTRONE"
+  ]
+}

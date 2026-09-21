@@ -1,0 +1,28 @@
+{
+  "drug_code": "73240",
+  "din": "02248867",
+  "brand_name": "CALCIUM GLUCONATE 23% INJECTION",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "13-OCT-2009",
+  "active_ingredients": [
+    {
+      "name": "CALCIUM BOROGLUCONATE",
+      "strength": "23",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "INTRAPERITONEAL",
+    "INTRAVENOUS",
+    "SUBCUTANEOUS"
+  ],
+  "companies": [
+    "RAFTER 8 PRODUCTS INC"
+  ],
+  "status": "MARKETED",
+  "atc": []
+}

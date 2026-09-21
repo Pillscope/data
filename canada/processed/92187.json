@@ -1,0 +1,33 @@
+{
+  "drug_code": "92187",
+  "din": "02437546",
+  "brand_name": "MS KIEMKILL",
+  "class": "Disinfectant",
+  "descriptor": "",
+  "last_update": "30-JUL-2015",
+  "active_ingredients": [
+    {
+      "name": "SODIUM DICHLOROISOCYANURATE",
+      "strength": "2.5",
+      "unit": "%"
+    },
+    {
+      "name": "POTASSIUM PEROXYMONOSULFATE",
+      "strength": "45",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "POWDER FOR SOLUTION"
+  ],
+  "routes": [
+    "DISINFECTANT (Barn)"
+  ],
+  "companies": [
+    "SCHIPPERS EUROPE BV"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "TECHNICAL DISINFECTANTS"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "drug_code": "92970",
+  "din": "02444623",
+  "brand_name": "STRENSIQ",
+  "class": "Human",
+  "descriptor": "28MG/0.7ML SINGLE USE VIAL",
+  "last_update": "19-AUG-2016",
+  "active_ingredients": [
+    {
+      "name": "ASFOTASE ALFA",
+      "strength": "40",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "SUBCUTANEOUS"
+  ],
+  "companies": [
+    "ALEXION PHARMA GMBH"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "ASFOTASE ALFA"
+  ]
+}

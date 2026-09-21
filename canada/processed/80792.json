@@ -1,0 +1,28 @@
+{
+  "drug_code": "80792",
+  "din": "02322471",
+  "brand_name": "CANCAP SIMETHICONE USP 180 MG SOFT CAPSULES",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "08-JAN-2016",
+  "active_ingredients": [
+    {
+      "name": "SIMETHICONE",
+      "strength": "180",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "CAPSULE"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "CANCAP PHARMACEUTICAL LTD"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "SILICONES"
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "drug_code": "43006",
+  "din": "02205963",
+  "brand_name": "DEXIRON",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "18-DEC-2013",
+  "active_ingredients": [
+    {
+      "name": "IRON (IRON DEXTRAN COMPLEX)",
+      "strength": "50",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "LIQUID"
+  ],
+  "routes": [
+    "INTRAMUSCULAR",
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "LUITPOLD PHARMACEUTICALS INC"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "IRON, PARENTERAL PREPARATIONS"
+  ]
+}

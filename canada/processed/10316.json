@@ -1,0 +1,28 @@
+{
+  "drug_code": "10316",
+  "din": "00809055",
+  "brand_name": "TEVA-DOCUSATE CALCIUM",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "30-APR-2015",
+  "active_ingredients": [
+    {
+      "name": "DOCUSATE CALCIUM",
+      "strength": "240",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "CAPSULE"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "TEVA CANADA LIMITED"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "DOCUSATE SODIUM"
+  ]
+}

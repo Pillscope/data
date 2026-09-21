@@ -1,0 +1,33 @@
+{
+  "drug_code": "80315",
+  "din": "02317648",
+  "brand_name": "SHEER DEFENSE TINTED MOISTURIZER BROAD SPECTRUM SPF 15 L10",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "16-MAY-2016",
+  "active_ingredients": [
+    {
+      "name": "TITANIUM DIOXIDE",
+      "strength": "5.12",
+      "unit": "%"
+    },
+    {
+      "name": "OCTINOXATE",
+      "strength": "7.5",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "LOTION"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "MERLE NORMAN COSMETICS INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "COMBINATIONS OF PROTECTIVES AGAINST UV-RADIATION"
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "drug_code": "78001",
+  "din": "02294664",
+  "brand_name": "OCTAPLEX",
+  "class": "Human",
+  "descriptor": "HUMAN PROTHROMBIN COMPLEX. 20ML RECONSTITUTED.",
+  "last_update": "28-NOV-2014",
+  "active_ingredients": [
+    {
+      "name": "COAGULATION FACTOR II (HUMAN)",
+      "strength": "760",
+      "unit": "UNIT"
+    },
+    {
+      "name": "COAGULATION FACTOR X (HUMAN)",
+      "strength": "600",
+      "unit": "UNIT"
+    },
+    {
+      "name": "COAGULATION FACTOR VII (HUMAN)",
+      "strength": "480",
+      "unit": "UNIT"
+    },
+    {
+      "name": "COAGULATION FACTOR IX (HUMAN)",
+      "strength": "500",
+      "unit": "UNIT"
+    },
+    {
+      "name": "PROTEIN C",
+      "strength": "620",
+      "unit": "UNIT"
+    },
+    {
+      "name": "PROTEIN S",
+      "strength": "640",
+      "unit": "UNIT"
+    }
+  ],
+  "forms": [
+    "KIT",
+    "POWDER FOR SOLUTION"
+  ],
+  "routes": [
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "OCTAPHARMA PHARMAZEUTIKA PRODUKTIONSGES M B H"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "COAGULATION FACTOR IX, II, VII AND X IN COMB"
+  ]
+}

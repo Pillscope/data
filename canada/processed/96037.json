@@ -1,0 +1,28 @@
+{
+  "drug_code": "96037",
+  "din": "02471264",
+  "brand_name": "RIVA-BISOPROLOL",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "01-FEB-2018",
+  "active_ingredients": [
+    {
+      "name": "BISOPROLOL FUMARATE",
+      "strength": "5",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "LABORATOIRE RIVA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "BISOPROLOL"
+  ]
+}

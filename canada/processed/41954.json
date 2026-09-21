@@ -1,0 +1,28 @@
+{
+  "drug_code": "41954",
+  "din": "01929372",
+  "brand_name": "LONG LASTING DRISTAN NASAL MIST",
+  "class": "Human",
+  "descriptor": "SOLUTION",
+  "last_update": "02-DEC-2015",
+  "active_ingredients": [
+    {
+      "name": "OXYMETAZOLINE HYDROCHLORIDE",
+      "strength": "0.05",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "SPRAY"
+  ],
+  "routes": [
+    "NASAL"
+  ],
+  "companies": [
+    "PFIZER CONSUMER HEALTHCARE A DIVISION OF PFIZER CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "OXYMETAZOLINE"
+  ]
+}

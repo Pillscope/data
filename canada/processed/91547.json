@@ -1,0 +1,28 @@
+{
+  "drug_code": "91547",
+  "din": "02431025",
+  "brand_name": "LYRACAINE GEL",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "19-JAN-2016",
+  "active_ingredients": [
+    {
+      "name": "LIDOCAINE",
+      "strength": "5",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "GEL"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "PROLLENIUM MEDICAL TECHNOLOGIES INC"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "LIDOCAINE"
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "drug_code": "31491",
+  "din": "02142546",
+  "brand_name": "STERILE WATER FOR INJECTION USP",
+  "class": "Human",
+  "descriptor": "SINGLE USE VIAL",
+  "last_update": "29-AUG-2017",
+  "active_ingredients": [
+    {
+      "name": "WATER",
+      "strength": "100",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "INTRAMUSCULAR",
+    "INTRAPERITONEAL",
+    "INTRAVENOUS",
+    "SUBCUTANEOUS"
+  ],
+  "companies": [
+    "PFIZER CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "SOLVENTS AND DILUTING AGENTS,INCL IRRIGAT SOLUT"
+  ]
+}

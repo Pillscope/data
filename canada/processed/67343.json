@@ -1,0 +1,28 @@
+{
+  "drug_code": "67343",
+  "din": "02243433",
+  "brand_name": "APO-DICLO RAPIDE 50 MG TABLETS",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "04-MAY-2010",
+  "active_ingredients": [
+    {
+      "name": "DICLOFENAC POTASSIUM",
+      "strength": "50",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "APOTEX INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "DICLOFENAC"
+  ]
+}

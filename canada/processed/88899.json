@@ -1,0 +1,28 @@
+{
+  "drug_code": "88899",
+  "din": "02404206",
+  "brand_name": "APO-DUTASTERIDE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "31-JUL-2014",
+  "active_ingredients": [
+    {
+      "name": "DUTASTERIDE",
+      "strength": "0.5",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "CAPSULE"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "APOTEX INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "DUTASTERIDE"
+  ]
+}

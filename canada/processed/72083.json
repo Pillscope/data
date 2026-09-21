@@ -1,0 +1,29 @@
+{
+  "drug_code": "72083",
+  "din": "02247790",
+  "brand_name": "REPRONEX",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "05-MAY-2015",
+  "active_ingredients": [
+    {
+      "name": "MENOTROPINS",
+      "strength": "75",
+      "unit": "UNIT"
+    }
+  ],
+  "forms": [
+    "POWDER FOR SOLUTION"
+  ],
+  "routes": [
+    "INTRAMUSCULAR",
+    "SUBCUTANEOUS"
+  ],
+  "companies": [
+    "FERRING INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "HUMAN MENOPAUSAL GONADOTROPHIN"
+  ]
+}

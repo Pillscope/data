@@ -1,0 +1,28 @@
+{
+  "drug_code": "61646",
+  "din": "02238251",
+  "brand_name": "VIONEX ANTIMICROBIAL LIQUID SOAP",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "13-JUL-2012",
+  "active_ingredients": [
+    {
+      "name": "CHLOROXYLENOL",
+      "strength": "0.52",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "LIQUID"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "METREX RESEARCH"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "CHLOROXYLENOL"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "drug_code": "66609",
+  "din": "02242786",
+  "brand_name": "MOBICOX",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "02-NOV-2012",
+  "active_ingredients": [
+    {
+      "name": "MELOXICAM",
+      "strength": "15",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "BOEHRINGER INGELHEIM (CANADA) LTD LTEE"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "MELOXICAM"
+  ]
+}

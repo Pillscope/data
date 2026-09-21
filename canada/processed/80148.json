@@ -1,0 +1,28 @@
+{
+  "drug_code": "80148",
+  "din": "02315955",
+  "brand_name": "EXTRA STRENGTH ALLERGY RELIEF",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "16-DEC-2014",
+  "active_ingredients": [
+    {
+      "name": "CETIRIZINE HYDROCHLORIDE",
+      "strength": "10",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "PHARMASCIENCE INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "CETIRIZINE"
+  ]
+}

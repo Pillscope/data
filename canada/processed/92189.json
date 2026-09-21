@@ -1,0 +1,28 @@
+{
+  "drug_code": "92189",
+  "din": "02437562",
+  "brand_name": "CLEAR CELL MEDICATED ACNE FACIAL SCRUB",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "12-FEB-2018",
+  "active_ingredients": [
+    {
+      "name": "BENZOYL PEROXIDE",
+      "strength": "3",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "LIQUID"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "IMAGE INTERNATIONAL MANUFACTURING LLC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "BENZOYL PEROXIDE"
+  ]
+}

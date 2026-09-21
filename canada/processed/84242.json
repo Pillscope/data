@@ -1,0 +1,28 @@
+{
+  "drug_code": "84242",
+  "din": "02357291",
+  "brand_name": "VOLULYTE",
+  "class": "Human",
+  "descriptor": "6% HYDROXYETHYL STARCH 130/0.4 IN AN ISOTONIC ELECTROLYTE INJECTION - SINGLE USE.",
+  "last_update": "21-JUL-2016",
+  "active_ingredients": [
+    {
+      "name": "HYDROXYETHYL STARCH 130/0.4",
+      "strength": "6",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "FRESENIUS KABI CANADA LTD"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "HYDROXYETHYLSTARCH"
+  ]
+}

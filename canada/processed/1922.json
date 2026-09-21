@@ -1,0 +1,33 @@
+{
+  "drug_code": "1922",
+  "din": "00297143",
+  "brand_name": "LOESTRIN 1.5/30",
+  "class": "Human",
+  "descriptor": "21 DAY PACK",
+  "last_update": "23-SEP-2013",
+  "active_ingredients": [
+    {
+      "name": "NORETHINDRONE ACETATE",
+      "strength": "1.5",
+      "unit": "MG"
+    },
+    {
+      "name": "ETHINYL ESTRADIOL",
+      "strength": "30",
+      "unit": "MCG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "WARNER CHILCOTT CANADA CO"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "NORETHISTERONE AND ESTROGEN"
+  ]
+}

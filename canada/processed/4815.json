@@ -1,0 +1,26 @@
+{
+  "drug_code": "4815",
+  "din": "00555827",
+  "brand_name": "ISOPROPYL RUBBING ALCOHOL 70%",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "29-SEP-2000",
+  "active_ingredients": [
+    {
+      "name": "ISOPROPYL ALCOHOL",
+      "strength": "70",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "LIQUID"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "DOMINION VETERINARY LABORATORIES LTD."
+  ],
+  "status": "MARKETED",
+  "atc": []
+}

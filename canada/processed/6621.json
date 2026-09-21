@@ -1,0 +1,28 @@
+{
+  "drug_code": "6621",
+  "din": "00674915",
+  "brand_name": "ANTIMICROBIAL 0.3% TRICLOSAN / ANTIMICROBIEN 0.3% TRICLOSAN",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "02-AUG-2007",
+  "active_ingredients": [
+    {
+      "name": "TRICLOSAN",
+      "strength": "0.3",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "LOTION"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "AVMOR LTD"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "TRICLOSAN"
+  ]
+}

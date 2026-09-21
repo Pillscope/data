@@ -1,0 +1,29 @@
+{
+  "drug_code": "77823",
+  "din": "02292882",
+  "brand_name": "CEFTRIAXONE FOR INJECTION USP",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "26-APR-2011",
+  "active_ingredients": [
+    {
+      "name": "CEFTRIAXONE (CEFTRIAXONE SODIUM)",
+      "strength": "2.0",
+      "unit": "G"
+    }
+  ],
+  "forms": [
+    "POWDER FOR SOLUTION"
+  ],
+  "routes": [
+    "INTRAMUSCULAR",
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "HOSPIRA HEALTHCARE CORPORATION"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "CEFTRIAXONE"
+  ]
+}

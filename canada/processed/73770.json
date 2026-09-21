@@ -1,0 +1,28 @@
+{
+  "drug_code": "73770",
+  "din": "02252767",
+  "brand_name": "APO-CLOPIDOGREL",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "03-JAN-2012",
+  "active_ingredients": [
+    {
+      "name": "CLOPIDOGREL (CLOPIDOGREL BISULFATE)",
+      "strength": "75",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "APOTEX INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "CLOPIDOGREL"
+  ]
+}

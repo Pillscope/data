@@ -1,0 +1,31 @@
+{
+  "drug_code": "74897",
+  "din": "02263599",
+  "brand_name": "ULTRA BLUE",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "23-MAR-2013",
+  "active_ingredients": [
+    {
+      "name": "GLYCERINE",
+      "strength": "3.0",
+      "unit": "%"
+    },
+    {
+      "name": "CHLORHEXIDINE (CHLORHEXIDINE ACETATE)",
+      "strength": "0.5",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "AGRISAN SPECIALTY CHEMICAL & PHARMACEUTICAL"
+  ],
+  "status": "MARKETED",
+  "atc": []
+}

@@ -1,0 +1,28 @@
+{
+  "drug_code": "812",
+  "din": "00021482",
+  "brand_name": "TEVA-HYDROCHLOROTHIAZIDE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "29-APR-2015",
+  "active_ingredients": [
+    {
+      "name": "HYDROCHLOROTHIAZIDE",
+      "strength": "50",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "TEVA CANADA LIMITED"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "HYDROCHLOROTHIAZIDE"
+  ]
+}

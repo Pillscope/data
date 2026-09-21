@@ -1,0 +1,28 @@
+{
+  "drug_code": "76935",
+  "din": "02283778",
+  "brand_name": "MYLAN-CILAZAPRIL",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "05-FEB-2010",
+  "active_ingredients": [
+    {
+      "name": "CILAZAPRIL (CILAZAPRIL MONOHYDRATE)",
+      "strength": "1",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "MYLAN PHARMACEUTICALS ULC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "CILAZAPRIL"
+  ]
+}

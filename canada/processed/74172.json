@@ -1,0 +1,28 @@
+{
+  "drug_code": "74172",
+  "din": "02256487",
+  "brand_name": "VFEND FOR INJECTION",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "05-MAR-2009",
+  "active_ingredients": [
+    {
+      "name": "VORICONAZOLE",
+      "strength": "200",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "POWDER FOR SOLUTION"
+  ],
+  "routes": [
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "PFIZER CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "VORICONAZOLE"
+  ]
+}

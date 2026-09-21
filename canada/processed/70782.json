@@ -1,0 +1,28 @@
+{
+  "drug_code": "70782",
+  "din": "02246595",
+  "brand_name": "MYLAN-CITALOPRAM",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "19-MAY-2010",
+  "active_ingredients": [
+    {
+      "name": "CITALOPRAM (CITALOPRAM HYDROBROMIDE)",
+      "strength": "40",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "MYLAN PHARMACEUTICALS ULC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "CITALOPRAM"
+  ]
+}

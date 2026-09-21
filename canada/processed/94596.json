@@ -1,0 +1,28 @@
+{
+  "drug_code": "94596",
+  "din": "02458810",
+  "brand_name": "CCP-ONDANSETRON",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "23-AUG-2017",
+  "active_ingredients": [
+    {
+      "name": "ONDANSETRON (ONDANSETRON HYDROCHLORIDE DIHYDRATE)",
+      "strength": "4",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "CELLCHEM PHARMACEUTICALS INC."
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "ONDANSETRON"
+  ]
+}

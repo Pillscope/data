@@ -1,0 +1,33 @@
+{
+  "drug_code": "88094",
+  "din": "02395894",
+  "brand_name": "SUNZONE SUNSCREEN LOTION \u00c3\u0089CRAN SOLAIRE BABY BEBE 60 SPF/FPS",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "08-APR-2016",
+  "active_ingredients": [
+    {
+      "name": "AVOBENZONE",
+      "strength": "3",
+      "unit": "%"
+    },
+    {
+      "name": "OCTINOXATE",
+      "strength": "4",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "LOTION"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "EMPACK SPRAYTECH INC"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "COMBINATIONS OF PROTECTIVES AGAINST UV-RADIATION"
+  ]
+}

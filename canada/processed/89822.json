@@ -1,0 +1,28 @@
+{
+  "drug_code": "89822",
+  "din": "02413574",
+  "brand_name": "PMS-CICLOPIROX",
+  "class": "Human",
+  "descriptor": "NAIL LACQUER",
+  "last_update": "19-JUN-2014",
+  "active_ingredients": [
+    {
+      "name": "CICLOPIROX",
+      "strength": "8",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "PHARMASCIENCE INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "CICLOPIROX"
+  ]
+}

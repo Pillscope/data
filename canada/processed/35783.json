@@ -1,0 +1,28 @@
+{
+  "drug_code": "35783",
+  "din": "02194031",
+  "brand_name": "ARISTOCORT R",
+  "class": "Human",
+  "descriptor": "OINTMENT 0.1%",
+  "last_update": "12-SEP-2015",
+  "active_ingredients": [
+    {
+      "name": "TRIAMCINOLONE ACETONIDE",
+      "strength": "0.1",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "OINTMENT"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "VALEANT CANADA LP/VALEANT CANADA S.E.C."
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "TRIAMCINOLONE"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "drug_code": "80619",
+  "din": "02320789",
+  "brand_name": "ALLERGY",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "10-MAR-2010",
+  "active_ingredients": [
+    {
+      "name": "DIPHENHYDRAMINE HYDROCHLORIDE",
+      "strength": "12.5",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "LIQUID"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "ACCUDIAL PHARMACEUTICAL INC"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "DIPHENHYDRAMINE"
+  ]
+}

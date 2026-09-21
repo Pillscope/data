@@ -1,0 +1,28 @@
+{
+  "drug_code": "77343",
+  "din": "02288044",
+  "brand_name": "SANDOZ FENOFIBRATE S",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "01-MAR-2007",
+  "active_ingredients": [
+    {
+      "name": "FENOFIBRATE",
+      "strength": "100",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "SANDOZ CANADA INCORPORATED"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "FENOFIBRATE"
+  ]
+}

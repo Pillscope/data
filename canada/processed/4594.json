@@ -1,0 +1,31 @@
+{
+  "drug_code": "4594",
+  "din": "00262064",
+  "brand_name": "SYNOVEX H",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "04-MAY-2017",
+  "active_ingredients": [
+    {
+      "name": "TESTOSTERONE PROPIONATE",
+      "strength": "200",
+      "unit": "MG"
+    },
+    {
+      "name": "ESTRADIOL BENZOATE",
+      "strength": "20",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "IMPLANT"
+  ],
+  "routes": [
+    "SUBCUTANEOUS"
+  ],
+  "companies": [
+    "ZOETIS CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": []
+}

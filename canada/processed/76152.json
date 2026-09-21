@@ -1,0 +1,29 @@
+{
+  "drug_code": "76152",
+  "din": "02275864",
+  "brand_name": "HYPURIN NPH INSULIN ISOPHANE PORK",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "20-AUG-2012",
+  "active_ingredients": [
+    {
+      "name": "INSULIN ISOPHANE INJECTION PORK",
+      "strength": "100",
+      "unit": "UNIT"
+    }
+  ],
+  "forms": [
+    "SUSPENSION"
+  ],
+  "routes": [
+    "INTRAMUSCULAR",
+    "SUBCUTANEOUS"
+  ],
+  "companies": [
+    "WOCKHARDT UK LTD"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "INSULIN (PORK)"
+  ]
+}

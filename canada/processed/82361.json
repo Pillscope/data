@@ -1,0 +1,26 @@
+{
+  "drug_code": "82361",
+  "din": "02337967",
+  "brand_name": "JURAMATE",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "30-AUG-2017",
+  "active_ingredients": [
+    {
+      "name": "CLOPROSTENOL (CLOPROSTENOL SODIUM)",
+      "strength": "250",
+      "unit": "MCG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "INTRAMUSCULAR"
+  ],
+  "companies": [
+    "JUROX PTY LIMITED"
+  ],
+  "status": "APPROVED",
+  "atc": []
+}

@@ -1,0 +1,28 @@
+{
+  "drug_code": "76121",
+  "din": "02275570",
+  "brand_name": "AURO-CITALOPRAM",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "09-JAN-2012",
+  "active_ingredients": [
+    {
+      "name": "CITALOPRAM (CITALOPRAM HYDROBROMIDE)",
+      "strength": "40",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "AURO PHARMA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "CITALOPRAM"
+  ]
+}

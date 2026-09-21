@@ -1,0 +1,28 @@
+{
+  "drug_code": "945",
+  "din": "00024333",
+  "brand_name": "SINEQUAN",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "24-JUL-2017",
+  "active_ingredients": [
+    {
+      "name": "DOXEPIN (DOXEPIN HYDROCHLORIDE)",
+      "strength": "25",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "CAPSULE"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "AA PHARMA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "DOXEPIN"
+  ]
+}

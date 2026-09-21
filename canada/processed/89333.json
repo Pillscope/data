@@ -1,0 +1,48 @@
+{
+  "drug_code": "89333",
+  "din": "02408597",
+  "brand_name": "IDEAL FLAWLESS CC COLOR CORRECTOR CREAM",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "27-JAN-2014",
+  "active_ingredients": [
+    {
+      "name": "TITANIUM DIOXIDE",
+      "strength": "2.15",
+      "unit": "%"
+    },
+    {
+      "name": "OCTOCRYLENE",
+      "strength": "2.0",
+      "unit": "%"
+    },
+    {
+      "name": "OXYBENZONE",
+      "strength": "4.7",
+      "unit": "%"
+    },
+    {
+      "name": "HOMOSALATE",
+      "strength": "7.0",
+      "unit": "%"
+    },
+    {
+      "name": "OCTINOXATE",
+      "strength": "7.0",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "CREAM"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "AVON CANADA INC"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "COMBINATIONS OF PROTECTIVES AGAINST UV-RADIATION"
+  ]
+}

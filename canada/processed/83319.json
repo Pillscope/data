@@ -1,0 +1,29 @@
+{
+  "drug_code": "83319",
+  "din": "02347822",
+  "brand_name": "ROPIVACAINE HYDROCHLORIDE INJECTION USP",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "18-AUG-2017",
+  "active_ingredients": [
+    {
+      "name": "ROPIVACAINE HYDROCHLORIDE",
+      "strength": "5",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "BLOCK/INFILTRATION",
+    "EPIDURAL"
+  ],
+  "companies": [
+    "PFIZER CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "ROPIVACAINE"
+  ]
+}

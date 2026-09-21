@@ -1,0 +1,36 @@
+{
+  "drug_code": "8427",
+  "din": "00660701",
+  "brand_name": "BLU-GARD TEAT DIP",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "17-FEB-2009",
+  "active_ingredients": [
+    {
+      "name": "SORBITOL",
+      "strength": "9",
+      "unit": "%"
+    },
+    {
+      "name": "GLYCERINE",
+      "strength": "3",
+      "unit": "%"
+    },
+    {
+      "name": "LINEAR DODECYL BENZENE SULFONIC ACID",
+      "strength": "1.94",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "UDDER WASH"
+  ],
+  "companies": [
+    "ECOLAB CO"
+  ],
+  "status": "MARKETED",
+  "atc": []
+}

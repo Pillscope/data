@@ -1,0 +1,39 @@
+{
+  "drug_code": "91864",
+  "din": "02434318",
+  "brand_name": "OTEZLA",
+  "class": "Human",
+  "descriptor": "27-COUNT STARTER PACK",
+  "last_update": "07-JAN-2016",
+  "active_ingredients": [
+    {
+      "name": "APREMILAST",
+      "strength": "10",
+      "unit": "MG"
+    },
+    {
+      "name": "APREMILAST",
+      "strength": "20",
+      "unit": "MG"
+    },
+    {
+      "name": "APREMILAST",
+      "strength": "30",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "KIT",
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "CELGENE INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "Apremilast"
+  ]
+}

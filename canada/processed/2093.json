@@ -1,0 +1,28 @@
+{
+  "drug_code": "2093",
+  "din": "00312738",
+  "brand_name": "NITROFURANTOIN",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "03-FEB-2012",
+  "active_ingredients": [
+    {
+      "name": "NITROFURANTOIN",
+      "strength": "100",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "AA PHARMA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "NITROFURANTOIN"
+  ]
+}

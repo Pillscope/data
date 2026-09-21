@@ -1,0 +1,28 @@
+{
+  "drug_code": "6230",
+  "din": "00637661",
+  "brand_name": "BETAGAN 0.5% OPHTHALMIC SOL",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "17-MAR-2008",
+  "active_ingredients": [
+    {
+      "name": "LEVOBUNOLOL HYDROCHLORIDE",
+      "strength": "5",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "LIQUID"
+  ],
+  "routes": [
+    "OPHTHALMIC"
+  ],
+  "companies": [
+    "ALLERGAN INC"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "LEVOBUNOLOL"
+  ]
+}

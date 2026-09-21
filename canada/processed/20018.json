@@ -1,0 +1,28 @@
+{
+  "drug_code": "20018",
+  "din": "02210347",
+  "brand_name": "MYLAN-VERAPAMIL SR",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "26-APR-2017",
+  "active_ingredients": [
+    {
+      "name": "VERAPAMIL HYDROCHLORIDE",
+      "strength": "120",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET (EXTENDED-RELEASE)"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "MYLAN PHARMACEUTICALS ULC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "VERAPAMIL"
+  ]
+}

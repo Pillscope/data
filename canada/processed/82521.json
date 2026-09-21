@@ -1,0 +1,34 @@
+{
+  "drug_code": "82521",
+  "din": "02339617",
+  "brand_name": "TARGIN",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "22-NOV-2016",
+  "active_ingredients": [
+    {
+      "name": "OXYCODONE HYDROCHLORIDE",
+      "strength": "20",
+      "unit": "MG"
+    },
+    {
+      "name": "NALOXONE HYDROCHLORIDE",
+      "strength": "10",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET (EXTENDED-RELEASE)"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "PURDUE PHARMA"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "OXYCODONE AND NALOXONE",
+    "OXYCODONE AND NALOXONE"
+  ]
+}

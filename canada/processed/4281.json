@@ -1,0 +1,28 @@
+{
+  "drug_code": "4281",
+  "din": "00326844",
+  "brand_name": "APO HYDRO TAB 25MG",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "03-SEP-2009",
+  "active_ingredients": [
+    {
+      "name": "HYDROCHLOROTHIAZIDE",
+      "strength": "25",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "APOTEX INC"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "HYDROCHLOROTHIAZIDE"
+  ]
+}

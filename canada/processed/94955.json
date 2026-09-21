@@ -1,0 +1,28 @@
+{
+  "drug_code": "94955",
+  "din": "02461803",
+  "brand_name": "REXULTI",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "28-APR-2017",
+  "active_ingredients": [
+    {
+      "name": "BREXPIPRAZOLE",
+      "strength": "4",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "OTSUKA PHARMACEUTICAL CO LTD"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "BREXPIPRAZOLE"
+  ]
+}

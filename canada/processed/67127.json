@@ -1,0 +1,28 @@
+{
+  "drug_code": "67127",
+  "din": "02243237",
+  "brand_name": "RAPAMUNE ORAL SOLUTION",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "11-JUL-2013",
+  "active_ingredients": [
+    {
+      "name": "SIROLIMUS",
+      "strength": "1.0",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "PFIZER CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "SIROLIMUS"
+  ]
+}

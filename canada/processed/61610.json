@@ -1,0 +1,28 @@
+{
+  "drug_code": "61610",
+  "din": "02238217",
+  "brand_name": "SINGULAIR",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "05-AUG-2008",
+  "active_ingredients": [
+    {
+      "name": "MONTELUKAST (MONTELUKAST SODIUM)",
+      "strength": "10",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "MERCK CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "MONTELUKAST"
+  ]
+}

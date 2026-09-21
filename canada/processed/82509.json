@@ -1,0 +1,28 @@
+{
+  "drug_code": "82509",
+  "din": "02339471",
+  "brand_name": "SANDOZ FINASTERIDE A",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "08-JUN-2010",
+  "active_ingredients": [
+    {
+      "name": "FINASTERIDE",
+      "strength": "1",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "SANDOZ CANADA INCORPORATED"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "FINASTERIDE"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "drug_code": "74153",
+  "din": "02256304",
+  "brand_name": "RELPAX",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "28-FEB-2007",
+  "active_ingredients": [
+    {
+      "name": "ELETRIPTAN (ELETRIPTAN HYDROBROMIDE)",
+      "strength": "40",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "PFIZER CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "ELETRIPTAN"
+  ]
+}

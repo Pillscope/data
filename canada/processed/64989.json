@@ -1,0 +1,28 @@
+{
+  "drug_code": "64989",
+  "din": "02241357",
+  "brand_name": "IFEX (IFOSFAMIDE) 1 G/VIAL",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "05-APR-2006",
+  "active_ingredients": [
+    {
+      "name": "IFOSFAMIDE",
+      "strength": "1",
+      "unit": "G"
+    }
+  ],
+  "forms": [
+    "POWDER FOR SOLUTION"
+  ],
+  "routes": [
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "BAXTER CORPORATION"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "IFOSFAMIDE"
+  ]
+}

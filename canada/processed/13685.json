@@ -1,0 +1,28 @@
+{
+  "drug_code": "13685",
+  "din": "00723770",
+  "brand_name": "XANAX TAB 1MG",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "14-SEP-2006",
+  "active_ingredients": [
+    {
+      "name": "ALPRAZOLAM",
+      "strength": "1",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "PFIZER CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "ALPRAZOLAM"
+  ]
+}

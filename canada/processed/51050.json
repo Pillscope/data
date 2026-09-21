@@ -1,0 +1,35 @@
+{
+  "drug_code": "51050",
+  "din": "02231675",
+  "brand_name": "COMBIVENT UDV",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "10-FEB-2017",
+  "active_ingredients": [
+    {
+      "name": "SALBUTAMOL (SALBUTAMOL SULFATE)",
+      "strength": "1",
+      "unit": "MG"
+    },
+    {
+      "name": "IPRATROPIUM BROMIDE (IPRATROPIUM BROMIDE MONOHYDRATE)",
+      "strength": "0.2",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "INHALATION"
+  ],
+  "companies": [
+    "BOEHRINGER INGELHEIM (CANADA) LTD LTEE"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "SALBUTAMOL AND IPRATROPIUM BROMIDE",
+    "SALBUTAMOL AND IPRATROPIUM BROMIDE",
+    "SALBUTAMOL AND IPRATROPIUM BROMIDE"
+  ]
+}

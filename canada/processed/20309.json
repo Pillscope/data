@@ -1,0 +1,28 @@
+{
+  "drug_code": "20309",
+  "din": "02152592",
+  "brand_name": "BACLOFEN-20 - TAB",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "17-OCT-2008",
+  "active_ingredients": [
+    {
+      "name": "BACLOFEN",
+      "strength": "20",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "PRO DOC LIMITEE"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "BACLOFEN"
+  ]
+}

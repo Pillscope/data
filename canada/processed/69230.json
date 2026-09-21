@@ -1,0 +1,29 @@
+{
+  "drug_code": "69230",
+  "din": "02245215",
+  "brand_name": "PYRIDOXINE HYDROCHLORIDE INJECTION, USP",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "23-JUL-2015",
+  "active_ingredients": [
+    {
+      "name": "PYRIDOXINE HYDROCHLORIDE",
+      "strength": "100",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "INTRAMUSCULAR",
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "MYLAN PHARMACEUTICALS ULC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "PYRIDOXINE (VIT B6)"
+  ]
+}

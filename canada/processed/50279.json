@@ -1,0 +1,28 @@
+{
+  "drug_code": "50279",
+  "din": "02230998",
+  "brand_name": "APO-DILTIAZ CD",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "06-MAR-2006",
+  "active_ingredients": [
+    {
+      "name": "DILTIAZEM HYDROCHLORIDE",
+      "strength": "180",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "CAPSULE (CONTROLLED-DELIVERY)"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "APOTEX INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "DILTIAZEM"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "drug_code": "15927",
+  "din": "02084090",
+  "brand_name": "APO-MINOCYCLINE CAP 50MG",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "02-OCT-2009",
+  "active_ingredients": [
+    {
+      "name": "MINOCYCLINE (MINOCYCLINE HYDROCHLORIDE)",
+      "strength": "50",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "CAPSULE"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "APOTEX INC"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "MINOCYCLINE"
+  ]
+}

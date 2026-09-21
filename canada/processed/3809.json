@@ -1,0 +1,28 @@
+{
+  "drug_code": "3809",
+  "din": "00496723",
+  "brand_name": "FUROSEMIDE 20 TAB",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "05-JUL-2010",
+  "active_ingredients": [
+    {
+      "name": "FUROSEMIDE",
+      "strength": "20",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "PRO DOC LIMITEE"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "FUROSEMIDE"
+  ]
+}

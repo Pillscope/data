@@ -1,0 +1,32 @@
+{
+  "drug_code": "43892",
+  "din": "02131692",
+  "brand_name": "BLEOMYCIN FOR INJECTION USP",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "09-AUG-2017",
+  "active_ingredients": [
+    {
+      "name": "BLEOMYCIN (BLEOMYCIN SULFATE)",
+      "strength": "15",
+      "unit": "UNIT"
+    }
+  ],
+  "forms": [
+    "POWDER FOR SOLUTION"
+  ],
+  "routes": [
+    "INTRA-ARTERIAL",
+    "INTRACAVITARY",
+    "INTRAMUSCULAR",
+    "INTRAVENOUS",
+    "SUBCUTANEOUS"
+  ],
+  "companies": [
+    "PFIZER CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "BLEOMYCIN"
+  ]
+}

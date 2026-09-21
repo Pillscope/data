@@ -1,0 +1,28 @@
+{
+  "drug_code": "11196",
+  "din": "00851744",
+  "brand_name": "ELOCOM CREAM",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "24-OCT-2013",
+  "active_ingredients": [
+    {
+      "name": "MOMETASONE FUROATE",
+      "strength": "0.1",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "CREAM"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "MERCK CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "MOMETASONE"
+  ]
+}

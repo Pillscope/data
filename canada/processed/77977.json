@@ -1,0 +1,28 @@
+{
+  "drug_code": "77977",
+  "din": "02294427",
+  "brand_name": "PMS-MINOCYCLINE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "09-APR-2008",
+  "active_ingredients": [
+    {
+      "name": "MINOCYCLINE (MINOCYCLINE HYDROCHLORIDE)",
+      "strength": "100",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "CAPSULE"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "PHARMASCIENCE INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "MINOCYCLINE"
+  ]
+}

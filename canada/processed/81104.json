@@ -1,0 +1,28 @@
+{
+  "drug_code": "81104",
+  "din": "02325675",
+  "brand_name": "ACT OLANZAPINE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "10-AUG-2015",
+  "active_ingredients": [
+    {
+      "name": "OLANZAPINE",
+      "strength": "7.5",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "ACTAVIS PHARMA COMPANY"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "OLANZAPINE"
+  ]
+}

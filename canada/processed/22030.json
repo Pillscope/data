@@ -1,0 +1,28 @@
+{
+  "drug_code": "22030",
+  "din": "01936441",
+  "brand_name": "BAXEDIN PRE-OP",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "14-FEB-2008",
+  "active_ingredients": [
+    {
+      "name": "CHLORHEXIDINE GLUCONATE",
+      "strength": ".5",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "OMEGA LABORATORIES LTD"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "CHLORHEXIDINE"
+  ]
+}

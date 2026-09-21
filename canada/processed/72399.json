@@ -1,0 +1,28 @@
+{
+  "drug_code": "72399",
+  "din": "02248077",
+  "brand_name": "PEGASYS",
+  "class": "Human",
+  "descriptor": "PRE-FILLED SYRINGES OR AUTO-INJECTORS",
+  "last_update": "12-SEP-2014",
+  "active_ingredients": [
+    {
+      "name": "PEGINTERFERON ALFA-2A",
+      "strength": "180",
+      "unit": "MCG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "SUBCUTANEOUS"
+  ],
+  "companies": [
+    "HOFFMANN-LA ROCHE LIMITED"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "PEGINTERFERON ALFA-2A"
+  ]
+}

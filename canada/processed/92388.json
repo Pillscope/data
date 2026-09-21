@@ -1,0 +1,28 @@
+{
+  "drug_code": "92388",
+  "din": "02439492",
+  "brand_name": "SINUFRIN PLUS",
+  "class": "Human",
+  "descriptor": "SOLUTION",
+  "last_update": "12-JAN-2017",
+  "active_ingredients": [
+    {
+      "name": "OXYMETAZOLINE HYDROCHLORIDE",
+      "strength": "0.05",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "SPRAY"
+  ],
+  "routes": [
+    "NASAL"
+  ],
+  "companies": [
+    "NEILMED PHARMACEUTICALS INC"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "OXYMETAZOLINE"
+  ]
+}

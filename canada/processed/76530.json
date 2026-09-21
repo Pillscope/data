@@ -1,0 +1,33 @@
+{
+  "drug_code": "76530",
+  "din": "02279703",
+  "brand_name": "BUCKLEY'S COMPLETE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "20-FEB-2018",
+  "active_ingredients": [
+    {
+      "name": "MENTHOL",
+      "strength": "20",
+      "unit": "MG"
+    },
+    {
+      "name": "ACETAMINOPHEN",
+      "strength": "325",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "LIQUID"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "THE BUCKLEY'S COMPANY"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "ACETAMINOPHEN, COMB EXCL PSYCHOLEPTICS"
+  ]
+}

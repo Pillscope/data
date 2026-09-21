@@ -1,0 +1,28 @@
+{
+  "drug_code": "83747",
+  "din": "02352230",
+  "brand_name": "RAN-ENALAPRIL",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "12-AUG-2010",
+  "active_ingredients": [
+    {
+      "name": "ENALAPRIL SODIUM",
+      "strength": "2",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "RANBAXY PHARMACEUTICALS CANADA INC."
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "ENALAPRIL"
+  ]
+}

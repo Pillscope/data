@@ -1,0 +1,48 @@
+{
+  "drug_code": "89947",
+  "din": "02414848",
+  "brand_name": "SELECTBAG ONE (AX200G)",
+  "class": "Human",
+  "descriptor": "SINGLE USE BAG",
+  "last_update": "19-JAN-2018",
+  "active_ingredients": [
+    {
+      "name": "POTASSIUM CHLORIDE",
+      "strength": "29.8",
+      "unit": "G"
+    },
+    {
+      "name": "ACETIC ACID",
+      "strength": "36",
+      "unit": "G"
+    },
+    {
+      "name": "DEXTROSE",
+      "strength": "220",
+      "unit": "G"
+    },
+    {
+      "name": "MAGNESIUM CHLORIDE",
+      "strength": "20.3",
+      "unit": "G"
+    },
+    {
+      "name": "CALCIUM CHLORIDE",
+      "strength": "29.4",
+      "unit": "G"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "DIALYSIS"
+  ],
+  "companies": [
+    "BAXTER CORPORATION"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "HEMODIALYTICS, CONCENTRATES"
+  ]
+}

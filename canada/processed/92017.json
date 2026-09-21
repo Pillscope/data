@@ -1,0 +1,33 @@
+{
+  "drug_code": "92017",
+  "din": "02435829",
+  "brand_name": "ARTISTRY YOUTH XTEND LIFTING SMOOTHING FOUNDATION",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "03-DEC-2015",
+  "active_ingredients": [
+    {
+      "name": "OXYBENZONE",
+      "strength": "0.5",
+      "unit": "%"
+    },
+    {
+      "name": "OCTINOXATE",
+      "strength": "7.5",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "CREAM"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "AMWAY CANADA CORPORATION"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "COMBINATIONS OF PROTECTIVES AGAINST UV-RADIATION"
+  ]
+}

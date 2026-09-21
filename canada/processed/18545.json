@@ -1,0 +1,26 @@
+{
+  "drug_code": "18545",
+  "din": "02158558",
+  "brand_name": "SOLOXINE (LEVOTHYROXINE SODIUM TABLETS 0.5MG)",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "05-MAY-2015",
+  "active_ingredients": [
+    {
+      "name": "LEVOTHYROXINE SODIUM",
+      "strength": ".5",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "VIRBAC AH INC"
+  ],
+  "status": "APPROVED",
+  "atc": []
+}

@@ -1,0 +1,39 @@
+{
+  "drug_code": "18290",
+  "din": "02063905",
+  "brand_name": "MICROLAX MICRO ENEMA",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "22-MAY-2015",
+  "active_ingredients": [
+    {
+      "name": "SODIUM LAURYL SULFOACETATE",
+      "strength": "9",
+      "unit": "MG"
+    },
+    {
+      "name": "SORBITOL",
+      "strength": "625",
+      "unit": "MG"
+    },
+    {
+      "name": "SODIUM CITRATE",
+      "strength": "90",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "ENEMA",
+    "LIQUID"
+  ],
+  "routes": [
+    "RECTAL"
+  ],
+  "companies": [
+    "MCNEIL CONSUMER HEALTHCARE DIVISION OF JOHNSON & JOHNSON INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "COMBINATIONS"
+  ]
+}

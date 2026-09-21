@@ -1,0 +1,28 @@
+{
+  "drug_code": "90030",
+  "din": "02415720",
+  "brand_name": "VAPROX 59 HYDROGEN PEROXIDE STERILANT",
+  "class": "Disinfectant",
+  "descriptor": "",
+  "last_update": "16-JAN-2017",
+  "active_ingredients": [
+    {
+      "name": "HYDROGEN PEROXIDE",
+      "strength": "59",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "LIQUID"
+  ],
+  "routes": [
+    "DISINFECTANT (Institutional/Industrial)"
+  ],
+  "companies": [
+    "STERIS CORPORATION"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "TECHNICAL DISINFECTANTS"
+  ]
+}

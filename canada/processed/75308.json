@@ -1,0 +1,28 @@
+{
+  "drug_code": "75308",
+  "din": "02267667",
+  "brand_name": "RABAVERT",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "06-OCT-2016",
+  "active_ingredients": [
+    {
+      "name": "RABIES VACCINE INACTIVATED (PURIFIED CHICK EMBRYO CELL CULTURE)",
+      "strength": "2.5",
+      "unit": "UNIT"
+    }
+  ],
+  "forms": [
+    "POWDER FOR SOLUTION"
+  ],
+  "routes": [
+    "INTRAMUSCULAR"
+  ],
+  "companies": [
+    "GLAXOSMITHKLINE INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "RABIES, INACTIVATED, WHOLE VIRUS"
+  ]
+}

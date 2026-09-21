@@ -1,0 +1,26 @@
+{
+  "drug_code": "14410",
+  "din": "02025000",
+  "brand_name": "PHENYLBUTAZONE POWDER",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "18-MAY-2010",
+  "active_ingredients": [
+    {
+      "name": "PHENYLBUTAZONE",
+      "strength": "1",
+      "unit": "G"
+    }
+  ],
+  "forms": [
+    "POWDER"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "VETOQUINOL N A INC"
+  ],
+  "status": "APPROVED",
+  "atc": []
+}

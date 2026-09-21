@@ -1,0 +1,28 @@
+{
+  "drug_code": "83716",
+  "din": "02351927",
+  "brand_name": "COLD AND ALLERGY DECONGESTANT NASAL SPRAY",
+  "class": "Human",
+  "descriptor": "SOLUTION",
+  "last_update": "29-APR-2015",
+  "active_ingredients": [
+    {
+      "name": "XYLOMETAZOLINE HYDROCHLORIDE",
+      "strength": "0.1",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "SPRAY"
+  ],
+  "routes": [
+    "NASAL"
+  ],
+  "companies": [
+    "TEVA CANADA LIMITED"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "XYLOMETAZOLINE"
+  ]
+}

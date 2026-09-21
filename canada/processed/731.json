@@ -1,0 +1,28 @@
+{
+  "drug_code": "731",
+  "din": "00023485",
+  "brand_name": "ZARONTIN SYR 250MG/5ML",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "26-JUL-2006",
+  "active_ingredients": [
+    {
+      "name": "ETHOSUXIMIDE",
+      "strength": "250",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SYRUP"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "ERFA CANADA 2012 INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "ETHOSUXIMIDE"
+  ]
+}

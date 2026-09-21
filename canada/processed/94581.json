@@ -1,0 +1,28 @@
+{
+  "drug_code": "94581",
+  "din": "02458667",
+  "brand_name": "LIXIANA",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "29-MAY-2017",
+  "active_ingredients": [
+    {
+      "name": "EDOXABAN (EDOXABAN TOSYLATE)",
+      "strength": "60",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "SERVIER CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "EDOXABAN"
+  ]
+}

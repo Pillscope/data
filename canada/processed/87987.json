@@ -1,0 +1,32 @@
+{
+  "drug_code": "87987",
+  "din": "02394723",
+  "brand_name": "E-FECT",
+  "class": "Disinfectant",
+  "descriptor": "",
+  "last_update": "05-JAN-2015",
+  "active_ingredients": [
+    {
+      "name": "THYMOL",
+      "strength": "0.23",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "DISINFECTANT (Barn)",
+    "DISINFECTANT (Food Premises)",
+    "DISINFECTANT (Hospital/HC Facilities)",
+    "DISINFECTANT (Domestic)",
+    "DISINFECTANT (Institutional/Industrial)"
+  ],
+  "companies": [
+    "GERMIPHENE CORPORATION"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "TECHNICAL DISINFECTANTS"
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "drug_code": "5664",
+  "din": "00611263",
+  "brand_name": "DEXTROSE 50% SOLN",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "18-JAN-2005",
+  "active_ingredients": [
+    {
+      "name": "DEXTROSE",
+      "strength": "50",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "INTRAPERITONEAL",
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "UNIVET PHARMACEUTICALS LTD."
+  ],
+  "status": "MARKETED",
+  "atc": []
+}

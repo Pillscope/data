@@ -1,0 +1,28 @@
+{
+  "drug_code": "63894",
+  "din": "02240352",
+  "brand_name": "INTEGRILIN",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "05-MAY-2015",
+  "active_ingredients": [
+    {
+      "name": "EPTIFIBATIDE",
+      "strength": "2",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "MERCK CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "EPTIFIBATIDE"
+  ]
+}

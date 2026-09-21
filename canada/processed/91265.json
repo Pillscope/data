@@ -1,0 +1,28 @@
+{
+  "drug_code": "91265",
+  "din": "02428172",
+  "brand_name": "PANTOPRAZOLE-20",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "11-AUG-2014",
+  "active_ingredients": [
+    {
+      "name": "PANTOPRAZOLE (PANTOPRAZOLE SODIUM SESQUIHYDRATE)",
+      "strength": "20",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET (DELAYED-RELEASE)"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "SIVEM PHARMACEUTICALS ULC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "PANTOPRAZOLE"
+  ]
+}

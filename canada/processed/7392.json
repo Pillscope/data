@@ -1,0 +1,28 @@
+{
+  "drug_code": "7392",
+  "din": "00646024",
+  "brand_name": "APO HYDROXYZINE CAP 25MG",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "30-SEP-2010",
+  "active_ingredients": [
+    {
+      "name": "HYDROXYZINE HYDROCHLORIDE",
+      "strength": "25",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "CAPSULE"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "APOTEX INC"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "HYDROXYZINE"
+  ]
+}

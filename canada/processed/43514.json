@@ -1,0 +1,28 @@
+{
+  "drug_code": "43514",
+  "din": "02229129",
+  "brand_name": "FAMVIR TABLETS 250MG",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "22-FEB-2006",
+  "active_ingredients": [
+    {
+      "name": "FAMCICLOVIR",
+      "strength": "250",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "NOVARTIS PHARMACEUTICALS CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "FAMCICLOVIR"
+  ]
+}

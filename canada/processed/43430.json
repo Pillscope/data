@@ -1,0 +1,26 @@
+{
+  "drug_code": "43430",
+  "din": "02225875",
+  "brand_name": "AERRANE",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "29-AUG-2014",
+  "active_ingredients": [
+    {
+      "name": "ISOFLURANE",
+      "strength": "100",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "LIQUID"
+  ],
+  "routes": [
+    "INHALATION"
+  ],
+  "companies": [
+    "BAXTER CORPORATION"
+  ],
+  "status": "APPROVED",
+  "atc": []
+}

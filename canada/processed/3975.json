@@ -1,0 +1,36 @@
+{
+  "drug_code": "3975",
+  "din": "00516414",
+  "brand_name": "BNP",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "05-JUL-2016",
+  "active_ingredients": [
+    {
+      "name": "NEOMYCIN SULFATE",
+      "strength": "5",
+      "unit": "MG"
+    },
+    {
+      "name": "BACITRACIN ZINC",
+      "strength": "400",
+      "unit": "UNIT"
+    },
+    {
+      "name": "POLYMYXIN B SULFATE",
+      "strength": "5000",
+      "unit": "UNIT"
+    }
+  ],
+  "forms": [
+    "OINTMENT"
+  ],
+  "routes": [
+    "OPHTHALMIC"
+  ],
+  "companies": [
+    "VETOQUINOL N A INC"
+  ],
+  "status": "APPROVED",
+  "atc": []
+}

@@ -1,0 +1,28 @@
+{
+  "drug_code": "94749",
+  "din": "02460203",
+  "brand_name": "DYSPORT THERAPEUTIC",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "02-JUN-2017",
+  "active_ingredients": [
+    {
+      "name": "AbobotulinumtoxinA",
+      "strength": "300",
+      "unit": "UNIT"
+    }
+  ],
+  "forms": [
+    "POWDER FOR SOLUTION"
+  ],
+  "routes": [
+    "INTRAMUSCULAR"
+  ],
+  "companies": [
+    "IPSEN BIOPHARM LIMITED"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "BOTULINUM TOXIN"
+  ]
+}

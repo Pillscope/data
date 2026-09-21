@@ -1,0 +1,28 @@
+{
+  "drug_code": "63874",
+  "din": "02240335",
+  "brand_name": "MONUROL",
+  "class": "Human",
+  "descriptor": "SINGLE-DOSE",
+  "last_update": "08-MAR-2018",
+  "active_ingredients": [
+    {
+      "name": "FOSFOMYCIN (FOSFOMYCIN TROMETHAMINE)",
+      "strength": "3",
+      "unit": "G"
+    }
+  ],
+  "forms": [
+    "POWDER"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "PALADIN LABS INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "FOSFOMYCIN"
+  ]
+}

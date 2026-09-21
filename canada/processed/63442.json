@@ -1,0 +1,28 @@
+{
+  "drug_code": "63442",
+  "din": "02239941",
+  "brand_name": "CELEBREX",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "19-DEC-2013",
+  "active_ingredients": [
+    {
+      "name": "CELECOXIB",
+      "strength": "100",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "CAPSULE"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "PFIZER CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "CELECOXIB"
+  ]
+}

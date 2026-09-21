@@ -1,0 +1,28 @@
+{
+  "drug_code": "68334",
+  "din": "02244366",
+  "brand_name": "MEFLOQUINE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "25-AUG-2011",
+  "active_ingredients": [
+    {
+      "name": "MEFLOQUINE (MEFLOQUINE HYDROCHLORIDE)",
+      "strength": "250",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "AA PHARMA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "MEFLOQUINE"
+  ]
+}

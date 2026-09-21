@@ -1,0 +1,28 @@
+{
+  "drug_code": "78924",
+  "din": "02303922",
+  "brand_name": "JANUVIA",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "27-JUN-2012",
+  "active_ingredients": [
+    {
+      "name": "SITAGLIPTIN (SITAGLIPTIN PHOSPHATE MONOHYDRATE)",
+      "strength": "100",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "MERCK CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "SITAGLIPTIN"
+  ]
+}

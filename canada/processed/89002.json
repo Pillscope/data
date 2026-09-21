@@ -1,0 +1,26 @@
+{
+  "drug_code": "89002",
+  "din": "02405202",
+  "brand_name": "PROZINC",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "07-JAN-2014",
+  "active_ingredients": [
+    {
+      "name": "INSULIN (HUMAN)",
+      "strength": "40",
+      "unit": "UNIT"
+    }
+  ],
+  "forms": [
+    "SUSPENSION"
+  ],
+  "routes": [
+    "SUBCUTANEOUS"
+  ],
+  "companies": [
+    "BOEHRINGER INGELHEIM (CANADA) LTD LTEE"
+  ],
+  "status": "APPROVED",
+  "atc": []
+}

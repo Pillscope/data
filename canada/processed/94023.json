@@ -1,0 +1,33 @@
+{
+  "drug_code": "94023",
+  "din": "02453673",
+  "brand_name": "CLINIQUE PEP-START HYDRORUSH MOISTURIZER SPF 20",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "17-MAR-2017",
+  "active_ingredients": [
+    {
+      "name": "AVOBENZONE",
+      "strength": "3",
+      "unit": "%"
+    },
+    {
+      "name": "OCTISALATE",
+      "strength": "5",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "CREAM"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "CLINIQUE LABORATORIES DIST"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "COMBINATIONS OF PROTECTIVES AGAINST UV-RADIATION"
+  ]
+}

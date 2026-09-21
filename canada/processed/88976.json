@@ -1,0 +1,28 @@
+{
+  "drug_code": "88976",
+  "din": "02404923",
+  "brand_name": "APO-MOXIFLOXACIN",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "26-FEB-2016",
+  "active_ingredients": [
+    {
+      "name": "MOXIFLOXACIN (MOXIFLOXACIN HYDROCHLORIDE)",
+      "strength": "400",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "APOTEX INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "MOXIFLOXACIN"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "drug_code": "92825",
+  "din": "02443562",
+  "brand_name": "ADVIL 12 HOUR",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "27-OCT-2016",
+  "active_ingredients": [
+    {
+      "name": "IBUPROFEN",
+      "strength": "600",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET (EXTENDED-RELEASE)"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "PFIZER CONSUMER HEALTHCARE A DIVISION OF PFIZER CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "IBUPROFEN"
+  ]
+}

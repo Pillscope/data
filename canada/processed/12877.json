@@ -1,0 +1,28 @@
+{
+  "drug_code": "12877",
+  "din": "00582883",
+  "brand_name": "PMS-BISACODYL",
+  "class": "Human",
+  "descriptor": "SUPPOSITORIES",
+  "last_update": "29-APR-2015",
+  "active_ingredients": [
+    {
+      "name": "BISACODYL",
+      "strength": "10",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SUPPOSITORY"
+  ],
+  "routes": [
+    "RECTAL"
+  ],
+  "companies": [
+    "PHARMASCIENCE INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "BISACODYL"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "drug_code": "78558",
+  "din": "02300265",
+  "brand_name": "DECONGEST NASAL",
+  "class": "Human",
+  "descriptor": "SPRAY",
+  "last_update": "29-APR-2015",
+  "active_ingredients": [
+    {
+      "name": "XYLOMETAZOLINE HYDROCHLORIDE",
+      "strength": "0.1",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "NASAL"
+  ],
+  "companies": [
+    "TEVA CANADA LIMITED"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "XYLOMETAZOLINE"
+  ]
+}

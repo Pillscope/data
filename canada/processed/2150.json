@@ -1,0 +1,38 @@
+{
+  "drug_code": "2150",
+  "din": "00299596",
+  "brand_name": "CREO-RECTAL ENFANTS/CHILDREN",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "30-APR-2018",
+  "active_ingredients": [
+    {
+      "name": "DIPHENYLPYRALINE HYDROCHLORIDE",
+      "strength": "0.5",
+      "unit": "MG"
+    },
+    {
+      "name": "CAMPHOR",
+      "strength": "2",
+      "unit": "MG"
+    },
+    {
+      "name": "GUAIACOL CARBONATE",
+      "strength": "200",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SUPPOSITORY"
+  ],
+  "routes": [
+    "RECTAL"
+  ],
+  "companies": [
+    "SANDOZ CANADA INCORPORATED"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "COMBINATIONS"
+  ]
+}

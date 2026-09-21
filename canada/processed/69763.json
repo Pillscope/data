@@ -1,0 +1,29 @@
+{
+  "drug_code": "69763",
+  "din": "02245663",
+  "brand_name": "TRIMEBUTINE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "26-MAR-2013",
+  "active_ingredients": [
+    {
+      "name": "TRIMEBUTINE MALEATE",
+      "strength": "100",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "AA PHARMA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "TRIMEBUTINE",
+    "TRIMEBUTINE"
+  ]
+}

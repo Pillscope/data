@@ -1,0 +1,28 @@
+{
+  "drug_code": "94710",
+  "din": "02459779",
+  "brand_name": "REPATHA",
+  "class": "Human",
+  "descriptor": "AUTOMATED MINI-DOSER WITH PREFILLED CARTRIDGE",
+  "last_update": "19-APR-2017",
+  "active_ingredients": [
+    {
+      "name": "EVOLOCUMAB",
+      "strength": "120",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "SUBCUTANEOUS"
+  ],
+  "companies": [
+    "AMGEN CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "EVOLOCUMAB"
+  ]
+}

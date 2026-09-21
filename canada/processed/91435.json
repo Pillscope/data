@@ -1,0 +1,28 @@
+{
+  "drug_code": "91435",
+  "din": "02429950",
+  "brand_name": "M-ASA 80 MG CROQUABLE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "25-FEB-2015",
+  "active_ingredients": [
+    {
+      "name": "ACETYLSALICYLIC ACID",
+      "strength": "80",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET (CHEWABLE)"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "MANTRA PHARMA INC"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "ACETYLSALICYLIC ACID"
+  ]
+}

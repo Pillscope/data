@@ -1,0 +1,33 @@
+{
+  "drug_code": "80391",
+  "din": "02318423",
+  "brand_name": "ITCH RELIEF LOTION",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "31-OCT-2014",
+  "active_ingredients": [
+    {
+      "name": "PRAMOXINE HYDROCHLORIDE",
+      "strength": "1.0",
+      "unit": "%"
+    },
+    {
+      "name": "ZINC ACETATE",
+      "strength": "0.1",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "LOTION"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "CRLS"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "PRAMOCAINE"
+  ]
+}

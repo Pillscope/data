@@ -1,0 +1,33 @@
+{
+  "drug_code": "96139",
+  "din": "02472112",
+  "brand_name": "LONSURF",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "20-APR-2018",
+  "active_ingredients": [
+    {
+      "name": "TRIFLURIDINE",
+      "strength": "20",
+      "unit": "MG"
+    },
+    {
+      "name": "TIPIRACIL (TIPIRACIL HYDROCHLORIDE)",
+      "strength": "8.19",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "TAIHO PHARMA CANADA, INC."
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "TRIFLURIDINE, COMBINATIONS"
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "drug_code": "3888",
+  "din": "00509035",
+  "brand_name": "PINK EYE GUARD",
+  "class": "Veterinary",
+  "descriptor": "SOLUTION",
+  "last_update": "29-MAY-2013",
+  "active_ingredients": [
+    {
+      "name": "GENTIAN VIOLET",
+      "strength": "2",
+      "unit": "MG"
+    },
+    {
+      "name": "UREA",
+      "strength": "12",
+      "unit": "MG"
+    },
+    {
+      "name": "BORIC ACID",
+      "strength": "5",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SPRAY"
+  ],
+  "routes": [
+    "OPHTHALMIC",
+    "TOPICAL"
+  ],
+  "companies": [
+    "DOMINION VETERINARY LABORATORIES LTD."
+  ],
+  "status": "MARKETED",
+  "atc": []
+}

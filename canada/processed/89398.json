@@ -1,0 +1,28 @@
+{
+  "drug_code": "89398",
+  "din": "02409267",
+  "brand_name": "ERIVEDGE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "14-AUG-2013",
+  "active_ingredients": [
+    {
+      "name": "Vismodegib",
+      "strength": "150",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "CAPSULE"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "HOFFMANN-LA ROCHE LIMITED"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "VISMODEGIB"
+  ]
+}

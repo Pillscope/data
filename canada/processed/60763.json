@@ -1,0 +1,26 @@
+{
+  "drug_code": "60763",
+  "din": "02237431",
+  "brand_name": "SALINOMYCIN 60 PREMIX",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "13-FEB-2008",
+  "active_ingredients": [
+    {
+      "name": "SALINOMYCIN SODIUM",
+      "strength": "60",
+      "unit": "G"
+    }
+  ],
+  "forms": [
+    "DRUG PREMIX"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "BIO AGRI MIX LP"
+  ],
+  "status": "APPROVED",
+  "atc": []
+}

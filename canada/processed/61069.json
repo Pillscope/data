@@ -1,0 +1,26 @@
+{
+  "drug_code": "61069",
+  "din": "02237715",
+  "brand_name": "METACAM ORAL SUSPENSION",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "14-DEC-2012",
+  "active_ingredients": [
+    {
+      "name": "MELOXICAM",
+      "strength": "1.5",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SUSPENSION"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "BOEHRINGER INGELHEIM (CANADA) LTD LTEE"
+  ],
+  "status": "APPROVED",
+  "atc": []
+}

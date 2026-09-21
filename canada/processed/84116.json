@@ -1,0 +1,36 @@
+{
+  "drug_code": "84116",
+  "din": "02355973",
+  "brand_name": "P.G. 600 - 5D",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "11-MAR-2014",
+  "active_ingredients": [
+    {
+      "name": "CHORIONIC GONADOTROPIN",
+      "strength": "1000",
+      "unit": "UNIT"
+    },
+    {
+      "name": "STERILE WATER (DILUENT)",
+      "strength": "25",
+      "unit": "ML"
+    },
+    {
+      "name": "GONADOTROPHIN SERUM (PMSG)",
+      "strength": "2000",
+      "unit": "UNIT"
+    }
+  ],
+  "forms": [
+    "POWDER FOR SOLUTION"
+  ],
+  "routes": [
+    "SUBCUTANEOUS"
+  ],
+  "companies": [
+    "INTERVET CANADA CORP"
+  ],
+  "status": "APPROVED",
+  "atc": []
+}

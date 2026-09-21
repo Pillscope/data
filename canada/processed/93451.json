@@ -1,0 +1,28 @@
+{
+  "drug_code": "93451",
+  "din": "02448777",
+  "brand_name": "AURO-ENTECAVIR",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "06-FEB-2017",
+  "active_ingredients": [
+    {
+      "name": "ENTECAVIR (ENTECAVIR MONOHYDRATE)",
+      "strength": "0.5",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "AURO PHARMA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "ENTECAVIR"
+  ]
+}

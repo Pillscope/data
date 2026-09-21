@@ -1,0 +1,28 @@
+{
+  "drug_code": "93543",
+  "din": "02449609",
+  "brand_name": "OPTI-TEARS RED EYE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "12-FEB-2018",
+  "active_ingredients": [
+    {
+      "name": "NAPHAZOLINE HYDROCHLORIDE",
+      "strength": "0.1",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "OPHTHALMIC"
+  ],
+  "companies": [
+    "ALCON CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "NAPHAZOLINE"
+  ]
+}

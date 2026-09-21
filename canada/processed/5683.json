@@ -1,0 +1,28 @@
+{
+  "drug_code": "5683",
+  "din": "00572829",
+  "brand_name": "NITROGEN 100%",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "11-JUL-2006",
+  "active_ingredients": [
+    {
+      "name": "NITROGEN",
+      "strength": "100",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "GAS"
+  ],
+  "routes": [
+    "INHALATION"
+  ],
+  "companies": [
+    "AIR LIQUIDE CANADA INC."
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "NITROGEN"
+  ]
+}

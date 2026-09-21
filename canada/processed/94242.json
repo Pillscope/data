@@ -1,0 +1,28 @@
+{
+  "drug_code": "94242",
+  "din": "02455609",
+  "brand_name": "CHOLESTYRAMINE-ODAN",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "29-DEC-2016",
+  "active_ingredients": [
+    {
+      "name": "CHOLESTYRAMINE RESIN",
+      "strength": "4",
+      "unit": "G"
+    }
+  ],
+  "forms": [
+    "POWDER FOR SUSPENSION"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "ODAN LABORATORIES LTD"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "COLESTYRAMINE"
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "drug_code": "85754",
+  "din": "02372428",
+  "brand_name": "NON STANDARDIZED ALLERGENIC EXTRACTS - NON POLLENS",
+  "class": "Human",
+  "descriptor": "THE POTENCY IS EXPRESSED IN PNU (PROTEIN NITROGEN UNITS) PER ML UP TO AND INCLUDING UPPER LIMIT 40,000 PNU/ML",
+  "last_update": "09-FEB-2012",
+  "active_ingredients": [
+    {
+      "name": "NON POLLEN",
+      "strength": "40000",
+      "unit": "UNIT"
+    }
+  ],
+  "forms": [
+    "LIQUID"
+  ],
+  "routes": [
+    "INTRADERMAL",
+    "SUBCUTANEOUS"
+  ],
+  "companies": [
+    "GREER LABORATORIES INC"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "VARIOUS"
+  ]
+}

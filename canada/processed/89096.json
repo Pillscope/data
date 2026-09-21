@@ -1,0 +1,28 @@
+{
+  "drug_code": "89096",
+  "din": "02406233",
+  "brand_name": "UVADEX",
+  "class": "Human",
+  "descriptor": "TO BE ADMINSTERED VIA THE UVAR XTS OR THERAKOS CELLEX PHOTOPHERESIS SYSTEMS",
+  "last_update": "12-DEC-2013",
+  "active_ingredients": [
+    {
+      "name": "METHOXSALEN",
+      "strength": "20",
+      "unit": "MCG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "EXTRACORPOREAL"
+  ],
+  "companies": [
+    "THERAKOS INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "METHOXALEN, SYSTEMIC"
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "drug_code": "4714",
+  "din": "00518654",
+  "brand_name": "MU-SE INJECTABLE",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "15-MAR-2011",
+  "active_ingredients": [
+    {
+      "name": "VITAMIN E (D-ALPHA TOCOPHERYL ACETATE)",
+      "strength": "68",
+      "unit": "UNIT"
+    },
+    {
+      "name": "SELENIUM (SODIUM SELENITE)",
+      "strength": "5",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "INTRAMUSCULAR",
+    "SUBCUTANEOUS"
+  ],
+  "companies": [
+    "INTERVET CANADA CORP"
+  ],
+  "status": "APPROVED",
+  "atc": []
+}

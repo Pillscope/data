@@ -1,0 +1,28 @@
+{
+  "drug_code": "43604",
+  "din": "02035626",
+  "brand_name": "OPTIRAY 320 (ULTRAJECT)",
+  "class": "Human",
+  "descriptor": "PREFILLED SYRINGES",
+  "last_update": "14-MAY-2015",
+  "active_ingredients": [
+    {
+      "name": "IOVERSOL",
+      "strength": "68",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "INTRAVASCULAR"
+  ],
+  "companies": [
+    "LIEBEL-FLARSHEIM CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "IOVERSOL"
+  ]
+}

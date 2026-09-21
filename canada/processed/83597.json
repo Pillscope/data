@@ -1,0 +1,28 @@
+{
+  "drug_code": "83597",
+  "din": "02350769",
+  "brand_name": "NAPROXEN",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "13-APR-2017",
+  "active_ingredients": [
+    {
+      "name": "NAPROXEN",
+      "strength": "375",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "SANIS HEALTH INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "NAPROXEN"
+  ]
+}

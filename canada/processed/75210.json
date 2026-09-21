@@ -1,0 +1,28 @@
+{
+  "drug_code": "75210",
+  "din": "02266695",
+  "brand_name": "LITHMAX",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "25-JAN-2011",
+  "active_ingredients": [
+    {
+      "name": "LITHIUM CARBONATE",
+      "strength": "300",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET (EXTENDED-RELEASE)"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "AA PHARMA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "LITHIUM"
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "drug_code": "37454",
+  "din": "02226383",
+  "brand_name": "TEVA-PROCTOSONE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "22-JAN-2018",
+  "active_ingredients": [
+    {
+      "name": "DIBUCAINE HYDROCHLORIDE",
+      "strength": "0.5",
+      "unit": "%"
+    },
+    {
+      "name": "ESCULIN",
+      "strength": "1",
+      "unit": "%"
+    },
+    {
+      "name": "FRAMYCETIN SULFATE",
+      "strength": "1",
+      "unit": "%"
+    },
+    {
+      "name": "HYDROCORTISONE (HYDROCORTISONE ACETATE)",
+      "strength": "0.5",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "OINTMENT"
+  ],
+  "routes": [
+    "RECTAL"
+  ],
+  "companies": [
+    "TEVA CANADA LIMITED"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "HYDROCORTISONE"
+  ]
+}

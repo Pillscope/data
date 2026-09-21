@@ -1,0 +1,29 @@
+{
+  "drug_code": "72002",
+  "din": "02247724",
+  "brand_name": "GAMUNEX",
+  "class": "Human",
+  "descriptor": "SINGLE USE VIALS",
+  "last_update": "04-OCT-2012",
+  "active_ingredients": [
+    {
+      "name": "IMMUNE GLOBULIN (HUMAN)",
+      "strength": "10",
+      "unit": "G"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "INTRAVENOUS",
+    "SUBCUTANEOUS"
+  ],
+  "companies": [
+    "GRIFOLS THERAPEUTICS LLC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "IMMUNOGLOBULINS, NORMAL HUMAN, FOR INTRAVASC. ADM."
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "drug_code": "3464",
+  "din": "00402737",
+  "brand_name": "APO OXAZEPAM TAB 30MG",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "07-MAR-2006",
+  "active_ingredients": [
+    {
+      "name": "OXAZEPAM",
+      "strength": "30",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "APOTEX INC"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "OXAZEPAM"
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "drug_code": "77753",
+  "din": "02292165",
+  "brand_name": "DUODOPA",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "12-MAY-2014",
+  "active_ingredients": [
+    {
+      "name": "CARBIDOPA (CARBIDOPA MONOHYDRATE)",
+      "strength": "5",
+      "unit": "MG"
+    },
+    {
+      "name": "LEVODOPA",
+      "strength": "20",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "GEL"
+  ],
+  "routes": [
+    "INTRAINTESTINAL (UPPER)"
+  ],
+  "companies": [
+    "ABBVIE CORPORATION"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "LEVODOPA AND DECARBOXYLASE INHIBITOR"
+  ]
+}

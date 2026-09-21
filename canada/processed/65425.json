@@ -1,0 +1,38 @@
+{
+  "drug_code": "65425",
+  "din": "02241762",
+  "brand_name": "SPF 15 PERFORMANCE BODYCARE SUNSCREEN SPRAY",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "14-SEP-2007",
+  "active_ingredients": [
+    {
+      "name": "AVOBENZONE",
+      "strength": "2",
+      "unit": "%"
+    },
+    {
+      "name": "OCTISALATE",
+      "strength": "5",
+      "unit": "%"
+    },
+    {
+      "name": "OCTINOXATE",
+      "strength": "7.5",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "LIQUID"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "KINESYS PHARMACEUTICAL INC"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "COMBINATIONS OF PROTECTIVES AGAINST UV-RADIATION"
+  ]
+}

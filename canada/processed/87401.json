@@ -1,0 +1,38 @@
+{
+  "drug_code": "87401",
+  "din": "02388480",
+  "brand_name": "MARCELLE REVIVAL INTENSE ANTI-AGING/ANTI-AGE INTENSE MOISTURIZING LOTION SPF 15/LOTION HYDRATANTE FPS 15",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "18-APR-2013",
+  "active_ingredients": [
+    {
+      "name": "OXYBENZONE",
+      "strength": "4.0",
+      "unit": "%"
+    },
+    {
+      "name": "ENSULIZOLE",
+      "strength": "2.5",
+      "unit": "%"
+    },
+    {
+      "name": "OCTINOXATE",
+      "strength": "7.5",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "LOTION"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "GROUPE MARCELLE INC"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "COMBINATIONS OF PROTECTIVES AGAINST UV-RADIATION"
+  ]
+}

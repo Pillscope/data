@@ -1,0 +1,27 @@
+{
+  "drug_code": "3330",
+  "din": "00465305",
+  "brand_name": "BANAMINE",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "10-JAN-2013",
+  "active_ingredients": [
+    {
+      "name": "FLUNIXIN (FLUNIXIN MEGLUMINE)",
+      "strength": "50",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "INTRAMUSCULAR",
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "INTERVET CANADA CORP"
+  ],
+  "status": "APPROVED",
+  "atc": []
+}

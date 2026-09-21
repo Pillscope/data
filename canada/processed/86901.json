@@ -1,0 +1,28 @@
+{
+  "drug_code": "86901",
+  "din": "02383241",
+  "brand_name": "ACH-FLUOXETINE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "20-JUL-2016",
+  "active_ingredients": [
+    {
+      "name": "FLUOXETINE (FLUOXETINE HYDROCHLORIDE)",
+      "strength": "20",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "CAPSULE"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "ACCORD HEALTHCARE INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "FLUOXETINE"
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "drug_code": "5700",
+  "din": "00270512",
+  "brand_name": "TRESADERM",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "15-JAN-2018",
+  "active_ingredients": [
+    {
+      "name": "DEXAMETHASONE",
+      "strength": "1",
+      "unit": "MG"
+    },
+    {
+      "name": "THIABENDAZOLE",
+      "strength": "40",
+      "unit": "MG"
+    },
+    {
+      "name": "NEOMYCIN (NEOMYCIN SULFATE)",
+      "strength": "3.2",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "OTIC",
+    "TOPICAL"
+  ],
+  "companies": [
+    "MERIAL CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": []
+}

@@ -1,0 +1,91 @@
+{
+  "drug_code": "5698",
+  "din": "00615706",
+  "brand_name": "SULECTIM PLUS",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "12-JAN-2018",
+  "active_ingredients": [
+    {
+      "name": "SULFAMETHAZINE",
+      "strength": "500",
+      "unit": "MG"
+    },
+    {
+      "name": "SULFANILAMIDE",
+      "strength": "500",
+      "unit": "MG"
+    },
+    {
+      "name": "SULFAMERAZINE",
+      "strength": "500",
+      "unit": "MG"
+    },
+    {
+      "name": "NEOMYCIN (NEOMYCIN SULFATE)",
+      "strength": "100",
+      "unit": "MG"
+    },
+    {
+      "name": "MAGNESIUM OXIDE",
+      "strength": "8",
+      "unit": "MG"
+    },
+    {
+      "name": "VITAMIN D",
+      "strength": "2000",
+      "unit": "UNIT"
+    },
+    {
+      "name": "VITAMIN A",
+      "strength": "10000",
+      "unit": "UNIT"
+    },
+    {
+      "name": "CALCIUM CARBONATE",
+      "strength": "14",
+      "unit": "MG"
+    },
+    {
+      "name": "STREPTOMYCIN (STREPTOMYCIN SULFATE)",
+      "strength": "100",
+      "unit": "MG"
+    },
+    {
+      "name": "SODIUM CHLORIDE",
+      "strength": "345",
+      "unit": "MG"
+    },
+    {
+      "name": "SODIUM ACETATE",
+      "strength": "380",
+      "unit": "MG"
+    },
+    {
+      "name": "VITAMIN K (MENADIONE SODIUM BISULFITE)",
+      "strength": "10",
+      "unit": "MG"
+    },
+    {
+      "name": "POTASSIUM ACETATE",
+      "strength": "62.5",
+      "unit": "MG"
+    },
+    {
+      "name": "SULFATHIAZOLE (SULFATHIAZOLE SODIUM)",
+      "strength": "1000",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "BOLUS"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "REMEDY ANIMAL HEALTH PRODUCTS LTD"
+  ],
+  "status": "APPROVED",
+  "atc": []
+}

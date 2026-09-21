@@ -1,0 +1,28 @@
+{
+  "drug_code": "83694",
+  "din": "02351684",
+  "brand_name": "DICLOFENAC K",
+  "class": "Human",
+  "descriptor": "FILM-COATED TABLETS",
+  "last_update": "05-MAY-2015",
+  "active_ingredients": [
+    {
+      "name": "DICLOFENAC POTASSIUM",
+      "strength": "50",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "SANIS HEALTH INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "DICLOFENAC"
+  ]
+}

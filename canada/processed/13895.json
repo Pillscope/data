@@ -1,0 +1,33 @@
+{
+  "drug_code": "13895",
+  "din": "02014351",
+  "brand_name": "CARBON MONOXIDE, COMPRESSED AIR MEDICAL G.M.",
+  "class": "Human",
+  "descriptor": "CO:0.005-0.3% BALANCED WITH AIR",
+  "last_update": "14-JUL-2010",
+  "active_ingredients": [
+    {
+      "name": "AIR",
+      "strength": "99.7",
+      "unit": "%"
+    },
+    {
+      "name": "CARBON MONOXIDE",
+      "strength": "0.3",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "GAS"
+  ],
+  "routes": [
+    "INHALATION"
+  ],
+  "companies": [
+    "PRAXAIR CANADA INC"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "MEDICAL AIR"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "drug_code": "89406",
+  "din": "02409356",
+  "brand_name": "TIGECYCLINE",
+  "class": "Human",
+  "descriptor": "SINGLE USE VIALS",
+  "last_update": "24-OCT-2014",
+  "active_ingredients": [
+    {
+      "name": "TIGECYCLINE",
+      "strength": "50",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "POWDER FOR SOLUTION"
+  ],
+  "routes": [
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "APOTEX INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "TIGECYCLINE"
+  ]
+}

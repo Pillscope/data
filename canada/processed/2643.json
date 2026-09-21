@@ -1,0 +1,26 @@
+{
+  "drug_code": "2643",
+  "din": "00398160",
+  "brand_name": "MINERAL OIL",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "18-AUG-2008",
+  "active_ingredients": [
+    {
+      "name": "MINERAL OIL LIGHT",
+      "strength": "100",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "LIQUID"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "VETOQUINOL N A INC"
+  ],
+  "status": "APPROVED",
+  "atc": []
+}

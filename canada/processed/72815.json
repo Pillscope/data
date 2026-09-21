@@ -1,0 +1,33 @@
+{
+  "drug_code": "72815",
+  "din": "02248463",
+  "brand_name": "VIONEXUS NO-RINSE SPRAY",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "13-JUL-2012",
+  "active_ingredients": [
+    {
+      "name": "ALCOHOL ANHYDROUS",
+      "strength": "65.87",
+      "unit": "%"
+    },
+    {
+      "name": "BENZALKONIUM CHLORIDE",
+      "strength": "0.10",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "SPRAY"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "METREX RESEARCH"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "BENZALKONIUM, COMBINATIONS"
+  ]
+}

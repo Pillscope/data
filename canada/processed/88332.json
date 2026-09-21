@@ -1,0 +1,28 @@
+{
+  "drug_code": "88332",
+  "din": "02398370",
+  "brand_name": "PMS-GALANTAMINE ER",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "14-JUN-2013",
+  "active_ingredients": [
+    {
+      "name": "GALANTAMINE (GALANTAMINE HYDROBROMIDE)",
+      "strength": "8",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "CAPSULE (EXTENDED RELEASE)"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "PHARMASCIENCE INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "GALANTAMINE"
+  ]
+}

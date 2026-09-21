@@ -1,0 +1,28 @@
+{
+  "drug_code": "78992",
+  "din": "02304651",
+  "brand_name": "CHEWABLE DAILY LOW DOSE ASA",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "06-JAN-2015",
+  "active_ingredients": [
+    {
+      "name": "ACETYLSALICYLIC ACID",
+      "strength": "81",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET (CHEWABLE)"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "PHARMASCIENCE INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "ACETYLSALICYLIC ACID"
+  ]
+}

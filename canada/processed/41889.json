@@ -1,0 +1,39 @@
+{
+  "drug_code": "41889",
+  "din": "00888591",
+  "brand_name": "MEDI-DAN SHAMPOO",
+  "class": "Human",
+  "descriptor": "SOLUTION",
+  "last_update": "09-JUL-2012",
+  "active_ingredients": [
+    {
+      "name": "SALICYLIC ACID",
+      "strength": "2.0",
+      "unit": "%"
+    },
+    {
+      "name": "COAL TAR",
+      "strength": "4.25",
+      "unit": "%"
+    },
+    {
+      "name": "BENZALKONIUM CHLORIDE",
+      "strength": "0.2",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "SHAMPOO"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "MAHDEEN MEDICEUTICALS LTD"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "TARS",
+    "TARS"
+  ]
+}

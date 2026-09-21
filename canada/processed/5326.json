@@ -1,0 +1,28 @@
+{
+  "drug_code": "5326",
+  "din": "00587737",
+  "brand_name": "HUMULIN N",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "08-JUN-2016",
+  "active_ingredients": [
+    {
+      "name": "INSULIN NPH HUMAN DNA ORIGIN",
+      "strength": "100",
+      "unit": "UNIT"
+    }
+  ],
+  "forms": [
+    "SUSPENSION"
+  ],
+  "routes": [
+    "SUBCUTANEOUS"
+  ],
+  "companies": [
+    "ELI LILLY CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "INSULIN (HUMAN)"
+  ]
+}

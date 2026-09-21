@@ -1,0 +1,33 @@
+{
+  "drug_code": "13020",
+  "din": "01940279",
+  "brand_name": "E-SEL INJECTION",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "24-JUL-2000",
+  "active_ingredients": [
+    {
+      "name": "D-ALPHA TOCOPHERYL ACETATE",
+      "strength": "136",
+      "unit": "UNIT"
+    },
+    {
+      "name": "SELENIUM (SODIUM SELENITE)",
+      "strength": "3",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "LIQUID"
+  ],
+  "routes": [
+    "INTRAMUSCULAR"
+  ],
+  "companies": [
+    "CITADEL ANIMAL HEALTH"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "VITAMINS WITH MINERALS"
+  ]
+}

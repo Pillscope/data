@@ -1,0 +1,33 @@
+{
+  "drug_code": "78758",
+  "din": "02302241",
+  "brand_name": "DIAPER RASH OINTMENT",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "19-JAN-2016",
+  "active_ingredients": [
+    {
+      "name": "ZINC OXIDE",
+      "strength": "15",
+      "unit": "%"
+    },
+    {
+      "name": "WHITE PETROLATUM",
+      "strength": "72",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "OINTMENT"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "CRLS"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "ZINC PRODUCTS"
+  ]
+}

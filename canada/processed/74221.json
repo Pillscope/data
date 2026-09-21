@@ -1,0 +1,26 @@
+{
+  "drug_code": "74221",
+  "din": "02256983",
+  "brand_name": "OXYTETRACYCLINE HCL SOLUBLE POWDER 1000",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "13-DEC-2017",
+  "active_ingredients": [
+    {
+      "name": "OXYTETRACYCLINE HYDROCHLORIDE",
+      "strength": "1000",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "POWDER FOR SOLUTION"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "BIO AGRI MIX LP"
+  ],
+  "status": "MARKETED",
+  "atc": []
+}

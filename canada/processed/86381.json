@@ -1,0 +1,33 @@
+{
+  "drug_code": "86381",
+  "din": "02378027",
+  "brand_name": "ANTI-AGING CREAM SPF 15",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "22-SEP-2015",
+  "active_ingredients": [
+    {
+      "name": "AVOBENZONE",
+      "strength": "1.50",
+      "unit": "%"
+    },
+    {
+      "name": "OCTINOXATE",
+      "strength": "2.50",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "CREAM"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "SANOFI CONSUMER HEALTH INC SANOFI SANTE GRAND PUBLIC INC"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "COMBINATIONS OF PROTECTIVES AGAINST UV-RADIATION"
+  ]
+}

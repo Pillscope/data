@@ -1,0 +1,28 @@
+{
+  "drug_code": "78553",
+  "din": "02300214",
+  "brand_name": "SEROQUEL XR",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "12-AUG-2008",
+  "active_ingredients": [
+    {
+      "name": "QUETIAPINE (QUETIAPINE FUMARATE)",
+      "strength": "400",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET (EXTENDED-RELEASE)"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "ASTRAZENECA CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "QUETIAPINE"
+  ]
+}

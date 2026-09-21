@@ -1,0 +1,28 @@
+{
+  "drug_code": "78165",
+  "din": "02296314",
+  "brand_name": "ELAPRASE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "15-AUG-2007",
+  "active_ingredients": [
+    {
+      "name": "IDURSULFASE",
+      "strength": "2",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "SHIRE HUMAN GENETIC THERAPIES INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "IDURSULFASE"
+  ]
+}

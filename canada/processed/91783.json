@@ -1,0 +1,28 @@
+{
+  "drug_code": "91783",
+  "din": "02433443",
+  "brand_name": "JAMP-NYSTATIN ORAL SUSPENSION USP",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "20-JAN-2017",
+  "active_ingredients": [
+    {
+      "name": "NYSTATIN",
+      "strength": "   100000",
+      "unit": "UNIT"
+    }
+  ],
+  "forms": [
+    "SUSPENSION"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "JAMP PHARMA CORPORATION"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "NYSTATIN"
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "drug_code": "63492",
+  "din": "02239985",
+  "brand_name": "EAR CLEANSING SOLUTION",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "29-JUL-2009",
+  "active_ingredients": [
+    {
+      "name": "ALCOHOL DENATURED",
+      "strength": "10",
+      "unit": "%"
+    },
+    {
+      "name": "LACTIC ACID",
+      "strength": "1.76",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "OTIC"
+  ],
+  "companies": [
+    "VETOQUINOL N A INC"
+  ],
+  "status": "APPROVED",
+  "atc": []
+}

@@ -1,0 +1,28 @@
+{
+  "drug_code": "91988",
+  "din": "02435535",
+  "brand_name": "JAMP-AMITRIPTYLINE TABLETS",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "20-JAN-2017",
+  "active_ingredients": [
+    {
+      "name": "AMITRIPTYLINE HYDROCHLORIDE",
+      "strength": "25",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "JAMP PHARMA CORPORATION"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "AMITRIPTYLINE"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "drug_code": "10908",
+  "din": "00893617",
+  "brand_name": "APO-CAPTO TAB 50MG",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "21-SEP-2009",
+  "active_ingredients": [
+    {
+      "name": "CAPTOPRIL",
+      "strength": "50",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "APOTEX INC"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "CAPTOPRIL"
+  ]
+}

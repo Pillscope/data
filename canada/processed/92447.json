@@ -1,0 +1,33 @@
+{
+  "drug_code": "92447",
+  "din": "02440083",
+  "brand_name": "CLINIQUE SMART SPF 15 CUSTOM-REPAIR MOISTURIZER COMBINATION OILY TO OILY",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "08-FEB-2016",
+  "active_ingredients": [
+    {
+      "name": "AVOBENZONE",
+      "strength": "3",
+      "unit": "%"
+    },
+    {
+      "name": "OCTISALATE",
+      "strength": "5",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "CREAM"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "CLINIQUE LABORATORIES DIST"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "COMBINATIONS OF PROTECTIVES AGAINST UV-RADIATION"
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "drug_code": "86166",
+  "din": "02376199",
+  "brand_name": "ULTIMATE MATCH LIQUID FOUNDATION SPF 15",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "17-JAN-2014",
+  "active_ingredients": [
+    {
+      "name": "OXYBENZONE",
+      "strength": "2",
+      "unit": "%"
+    },
+    {
+      "name": "OCTINOXATE",
+      "strength": "6",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "LOTION"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "MARKWINS BEAUTY PRODUCTS INC"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "COMBINATIONS OF PROTECTIVES AGAINST UV-RADIATION"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "drug_code": "1812",
+  "din": "00282081",
+  "brand_name": "LANVIS",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "11-JAN-2017",
+  "active_ingredients": [
+    {
+      "name": "THIOGUANINE",
+      "strength": "40",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "ASPEN PHARMACARE CANADA INC."
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "TIOGUANINE"
+  ]
+}

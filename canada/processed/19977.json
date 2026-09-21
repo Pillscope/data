@@ -1,0 +1,31 @@
+{
+  "drug_code": "19977",
+  "din": "02162830",
+  "brand_name": "SYNOVEX PLUS",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "28-APR-2017",
+  "active_ingredients": [
+    {
+      "name": "TRENBOLONE ACETATE",
+      "strength": "200",
+      "unit": "MG"
+    },
+    {
+      "name": "ESTRADIOL BENZOATE",
+      "strength": "28",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "IMPLANT"
+  ],
+  "routes": [
+    "SUBCUTANEOUS"
+  ],
+  "companies": [
+    "ZOETIS CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": []
+}

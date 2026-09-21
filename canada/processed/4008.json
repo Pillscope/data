@@ -1,0 +1,33 @@
+{
+  "drug_code": "4008",
+  "din": "00513997",
+  "brand_name": "SINEMET 100/25",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "09-MAY-2008",
+  "active_ingredients": [
+    {
+      "name": "CARBIDOPA",
+      "strength": "25",
+      "unit": "MG"
+    },
+    {
+      "name": "LEVODOPA",
+      "strength": "100",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "MERCK CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "LEVODOPA AND DECARBOXYLASE INHIBITOR"
+  ]
+}

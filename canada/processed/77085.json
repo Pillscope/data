@@ -1,0 +1,28 @@
+{
+  "drug_code": "77085",
+  "din": "02285347",
+  "brand_name": "OPTIM 33 TB WIPES",
+  "class": "Disinfectant",
+  "descriptor": "",
+  "last_update": "17-OCT-2017",
+  "active_ingredients": [
+    {
+      "name": "HYDROGEN PEROXIDE",
+      "strength": "0.5",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "WIPE"
+  ],
+  "routes": [
+    "DISINFECTANT (Hospital/HC Facilities)"
+  ],
+  "companies": [
+    "VIROX TECHNOLOGIES INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "TECHNICAL DISINFECTANTS"
+  ]
+}

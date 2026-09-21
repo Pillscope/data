@@ -1,0 +1,28 @@
+{
+  "drug_code": "86147",
+  "din": "02376016",
+  "brand_name": "IMODIUM LIQUI-GELS",
+  "class": "Human",
+  "descriptor": "LACTOSE FREE",
+  "last_update": "12-JUL-2013",
+  "active_ingredients": [
+    {
+      "name": "LOPERAMIDE HYDROCHLORIDE",
+      "strength": "2",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "CAPSULE"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "MCNEIL CONSUMER HEALTHCARE DIVISION OF JOHNSON & JOHNSON INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "LOPERAMIDE"
+  ]
+}

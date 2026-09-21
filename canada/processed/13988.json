@@ -1,0 +1,38 @@
+{
+  "drug_code": "13988",
+  "din": "02016885",
+  "brand_name": "DURR SYSTEM-HYGIENE FD 322 DISINF.HAND &ANG.",
+  "class": "Disinfectant",
+  "descriptor": "",
+  "last_update": "25-JUN-2013",
+  "active_ingredients": [
+    {
+      "name": "PROPYL ALCOHOL",
+      "strength": "32",
+      "unit": "%"
+    },
+    {
+      "name": "ALCOHOL ANHYDROUS",
+      "strength": "26",
+      "unit": "%"
+    },
+    {
+      "name": "BENZYL DI-HYDROXYETHYL-COCOALKYL-AMMONIUM CHL",
+      "strength": "0.05",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "LIQUID"
+  ],
+  "routes": [
+    "DISINFECTANT (Medical Instruments)"
+  ],
+  "companies": [
+    "DURR DENTAL AG OROCHEMIE GMBH + CO. KG DIVISION"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "TECHNICAL DISINFECTANTS"
+  ]
+}

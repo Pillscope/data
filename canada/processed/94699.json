@@ -1,0 +1,28 @@
+{
+  "drug_code": "94699",
+  "din": "02459698",
+  "brand_name": "ORFADIN",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "31-MAY-2017",
+  "active_ingredients": [
+    {
+      "name": "NITISINONE",
+      "strength": "2",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "CAPSULE"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "SWEDISH ORPHAN BIOVITRUM AB (PUBL)"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "NITISINONE"
+  ]
+}

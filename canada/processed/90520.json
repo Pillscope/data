@@ -1,0 +1,31 @@
+{
+  "drug_code": "90520",
+  "din": "02420678",
+  "brand_name": "RODAN+FIELDS UNBLEMISH",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "30-OCT-2015",
+  "active_ingredients": [
+    {
+      "name": "BENZOYL PEROXIDE",
+      "strength": "2.5",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "GEL",
+    "KIT",
+    "LOTION",
+    "CREAM"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "RODAN & FIELDS LLC"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "BENZOYL PEROXIDE"
+  ]
+}

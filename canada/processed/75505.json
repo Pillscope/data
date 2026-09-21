@@ -1,0 +1,28 @@
+{
+  "drug_code": "75505",
+  "din": "02269694",
+  "brand_name": "QFS ANTIMICROBIAL HAND SOAP WITH TRICLOSAN",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "11-JUL-2012",
+  "active_ingredients": [
+    {
+      "name": "TRICLOSAN",
+      "strength": "0.3",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "GOJO INDUSTRIES, INC."
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "TRICLOSAN"
+  ]
+}

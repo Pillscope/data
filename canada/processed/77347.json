@@ -1,0 +1,28 @@
+{
+  "drug_code": "77347",
+  "din": "02288087",
+  "brand_name": "SANDOZ ALENDRONATE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "28-SEP-2016",
+  "active_ingredients": [
+    {
+      "name": "ALENDRONIC ACID (ALENDRONATE SODIUM)",
+      "strength": "10",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "SANDOZ CANADA INCORPORATED"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "ALENDRONIC ACID"
+  ]
+}

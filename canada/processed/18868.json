@@ -1,0 +1,29 @@
+{
+  "drug_code": "18868",
+  "din": "02129043",
+  "brand_name": "ORGARAN",
+  "class": "Human",
+  "descriptor": "(1250 UNIT/ML)",
+  "last_update": "12-FEB-2018",
+  "active_ingredients": [
+    {
+      "name": "DANAPAROID SODIUM",
+      "strength": "750",
+      "unit": "UNIT"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "INTRAVENOUS",
+    "SUBCUTANEOUS"
+  ],
+  "companies": [
+    "ASPEN PHARMACARE CANADA INC."
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "DANAPAROID"
+  ]
+}

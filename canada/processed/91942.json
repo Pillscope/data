@@ -1,0 +1,28 @@
+{
+  "drug_code": "91942",
+  "din": "02435144",
+  "brand_name": "CHILDREN'S TYLENOL FEVER & SORE THROAT PAIN",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "26-AUG-2015",
+  "active_ingredients": [
+    {
+      "name": "ACETAMINOPHEN",
+      "strength": "160",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET (CHEWABLE)"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "MCNEIL CONSUMER HEALTHCARE DIVISION OF JOHNSON & JOHNSON INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "ACETAMINOPHEN (PARACETAMOL)"
+  ]
+}

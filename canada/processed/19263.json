@@ -1,0 +1,28 @@
+{
+  "drug_code": "19263",
+  "din": "02154730",
+  "brand_name": "CARBON DIOXIDE USP",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "29-APR-2015",
+  "active_ingredients": [
+    {
+      "name": "CARBON DIOXIDE",
+      "strength": "99",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "GAS"
+  ],
+  "routes": [
+    "INHALATION"
+  ],
+  "companies": [
+    "LINDE CANADA LIMITED"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "CARBON DIOXIDE"
+  ]
+}

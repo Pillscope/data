@@ -1,0 +1,28 @@
+{
+  "drug_code": "91143",
+  "din": "02426889",
+  "brand_name": "APTIOM",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "10-SEP-2014",
+  "active_ingredients": [
+    {
+      "name": "Eslicarbazepine acetate",
+      "strength": "600",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "SUNOVION PHARMACEUTICALS CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "ESLICARBAZEPINE"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "drug_code": "4834",
+  "din": "00558117",
+  "brand_name": "PHENYLBUTAZONE INJ 200MG/ML",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "13-APR-1999",
+  "active_ingredients": [
+    {
+      "name": "PHENYLBUTAZONE SODIUM",
+      "strength": "200",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "LIQUID"
+  ],
+  "routes": [
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "UNIVET PHARMACEUTICALS LTD."
+  ],
+  "status": "MARKETED",
+  "atc": []
+}

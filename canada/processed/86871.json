@@ -1,0 +1,33 @@
+{
+  "drug_code": "86871",
+  "din": "02382911",
+  "brand_name": "CEPACOL SENSATIONS WARMING",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "03-AUG-2012",
+  "active_ingredients": [
+    {
+      "name": "AMYLMETACRESOL",
+      "strength": "0.6",
+      "unit": "MG"
+    },
+    {
+      "name": "DICHLOROBENZYL ALCOHOL",
+      "strength": "1.2",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "LOZENGE"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "RECKITT BENCKISER (CANADA) INC"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "DICHLOROBENZYL ALCOHOL"
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "drug_code": "90953",
+  "din": "02424878",
+  "brand_name": "PMS-BUPRENORPHINE-NALOXONE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "28-NOV-2017",
+  "active_ingredients": [
+    {
+      "name": "BUPRENORPHINE (BUPRENORPHINE HYDROCHLORIDE)",
+      "strength": "8",
+      "unit": "MG"
+    },
+    {
+      "name": "NALOXONE (NALOXONE HYDROCHLORIDE DIHYDRATE)",
+      "strength": "2",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "SUBLINGUAL"
+  ],
+  "companies": [
+    "PHARMASCIENCE INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "BUPRENORPHINE, COMBINATIONS",
+    "BUPRENORPHINE, COMBINATIONS"
+  ]
+}

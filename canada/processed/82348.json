@@ -1,0 +1,39 @@
+{
+  "drug_code": "82348",
+  "din": "02337835",
+  "brand_name": "STALEVO",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "25-JAN-2010",
+  "active_ingredients": [
+    {
+      "name": "ENTACAPONE",
+      "strength": "200",
+      "unit": "MG"
+    },
+    {
+      "name": "CARBIDOPA",
+      "strength": "31.25",
+      "unit": "MG"
+    },
+    {
+      "name": "LEVODOPA",
+      "strength": "125",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "NOVARTIS PHARMACEUTICALS CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "LEVODOPA,DECARBOXYLASE INHIBITOR, AND COMT INHIBITOR",
+    "LEVODOPA,DECARBOXYLASE INHIBITOR, AND COMT INHIBITOR"
+  ]
+}

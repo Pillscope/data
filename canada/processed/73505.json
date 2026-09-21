@@ -1,0 +1,28 @@
+{
+  "drug_code": "73505",
+  "din": "02250241",
+  "brand_name": "CONCERTA",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "08-NOV-2013",
+  "active_ingredients": [
+    {
+      "name": "METHYLPHENIDATE HYDROCHLORIDE",
+      "strength": "27",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET (EXTENDED-RELEASE)"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "JANSSEN INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "METHYLPHENIDATE"
+  ]
+}

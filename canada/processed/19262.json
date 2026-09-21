@@ -1,0 +1,28 @@
+{
+  "drug_code": "19262",
+  "din": "02154811",
+  "brand_name": "NITROUS OXIDE, USP",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "29-APR-2015",
+  "active_ingredients": [
+    {
+      "name": "NITROUS OXIDE",
+      "strength": "99",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "GAS"
+  ],
+  "routes": [
+    "INHALATION"
+  ],
+  "companies": [
+    "LINDE CANADA LIMITED"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "NITROUS OXIDE"
+  ]
+}

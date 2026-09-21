@@ -1,0 +1,28 @@
+{
+  "drug_code": "79012",
+  "din": "02304856",
+  "brand_name": "TAMIFLU",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "28-JUL-2010",
+  "active_ingredients": [
+    {
+      "name": "OSELTAMIVIR (OSELTAMIVIR PHOSPHATE)",
+      "strength": "45",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "CAPSULE"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "HOFFMANN-LA ROCHE LIMITED"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "OSELTAMIVIR"
+  ]
+}

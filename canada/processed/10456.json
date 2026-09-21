@@ -1,0 +1,26 @@
+{
+  "drug_code": "10456",
+  "din": "00813575",
+  "brand_name": "ANTIROBE AQUADROPS",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "20-DEC-2016",
+  "active_ingredients": [
+    {
+      "name": "CLINDAMYCIN (CLINDAMYCIN HYDROCHLORIDE)",
+      "strength": "25",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "ZOETIS CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": []
+}

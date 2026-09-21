@@ -1,0 +1,28 @@
+{
+  "drug_code": "82498",
+  "din": "02339366",
+  "brand_name": "PRECEDEX",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "08-MAR-2018",
+  "active_ingredients": [
+    {
+      "name": "DEXMEDETOMIDINE (DEXMEDETOMIDINE HYDROCHLORIDE)",
+      "strength": "100",
+      "unit": "MCG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "PFIZER CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "DEXMEDETOMIDINE"
+  ]
+}

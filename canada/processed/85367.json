@@ -1,0 +1,28 @@
+{
+  "drug_code": "85367",
+  "din": "02368684",
+  "brand_name": "MEN'S ROGAINE FOAM 5%",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "02-MAY-2017",
+  "active_ingredients": [
+    {
+      "name": "MINOXIDIL",
+      "strength": "5",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "AEROSOL, FOAM"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "JOHNSON & JOHNSON INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "MINOXIDIL, TOPICAL"
+  ]
+}

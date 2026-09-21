@@ -1,0 +1,28 @@
+{
+  "drug_code": "43431",
+  "din": "02225883",
+  "brand_name": "PROPRANOLOL HYDROCHLORIDE INJECTION USP",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "01-MAY-2015",
+  "active_ingredients": [
+    {
+      "name": "PROPRANOLOL HYDROCHLORIDE",
+      "strength": "1",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "SANDOZ CANADA INCORPORATED"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "PROPRANOLOL"
+  ]
+}

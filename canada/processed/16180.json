@@ -1,0 +1,28 @@
+{
+  "drug_code": "16180",
+  "din": "02078619",
+  "brand_name": "ULTRAVIST 370",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "11-AUG-2010",
+  "active_ingredients": [
+    {
+      "name": "IOPROMIDE",
+      "strength": "77",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "INTRAVASCULAR"
+  ],
+  "companies": [
+    "BAYER INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "IOPROMIDE"
+  ]
+}

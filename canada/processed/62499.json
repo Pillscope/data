@@ -1,0 +1,33 @@
+{
+  "drug_code": "62499",
+  "din": "02239046",
+  "brand_name": "SEROSTIM",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "22-OCT-2008",
+  "active_ingredients": [
+    {
+      "name": "SOMATROPIN",
+      "strength": "5",
+      "unit": "MG"
+    },
+    {
+      "name": "WATER",
+      "strength": "1",
+      "unit": "ML"
+    }
+  ],
+  "forms": [
+    "POWDER FOR SOLUTION"
+  ],
+  "routes": [
+    "SUBCUTANEOUS"
+  ],
+  "companies": [
+    "EMD SERONO A DIVISION OF EMD INC CANADA"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "SOMATROPIN"
+  ]
+}

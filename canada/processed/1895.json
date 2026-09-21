@@ -1,0 +1,41 @@
+{
+  "drug_code": "1895",
+  "din": "00297844",
+  "brand_name": "STOP A LEAK DR NAYLOR",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "23-JUN-1999",
+  "active_ingredients": [
+    {
+      "name": "IODINE",
+      "strength": "2.53",
+      "unit": "%"
+    },
+    {
+      "name": "TANNIC ACID",
+      "strength": "1.82",
+      "unit": "%"
+    },
+    {
+      "name": "ETHYL CELLULOSE",
+      "strength": "3.63",
+      "unit": "%"
+    },
+    {
+      "name": "ETHYL ACETATE",
+      "strength": "66.8",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "LIQUID"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "H W NAYLOR CO INC."
+  ],
+  "status": "MARKETED",
+  "atc": []
+}

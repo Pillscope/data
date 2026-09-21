@@ -1,0 +1,28 @@
+{
+  "drug_code": "66848",
+  "din": "02243007",
+  "brand_name": "SEEQUIN 4 IDS",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "05-SEP-2017",
+  "active_ingredients": [
+    {
+      "name": "HYDROQUINONE",
+      "strength": "4",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "GEL"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "VIVIER CANADA INCORPORATED"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "HYDROQUINONE"
+  ]
+}

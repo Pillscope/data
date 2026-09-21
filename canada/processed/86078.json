@@ -1,0 +1,28 @@
+{
+  "drug_code": "86078",
+  "din": "02375370",
+  "brand_name": "CYANOKIT",
+  "class": "Human",
+  "descriptor": "LYOPHILIZED POWDER FOR SOLUTION FOR INFUSION. SINGLE-USE VIAL.",
+  "last_update": "31-AUG-2016",
+  "active_ingredients": [
+    {
+      "name": "HYDROXOCOBALAMIN",
+      "strength": "5",
+      "unit": "G"
+    }
+  ],
+  "forms": [
+    "POWDER FOR SOLUTION"
+  ],
+  "routes": [
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "SERB S.A."
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "HYDROXOCOBALAMIN"
+  ]
+}

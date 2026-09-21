@@ -1,0 +1,28 @@
+{
+  "drug_code": "5705",
+  "din": "00582662",
+  "brand_name": "AMINOPHYLLINE INJ 25MG/ML",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "30-JAN-2018",
+  "active_ingredients": [
+    {
+      "name": "AMINOPHYLLINE",
+      "strength": "25",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "OMEGA LABORATORIES LTD"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "AMINOPHYLLINE"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "drug_code": "74111",
+  "din": "02255898",
+  "brand_name": "PMS-GABAPENTIN",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "14-DEC-2006",
+  "active_ingredients": [
+    {
+      "name": "GABAPENTIN",
+      "strength": "600",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "PHARMASCIENCE INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "GABAPENTIN"
+  ]
+}

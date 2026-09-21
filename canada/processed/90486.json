@@ -1,0 +1,28 @@
+{
+  "drug_code": "90486",
+  "din": "02420279",
+  "brand_name": "RIVASA 81 MG EC",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "29-DEC-2014",
+  "active_ingredients": [
+    {
+      "name": "ACETYLSALICYLIC ACID",
+      "strength": "81",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET (DELAYED-RELEASE)"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "LABORATOIRE RIVA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "ACETYLSALICYLIC ACID"
+  ]
+}

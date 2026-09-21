@@ -1,0 +1,28 @@
+{
+  "drug_code": "43172",
+  "din": "02216175",
+  "brand_name": "INTRALIPID 30%",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "06-MAY-2016",
+  "active_ingredients": [
+    {
+      "name": "SOYBEAN OIL",
+      "strength": "30",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "EMULSION"
+  ],
+  "routes": [
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "FRESENIUS KABI CANADA LTD"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "FAT EMULSIONS"
+  ]
+}

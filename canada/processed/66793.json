@@ -1,0 +1,31 @@
+{
+  "drug_code": "66793",
+  "din": "02242954",
+  "brand_name": "ROMET 30 PREMIX",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "22-OCT-2013",
+  "active_ingredients": [
+    {
+      "name": "SULFADIMETHOXINE",
+      "strength": "250",
+      "unit": "G"
+    },
+    {
+      "name": "ORMETOPRIM",
+      "strength": "50",
+      "unit": "G"
+    }
+  ],
+  "forms": [
+    "DRUG PREMIX"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "PHARMAQ AS"
+  ],
+  "status": "APPROVED",
+  "atc": []
+}

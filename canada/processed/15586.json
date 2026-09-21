@@ -1,0 +1,29 @@
+{
+  "drug_code": "15586",
+  "din": "02078090",
+  "brand_name": "EW 150 NEUTRAL CLEANER LIQ 15.36%",
+  "class": "Disinfectant",
+  "descriptor": "",
+  "last_update": "10-FEB-2010",
+  "active_ingredients": [
+    {
+      "name": "DIDECYL DIMETHYL AMMONIUM CHLORIDE",
+      "strength": "15.36",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "LIQUID"
+  ],
+  "routes": [
+    "DISINFECTANT (Food Premises)",
+    "DISINFECTANT (Hospital/HC Facilities)"
+  ],
+  "companies": [
+    "EASY WAY CLEANING PRODUCTS LIMITED"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "TECHNICAL DISINFECTANTS"
+  ]
+}

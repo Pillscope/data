@@ -1,0 +1,28 @@
+{
+  "drug_code": "70139",
+  "din": "02246013",
+  "brand_name": "PMS-LOVASTATIN",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "13-JUN-2008",
+  "active_ingredients": [
+    {
+      "name": "LOVASTATIN",
+      "strength": "20",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "PHARMASCIENCE INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "LOVASTATIN"
+  ]
+}

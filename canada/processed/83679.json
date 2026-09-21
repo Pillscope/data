@@ -1,0 +1,28 @@
+{
+  "drug_code": "83679",
+  "din": "02351528",
+  "brand_name": "YONDELIS",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "13-AUG-2010",
+  "active_ingredients": [
+    {
+      "name": "TRABECTEDIN",
+      "strength": "1",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "POWDER FOR SOLUTION"
+  ],
+  "routes": [
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "JANSSEN INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "TRABECTEDIN"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "drug_code": "67425",
+  "din": "02243507",
+  "brand_name": "APO-PRAVASTATIN",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "08-MAR-2006",
+  "active_ingredients": [
+    {
+      "name": "PRAVASTATIN SODIUM",
+      "strength": "20",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "APOTEX INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "PRAVASTATIN"
+  ]
+}

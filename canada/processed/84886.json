@@ -1,0 +1,33 @@
+{
+  "drug_code": "84886",
+  "din": "02363909",
+  "brand_name": "SUN AND SNOW SPORT SPF 15",
+  "class": "Human",
+  "descriptor": "BALM",
+  "last_update": "21-JAN-2013",
+  "active_ingredients": [
+    {
+      "name": "OXYBENZONE",
+      "strength": "3.5",
+      "unit": "%"
+    },
+    {
+      "name": "OCTINOXATE",
+      "strength": "7.5",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "STICK"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "DAVID ASTLEY AND COMPANY INC."
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "COMBINATIONS OF PROTECTIVES AGAINST UV-RADIATION"
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "drug_code": "7203",
+  "din": "00674354",
+  "brand_name": "COLLYRE BLEU LAITER",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "24-JUN-2014",
+  "active_ingredients": [
+    {
+      "name": "METHYLENE BLUE",
+      "strength": "0.2",
+      "unit": "MG"
+    },
+    {
+      "name": "NAPHAZOLINE NITRATE",
+      "strength": "0.5",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "DROPS"
+  ],
+  "routes": [
+    "OPHTHALMIC"
+  ],
+  "companies": [
+    "BIOCODEX SA"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "NAPHAZOLINE"
+  ]
+}

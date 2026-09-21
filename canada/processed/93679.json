@@ -1,0 +1,29 @@
+{
+  "drug_code": "93679",
+  "din": "02450631",
+  "brand_name": "FRAXIPARINE",
+  "class": "Human",
+  "descriptor": "0.6 ML (5700 IU) PREFILLED SYRINGE - BROWN",
+  "last_update": "21-SEP-2017",
+  "active_ingredients": [
+    {
+      "name": "NADROPARIN CALCIUM",
+      "strength": "9500",
+      "unit": "UNIT"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "INTRAVENOUS",
+    "SUBCUTANEOUS"
+  ],
+  "companies": [
+    "ASPEN PHARMACARE CANADA INC."
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "NADROPARIN"
+  ]
+}

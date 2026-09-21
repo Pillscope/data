@@ -1,0 +1,28 @@
+{
+  "drug_code": "87230",
+  "din": "02386712",
+  "brand_name": "DOM-ROSUVASTATIN",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "10-DEC-2013",
+  "active_ingredients": [
+    {
+      "name": "ROSUVASTATIN (ROSUVASTATIN CALCIUM)",
+      "strength": "10",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "DOMINION PHARMACAL"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "ROSUVASTATIN"
+  ]
+}

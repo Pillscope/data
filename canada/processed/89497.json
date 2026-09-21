@@ -1,0 +1,28 @@
+{
+  "drug_code": "89497",
+  "din": "02410338",
+  "brand_name": "TETRABENAZINE TABLETS",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "30-AUG-2013",
+  "active_ingredients": [
+    {
+      "name": "TETRABENAZINE",
+      "strength": "25",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "STERIMAX INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "TETRABENAZINE"
+  ]
+}

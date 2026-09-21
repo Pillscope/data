@@ -1,0 +1,32 @@
+{
+  "drug_code": "13758",
+  "din": "02020122",
+  "brand_name": "ANTIHISTAMINE STERILE INJECTABLE ANTIHISTAMINIC SOLUTION",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "04-MAY-2004",
+  "active_ingredients": [
+    {
+      "name": "PYRILAMINE MALEATE",
+      "strength": "25",
+      "unit": "MG"
+    },
+    {
+      "name": "EPHEDRINE HYDROCHLORIDE",
+      "strength": "10",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "INTRAMUSCULAR",
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "VETOQUINOL N A INC"
+  ],
+  "status": "APPROVED",
+  "atc": []
+}

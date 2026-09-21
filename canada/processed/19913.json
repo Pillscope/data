@@ -1,0 +1,28 @@
+{
+  "drug_code": "19913",
+  "din": "02196018",
+  "brand_name": "MYLAN-FAMOTIDINE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "02-FEB-2010",
+  "active_ingredients": [
+    {
+      "name": "FAMOTIDINE",
+      "strength": "20",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "MYLAN PHARMACEUTICALS ULC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "FAMOTIDINE"
+  ]
+}

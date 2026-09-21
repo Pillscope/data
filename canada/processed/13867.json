@@ -1,0 +1,30 @@
+{
+  "drug_code": "13867",
+  "din": "00873993",
+  "brand_name": "DDAVP INJ 4MCG/ML",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "21-NOV-2005",
+  "active_ingredients": [
+    {
+      "name": "DESMOPRESSIN ACETATE",
+      "strength": "4",
+      "unit": "MCG"
+    }
+  ],
+  "forms": [
+    "LIQUID"
+  ],
+  "routes": [
+    "INTRAMUSCULAR",
+    "INTRAVENOUS",
+    "SUBCUTANEOUS"
+  ],
+  "companies": [
+    "FERRING INC"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "DESMOPRESSIN"
+  ]
+}

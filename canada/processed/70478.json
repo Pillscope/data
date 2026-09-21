@@ -1,0 +1,28 @@
+{
+  "drug_code": "70478",
+  "din": "02246315",
+  "brand_name": "GABAPENTIN",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "16-OCT-2017",
+  "active_ingredients": [
+    {
+      "name": "GABAPENTIN",
+      "strength": "300",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "CAPSULE"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "SIVEM PHARMACEUTICALS ULC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "GABAPENTIN"
+  ]
+}

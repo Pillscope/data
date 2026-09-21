@@ -1,0 +1,28 @@
+{
+  "drug_code": "83476",
+  "din": "02349469",
+  "brand_name": "ULTRAM",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "06-FEB-2014",
+  "active_ingredients": [
+    {
+      "name": "TRAMADOL HYDROCHLORIDE",
+      "strength": "50",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "JANSSEN INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "TRAMADOL"
+  ]
+}

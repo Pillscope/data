@@ -1,0 +1,28 @@
+{
+  "drug_code": "86282",
+  "din": "02377209",
+  "brand_name": "NOVORAPID",
+  "class": "Human",
+  "descriptor": "FLEXTOUCH - PREFILLED MULTIDOSE DISPOSABLE INSULIN DELIVERY DEVICE CONTAINING A 3ML CARTRIDGE",
+  "last_update": "20-APR-2016",
+  "active_ingredients": [
+    {
+      "name": "INSULIN ASPART",
+      "strength": "100",
+      "unit": "UNIT"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "SUBCUTANEOUS"
+  ],
+  "companies": [
+    "NOVO NORDISK CANADA INC"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "INSULIN ASPART"
+  ]
+}

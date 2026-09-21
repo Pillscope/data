@@ -1,0 +1,28 @@
+{
+  "drug_code": "4902",
+  "din": "00545066",
+  "brand_name": "METRONIDAZOLE",
+  "class": "Human",
+  "descriptor": "TABLET 250MG",
+  "last_update": "25-AUG-2011",
+  "active_ingredients": [
+    {
+      "name": "METRONIDAZOLE",
+      "strength": "250",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "AA PHARMA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "METRONIDAZOLE"
+  ]
+}

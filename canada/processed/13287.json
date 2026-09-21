@@ -1,0 +1,28 @@
+{
+  "drug_code": "13287",
+  "din": "01963961",
+  "brand_name": "STERILE WATER FOR IRRIGATION USP",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "30-JUL-2015",
+  "active_ingredients": [
+    {
+      "name": "WATER",
+      "strength": "100",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "LIQUID"
+  ],
+  "routes": [
+    "IRRIGATION"
+  ],
+  "companies": [
+    "B. BRAUN MEDICAL INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "SOLVENTS AND DILUTING AGENTS,INCL IRRIGAT SOLUT"
+  ]
+}

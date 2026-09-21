@@ -1,0 +1,28 @@
+{
+  "drug_code": "69718",
+  "din": "02245618",
+  "brand_name": "APO-WARFARIN",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "08-MAR-2006",
+  "active_ingredients": [
+    {
+      "name": "WARFARIN SODIUM",
+      "strength": "3",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "APOTEX INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "WARFARIN"
+  ]
+}

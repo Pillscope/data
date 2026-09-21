@@ -1,0 +1,43 @@
+{
+  "drug_code": "84348",
+  "din": "02358425",
+  "brand_name": "SUNCARE DEFENSE SPF 30 MINERAL MOISTURIZER",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "09-DEC-2014",
+  "active_ingredients": [
+    {
+      "name": "OCTOCRYLENE",
+      "strength": "10.0",
+      "unit": "%"
+    },
+    {
+      "name": "OXYBENZONE",
+      "strength": "6.0",
+      "unit": "%"
+    },
+    {
+      "name": "OCTISALATE",
+      "strength": "3.0",
+      "unit": "%"
+    },
+    {
+      "name": "OCTINOXATE",
+      "strength": "7.5",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "SUSPENSION"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "SPA DE SOLEIL"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "COMBINATIONS OF PROTECTIVES AGAINST UV-RADIATION"
+  ]
+}

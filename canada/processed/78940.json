@@ -1,0 +1,30 @@
+{
+  "drug_code": "78940",
+  "din": "02304090",
+  "brand_name": "PHENOBARBITAL SODIUM INJECTION, USP",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "08-MAY-2008",
+  "active_ingredients": [
+    {
+      "name": "PHENOBARBITAL SODIUM",
+      "strength": "120",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "INTRAMUSCULAR",
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "SANDOZ CANADA INCORPORATED"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "PHENOBARBITAL",
+    "PHENOBARBITAL"
+  ]
+}

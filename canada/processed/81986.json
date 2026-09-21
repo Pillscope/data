@@ -1,0 +1,28 @@
+{
+  "drug_code": "81986",
+  "din": "02334186",
+  "brand_name": "DURAGESIC",
+  "class": "Human",
+  "descriptor": "2.1 MG /PATCH",
+  "last_update": "15-NOV-2017",
+  "active_ingredients": [
+    {
+      "name": "FENTANYL",
+      "strength": "12",
+      "unit": "MCG"
+    }
+  ],
+  "forms": [
+    "PATCH"
+  ],
+  "routes": [
+    "TRANSDERMAL"
+  ],
+  "companies": [
+    "JANSSEN INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "FENTANYL"
+  ]
+}

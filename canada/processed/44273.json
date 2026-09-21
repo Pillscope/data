@@ -1,0 +1,29 @@
+{
+  "drug_code": "44273",
+  "din": "02183080",
+  "brand_name": "PENTAMIDINE ISETIONATE FOR INJECTION BP",
+  "class": "Human",
+  "descriptor": "SINGLE-USE",
+  "last_update": "04-JUL-2017",
+  "active_ingredients": [
+    {
+      "name": "PENTAMIDINE ISETIONATE",
+      "strength": "300",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "POWDER FOR SOLUTION"
+  ],
+  "routes": [
+    "INTRAMUSCULAR",
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "PFIZER CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "PENTAMIDINE ISETHIONATE"
+  ]
+}

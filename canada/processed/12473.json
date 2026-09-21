@@ -1,0 +1,27 @@
+{
+  "drug_code": "12473",
+  "din": "01927027",
+  "brand_name": "DORMOSEDAN",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "13-MAY-2014",
+  "active_ingredients": [
+    {
+      "name": "DETOMIDINE HYDROCHLORIDE",
+      "strength": "10",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "INTRAMUSCULAR",
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "ORION CORPORATION"
+  ],
+  "status": "MARKETED",
+  "atc": []
+}

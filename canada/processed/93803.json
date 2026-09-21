@@ -1,0 +1,36 @@
+{
+  "drug_code": "93803",
+  "din": "02451727",
+  "brand_name": "CLOTRIMAZOLE-FLUCONAZOLE COMBI-PACK",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "03-MAR-2017",
+  "active_ingredients": [
+    {
+      "name": "CLOTRIMAZOLE",
+      "strength": "1",
+      "unit": "%"
+    },
+    {
+      "name": "FLUCONAZOLE",
+      "strength": "150",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "KIT",
+    "CAPSULE",
+    "CREAM"
+  ],
+  "routes": [
+    "ORAL",
+    "TOPICAL"
+  ],
+  "companies": [
+    "TARO PHARMACEUTICALS INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "FLUCONAZOLE"
+  ]
+}

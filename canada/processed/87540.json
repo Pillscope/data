@@ -1,0 +1,26 @@
+{
+  "drug_code": "87540",
+  "din": "02389932",
+  "brand_name": "RHEUMOCAM 1.5MG/ML ORAL SUSPENSION FOR DOGS",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "27-MAR-2013",
+  "active_ingredients": [
+    {
+      "name": "MELOXICAM",
+      "strength": "1.5",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SUSPENSION"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "CHANELLE PHARMACEUTICALS MANUFACTURING LIMITED"
+  ],
+  "status": "APPROVED",
+  "atc": []
+}

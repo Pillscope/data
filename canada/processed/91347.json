@@ -1,0 +1,28 @@
+{
+  "drug_code": "91347",
+  "din": "02429039",
+  "brand_name": "ESCITALOPRAM",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "28-JAN-2015",
+  "active_ingredients": [
+    {
+      "name": "ESCITALOPRAM (ESCITALOPRAM OXALATE)",
+      "strength": "10",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "SIVEM PHARMACEUTICALS ULC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "ESCITALOPRAM"
+  ]
+}

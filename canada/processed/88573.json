@@ -1,0 +1,28 @@
+{
+  "drug_code": "88573",
+  "din": "02400987",
+  "brand_name": "PICATO",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "19-APR-2013",
+  "active_ingredients": [
+    {
+      "name": "Ingenol Mebutate",
+      "strength": "0.015",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "GEL"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "LEO PHARMA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "ingenol mebutate"
+  ]
+}

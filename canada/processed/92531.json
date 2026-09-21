@@ -1,0 +1,31 @@
+{
+  "drug_code": "92531",
+  "din": "02440954",
+  "brand_name": "LC-HV-PROTECT",
+  "class": "Veterinary",
+  "descriptor": "TEAT DIP",
+  "last_update": "16-DEC-2016",
+  "active_ingredients": [
+    {
+      "name": "IODINE (NONYL PHENOXYPOLYETHOXYETHANOL-IODINE COMPLEX)",
+      "strength": "1",
+      "unit": "%"
+    },
+    {
+      "name": "GLYCERINE",
+      "strength": "6.7",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "LIBERCHEM INC"
+  ],
+  "status": "APPROVED",
+  "atc": []
+}

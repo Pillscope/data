@@ -1,0 +1,28 @@
+{
+  "drug_code": "86986",
+  "din": "02384116",
+  "brand_name": "GRAVOL KIDS QUICK DISSOLVE CHEWABLE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "03-DEC-2012",
+  "active_ingredients": [
+    {
+      "name": "DIMENHYDRINATE",
+      "strength": "15",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET (CHEWABLE)"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "CHURCH & DWIGHT CANADA CORP"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "DIPHENHYDRAMINE"
+  ]
+}

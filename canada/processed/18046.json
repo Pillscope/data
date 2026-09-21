@@ -1,0 +1,28 @@
+{
+  "drug_code": "18046",
+  "din": "02147637",
+  "brand_name": "APO-TRAZODONE TABLETS 50MG",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "22-FEB-2006",
+  "active_ingredients": [
+    {
+      "name": "TRAZODONE HYDROCHLORIDE",
+      "strength": "50",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "APOTEX INC"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "TRAZODONE"
+  ]
+}

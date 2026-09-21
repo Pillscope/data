@@ -1,0 +1,28 @@
+{
+  "drug_code": "6269",
+  "din": "00503347",
+  "brand_name": "PROGLYCEM",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "13-NOV-2012",
+  "active_ingredients": [
+    {
+      "name": "DIAZOXIDE",
+      "strength": "100",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "CAPSULE"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "MERCK CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "DIAZOXIDE"
+  ]
+}

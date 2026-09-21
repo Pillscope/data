@@ -1,0 +1,28 @@
+{
+  "drug_code": "3865",
+  "din": "00498793",
+  "brand_name": "GLYCINE IRRIGATION USP",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "20-OCT-2017",
+  "active_ingredients": [
+    {
+      "name": "GLYCINE",
+      "strength": "15",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "IRRIGATION"
+  ],
+  "companies": [
+    "ICU MEDICAL CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "GLYCINE"
+  ]
+}

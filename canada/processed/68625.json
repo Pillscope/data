@@ -1,0 +1,28 @@
+{
+  "drug_code": "68625",
+  "din": "02244638",
+  "brand_name": "APO-CLOBAZAM",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "01-JUN-2017",
+  "active_ingredients": [
+    {
+      "name": "CLOBAZAM",
+      "strength": "10",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "APOTEX INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "CLOBAZAM"
+  ]
+}

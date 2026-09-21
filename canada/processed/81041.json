@@ -1,0 +1,28 @@
+{
+  "drug_code": "81041",
+  "din": "02324997",
+  "brand_name": "LUMIGAN RC",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "15-JUN-2011",
+  "active_ingredients": [
+    {
+      "name": "BIMATOPROST",
+      "strength": "0.01",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "OPHTHALMIC"
+  ],
+  "companies": [
+    "ALLERGAN INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "BIMATOPROST"
+  ]
+}

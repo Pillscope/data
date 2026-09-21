@@ -1,0 +1,28 @@
+{
+  "drug_code": "48167",
+  "din": "02229814",
+  "brand_name": "MYLAN-ALPRAZOLAM",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "03-FEB-2010",
+  "active_ingredients": [
+    {
+      "name": "ALPRAZOLAM",
+      "strength": "2",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "MYLAN PHARMACEUTICALS ULC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "ALPRAZOLAM"
+  ]
+}

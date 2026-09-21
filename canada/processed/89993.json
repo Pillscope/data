@@ -1,0 +1,43 @@
+{
+  "drug_code": "89993",
+  "din": "02415313",
+  "brand_name": "SPF 30 DRY MIST LOTION CONTINUOUS SPRAY",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "31-MAR-2014",
+  "active_ingredients": [
+    {
+      "name": "AVOBENZONE",
+      "strength": "2.96",
+      "unit": "%"
+    },
+    {
+      "name": "OCTOCRYLENE",
+      "strength": "5.92",
+      "unit": "%"
+    },
+    {
+      "name": "OCTISALATE",
+      "strength": "4.88",
+      "unit": "%"
+    },
+    {
+      "name": "HOMOSALATE",
+      "strength": "8.78",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "AEROSOL"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "OMBRELLE CANADA"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "COMBINATIONS OF PROTECTIVES AGAINST UV-RADIATION"
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "drug_code": "83385",
+  "din": "02348497",
+  "brand_name": "EVICEL",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "02-MAY-2013",
+  "active_ingredients": [
+    {
+      "name": "THROMBIN (HUMAN)",
+      "strength": "1200",
+      "unit": "UNIT"
+    },
+    {
+      "name": "FIBRINOGEN (HUMAN)",
+      "strength": "90",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION",
+    "KIT"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "OMRIX BIOPHARMACEUTICALS LTD"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "COMBINATIONS"
+  ]
+}

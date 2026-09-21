@@ -1,0 +1,26 @@
+{
+  "drug_code": "12920",
+  "din": "01939769",
+  "brand_name": "COPPERSEPT LIQ 37.5%",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "18-AUG-1999",
+  "active_ingredients": [
+    {
+      "name": "COPPER NAPHTHENATE",
+      "strength": "37.5",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "LIQUID"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "CITADEL ANIMAL HEALTH"
+  ],
+  "status": "MARKETED",
+  "atc": []
+}

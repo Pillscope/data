@@ -1,0 +1,28 @@
+{
+  "drug_code": "28306",
+  "din": "02086344",
+  "brand_name": "SUPER NET DISINFECTANT/CLEANER LIQ 4.4%",
+  "class": "Disinfectant",
+  "descriptor": "",
+  "last_update": "16-FEB-2006",
+  "active_ingredients": [
+    {
+      "name": "BENZALKONIUM CHLORIDE",
+      "strength": "4.4",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "LIQUID"
+  ],
+  "routes": [
+    "DISINFECTANT (Food Premises)"
+  ],
+  "companies": [
+    "GROUPE SAVON OLYMPIC INC."
+  ],
+  "status": "CANCELLED POST MARKET",
+  "atc": [
+    "TECHNICAL DISINFECTANTS"
+  ]
+}

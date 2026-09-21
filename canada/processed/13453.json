@@ -1,0 +1,31 @@
+{
+  "drug_code": "13453",
+  "din": "02011654",
+  "brand_name": "QUIEX - FORTE",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "29-APR-2015",
+  "active_ingredients": [
+    {
+      "name": "GUAIFENESIN",
+      "strength": "500",
+      "unit": "MG"
+    },
+    {
+      "name": "AMINOPHYLLINE",
+      "strength": "1",
+      "unit": "G"
+    }
+  ],
+  "forms": [
+    "SYRUP"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "CEVA ANIMAL HEALTH INC"
+  ],
+  "status": "APPROVED",
+  "atc": []
+}

@@ -1,0 +1,28 @@
+{
+  "drug_code": "92870",
+  "din": "02443929",
+  "brand_name": "JAMP-MOXIFLOXACIN",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "11-MAY-2016",
+  "active_ingredients": [
+    {
+      "name": "MOXIFLOXACIN (MOXIFLOXACIN HYDROCHLORIDE)",
+      "strength": "400",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "JAMP PHARMA CORPORATION"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "MOXIFLOXACIN"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "drug_code": "90711",
+  "din": "02422425",
+  "brand_name": "ZOLEDRONIC ACID FOR INJECTION CONCENTRATE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "29-MAY-2014",
+  "active_ingredients": [
+    {
+      "name": "ZOLEDRONIC ACID (Zoledronic acid monohydrate)",
+      "strength": "4",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "DR REDDYS LABORATORIES LTD"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "ZOLEDRONIC ACID"
+  ]
+}

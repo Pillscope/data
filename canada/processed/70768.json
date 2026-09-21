@@ -1,0 +1,28 @@
+{
+  "drug_code": "70768",
+  "din": "02246581",
+  "brand_name": "PMS-ATENOLOL",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "02-NOV-2007",
+  "active_ingredients": [
+    {
+      "name": "ATENOLOL",
+      "strength": "25",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "PHARMASCIENCE INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "ATENOLOL"
+  ]
+}

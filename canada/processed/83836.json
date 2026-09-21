@@ -1,0 +1,28 @@
+{
+  "drug_code": "83836",
+  "din": "02353148",
+  "brand_name": "MELOXICAM",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "14-SEP-2010",
+  "active_ingredients": [
+    {
+      "name": "MELOXICAM",
+      "strength": "7.5",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "SANIS HEALTH INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "MELOXICAM"
+  ]
+}

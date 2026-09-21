@@ -1,0 +1,28 @@
+{
+  "drug_code": "47181",
+  "din": "02229380",
+  "brand_name": "CLOTRIMAZOLE CREAM USP 1%",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "07-JUN-2016",
+  "active_ingredients": [
+    {
+      "name": "CLOTRIMAZOLE",
+      "strength": "1",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "CREAM"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "TARO PHARMACEUTICALS INC"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "CLOTRIMAZOLE"
+  ]
+}

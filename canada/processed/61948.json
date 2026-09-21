@@ -1,0 +1,43 @@
+{
+  "drug_code": "61948",
+  "din": "02238525",
+  "brand_name": "HP-PAC",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "15-DEC-2017",
+  "active_ingredients": [
+    {
+      "name": "CLARITHROMYCIN",
+      "strength": "500",
+      "unit": "MG"
+    },
+    {
+      "name": "AMOXICILLIN",
+      "strength": "500",
+      "unit": "MG"
+    },
+    {
+      "name": "LANSOPRAZOLE",
+      "strength": "30",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "CAPSULE (DELAYED RELEASE)",
+    "KIT",
+    "CAPSULE",
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "TAKEDA PHARMACEUTICALS AMERICA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "LANSOPRAZOLE, AMOXICILLIN AND CLARITHROMYCIN",
+    "LANSOPRAZOLE, AMOXICILLIN AND CLARITHROMYCIN",
+    "LANSOPRAZOLE, AMOXICILLIN AND CLARITHROMYCIN"
+  ]
+}

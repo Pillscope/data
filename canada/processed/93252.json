@@ -1,0 +1,33 @@
+{
+  "drug_code": "93252",
+  "din": "02446952",
+  "brand_name": "CL\u00c3\u0089 DE PEAU BEAUT\u00c3\u0089 RADIANT CREAM FOUNDATION",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "02-AUG-2016",
+  "active_ingredients": [
+    {
+      "name": "TITANIUM DIOXIDE",
+      "strength": "1.2",
+      "unit": "%"
+    },
+    {
+      "name": "OCTINOXATE",
+      "strength": "4.4",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "CREAM"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "SHISEIDO AMERICAS CORPORATION DIST"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "COMBINATIONS OF PROTECTIVES AGAINST UV-RADIATION"
+  ]
+}

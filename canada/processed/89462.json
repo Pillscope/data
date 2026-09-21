@@ -1,0 +1,28 @@
+{
+  "drug_code": "89462",
+  "din": "02409968",
+  "brand_name": "CEFTRIAXONE FOR INJECTION",
+  "class": "Human",
+  "descriptor": "SMARTPACK BULK PACKAGE",
+  "last_update": "05-JUL-2016",
+  "active_ingredients": [
+    {
+      "name": "CEFTRIAXONE (CEFTRIAXONE SODIUM)",
+      "strength": "100",
+      "unit": "G"
+    }
+  ],
+  "forms": [
+    "POWDER FOR SOLUTION"
+  ],
+  "routes": [
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "FRESENIUS KABI CANADA LTD"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "CEFTRIAXONE"
+  ]
+}

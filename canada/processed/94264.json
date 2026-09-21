@@ -1,0 +1,33 @@
+{
+  "drug_code": "94264",
+  "din": "02455811",
+  "brand_name": "LYSOL KITHCENPRO DAILY CLEANER",
+  "class": "Disinfectant",
+  "descriptor": "LIQUID",
+  "last_update": "02-MAR-2017",
+  "active_ingredients": [
+    {
+      "name": "BENZALKONIUM CHLORIDE",
+      "strength": "0.08",
+      "unit": "%"
+    },
+    {
+      "name": "BENZALKONIUM CHLORIDE",
+      "strength": "0.02",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "SPRAY"
+  ],
+  "routes": [
+    "DISINFECTANT (Domestic)"
+  ],
+  "companies": [
+    "RECKITT BENCKISER (CANADA) INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "TECHNICAL DISINFECTANTS"
+  ]
+}

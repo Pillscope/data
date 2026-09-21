@@ -1,0 +1,28 @@
+{
+  "drug_code": "88437",
+  "din": "02399490",
+  "brand_name": "DOM-ATORVASTATIN",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "13-SEP-2013",
+  "active_ingredients": [
+    {
+      "name": "ATORVASTATIN (ATORVASTATIN CALCIUM)",
+      "strength": "20",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "DOMINION PHARMACAL"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "ATORVASTATIN"
+  ]
+}

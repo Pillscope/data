@@ -1,0 +1,34 @@
+{
+  "drug_code": "69428",
+  "din": "02245385",
+  "brand_name": "SYMBICORT 100 TURBUHALER",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "31-JAN-2018",
+  "active_ingredients": [
+    {
+      "name": "BUDESONIDE",
+      "strength": "100",
+      "unit": "MCG"
+    },
+    {
+      "name": "FORMOTEROL FUMARATE DIHYDRATE",
+      "strength": "6",
+      "unit": "MCG"
+    }
+  ],
+  "forms": [
+    "POWDER"
+  ],
+  "routes": [
+    "INHALATION"
+  ],
+  "companies": [
+    "ASTRAZENECA CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "FORMOTEROL AND BUDESONIDE",
+    "FORMOTEROL AND BUDESONIDE"
+  ]
+}

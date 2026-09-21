@@ -1,0 +1,26 @@
+{
+  "drug_code": "42931",
+  "din": "02192632",
+  "brand_name": "PROGRAM SUSPENSION",
+  "class": "Veterinary",
+  "descriptor": "(7% -266MG PER DOSE)",
+  "last_update": "04-OCT-2017",
+  "active_ingredients": [
+    {
+      "name": "LUFENURON",
+      "strength": "266",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SUSPENSION"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "ELANCO CANADA LIMITED"
+  ],
+  "status": "APPROVED",
+  "atc": []
+}

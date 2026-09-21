@@ -1,0 +1,26 @@
+{
+  "drug_code": "71115",
+  "din": "02246889",
+  "brand_name": "MILBEMITE",
+  "class": "Veterinary",
+  "descriptor": "MILBEMYCIN OXIME 0.1% EAR SOLUTION",
+  "last_update": "25-MAY-2016",
+  "active_ingredients": [
+    {
+      "name": "MILBEMYCIN OXIME",
+      "strength": "0.1",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "OTIC"
+  ],
+  "companies": [
+    "ELANCO CANADA LIMITED"
+  ],
+  "status": "APPROVED",
+  "atc": []
+}

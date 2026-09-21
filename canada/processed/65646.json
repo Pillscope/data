@@ -1,0 +1,30 @@
+{
+  "drug_code": "65646",
+  "din": "02241976",
+  "brand_name": "TALWIN",
+  "class": "Human",
+  "descriptor": "SINGLE-USE AMPOULE",
+  "last_update": "17-NOV-2017",
+  "active_ingredients": [
+    {
+      "name": "PENTAZOCINE (PENTAZOCINE LACTATE)",
+      "strength": "30",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "INTRAMUSCULAR",
+    "INTRAVENOUS",
+    "SUBCUTANEOUS"
+  ],
+  "companies": [
+    "PFIZER CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "PENTAZOCINE"
+  ]
+}

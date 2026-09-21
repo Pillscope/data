@@ -1,0 +1,33 @@
+{
+  "drug_code": "18754",
+  "din": "02042320",
+  "brand_name": "MIN-OVRAL 21",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "24-APR-2013",
+  "active_ingredients": [
+    {
+      "name": "LEVONORGESTREL",
+      "strength": "150",
+      "unit": "MCG"
+    },
+    {
+      "name": "ETHINYL ESTRADIOL",
+      "strength": "30",
+      "unit": "MCG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "PFIZER CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "LEVONORGESTREL AND ESTROGEN"
+  ]
+}

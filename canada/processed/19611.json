@@ -1,0 +1,28 @@
+{
+  "drug_code": "19611",
+  "din": "02194252",
+  "brand_name": "LEVER 2000 ANTIBACTERIAL LIQUID SOAP",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "26-MAY-2017",
+  "active_ingredients": [
+    {
+      "name": "TRICLOSAN",
+      "strength": "0.25",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "LIQUID"
+  ],
+  "routes": [
+    "TOPICAL (COMMERCIAL)"
+  ],
+  "companies": [
+    "DIVERSEY INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "TRICLOSAN"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "drug_code": "76490",
+  "din": "02279339",
+  "brand_name": "REVOLUTION",
+  "class": "Veterinary",
+  "descriptor": "40.1 - 60.0 KG",
+  "last_update": "24-APR-2015",
+  "active_ingredients": [
+    {
+      "name": "SELAMECTIN",
+      "strength": "360",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "ZOETIS CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": []
+}

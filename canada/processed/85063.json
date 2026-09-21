@@ -1,0 +1,28 @@
+{
+  "drug_code": "85063",
+  "din": "02365758",
+  "brand_name": "DIORSKIN FOREVER POUDRE COMPACTE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "20-JAN-2014",
+  "active_ingredients": [
+    {
+      "name": "OCTINOXATE",
+      "strength": "5.0",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "POWDER"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "PARFUMS CHRISTIAN DIOR"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "OCTYL METHOXYCINNAMATE"
+  ]
+}

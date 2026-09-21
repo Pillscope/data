@@ -1,0 +1,28 @@
+{
+  "drug_code": "4736",
+  "din": "00550957",
+  "brand_name": "APO PREDNISONE TAB 50MG",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "07-MAR-2006",
+  "active_ingredients": [
+    {
+      "name": "PREDNISONE",
+      "strength": "50",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "APOTEX INC"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "PREDNISONE"
+  ]
+}

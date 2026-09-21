@@ -1,0 +1,28 @@
+{
+  "drug_code": "86619",
+  "din": "02380382",
+  "brand_name": "JAMP-MYCOPHENOLATE",
+  "class": "Human",
+  "descriptor": "FILM COATED TABLETS",
+  "last_update": "07-APR-2016",
+  "active_ingredients": [
+    {
+      "name": "MYCOPHENOLATE MOFETIL",
+      "strength": "500",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "JAMP PHARMA CORPORATION"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "MYCOPHENOLIC ACID"
+  ]
+}

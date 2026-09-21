@@ -1,0 +1,28 @@
+{
+  "drug_code": "94391",
+  "din": "02456893",
+  "brand_name": "MYLAN-ATAZANAVIR",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "23-MAY-2017",
+  "active_ingredients": [
+    {
+      "name": "ATAZANAVIR (ATAZANAVIR SULFATE)",
+      "strength": "300",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "CAPSULE"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "MYLAN PHARMACEUTICALS ULC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "ATAZANAVIR"
+  ]
+}

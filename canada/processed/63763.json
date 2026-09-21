@@ -1,0 +1,36 @@
+{
+  "drug_code": "63763",
+  "din": "02240234",
+  "brand_name": "LIQUID VITAMIN A-D-E 5T",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "14-OCT-1999",
+  "active_ingredients": [
+    {
+      "name": "VITAMIN A PROPIONATE",
+      "strength": "50000",
+      "unit": "UNIT"
+    },
+    {
+      "name": "VITAMIN D3",
+      "strength": "5000",
+      "unit": "UNIT"
+    },
+    {
+      "name": "VITAMIN E (D-ALPHA TOCOPHERYL ACETATE)",
+      "strength": "50",
+      "unit": "UNIT"
+    }
+  ],
+  "forms": [
+    "LIQUID"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "DOMINION VETERINARY LABORATORIES LTD."
+  ],
+  "status": "MARKETED",
+  "atc": []
+}

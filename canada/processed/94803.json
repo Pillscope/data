@@ -1,0 +1,30 @@
+{
+  "drug_code": "94803",
+  "din": "02460602",
+  "brand_name": "HYDROMORPHONE HYDROCHLORIDE INJECTION",
+  "class": "Human",
+  "descriptor": "SINGLE USE",
+  "last_update": "05-JUN-2017",
+  "active_ingredients": [
+    {
+      "name": "HYDROMORPHONE HYDROCHLORIDE",
+      "strength": "2",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "INTRAMUSCULAR",
+    "INTRAVENOUS",
+    "SUBCUTANEOUS"
+  ],
+  "companies": [
+    "STERIMAX INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "HYDROMORPHONE"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "drug_code": "74161",
+  "din": "02256371",
+  "brand_name": "CLOBEX SHAMPOO",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "29-DEC-2006",
+  "active_ingredients": [
+    {
+      "name": "CLOBETASOL PROPIONATE",
+      "strength": "0.05",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "SHAMPOO"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "GALDERMA CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "CLOBETASOL"
+  ]
+}

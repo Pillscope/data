@@ -1,0 +1,26 @@
+{
+  "drug_code": "10804",
+  "din": "00835463",
+  "brand_name": "UDDER BALM ONT 0.14%",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "12-SEP-2004",
+  "active_ingredients": [
+    {
+      "name": "OXYQUINOLINE",
+      "strength": ".14",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "OINTMENT"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "H W NAYLOR CO INC."
+  ],
+  "status": "MARKETED",
+  "atc": []
+}

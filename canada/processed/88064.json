@@ -1,0 +1,34 @@
+{
+  "drug_code": "88064",
+  "din": "02395568",
+  "brand_name": "TEVA-CANDESARTAN/HCTZ",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "27-SEP-2013",
+  "active_ingredients": [
+    {
+      "name": "CANDESARTAN CILEXETIL",
+      "strength": "32",
+      "unit": "MG"
+    },
+    {
+      "name": "HYDROCHLOROTHIAZIDE",
+      "strength": "12.5",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "TEVA CANADA LIMITED"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "CANDERSARTAN AND DIURETICS",
+    "CANDERSARTAN AND DIURETICS"
+  ]
+}

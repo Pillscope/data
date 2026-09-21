@@ -1,0 +1,28 @@
+{
+  "drug_code": "76520",
+  "din": "02279592",
+  "brand_name": "RESULTZ",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "29-APR-2015",
+  "active_ingredients": [
+    {
+      "name": "ISOPROPYL MYRISTATE",
+      "strength": "50",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "MEDICAL FUTURES INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "OTHER ECTOPARASITICIDES, INCL SCABICIDES"
+  ]
+}

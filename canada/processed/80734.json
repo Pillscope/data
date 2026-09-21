@@ -1,0 +1,26 @@
+{
+  "drug_code": "80734",
+  "din": "02321939",
+  "brand_name": "BOVATEC 20",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "31-AUG-2016",
+  "active_ingredients": [
+    {
+      "name": "LASALOCID SODIUM",
+      "strength": "200",
+      "unit": "G"
+    }
+  ],
+  "forms": [
+    "DRUG PREMIX"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "ZOETIS CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": []
+}

@@ -1,0 +1,28 @@
+{
+  "drug_code": "95389",
+  "din": "02465663",
+  "brand_name": "SPINRAZA",
+  "class": "Human",
+  "descriptor": "SINGLE USE VIAL",
+  "last_update": "25-JAN-2018",
+  "active_ingredients": [
+    {
+      "name": "NUSINERSEN (NUSINERSEN SODIUM)",
+      "strength": "2.4",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "INTRATHECAL"
+  ],
+  "companies": [
+    "BIOGEN CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "NUSINERSEN"
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "drug_code": "92564",
+  "din": "02441241",
+  "brand_name": "ERGONOVINE MALEATE INJECTION",
+  "class": "Human",
+  "descriptor": "SINGLE USE AMPOULES",
+  "last_update": "14-FEB-2018",
+  "active_ingredients": [
+    {
+      "name": "ERGONOVINE MALEATE",
+      "strength": "0.25",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "INTRAMUSCULAR",
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "TELIGENT OU"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "ERGOMETRINE"
+  ]
+}

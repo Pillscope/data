@@ -1,0 +1,28 @@
+{
+  "drug_code": "78497",
+  "din": "02299593",
+  "brand_name": "TEVA-TOLTERODINE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "22-DEC-2015",
+  "active_ingredients": [
+    {
+      "name": "TOLTERODINE TARTRATE",
+      "strength": "1",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "TEVA CANADA LIMITED"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "TOLTERODINE"
+  ]
+}

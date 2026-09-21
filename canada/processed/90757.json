@@ -1,0 +1,29 @@
+{
+  "drug_code": "90757",
+  "din": "02422913",
+  "brand_name": "ALPROLIX",
+  "class": "Human",
+  "descriptor": "SINGLE USE VIAL & 5 ML PREFILLED DILUENT SYRINGE",
+  "last_update": "19-MAR-2018",
+  "active_ingredients": [
+    {
+      "name": "Recombinant human coagulation factor IX, FC Fusion protein",
+      "strength": "500",
+      "unit": "UNIT"
+    }
+  ],
+  "forms": [
+    "KIT",
+    "POWDER FOR SOLUTION"
+  ],
+  "routes": [
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "BIOVERATIV CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "COAGULATION FACTOR IX"
+  ]
+}

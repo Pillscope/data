@@ -1,0 +1,49 @@
+{
+  "drug_code": "5475",
+  "din": "00507407",
+  "brand_name": "DALMACOL",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "01-SEP-2017",
+  "active_ingredients": [
+    {
+      "name": "ETAFEDRIN HYDROCHLORIDE",
+      "strength": "16.65",
+      "unit": "MG"
+    },
+    {
+      "name": "ALCOHOL ANHYDROUS",
+      "strength": "0.25",
+      "unit": "ML"
+    },
+    {
+      "name": "DOXYLAMINE SUCCINATE",
+      "strength": "6",
+      "unit": "MG"
+    },
+    {
+      "name": "SODIUM CITRATE",
+      "strength": "200",
+      "unit": "MG"
+    },
+    {
+      "name": "HYDROCODONE BITARTRATE",
+      "strength": "1.65",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SYRUP"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "LABORATOIRE ATLAS INC"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "COMBINATIONS",
+    "COMBINATIONS"
+  ]
+}

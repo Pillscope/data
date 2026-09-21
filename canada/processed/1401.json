@@ -1,0 +1,28 @@
+{
+  "drug_code": "1401",
+  "din": "00023760",
+  "brand_name": "NORLUTATE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "15-DEC-2010",
+  "active_ingredients": [
+    {
+      "name": "NORETHINDRONE ACETATE",
+      "strength": "5",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "ERFA CANADA 2012 INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "NORETHISTERONE"
+  ]
+}

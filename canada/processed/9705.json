@@ -1,0 +1,26 @@
+{
+  "drug_code": "9705",
+  "din": "00800422",
+  "brand_name": "TYLOSIN 40",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "08-JAN-2018",
+  "active_ingredients": [
+    {
+      "name": "TYLOSIN (TYLOSIN PHOSPHATE)",
+      "strength": "88",
+      "unit": "G"
+    }
+  ],
+  "forms": [
+    "DRUG PREMIX"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "BIO AGRI MIX LP"
+  ],
+  "status": "MARKETED",
+  "atc": []
+}

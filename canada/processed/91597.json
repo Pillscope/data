@@ -1,0 +1,28 @@
+{
+  "drug_code": "91597",
+  "din": "02431548",
+  "brand_name": "METHYLENE BLUE INJECTION",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "17-MAR-2017",
+  "active_ingredients": [
+    {
+      "name": "METHYLENE BLUE",
+      "strength": "10",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "TELIGENT OU"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "METHYLTHIONINIUM CHLORIDE"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "drug_code": "10903",
+  "din": "00860700",
+  "brand_name": "CLORAZEPATE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "17-JUL-2013",
+  "active_ingredients": [
+    {
+      "name": "CLORAZEPATE DIPOTASSIUM",
+      "strength": "7.5",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "CAPSULE"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "AA PHARMA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "CLORAZEPATE POTASSIUM"
+  ]
+}

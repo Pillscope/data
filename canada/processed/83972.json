@@ -1,0 +1,33 @@
+{
+  "drug_code": "83972",
+  "din": "02354551",
+  "brand_name": "RHINARIS NASAL MIST",
+  "class": "Human",
+  "descriptor": "SOLUTION",
+  "last_update": "29-APR-2015",
+  "active_ingredients": [
+    {
+      "name": "PROPYLENE GLYCOL",
+      "strength": "5",
+      "unit": "%"
+    },
+    {
+      "name": "MACROGOL",
+      "strength": "15",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "SPRAY, METERED DOSE"
+  ],
+  "routes": [
+    "NASAL"
+  ],
+  "companies": [
+    "PENDOPHARM DIVISION OF DE PHARMASCIENCE INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "VARIOUS"
+  ]
+}

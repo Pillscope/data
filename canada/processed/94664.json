@@ -1,0 +1,28 @@
+{
+  "drug_code": "94664",
+  "din": "02459418",
+  "brand_name": "REVLIMID",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "30-MAY-2017",
+  "active_ingredients": [
+    {
+      "name": "LENALIDOMIDE",
+      "strength": "2.5",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "CAPSULE"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "CELGENE INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "LENALIDOMIDE"
+  ]
+}

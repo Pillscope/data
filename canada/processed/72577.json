@@ -1,0 +1,28 @@
+{
+  "drug_code": "72577",
+  "din": "02248240",
+  "brand_name": "ELIGARD 22.5MG",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "15-OCT-2008",
+  "active_ingredients": [
+    {
+      "name": "LEUPROLIDE ACETATE",
+      "strength": "28.2",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "POWDER FOR SUSPENSION, SUSTAINED-RELEASE"
+  ],
+  "routes": [
+    "SUBCUTANEOUS"
+  ],
+  "companies": [
+    "SANOFI-AVENTIS CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "LEUPRORELIN"
+  ]
+}

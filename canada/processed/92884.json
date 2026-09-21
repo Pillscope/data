@@ -1,0 +1,34 @@
+{
+  "drug_code": "92884",
+  "din": "02444054",
+  "brand_name": "ACTIVE ANTI-ACNE TREATMENT KIT",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "11-MAY-2016",
+  "active_ingredients": [
+    {
+      "name": "BENZOYL PEROXIDE",
+      "strength": "2.5",
+      "unit": "%"
+    },
+    {
+      "name": "BENZOYL PEROXIDE",
+      "strength": "2.5",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "KIT",
+    "LOTION"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "FRUIT OF THE EARTH, INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "BENZOYL PEROXIDE"
+  ]
+}

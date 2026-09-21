@@ -1,0 +1,26 @@
+{
+  "drug_code": "12200",
+  "din": "00860735",
+  "brand_name": "DENAGARD",
+  "class": "Veterinary",
+  "descriptor": "MEDICATED PREMIX",
+  "last_update": "14-DEC-2017",
+  "active_ingredients": [
+    {
+      "name": "TIAMULIN (TIAMULIN HYDROGEN FUMARATE)",
+      "strength": "17.8",
+      "unit": "G"
+    }
+  ],
+  "forms": [
+    "DRUG PREMIX"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "ELANCO CANADA LIMITED"
+  ],
+  "status": "APPROVED",
+  "atc": []
+}

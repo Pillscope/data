@@ -1,0 +1,30 @@
+{
+  "drug_code": "19701",
+  "din": "02139499",
+  "brand_name": "MAGNESIUM SULFATE INJECTION",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "05-SEP-2017",
+  "active_ingredients": [
+    {
+      "name": "MAGNESIUM SULFATE",
+      "strength": "500",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "INTRAMUSCULAR",
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "FRESENIUS KABI CANADA LTD"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "MAGNESIUM SULPHATE",
+    "MAGNESIUM SULPHATE"
+  ]
+}

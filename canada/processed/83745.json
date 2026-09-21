@@ -1,0 +1,28 @@
+{
+  "drug_code": "83745",
+  "din": "02352214",
+  "brand_name": "PANTOPRAZOLE FOR INJECTION",
+  "class": "Human",
+  "descriptor": "LYOPHILIZED POWDER",
+  "last_update": "27-JUN-2016",
+  "active_ingredients": [
+    {
+      "name": "PANTOPRAZOLE (PANTOPRAZOLE SODIUM)",
+      "strength": "40",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "POWDER FOR SOLUTION"
+  ],
+  "routes": [
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "FRESENIUS KABI CANADA LTD"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "PANTOPRAZOLE"
+  ]
+}

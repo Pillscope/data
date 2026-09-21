@@ -1,0 +1,28 @@
+{
+  "drug_code": "46832",
+  "din": "01908286",
+  "brand_name": "IMOVAX RABIES RABIES VACCINE INACTIVATED (DCO)",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "29-APR-2008",
+  "active_ingredients": [
+    {
+      "name": "RABIES VACCINE INACTIVATED (HUMAN DIPLOID-CELL CULTURE)",
+      "strength": "2.5",
+      "unit": "UNIT"
+    }
+  ],
+  "forms": [
+    "POWDER FOR SOLUTION"
+  ],
+  "routes": [
+    "INTRAMUSCULAR"
+  ],
+  "companies": [
+    "SANOFI PASTEUR LIMITED"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "RABIES, INACTIVATED, WHOLE VIRUS"
+  ]
+}

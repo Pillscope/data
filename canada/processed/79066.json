@@ -1,0 +1,28 @@
+{
+  "drug_code": "79066",
+  "din": "02305178",
+  "brand_name": "COMPLIMENTS WHITE PETROLEUM JELLY",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "29-APR-2015",
+  "active_ingredients": [
+    {
+      "name": "WHITE PETROLATUM",
+      "strength": "100",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "GEL"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "GEMINI PACKAGING LTD"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "SOFT PARAFFIN AND FAT PRODUCTS"
+  ]
+}

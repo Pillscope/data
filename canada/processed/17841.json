@@ -1,0 +1,28 @@
+{
+  "drug_code": "17841",
+  "din": "02102978",
+  "brand_name": "BENTYLOL",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "05-AUG-2017",
+  "active_ingredients": [
+    {
+      "name": "DICYCLOMINE HYDROCHLORIDE",
+      "strength": "10",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SYRUP"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "APTALIS PHARMA CANADA ULC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "DICYCLOVERINE"
+  ]
+}

@@ -1,0 +1,96 @@
+{
+  "drug_code": "5322",
+  "din": "00580007",
+  "brand_name": "ELECTROVITE",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "25-FEB-2009",
+  "active_ingredients": [
+    {
+      "name": "MAGNESIUM ACETATE",
+      "strength": ".5",
+      "unit": "MG"
+    },
+    {
+      "name": "SODIUM DIACETATE",
+      "strength": ".66",
+      "unit": "MG"
+    },
+    {
+      "name": "VITAMIN D3",
+      "strength": "1322.8",
+      "unit": "UNIT"
+    },
+    {
+      "name": "CALCIUM ACETATE",
+      "strength": ".33",
+      "unit": "MG"
+    },
+    {
+      "name": "VITAMIN A",
+      "strength": "6610.7",
+      "unit": "UNIT"
+    },
+    {
+      "name": "VITAMIN C",
+      "strength": "13.23",
+      "unit": "MG"
+    },
+    {
+      "name": "VITAMIN E",
+      "strength": "1.98",
+      "unit": "UNIT"
+    },
+    {
+      "name": "SODIUM CHLORIDE",
+      "strength": ".66",
+      "unit": "MG"
+    },
+    {
+      "name": "SODIUM ACETATE",
+      "strength": ".33",
+      "unit": "MG"
+    },
+    {
+      "name": "POTASSIUM CHLORIDE",
+      "strength": ".5",
+      "unit": "MG"
+    },
+    {
+      "name": "CALCIUM CHLORIDE",
+      "strength": ".33",
+      "unit": "MG"
+    },
+    {
+      "name": "FOLIC ACID",
+      "strength": ".165",
+      "unit": "MG"
+    },
+    {
+      "name": "VITAMIN B12",
+      "strength": "6.6",
+      "unit": "MCG"
+    },
+    {
+      "name": "VITAMIN B6",
+      "strength": "1.32",
+      "unit": "MG"
+    },
+    {
+      "name": "MENADIONE SODIUM BISULFITE",
+      "strength": "3.3",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "POWDER"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "DOMINION VETERINARY LABORATORIES LTD."
+  ],
+  "status": "MARKETED",
+  "atc": []
+}

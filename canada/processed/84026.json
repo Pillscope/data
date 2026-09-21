@@ -1,0 +1,36 @@
+{
+  "drug_code": "84026",
+  "din": "02355019",
+  "brand_name": "HARTZ HAIRBALL REMEDY PLUS",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "30-MAY-2012",
+  "active_ingredients": [
+    {
+      "name": "GLYCERINE",
+      "strength": "7.000",
+      "unit": "%"
+    },
+    {
+      "name": "MINERAL OIL",
+      "strength": "37.997",
+      "unit": "%"
+    },
+    {
+      "name": "MALT EXTRACT",
+      "strength": "46.498",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "PASTE"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "THE HARTZ MOUNTAIN CORPORATION"
+  ],
+  "status": "MARKETED",
+  "atc": []
+}

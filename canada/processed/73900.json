@@ -1,0 +1,38 @@
+{
+  "drug_code": "73900",
+  "din": "02254077",
+  "brand_name": "PERFORMANCE MOISTURIZER SPF 15",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "22-OCT-2004",
+  "active_ingredients": [
+    {
+      "name": "AVOBENZONE",
+      "strength": "1.0",
+      "unit": "%"
+    },
+    {
+      "name": "OXYBENZONE",
+      "strength": "4.0",
+      "unit": "%"
+    },
+    {
+      "name": "OCTINOXATE",
+      "strength": "7.5",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "CREAM"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "KINESYS PHARMACEUTICAL INC"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "COMBINATIONS OF PROTECTIVES AGAINST UV-RADIATION"
+  ]
+}

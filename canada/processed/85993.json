@@ -1,0 +1,28 @@
+{
+  "drug_code": "85993",
+  "din": "02374609",
+  "brand_name": "APO-MONTELUKAST",
+  "class": "Human",
+  "descriptor": "FILM-COATED",
+  "last_update": "04-DEC-2013",
+  "active_ingredients": [
+    {
+      "name": "MONTELUKAST (MONTELUKAST SODIUM)",
+      "strength": "10",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "APOTEX INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "MONTELUKAST"
+  ]
+}

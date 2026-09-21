@@ -1,0 +1,28 @@
+{
+  "drug_code": "14240",
+  "din": "02003767",
+  "brand_name": "XYLOCAINE ENDOTRACHEAL",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "18-AUG-2017",
+  "active_ingredients": [
+    {
+      "name": "LIDOCAINE (LIDOCAINE HYDROCHLORIDE)",
+      "strength": "100",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "ASPEN PHARMACARE CANADA INC."
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "LIDOCAINE"
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "drug_code": "4718",
+  "din": "00552992",
+  "brand_name": "CACO-IRON-COPPER INJ",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "12-APR-1999",
+  "active_ingredients": [
+    {
+      "name": "FERRIC CHLORIDE",
+      "strength": "5",
+      "unit": "MG"
+    },
+    {
+      "name": "SODIUM CACODYLATE",
+      "strength": "32",
+      "unit": "MG"
+    },
+    {
+      "name": "COPPER GLUCONATE",
+      "strength": "1",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "LIQUID"
+  ],
+  "routes": [
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "UNIVET PHARMACEUTICALS LTD."
+  ],
+  "status": "MARKETED",
+  "atc": []
+}

@@ -1,0 +1,28 @@
+{
+  "drug_code": "90482",
+  "din": "02420252",
+  "brand_name": "BAUSCH + LOMB PEROXICLEAR CLEANING & DISINFECTING SOLUTION",
+  "class": "Disinfectant",
+  "descriptor": "",
+  "last_update": "30-JUN-2014",
+  "active_ingredients": [
+    {
+      "name": "HYDROGEN PEROXIDE",
+      "strength": "3",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "LIQUID"
+  ],
+  "routes": [
+    "DISINFECTANT (Contact Lens)"
+  ],
+  "companies": [
+    "BAUSCH & LOMB INC"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "ARTIFICIAL TEARS AND OTHER INDIFFERENT PREPARATIONS."
+  ]
+}

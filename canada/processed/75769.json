@@ -1,0 +1,28 @@
+{
+  "drug_code": "75769",
+  "din": "02272164",
+  "brand_name": "RIVA-SOTALOL",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "11-JUN-2010",
+  "active_ingredients": [
+    {
+      "name": "SOTALOL HYDROCHLORIDE",
+      "strength": "80",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "LABORATOIRE RIVA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "SOTALOL"
+  ]
+}

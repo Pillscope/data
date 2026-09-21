@@ -1,0 +1,28 @@
+{
+  "drug_code": "94727",
+  "din": "02459965",
+  "brand_name": "AURO-FLECAINIDE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "01-JUN-2017",
+  "active_ingredients": [
+    {
+      "name": "FLECAINIDE ACETATE",
+      "strength": "100",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "AURO PHARMA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "FLECAINIDE"
+  ]
+}

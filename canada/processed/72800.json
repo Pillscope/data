@@ -1,0 +1,28 @@
+{
+  "drug_code": "72800",
+  "din": "02248449",
+  "brand_name": "DOM-PAROXETINE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "12-MAR-2004",
+  "active_ingredients": [
+    {
+      "name": "PAROXETINE (PAROXETINE HYDROCHLORIDE ACETONE SOLVATE)",
+      "strength": "30",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "DOMINION PHARMACAL"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "PAROXETINE"
+  ]
+}

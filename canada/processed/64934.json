@@ -1,0 +1,28 @@
+{
+  "drug_code": "64934",
+  "din": "02241315",
+  "brand_name": "ISOFLURANE USP",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "21-MAR-2016",
+  "active_ingredients": [
+    {
+      "name": "ISOFLURANE",
+      "strength": "99.9",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "LIQUID"
+  ],
+  "routes": [
+    "INHALATION"
+  ],
+  "companies": [
+    "HALOCARBON LABORATORIES, A DIVISION OF HALOCARBON PRODUCTS CORP"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "ISOFLURANE"
+  ]
+}

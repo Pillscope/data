@@ -1,0 +1,28 @@
+{
+  "drug_code": "91002",
+  "din": "02425378",
+  "brand_name": "PRIVA-PANTOPRAZOLE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "28-JAN-2015",
+  "active_ingredients": [
+    {
+      "name": "PANTOPRAZOLE (PANTOPRAZOLE SODIUM SESQUIHYDRATE)",
+      "strength": "40",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET (DELAYED-RELEASE)"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "PHARMAPAR INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "PANTOPRAZOLE"
+  ]
+}

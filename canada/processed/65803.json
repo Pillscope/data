@@ -1,0 +1,28 @@
+{
+  "drug_code": "65803",
+  "din": "02242125",
+  "brand_name": "RIVA-INDAPAMIDE 2.5 MG",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "21-SEP-2009",
+  "active_ingredients": [
+    {
+      "name": "INDAPAMIDE",
+      "strength": "2.5",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "LABORATOIRE RIVA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "INDAPAMIDE"
+  ]
+}

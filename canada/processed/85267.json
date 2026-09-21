@@ -1,0 +1,28 @@
+{
+  "drug_code": "85267",
+  "din": "02367831",
+  "brand_name": "DOCUSATE SODIUM CAPSULES",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "29-MAY-2013",
+  "active_ingredients": [
+    {
+      "name": "DOCUSATE SODIUM",
+      "strength": "100",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "CAPSULE"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "APOTEX INC"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "DOCUSATE SODIUM"
+  ]
+}

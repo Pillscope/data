@@ -1,0 +1,28 @@
+{
+  "drug_code": "87177",
+  "din": "02386194",
+  "brand_name": "ACT BOSENTAN",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "15-OCT-2015",
+  "active_ingredients": [
+    {
+      "name": "BOSENTAN (BOSENTAN MONOHYDRATE)",
+      "strength": "62.5",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "ACTAVIS PHARMA COMPANY"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "BOSENTAN"
+  ]
+}

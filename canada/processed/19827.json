@@ -1,0 +1,28 @@
+{
+  "drug_code": "19827",
+  "din": "02212048",
+  "brand_name": "PMS-CYCLOBENZAPRINE - TAB 10MG",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "17-APR-2009",
+  "active_ingredients": [
+    {
+      "name": "CYCLOBENZAPRINE HYDROCHLORIDE",
+      "strength": "10",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "PHARMASCIENCE INC"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "CYCLOBENZAPRINE"
+  ]
+}

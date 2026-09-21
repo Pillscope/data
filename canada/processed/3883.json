@@ -1,0 +1,28 @@
+{
+  "drug_code": "3883",
+  "din": "00509558",
+  "brand_name": "EPIPEN",
+  "class": "Human",
+  "descriptor": "0.3MG/0.3ML AUTO-INJECTOR",
+  "last_update": "29-JUL-2017",
+  "active_ingredients": [
+    {
+      "name": "EPINEPHRINE",
+      "strength": "0.3",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "INTRAMUSCULAR"
+  ],
+  "companies": [
+    "MYLAN SPECIALTY LP"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "EPINEPHRINE"
+  ]
+}

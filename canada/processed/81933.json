@@ -1,0 +1,26 @@
+{
+  "drug_code": "81933",
+  "din": "02333716",
+  "brand_name": "PHENYLBUTAZONE 20%",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "10-JAN-2011",
+  "active_ingredients": [
+    {
+      "name": "PHENYLBUTAZONE",
+      "strength": "200",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "RAFTER 8 PRODUCTS INC"
+  ],
+  "status": "MARKETED",
+  "atc": []
+}

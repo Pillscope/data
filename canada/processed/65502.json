@@ -1,0 +1,33 @@
+{
+  "drug_code": "65502",
+  "din": "02241835",
+  "brand_name": "ESTALIS 140/50 MCG",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "01-NOV-2017",
+  "active_ingredients": [
+    {
+      "name": "NORETHINDRONE ACETATE",
+      "strength": "140",
+      "unit": "MCG"
+    },
+    {
+      "name": "ESTRADIOL",
+      "strength": "50",
+      "unit": "MCG"
+    }
+  ],
+  "forms": [
+    "PATCH"
+  ],
+  "routes": [
+    "TRANSDERMAL"
+  ],
+  "companies": [
+    "NOVARTIS PHARMACEUTICALS CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "NORETHISTERONE AND ESTROGEN"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "drug_code": "85903",
+  "din": "02373815",
+  "brand_name": "H.E.L.P. NACI 0.9%",
+  "class": "Human",
+  "descriptor": "PRIMING AND RINSING SOLUTION FOR H.E.L.P SYSTEM. FOR EXTRACORPOREAL USE ONLY.",
+  "last_update": "27-MAR-2012",
+  "active_ingredients": [
+    {
+      "name": "SODIUM CHLORIDE",
+      "strength": "9",
+      "unit": "G"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "0-UNASSIGNED"
+  ],
+  "companies": [
+    "B. BRAUN AVITUM AG"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "WASHING AGENTS ETC."
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "drug_code": "1766",
+  "din": "00274895",
+  "brand_name": "SCOUR SUSPENSION",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "04-JAN-2018",
+  "active_ingredients": [
+    {
+      "name": "HYOSCYAMINE SULFATE",
+      "strength": "2.5",
+      "unit": "MCG"
+    },
+    {
+      "name": "NEOMYCIN SULFATE",
+      "strength": "28.6",
+      "unit": "MG"
+    },
+    {
+      "name": "SUCCINYLSULFATHIAZOLE",
+      "strength": "96",
+      "unit": "MG"
+    },
+    {
+      "name": "PECTIN",
+      "strength": "8",
+      "unit": "MG"
+    },
+    {
+      "name": "CALCIUM PHOSPHATE (TRIBASIC)",
+      "strength": "21",
+      "unit": "MG"
+    },
+    {
+      "name": "KAOLIN",
+      "strength": "175",
+      "unit": "MG"
+    },
+    {
+      "name": "ATROPINE SULFATE",
+      "strength": "2.5",
+      "unit": "MCG"
+    }
+  ],
+  "forms": [
+    "SUSPENSION"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "DOMINION VETERINARY LABORATORIES LTD."
+  ],
+  "status": "MARKETED",
+  "atc": []
+}

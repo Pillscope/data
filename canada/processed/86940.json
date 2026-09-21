@@ -1,0 +1,43 @@
+{
+  "drug_code": "86940",
+  "din": "02383640",
+  "brand_name": "M.A.C. STUDIO MOISTURE FIX SPF 15",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "19-DEC-2012",
+  "active_ingredients": [
+    {
+      "name": "AVOBENZONE",
+      "strength": "1",
+      "unit": "%"
+    },
+    {
+      "name": "OCTOCRYLENE",
+      "strength": "1",
+      "unit": "%"
+    },
+    {
+      "name": "OCTISALATE",
+      "strength": "3.5",
+      "unit": "%"
+    },
+    {
+      "name": "OCTINOXATE",
+      "strength": "3.5",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "LOTION"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "MAKE UP ART COSMETICS DIST MAC"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "COMBINATIONS OF PROTECTIVES AGAINST UV-RADIATION"
+  ]
+}

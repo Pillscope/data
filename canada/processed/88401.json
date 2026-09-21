@@ -1,0 +1,28 @@
+{
+  "drug_code": "88401",
+  "din": "02399105",
+  "brand_name": "APO-CANDESARTAN",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "28-AUG-2013",
+  "active_ingredients": [
+    {
+      "name": "CANDESARTAN CILEXETIL",
+      "strength": "32",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "APOTEX INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "CANDESARTAN"
+  ]
+}

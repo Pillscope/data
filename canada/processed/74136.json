@@ -1,0 +1,28 @@
+{
+  "drug_code": "74136",
+  "din": "02256134",
+  "brand_name": "APO-BISOPROLOL",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "11-DEC-2006",
+  "active_ingredients": [
+    {
+      "name": "BISOPROLOL FUMARATE",
+      "strength": "5",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "APOTEX INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "BISOPROLOL"
+  ]
+}

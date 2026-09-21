@@ -1,0 +1,28 @@
+{
+  "drug_code": "72060",
+  "din": "02247766",
+  "brand_name": "CETROTIDE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "19-OCT-2011",
+  "active_ingredients": [
+    {
+      "name": "CETRORELIX (CETRORELIX ACETATE)",
+      "strength": "0.25",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "POWDER FOR SOLUTION"
+  ],
+  "routes": [
+    "SUBCUTANEOUS"
+  ],
+  "companies": [
+    "EMD SERONO A DIVISION OF EMD INC CANADA"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "CETRORELIX"
+  ]
+}

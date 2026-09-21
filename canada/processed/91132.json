@@ -1,0 +1,28 @@
+{
+  "drug_code": "91132",
+  "din": "02426757",
+  "brand_name": "ACH-CAPECITABINE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "22-SEP-2014",
+  "active_ingredients": [
+    {
+      "name": "CAPECITABINE",
+      "strength": "150",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "ACCORD HEALTHCARE INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "CAPECITABINE"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "drug_code": "9569",
+  "din": "00238481",
+  "brand_name": "ATRO-SA",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "05-APR-2017",
+  "active_ingredients": [
+    {
+      "name": "ATROPINE SULFATE",
+      "strength": "0.5",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "INTRAMUSCULAR",
+    "INTRAVENOUS",
+    "SUBCUTANEOUS"
+  ],
+  "companies": [
+    "RAFTER 8 PRODUCTS INC"
+  ],
+  "status": "APPROVED",
+  "atc": []
+}

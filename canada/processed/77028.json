@@ -1,0 +1,28 @@
+{
+  "drug_code": "77028",
+  "din": "02284723",
+  "brand_name": "SIMVASTATIN",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "22-MAR-2010",
+  "active_ingredients": [
+    {
+      "name": "SIMVASTATIN",
+      "strength": "5",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "SANIS HEALTH INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "SIMVASTATIN"
+  ]
+}

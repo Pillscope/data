@@ -1,0 +1,33 @@
+{
+  "drug_code": "16494",
+  "din": "02060019",
+  "brand_name": "SOLUPREP QD WIPE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "29-APR-2014",
+  "active_ingredients": [
+    {
+      "name": "CHLORHEXIDINE GLUCONATE",
+      "strength": "0.5",
+      "unit": "%"
+    },
+    {
+      "name": "ISOPROPYL ALCOHOL",
+      "strength": "70",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "WIPE"
+  ],
+  "routes": [
+    "TOPICAL (HOSPITAL/HC FACILITIES)"
+  ],
+  "companies": [
+    "3M CANADA COMPANY"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "CHLORHEXIDINE, COMBINATIONS"
+  ]
+}

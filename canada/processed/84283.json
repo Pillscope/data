@@ -1,0 +1,28 @@
+{
+  "drug_code": "84283",
+  "din": "02357739",
+  "brand_name": "DOVE MEN+CARE FORTIFYING SHAMPOO + CONDITIONER ANTI-DANDRUFF 2 IN 1",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "18-AUG-2016",
+  "active_ingredients": [
+    {
+      "name": "PYRITHIONE ZINC",
+      "strength": "1",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "SHAMPOO"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "UNILEVER CANADA"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "PYRITHIONE ZINC"
+  ]
+}

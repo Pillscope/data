@@ -1,0 +1,28 @@
+{
+  "drug_code": "73439",
+  "din": "02249561",
+  "brand_name": "FLUMAZENIL INJECTION",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "06-MAY-2015",
+  "active_ingredients": [
+    {
+      "name": "FLUMAZENIL",
+      "strength": "0.1",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "SANDOZ CANADA INCORPORATED"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "FLUMAZENIL"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "drug_code": "81584",
+  "din": "02330083",
+  "brand_name": "RIVA-RABEPRAZOLE EC",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "26-OCT-2009",
+  "active_ingredients": [
+    {
+      "name": "RABEPRAZOLE SODIUM",
+      "strength": "10",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET (ENTERIC-COATED)"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "LABORATOIRE RIVA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "RABEPRAZOLE"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "drug_code": "16522",
+  "din": "02047535",
+  "brand_name": "ORFENACE TABLET 100MG",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "27-APR-2011",
+  "active_ingredients": [
+    {
+      "name": "ORPHENADRINE CITRATE",
+      "strength": "100",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "STERIMAX INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "ORPHENADRINE (CITRATE)"
+  ]
+}

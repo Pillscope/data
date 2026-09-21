@@ -1,0 +1,48 @@
+{
+  "drug_code": "89730",
+  "din": "02412632",
+  "brand_name": "DAILY PROTECTION MOISTURIZING FACE LOTION (SPF 30)",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "23-JUN-2014",
+  "active_ingredients": [
+    {
+      "name": "ZINC OXIDE",
+      "strength": "4.85",
+      "unit": "%"
+    },
+    {
+      "name": "TITANIUM DIOXIDE",
+      "strength": "2.38",
+      "unit": "%"
+    },
+    {
+      "name": "OCTISALATE",
+      "strength": "4.50",
+      "unit": "%"
+    },
+    {
+      "name": "ENSULIZOLE",
+      "strength": "2.00",
+      "unit": "%"
+    },
+    {
+      "name": "OCTINOXATE",
+      "strength": "7.50",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "LOTION"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "BEIERSDORF CANADA INC"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "COMBINATIONS OF PROTECTIVES AGAINST UV-RADIATION"
+  ]
+}

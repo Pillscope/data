@@ -1,0 +1,28 @@
+{
+  "drug_code": "12419",
+  "din": "01926306",
+  "brand_name": "PANECTYL TAB 2.5MG",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "24-JUL-2017",
+  "active_ingredients": [
+    {
+      "name": "TRIMEPRAZINE (TRIMEPRAZINE TARTRATE)",
+      "strength": "2.5",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "ERFA CANADA 2012 INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "ALIMEMAZINE"
+  ]
+}

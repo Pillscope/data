@@ -1,0 +1,28 @@
+{
+  "drug_code": "81198",
+  "din": "02326620",
+  "brand_name": "PMS-ROPINIROLE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "29-JUL-2010",
+  "active_ingredients": [
+    {
+      "name": "ROPINIROLE (ROPINIROLE HYDROCHLORIDE)",
+      "strength": "2.0",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "PHARMASCIENCE INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "ROPINIROLE"
+  ]
+}

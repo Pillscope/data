@@ -1,0 +1,26 @@
+{
+  "drug_code": "87414",
+  "din": "02388634",
+  "brand_name": "FIRST DEFENCE",
+  "class": "Veterinary",
+  "descriptor": "TEAT DIP",
+  "last_update": "27-JUL-2016",
+  "active_ingredients": [
+    {
+      "name": "IODINE (NONYL PHENOXY POLYOXYETHYLENE ETHANOL-IODINE COMPLEX)",
+      "strength": "0.5",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "AGRISAN SPECIALTY CHEMICAL & PHARMACEUTICAL"
+  ],
+  "status": "APPROVED",
+  "atc": []
+}

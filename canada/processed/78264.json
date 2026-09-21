@@ -1,0 +1,26 @@
+{
+  "drug_code": "78264",
+  "din": "02297272",
+  "brand_name": "PRILIUM 75 MG (IMIDAPRIL HYDROCHLORIDE)",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "17-MAR-2009",
+  "active_ingredients": [
+    {
+      "name": "IMIDAPRIL HYDROCHLORIDE",
+      "strength": "0.075",
+      "unit": "G"
+    }
+  ],
+  "forms": [
+    "POWDER FOR SOLUTION"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "VETOQUINOL N A INC"
+  ],
+  "status": "APPROVED",
+  "atc": []
+}

@@ -1,0 +1,28 @@
+{
+  "drug_code": "70103",
+  "din": "02245977",
+  "brand_name": "RECOMBIVAX HB     -(ADULT DIALYSIS-PRESERVATIVE FREE)",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "01-FEB-2011",
+  "active_ingredients": [
+    {
+      "name": "HEPATITIS B SURFACE ANTIGEN (RECOMBINANT)",
+      "strength": "40",
+      "unit": "MCG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "INTRAMUSCULAR"
+  ],
+  "companies": [
+    "MERCK CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "HEPATITIS B, PURIFIED ANTIGEN"
+  ]
+}

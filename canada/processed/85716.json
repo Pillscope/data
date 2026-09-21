@@ -1,0 +1,33 @@
+{
+  "drug_code": "85716",
+  "din": "02372037",
+  "brand_name": "ANTIBIOTIC OINTMENT",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "16-JAN-2014",
+  "active_ingredients": [
+    {
+      "name": "POLYMYXIN B SULFATE",
+      "strength": "10000",
+      "unit": "UNIT"
+    },
+    {
+      "name": "BACITRACIN ZINC",
+      "strength": "500",
+      "unit": "UNIT"
+    }
+  ],
+  "forms": [
+    "OINTMENT"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "CANADIAN CUSTOM PACKAGING COMPANY"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "BACITRACIN, COMBINATIONS"
+  ]
+}

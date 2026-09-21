@@ -1,0 +1,28 @@
+{
+  "drug_code": "72199",
+  "din": "02247890",
+  "brand_name": "SECCURE",
+  "class": "Disinfectant",
+  "descriptor": "",
+  "last_update": "29-APR-2015",
+  "active_ingredients": [
+    {
+      "name": "POTASSIUM PEROXYMONOSULFATE",
+      "strength": "34.4",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "POWDER"
+  ],
+  "routes": [
+    "DISINFECTANT (Hospital/HC Facilities)"
+  ],
+  "companies": [
+    "SECCURE INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "TECHNICAL DISINFECTANTS"
+  ]
+}

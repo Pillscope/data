@@ -1,0 +1,34 @@
+{
+  "drug_code": "92495",
+  "din": "02440571",
+  "brand_name": "NU-DERM NORMAL OILY / NORMALE GRASSE",
+  "class": "Human",
+  "descriptor": "KIT CONTAINS 7 PRODUCTS",
+  "last_update": "27-JUN-2016",
+  "active_ingredients": [
+    {
+      "name": "ZINC OXIDE",
+      "strength": "10.5",
+      "unit": "%"
+    },
+    {
+      "name": "OCTINOXATE",
+      "strength": "7.5",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "KIT",
+    "LOTION"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "OBAGI MEDICAL PRODUCTS A DIV OF VALEANT PHARMACEUTICALS NORTH AMERICA LLC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "COMBINATIONS OF PROTECTIVES AGAINST UV-RADIATION"
+  ]
+}

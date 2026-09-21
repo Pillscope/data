@@ -1,0 +1,28 @@
+{
+  "drug_code": "90860",
+  "din": "02423855",
+  "brand_name": "ACT ESOMEPRAZOLE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "11-SEP-2017",
+  "active_ingredients": [
+    {
+      "name": "ESOMEPRAZOLE (Esomeprazole magnesium dihydrate)",
+      "strength": "20",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET (DELAYED-RELEASE)"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "TEVA CANADA LIMITED"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "ESOMEPRAZOLE"
+  ]
+}

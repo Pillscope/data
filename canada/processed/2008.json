@@ -1,0 +1,27 @@
+{
+  "drug_code": "2008",
+  "din": "00308455",
+  "brand_name": "DEXAMETHASONE INJ 2MG/ML",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "20-SEP-2004",
+  "active_ingredients": [
+    {
+      "name": "DEXAMETHASONE (DEXAMETHASONE SODIUM PHOSPHATE)",
+      "strength": "2",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "LIQUID"
+  ],
+  "routes": [
+    "INTRAMUSCULAR",
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "PROFESSIONAL VETERINARY LABORATORIES"
+  ],
+  "status": "MARKETED",
+  "atc": []
+}

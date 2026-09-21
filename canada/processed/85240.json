@@ -1,0 +1,28 @@
+{
+  "drug_code": "85240",
+  "din": "02367564",
+  "brand_name": "JAMP-ATENOLOL",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "07-JUL-2011",
+  "active_ingredients": [
+    {
+      "name": "ATENOLOL",
+      "strength": "50",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "JAMP PHARMA CORPORATION"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "ATENOLOL"
+  ]
+}

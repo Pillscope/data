@@ -1,0 +1,28 @@
+{
+  "drug_code": "84407",
+  "din": "02359049",
+  "brand_name": "S40 STERILANT CONCENTRATE",
+  "class": "Disinfectant",
+  "descriptor": "",
+  "last_update": "03-DEC-2013",
+  "active_ingredients": [
+    {
+      "name": "PERACETIC ACID",
+      "strength": "35",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "LIQUID"
+  ],
+  "routes": [
+    "DISINFECTANT (Medical Instruments)"
+  ],
+  "companies": [
+    "STERIS CORPORATION"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "TECHNICAL DISINFECTANTS"
+  ]
+}

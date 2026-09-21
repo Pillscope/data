@@ -1,0 +1,28 @@
+{
+  "drug_code": "61286",
+  "din": "02237921",
+  "brand_name": "MYLAN-VERAPAMIL",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "07-APR-2010",
+  "active_ingredients": [
+    {
+      "name": "VERAPAMIL HYDROCHLORIDE",
+      "strength": "80",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "MYLAN PHARMACEUTICALS ULC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "VERAPAMIL"
+  ]
+}

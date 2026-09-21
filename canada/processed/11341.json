@@ -1,0 +1,33 @@
+{
+  "drug_code": "11341",
+  "din": "00703419",
+  "brand_name": "CARBOSYLANE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "15-MAR-2017",
+  "active_ingredients": [
+    {
+      "name": "DIMETHICONE",
+      "strength": "45",
+      "unit": "MG"
+    },
+    {
+      "name": "CHARCOAL ACTIVATED",
+      "strength": "140",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "CAPSULE"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "LABORATOIRES GRIMBERG"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "MEDICINAL CHARCOAL, COMBINATIONS"
+  ]
+}

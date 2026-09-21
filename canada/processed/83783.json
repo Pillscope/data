@@ -1,0 +1,29 @@
+{
+  "drug_code": "83783",
+  "din": "02352575",
+  "brand_name": "BERINERT 500",
+  "class": "Human",
+  "descriptor": "HUMAN C1 ESTERASE INHIBITOR 400 - 625 IU. SINGLE-USE VIAL & DILUENT.",
+  "last_update": "30-AUG-2017",
+  "active_ingredients": [
+    {
+      "name": "C1 Esterase Inhibitor (Human)",
+      "strength": "500",
+      "unit": "UNIT"
+    }
+  ],
+  "forms": [
+    "KIT",
+    "POWDER FOR SOLUTION"
+  ],
+  "routes": [
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "CSL BEHRING CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "C1-INHIBITOR, plasma derived"
+  ]
+}

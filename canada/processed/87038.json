@@ -1,0 +1,28 @@
+{
+  "drug_code": "87038",
+  "din": "02384671",
+  "brand_name": "DOBUTAMINE INJECTION SDZ",
+  "class": "Human",
+  "descriptor": "FOR I.V. INFUSION ONLY. 20ML SINGLE USE AMPOULES.",
+  "last_update": "11-DEC-2013",
+  "active_ingredients": [
+    {
+      "name": "DOBUTAMINE (DOBUTAMINE HYDROCHLORIDE)",
+      "strength": "12.5",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "SANDOZ CANADA INCORPORATED"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "DOBUTAMINE"
+  ]
+}

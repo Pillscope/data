@@ -1,0 +1,29 @@
+{
+  "drug_code": "91641",
+  "din": "02431947",
+  "brand_name": "RIXUBIS",
+  "class": "Human",
+  "descriptor": "SINGLE-USE VIAL AND DILUENT",
+  "last_update": "13-APR-2018",
+  "active_ingredients": [
+    {
+      "name": "Nonacog Gamma",
+      "strength": "1000",
+      "unit": "UNIT"
+    }
+  ],
+  "forms": [
+    "KIT",
+    "POWDER FOR SOLUTION"
+  ],
+  "routes": [
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "SHIRE PHARMA CANADA ULC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "COAGULATION FACTOR IX"
+  ]
+}

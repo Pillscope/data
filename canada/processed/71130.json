@@ -1,0 +1,29 @@
+{
+  "drug_code": "71130",
+  "din": "02246903",
+  "brand_name": "ACCEL TB",
+  "class": "Disinfectant",
+  "descriptor": "",
+  "last_update": "27-JUL-2011",
+  "active_ingredients": [
+    {
+      "name": "HYDROGEN PEROXIDE",
+      "strength": "0.5",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "LIQUID"
+  ],
+  "routes": [
+    "DISINFECTANT (Food Premises)",
+    "DISINFECTANT (Hospital/HC Facilities)"
+  ],
+  "companies": [
+    "VIROX TECHNOLOGIES INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "TECHNICAL DISINFECTANTS"
+  ]
+}

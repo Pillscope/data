@@ -1,0 +1,26 @@
+{
+  "drug_code": "9566",
+  "din": "00786012",
+  "brand_name": "DEXONE PWR",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "12-APR-1999",
+  "active_ingredients": [
+    {
+      "name": "DEXAMETHASONE",
+      "strength": "10",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "POWDER"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "JAAPHARM CANADA INC."
+  ],
+  "status": "MARKETED",
+  "atc": []
+}

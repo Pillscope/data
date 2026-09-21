@@ -1,0 +1,28 @@
+{
+  "drug_code": "85381",
+  "din": "02368846",
+  "brand_name": "AZITHROMYCIN FOR INJECTION",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "03-NOV-2011",
+  "active_ingredients": [
+    {
+      "name": "AZITHROMYCIN (AZITHROMYCIN MONOHYDRATE)",
+      "strength": "500",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "POWDER FOR SOLUTION"
+  ],
+  "routes": [
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "STERIMAX INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "AZITHROMYCIN"
+  ]
+}

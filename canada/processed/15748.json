@@ -1,0 +1,26 @@
+{
+  "drug_code": "15748",
+  "din": "02057832",
+  "brand_name": "PROGRAM SUSPENSION",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "22-NOV-2017",
+  "active_ingredients": [
+    {
+      "name": "LUFENURON",
+      "strength": "133",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SUSPENSION"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "ELANCO CANADA LIMITED"
+  ],
+  "status": "APPROVED",
+  "atc": []
+}

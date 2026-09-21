@@ -1,0 +1,28 @@
+{
+  "drug_code": "92524",
+  "din": "02440881",
+  "brand_name": "STUBBORN ACNE CLEANSER",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "22-FEB-2017",
+  "active_ingredients": [
+    {
+      "name": "BENZOYL PEROXIDE",
+      "strength": "3.5",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "PASTE"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "JOHNSON & JOHNSON INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "BENZOYL PEROXIDE"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "drug_code": "67060",
+  "din": "02243180",
+  "brand_name": "APO-FENO-MICRO CAPSULES",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "10-MAR-2006",
+  "active_ingredients": [
+    {
+      "name": "FENOFIBRATE",
+      "strength": "67",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "CAPSULE"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "APOTEX INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "FENOFIBRATE"
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "drug_code": "1320",
+  "din": "00236306",
+  "brand_name": "BLOOD STOP POWDER DOMINION",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "13-AUG-2003",
+  "active_ingredients": [
+    {
+      "name": "TANNIC ACID",
+      "strength": "1",
+      "unit": "%"
+    },
+    {
+      "name": "THYMOL IODIDE",
+      "strength": ".1",
+      "unit": "%"
+    },
+    {
+      "name": "FERROUS SULFATE",
+      "strength": "84",
+      "unit": "%"
+    },
+    {
+      "name": "ALUMINUM AMMONIUM SULFATE DODECAHYDRATE",
+      "strength": "5",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "POWDER"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "DOMINION VETERINARY LABORATORIES LTD."
+  ],
+  "status": "MARKETED",
+  "atc": []
+}

@@ -1,0 +1,28 @@
+{
+  "drug_code": "83498",
+  "din": "02349760",
+  "brand_name": "STERILE WATER FOR INJECTION USP",
+  "class": "Human",
+  "descriptor": "10ML . SINGLE USE VIAL",
+  "last_update": "18-DEC-2012",
+  "active_ingredients": [
+    {
+      "name": "WATER",
+      "strength": "10",
+      "unit": "ML"
+    }
+  ],
+  "forms": [
+    "LIQUID"
+  ],
+  "routes": [
+    "PARENTERAL (UNSPECIFIED)"
+  ],
+  "companies": [
+    "LABORATOIRES STERIGEN INC"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "SOLVENTS AND DILUTING AGENTS,INCL IRRIGAT SOLUT"
+  ]
+}

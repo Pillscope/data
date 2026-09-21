@@ -1,0 +1,28 @@
+{
+  "drug_code": "4302",
+  "din": "00402796",
+  "brand_name": "ZYLOPRIM",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "25-JAN-2011",
+  "active_ingredients": [
+    {
+      "name": "ALLOPURINOL",
+      "strength": "300",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "AA PHARMA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "ALLOPURINOL"
+  ]
+}

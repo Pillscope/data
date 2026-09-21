@@ -1,0 +1,28 @@
+{
+  "drug_code": "76525",
+  "din": "02279649",
+  "brand_name": "APO-TOPIRAMATE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "06-NOV-2006",
+  "active_ingredients": [
+    {
+      "name": "TOPIRAMATE",
+      "strength": "200",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "APOTEX INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "TOPIRAMATE"
+  ]
+}

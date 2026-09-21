@@ -1,0 +1,33 @@
+{
+  "drug_code": "85902",
+  "din": "02373807",
+  "brand_name": "H.E.L.P. ACETATE BUFFER PH 4.85",
+  "class": "Human",
+  "descriptor": "BUFFFER SOLUTION FOR PLASMA DIALYSIS WITH THE H.E.L.P SYSTEM. EXTRACORPOREAL USE ONLY (SINGLE-USE)",
+  "last_update": "27-MAR-2012",
+  "active_ingredients": [
+    {
+      "name": "SODIUM ACETATE",
+      "strength": "27.22",
+      "unit": "G"
+    },
+    {
+      "name": "ACETIC ACID",
+      "strength": "6.82",
+      "unit": "G"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "DIALYSIS"
+  ],
+  "companies": [
+    "B. BRAUN AVITUM AG"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "HEMODIALYTICS, CONCENTRATES"
+  ]
+}

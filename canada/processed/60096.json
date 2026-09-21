@@ -1,0 +1,28 @@
+{
+  "drug_code": "60096",
+  "din": "02236807",
+  "brand_name": "PMS-VALPROIC ACID",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "24-FEB-2006",
+  "active_ingredients": [
+    {
+      "name": "VALPROIC ACID (SODIUM VALPROATE)",
+      "strength": "250",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SYRUP"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "PHARMASCIENCE INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "VALPROIC ACID"
+  ]
+}

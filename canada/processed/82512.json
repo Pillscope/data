@@ -1,0 +1,28 @@
+{
+  "drug_code": "82512",
+  "din": "02339528",
+  "brand_name": "AFINITOR",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "07-JUN-2013",
+  "active_ingredients": [
+    {
+      "name": "EVEROLIMUS",
+      "strength": "10",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "NOVARTIS PHARMACEUTICALS CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "EVEROLIMUS"
+  ]
+}

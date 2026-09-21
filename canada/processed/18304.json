@@ -1,0 +1,29 @@
+{
+  "drug_code": "18304",
+  "din": "02160560",
+  "brand_name": "STAPHICIDE S",
+  "class": "Disinfectant",
+  "descriptor": "",
+  "last_update": "17-SEP-2012",
+  "active_ingredients": [
+    {
+      "name": "BENZALKONIUM CHLORIDE",
+      "strength": "1.6",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "LIQUID"
+  ],
+  "routes": [
+    "DISINFECTANT (Food Premises)",
+    "DISINFECTANT (Hospital/HC Facilities)"
+  ],
+  "companies": [
+    "ASSOCIATED SANITATION INC."
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "TECHNICAL DISINFECTANTS"
+  ]
+}

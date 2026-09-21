@@ -1,0 +1,31 @@
+{
+  "drug_code": "80166",
+  "din": "02316137",
+  "brand_name": "PROFENDER",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "28-AUG-2012",
+  "active_ingredients": [
+    {
+      "name": "PRAZIQUANTEL",
+      "strength": "30.0",
+      "unit": "MG"
+    },
+    {
+      "name": "EMODEPSIDE",
+      "strength": "7.5",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "BAYER INC., ANIMAL HEALTH"
+  ],
+  "status": "APPROVED",
+  "atc": []
+}

@@ -1,0 +1,35 @@
+{
+  "drug_code": "4761",
+  "din": "00532762",
+  "brand_name": "CALCIUM INJ",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "06-JUL-2011",
+  "active_ingredients": [
+    {
+      "name": "CALCIUM GLYCEROPHOSPHATE",
+      "strength": "10",
+      "unit": "MG"
+    },
+    {
+      "name": "CALCIUM LEVULINATE",
+      "strength": "15",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "LIQUID"
+  ],
+  "routes": [
+    "INTRAMUSCULAR",
+    "INTRAVENOUS",
+    "SUBCUTANEOUS"
+  ],
+  "companies": [
+    "KRIPPS PHARMACY LTD."
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "CALCIUM (DIFFERENT SALTS IN COMBINATION)"
+  ]
+}

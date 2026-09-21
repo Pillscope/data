@@ -1,0 +1,28 @@
+{
+  "drug_code": "94477",
+  "din": "02457733",
+  "brand_name": "MDK-NITISINONE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "19-MAY-2017",
+  "active_ingredients": [
+    {
+      "name": "NITISINONE",
+      "strength": "10",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "CAPSULE"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "MENDELIKABS INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "NITISINONE"
+  ]
+}

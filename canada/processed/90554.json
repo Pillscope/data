@@ -1,0 +1,28 @@
+{
+  "drug_code": "90554",
+  "din": "02420945",
+  "brand_name": "CETYLPYRIDINIUM CHLORIDE ANTISEPTIC ORAL RINSE 0.07 % W/W",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "16-JAN-2017",
+  "active_ingredients": [
+    {
+      "name": "CETYLPYRIDINIUM CHLORIDE",
+      "strength": "0.07",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "BUCCAL"
+  ],
+  "companies": [
+    "CANADIAN CUSTOM PACKAGING COMPANY"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "CETYLPYRIDINIUM"
+  ]
+}

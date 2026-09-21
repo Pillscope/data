@@ -1,0 +1,28 @@
+{
+  "drug_code": "63078",
+  "din": "02239608",
+  "brand_name": "CELEXA 40 MG",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "19-NOV-2008",
+  "active_ingredients": [
+    {
+      "name": "CITALOPRAM (CITALOPRAM HYDROBROMIDE)",
+      "strength": "40",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "LUNDBECK CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "CITALOPRAM"
+  ]
+}

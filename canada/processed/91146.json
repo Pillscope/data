@@ -1,0 +1,28 @@
+{
+  "drug_code": "91146",
+  "din": "02426919",
+  "brand_name": "URSODIOL TABLETS USP",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "21-APR-2016",
+  "active_ingredients": [
+    {
+      "name": "URSODIOL",
+      "strength": "500",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "GLENMARK PHARMACEUTICALS CANADA INC."
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "URSODEOXYCHOLIC ACID"
+  ]
+}

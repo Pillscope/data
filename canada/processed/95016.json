@@ -1,0 +1,28 @@
+{
+  "drug_code": "95016",
+  "din": "02462400",
+  "brand_name": "BRINAVESS",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "09-FEB-2018",
+  "active_ingredients": [
+    {
+      "name": "VERNAKALANT HYDROCHLORIDE",
+      "strength": "20",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "CARDIOME UK LIMITED"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "VERNAKALANT"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "drug_code": "228",
+  "din": "00037834",
+  "brand_name": "SODIUM CHLORIDE IRRIGATION USP",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "14-NOV-2017",
+  "active_ingredients": [
+    {
+      "name": "SODIUM CHLORIDE",
+      "strength": "9",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "INTRAPERITONEAL",
+    "IRRIGATION",
+    "TOPICAL"
+  ],
+  "companies": [
+    "ICU MEDICAL CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "SODIUM CHLORIDE"
+  ]
+}

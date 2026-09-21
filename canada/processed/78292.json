@@ -1,0 +1,28 @@
+{
+  "drug_code": "78292",
+  "din": "02297582",
+  "brand_name": "MOTRIN LIQUID GELS 200MG",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "07-JUL-2016",
+  "active_ingredients": [
+    {
+      "name": "IBUPROFEN",
+      "strength": "200",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "CAPSULE"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "MCNEIL CONSUMER HEALTHCARE DIVISION OF JOHNSON & JOHNSON INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "IBUPROFEN"
+  ]
+}

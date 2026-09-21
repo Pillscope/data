@@ -1,0 +1,28 @@
+{
+  "drug_code": "11499",
+  "din": "01922734",
+  "brand_name": "HEALTH CARE E-2 ANTIS LOT SOAP",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "10-MAY-2016",
+  "active_ingredients": [
+    {
+      "name": "CHLOROXYLENOL",
+      "strength": ".5",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "LOTION"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "INOPAK LTD."
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "CHLOROXYLENOL"
+  ]
+}

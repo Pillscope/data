@@ -1,0 +1,29 @@
+{
+  "drug_code": "86817",
+  "din": "02382326",
+  "brand_name": "HEPARIN SODIUM INJECTION USP",
+  "class": "Human",
+  "descriptor": "WITH PRESERVATIVE. 10,000 UNITS/2ML (1ML FILL) VIALS. (MULTIDOSE)",
+  "last_update": "12-MAR-2013",
+  "active_ingredients": [
+    {
+      "name": "HEPARIN SODIUM",
+      "strength": "10000",
+      "unit": "UNIT"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "INTRAVENOUS",
+    "SUBCUTANEOUS"
+  ],
+  "companies": [
+    "PFIZER CANADA INC"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "HEPARIN"
+  ]
+}

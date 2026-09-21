@@ -1,0 +1,27 @@
+{
+  "drug_code": "44135",
+  "din": "02169509",
+  "brand_name": "DRONCIT INJECTABLE - IM SC 56.8MG/ML",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "28-OCT-2013",
+  "active_ingredients": [
+    {
+      "name": "PRAZIQUANTEL",
+      "strength": "56.8",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "INTRAMUSCULAR",
+    "SUBCUTANEOUS"
+  ],
+  "companies": [
+    "BAYER INC., ANIMAL HEALTH"
+  ],
+  "status": "MARKETED",
+  "atc": []
+}

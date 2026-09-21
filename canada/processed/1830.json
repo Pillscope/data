@@ -1,0 +1,33 @@
+{
+  "drug_code": "1830",
+  "din": "00284106",
+  "brand_name": "XYLOCAINE 2% W EPINEPHRINE 1:200000",
+  "class": "Human",
+  "descriptor": "20 ML SINGLE USE VIAL",
+  "last_update": "17-AUG-2017",
+  "active_ingredients": [
+    {
+      "name": "EPINEPHRINE (EPINEPHRINE BITARTRATE)",
+      "strength": "5",
+      "unit": "MCG"
+    },
+    {
+      "name": "LIDOCAINE HYDROCHLORIDE",
+      "strength": "20",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "EPIDURAL"
+  ],
+  "companies": [
+    "ASPEN PHARMACARE CANADA INC."
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "LIDOCAINE, COMBINATIONS"
+  ]
+}

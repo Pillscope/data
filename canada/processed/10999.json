@@ -1,0 +1,33 @@
+{
+  "drug_code": "10999",
+  "din": "00800686",
+  "brand_name": "Z-PLUS SHAMPOO",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "10-MAY-2016",
+  "active_ingredients": [
+    {
+      "name": "PYRITHIONE ZINC",
+      "strength": "2",
+      "unit": "%"
+    },
+    {
+      "name": "MENTHOL",
+      "strength": "0.3",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "SHAMPOO"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "DORMER LABORATORIES INC."
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "PYRITHIONE ZINC"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "drug_code": "68110",
+  "din": "02244149",
+  "brand_name": "PROTOPIC",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "15-JUN-2017",
+  "active_ingredients": [
+    {
+      "name": "TACROLIMUS",
+      "strength": "0.03",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "OINTMENT"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "LEO PHARMA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "TACROLIMUS"
+  ]
+}

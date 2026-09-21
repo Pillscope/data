@@ -1,0 +1,28 @@
+{
+  "drug_code": "85628",
+  "din": "02371081",
+  "brand_name": "XEOMIN",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "11-JAN-2013",
+  "active_ingredients": [
+    {
+      "name": "IncobotulinumtoxinA",
+      "strength": "50",
+      "unit": "UNIT"
+    }
+  ],
+  "forms": [
+    "POWDER FOR SOLUTION"
+  ],
+  "routes": [
+    "INTRAMUSCULAR"
+  ],
+  "companies": [
+    "MERZ PHARMACEUTICALS GMBH"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "BOTULINUM TOXIN"
+  ]
+}

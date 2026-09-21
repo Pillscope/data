@@ -1,0 +1,28 @@
+{
+  "drug_code": "12939",
+  "din": "00878936",
+  "brand_name": "NORVASC TAB 10MG",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "18-MAY-2011",
+  "active_ingredients": [
+    {
+      "name": "AMLODIPINE (AMLODIPINE BESYLATE)",
+      "strength": "10",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "PFIZER CANADA INC"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "AMLODIPINE"
+  ]
+}

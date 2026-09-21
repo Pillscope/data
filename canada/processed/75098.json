@@ -1,0 +1,28 @@
+{
+  "drug_code": "75098",
+  "din": "02265524",
+  "brand_name": "ONDANSETRON INJECTION",
+  "class": "Human",
+  "descriptor": "PRESERVATIVE-FREE",
+  "last_update": "05-MAY-2015",
+  "active_ingredients": [
+    {
+      "name": "ONDANSETRON (ONDANSETRON HYDROCHLORIDE DIHYDRATE)",
+      "strength": "2",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "TEVA CANADA LIMITED"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "ONDANSETRON"
+  ]
+}

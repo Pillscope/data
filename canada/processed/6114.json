@@ -1,0 +1,26 @@
+{
+  "drug_code": "6114",
+  "din": "00646644",
+  "brand_name": "SANI-WASH LAVE-PIS 1.6%",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "04-AUG-2017",
+  "active_ingredients": [
+    {
+      "name": "CHLORHEXIDINE ACETATE",
+      "strength": "1.6",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "LIQUID"
+  ],
+  "routes": [
+    "UDDER WASH"
+  ],
+  "companies": [
+    "WESTAGRO CANADA"
+  ],
+  "status": "MARKETED",
+  "atc": []
+}

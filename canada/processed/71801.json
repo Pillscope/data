@@ -1,0 +1,28 @@
+{
+  "drug_code": "71801",
+  "din": "02247551",
+  "brand_name": "ACID REDUCER",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "27-NOV-2014",
+  "active_ingredients": [
+    {
+      "name": "RANITIDINE (RANITIDINE HYDROCHLORIDE)",
+      "strength": "75",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "PHARMASCIENCE INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "RANITIDINE"
+  ]
+}

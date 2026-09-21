@@ -1,0 +1,28 @@
+{
+  "drug_code": "79280",
+  "din": "02307146",
+  "brand_name": "T/GEL THERAPEUTIC SHAMPOO EXTRA STRENGTH",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "15-OCT-2008",
+  "active_ingredients": [
+    {
+      "name": "COAL TAR",
+      "strength": "1",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "SHAMPOO"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "JOHNSON & JOHNSON INC"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "TARS"
+  ]
+}

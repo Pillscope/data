@@ -1,0 +1,30 @@
+{
+  "drug_code": "415",
+  "din": "00027243",
+  "brand_name": "DIHYDROERGOTAMINE (DHE), 1MG/ML",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "26-APR-2011",
+  "active_ingredients": [
+    {
+      "name": "DIHYDROERGOTAMINE MESYLATE",
+      "strength": "1",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "LIQUID"
+  ],
+  "routes": [
+    "INTRAMUSCULAR",
+    "INTRAVENOUS",
+    "SUBCUTANEOUS"
+  ],
+  "companies": [
+    "STERIMAX INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "DIHYDROERGOTAMINE"
+  ]
+}

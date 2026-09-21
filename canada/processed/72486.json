@@ -1,0 +1,29 @@
+{
+  "drug_code": "72486",
+  "din": "02248154",
+  "brand_name": "GONAL-F",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "02-FEB-2011",
+  "active_ingredients": [
+    {
+      "name": "FOLLITROPIN ALFA",
+      "strength": "5.5",
+      "unit": "MCG"
+    }
+  ],
+  "forms": [
+    "POWDER FOR SOLUTION"
+  ],
+  "routes": [
+    "INTRAMUSCULAR",
+    "SUBCUTANEOUS"
+  ],
+  "companies": [
+    "EMD SERONO A DIVISION OF EMD INC CANADA"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "FOLLITROPIN ALFA"
+  ]
+}

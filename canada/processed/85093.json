@@ -1,0 +1,28 @@
+{
+  "drug_code": "85093",
+  "din": "02366053",
+  "brand_name": "CARBOPLATIN INJECTION",
+  "class": "Human",
+  "descriptor": "SINGLE USE VIALS 50MG/5ML, 150MG/15ML, 450MG/45ML AND 600MG/60ML PRESERVATIVE FREE",
+  "last_update": "12-JAN-2015",
+  "active_ingredients": [
+    {
+      "name": "CARBOPLATIN",
+      "strength": "10",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "OMEGA LABORATORIES LTD"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "CARBOPLATIN"
+  ]
+}

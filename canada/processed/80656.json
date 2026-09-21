@@ -1,0 +1,33 @@
+{
+  "drug_code": "80656",
+  "din": "02321157",
+  "brand_name": "YAZ",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "24-JUN-2011",
+  "active_ingredients": [
+    {
+      "name": "DROSPIRENONE",
+      "strength": "3",
+      "unit": "MG"
+    },
+    {
+      "name": "ETHINYL ESTRADIOL",
+      "strength": "0.02",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "BAYER INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "DROSPIRENONE AND ESTROGEN"
+  ]
+}

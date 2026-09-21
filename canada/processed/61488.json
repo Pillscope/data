@@ -1,0 +1,34 @@
+{
+  "drug_code": "61488",
+  "din": "02238097",
+  "brand_name": "TARKA",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "19-MAY-2015",
+  "active_ingredients": [
+    {
+      "name": "TRANDOLAPRIL",
+      "strength": "4",
+      "unit": "MG"
+    },
+    {
+      "name": "VERAPAMIL HYDROCHLORIDE",
+      "strength": "240",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET (EXTENDED-RELEASE)"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "BGP PHARMA ULC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "TRANDOLAPRIL AND VERAPAMIL",
+    "TRANDOLAPRIL AND VERAPAMIL"
+  ]
+}

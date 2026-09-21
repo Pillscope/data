@@ -1,0 +1,49 @@
+{
+  "drug_code": "71860",
+  "din": "02247600",
+  "brand_name": "BOOSTRIX",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "10-JUN-2008",
+  "active_ingredients": [
+    {
+      "name": "DIPHTHERIA TOXOID",
+      "strength": "2",
+      "unit": "UNIT"
+    },
+    {
+      "name": "TETANUS TOXOID",
+      "strength": "20",
+      "unit": "UNIT"
+    },
+    {
+      "name": "PERTACTIN",
+      "strength": "2.5",
+      "unit": "MCG"
+    },
+    {
+      "name": "PERTUSSIS TOXOID",
+      "strength": "8",
+      "unit": "MCG"
+    },
+    {
+      "name": "FILAMENTOUS HAEMAGGLUTININ",
+      "strength": "8",
+      "unit": "MCG"
+    }
+  ],
+  "forms": [
+    "SUSPENSION"
+  ],
+  "routes": [
+    "INTRAMUSCULAR"
+  ],
+  "companies": [
+    "GLAXOSMITHKLINE INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "OTHER BACTERIAL VACCINES",
+    "OTHER BACTERIAL VACCINES"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "drug_code": "94721",
+  "din": "02459906",
+  "brand_name": "ACETYLCYSTEINE SOLUTION USP",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "21-FEB-2018",
+  "active_ingredients": [
+    {
+      "name": "ACETYLCYSTEINE",
+      "strength": "200",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "INHALATION",
+    "INTRAVENOUS",
+    "ORAL"
+  ],
+  "companies": [
+    "TELIGENT OU"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "ACETYLCYSTEINE"
+  ]
+}

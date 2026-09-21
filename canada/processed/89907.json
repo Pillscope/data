@@ -1,0 +1,33 @@
+{
+  "drug_code": "89907",
+  "din": "02414414",
+  "brand_name": "AURO-LAMIVUDINE/ZIDOVUDINE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "19-JAN-2016",
+  "active_ingredients": [
+    {
+      "name": "LAMIVUDINE",
+      "strength": "150",
+      "unit": "MG"
+    },
+    {
+      "name": "ZIDOVUDINE",
+      "strength": "300",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "AURO PHARMA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "ZIDOVUDINE AND LAMIVUDINE"
+  ]
+}

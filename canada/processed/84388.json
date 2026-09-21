@@ -1,0 +1,28 @@
+{
+  "drug_code": "84388",
+  "din": "02358840",
+  "brand_name": "ACT RALOXIFENE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "05-MAY-2015",
+  "active_ingredients": [
+    {
+      "name": "RALOXIFENE HYDROCHLORIDE",
+      "strength": "60",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "ACTAVIS PHARMA COMPANY"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "RALOXIFENE"
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "drug_code": "92626",
+  "din": "02441888",
+  "brand_name": "INSPIOLTO RESPIMAT",
+  "class": "Human",
+  "descriptor": "FOR ORAL INHALATION. WITH INSPIOLTO RESPIMAT INHALER",
+  "last_update": "12-JAN-2016",
+  "active_ingredients": [
+    {
+      "name": "TIOTROPIUM (TIOTROPIUM BROMIDE MONOHYDRATE)",
+      "strength": "2.5",
+      "unit": "MCG"
+    },
+    {
+      "name": "Olodaterol (OLODATEROL HYDROCHLORIDE)",
+      "strength": "2.5",
+      "unit": "MCG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "INHALATION"
+  ],
+  "companies": [
+    "BOEHRINGER INGELHEIM (CANADA) LTD LTEE"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "OLODATEROL AND TIOTROPIUM BROMIDE",
+    "OLODATEROL AND TIOTROPIUM BROMIDE"
+  ]
+}

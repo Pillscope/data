@@ -1,0 +1,31 @@
+{
+  "drug_code": "94945",
+  "din": "02461706",
+  "brand_name": "TEAT-KOTE 10/III RM",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "07-JUL-2017",
+  "active_ingredients": [
+    {
+      "name": "IODINE (POLYOXYETHYLENE-POLYOXYPROPYLENE BLOCK COPOLYMER-IODINE COMPLEX)",
+      "strength": "1",
+      "unit": "%"
+    },
+    {
+      "name": "GLYCERINE",
+      "strength": "9.12",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "GEA FARM TECHNOLOGIES INC"
+  ],
+  "status": "APPROVED",
+  "atc": []
+}

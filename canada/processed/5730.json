@@ -1,0 +1,26 @@
+{
+  "drug_code": "5730",
+  "din": "00140546",
+  "brand_name": "NICARB FEED PREMIX",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "24-AUG-2016",
+  "active_ingredients": [
+    {
+      "name": "NICARBAZIN",
+      "strength": "25",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "DRUG PREMIX"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "HUVEPHARMA EOOD"
+  ],
+  "status": "APPROVED",
+  "atc": []
+}

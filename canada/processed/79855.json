@@ -1,0 +1,28 @@
+{
+  "drug_code": "79855",
+  "din": "02313006",
+  "brand_name": "PMS-VALSARTAN",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "27-JUN-2012",
+  "active_ingredients": [
+    {
+      "name": "VALSARTAN",
+      "strength": "80",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "PHARMASCIENCE INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "VALSARTAN"
+  ]
+}

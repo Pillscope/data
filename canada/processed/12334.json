@@ -1,0 +1,28 @@
+{
+  "drug_code": "12334",
+  "din": "01947699",
+  "brand_name": "ACCUPRIL TAB 40MG",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "26-JUL-2010",
+  "active_ingredients": [
+    {
+      "name": "QUINAPRIL (QUINAPRIL HYDROCHLORIDE)",
+      "strength": "40",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "PFIZER CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "QUINAPRIL"
+  ]
+}

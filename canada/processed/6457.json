@@ -1,0 +1,26 @@
+{
+  "drug_code": "6457",
+  "din": "00591831",
+  "brand_name": "COPPERCURE",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "29-APR-2015",
+  "active_ingredients": [
+    {
+      "name": "COPPER NAPHTHENATE",
+      "strength": "37.5",
+      "unit": "G"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "REMEDY ANIMAL HEALTH PRODUCTS LTD"
+  ],
+  "status": "APPROVED",
+  "atc": []
+}

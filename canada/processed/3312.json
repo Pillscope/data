@@ -1,0 +1,36 @@
+{
+  "drug_code": "3312",
+  "din": "00455431",
+  "brand_name": "ICE O GEL",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "08-DEC-2015",
+  "active_ingredients": [
+    {
+      "name": "CAMPHOR",
+      "strength": "6",
+      "unit": "G"
+    },
+    {
+      "name": "MENTHOL",
+      "strength": "6",
+      "unit": "G"
+    },
+    {
+      "name": "ISOPROPYL ALCOHOL",
+      "strength": "150",
+      "unit": "G"
+    }
+  ],
+  "forms": [
+    "OINTMENT"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "HAWTHORNE PRODUCTS INC."
+  ],
+  "status": "MARKETED",
+  "atc": []
+}

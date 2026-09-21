@@ -1,0 +1,26 @@
+{
+  "drug_code": "79744",
+  "din": "02311909",
+  "brand_name": "FURAZONE SOLUTION",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "12-JUN-2014",
+  "active_ingredients": [
+    {
+      "name": "NITROFURAZONE",
+      "strength": "0.2",
+      "unit": "G"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "WECAN SALES LTD"
+  ],
+  "status": "MARKETED",
+  "atc": []
+}

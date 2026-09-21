@@ -1,0 +1,28 @@
+{
+  "drug_code": "13788",
+  "din": "02016877",
+  "brand_name": "DURR SYSTEM-HYGIENE ID 212 INSTRUMENT DISINFECTION",
+  "class": "Disinfectant",
+  "descriptor": "",
+  "last_update": "07-MAY-2013",
+  "active_ingredients": [
+    {
+      "name": "BENZALKONIUM CHLORIDE",
+      "strength": "9.0",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "LIQUID"
+  ],
+  "routes": [
+    "DISINFECTANT (Hospital/HC Facilities)"
+  ],
+  "companies": [
+    "DURR DENTAL AG OROCHEMIE GMBH + CO. KG DIVISION"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "TECHNICAL DISINFECTANTS"
+  ]
+}

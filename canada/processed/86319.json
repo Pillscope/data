@@ -1,0 +1,28 @@
+{
+  "drug_code": "86319",
+  "din": "02377489",
+  "brand_name": "VANCOMYCIN HYDROCHLORIDE CAPSULES, USP",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "15-MAR-2016",
+  "active_ingredients": [
+    {
+      "name": "VANCOMYCIN (VANCOMYCIN HYDROCHLORIDE)",
+      "strength": "250",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "CAPSULE"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "FRESENIUS KABI CANADA LTD"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "VANCOMYCIN"
+  ]
+}

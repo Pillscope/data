@@ -1,0 +1,28 @@
+{
+  "drug_code": "94449",
+  "din": "02457431",
+  "brand_name": "ERFA-TRANEXAMIC",
+  "class": "Human",
+  "descriptor": "SINGLE-USE VIAL",
+  "last_update": "31-JUL-2017",
+  "active_ingredients": [
+    {
+      "name": "TRANEXAMIC ACID",
+      "strength": "100",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "ERFA CANADA 2012 INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "TRANEXAMIC ACID"
+  ]
+}

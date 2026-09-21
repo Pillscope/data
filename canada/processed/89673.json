@@ -1,0 +1,38 @@
+{
+  "drug_code": "89673",
+  "din": "02412160",
+  "brand_name": "OIL CONTROL MATTIFIER SPF 15 PA++",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "09-APR-2015",
+  "active_ingredients": [
+    {
+      "name": "ZINC OXIDE",
+      "strength": "3.0",
+      "unit": "%"
+    },
+    {
+      "name": "ENSULIZOLE",
+      "strength": "1.0",
+      "unit": "%"
+    },
+    {
+      "name": "OCTINOXATE",
+      "strength": "7.5",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "LOTION"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "MURAD LLC"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "COMBINATIONS OF PROTECTIVES AGAINST UV-RADIATION"
+  ]
+}

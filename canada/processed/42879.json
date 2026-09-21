@@ -1,0 +1,28 @@
+{
+  "drug_code": "42879",
+  "din": "02185938",
+  "brand_name": "PEPCID AC",
+  "class": "Human",
+  "descriptor": "FILM-COATED TABLETS",
+  "last_update": "05-MAY-2015",
+  "active_ingredients": [
+    {
+      "name": "FAMOTIDINE",
+      "strength": "10",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "MCNEIL CONSUMER HEALTHCARE DIVISION OF JOHNSON & JOHNSON INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "FAMOTIDINE"
+  ]
+}

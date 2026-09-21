@@ -1,0 +1,28 @@
+{
+  "drug_code": "78947",
+  "din": "02304163",
+  "brand_name": "TEVA-CLONIDINE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "29-APR-2015",
+  "active_ingredients": [
+    {
+      "name": "CLONIDINE HYDROCHLORIDE",
+      "strength": "0.025",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "TEVA CANADA LIMITED"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "CLONIDINE"
+  ]
+}

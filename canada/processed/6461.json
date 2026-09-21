@@ -1,0 +1,28 @@
+{
+  "drug_code": "6461",
+  "din": "00632724",
+  "brand_name": "VOLTAREN SUP 50MG",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "06-JUN-2006",
+  "active_ingredients": [
+    {
+      "name": "DICLOFENAC SODIUM",
+      "strength": "50",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SUPPOSITORY"
+  ],
+  "routes": [
+    "RECTAL"
+  ],
+  "companies": [
+    "NOVARTIS PHARMACEUTICALS CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "DICLOFENAC"
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "drug_code": "406",
+  "din": "00178802",
+  "brand_name": "PHENOBARB",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "10-APR-2012",
+  "active_ingredients": [
+    {
+      "name": "PHENOBARBITAL",
+      "strength": "30",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "PENDOPHARM DIVISION OF DE PHARMASCIENCE INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "PHENOBARBITAL",
+    "PHENOBARBITAL"
+  ]
+}

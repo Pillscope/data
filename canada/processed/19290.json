@@ -1,0 +1,33 @@
+{
+  "drug_code": "19290",
+  "din": "02154846",
+  "brand_name": "HELIOX",
+  "class": "Human",
+  "descriptor": "O2 BALANCED BY HE",
+  "last_update": "29-APR-2015",
+  "active_ingredients": [
+    {
+      "name": "OXYGEN",
+      "strength": "50",
+      "unit": "%"
+    },
+    {
+      "name": "HELIUM",
+      "strength": "50",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "GAS"
+  ],
+  "routes": [
+    "INHALATION"
+  ],
+  "companies": [
+    "LINDE CANADA LIMITED"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "COMBINATION"
+  ]
+}

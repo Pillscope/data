@@ -1,0 +1,28 @@
+{
+  "drug_code": "49244",
+  "din": "02230405",
+  "brand_name": "CLOPIXOL-ACUPHASE 50MG/ML",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "10-AUG-2007",
+  "active_ingredients": [
+    {
+      "name": "ZUCLOPENTHIXOL ACETATE",
+      "strength": "50",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "INTRAMUSCULAR"
+  ],
+  "companies": [
+    "LUNDBECK CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "ZUCLOPENTHIXOL"
+  ]
+}

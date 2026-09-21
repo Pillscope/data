@@ -1,0 +1,28 @@
+{
+  "drug_code": "91903",
+  "din": "02434725",
+  "brand_name": "MUCINEX EXTENDED RELEASE BI-LAYER TABLETS",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "22-AUG-2016",
+  "active_ingredients": [
+    {
+      "name": "GUAIFENESIN",
+      "strength": "600",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET (IMMEDIATE AND EXTENDED RELEASE)"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "RECKITT BENCKISER (CANADA) INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "GUAIFENESIN"
+  ]
+}

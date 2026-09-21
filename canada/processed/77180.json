@@ -1,0 +1,35 @@
+{
+  "drug_code": "77180",
+  "din": "02286343",
+  "brand_name": "LICENSE",
+  "class": "Disinfectant",
+  "descriptor": "",
+  "last_update": "23-OCT-2008",
+  "active_ingredients": [
+    {
+      "name": "DIDECYL DIMETHYL AMMONIUM CHLORIDE",
+      "strength": "5.28",
+      "unit": "%"
+    },
+    {
+      "name": "DIMETHYLBENZYL AMMONIUM CHLORIDE",
+      "strength": "3.17",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "LIQUID"
+  ],
+  "routes": [
+    "DISINFECTANT (Food Premises)",
+    "DISINFECTANT (Hospital/HC Facilities)",
+    "DISINFECTANT (Institutional/Industrial)"
+  ],
+  "companies": [
+    "PARALL LT\u00c3\u0089E"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "TECHNICAL DISINFECTANTS"
+  ]
+}

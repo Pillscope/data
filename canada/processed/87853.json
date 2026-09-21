@@ -1,0 +1,26 @@
+{
+  "drug_code": "87853",
+  "din": "02393301",
+  "brand_name": "DENAGARD 10% GF PREMIX",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "25-JAN-2018",
+  "active_ingredients": [
+    {
+      "name": "TIAMULIN FUMARATE",
+      "strength": "100",
+      "unit": "G"
+    }
+  ],
+  "forms": [
+    "DRUG PREMIX"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "ELANCO CANADA LIMITED"
+  ],
+  "status": "APPROVED",
+  "atc": []
+}

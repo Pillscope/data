@@ -1,0 +1,28 @@
+{
+  "drug_code": "11153",
+  "din": "00443816",
+  "brand_name": "RETIN-A",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "25-SEP-2017",
+  "active_ingredients": [
+    {
+      "name": "TRETINOIN",
+      "strength": "0.025",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "GEL"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "VALEANT CANADA LP/VALEANT CANADA S.E.C."
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "TRETINOIN"
+  ]
+}

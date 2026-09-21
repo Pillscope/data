@@ -1,0 +1,28 @@
+{
+  "drug_code": "89255",
+  "din": "02407833",
+  "brand_name": "TRISENOX",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "13-JAN-2018",
+  "active_ingredients": [
+    {
+      "name": "ARSENIC TRIOXIDE",
+      "strength": "10",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "TEVA CANADA LIMITED"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "ARSENIC TRIOXIDE"
+  ]
+}

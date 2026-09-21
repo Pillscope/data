@@ -1,0 +1,32 @@
+{
+  "drug_code": "80494",
+  "din": "02319470",
+  "brand_name": "CLOROX COMMERCIAL SOLUTIONS CLOROX CLEAN-UP DISINFECTANT DILUTABLE BLEACH CLEANER",
+  "class": "Disinfectant",
+  "descriptor": "",
+  "last_update": "14-JAN-2013",
+  "active_ingredients": [
+    {
+      "name": "SODIUM HYPOCHLORITE",
+      "strength": "1.84",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "DISINFECTANT (Barn)",
+    "DISINFECTANT (Food Premises)",
+    "DISINFECTANT (Hospital/HC Facilities)",
+    "DISINFECTANT (Domestic)",
+    "DISINFECTANT (Institutional/Industrial)"
+  ],
+  "companies": [
+    "THE CLOROX COMPANY OF CANADA LTD"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "TECHNICAL DISINFECTANTS"
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "drug_code": "92023",
+  "din": "02436027",
+  "brand_name": "HOLKIRA PAK",
+  "class": "Human",
+  "descriptor": "KIT INCLUDES PINK TAB. (OMBITASVIR/ PARITAPREVIR/ RITONAVIR FIXED COMBINATION), AND BEIGE TAB. (DASABUVIR)",
+  "last_update": "09-MAY-2016",
+  "active_ingredients": [
+    {
+      "name": "RITONAVIR",
+      "strength": "50",
+      "unit": "MG"
+    },
+    {
+      "name": "Ombitasvir",
+      "strength": "12.5",
+      "unit": "MG"
+    },
+    {
+      "name": "Dasabuvir (Dasabuvir sodium monohydrate)",
+      "strength": "250",
+      "unit": "MG"
+    },
+    {
+      "name": "Paritaprevir",
+      "strength": "75",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "KIT",
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "ABBVIE CORPORATION"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "DASABUVIR, OMBITASVIR, PARITAPREVIR AND RITONAVIR",
+    "DASABUVIR, OMBITASVIR, PARITAPREVIR AND RITONAVIR",
+    "DASABUVIR, OMBITASVIR, PARITAPREVIR AND RITONAVIR"
+  ]
+}

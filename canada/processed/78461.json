@@ -1,0 +1,28 @@
+{
+  "drug_code": "78461",
+  "din": "02299224",
+  "brand_name": "TEVA-FLUVASTATIN",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "13-DEC-2012",
+  "active_ingredients": [
+    {
+      "name": "FLUVASTATIN (FLUVASTATIN SODIUM)",
+      "strength": "20",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "CAPSULE"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "TEVA CANADA LIMITED"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "FLUVASTATIN"
+  ]
+}

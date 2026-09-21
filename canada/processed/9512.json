@@ -1,0 +1,38 @@
+{
+  "drug_code": "9512",
+  "din": "00789429",
+  "brand_name": "PANCREASE MT 16",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "17-JUL-2015",
+  "active_ingredients": [
+    {
+      "name": "PROTEASE",
+      "strength": "40000",
+      "unit": "UNIT"
+    },
+    {
+      "name": "LIPASE",
+      "strength": "16800",
+      "unit": "UNIT"
+    },
+    {
+      "name": "AMYLASE",
+      "strength": "70000",
+      "unit": "UNIT"
+    }
+  ],
+  "forms": [
+    "CAPSULE (ENTERIC-COATED)"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "JANSSEN INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "MULTIENZYMES (LIPASE, PROTEASE ETC)"
+  ]
+}

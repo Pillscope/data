@@ -1,0 +1,33 @@
+{
+  "drug_code": "92047",
+  "din": "02436140",
+  "brand_name": "VISINE FOR DRY EYE ENVIRONMENTAL RELIEF",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "09-JUN-2016",
+  "active_ingredients": [
+    {
+      "name": "GLYCERINE",
+      "strength": "0.2",
+      "unit": "%"
+    },
+    {
+      "name": "HYPROMELLOSE",
+      "strength": "0.2",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "DROPS"
+  ],
+  "routes": [
+    "OPHTHALMIC"
+  ],
+  "companies": [
+    "JOHNSON & JOHNSON INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "ARTIFICIAL TEARS AND OTHER INDIFFERENT PREPARATIONS."
+  ]
+}

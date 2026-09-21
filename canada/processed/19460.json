@@ -1,0 +1,28 @@
+{
+  "drug_code": "19460",
+  "din": "02086026",
+  "brand_name": "FLORINEF",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "29-DEC-2009",
+  "active_ingredients": [
+    {
+      "name": "FLUDROCORTISONE 21-ACETATE",
+      "strength": "0.1",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "PALADIN LABS INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "FLUDROCORTISONE"
+  ]
+}

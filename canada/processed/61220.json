@@ -1,0 +1,28 @@
+{
+  "drug_code": "61220",
+  "din": "02237860",
+  "brand_name": "OCTOSTIM SPRAY",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "21-NOV-2005",
+  "active_ingredients": [
+    {
+      "name": "DESMOPRESSIN ACETATE",
+      "strength": "150",
+      "unit": "MCG"
+    }
+  ],
+  "forms": [
+    "SPRAY"
+  ],
+  "routes": [
+    "NASAL"
+  ],
+  "companies": [
+    "FERRING INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "DESMOPRESSIN"
+  ]
+}

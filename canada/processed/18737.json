@@ -1,0 +1,28 @@
+{
+  "drug_code": "18737",
+  "din": "02156040",
+  "brand_name": "FLUANXOL DEPOT 10%- LIQ IM 100MG/ML",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "10-AUG-2007",
+  "active_ingredients": [
+    {
+      "name": "FLUPENTIXOL DECANOATE",
+      "strength": "100",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "INTRAMUSCULAR"
+  ],
+  "companies": [
+    "LUNDBECK CANADA INC"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "FLUPENTIXOL"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "drug_code": "91271",
+  "din": "02428237",
+  "brand_name": "JAMP-ZOLMITRIPTAN ODT",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "07-JUL-2016",
+  "active_ingredients": [
+    {
+      "name": "ZOLMITRIPTAN",
+      "strength": "2.5",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET (ORALLY DISINTEGRATING)"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "JAMP PHARMA CORPORATION"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "ZOLMITRIPTAN"
+  ]
+}

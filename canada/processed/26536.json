@@ -1,0 +1,36 @@
+{
+  "drug_code": "26536",
+  "din": "02028069",
+  "brand_name": "RUMINODIGEST",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "25-AUG-2011",
+  "active_ingredients": [
+    {
+      "name": "ACETANILIDE",
+      "strength": "15",
+      "unit": "G"
+    },
+    {
+      "name": "SODIUM PROPIONATE",
+      "strength": "40",
+      "unit": "G"
+    },
+    {
+      "name": "CALCIUM PROPIONATE",
+      "strength": "30",
+      "unit": "G"
+    }
+  ],
+  "forms": [
+    "POWDER FOR SOLUTION"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "BIO AGRI MIX LP"
+  ],
+  "status": "MARKETED",
+  "atc": []
+}

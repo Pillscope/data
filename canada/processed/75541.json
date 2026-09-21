@@ -1,0 +1,28 @@
+{
+  "drug_code": "75541",
+  "din": "02270013",
+  "brand_name": "OCTAPLASMA",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "21-JAN-2016",
+  "active_ingredients": [
+    {
+      "name": "HUMAN PLASMA PROTEINS",
+      "strength": "14",
+      "unit": "G"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "OCTAPHARMA PHARMAZEUTIKA PRODUKTIONSGES M B H"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "BLOOD PLASMA"
+  ]
+}

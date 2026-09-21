@@ -1,0 +1,28 @@
+{
+  "drug_code": "84725",
+  "din": "02362236",
+  "brand_name": "DRIXORAL NO DRIP WITH CALMING CHAMOMILE",
+  "class": "Human",
+  "descriptor": "SOLUTION",
+  "last_update": "25-AUG-2017",
+  "active_ingredients": [
+    {
+      "name": "OXYMETAZOLINE HYDROCHLORIDE",
+      "strength": "0.05",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "SPRAY"
+  ],
+  "routes": [
+    "NASAL"
+  ],
+  "companies": [
+    "BAYER INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "OXYMETAZOLINE"
+  ]
+}

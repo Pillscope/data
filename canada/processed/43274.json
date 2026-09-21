@@ -1,0 +1,28 @@
+{
+  "drug_code": "43274",
+  "din": "02220113",
+  "brand_name": "HYMENOPTERA VENOM PRODUCT - YELLOW JACKET VENOM PROTEIN (550 MCG)",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "12-FEB-2013",
+  "active_ingredients": [
+    {
+      "name": "YELLOW JACKET VENOM PROTEIN",
+      "strength": "550",
+      "unit": "MCG"
+    }
+  ],
+  "forms": [
+    "POWDER FOR SOLUTION"
+  ],
+  "routes": [
+    "SUBCUTANEOUS"
+  ],
+  "companies": [
+    "JUBILANT HOLLISTERSTIER LLC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "INSECTS"
+  ]
+}

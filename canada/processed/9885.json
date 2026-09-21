@@ -1,0 +1,26 @@
+{
+  "drug_code": "9885",
+  "din": "00810371",
+  "brand_name": "MERRIL'S FURAZONE SWEAT DRE 0.2% USP",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "01-MAR-2013",
+  "active_ingredients": [
+    {
+      "name": "NITROFURAZONE",
+      "strength": "0.2",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "DRESSING"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "MERRILL HORSE SUPPLIES"
+  ],
+  "status": "MARKETED",
+  "atc": []
+}

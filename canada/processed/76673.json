@@ -1,0 +1,28 @@
+{
+  "drug_code": "76673",
+  "din": "02281066",
+  "brand_name": "ABRAXANE FOR INJECTABLE SUSPENSION",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "16-DEC-2013",
+  "active_ingredients": [
+    {
+      "name": "PACLITAXEL",
+      "strength": "100",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "POWDER FOR SUSPENSION"
+  ],
+  "routes": [
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "CELGENE INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "PACLITAXEL"
+  ]
+}

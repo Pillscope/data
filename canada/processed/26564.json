@@ -1,0 +1,38 @@
+{
+  "drug_code": "26564",
+  "din": "02028867",
+  "brand_name": "CETACAINE LIQUID",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "10-JAN-2018",
+  "active_ingredients": [
+    {
+      "name": "BENZOCAINE",
+      "strength": "14",
+      "unit": "%"
+    },
+    {
+      "name": "TETRACAINE HYDROCHLORIDE",
+      "strength": "2",
+      "unit": "%"
+    },
+    {
+      "name": "BUTAMBEN",
+      "strength": "2",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "LIQUID"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "CETYLITE INDUSTRIES INC."
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "COMBINATIONS"
+  ]
+}

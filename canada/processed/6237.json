@@ -1,0 +1,28 @@
+{
+  "drug_code": "6237",
+  "din": "00648922",
+  "brand_name": "CENTER-AL",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "12-JAN-2006",
+  "active_ingredients": [
+    {
+      "name": "POLLEN AND NON POLLEN",
+      "strength": "20000",
+      "unit": "UNIT"
+    }
+  ],
+  "forms": [
+    "LIQUID"
+  ],
+  "routes": [
+    "SUBCUTANEOUS"
+  ],
+  "companies": [
+    "ALK-ABELLO INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "VARIOUS"
+  ]
+}

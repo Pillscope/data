@@ -1,0 +1,28 @@
+{
+  "drug_code": "76957",
+  "din": "02284006",
+  "brand_name": "PMS-ALENDRONATE-FC",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "21-JUL-2016",
+  "active_ingredients": [
+    {
+      "name": "ALENDRONIC ACID (ALENDRONATE SODIUM)",
+      "strength": "70",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "PHARMASCIENCE INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "ALENDRONIC ACID"
+  ]
+}

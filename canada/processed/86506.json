@@ -1,0 +1,28 @@
+{
+  "drug_code": "86506",
+  "din": "02379171",
+  "brand_name": "PMS-ESOMEPRAZOLE DR",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "20-JUN-2014",
+  "active_ingredients": [
+    {
+      "name": "ESOMEPRAZOLE (Esomeprazole magnesium dihydrate)",
+      "strength": "40",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "CAPSULE (DELAYED RELEASE)"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "PHARMASCIENCE INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "ESOMEPRAZOLE"
+  ]
+}

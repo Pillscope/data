@@ -1,0 +1,30 @@
+{
+  "drug_code": "91663",
+  "din": "02432196",
+  "brand_name": "ATROPINE INJECTION BP",
+  "class": "Human",
+  "descriptor": "SINGLE USE",
+  "last_update": "09-FEB-2018",
+  "active_ingredients": [
+    {
+      "name": "ATROPINE SULFATE",
+      "strength": "0.6",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "INTRAMUSCULAR",
+    "INTRAVENOUS",
+    "SUBCUTANEOUS"
+  ],
+  "companies": [
+    "TELIGENT OU"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "ATROPINE"
+  ]
+}

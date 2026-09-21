@@ -1,0 +1,28 @@
+{
+  "drug_code": "94029",
+  "din": "02453754",
+  "brand_name": "PRALUENT",
+  "class": "Human",
+  "descriptor": "SINGLE-USE PREFILLED SYRINGE",
+  "last_update": "04-JAN-2018",
+  "active_ingredients": [
+    {
+      "name": "ALIROCUMAB",
+      "strength": "75",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "SUBCUTANEOUS"
+  ],
+  "companies": [
+    "SANOFI-AVENTIS CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "ALIROCUMAB"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "drug_code": "8407",
+  "din": "00623016",
+  "brand_name": "LOPATOL 100",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "11-SEP-2017",
+  "active_ingredients": [
+    {
+      "name": "NITROSCANATE",
+      "strength": "100",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "ELANCO CANADA LIMITED"
+  ],
+  "status": "APPROVED",
+  "atc": []
+}

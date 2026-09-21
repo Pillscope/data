@@ -1,0 +1,28 @@
+{
+  "drug_code": "43312",
+  "din": "02221861",
+  "brand_name": "ANANDRON",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "23-MAR-2009",
+  "active_ingredients": [
+    {
+      "name": "NILUTAMIDE",
+      "strength": "50",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "SANOFI-AVENTIS CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "NILUTAMIDE"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "drug_code": "88048",
+  "din": "02395371",
+  "brand_name": "CINRYZE",
+  "class": "Human",
+  "descriptor": "SINGLE-USE VIALS",
+  "last_update": "18-MAR-2016",
+  "active_ingredients": [
+    {
+      "name": "C1 Esterase Inhibitor (Human)",
+      "strength": "500",
+      "unit": "UNIT"
+    }
+  ],
+  "forms": [
+    "POWDER FOR SOLUTION"
+  ],
+  "routes": [
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "VIROPHARMA BIOLOGICS INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "C1-INHIBITOR, plasma derived"
+  ]
+}

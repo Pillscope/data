@@ -1,0 +1,28 @@
+{
+  "drug_code": "18072",
+  "din": "02064405",
+  "brand_name": "CYKLOKAPRON 500 MG",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "18-JUL-2005",
+  "active_ingredients": [
+    {
+      "name": "TRANEXAMIC ACID",
+      "strength": "500",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "PFIZER CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "TRANEXAMIC ACID"
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "drug_code": "36988",
+  "din": "02214261",
+  "brand_name": "SEREVENT DISKHALER DISK (50MCG/DOSE)",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "31-JAN-2018",
+  "active_ingredients": [
+    {
+      "name": "SALMETEROL (SALMETEROL XINAFOATE)",
+      "strength": "50",
+      "unit": "MCG"
+    }
+  ],
+  "forms": [
+    "POWDER"
+  ],
+  "routes": [
+    "INHALATION",
+    "ORAL"
+  ],
+  "companies": [
+    "GLAXOSMITHKLINE INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "SALMETEROL"
+  ]
+}

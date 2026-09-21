@@ -1,0 +1,28 @@
+{
+  "drug_code": "79483",
+  "din": "02309238",
+  "brand_name": "BREVIBLOC PREMIXED INJECTION",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "16-OCT-2008",
+  "active_ingredients": [
+    {
+      "name": "ESMOLOL HYDROCHLORIDE",
+      "strength": "10",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "BAXTER CORPORATION"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "ESMOLOL"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "drug_code": "47871",
+  "din": "02229704",
+  "brand_name": "HUMALOG",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "01-OCT-2015",
+  "active_ingredients": [
+    {
+      "name": "INSULIN LISPRO",
+      "strength": "100",
+      "unit": "UNIT"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "INTRAMUSCULAR",
+    "INTRAVENOUS",
+    "SUBCUTANEOUS"
+  ],
+  "companies": [
+    "ELI LILLY CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "INSULIN LISPRO"
+  ]
+}

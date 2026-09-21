@@ -1,0 +1,28 @@
+{
+  "drug_code": "62780",
+  "din": "02239311",
+  "brand_name": "ECOCARE 250",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "08-MAR-2006",
+  "active_ingredients": [
+    {
+      "name": "TRICLOSAN",
+      "strength": "0.30",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "LIQUID"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "ECOLAB CO"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "TRICLOSAN"
+  ]
+}

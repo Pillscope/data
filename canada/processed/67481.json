@@ -1,0 +1,29 @@
+{
+  "drug_code": "67481",
+  "din": "02243563",
+  "brand_name": "METOCLOPRAMIDE OMEGA",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "12-APR-2006",
+  "active_ingredients": [
+    {
+      "name": "METOCLOPRAMIDE HYDROCHLORIDE",
+      "strength": "5",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "LIQUID"
+  ],
+  "routes": [
+    "INTRAMUSCULAR",
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "OMEGA LABORATORIES LTD"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "METOCLOPRAMIDE"
+  ]
+}

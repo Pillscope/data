@@ -1,0 +1,28 @@
+{
+  "drug_code": "20117",
+  "din": "02126192",
+  "brand_name": "NOVO-CLOBETASOL OINTMENT - 0.05%",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "19-JAN-2002",
+  "active_ingredients": [
+    {
+      "name": "CLOBETASOL PROPIONATE",
+      "strength": ".05",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "OINTMENT"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "NOVOPHARM LIMITED"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "CLOBETASOL"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "drug_code": "94276",
+  "din": "02455897",
+  "brand_name": "APO-CABERGOLINE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "28-MAR-2017",
+  "active_ingredients": [
+    {
+      "name": "CABERGOLINE",
+      "strength": "0.5",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "APOTEX INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "CABERGOLINE"
+  ]
+}

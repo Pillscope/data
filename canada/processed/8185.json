@@ -1,0 +1,43 @@
+{
+  "drug_code": "8185",
+  "din": "00588075",
+  "brand_name": "LUNG DIFFUSION TEST MIX NO NE CO",
+  "class": "Human",
+  "descriptor": "CO:0.3%, NE:0.5%, O2:21%, BALANCED WITH N2",
+  "last_update": "17-NOV-2010",
+  "active_ingredients": [
+    {
+      "name": "NEON",
+      "strength": "0.5",
+      "unit": "%"
+    },
+    {
+      "name": "OXYGEN",
+      "strength": "21",
+      "unit": "%"
+    },
+    {
+      "name": "NITROGEN",
+      "strength": "78.2",
+      "unit": "%"
+    },
+    {
+      "name": "CARBON MONOXIDE",
+      "strength": "0.3",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "GAS"
+  ],
+  "routes": [
+    "INHALATION"
+  ],
+  "companies": [
+    "PRAXAIR CANADA INC"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "MEDICAL GASES"
+  ]
+}

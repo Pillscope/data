@@ -1,0 +1,28 @@
+{
+  "drug_code": "91923",
+  "din": "02434946",
+  "brand_name": "APO-ZOLPIDEM ODT",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "18-FEB-2015",
+  "active_ingredients": [
+    {
+      "name": "ZOLPIDEM TARTRATE",
+      "strength": "10",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET (ORALLY DISINTEGRATING)"
+  ],
+  "routes": [
+    "SUBLINGUAL"
+  ],
+  "companies": [
+    "APOTEX INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "ZOLPIDEM"
+  ]
+}

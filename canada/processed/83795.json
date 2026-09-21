@@ -1,0 +1,33 @@
+{
+  "drug_code": "83795",
+  "din": "02352699",
+  "brand_name": "RHINARIS NASAL GEL",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "29-APR-2015",
+  "active_ingredients": [
+    {
+      "name": "PROPYLENE GLYCOL",
+      "strength": "20",
+      "unit": "%"
+    },
+    {
+      "name": "MACROGOL",
+      "strength": "15",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "GEL"
+  ],
+  "routes": [
+    "NASAL"
+  ],
+  "companies": [
+    "PENDOPHARM DIVISION OF DE PHARMASCIENCE INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "VARIOUS"
+  ]
+}

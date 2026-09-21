@@ -1,0 +1,26 @@
+{
+  "drug_code": "19742",
+  "din": "02159708",
+  "brand_name": "OVUPLANT",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "05-MAY-2015",
+  "active_ingredients": [
+    {
+      "name": "DESLORELIN (DESLORELIN ACETATE)",
+      "strength": "2.1",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "IMPLANT"
+  ],
+  "routes": [
+    "SUBCUTANEOUS"
+  ],
+  "companies": [
+    "PEPTECH ANIMAL HEALTH PTY LTD."
+  ],
+  "status": "APPROVED",
+  "atc": []
+}

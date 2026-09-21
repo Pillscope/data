@@ -1,0 +1,28 @@
+{
+  "drug_code": "72117",
+  "din": "02247823",
+  "brand_name": "HEPSERA",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "05-MAY-2015",
+  "active_ingredients": [
+    {
+      "name": "ADEFOVIR DIPIVOXIL",
+      "strength": "10",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "GILEAD SCIENCES CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "ADEFOVIR DIPIVOXIL"
+  ]
+}

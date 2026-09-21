@@ -1,0 +1,28 @@
+{
+  "drug_code": "83943",
+  "din": "02354233",
+  "brand_name": "INVEGA SUSTENNA",
+  "class": "Human",
+  "descriptor": "PRE-FILLED SYRINGE",
+  "last_update": "20-AUG-2010",
+  "active_ingredients": [
+    {
+      "name": "PALIPERIDONE (Paliperidone Palmitate)",
+      "strength": "100",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SUSPENSION (EXTENDED-RELEASE)"
+  ],
+  "routes": [
+    "INTRAMUSCULAR"
+  ],
+  "companies": [
+    "JANSSEN INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "PALIPERIDONE"
+  ]
+}

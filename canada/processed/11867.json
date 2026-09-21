@@ -1,0 +1,41 @@
+{
+  "drug_code": "11867",
+  "din": "01916653",
+  "brand_name": "PANOLOG CREAM",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "25-JUL-2017",
+  "active_ingredients": [
+    {
+      "name": "TRIAMCINOLONE ACETONIDE",
+      "strength": "1",
+      "unit": "MG"
+    },
+    {
+      "name": "THIOSTREPTON (ANTIBIOTIC OF A STREPTOMYCES SPECIES)",
+      "strength": "2500",
+      "unit": "UNIT"
+    },
+    {
+      "name": "NYSTATIN",
+      "strength": "100000",
+      "unit": "UNIT"
+    },
+    {
+      "name": "NEOMYCIN (NEOMYCIN SULFATE)",
+      "strength": "2.5",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "CREAM"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "ELANCO CANADA LIMITED"
+  ],
+  "status": "APPROVED",
+  "atc": []
+}

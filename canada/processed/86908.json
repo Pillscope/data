@@ -1,0 +1,33 @@
+{
+  "drug_code": "86908",
+  "din": "02383322",
+  "brand_name": "HYDRAPHEL DAY CREAM SPF 15",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "27-MAY-2014",
+  "active_ingredients": [
+    {
+      "name": "AVOBENZONE",
+      "strength": "2",
+      "unit": "%"
+    },
+    {
+      "name": "OCTINOXATE",
+      "strength": "7.5",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "CREAM"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "ERNO LASZLO"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "COMBINATIONS OF PROTECTIVES AGAINST UV-RADIATION"
+  ]
+}

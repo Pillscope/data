@@ -1,0 +1,33 @@
+{
+  "drug_code": "86799",
+  "din": "02382113",
+  "brand_name": "SOLUPREP APPLICATOR",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "23-APR-2015",
+  "active_ingredients": [
+    {
+      "name": "CHLORHEXIDINE GLUCONATE",
+      "strength": "2.0",
+      "unit": "%"
+    },
+    {
+      "name": "ISOPROPYL ALCOHOL",
+      "strength": "70.0",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "TOPICAL (HOSPITAL/HC FACILITIES)"
+  ],
+  "companies": [
+    "3M CANADA COMPANY"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "CHLORHEXIDINE, COMBINATIONS"
+  ]
+}

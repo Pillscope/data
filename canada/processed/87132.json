@@ -1,0 +1,33 @@
+{
+  "drug_code": "87132",
+  "din": "02385708",
+  "brand_name": "SOLUPREP WIPE",
+  "class": "Human",
+  "descriptor": "SMALL WIPE (0.65ML) & LARGE WIPE (1.5ML)",
+  "last_update": "30-JAN-2013",
+  "active_ingredients": [
+    {
+      "name": "CHLORHEXIDINE GLUCONATE",
+      "strength": "2",
+      "unit": "%"
+    },
+    {
+      "name": "ISOPROPYL ALCOHOL",
+      "strength": "70",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "WIPE"
+  ],
+  "routes": [
+    "TOPICAL (HOSPITAL/HC FACILITIES)"
+  ],
+  "companies": [
+    "3M CANADA COMPANY"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "CHLORHEXIDINE, COMBINATIONS"
+  ]
+}

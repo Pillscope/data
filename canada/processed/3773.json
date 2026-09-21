@@ -1,0 +1,36 @@
+{
+  "drug_code": "3773",
+  "din": "00502936",
+  "brand_name": "SULFA UREA CRM",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "04-JAN-2018",
+  "active_ingredients": [
+    {
+      "name": "UREA",
+      "strength": "98.8",
+      "unit": "MG"
+    },
+    {
+      "name": "SULFANILAMIDE",
+      "strength": "38.8",
+      "unit": "MG"
+    },
+    {
+      "name": "SULFATHIAZOLE",
+      "strength": "38.8",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "CREAM"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "DOMINION VETERINARY LABORATORIES LTD."
+  ],
+  "status": "MARKETED",
+  "atc": []
+}

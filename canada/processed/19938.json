@@ -1,0 +1,28 @@
+{
+  "drug_code": "19938",
+  "din": "02164388",
+  "brand_name": "TRAZODONE-150 D - TAB 150MG",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "02-MAR-2006",
+  "active_ingredients": [
+    {
+      "name": "TRAZODONE HYDROCHLORIDE",
+      "strength": "150",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "PRO DOC LIMITEE"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "TRAZODONE"
+  ]
+}

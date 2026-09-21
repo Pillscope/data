@@ -1,0 +1,26 @@
+{
+  "drug_code": "6495",
+  "din": "00641804",
+  "brand_name": "CHLOR 50",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "18-JAN-2018",
+  "active_ingredients": [
+    {
+      "name": "CHLORTETRACYCLINE",
+      "strength": "110",
+      "unit": "G"
+    }
+  ],
+  "forms": [
+    "DRUG PREMIX"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "BIO AGRI MIX LP"
+  ],
+  "status": "APPROVED",
+  "atc": []
+}

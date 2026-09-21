@@ -1,0 +1,28 @@
+{
+  "drug_code": "22143",
+  "din": "01939122",
+  "brand_name": "ACETAMINOPHEN EXTRA STRENGTH TAB 500MG USP",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "03-AUG-2004",
+  "active_ingredients": [
+    {
+      "name": "ACETAMINOPHEN",
+      "strength": "500",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "JAMP PHARMA CORPORATION"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "ACETAMINOPHEN (PARACETAMOL)"
+  ]
+}

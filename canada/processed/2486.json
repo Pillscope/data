@@ -1,0 +1,39 @@
+{
+  "drug_code": "2486",
+  "din": "00375004",
+  "brand_name": "POWER QUAT",
+  "class": "Disinfectant",
+  "descriptor": "",
+  "last_update": "01-SEP-2009",
+  "active_ingredients": [
+    {
+      "name": "SODIUM CARBONATE (ANHYDROUS)",
+      "strength": "2",
+      "unit": "%"
+    },
+    {
+      "name": "BENZALKONIUM CHLORIDE",
+      "strength": "5",
+      "unit": "%"
+    },
+    {
+      "name": "EDETATE SODIUM",
+      "strength": "2.3",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "LIQUID"
+  ],
+  "routes": [
+    "DISINFECTANT (Medical Instruments)",
+    "DISINFECTANT (Food Premises)"
+  ],
+  "companies": [
+    "W.E. GREER LTD."
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "TECHNICAL DISINFECTANTS"
+  ]
+}

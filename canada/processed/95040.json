@@ -1,0 +1,33 @@
+{
+  "drug_code": "95040",
+  "din": "02462605",
+  "brand_name": "BOBBI BROWN SKIN WEIGHTLESS LONG-WEAR FOUNDATION SPF15 FULL COVER OIL-FREE SHINE CONTROL",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "28-NOV-2017",
+  "active_ingredients": [
+    {
+      "name": "TITANIUM DIOXIDE",
+      "strength": "1.6",
+      "unit": "%"
+    },
+    {
+      "name": "OCTINOXATE",
+      "strength": "3",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "LIQUID"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "BOBBI BROWN PROFESSIONAL COSMETICS DIST"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "COMBINATIONS OF PROTECTIVES AGAINST UV-RADIATION"
+  ]
+}

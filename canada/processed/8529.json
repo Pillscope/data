@@ -1,0 +1,36 @@
+{
+  "drug_code": "8529",
+  "din": "00763136",
+  "brand_name": "BLOOD STOPPER",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "29-APR-2015",
+  "active_ingredients": [
+    {
+      "name": "TANNIC ACID",
+      "strength": "10",
+      "unit": "MG"
+    },
+    {
+      "name": "ALUMINUM AMMONIUM SULFATE",
+      "strength": "50",
+      "unit": "MG"
+    },
+    {
+      "name": "FERROUS SULFATE",
+      "strength": "840",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "POWDER"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "REMEDY ANIMAL HEALTH PRODUCTS LTD"
+  ],
+  "status": "APPROVED",
+  "atc": []
+}

@@ -1,0 +1,28 @@
+{
+  "drug_code": "20112",
+  "din": "02219301",
+  "brand_name": "MAGNESIUM-45 0.5-4.5",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "28-MAY-2009",
+  "active_ingredients": [
+    {
+      "name": "MAGNESIUM CHLORIDE",
+      "strength": "20.5",
+      "unit": "G"
+    }
+  ],
+  "forms": [
+    "POWDER FOR SOLUTION"
+  ],
+  "routes": [
+    "DIALYSIS"
+  ],
+  "companies": [
+    "BAXTER CORPORATION"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "HEMODIALYTICS, CONCENTRATES"
+  ]
+}

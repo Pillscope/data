@@ -1,0 +1,28 @@
+{
+  "drug_code": "20287",
+  "din": "02130955",
+  "brand_name": "TYPHIM VI",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "28-MAY-2008",
+  "active_ingredients": [
+    {
+      "name": "SALMONELLA TYPHI VI CAPSULAR POLYSACCHARIDE VACCINE",
+      "strength": "25",
+      "unit": "MCG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "INTRAMUSCULAR"
+  ],
+  "companies": [
+    "SANOFI PASTEUR LIMITED"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "TYPHOID, PURIFIED POLYSACCHARIDE ANTIGEN"
+  ]
+}

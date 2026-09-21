@@ -1,0 +1,28 @@
+{
+  "drug_code": "64595",
+  "din": "02241003",
+  "brand_name": "MYLAN-BUDESONIDE AQ",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "04-JUL-2011",
+  "active_ingredients": [
+    {
+      "name": "BUDESONIDE",
+      "strength": "64",
+      "unit": "MCG"
+    }
+  ],
+  "forms": [
+    "SPRAY, METERED DOSE"
+  ],
+  "routes": [
+    "NASAL"
+  ],
+  "companies": [
+    "MYLAN PHARMACEUTICALS ULC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "BUDESONIDE"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "drug_code": "431",
+  "din": "00030708",
+  "brand_name": "BACITRACIN USP",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "02-MAR-2009",
+  "active_ingredients": [
+    {
+      "name": "BACITRACIN",
+      "strength": "50000",
+      "unit": "UNIT"
+    }
+  ],
+  "forms": [
+    "POWDER FOR SOLUTION"
+  ],
+  "routes": [
+    "INTRAMUSCULAR",
+    "TOPICAL"
+  ],
+  "companies": [
+    "PFIZER CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "BACITRACIN",
+    "BACITRACIN"
+  ]
+}

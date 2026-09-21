@@ -1,0 +1,28 @@
+{
+  "drug_code": "84453",
+  "din": "02359510",
+  "brand_name": "HYDROMORPH CONTIN",
+  "class": "Human",
+  "descriptor": "CONTROLLED RELEASE CAPSULE",
+  "last_update": "18-APR-2018",
+  "active_ingredients": [
+    {
+      "name": "HYDROMORPHONE HYDROCHLORIDE",
+      "strength": "9",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "CAPSULE (SUSTAINED-RELEASE)"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "PURDUE PHARMA"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "HYDROMORPHONE"
+  ]
+}

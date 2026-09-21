@@ -1,0 +1,28 @@
+{
+  "drug_code": "85304",
+  "din": "02368153",
+  "brand_name": "XGEVA",
+  "class": "Human",
+  "descriptor": "SINGLE-USE VIAL. FOR S.C. USE ONLY. PRESERVATIVE-FREE.",
+  "last_update": "30-NOV-2016",
+  "active_ingredients": [
+    {
+      "name": "DENOSUMAB",
+      "strength": "120",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "SUBCUTANEOUS"
+  ],
+  "companies": [
+    "AMGEN CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "DENOSUMAB"
+  ]
+}

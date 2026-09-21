@@ -1,0 +1,28 @@
+{
+  "drug_code": "78435",
+  "din": "02298953",
+  "brand_name": "APO-CICLOPIROX",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "16-APR-2010",
+  "active_ingredients": [
+    {
+      "name": "CICLOPIROX",
+      "strength": "8",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "APOTEX INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "CICLOPIROX"
+  ]
+}

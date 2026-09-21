@@ -1,0 +1,31 @@
+{
+  "drug_code": "78465",
+  "din": "02299267",
+  "brand_name": "IODAPHOR 110",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "27-DEC-2007",
+  "active_ingredients": [
+    {
+      "name": "GLYCERINE",
+      "strength": "5",
+      "unit": "%"
+    },
+    {
+      "name": "NONYL PHENOXYPOLYETHOXYETHANOL-IODINE COMPLEX",
+      "strength": "10",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "AGRISAN SPECIALTY CHEMICAL & PHARMACEUTICAL"
+  ],
+  "status": "MARKETED",
+  "atc": []
+}

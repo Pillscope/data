@@ -1,0 +1,28 @@
+{
+  "drug_code": "90447",
+  "din": "02419858",
+  "brand_name": "SALBUTAMOL HFA",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "24-MAR-2014",
+  "active_ingredients": [
+    {
+      "name": "SALBUTAMOL (SALBUTAMOL SULFATE)",
+      "strength": "100",
+      "unit": "MCG"
+    }
+  ],
+  "forms": [
+    "METERED-DOSE AEROSOL"
+  ],
+  "routes": [
+    "INHALATION"
+  ],
+  "companies": [
+    "SANIS HEALTH INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "SALBUTAMOL"
+  ]
+}

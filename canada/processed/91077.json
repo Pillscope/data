@@ -1,0 +1,38 @@
+{
+  "drug_code": "91077",
+  "din": "02426161",
+  "brand_name": "POWERFOAM S WITH GLUTARALDEHYDE",
+  "class": "Disinfectant",
+  "descriptor": "",
+  "last_update": "23-AUG-2017",
+  "active_ingredients": [
+    {
+      "name": "GLUTARAL",
+      "strength": "7.00",
+      "unit": "%"
+    },
+    {
+      "name": "BENZALKONIUM CHLORIDE",
+      "strength": "13.00",
+      "unit": "%"
+    },
+    {
+      "name": "ALKYL DIMETHYL ETHYLBENZYL AMMONIUM CHLORIDE",
+      "strength": "13.00",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "DISINFECTANT (Barn)"
+  ],
+  "companies": [
+    "AALADIN SUPERIOR CLEANING SYSTEMS LTD."
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "TECHNICAL DISINFECTANTS"
+  ]
+}

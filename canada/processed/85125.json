@@ -1,0 +1,34 @@
+{
+  "drug_code": "85125",
+  "din": "02366401",
+  "brand_name": "HEMOCLEAN",
+  "class": "Disinfectant",
+  "descriptor": "",
+  "last_update": "13-JAN-2017",
+  "active_ingredients": [
+    {
+      "name": "HYDROGEN PEROXIDE",
+      "strength": "5.95",
+      "unit": "%"
+    },
+    {
+      "name": "PERACETIC ACID",
+      "strength": "1.73",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "LIQUID"
+  ],
+  "routes": [
+    "DISINFECTANT (Medical Instruments)",
+    "DISINFECTANT (Hospital/HC Facilities)"
+  ],
+  "companies": [
+    "HUONS MEDICARE CO LTD"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "TECHNICAL DISINFECTANTS"
+  ]
+}

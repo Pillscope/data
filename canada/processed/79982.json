@@ -1,0 +1,43 @@
+{
+  "drug_code": "79982",
+  "din": "02314266",
+  "brand_name": "MESOESTETIC SUN PROTECTION SPF 25",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "13-FEB-2014",
+  "active_ingredients": [
+    {
+      "name": "AVOBENZONE",
+      "strength": "0.1",
+      "unit": "%"
+    },
+    {
+      "name": "OXYBENZONE",
+      "strength": "3.0",
+      "unit": "%"
+    },
+    {
+      "name": "OCTISALATE",
+      "strength": "0.5",
+      "unit": "%"
+    },
+    {
+      "name": "OCTINOXATE",
+      "strength": "7.5",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "SPRAY"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "TYLSTIN MEDICAL"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "COMBINATIONS OF PROTECTIVES AGAINST UV-RADIATION"
+  ]
+}

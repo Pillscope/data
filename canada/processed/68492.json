@@ -1,0 +1,28 @@
+{
+  "drug_code": "68492",
+  "din": "02244515",
+  "brand_name": "TEVA-GABAPENTIN",
+  "class": "Human",
+  "descriptor": "400MG",
+  "last_update": "05-MAY-2015",
+  "active_ingredients": [
+    {
+      "name": "GABAPENTIN",
+      "strength": "400",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "CAPSULE"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "TEVA CANADA LIMITED"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "GABAPENTIN"
+  ]
+}

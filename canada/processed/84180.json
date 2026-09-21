@@ -1,0 +1,28 @@
+{
+  "drug_code": "84180",
+  "din": "02356678",
+  "brand_name": "TEVA-VALSARTAN",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "17-FEB-2011",
+  "active_ingredients": [
+    {
+      "name": "VALSARTAN",
+      "strength": "160",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "TEVA CANADA LIMITED"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "VALSARTAN"
+  ]
+}

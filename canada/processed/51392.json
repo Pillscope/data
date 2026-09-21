@@ -1,0 +1,28 @@
+{
+  "drug_code": "51392",
+  "din": "00639389",
+  "brand_name": "STATEX SUPPOSITORIES 30MG",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "18-AUG-2010",
+  "active_ingredients": [
+    {
+      "name": "MORPHINE SULFATE",
+      "strength": "30",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SUPPOSITORY"
+  ],
+  "routes": [
+    "RECTAL"
+  ],
+  "companies": [
+    "PALADIN LABS INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "MORPHINE"
+  ]
+}

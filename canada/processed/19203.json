@@ -1,0 +1,28 @@
+{
+  "drug_code": "19203",
+  "din": "02161966",
+  "brand_name": "LIDEX",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "17-NOV-2016",
+  "active_ingredients": [
+    {
+      "name": "FLUOCINONIDE",
+      "strength": "0.05",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "OINTMENT"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "VALEANT CANADA LP/VALEANT CANADA S.E.C."
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "FLUOCINONIDE"
+  ]
+}

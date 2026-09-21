@@ -1,0 +1,28 @@
+{
+  "drug_code": "73226",
+  "din": "02248855",
+  "brand_name": "PMS-METOPROLOL-L",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "08-OCT-2013",
+  "active_ingredients": [
+    {
+      "name": "METOPROLOL TARTRATE",
+      "strength": "25",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "PHARMASCIENCE INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "METOPROLOL"
+  ]
+}

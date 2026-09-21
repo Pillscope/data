@@ -1,0 +1,28 @@
+{
+  "drug_code": "62232",
+  "din": "02238796",
+  "brand_name": "APO-BECLOMETHASONE NASAL SPRAY",
+  "class": "Human",
+  "descriptor": "METERED DOSE SPRAY",
+  "last_update": "08-JUN-2017",
+  "active_ingredients": [
+    {
+      "name": "BECLOMETHASONE DIPROPIONATE",
+      "strength": "50",
+      "unit": "MCG"
+    }
+  ],
+  "forms": [
+    "SUSPENSION"
+  ],
+  "routes": [
+    "NASAL"
+  ],
+  "companies": [
+    "APOTEX INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "BECLOMETHASONE"
+  ]
+}

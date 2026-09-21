@@ -1,0 +1,28 @@
+{
+  "drug_code": "18314",
+  "din": "02130181",
+  "brand_name": "PROLEUKIN",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "31-OCT-2014",
+  "active_ingredients": [
+    {
+      "name": "ALDESLEUKIN",
+      "strength": "22000000",
+      "unit": "UNIT"
+    }
+  ],
+  "forms": [
+    "POWDER FOR SOLUTION"
+  ],
+  "routes": [
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "NOVARTIS PHARMACEUTICALS CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "ALDESLEUKIN"
+  ]
+}

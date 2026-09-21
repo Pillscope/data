@@ -1,0 +1,38 @@
+{
+  "drug_code": "88404",
+  "din": "02399148",
+  "brand_name": "REFRESH OPTIVE ADVANCED",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "12-AUG-2013",
+  "active_ingredients": [
+    {
+      "name": "GLYCERINE",
+      "strength": "1.0",
+      "unit": "%"
+    },
+    {
+      "name": "SODIUM CARBOXYMETHYL CELLULOSE",
+      "strength": "0.5",
+      "unit": "%"
+    },
+    {
+      "name": "POLYSORBATE 80",
+      "strength": "0.5",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "OPHTHALMIC"
+  ],
+  "companies": [
+    "ALLERGAN INC"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "ARTIFICIAL TEARS AND OTHER INDIFFERENT PREPARATIONS."
+  ]
+}

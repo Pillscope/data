@@ -1,0 +1,26 @@
+{
+  "drug_code": "84114",
+  "din": "02355957",
+  "brand_name": "DORMOSEDAN GEL",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "13-MAY-2014",
+  "active_ingredients": [
+    {
+      "name": "DETOMIDINE HYDROCHLORIDE",
+      "strength": "7.6",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "GEL"
+  ],
+  "routes": [
+    "SUBLINGUAL"
+  ],
+  "companies": [
+    "ORION CORPORATION"
+  ],
+  "status": "APPROVED",
+  "atc": []
+}

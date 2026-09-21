@@ -1,0 +1,28 @@
+{
+  "drug_code": "14566",
+  "din": "02017237",
+  "brand_name": "PMS-NAPROXEN",
+  "class": "Human",
+  "descriptor": "SUPPOSITORIES",
+  "last_update": "05-MAY-2015",
+  "active_ingredients": [
+    {
+      "name": "NAPROXEN",
+      "strength": "500",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SUPPOSITORY"
+  ],
+  "routes": [
+    "RECTAL"
+  ],
+  "companies": [
+    "PHARMASCIENCE INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "NAPROXEN"
+  ]
+}

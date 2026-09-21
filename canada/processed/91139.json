@@ -1,0 +1,28 @@
+{
+  "drug_code": "91139",
+  "din": "02426846",
+  "brand_name": "DONEPEZIL",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "03-APR-2018",
+  "active_ingredients": [
+    {
+      "name": "DONEPEZIL HYDROCHLORIDE",
+      "strength": "5",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "SANIS HEALTH INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "DONEPEZIL"
+  ]
+}

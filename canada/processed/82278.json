@@ -1,0 +1,27 @@
+{
+  "drug_code": "82278",
+  "din": "02337177",
+  "brand_name": "CEPETOR",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "28-JUN-2013",
+  "active_ingredients": [
+    {
+      "name": "MEDETOMIDINE HYDROCHLORIDE",
+      "strength": "1",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "INTRAMUSCULAR",
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "MODERN VETERINARY THERAPEUTICS LLC"
+  ],
+  "status": "APPROVED",
+  "atc": []
+}

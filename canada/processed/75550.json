@@ -1,0 +1,28 @@
+{
+  "drug_code": "75550",
+  "din": "02270102",
+  "brand_name": "FLOMAX CR",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "26-FEB-2013",
+  "active_ingredients": [
+    {
+      "name": "TAMSULOSIN HYDROCHLORIDE",
+      "strength": "0.4",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET (EXTENDED-RELEASE)"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "BOEHRINGER INGELHEIM (CANADA) LTD LTEE"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "TAMSULOSIN"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "drug_code": "62792",
+  "din": "02239323",
+  "brand_name": "SANDOSTATIN LAR 10MG",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "05-JUN-2006",
+  "active_ingredients": [
+    {
+      "name": "OCTREOTIDE (OCTREOTIDE ACETATE)",
+      "strength": "10",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "POWDER"
+  ],
+  "routes": [
+    "INTRAMUSCULAR"
+  ],
+  "companies": [
+    "NOVARTIS PHARMACEUTICALS CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "OCTREOTIDE"
+  ]
+}

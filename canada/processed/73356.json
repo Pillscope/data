@@ -1,0 +1,28 @@
+{
+  "drug_code": "73356",
+  "din": "02248974",
+  "brand_name": "APO-MELOXICAM",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "08-MAR-2006",
+  "active_ingredients": [
+    {
+      "name": "MELOXICAM",
+      "strength": "15",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "APOTEX INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "MELOXICAM"
+  ]
+}

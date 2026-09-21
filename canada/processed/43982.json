@@ -1,0 +1,34 @@
+{
+  "drug_code": "43982",
+  "din": "02145995",
+  "brand_name": "TRIVETRIN",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "04-AUG-2015",
+  "active_ingredients": [
+    {
+      "name": "TRIMETHOPRIM",
+      "strength": "40",
+      "unit": "MG"
+    },
+    {
+      "name": "SULFADOXINE",
+      "strength": "200",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "INTRAMUSCULAR",
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "INTERVET CANADA CORP"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "SULFADOXINE AND TRIMETHOPRIM"
+  ]
+}

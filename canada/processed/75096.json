@@ -1,0 +1,28 @@
+{
+  "drug_code": "75096",
+  "din": "02265508",
+  "brand_name": "MYLAN-LAMOTRIGINE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "02-FEB-2010",
+  "active_ingredients": [
+    {
+      "name": "LAMOTRIGINE",
+      "strength": "100",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "MYLAN PHARMACEUTICALS ULC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "LAMOTRIGINE"
+  ]
+}

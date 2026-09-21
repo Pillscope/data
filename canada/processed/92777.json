@@ -1,0 +1,28 @@
+{
+  "drug_code": "92777",
+  "din": "02443201",
+  "brand_name": "AURO-ALFUZOSIN",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "06-JAN-2016",
+  "active_ingredients": [
+    {
+      "name": "ALFUZOSIN HYDROCHLORIDE",
+      "strength": "10",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET (EXTENDED-RELEASE)"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "AURO PHARMA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "ALFUZOSIN"
+  ]
+}

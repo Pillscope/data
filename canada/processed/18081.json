@@ -1,0 +1,28 @@
+{
+  "drug_code": "18081",
+  "din": "02063786",
+  "brand_name": "MYCOBUTIN",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "20-SEP-2005",
+  "active_ingredients": [
+    {
+      "name": "RIFABUTIN",
+      "strength": "150",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "CAPSULE"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "PFIZER CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "RIFABUTIN"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "drug_code": "82791",
+  "din": "02342413",
+  "brand_name": "HMTS STERILANT AGENT",
+  "class": "Disinfectant",
+  "descriptor": "",
+  "last_update": "26-OCT-2010",
+  "active_ingredients": [
+    {
+      "name": "HYDROGEN PEROXIDE",
+      "strength": "50",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "DISINFECTANT (Medical Instruments)"
+  ],
+  "companies": [
+    "HUMAN MEDITEK CO LTD"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "TECHNICAL DISINFECTANTS"
+  ]
+}

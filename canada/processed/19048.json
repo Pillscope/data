@@ -1,0 +1,28 @@
+{
+  "drug_code": "19048",
+  "din": "02177897",
+  "brand_name": "APO-CLONAZEPAM - TAB 2MG",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "22-AUG-2011",
+  "active_ingredients": [
+    {
+      "name": "CLONAZEPAM",
+      "strength": "2",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "APOTEX INC"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "CLONAZEPAM"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "drug_code": "79609",
+  "din": "02310457",
+  "brand_name": "PRO-GABAPENTIN",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "27-JAN-2009",
+  "active_ingredients": [
+    {
+      "name": "GABAPENTIN",
+      "strength": "300",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "CAPSULE"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "PRO DOC LIMITEE"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "GABAPENTIN"
+  ]
+}

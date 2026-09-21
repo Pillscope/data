@@ -1,0 +1,28 @@
+{
+  "drug_code": "87094",
+  "din": "02385309",
+  "brand_name": "IRBESARTAN",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "14-NOV-2012",
+  "active_ingredients": [
+    {
+      "name": "IRBESARTAN",
+      "strength": "300",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "SIVEM PHARMACEUTICALS ULC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "IRBESARTAN"
+  ]
+}

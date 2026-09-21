@@ -1,0 +1,28 @@
+{
+  "drug_code": "65464",
+  "din": "02241799",
+  "brand_name": "PROCYTOX 1000MG/VIAL",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "05-APR-2006",
+  "active_ingredients": [
+    {
+      "name": "CYCLOPHOSPHAMIDE",
+      "strength": "1000",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "POWDER FOR SOLUTION"
+  ],
+  "routes": [
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "BAXTER CORPORATION"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "CYCLOPHOSPHAMIDE"
+  ]
+}

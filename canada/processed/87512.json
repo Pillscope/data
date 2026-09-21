@@ -1,0 +1,28 @@
+{
+  "drug_code": "87512",
+  "din": "02389622",
+  "brand_name": "TEVA-TOBRAMYCIN",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "29-FEB-2016",
+  "active_ingredients": [
+    {
+      "name": "TOBRAMYCIN (TOBRAMYCIN SULFATE)",
+      "strength": "60",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "INHALATION"
+  ],
+  "companies": [
+    "TEVA CANADA LIMITED"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "TOBRAMYCIN"
+  ]
+}

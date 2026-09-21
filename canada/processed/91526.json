@@ -1,0 +1,28 @@
+{
+  "drug_code": "91526",
+  "din": "02430827",
+  "brand_name": "LINEZOLID INJECTION",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "08-JUL-2015",
+  "active_ingredients": [
+    {
+      "name": "LINEZOLID",
+      "strength": "2",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "FRESENIUS KABI CANADA LTD"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "LINEZOLID"
+  ]
+}

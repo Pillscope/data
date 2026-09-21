@@ -1,0 +1,28 @@
+{
+  "drug_code": "92690",
+  "din": "02442566",
+  "brand_name": "LEVETIRACETAM",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "08-DEC-2017",
+  "active_ingredients": [
+    {
+      "name": "LEVETIRACETAM",
+      "strength": "750",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "SIVEM PHARMACEUTICALS ULC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "LEVETIRACETAM"
+  ]
+}

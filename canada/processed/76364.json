@@ -1,0 +1,28 @@
+{
+  "drug_code": "76364",
+  "din": "02278057",
+  "brand_name": "VOLUVEN",
+  "class": "Human",
+  "descriptor": "6% HYDROXYETHYL STARCH 130/0.4 IN 0.9% SODIUM CHLORIDE INJECTION",
+  "last_update": "15-MAY-2015",
+  "active_ingredients": [
+    {
+      "name": "HYDROXYETHYL STARCH 130/0.4",
+      "strength": "6",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "FRESENIUS KABI CANADA LTD"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "HYDROXYETHYLSTARCH"
+  ]
+}

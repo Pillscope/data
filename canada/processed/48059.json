@@ -1,0 +1,29 @@
+{
+  "drug_code": "48059",
+  "din": "02229777",
+  "brand_name": "PHARIXIA",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "26-OCT-2017",
+  "active_ingredients": [
+    {
+      "name": "BENZYDAMINE HYDROCHLORIDE",
+      "strength": "1.5",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "MOUTHWASH/GARGLE"
+  ],
+  "routes": [
+    "BUCCAL"
+  ],
+  "companies": [
+    "PENDOPHARM DIVISION OF DE PHARMASCIENCE INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "BENZYDAMINE",
+    "BENZYDAMINE"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "drug_code": "92002",
+  "din": "02435683",
+  "brand_name": "HEARTBURN CONTROL",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "18-MAR-2015",
+  "active_ingredients": [
+    {
+      "name": "OMEPRAZOLE",
+      "strength": "20",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "CAPSULE (DELAYED RELEASE)"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "APOTEX INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "OMEPRAZOLE"
+  ]
+}

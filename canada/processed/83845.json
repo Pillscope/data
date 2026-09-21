@@ -1,0 +1,28 @@
+{
+  "drug_code": "83845",
+  "din": "02353237",
+  "brand_name": "LOVASTATIN",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "17-AUG-2016",
+  "active_ingredients": [
+    {
+      "name": "LOVASTATIN",
+      "strength": "40",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "SANIS HEALTH INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "LOVASTATIN"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "drug_code": "81724",
+  "din": "02331551",
+  "brand_name": "TEVA-LACTULOSE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "17-SEP-2015",
+  "active_ingredients": [
+    {
+      "name": "LACTULOSE",
+      "strength": "667",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "TEVA CANADA LIMITED"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "LACTULOSE"
+  ]
+}

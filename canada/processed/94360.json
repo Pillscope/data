@@ -1,0 +1,33 @@
+{
+  "drug_code": "94360",
+  "din": "02456605",
+  "brand_name": "SYNJARDY",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "23-AUG-2016",
+  "active_ingredients": [
+    {
+      "name": "METFORMIN HYDROCHLORIDE",
+      "strength": "500",
+      "unit": "MG"
+    },
+    {
+      "name": "EMPAGLIFLOZIN",
+      "strength": "12.5",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "BOEHRINGER INGELHEIM (CANADA) LTD LTEE"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "METFORMIN AND EMPAGLIFLOZIN"
+  ]
+}

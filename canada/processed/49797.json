@@ -1,0 +1,28 @@
+{
+  "drug_code": "49797",
+  "din": "02230621",
+  "brand_name": "OPTICROM",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "11-JUL-2012",
+  "active_ingredients": [
+    {
+      "name": "CROMOLYN SODIUM",
+      "strength": "2",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "OPHTHALMIC"
+  ],
+  "companies": [
+    "ALLERGAN INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "CROMOGLICIC ACID"
+  ]
+}

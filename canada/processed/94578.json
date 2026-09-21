@@ -1,0 +1,28 @@
+{
+  "drug_code": "94578",
+  "din": "02458632",
+  "brand_name": "NITISINONE TABLETS",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "11-JAN-2018",
+  "active_ingredients": [
+    {
+      "name": "NITISINONE",
+      "strength": "10",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "CYCLE PHARMACEUTICALS LTD"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "NITISINONE"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "drug_code": "44192",
+  "din": "02173263",
+  "brand_name": "CEFA-LAK",
+  "class": "Veterinary",
+  "descriptor": "INTRAMAMMARY INFUSION (LACTATING COW)",
+  "last_update": "06-MAY-2015",
+  "active_ingredients": [
+    {
+      "name": "CEPHAPIRIN (CEPHAPIRIN SODIUM)",
+      "strength": "200",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "GEL"
+  ],
+  "routes": [
+    "INTRAMAMMARY"
+  ],
+  "companies": [
+    "BOEHRINGER INGELHEIM (CANADA) LTD LTEE"
+  ],
+  "status": "APPROVED",
+  "atc": []
+}

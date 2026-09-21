@@ -1,0 +1,28 @@
+{
+  "drug_code": "95283",
+  "din": "02464705",
+  "brand_name": "PROCYSBI",
+  "class": "Human",
+  "descriptor": "ALSO CALLED MERCAPTAMINE BITARTRATE",
+  "last_update": "21-NOV-2017",
+  "active_ingredients": [
+    {
+      "name": "CYSTEAMINE (CYSTEAMINE BITARTRATE)",
+      "strength": "25",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "CAPSULE (DELAYED RELEASE)"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "HORIZON PHARMA IRELAND LTD"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "MERCAPTAMINE"
+  ]
+}

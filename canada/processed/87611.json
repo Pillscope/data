@@ -1,0 +1,28 @@
+{
+  "drug_code": "87611",
+  "din": "02390701",
+  "brand_name": "SANDOZ FENOFIBRATE E",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "10-JAN-2013",
+  "active_ingredients": [
+    {
+      "name": "FENOFIBRATE",
+      "strength": "145.0",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "SANDOZ CANADA INCORPORATED"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "FENOFIBRATE"
+  ]
+}

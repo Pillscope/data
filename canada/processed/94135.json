@@ -1,0 +1,28 @@
+{
+  "drug_code": "94135",
+  "din": "02454645",
+  "brand_name": "VALACYCLOVIR",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "29-JUL-2016",
+  "active_ingredients": [
+    {
+      "name": "VALACYCLOVIR (VALACYCLOVIR HYDROCHLORIDE)",
+      "strength": "500",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "SANIS HEALTH INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "VALACICLOVIR"
+  ]
+}

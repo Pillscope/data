@@ -1,0 +1,28 @@
+{
+  "drug_code": "3378",
+  "din": "00399736",
+  "brand_name": "L-ARGININE HYDROCHLORIDE INJECTION",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "29-APR-2015",
+  "active_ingredients": [
+    {
+      "name": "ARGININE HYDROCHLORIDE",
+      "strength": "250",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "LIQUID"
+  ],
+  "routes": [
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "SANDOZ CANADA INCORPORATED"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "TESTS FOR PITUITARY FUNCTION"
+  ]
+}

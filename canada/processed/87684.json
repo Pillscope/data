@@ -1,0 +1,28 @@
+{
+  "drug_code": "87684",
+  "din": "02391503",
+  "brand_name": "MAR-GABAPENTIN",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "17-FEB-2014",
+  "active_ingredients": [
+    {
+      "name": "GABAPENTIN",
+      "strength": "400",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "CAPSULE"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "MARCAN PHARMACEUTICALS INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "GABAPENTIN"
+  ]
+}

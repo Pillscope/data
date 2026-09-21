@@ -1,0 +1,28 @@
+{
+  "drug_code": "73433",
+  "din": "02249510",
+  "brand_name": "MIDAMOR",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "16-MAY-2011",
+  "active_ingredients": [
+    {
+      "name": "AMILORIDE HYDROCHLORIDE",
+      "strength": "5.0",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "AA PHARMA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "AMILORIDE"
+  ]
+}

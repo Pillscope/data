@@ -1,0 +1,26 @@
+{
+  "drug_code": "83479",
+  "din": "02349507",
+  "brand_name": "TILMOVET PREMIX",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "29-DEC-2017",
+  "active_ingredients": [
+    {
+      "name": "TILMICOSIN (TILMICOSIN PHOSPHATE)",
+      "strength": "200",
+      "unit": "G"
+    }
+  ],
+  "forms": [
+    "DRUG PREMIX"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "HUVEPHARMA EOOD"
+  ],
+  "status": "APPROVED",
+  "atc": []
+}

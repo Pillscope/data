@@ -1,0 +1,33 @@
+{
+  "drug_code": "86769",
+  "din": "02381850",
+  "brand_name": "BUPIVACAINE HCL 0.5% AND EPINEPHRINE 1:200,000 INJECTION",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "08-AUG-2017",
+  "active_ingredients": [
+    {
+      "name": "BUPIVACAINE HYDROCHLORIDE",
+      "strength": "5",
+      "unit": "MG"
+    },
+    {
+      "name": "EPINEPHRINE BITARTRATE",
+      "strength": "0.0091",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "BLOCK/INFILTRATION"
+  ],
+  "companies": [
+    "NOVOCOL PHARMACEUTICAL OF CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "BUPIVACAINE, COMBINATIONS"
+  ]
+}

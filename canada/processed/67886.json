@@ -1,0 +1,31 @@
+{
+  "drug_code": "67886",
+  "din": "02243944",
+  "brand_name": "BOT-PLUS SYRINGE FORMULA EQUINE WORMER",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "09-AUG-2017",
+  "active_ingredients": [
+    {
+      "name": "TRICHLORFON",
+      "strength": "459",
+      "unit": "MG"
+    },
+    {
+      "name": "MEBENDAZOLE",
+      "strength": "100",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "PASTE"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "CAN-VET ANIMAL HEALTH SUPPLIES LTD."
+  ],
+  "status": "APPROVED",
+  "atc": []
+}

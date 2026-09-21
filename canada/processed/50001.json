@@ -1,0 +1,28 @@
+{
+  "drug_code": "50001",
+  "din": "02230738",
+  "brand_name": "HYPERHEP B S/D",
+  "class": "Human",
+  "descriptor": "5ML VIAL",
+  "last_update": "20-APR-2015",
+  "active_ingredients": [
+    {
+      "name": "HEPATITIS B IMMUNE GLOBULIN HUMAN",
+      "strength": "220",
+      "unit": "UNIT"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "INTRAMUSCULAR"
+  ],
+  "companies": [
+    "GRIFOLS THERAPEUTICS LLC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "HEPATITIS B IMMUNOGLOBULIN"
+  ]
+}

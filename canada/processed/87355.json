@@ -1,0 +1,26 @@
+{
+  "drug_code": "87355",
+  "din": "02387980",
+  "brand_name": "HALOCUR",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "19-DEC-2013",
+  "active_ingredients": [
+    {
+      "name": "HALOFUGINONE (HALOFUGINONE LACTATE)",
+      "strength": "0.5",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "INTERVET CANADA CORP"
+  ],
+  "status": "APPROVED",
+  "atc": []
+}

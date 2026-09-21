@@ -1,0 +1,28 @@
+{
+  "drug_code": "80969",
+  "din": "02324210",
+  "brand_name": "GEMCITABINE FOR INJECTION",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "27-JUL-2009",
+  "active_ingredients": [
+    {
+      "name": "GEMCITABINE (GEMCITABINE HYDROCHLORIDE)",
+      "strength": "1",
+      "unit": "G"
+    }
+  ],
+  "forms": [
+    "POWDER FOR SOLUTION"
+  ],
+  "routes": [
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "ACCORD HEALTHCARE INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "GEMCITABINE"
+  ]
+}

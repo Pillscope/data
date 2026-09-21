@@ -1,0 +1,28 @@
+{
+  "drug_code": "87574",
+  "din": "02390299",
+  "brand_name": "MYLAN-RILUZOLE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "11-DEC-2013",
+  "active_ingredients": [
+    {
+      "name": "RILUZOLE",
+      "strength": "50",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "MYLAN PHARMACEUTICALS ULC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "RILUZOLE"
+  ]
+}

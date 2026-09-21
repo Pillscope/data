@@ -1,0 +1,28 @@
+{
+  "drug_code": "2861",
+  "din": "00410632",
+  "brand_name": "FLUPHENAZINE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "29-APR-2015",
+  "active_ingredients": [
+    {
+      "name": "FLUPHENAZINE HYDROCHLORIDE",
+      "strength": "2",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "AA PHARMA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "FLUPHENAZINE"
+  ]
+}

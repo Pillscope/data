@@ -1,0 +1,28 @@
+{
+  "drug_code": "7444",
+  "din": "00738840",
+  "brand_name": "NOVO-HYDROXYZIN",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "17-MAY-2017",
+  "active_ingredients": [
+    {
+      "name": "HYDROXYZINE HYDROCHLORIDE",
+      "strength": "50",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "CAPSULE"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "TEVA CANADA LIMITED"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "HYDROXYZINE"
+  ]
+}

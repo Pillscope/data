@@ -1,0 +1,28 @@
+{
+  "drug_code": "71950",
+  "din": "02247686",
+  "brand_name": "ATROVENT HFA",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "07-APR-2011",
+  "active_ingredients": [
+    {
+      "name": "IPRATROPIUM BROMIDE",
+      "strength": "20",
+      "unit": "MCG"
+    }
+  ],
+  "forms": [
+    "METERED-DOSE AEROSOL"
+  ],
+  "routes": [
+    "INHALATION"
+  ],
+  "companies": [
+    "BOEHRINGER INGELHEIM (CANADA) LTD LTEE"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "IPRATROPIUM BROMIDE"
+  ]
+}

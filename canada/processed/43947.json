@@ -1,0 +1,108 @@
+{
+  "drug_code": "43947",
+  "din": "02141450",
+  "brand_name": "20% PROSOL",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "05-MAY-2015",
+  "active_ingredients": [
+    {
+      "name": "LYSINE (LYSINE ACETATE)",
+      "strength": "1.35",
+      "unit": "G"
+    },
+    {
+      "name": "ALANINE",
+      "strength": "2.76",
+      "unit": "G"
+    },
+    {
+      "name": "PROLINE",
+      "strength": "1.34",
+      "unit": "G"
+    },
+    {
+      "name": "DL-METHIONINE",
+      "strength": "0.76",
+      "unit": "G"
+    },
+    {
+      "name": "GLUTAMIC ACID",
+      "strength": "1.02",
+      "unit": "G"
+    },
+    {
+      "name": "THREONINE",
+      "strength": "0.98",
+      "unit": "G"
+    },
+    {
+      "name": "TRYPTOPHAN",
+      "strength": "0.32",
+      "unit": "G"
+    },
+    {
+      "name": "ARGININE",
+      "strength": "1.96",
+      "unit": "G"
+    },
+    {
+      "name": "PHENYLALANINE",
+      "strength": "1",
+      "unit": "G"
+    },
+    {
+      "name": "VALINE",
+      "strength": "1.44",
+      "unit": "G"
+    },
+    {
+      "name": "TYROSINE",
+      "strength": "0.05",
+      "unit": "G"
+    },
+    {
+      "name": "L-ASPARTIC ACID",
+      "strength": "0.6",
+      "unit": "G"
+    },
+    {
+      "name": "SERINE",
+      "strength": "1.02",
+      "unit": "G"
+    },
+    {
+      "name": "LEUCINE",
+      "strength": "1.08",
+      "unit": "G"
+    },
+    {
+      "name": "GLYCINE",
+      "strength": "2.06",
+      "unit": "G"
+    },
+    {
+      "name": "HISTIDINE",
+      "strength": "1.18",
+      "unit": "G"
+    },
+    {
+      "name": "ISOLEUCINE",
+      "strength": "1.08",
+      "unit": "G"
+    }
+  ],
+  "forms": [
+    "LIQUID"
+  ],
+  "routes": [
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "BAXTER CORPORATION"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "AMINO ACIDS"
+  ]
+}

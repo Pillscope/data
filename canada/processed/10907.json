@@ -1,0 +1,28 @@
+{
+  "drug_code": "10907",
+  "din": "00893609",
+  "brand_name": "APO-CAPTO TAB 25MG",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "21-SEP-2009",
+  "active_ingredients": [
+    {
+      "name": "CAPTOPRIL",
+      "strength": "25",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "APOTEX INC"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "CAPTOPRIL"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "drug_code": "11439",
+  "din": "00867357",
+  "brand_name": "FOLLTROPIN-V",
+  "class": "Veterinary",
+  "descriptor": "FOLLICLE STIMULATING HORMONE FOR INJECTION",
+  "last_update": "08-DEC-2016",
+  "active_ingredients": [
+    {
+      "name": "FOLLICLE STIMULATING HORMONE (FSH)",
+      "strength": "400",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "POWDER FOR SOLUTION"
+  ],
+  "routes": [
+    "INTRAMUSCULAR"
+  ],
+  "companies": [
+    "VETOQUINOL N A INC"
+  ],
+  "status": "APPROVED",
+  "atc": []
+}

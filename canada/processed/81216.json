@@ -1,0 +1,28 @@
+{
+  "drug_code": "81216",
+  "din": "02326825",
+  "brand_name": "DOM-AMLODIPINE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "19-JAN-2010",
+  "active_ingredients": [
+    {
+      "name": "AMLODIPINE (AMLODIPINE BESYLATE)",
+      "strength": "2.5",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "DOMINION PHARMACAL"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "AMLODIPINE"
+  ]
+}

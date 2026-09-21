@@ -1,0 +1,28 @@
+{
+  "drug_code": "76678",
+  "din": "02281112",
+  "brand_name": "ALTACE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "28-FEB-2017",
+  "active_ingredients": [
+    {
+      "name": "RAMIPRIL",
+      "strength": "15",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "CAPSULE"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "VALEANT CANADA LP/VALEANT CANADA S.E.C."
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "RAMIPRIL"
+  ]
+}

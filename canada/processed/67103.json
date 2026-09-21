@@ -1,0 +1,41 @@
+{
+  "drug_code": "67103",
+  "din": "02243220",
+  "brand_name": "I-DEAL TEAT DIP",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "27-JUL-2016",
+  "active_ingredients": [
+    {
+      "name": "GLYCERINE",
+      "strength": "5.3",
+      "unit": "%"
+    },
+    {
+      "name": "PROPYLENE GLYCOL",
+      "strength": "6.0",
+      "unit": "%"
+    },
+    {
+      "name": "NONYL PHENOXY POLYOXYETHYLENE ETHANOL-IODINE COMPLEX",
+      "strength": "6.6",
+      "unit": "%"
+    },
+    {
+      "name": "POLYOXYPROPYLENE-POLYOXYETHYLENE BLOCK COPOLYMER-IODINE COMPLEX",
+      "strength": "5.6",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "LIQUID"
+  ],
+  "routes": [
+    "TEAT-DIP"
+  ],
+  "companies": [
+    "ECOLAB CO"
+  ],
+  "status": "MARKETED",
+  "atc": []
+}

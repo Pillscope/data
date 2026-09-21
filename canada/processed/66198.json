@@ -1,0 +1,28 @@
+{
+  "drug_code": "66198",
+  "din": "02242471",
+  "brand_name": "DOSTINEX",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "06-AUG-2009",
+  "active_ingredients": [
+    {
+      "name": "CABERGOLINE",
+      "strength": "0.5",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "PFIZER CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "CABERGOLINE"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "drug_code": "75325",
+  "din": "02267845",
+  "brand_name": "TEVA-AZITHROMYCIN",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "06-MAR-2017",
+  "active_ingredients": [
+    {
+      "name": "AZITHROMYCIN (AZITHROMYCIN MONOHYDRATE HEMIETHANOLATE)",
+      "strength": "250",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "TEVA CANADA LIMITED"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "AZITHROMYCIN"
+  ]
+}

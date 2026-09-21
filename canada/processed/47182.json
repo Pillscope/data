@@ -1,0 +1,31 @@
+{
+  "drug_code": "47182",
+  "din": "02229382",
+  "brand_name": "EPI-OTIC",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "07-JUL-2016",
+  "active_ingredients": [
+    {
+      "name": "SALICYLIC ACID",
+      "strength": "0.1",
+      "unit": "%"
+    },
+    {
+      "name": "LACTIC ACID",
+      "strength": "2.5",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "OTIC"
+  ],
+  "companies": [
+    "VIRBAC AH INC"
+  ],
+  "status": "APPROVED",
+  "atc": []
+}

@@ -1,0 +1,43 @@
+{
+  "drug_code": "88905",
+  "din": "02404265",
+  "brand_name": "CLINIQUE SUPER CITY BLOCK OIL-FREE DAILY FACE PROTECTOR SPF 40",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "11-MAR-2015",
+  "active_ingredients": [
+    {
+      "name": "ZINC OXIDE",
+      "strength": "6.0",
+      "unit": "%"
+    },
+    {
+      "name": "TITANIUM DIOXIDE",
+      "strength": "5.2",
+      "unit": "%"
+    },
+    {
+      "name": "OCTISALATE",
+      "strength": "2.0",
+      "unit": "%"
+    },
+    {
+      "name": "OCTINOXATE",
+      "strength": "7.5",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "CREAM"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "CLINIQUE LABORATORIES DIST"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "COMBINATIONS OF PROTECTIVES AGAINST UV-RADIATION"
+  ]
+}

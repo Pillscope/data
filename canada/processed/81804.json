@@ -1,0 +1,28 @@
+{
+  "drug_code": "81804",
+  "din": "02332388",
+  "brand_name": "SANDOZ AZITHROMYCIN",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "13-AUG-2010",
+  "active_ingredients": [
+    {
+      "name": "AZITHROMYCIN (AZITHROMYCIN MONOHYDRATE)",
+      "strength": "100",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "POWDER FOR SUSPENSION"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "SANDOZ CANADA INCORPORATED"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "AZITHROMYCIN"
+  ]
+}

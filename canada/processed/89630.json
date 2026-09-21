@@ -1,0 +1,28 @@
+{
+  "drug_code": "89630",
+  "din": "02411709",
+  "brand_name": "AURO-MIRTAZAPINE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "05-MAR-2014",
+  "active_ingredients": [
+    {
+      "name": "MIRTAZAPINE",
+      "strength": "30",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "AURO PHARMA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "MIRTAZAPINE"
+  ]
+}

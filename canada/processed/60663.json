@@ -1,0 +1,28 @@
+{
+  "drug_code": "60663",
+  "din": "02237339",
+  "brand_name": "PMS-TRAZODONE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "08-SEP-2016",
+  "active_ingredients": [
+    {
+      "name": "TRAZODONE HYDROCHLORIDE",
+      "strength": "75",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "PHARMASCIENCE INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "TRAZODONE"
+  ]
+}

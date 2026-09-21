@@ -1,0 +1,28 @@
+{
+  "drug_code": "75263",
+  "din": "02267233",
+  "brand_name": "TECTA",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "03-SEP-2013",
+  "active_ingredients": [
+    {
+      "name": "PANTOPRAZOLE (PANTOPRAZOLE MAGNESIUM)",
+      "strength": "40",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET (ENTERIC-COATED)"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "TAKEDA CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "PANTOPRAZOLE"
+  ]
+}

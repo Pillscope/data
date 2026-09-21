@@ -1,0 +1,28 @@
+{
+  "drug_code": "18188",
+  "din": "02147432",
+  "brand_name": "MYLAN-ATENOLOL",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "11-MAY-2010",
+  "active_ingredients": [
+    {
+      "name": "ATENOLOL",
+      "strength": "100",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "MYLAN PHARMACEUTICALS ULC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "ATENOLOL"
+  ]
+}

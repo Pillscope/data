@@ -1,0 +1,43 @@
+{
+  "drug_code": "88411",
+  "din": "02399229",
+  "brand_name": "PROQUAD",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "09-JUN-2014",
+  "active_ingredients": [
+    {
+      "name": "MUMPS VIRUS VACCINE LIVE ATTENUATED (JERYL LYNN STRAIN)",
+      "strength": "4.30",
+      "unit": "Log10 TCID50"
+    },
+    {
+      "name": "RUBELLA VIRUS VACCINE LIVE ATTENUATED (WISTAR RA27/3 STRAIN)",
+      "strength": "3.00",
+      "unit": "Log10 TCID50"
+    },
+    {
+      "name": "VARICELLA-ZOSTER VIRUS VACCINE LIVE ATTENUATED (OKA/MERCK STRAIN)",
+      "strength": "3.99",
+      "unit": "Log10 PFU"
+    },
+    {
+      "name": "MEASLES VIRUS VACCINE LIVE ATTENUATED (EDMONSTON B STRAIN)",
+      "strength": "3.00",
+      "unit": "Log10 TCID50"
+    }
+  ],
+  "forms": [
+    "POWDER FOR SOLUTION"
+  ],
+  "routes": [
+    "SUBCUTANEOUS"
+  ],
+  "companies": [
+    "MERCK CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "MEASLES, COMBINATIONS WITH MUMPS, RUBELLA AND VARICELLA, LIVE ATTENUATED"
+  ]
+}

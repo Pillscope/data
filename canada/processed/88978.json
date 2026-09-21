@@ -1,0 +1,33 @@
+{
+  "drug_code": "88978",
+  "din": "02404958",
+  "brand_name": "ESTEE LAUDER DOUBLE WEAR STAY-IN-PLACE HIGH COVER CONCEALER SPF 35",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "23-OCT-2013",
+  "active_ingredients": [
+    {
+      "name": "TITANIUM DIOXIDE",
+      "strength": "1.9",
+      "unit": "%"
+    },
+    {
+      "name": "OCTINOXATE",
+      "strength": "4.9",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "CREAM"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "ESTEE LAUDER DIST"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "COMBINATIONS OF PROTECTIVES AGAINST UV-RADIATION"
+  ]
+}

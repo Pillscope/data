@@ -1,0 +1,28 @@
+{
+  "drug_code": "87616",
+  "din": "02390760",
+  "brand_name": "MED-CYPROTERONE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "14-DEC-2012",
+  "active_ingredients": [
+    {
+      "name": "CYPROTERONE ACETATE",
+      "strength": "50",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "GENERIC MEDICAL PARTNERS INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "CYPROTERONE"
+  ]
+}

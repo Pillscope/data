@@ -1,0 +1,28 @@
+{
+  "drug_code": "80119",
+  "din": "02315661",
+  "brand_name": "MINT-TOPIRAMATE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "11-FEB-2009",
+  "active_ingredients": [
+    {
+      "name": "TOPIRAMATE",
+      "strength": "200",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "MINT PHARMACEUTICALS INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "TOPIRAMATE"
+  ]
+}

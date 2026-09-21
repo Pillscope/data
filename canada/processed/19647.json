@@ -1,0 +1,28 @@
+{
+  "drug_code": "19647",
+  "din": "02184478",
+  "brand_name": "CASODEX",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "16-DEC-2016",
+  "active_ingredients": [
+    {
+      "name": "BICALUTAMIDE",
+      "strength": "50",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "ASTRAZENECA CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "BICALUTAMIDE"
+  ]
+}

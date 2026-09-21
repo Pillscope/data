@@ -1,0 +1,33 @@
+{
+  "drug_code": "78280",
+  "din": "02297442",
+  "brand_name": "LORIS - I.V.",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "03-APR-2009",
+  "active_ingredients": [
+    {
+      "name": "CHLORHEXIDINE GLUCONATE",
+      "strength": "2.0",
+      "unit": "%"
+    },
+    {
+      "name": "ISOPROPYL ALCOHOL",
+      "strength": "70",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "SWAB"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "LERNAPHARM (LORIS) INC."
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "CHLORHEXIDINE, COMBINATIONS"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "drug_code": "9593",
+  "din": "00788716",
+  "brand_name": "VANCOCIN",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "29-MAR-2012",
+  "active_ingredients": [
+    {
+      "name": "VANCOMYCIN (VANCOMYCIN HYDROCHLORIDE)",
+      "strength": "250",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "CAPSULE"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "MERUS LABS INTERNATIONAL INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "VANCOMYCIN"
+  ]
+}

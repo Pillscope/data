@@ -1,0 +1,28 @@
+{
+  "drug_code": "84274",
+  "din": "02357631",
+  "brand_name": "VIMPAT",
+  "class": "Human",
+  "descriptor": "FILM-COATED TABLETS",
+  "last_update": "05-JUN-2017",
+  "active_ingredients": [
+    {
+      "name": "LACOSAMIDE",
+      "strength": "150",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "UCB CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "LACOSAMIDE"
+  ]
+}

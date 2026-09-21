@@ -1,0 +1,28 @@
+{
+  "drug_code": "93991",
+  "din": "02453363",
+  "brand_name": "APO-CETIRIZINE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "12-MAY-2016",
+  "active_ingredients": [
+    {
+      "name": "CETIRIZINE HYDROCHLORIDE",
+      "strength": "20",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "APOTEX INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "CETIRIZINE"
+  ]
+}

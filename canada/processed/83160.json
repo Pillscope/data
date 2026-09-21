@@ -1,0 +1,38 @@
+{
+  "drug_code": "83160",
+  "din": "02346176",
+  "brand_name": "SEASONIQUE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "10-MAR-2017",
+  "active_ingredients": [
+    {
+      "name": "LEVONORGESTREL",
+      "strength": "0.15",
+      "unit": "MG"
+    },
+    {
+      "name": "ETHINYL ESTRADIOL",
+      "strength": "0.01",
+      "unit": "MG"
+    },
+    {
+      "name": "ETHINYL ESTRADIOL",
+      "strength": "0.03",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "TEVA WOMENS HEALTH INC. SUBSIDIARY OF TEVA PHARMACEUTICALS USA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "LEVONORGESTREL AND ESTROGEN"
+  ]
+}

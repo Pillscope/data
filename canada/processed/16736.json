@@ -1,0 +1,29 @@
+{
+  "drug_code": "16736",
+  "din": "02043386",
+  "brand_name": "PREMARIN INTRAVENOUS",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "31-MAR-2014",
+  "active_ingredients": [
+    {
+      "name": "CONJUGATED ESTROGENS",
+      "strength": "25",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "POWDER FOR SOLUTION"
+  ],
+  "routes": [
+    "INTRAMUSCULAR",
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "PFIZER CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "CONJUGATED ESTROGENS"
+  ]
+}

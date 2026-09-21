@@ -1,0 +1,28 @@
+{
+  "drug_code": "92306",
+  "din": "02438674",
+  "brand_name": "PEMETREXED DISODIUM FOR INJECTION",
+  "class": "Human",
+  "descriptor": "SINGLE USE VIAL",
+  "last_update": "28-JUL-2017",
+  "active_ingredients": [
+    {
+      "name": "PEMETREXED (Pemetrexed disodium hemipentahydrate)",
+      "strength": "100",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "POWDER FOR SOLUTION"
+  ],
+  "routes": [
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "ACCORD HEALTHCARE INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "PEMETREXED"
+  ]
+}

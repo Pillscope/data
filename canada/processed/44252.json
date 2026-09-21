@@ -1,0 +1,34 @@
+{
+  "drug_code": "44252",
+  "din": "02181479",
+  "brand_name": "INHIBACE PLUS",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "06-FEB-2018",
+  "active_ingredients": [
+    {
+      "name": "HYDROCHLOROTHIAZIDE",
+      "strength": "12.5",
+      "unit": "MG"
+    },
+    {
+      "name": "CILAZAPRIL (CILAZAPRIL MONOHYDRATE)",
+      "strength": "5",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "HOFFMANN-LA ROCHE LIMITED"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "CILAZAPRIL AND DIURETICS",
+    "CILAZAPRIL AND DIURETICS"
+  ]
+}

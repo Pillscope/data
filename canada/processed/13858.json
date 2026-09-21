@@ -1,0 +1,36 @@
+{
+  "drug_code": "13858",
+  "din": "02018497",
+  "brand_name": "PPP TAR-IFIC MEDICATED SHAMPOO",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "15-JUL-2011",
+  "active_ingredients": [
+    {
+      "name": "SALICYLIC ACID",
+      "strength": "2",
+      "unit": "%"
+    },
+    {
+      "name": "COAL TAR",
+      "strength": "2",
+      "unit": "%"
+    },
+    {
+      "name": "SULFUR",
+      "strength": "2",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "SHAMPOO"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "PROFESSIONAL PET PRODUCTS INC."
+  ],
+  "status": "MARKETED",
+  "atc": []
+}

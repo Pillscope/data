@@ -1,0 +1,28 @@
+{
+  "drug_code": "77863",
+  "din": "02293269",
+  "brand_name": "CAMPRAL",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "05-MAY-2015",
+  "active_ingredients": [
+    {
+      "name": "ACAMPROSATE CALCIUM",
+      "strength": "333",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET (DELAYED-RELEASE)"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "MYLAN PHARMACEUTICALS ULC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "ACAMPROSATE"
+  ]
+}

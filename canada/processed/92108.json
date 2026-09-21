@@ -1,0 +1,28 @@
+{
+  "drug_code": "92108",
+  "din": "02436779",
+  "brand_name": "ZYKADIA",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "26-MAY-2015",
+  "active_ingredients": [
+    {
+      "name": "CERITINIB",
+      "strength": "150",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "CAPSULE"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "NOVARTIS PHARMACEUTICALS CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "CERITINIB"
+  ]
+}

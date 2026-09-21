@@ -1,0 +1,28 @@
+{
+  "drug_code": "49605",
+  "din": "02230535",
+  "brand_name": "CLINDAMYCIN INJECTION USP",
+  "class": "Human",
+  "descriptor": "PHARMACY BULK VIALS",
+  "last_update": "09-AUG-2017",
+  "active_ingredients": [
+    {
+      "name": "CLINDAMYCIN (CLINDAMYCIN PHOSPHATE)",
+      "strength": "150",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "SANDOZ CANADA INCORPORATED"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "CLINDAMYCIN"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "drug_code": "81834",
+  "din": "02332671",
+  "brand_name": "EXIDINE OINTMENT",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "16-JUN-2011",
+  "active_ingredients": [
+    {
+      "name": "CHLORHEXIDINE ACETATE",
+      "strength": "1.0",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "OINTMENT"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "PARTNAR ANIMAL HEALTH INC"
+  ],
+  "status": "MARKETED",
+  "atc": []
+}

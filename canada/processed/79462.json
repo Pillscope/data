@@ -1,0 +1,28 @@
+{
+  "drug_code": "79462",
+  "din": "02309017",
+  "brand_name": "DOM-PRAMIPEXOLE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "20-DEC-2013",
+  "active_ingredients": [
+    {
+      "name": "PRAMIPEXOLE DIHYDROCHLORIDE MONOHYDRATE",
+      "strength": "0.25",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "DOMINION PHARMACAL"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "PRAMIPEXOLE"
+  ]
+}

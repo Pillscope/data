@@ -1,0 +1,33 @@
+{
+  "drug_code": "82514",
+  "din": "02339544",
+  "brand_name": "ARTICAINE HYDROCHLORIDE AND EPINEPHRINE BITARTRATE INJECTION",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "18-APR-2018",
+  "active_ingredients": [
+    {
+      "name": "ARTICAINE HYDROCHLORIDE",
+      "strength": "40",
+      "unit": "MG"
+    },
+    {
+      "name": "EPINEPHRINE BITARTRATE",
+      "strength": "0.018",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "BLOCK/INFILTRATION"
+  ],
+  "companies": [
+    "PIERREL PHARMA S.R.L."
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "ARTICAINE, COMBINATIONS"
+  ]
+}

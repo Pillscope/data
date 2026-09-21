@@ -1,0 +1,33 @@
+{
+  "drug_code": "87888",
+  "din": "02393689",
+  "brand_name": "PROCESS LPH STERILE",
+  "class": "Disinfectant",
+  "descriptor": "",
+  "last_update": "15-JAN-2015",
+  "active_ingredients": [
+    {
+      "name": "P-TERT-PENTYLPHENOL",
+      "strength": "7.9",
+      "unit": "%"
+    },
+    {
+      "name": "O-PHENYLPHENOL",
+      "strength": "7.9",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "LIQUID"
+  ],
+  "routes": [
+    "DISINFECTANT (Institutional/Industrial)"
+  ],
+  "companies": [
+    "STERIS CORPORATION  ST LOUIS DIVISION"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "TECHNICAL DISINFECTANTS"
+  ]
+}

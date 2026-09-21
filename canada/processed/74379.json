@@ -1,0 +1,28 @@
+{
+  "drug_code": "74379",
+  "din": "02258595",
+  "brand_name": "HUMIRA",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "04-DEC-2017",
+  "active_ingredients": [
+    {
+      "name": "ADALIMUMAB",
+      "strength": "40",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "SUBCUTANEOUS"
+  ],
+  "companies": [
+    "ABBVIE CORPORATION"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "ADALIMUMAB"
+  ]
+}

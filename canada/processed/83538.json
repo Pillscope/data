@@ -1,0 +1,28 @@
+{
+  "drug_code": "83538",
+  "din": "02350149",
+  "brand_name": "SAIZEN",
+  "class": "Human",
+  "descriptor": "20MG/CARTRIDGE",
+  "last_update": "30-MAY-2011",
+  "active_ingredients": [
+    {
+      "name": "SOMATROPIN",
+      "strength": "8",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "SUBCUTANEOUS"
+  ],
+  "companies": [
+    "EMD SERONO A DIVISION OF EMD INC CANADA"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "SOMATROPIN"
+  ]
+}

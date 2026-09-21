@@ -1,0 +1,28 @@
+{
+  "drug_code": "19918",
+  "din": "02216965",
+  "brand_name": "INVIRASE - CAP 200MG",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "01-JUN-2009",
+  "active_ingredients": [
+    {
+      "name": "SAQUINAVIR (SAQUINAVIR MESYLATE)",
+      "strength": "200",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "CAPSULE"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "HOFFMANN-LA ROCHE LIMITED"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "SAQUINAVIR"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "drug_code": "81119",
+  "din": "02325837",
+  "brand_name": "PRAMIPEXOLE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "31-OCT-2017",
+  "active_ingredients": [
+    {
+      "name": "PRAMIPEXOLE DIHYDROCHLORIDE MONOHYDRATE",
+      "strength": "1.5",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "PRO DOC LIMITEE"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "PRAMIPEXOLE"
+  ]
+}

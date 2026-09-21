@@ -1,0 +1,28 @@
+{
+  "drug_code": "2224",
+  "din": "00318736",
+  "brand_name": "PROSTIN F2 ALPHA",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "17-AUG-2009",
+  "active_ingredients": [
+    {
+      "name": "DINOPROST (DINOPROST TROMETHAMINE)",
+      "strength": "5",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "INTRA-AMNIOTIC"
+  ],
+  "companies": [
+    "PFIZER CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "DINOPROST"
+  ]
+}

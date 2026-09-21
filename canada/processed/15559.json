@@ -1,0 +1,28 @@
+{
+  "drug_code": "15559",
+  "din": "02036347",
+  "brand_name": "NOVAMOXIN",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "09-AUG-2016",
+  "active_ingredients": [
+    {
+      "name": "AMOXICILLIN (AMOXICILLIN TRIHYDRATE)",
+      "strength": "125",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET (CHEWABLE)"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "TEVA CANADA LIMITED"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "AMOXICILLIN"
+  ]
+}

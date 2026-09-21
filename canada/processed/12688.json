@@ -1,0 +1,31 @@
+{
+  "drug_code": "12688",
+  "din": "01909975",
+  "brand_name": "HEARTGARD-30 PLUS",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "21-SEP-2010",
+  "active_ingredients": [
+    {
+      "name": "PYRANTEL (PYRANTEL PAMOATE)",
+      "strength": "57",
+      "unit": "MG"
+    },
+    {
+      "name": "IVERMECTIN",
+      "strength": "68",
+      "unit": "MCG"
+    }
+  ],
+  "forms": [
+    "TABLET (CHEWABLE)"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "MERIAL CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": []
+}

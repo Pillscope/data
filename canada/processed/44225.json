@@ -1,0 +1,28 @@
+{
+  "drug_code": "44225",
+  "din": "02177692",
+  "brand_name": "PMS-NORTRIPTYLINE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "30-SEP-2010",
+  "active_ingredients": [
+    {
+      "name": "NORTRIPTYLINE (NORTRIPTYLINE HYDROCHLORIDE)",
+      "strength": "10",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "CAPSULE"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "PHARMASCIENCE INC"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "NORTRIPTYLINE"
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "drug_code": "3569",
+  "din": "00466085",
+  "brand_name": "M-M-R II",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "20-FEB-2017",
+  "active_ingredients": [
+    {
+      "name": "MUMPS VIRUS VACCINE LIVE ATTENUATED (JERYL LYNN STRAIN)",
+      "strength": "5000",
+      "unit": "UNIT"
+    },
+    {
+      "name": "RUBELLA VIRUS VACCINE LIVE ATTENUATED (WISTAR RA27/3 STRAIN)",
+      "strength": "1000",
+      "unit": "UNIT"
+    },
+    {
+      "name": "MEASLES VIRUS VACCINE LIVE ATTENUATED",
+      "strength": "1000",
+      "unit": "UNIT"
+    }
+  ],
+  "forms": [
+    "POWDER FOR SOLUTION"
+  ],
+  "routes": [
+    "SUBCUTANEOUS"
+  ],
+  "companies": [
+    "MERCK CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "MEASLES,COMBIN. WITH MUMPS AND RUBELLA,LIVE ATTENUATED"
+  ]
+}

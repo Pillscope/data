@@ -1,0 +1,33 @@
+{
+  "drug_code": "36721",
+  "din": "02208164",
+  "brand_name": "SBS 40 MEDICATED SKIN CREAM",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "10-MAY-2016",
+  "active_ingredients": [
+    {
+      "name": "CHLOROXYLENOL",
+      "strength": ".2",
+      "unit": "%"
+    },
+    {
+      "name": "ALLANTOIN",
+      "strength": ".2",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "CREAM"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "DEB CANADA"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "CHLOROXYLENOL, COMBINATIONS"
+  ]
+}

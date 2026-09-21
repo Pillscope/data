@@ -1,0 +1,81 @@
+{
+  "drug_code": "24400",
+  "din": "01982850",
+  "brand_name": "PRO COMPLEX",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "29-APR-2015",
+  "active_ingredients": [
+    {
+      "name": "THIAMINE HYDROCHLORIDE",
+      "strength": "185",
+      "unit": "MG"
+    },
+    {
+      "name": "NICOTINAMIDE",
+      "strength": "3905",
+      "unit": "MG"
+    },
+    {
+      "name": "CALCIUM D-PANTOTHENATE",
+      "strength": "1100",
+      "unit": "MG"
+    },
+    {
+      "name": "PYRIDOXINE HYDROCHLORIDE",
+      "strength": "195",
+      "unit": "MG"
+    },
+    {
+      "name": "BIOTIN",
+      "strength": "15600",
+      "unit": "MCG"
+    },
+    {
+      "name": "VITAMIN D3",
+      "strength": "253125",
+      "unit": "UNIT"
+    },
+    {
+      "name": "VITAMIN B2",
+      "strength": "310",
+      "unit": "MG"
+    },
+    {
+      "name": "VITAMIN A",
+      "strength": "968750",
+      "unit": "UNIT"
+    },
+    {
+      "name": "VITAMIN E",
+      "strength": "780",
+      "unit": "UNIT"
+    },
+    {
+      "name": "FOLIC ACID",
+      "strength": "110",
+      "unit": "MG"
+    },
+    {
+      "name": "VITAMIN B12",
+      "strength": "3155",
+      "unit": "MCG"
+    },
+    {
+      "name": "MENADIONE",
+      "strength": "545",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "POWDER FOR SOLUTION"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "BIO AGRI MIX LP"
+  ],
+  "status": "APPROVED",
+  "atc": []
+}

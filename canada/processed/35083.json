@@ -1,0 +1,28 @@
+{
+  "drug_code": "35083",
+  "din": "02181746",
+  "brand_name": "SODIUM ACETATE-OMEGA",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "29-APR-2015",
+  "active_ingredients": [
+    {
+      "name": "SODIUM ACETATE",
+      "strength": "328",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "LIQUID"
+  ],
+  "routes": [
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "OMEGA LABORATORIES LTD"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "SODIUM ACETATE"
+  ]
+}

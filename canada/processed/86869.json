@@ -1,0 +1,38 @@
+{
+  "drug_code": "86869",
+  "din": "02382881",
+  "brand_name": "CEPACOL SENSATIONS SORE THROAT & BLOCKED NOSE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "03-AUG-2012",
+  "active_ingredients": [
+    {
+      "name": "AMYLMETACRESOL",
+      "strength": "0.6",
+      "unit": "MG"
+    },
+    {
+      "name": "MENTHOL",
+      "strength": "8.0",
+      "unit": "MG"
+    },
+    {
+      "name": "DICHLOROBENZYL ALCOHOL",
+      "strength": "1.2",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "LOZENGE"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "RECKITT BENCKISER (CANADA) INC"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "DICHLOROBENZYL ALCOHOL"
+  ]
+}

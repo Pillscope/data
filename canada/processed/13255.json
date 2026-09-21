@@ -1,0 +1,30 @@
+{
+  "drug_code": "13255",
+  "din": "01977547",
+  "brand_name": "DEXAMETHASONE SODIUM PHOSPHATE INJECTION, USP",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "11-JUL-2016",
+  "active_ingredients": [
+    {
+      "name": "DEXAMETHASONE PHOSPHATE (DEXAMETHASONE SODIUM PHOSPHATE)",
+      "strength": "4",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "LIQUID"
+  ],
+  "routes": [
+    "INTRA-ARTICULAR",
+    "INTRAMUSCULAR",
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "STERIMAX INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "DEXAMETHASONE"
+  ]
+}

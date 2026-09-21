@@ -1,0 +1,33 @@
+{
+  "drug_code": "36795",
+  "din": "02209721",
+  "brand_name": "HEPARIN SODIUM 25000UNITS IN 5% DEXTROSE INJ",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "29-APR-2015",
+  "active_ingredients": [
+    {
+      "name": "DEXTROSE",
+      "strength": "5",
+      "unit": "G"
+    },
+    {
+      "name": "HEPARIN SODIUM",
+      "strength": "10000",
+      "unit": "UNIT"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "B. BRAUN MEDICAL INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "HEPARIN, COMBINATIONS"
+  ]
+}

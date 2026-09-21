@@ -1,0 +1,28 @@
+{
+  "drug_code": "88819",
+  "din": "02403382",
+  "brand_name": "APO-ROSIGLITAZONE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "23-FEB-2017",
+  "active_ingredients": [
+    {
+      "name": "ROSIGLITAZONE (ROSIGLITAZONE MALEATE)",
+      "strength": "8",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "APOTEX INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "ROSIGLITAZONE"
+  ]
+}

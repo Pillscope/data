@@ -1,0 +1,28 @@
+{
+  "drug_code": "77922",
+  "din": "02293854",
+  "brand_name": "PLAN B",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "22-NOV-2017",
+  "active_ingredients": [
+    {
+      "name": "LEVONORGESTREL",
+      "strength": "1.5",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "TEVA BRANDED PHARMACEUTICAL PRODUCTS R&D INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "LEVONORGESTREL"
+  ]
+}

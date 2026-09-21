@@ -1,0 +1,38 @@
+{
+  "drug_code": "87262",
+  "din": "02387050",
+  "brand_name": "COOLZONE INSTANTLY COOLS & REFRESHES RAFRA\u00c3\u008eCHIT INSTANTAN\u00c3\u0089MENT SPRAY SUNSCREEN \u00c3\u0089CRAN SOLAIRE EN VAPORISATEUR SPF/FPS 50",
+  "class": "Human",
+  "descriptor": "LOTION",
+  "last_update": "27-JAN-2016",
+  "active_ingredients": [
+    {
+      "name": "AVOBENZONE",
+      "strength": "3",
+      "unit": "%"
+    },
+    {
+      "name": "OCTOCRYLENE",
+      "strength": "10",
+      "unit": "%"
+    },
+    {
+      "name": "OXYBENZONE",
+      "strength": "5",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "SPRAY"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "EDGEWELL PERSONAL CARE CANADA, ULC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "COMBINATIONS OF PROTECTIVES AGAINST UV-RADIATION"
+  ]
+}

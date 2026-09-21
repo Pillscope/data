@@ -1,0 +1,28 @@
+{
+  "drug_code": "1471",
+  "din": "00247960",
+  "brand_name": "ETIBI TAB 100MG",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "05-JUN-2008",
+  "active_ingredients": [
+    {
+      "name": "ETHAMBUTOL HYDROCHLORIDE",
+      "strength": "100",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "VALEANT CANADA LP/VALEANT CANADA S.E.C."
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "ETHAMBUTOL"
+  ]
+}

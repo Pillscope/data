@@ -1,0 +1,33 @@
+{
+  "drug_code": "11258",
+  "din": "00896187",
+  "brand_name": "SODIUM PHOSPHATES INJECTION USP",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "29-APR-2015",
+  "active_ingredients": [
+    {
+      "name": "SODIUM PHOSPHATE DIBASIC",
+      "strength": "268",
+      "unit": "MG"
+    },
+    {
+      "name": "SODIUM PHOSPHATE MONOBASIC",
+      "strength": "276",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "SANDOZ CANADA INCORPORATED"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "SODIUM PHOSPHATE"
+  ]
+}

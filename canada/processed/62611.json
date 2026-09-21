@@ -1,0 +1,33 @@
+{
+  "drug_code": "62611",
+  "din": "02239155",
+  "brand_name": "POLYSPORIN PLUS PAIN RELIEF EAR DROPS",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "09-MAY-2007",
+  "active_ingredients": [
+    {
+      "name": "POLYMYXIN B (POLYMYXIN B SULFATE)",
+      "strength": "10000",
+      "unit": "UNIT"
+    },
+    {
+      "name": "LIDOCAINE HYDROCHLORIDE",
+      "strength": "50",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "DROPS"
+  ],
+  "routes": [
+    "OTIC"
+  ],
+  "companies": [
+    "JOHNSON & JOHNSON INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "ANTIINFECTIVES, COMBINATIONS"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "drug_code": "93829",
+  "din": "02451883",
+  "brand_name": "NALTREXONE HYDROCHLORIDE TABLETS USP",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "27-JUN-2017",
+  "active_ingredients": [
+    {
+      "name": "NALTREXONE HYDROCHLORIDE",
+      "strength": "50",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "STERINOVA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "NALTREXONE"
+  ]
+}

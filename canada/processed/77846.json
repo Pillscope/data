@@ -1,0 +1,31 @@
+{
+  "drug_code": "77846",
+  "din": "02293080",
+  "brand_name": "KAOPECLIN",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "01-FEB-2012",
+  "active_ingredients": [
+    {
+      "name": "PECTIN",
+      "strength": "4.33",
+      "unit": "MG"
+    },
+    {
+      "name": "KAOLIN",
+      "strength": "197.00",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SUSPENSION"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "VETOQUINOL N A INC"
+  ],
+  "status": "APPROVED",
+  "atc": []
+}

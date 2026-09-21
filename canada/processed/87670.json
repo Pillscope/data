@@ -1,0 +1,33 @@
+{
+  "drug_code": "87670",
+  "din": "02391341",
+  "brand_name": "CEPACOL CHILDREN'S SWEET HONEY LEMON",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "10-SEP-2013",
+  "active_ingredients": [
+    {
+      "name": "AMYLMETACRESOL",
+      "strength": "0.6",
+      "unit": "MG"
+    },
+    {
+      "name": "DICHLOROBENZYL ALCOHOL",
+      "strength": "1.2",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "LOZENGE"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "RECKITT BENCKISER (CANADA) INC"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "DICHLOROBENZYL ALCOHOL"
+  ]
+}

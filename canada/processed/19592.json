@@ -1,0 +1,28 @@
+{
+  "drug_code": "19592",
+  "din": "02031167",
+  "brand_name": "RATIO-LEVOBUNOLOL",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "29-APR-2015",
+  "active_ingredients": [
+    {
+      "name": "LEVOBUNOLOL HYDROCHLORIDE",
+      "strength": "0.5",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "OPHTHALMIC"
+  ],
+  "companies": [
+    "TEVA CANADA LIMITED"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "LEVOBUNOLOL"
+  ]
+}

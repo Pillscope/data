@@ -1,0 +1,28 @@
+{
+  "drug_code": "69356",
+  "din": "02245329",
+  "brand_name": "FOSAMAX",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "10-FEB-2011",
+  "active_ingredients": [
+    {
+      "name": "ALENDRONIC ACID (ALENDRONATE SODIUM)",
+      "strength": "70",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "MERCK CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "ALENDRONIC ACID"
+  ]
+}

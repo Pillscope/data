@@ -1,0 +1,28 @@
+{
+  "drug_code": "82912",
+  "din": "02343681",
+  "brand_name": "OLANZAPINE ODT",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "06-NOV-2017",
+  "active_ingredients": [
+    {
+      "name": "OLANZAPINE",
+      "strength": "15",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET (ORALLY DISINTEGRATING)"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "SIVEM PHARMACEUTICALS ULC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "OLANZAPINE"
+  ]
+}

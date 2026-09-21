@@ -1,0 +1,28 @@
+{
+  "drug_code": "6133",
+  "din": "00591475",
+  "brand_name": "STATEX SYRUP 5MG/ML",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "05-MAR-2010",
+  "active_ingredients": [
+    {
+      "name": "MORPHINE SULFATE",
+      "strength": "5",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SYRUP"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "PALADIN LABS INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "MORPHINE"
+  ]
+}

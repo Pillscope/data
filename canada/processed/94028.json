@@ -1,0 +1,28 @@
+{
+  "drug_code": "94028",
+  "din": "02453746",
+  "brand_name": "CLE DE PEAU BEAUTE TEINT STICK ECLAT",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "30-DEC-2016",
+  "active_ingredients": [
+    {
+      "name": "OCTINOXATE",
+      "strength": "3.4",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "STICK"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "SHISEIDO AMERICAS CORPORATION DIST"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "COMBINATIONS OF PROTECTIVES AGAINST UV-RADIATION"
+  ]
+}

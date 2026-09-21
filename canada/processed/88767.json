@@ -1,0 +1,28 @@
+{
+  "drug_code": "88767",
+  "din": "02402831",
+  "brand_name": "GEMCITABINE INJECTION",
+  "class": "Human",
+  "descriptor": "SINGLE-USE VIALS. 200MG/5.3ML; 1G/26.3ML; 2G/52.6ML. READY-TO-USE",
+  "last_update": "01-SEP-2017",
+  "active_ingredients": [
+    {
+      "name": "GEMCITABINE (GEMCITABINE HYDROCHLORIDE)",
+      "strength": "38",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "PFIZER CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "GEMCITABINE"
+  ]
+}

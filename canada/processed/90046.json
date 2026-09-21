@@ -1,0 +1,28 @@
+{
+  "drug_code": "90046",
+  "din": "02415879",
+  "brand_name": "LEVOFLOXACIN",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "12-OCT-2016",
+  "active_ingredients": [
+    {
+      "name": "LEVOFLOXACIN (LEVOFLOXACIN HEMIHYDRATE)",
+      "strength": "500",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "PRO DOC LIMITEE"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "LEVOFLOXACIN"
+  ]
+}

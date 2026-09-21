@@ -1,0 +1,33 @@
+{
+  "drug_code": "62617",
+  "din": "02239162",
+  "brand_name": "ZINCOFAX",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "22-NOV-2012",
+  "active_ingredients": [
+    {
+      "name": "ZINC OXIDE",
+      "strength": "15",
+      "unit": "%"
+    },
+    {
+      "name": "WHITE PETROLATUM",
+      "strength": "69",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "OINTMENT"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "PALADIN LABS INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "ZINC PRODUCTS"
+  ]
+}

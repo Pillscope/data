@@ -1,0 +1,28 @@
+{
+  "drug_code": "49235",
+  "din": "02230398",
+  "brand_name": "ALLERGY TABLETS EXTRA STRENGTH",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "25-MAY-2016",
+  "active_ingredients": [
+    {
+      "name": "DIPHENHYDRAMINE HYDROCHLORIDE",
+      "strength": "50",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "TANTA PHARMACEUTICALS INC"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "DIPHENHYDRAMINE"
+  ]
+}

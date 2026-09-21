@@ -1,0 +1,28 @@
+{
+  "drug_code": "83876",
+  "din": "02353547",
+  "brand_name": "SERTRALINE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "06-JUN-2016",
+  "active_ingredients": [
+    {
+      "name": "SERTRALINE (SERTRALINE HYDROCHLORIDE)",
+      "strength": "100",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "CAPSULE"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "SANIS HEALTH INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "SERTRALINE"
+  ]
+}

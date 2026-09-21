@@ -1,0 +1,28 @@
+{
+  "drug_code": "5433",
+  "din": "00441651",
+  "brand_name": "APO IBUPROFEN TAB 300MG",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "11-JUL-2012",
+  "active_ingredients": [
+    {
+      "name": "IBUPROFEN",
+      "strength": "300",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "APOTEX INC"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "IBUPROFEN"
+  ]
+}

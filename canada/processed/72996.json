@@ -1,0 +1,29 @@
+{
+  "drug_code": "72996",
+  "din": "02248639",
+  "brand_name": "OCTREOTIDE ACETATE OMEGA 50MCG/ML",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "13-APR-2006",
+  "active_ingredients": [
+    {
+      "name": "OCTREOTIDE (OCTREOTIDE ACETATE)",
+      "strength": "50",
+      "unit": "MCG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "INTRAVENOUS",
+    "SUBCUTANEOUS"
+  ],
+  "companies": [
+    "OMEGA LABORATORIES LTD"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "OCTREOTIDE"
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "drug_code": "36179",
+  "din": "02200104",
+  "brand_name": "CREON MINIMICROSPHERES 10",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "04-FEB-2016",
+  "active_ingredients": [
+    {
+      "name": "LIPASE",
+      "strength": "10000",
+      "unit": "UNIT"
+    },
+    {
+      "name": "PROTEASE",
+      "strength": "730",
+      "unit": "UNIT"
+    },
+    {
+      "name": "AMYLASE",
+      "strength": "11200",
+      "unit": "UNIT"
+    }
+  ],
+  "forms": [
+    "CAPSULE"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "BGP PHARMA ULC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "MULTIENZYMES (LIPASE, PROTEASE ETC)"
+  ]
+}

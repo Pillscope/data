@@ -1,0 +1,28 @@
+{
+  "drug_code": "76501",
+  "din": "02279428",
+  "brand_name": "ONDANSETRON INJECTION USP     -(PRESERVATIVE FREE)",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "02-MAR-2015",
+  "active_ingredients": [
+    {
+      "name": "ONDANSETRON (ONDANSETRON HYDROCHLORIDE DIHYDRATE)",
+      "strength": "2",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "SANDOZ CANADA INCORPORATED"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "ONDANSETRON"
+  ]
+}

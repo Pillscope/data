@@ -1,0 +1,28 @@
+{
+  "drug_code": "66188",
+  "din": "02242463",
+  "brand_name": "MYLAN-ACYCLOVIR",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "06-JAN-2010",
+  "active_ingredients": [
+    {
+      "name": "ACYCLOVIR",
+      "strength": "400",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "MYLAN PHARMACEUTICALS ULC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "ACYCLOVIR"
+  ]
+}

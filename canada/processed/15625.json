@@ -1,0 +1,28 @@
+{
+  "drug_code": "15625",
+  "din": "01908448",
+  "brand_name": "BETOPTIC S",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "10-MAR-2017",
+  "active_ingredients": [
+    {
+      "name": "BETAXOLOL (BETAXOLOL HYDROCHLORIDE)",
+      "strength": "0.25",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "SUSPENSION"
+  ],
+  "routes": [
+    "OPHTHALMIC"
+  ],
+  "companies": [
+    "NOVARTIS PHARMACEUTICALS CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "BETAXOLOL"
+  ]
+}

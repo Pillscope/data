@@ -1,0 +1,28 @@
+{
+  "drug_code": "78136",
+  "din": "02296004",
+  "brand_name": "LOWPRIN",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "30-AUG-2016",
+  "active_ingredients": [
+    {
+      "name": "ACETYLSALICYLIC ACID",
+      "strength": "80",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET (CHEWABLE)"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "SANDOZ CANADA INCORPORATED"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "ACETYLSALICYLIC ACID"
+  ]
+}

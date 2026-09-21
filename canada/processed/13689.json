@@ -1,0 +1,34 @@
+{
+  "drug_code": "13689",
+  "din": "02001020",
+  "brand_name": "ACTRIL COLD STERILANT LIQUID",
+  "class": "Disinfectant",
+  "descriptor": "",
+  "last_update": "07-OCT-2016",
+  "active_ingredients": [
+    {
+      "name": "HYDROGEN PEROXIDE",
+      "strength": "0.8",
+      "unit": "%"
+    },
+    {
+      "name": "PERACETIC ACID",
+      "strength": "0.06",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "LIQUID"
+  ],
+  "routes": [
+    "DISINFECTANT (Medical Instruments)",
+    "DISINFECTANT (Hospital/HC Facilities)"
+  ],
+  "companies": [
+    "MEDIVATORS INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "TECHNICAL DISINFECTANTS"
+  ]
+}

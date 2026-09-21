@@ -1,0 +1,28 @@
+{
+  "drug_code": "88618",
+  "din": "02401274",
+  "brand_name": "AURO-MONTELUKAST",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "09-AUG-2013",
+  "active_ingredients": [
+    {
+      "name": "MONTELUKAST (MONTELUKAST SODIUM)",
+      "strength": "10",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "AURO PHARMA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "MONTELUKAST"
+  ]
+}

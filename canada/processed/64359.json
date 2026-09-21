@@ -1,0 +1,28 @@
+{
+  "drug_code": "64359",
+  "din": "02240770",
+  "brand_name": "MICARDIS 80MG TAB",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "27-MAR-2012",
+  "active_ingredients": [
+    {
+      "name": "TELMISARTAN",
+      "strength": "80",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "BOEHRINGER INGELHEIM (CANADA) LTD LTEE"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "TELMISARTAN"
+  ]
+}

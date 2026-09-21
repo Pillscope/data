@@ -1,0 +1,33 @@
+{
+  "drug_code": "92446",
+  "din": "02440075",
+  "brand_name": "CLINIQUE SMART SPF 15 CUSTOM-REPAIR MOISTURIZER DRY COMBINATION",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "08-FEB-2016",
+  "active_ingredients": [
+    {
+      "name": "AVOBENZONE",
+      "strength": "3",
+      "unit": "%"
+    },
+    {
+      "name": "OCTISALATE",
+      "strength": "5",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "CREAM"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "CLINIQUE LABORATORIES DIST"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "COMBINATIONS OF PROTECTIVES AGAINST UV-RADIATION"
+  ]
+}

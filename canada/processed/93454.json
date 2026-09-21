@@ -1,0 +1,28 @@
+{
+  "drug_code": "93454",
+  "din": "02448807",
+  "brand_name": "PRIVA-SILDENAFIL",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "30-SEP-2016",
+  "active_ingredients": [
+    {
+      "name": "SILDENAFIL (SILDENAFIL CITRATE)",
+      "strength": "100",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "PHARMAPAR INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "SILDENAFIL"
+  ]
+}

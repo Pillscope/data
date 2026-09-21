@@ -1,0 +1,31 @@
+{
+  "drug_code": "19090",
+  "din": "02030551",
+  "brand_name": "BENZAPRO",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "29-DEC-2017",
+  "active_ingredients": [
+    {
+      "name": "PENICILLIN G PROCAINE",
+      "strength": "150000",
+      "unit": "UNIT"
+    },
+    {
+      "name": "PENICILLIN G BENZATHINE",
+      "strength": "150000",
+      "unit": "UNIT"
+    }
+  ],
+  "forms": [
+    "SUSPENSION"
+  ],
+  "routes": [
+    "INTRAMUSCULAR"
+  ],
+  "companies": [
+    "BIO AGRI MIX LP"
+  ],
+  "status": "APPROVED",
+  "atc": []
+}

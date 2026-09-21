@@ -1,0 +1,26 @@
+{
+  "drug_code": "1992",
+  "din": "00308196",
+  "brand_name": "PIPERAZINE 34 LIQ",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "21-JUN-1999",
+  "active_ingredients": [
+    {
+      "name": "PIPERAZINE (PIPERAZINE HYDROBROMIDE)",
+      "strength": "34",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "LIQUID"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "PROFESSIONAL VETERINARY LABORATORIES"
+  ],
+  "status": "MARKETED",
+  "atc": []
+}

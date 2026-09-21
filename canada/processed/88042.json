@@ -1,0 +1,28 @@
+{
+  "drug_code": "88042",
+  "din": "02395312",
+  "brand_name": "ACT TEMOZOLOMIDE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "11-MAY-2015",
+  "active_ingredients": [
+    {
+      "name": "TEMOZOLOMIDE",
+      "strength": "250",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "CAPSULE"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "ACTAVIS PHARMA COMPANY"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "TEMOZOLOMIDE"
+  ]
+}

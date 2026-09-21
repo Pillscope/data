@@ -1,0 +1,33 @@
+{
+  "drug_code": "91576",
+  "din": "02431343",
+  "brand_name": "UV DAILY TINTED",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "15-APR-2015",
+  "active_ingredients": [
+    {
+      "name": "ZINC OXIDE",
+      "strength": "9.0",
+      "unit": "%"
+    },
+    {
+      "name": "OCTINOXATE",
+      "strength": "7.5",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "LOTION"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "SWISS AMERICAN PRODUCTS INC."
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "COMBINATIONS OF PROTECTIVES AGAINST UV-RADIATION"
+  ]
+}

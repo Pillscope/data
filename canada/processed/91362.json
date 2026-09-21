@@ -1,0 +1,51 @@
+{
+  "drug_code": "91362",
+  "din": "02429187",
+  "brand_name": "HOOF & HIDE BALM",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "12-MAR-2015",
+  "active_ingredients": [
+    {
+      "name": "THYME",
+      "strength": "0.22",
+      "unit": "%"
+    },
+    {
+      "name": "OIL OF CAMPHOR",
+      "strength": "0.25",
+      "unit": "%"
+    },
+    {
+      "name": "GAULTHERIA PROCUMBENS",
+      "strength": "0.25",
+      "unit": "%"
+    },
+    {
+      "name": "PEPPERMINT OIL",
+      "strength": "0.10",
+      "unit": "%"
+    },
+    {
+      "name": "EUCALYPTUS OIL",
+      "strength": "0.25",
+      "unit": "%"
+    },
+    {
+      "name": "PINE TAR",
+      "strength": "2.83",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "OINTMENT"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "FISKE'S HORSE CARE PRODUCTS LTD"
+  ],
+  "status": "MARKETED",
+  "atc": []
+}

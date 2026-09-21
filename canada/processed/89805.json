@@ -1,0 +1,28 @@
+{
+  "drug_code": "89805",
+  "din": "02413388",
+  "brand_name": "JUBLIA",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "10-APR-2017",
+  "active_ingredients": [
+    {
+      "name": "Efinaconazole",
+      "strength": "10",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "VALEANT CANADA LP/VALEANT CANADA S.E.C."
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "EFINACONAZOLE"
+  ]
+}

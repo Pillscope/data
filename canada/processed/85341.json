@@ -1,0 +1,33 @@
+{
+  "drug_code": "85341",
+  "din": "02368455",
+  "brand_name": "FOUNDATION PRIMER PLUS SPF 15",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "21-JAN-2013",
+  "active_ingredients": [
+    {
+      "name": "OCTISALATE",
+      "strength": "5",
+      "unit": "%"
+    },
+    {
+      "name": "OCTINOXATE",
+      "strength": "7.5",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "GEL"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "MERLE NORMAN COSMETICS INC"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "COMBINATIONS OF PROTECTIVES AGAINST UV-RADIATION"
+  ]
+}

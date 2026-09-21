@@ -1,0 +1,28 @@
+{
+  "drug_code": "10767",
+  "din": "00658413",
+  "brand_name": "BAXEDIN LIQ 20%",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "25-JUL-2017",
+  "active_ingredients": [
+    {
+      "name": "CHLORHEXIDINE GLUCONATE",
+      "strength": "20",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "OMEGA LABORATORIES LTD"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "CHLORHEXIDINE"
+  ]
+}

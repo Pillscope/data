@@ -1,0 +1,28 @@
+{
+  "drug_code": "48977",
+  "din": "02230245",
+  "brand_name": "PMS-AMOXICILLIN",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "30-NOV-2017",
+  "active_ingredients": [
+    {
+      "name": "AMOXICILLIN (AMOXICILLIN TRIHYDRATE)",
+      "strength": "125",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "POWDER FOR SUSPENSION"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "PHARMASCIENCE INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "AMOXICILLIN"
+  ]
+}

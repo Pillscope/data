@@ -1,0 +1,36 @@
+{
+  "drug_code": "92290",
+  "din": "02438534",
+  "brand_name": "OSURNIA",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "22-AUG-2016",
+  "active_ingredients": [
+    {
+      "name": "BETAMETHASONE ACETATE",
+      "strength": "1",
+      "unit": "MG"
+    },
+    {
+      "name": "TERBINAFINE",
+      "strength": "10",
+      "unit": "MG"
+    },
+    {
+      "name": "FLORFENICOL",
+      "strength": "10",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "GEL"
+  ],
+  "routes": [
+    "OTIC"
+  ],
+  "companies": [
+    "ELANCO CANADA LIMITED"
+  ],
+  "status": "APPROVED",
+  "atc": []
+}

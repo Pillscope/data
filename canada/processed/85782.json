@@ -1,0 +1,28 @@
+{
+  "drug_code": "85782",
+  "din": "02372738",
+  "brand_name": "APO-MYCOPHENOLIC ACID",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "08-JUL-2014",
+  "active_ingredients": [
+    {
+      "name": "MYCOPHENOLIC ACID (MYCOPHENOLATE SODIUM)",
+      "strength": "180",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET (ENTERIC-COATED)"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "APOTEX INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "MYCOPHENOLIC ACID"
+  ]
+}

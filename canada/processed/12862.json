@@ -1,0 +1,44 @@
+{
+  "drug_code": "12862",
+  "din": "00550507",
+  "brand_name": "TEVA-TRIACOMB",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "10-JAN-2018",
+  "active_ingredients": [
+    {
+      "name": "TRIAMCINOLONE ACETONIDE",
+      "strength": "1",
+      "unit": "MG"
+    },
+    {
+      "name": "GRAMICIDIN",
+      "strength": "0.25",
+      "unit": "MG"
+    },
+    {
+      "name": "NYSTATIN",
+      "strength": "100000",
+      "unit": "UNIT"
+    },
+    {
+      "name": "NEOMYCIN (NEOMYCIN SULFATE)",
+      "strength": "2.5",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "CREAM"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "TEVA CANADA LIMITED"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "TRIAMCINOLONE AND ANTIBIOTICS",
+    "TRIAMCINOLONE AND ANTIBIOTICS"
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "drug_code": "72398",
+  "din": "02248076",
+  "brand_name": "DIAPER RASH OINTMENT/ONGUENT POUR LE TRAITEMENT DE L'\u00c3\u0089RYTH\u00c3\u0088ME FESSIER",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "20-DEC-2010",
+  "active_ingredients": [
+    {
+      "name": "ZINC OXIDE",
+      "strength": "40",
+      "unit": "%"
+    },
+    {
+      "name": "PETROLATUM",
+      "strength": "49.5",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "OINTMENT"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "LES PRODUITS DE SOINS POUR LA PEAU AU LAIT DE CHEVRE CANUS INC/CANUS GOAT'S MILK"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "ZINC PRODUCTS"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "drug_code": "2751",
+  "din": "00399310",
+  "brand_name": "PRIMIDONE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "25-AUG-2011",
+  "active_ingredients": [
+    {
+      "name": "PRIMIDONE",
+      "strength": "125",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "AA PHARMA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "PRIMIDONE"
+  ]
+}

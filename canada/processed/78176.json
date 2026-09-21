@@ -1,0 +1,28 @@
+{
+  "drug_code": "78176",
+  "din": "02296446",
+  "brand_name": "SANDOZ OMEPRAZOLE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "21-SEP-2007",
+  "active_ingredients": [
+    {
+      "name": "OMEPRAZOLE",
+      "strength": "20",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "CAPSULE (DELAYED RELEASE)"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "SANDOZ CANADA INCORPORATED"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "OMEPRAZOLE"
+  ]
+}

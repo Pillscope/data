@@ -1,0 +1,38 @@
+{
+  "drug_code": "2122",
+  "din": "00039373",
+  "brand_name": "UROLOGIC G FOR IRRIGATION",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "21-NOV-2017",
+  "active_ingredients": [
+    {
+      "name": "SODIUM CARBONATE (ANHYDROUS)",
+      "strength": "4.3",
+      "unit": "MG"
+    },
+    {
+      "name": "MAGNESIUM OXIDE",
+      "strength": "3.8",
+      "unit": "MG"
+    },
+    {
+      "name": "CITRIC ACID",
+      "strength": "32.4",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "IRRIGATION"
+  ],
+  "companies": [
+    "ICU MEDICAL CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "COMBINATIONS"
+  ]
+}

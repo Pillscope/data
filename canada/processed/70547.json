@@ -1,0 +1,28 @@
+{
+  "drug_code": "70547",
+  "din": "02246380",
+  "brand_name": "SUNLIGHT ANTIBACTERIAL DISHWASHING LIQUID",
+  "class": "Disinfectant",
+  "descriptor": "",
+  "last_update": "10-FEB-2017",
+  "active_ingredients": [
+    {
+      "name": "SALICYLIC ACID",
+      "strength": "0.5",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "DISINFECTANT (Domestic)"
+  ],
+  "companies": [
+    "SUN PRODUCTS CANADA"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "TECHNICAL DISINFECTANTS"
+  ]
+}

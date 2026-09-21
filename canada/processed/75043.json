@@ -1,0 +1,28 @@
+{
+  "drug_code": "75043",
+  "din": "02264927",
+  "brand_name": "EPIRUBICIN HYDROCHLORIDE INJECTION",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "26-JUN-2017",
+  "active_ingredients": [
+    {
+      "name": "EPIRUBICIN HYDROCHLORIDE",
+      "strength": "2",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "PFIZER CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "EPIRUBICIN"
+  ]
+}

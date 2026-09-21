@@ -1,0 +1,28 @@
+{
+  "drug_code": "84434",
+  "din": "02359316",
+  "brand_name": "SANDOZ CLOPIDOGREL",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "28-DEC-2011",
+  "active_ingredients": [
+    {
+      "name": "CLOPIDOGREL (CLOPIDOGREL BISULFATE)",
+      "strength": "75",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "SANDOZ CANADA INCORPORATED"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "CLOPIDOGREL"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "drug_code": "8111",
+  "din": "00708879",
+  "brand_name": "VASOTEC",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "14-JAN-2010",
+  "active_ingredients": [
+    {
+      "name": "ENALAPRIL SODIUM",
+      "strength": "4",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "MERCK CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "ENALAPRIL"
+  ]
+}

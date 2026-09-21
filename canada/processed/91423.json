@@ -1,0 +1,28 @@
+{
+  "drug_code": "91423",
+  "din": "02429799",
+  "brand_name": "JAMP-ESCITALOPRAM",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "25-SEP-2017",
+  "active_ingredients": [
+    {
+      "name": "ESCITALOPRAM (ESCITALOPRAM OXALATE)",
+      "strength": "20",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "JAMP PHARMA CORPORATION"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "ESCITALOPRAM"
+  ]
+}

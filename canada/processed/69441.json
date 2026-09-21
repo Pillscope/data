@@ -1,0 +1,28 @@
+{
+  "drug_code": "69441",
+  "din": "02245397",
+  "brand_name": "NOVORAPID",
+  "class": "Human",
+  "descriptor": "10ML VIAL",
+  "last_update": "05-AUG-2015",
+  "active_ingredients": [
+    {
+      "name": "INSULIN ASPART",
+      "strength": "100",
+      "unit": "UNIT"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "SUBCUTANEOUS"
+  ],
+  "companies": [
+    "NOVO NORDISK CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "INSULIN ASPART"
+  ]
+}

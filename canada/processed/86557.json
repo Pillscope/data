@@ -1,0 +1,28 @@
+{
+  "drug_code": "86557",
+  "din": "02379708",
+  "brand_name": "MAR-CIPROFLOXACIN",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "17-SEP-2012",
+  "active_ingredients": [
+    {
+      "name": "CIPROFLOXACIN (CIPROFLOXACIN HYDROCHLORIDE)",
+      "strength": "750",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "MARCAN PHARMACEUTICALS INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "CIPROFLOXACIN"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "drug_code": "94426",
+  "din": "02457180",
+  "brand_name": "BANAMINE",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "30-MAY-2017",
+  "active_ingredients": [
+    {
+      "name": "FLUNIXIN (FLUNIXIN MEGLUMINE)",
+      "strength": "50",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "INTERVET CANADA CORP"
+  ],
+  "status": "APPROVED",
+  "atc": []
+}

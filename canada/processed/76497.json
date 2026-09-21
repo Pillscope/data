@@ -1,0 +1,28 @@
+{
+  "drug_code": "76497",
+  "din": "02279363",
+  "brand_name": "PMS-DEXAMETHASONE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "12-JUN-2006",
+  "active_ingredients": [
+    {
+      "name": "DEXAMETHASONE",
+      "strength": "2",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "PHARMASCIENCE INC"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "DEXAMETHASONE"
+  ]
+}

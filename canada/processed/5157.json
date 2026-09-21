@@ -1,0 +1,34 @@
+{
+  "drug_code": "5157",
+  "din": "00568635",
+  "brand_name": "VISKAZIDE 10/50TAB",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "12-JAN-2017",
+  "active_ingredients": [
+    {
+      "name": "HYDROCHLOROTHIAZIDE",
+      "strength": "50",
+      "unit": "MG"
+    },
+    {
+      "name": "PINDOLOL",
+      "strength": "10",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "TRIBUTE PHARMACEUTICALS CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "PINDOLOL AND OTHER DIURETICS",
+    "PINDOLOL AND OTHER DIURETICS"
+  ]
+}

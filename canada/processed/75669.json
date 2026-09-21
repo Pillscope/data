@@ -1,0 +1,28 @@
+{
+  "drug_code": "75669",
+  "din": "02271214",
+  "brand_name": "VINORELBINE TARTRATE FOR INJECTION",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "05-MAY-2015",
+  "active_ingredients": [
+    {
+      "name": "VINORELBINE (VINORELBINE TARTRATE)",
+      "strength": "10",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "TEVA CANADA LIMITED"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "VINORELBINE"
+  ]
+}

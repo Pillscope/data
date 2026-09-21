@@ -1,0 +1,28 @@
+{
+  "drug_code": "69516",
+  "din": "02245458",
+  "brand_name": "SODIUM AUROTHIOMALATE INJECTION BP",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "29-APR-2015",
+  "active_ingredients": [
+    {
+      "name": "GOLD SODIUM THIOMALATE",
+      "strength": "50",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "INTRAMUSCULAR"
+  ],
+  "companies": [
+    "SANDOZ CANADA INCORPORATED"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "SODIUM AUROTHIOMALATE"
+  ]
+}

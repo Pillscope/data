@@ -1,0 +1,41 @@
+{
+  "drug_code": "9518",
+  "din": "00789321",
+  "brand_name": "RED-KOTE AEROSOL SPRAY",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "06-APR-2006",
+  "active_ingredients": [
+    {
+      "name": "OXYQUINOLINE",
+      "strength": "0.5",
+      "unit": "%"
+    },
+    {
+      "name": "CAMPHOR",
+      "strength": "0.65",
+      "unit": "%"
+    },
+    {
+      "name": "PHENOL",
+      "strength": "3.25",
+      "unit": "%"
+    },
+    {
+      "name": "SCARLET RED",
+      "strength": "0.19",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "AEROSOL"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "H W NAYLOR CO INC."
+  ],
+  "status": "MARKETED",
+  "atc": []
+}

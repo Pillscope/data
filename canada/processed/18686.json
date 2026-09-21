@@ -1,0 +1,28 @@
+{
+  "drug_code": "18686",
+  "din": "02014874",
+  "brand_name": "70% DEXTROSE INJECTION USP",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "26-JUL-2016",
+  "active_ingredients": [
+    {
+      "name": "DEXTROSE",
+      "strength": "70",
+      "unit": "G"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "BAXTER CORPORATION"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "CARBOHYDRATES"
+  ]
+}

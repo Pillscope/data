@@ -1,0 +1,31 @@
+{
+  "drug_code": "84552",
+  "din": "02360543",
+  "brand_name": "TRI-FENDER",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "03-NOV-2017",
+  "active_ingredients": [
+    {
+      "name": "IODINE (POLYETHOXY POLYPROPOXY POLYETHOXY ETHANOL - IODINE COMPLEX)",
+      "strength": "1",
+      "unit": "%"
+    },
+    {
+      "name": "GLYCERINE",
+      "strength": "10",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "DELAVAL INC."
+  ],
+  "status": "APPROVED",
+  "atc": []
+}

@@ -1,0 +1,33 @@
+{
+  "drug_code": "80272",
+  "din": "02317206",
+  "brand_name": "APRI 28",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "03-JUN-2015",
+  "active_ingredients": [
+    {
+      "name": "DESOGESTREL",
+      "strength": "0.15",
+      "unit": "MG"
+    },
+    {
+      "name": "ETHINYL ESTRADIOL",
+      "strength": "0.03",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "TEVA CANADA LIMITED"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "DESOGESTREL AND ESTROGEN"
+  ]
+}

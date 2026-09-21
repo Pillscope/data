@@ -1,0 +1,28 @@
+{
+  "drug_code": "70894",
+  "din": "02246699",
+  "brand_name": "APO-NAPROXEN EC TABLETS",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "09-MAR-2006",
+  "active_ingredients": [
+    {
+      "name": "NAPROXEN",
+      "strength": "250",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET (ENTERIC-COATED)"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "APOTEX INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "NAPROXEN"
+  ]
+}

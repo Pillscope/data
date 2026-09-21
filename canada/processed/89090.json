@@ -1,0 +1,34 @@
+{
+  "drug_code": "89090",
+  "din": "02406179",
+  "brand_name": "PROACTIV 3-STEP CONVENIENCE PAK",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "11-JUL-2016",
+  "active_ingredients": [
+    {
+      "name": "BENZOYL PEROXIDE",
+      "strength": "2.5",
+      "unit": "%"
+    },
+    {
+      "name": "BENZOYL PEROXIDE",
+      "strength": "2.5",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "GEL",
+    "KIT"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "THE PROACTIV COMPANY LLC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "BENZOYL PEROXIDE"
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "drug_code": "93100",
+  "din": "02445727",
+  "brand_name": "REVESTIVE",
+  "class": "Human",
+  "descriptor": "KIT INCLUDES 5MG POWDER IN VIAL & 0.5ML DILUENT IN PREFILLED SYRINGE",
+  "last_update": "22-DEC-2016",
+  "active_ingredients": [
+    {
+      "name": "TEDUGLUTIDE",
+      "strength": "5",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "KIT",
+    "POWDER FOR SOLUTION"
+  ],
+  "routes": [
+    "SUBCUTANEOUS"
+  ],
+  "companies": [
+    "SHIRE PHARMACEUTICALS IRELAND LIMITED"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "Teduglutide"
+  ]
+}

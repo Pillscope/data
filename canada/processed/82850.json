@@ -1,0 +1,28 @@
+{
+  "drug_code": "82850",
+  "din": "02343010",
+  "brand_name": "LAMOTRIGINE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "18-MAR-2010",
+  "active_ingredients": [
+    {
+      "name": "LAMOTRIGINE",
+      "strength": "25",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "SANIS HEALTH INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "LAMOTRIGINE"
+  ]
+}

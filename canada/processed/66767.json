@@ -1,0 +1,28 @@
+{
+  "drug_code": "66767",
+  "din": "02242929",
+  "brand_name": "APO-WARFARIN",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "30-SEP-2010",
+  "active_ingredients": [
+    {
+      "name": "WARFARIN SODIUM",
+      "strength": "10",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "APOTEX INC"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "WARFARIN"
+  ]
+}

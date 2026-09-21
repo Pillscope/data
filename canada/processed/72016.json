@@ -1,0 +1,28 @@
+{
+  "drug_code": "72016",
+  "din": "02247735",
+  "brand_name": "FAMOTIDINE OMEGA  -(WITHOUT PRESERVATIVE)",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "12-APR-2006",
+  "active_ingredients": [
+    {
+      "name": "FAMOTIDINE",
+      "strength": "10",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "OMEGA LABORATORIES LTD"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "FAMOTIDINE"
+  ]
+}

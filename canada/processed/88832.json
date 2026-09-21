@@ -1,0 +1,28 @@
+{
+  "drug_code": "88832",
+  "din": "02403536",
+  "brand_name": "DEXTROSE 5% INJECTION",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "26-JUL-2016",
+  "active_ingredients": [
+    {
+      "name": "DEXTROSE (DEXTROSE MONOHYDRATE)",
+      "strength": "50",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "FRESENIUS KABI CANADA LTD"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "CARBOHYDRATES"
+  ]
+}

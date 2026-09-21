@@ -1,0 +1,28 @@
+{
+  "drug_code": "77739",
+  "din": "02292025",
+  "brand_name": "APO-FAMCICLOVIR",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "03-APR-2007",
+  "active_ingredients": [
+    {
+      "name": "FAMCICLOVIR",
+      "strength": "125",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "APOTEX INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "FAMCICLOVIR"
+  ]
+}

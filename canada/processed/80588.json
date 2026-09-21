@@ -1,0 +1,28 @@
+{
+  "drug_code": "80588",
+  "din": "02320460",
+  "brand_name": "DOM-RABEPRAZOLE EC",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "20-DEC-2013",
+  "active_ingredients": [
+    {
+      "name": "RABEPRAZOLE SODIUM",
+      "strength": "20",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET (ENTERIC-COATED)"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "DOMINION PHARMACAL"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "RABEPRAZOLE"
+  ]
+}

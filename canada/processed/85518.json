@@ -1,0 +1,33 @@
+{
+  "drug_code": "85518",
+  "din": "02370166",
+  "brand_name": "PIPERACILLIN / TAZOBACTAM POWDER FOR INJECTION",
+  "class": "Human",
+  "descriptor": "FOR I.V. INFUSION ONLY. SINGLE-DOSE VIALS",
+  "last_update": "24-JUL-2013",
+  "active_ingredients": [
+    {
+      "name": "PIPERACILLIN (PIPERACILLIN SODIUM)",
+      "strength": "3",
+      "unit": "G"
+    },
+    {
+      "name": "TAZOBACTAM (TAZOBACTAM SODIUM)",
+      "strength": "0.375",
+      "unit": "G"
+    }
+  ],
+  "forms": [
+    "POWDER FOR SOLUTION"
+  ],
+  "routes": [
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "TEVA CANADA LIMITED"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "PIPERACILLIN AND BETA-LACTAMASE INHIBITOR"
+  ]
+}

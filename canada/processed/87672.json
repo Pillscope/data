@@ -1,0 +1,31 @@
+{
+  "drug_code": "87672",
+  "din": "02391376",
+  "brand_name": "LAXAMED",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "23-MAY-2014",
+  "active_ingredients": [
+    {
+      "name": "MINERAL OIL LIGHT",
+      "strength": "3.4",
+      "unit": "%"
+    },
+    {
+      "name": "WHITE PETROLATUM",
+      "strength": "21.4",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "PASTE"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "ALBERTA VETERINARY LABORATORIES LTD"
+  ],
+  "status": "MARKETED",
+  "atc": []
+}

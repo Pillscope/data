@@ -1,0 +1,28 @@
+{
+  "drug_code": "84336",
+  "din": "02358328",
+  "brand_name": "ACETAZOLAMIDE FOR INJECTION, USP",
+  "class": "Human",
+  "descriptor": "SINGLE UNIT VIAL",
+  "last_update": "10-SEP-2015",
+  "active_ingredients": [
+    {
+      "name": "ACETAZOLAMIDE (ACETAZOLAMIDE SODIUM)",
+      "strength": "500",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "POWDER FOR SOLUTION"
+  ],
+  "routes": [
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "STERIMAX INC"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "ACETAZOLAMIDE"
+  ]
+}

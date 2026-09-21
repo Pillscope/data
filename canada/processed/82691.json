@@ -1,0 +1,28 @@
+{
+  "drug_code": "82691",
+  "din": "02341395",
+  "brand_name": "PMS-FENTANYL MTX",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "24-MAR-2010",
+  "active_ingredients": [
+    {
+      "name": "FENTANYL",
+      "strength": "50",
+      "unit": "MCG"
+    }
+  ],
+  "forms": [
+    "PATCH"
+  ],
+  "routes": [
+    "TRANSDERMAL"
+  ],
+  "companies": [
+    "PHARMASCIENCE INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "FENTANYL"
+  ]
+}

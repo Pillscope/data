@@ -1,0 +1,28 @@
+{
+  "drug_code": "17830",
+  "din": "02125439",
+  "brand_name": "CARBOPLATIN INJECTION",
+  "class": "Human",
+  "descriptor": "LIQ  IV  10MG/ML",
+  "last_update": "05-MAY-2015",
+  "active_ingredients": [
+    {
+      "name": "CARBOPLATIN",
+      "strength": "10",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "LIQUID"
+  ],
+  "routes": [
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "TEVA CANADA LIMITED"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "CARBOPLATIN"
+  ]
+}

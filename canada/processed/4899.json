@@ -1,0 +1,28 @@
+{
+  "drug_code": "4899",
+  "din": "00545015",
+  "brand_name": "ACETAZOLAMIDE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "17-MAY-2011",
+  "active_ingredients": [
+    {
+      "name": "ACETAZOLAMIDE",
+      "strength": "250",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "AA PHARMA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "ACETAZOLAMIDE"
+  ]
+}

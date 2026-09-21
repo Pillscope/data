@@ -1,0 +1,32 @@
+{
+  "drug_code": "36480",
+  "din": "02204266",
+  "brand_name": "DEXAMETHASONE-OMEGA",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "10-APR-2006",
+  "active_ingredients": [
+    {
+      "name": "DEXAMETHASONE PHOSPHATE (DEXAMETHASONE SODIUM PHOSPHATE)",
+      "strength": "4",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "LIQUID"
+  ],
+  "routes": [
+    "INTRA-ARTICULAR",
+    "INTRALESIONAL",
+    "INTRAMUSCULAR",
+    "INTRAVENOUS",
+    "SOFT TISSUE INJECTION"
+  ],
+  "companies": [
+    "OMEGA LABORATORIES LTD"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "DEXAMETHASONE"
+  ]
+}

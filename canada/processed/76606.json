@@ -1,0 +1,28 @@
+{
+  "drug_code": "76606",
+  "din": "02280396",
+  "brand_name": "APO-RISPERIDONE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "14-SEP-2011",
+  "active_ingredients": [
+    {
+      "name": "RISPERIDONE (RISPERIDONE TARTRATE)",
+      "strength": "1",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "APOTEX INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "RISPERIDONE"
+  ]
+}

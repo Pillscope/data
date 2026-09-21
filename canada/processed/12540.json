@@ -1,0 +1,31 @@
+{
+  "drug_code": "12540",
+  "din": "00878766",
+  "brand_name": "DELLA-PRETECH PLUS",
+  "class": "Veterinary",
+  "descriptor": "PRE AND POST MILKING TEAT DIP",
+  "last_update": "19-DEC-2011",
+  "active_ingredients": [
+    {
+      "name": "IODINE (POLYETHOXY POLYPROPOXY POLYETHOXY ETHANOL - IODINE COMPLEX)",
+      "strength": "0.25",
+      "unit": "%"
+    },
+    {
+      "name": "GLYCERINE",
+      "strength": "2.000",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "DELAVAL INC."
+  ],
+  "status": "APPROVED",
+  "atc": []
+}

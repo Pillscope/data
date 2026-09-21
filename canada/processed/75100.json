@@ -1,0 +1,28 @@
+{
+  "drug_code": "75100",
+  "din": "02265540",
+  "brand_name": "CRESTOR - 5MG",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "14-JUL-2006",
+  "active_ingredients": [
+    {
+      "name": "ROSUVASTATIN (ROSUVASTATIN CALCIUM)",
+      "strength": "5",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "ASTRAZENECA CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "ROSUVASTATIN"
+  ]
+}

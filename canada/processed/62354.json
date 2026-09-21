@@ -1,0 +1,36 @@
+{
+  "drug_code": "62354",
+  "din": "02238913",
+  "brand_name": "VIT-E-AD",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "29-APR-2015",
+  "active_ingredients": [
+    {
+      "name": "VITAMIN A PROPIONATE",
+      "strength": "100000",
+      "unit": "UNIT"
+    },
+    {
+      "name": "VITAMIN D3 (CHOLECALCIFEROL)",
+      "strength": "10000",
+      "unit": "UNIT"
+    },
+    {
+      "name": "VITAMIN E (D-ALPHA TOCOPHEROL)",
+      "strength": "300",
+      "unit": "UNIT"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "INTRAMUSCULAR"
+  ],
+  "companies": [
+    "MAX PHARMA CANADA INC."
+  ],
+  "status": "APPROVED",
+  "atc": []
+}

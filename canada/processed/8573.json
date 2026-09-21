@@ -1,0 +1,28 @@
+{
+  "drug_code": "8573",
+  "din": "00716960",
+  "brand_name": "TRIADERM CRM 0.1%",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "10-DEC-2010",
+  "active_ingredients": [
+    {
+      "name": "TRIAMCINOLONE ACETONIDE",
+      "strength": "0.1",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "CREAM"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "TARO PHARMACEUTICALS INC"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "TRIAMCINOLONE"
+  ]
+}

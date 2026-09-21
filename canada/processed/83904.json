@@ -1,0 +1,28 @@
+{
+  "drug_code": "83904",
+  "din": "02353830",
+  "brand_name": "MYLAN-LANSOPRAZOLE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "22-JUL-2010",
+  "active_ingredients": [
+    {
+      "name": "LANSOPRAZOLE",
+      "strength": "15",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "CAPSULE (DELAYED RELEASE)"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "MYLAN PHARMACEUTICALS ULC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "LANSOPRAZOLE"
+  ]
+}

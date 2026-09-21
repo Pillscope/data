@@ -1,0 +1,28 @@
+{
+  "drug_code": "92432",
+  "din": "02439921",
+  "brand_name": "CORNEO HYPROMELLOSE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "16-JAN-2017",
+  "active_ingredients": [
+    {
+      "name": "HYPROMELLOSE",
+      "strength": "0.3",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "OPHTHALMIC"
+  ],
+  "companies": [
+    "ORIMED PHARMA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "ARTIFICIAL TEARS AND OTHER INDIFFERENT PREPARATIONS."
+  ]
+}

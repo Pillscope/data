@@ -1,0 +1,28 @@
+{
+  "drug_code": "85132",
+  "din": "02366479",
+  "brand_name": "REMIFENTANIL HYDROCHLORIDE FOR INJECTION",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "05-MAR-2012",
+  "active_ingredients": [
+    {
+      "name": "REMIFENTANIL (REMIFENTANIL HYDROCHLORIDE)",
+      "strength": "2",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "POWDER FOR SOLUTION"
+  ],
+  "routes": [
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "STERIMAX INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "REMIFENTANIL"
+  ]
+}

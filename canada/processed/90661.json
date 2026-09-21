@@ -1,0 +1,28 @@
+{
+  "drug_code": "90661",
+  "din": "02421917",
+  "brand_name": "SANDOZ CAPECITABINE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "05-NOV-2014",
+  "active_ingredients": [
+    {
+      "name": "CAPECITABINE",
+      "strength": "150",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "SANDOZ CANADA INCORPORATED"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "CAPECITABINE"
+  ]
+}

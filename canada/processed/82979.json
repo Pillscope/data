@@ -1,0 +1,43 @@
+{
+  "drug_code": "82979",
+  "din": "02344319",
+  "brand_name": "ADVANCED RELIEF EYE DROPS",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "28-NOV-2017",
+  "active_ingredients": [
+    {
+      "name": "TETRAHYDROZOLINE HYDROCHLORIDE",
+      "strength": "0.05",
+      "unit": "%"
+    },
+    {
+      "name": "DEXTRAN 70",
+      "strength": "0.1",
+      "unit": "%"
+    },
+    {
+      "name": "POLYETHYLENE GLYCOL 400",
+      "strength": "1",
+      "unit": "%"
+    },
+    {
+      "name": "POVIDONE",
+      "strength": "1",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "OPHTHALMIC"
+  ],
+  "companies": [
+    "TEVA CANADA LIMITED"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "TETRYZOLINE, COMBINATIONS"
+  ]
+}

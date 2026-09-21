@@ -1,0 +1,46 @@
+{
+  "drug_code": "82282",
+  "din": "02337215",
+  "brand_name": "MASTERFEEDS CHLOR S-700 BEEF PREMIX CRUMBLES",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "29-APR-2015",
+  "active_ingredients": [
+    {
+      "name": "VITAMIN D3",
+      "strength": "66000",
+      "unit": "UNIT"
+    },
+    {
+      "name": "SULFAMETHAZINE",
+      "strength": "4.4",
+      "unit": "G"
+    },
+    {
+      "name": "CHLORTETRACYCLINE HYDROCHLORIDE",
+      "strength": "4.4",
+      "unit": "G"
+    },
+    {
+      "name": "VITAMIN A",
+      "strength": "550000",
+      "unit": "UNIT"
+    },
+    {
+      "name": "VITAMIN E",
+      "strength": "572",
+      "unit": "UNIT"
+    }
+  ],
+  "forms": [
+    "DRUG PREMIX"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "MASTERFEEDS LP"
+  ],
+  "status": "APPROVED",
+  "atc": []
+}

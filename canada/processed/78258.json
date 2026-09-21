@@ -1,0 +1,29 @@
+{
+  "drug_code": "78258",
+  "din": "02297205",
+  "brand_name": "CEFAZOLIN FOR INJECTION",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "26-APR-2011",
+  "active_ingredients": [
+    {
+      "name": "CEFAZOLIN (CEFAZOLIN SODIUM)",
+      "strength": "1",
+      "unit": "G"
+    }
+  ],
+  "forms": [
+    "POWDER FOR SOLUTION"
+  ],
+  "routes": [
+    "INTRAMUSCULAR",
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "HOSPIRA HEALTHCARE CORPORATION"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "CEFAZOLIN"
+  ]
+}

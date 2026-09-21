@@ -1,0 +1,28 @@
+{
+  "drug_code": "90681",
+  "din": "02422093",
+  "brand_name": "APO-TADALAFIL",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "21-JUL-2016",
+  "active_ingredients": [
+    {
+      "name": "TADALAFIL",
+      "strength": "5",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "APOTEX INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "TADALAFIL"
+  ]
+}

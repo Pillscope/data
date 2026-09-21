@@ -1,0 +1,33 @@
+{
+  "drug_code": "16508",
+  "din": "01988530",
+  "brand_name": "ULTRACAINE D-S INJECTION",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "02-SEP-2009",
+  "active_ingredients": [
+    {
+      "name": "EPINEPHRINE",
+      "strength": "5",
+      "unit": "MCG"
+    },
+    {
+      "name": "ARTICAINE HYDROCHLORIDE",
+      "strength": "40",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "BLOCK/INFILTRATION"
+  ],
+  "companies": [
+    "HANSAMED LIMITED"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "ARTICAINE, COMBINATIONS"
+  ]
+}

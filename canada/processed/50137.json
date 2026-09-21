@@ -1,0 +1,28 @@
+{
+  "drug_code": "50137",
+  "din": "02230863",
+  "brand_name": "YELLOW JACKET VENOM PROTEIN MULTIDOSE 13.0 ML (1300 MCG)",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "10-OCT-2012",
+  "active_ingredients": [
+    {
+      "name": "VESPULA SPP VENOM PROTEIN EXTRACT",
+      "strength": "1300",
+      "unit": "MCG"
+    }
+  ],
+  "forms": [
+    "POWDER FOR SOLUTION"
+  ],
+  "routes": [
+    "SUBCUTANEOUS"
+  ],
+  "companies": [
+    "JUBILANT HOLLISTERSTIER LLC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "INSECTS"
+  ]
+}

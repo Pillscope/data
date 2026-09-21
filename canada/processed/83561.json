@@ -1,0 +1,28 @@
+{
+  "drug_code": "83561",
+  "din": "02350408",
+  "brand_name": "METOPROLOL",
+  "class": "Human",
+  "descriptor": "FILM-COATED",
+  "last_update": "05-MAY-2015",
+  "active_ingredients": [
+    {
+      "name": "METOPROLOL TARTRATE",
+      "strength": "100",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "SANIS HEALTH INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "METOPROLOL"
+  ]
+}

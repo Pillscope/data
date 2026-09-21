@@ -1,0 +1,28 @@
+{
+  "drug_code": "72225",
+  "din": "02247916",
+  "brand_name": "CIPRO XL",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "09-MAR-2013",
+  "active_ingredients": [
+    {
+      "name": "CIPROFLOXACIN (CIPROFLOXACIN HYDROCHLORIDE, CIPROFLOXACIN)",
+      "strength": "500",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET (EXTENDED-RELEASE)"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "BAYER INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "CIPROFLOXACIN"
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "drug_code": "71635",
+  "din": "02247390",
+  "brand_name": "SANDOZ SENNA S",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "27-DEC-2017",
+  "active_ingredients": [
+    {
+      "name": "SENNOSIDES",
+      "strength": "8.6",
+      "unit": "MG"
+    },
+    {
+      "name": "DOCUSATE SODIUM",
+      "strength": "50",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "SANDOZ CANADA INCORPORATED"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "SENNA GLYCOSIDES, COMBINATIONS"
+  ]
+}

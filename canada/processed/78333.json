@@ -1,0 +1,33 @@
+{
+  "drug_code": "78333",
+  "din": "02298015",
+  "brand_name": "LICE KILLING SHAMPOO",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "27-MAY-2014",
+  "active_ingredients": [
+    {
+      "name": "PIPERONYL BUTOXIDE",
+      "strength": "4",
+      "unit": "%"
+    },
+    {
+      "name": "PYRETHRINS",
+      "strength": "0.33",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "SHAMPOO"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "PERRIGO INTERNATIONAL"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "PYRETHRUM, COMBINATIONS"
+  ]
+}

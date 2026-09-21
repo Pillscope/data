@@ -1,0 +1,30 @@
+{
+  "drug_code": "74691",
+  "din": "02261537",
+  "brand_name": "C.I. FORMULA 6-88",
+  "class": "Disinfectant",
+  "descriptor": "",
+  "last_update": "16-JAN-2006",
+  "active_ingredients": [
+    {
+      "name": "BENZALKONIUM CHLORIDE",
+      "strength": "10",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "LIQUID"
+  ],
+  "routes": [
+    "DISINFECTANT (Food Premises)",
+    "DISINFECTANT (Hospital/HC Facilities)",
+    "DISINFECTANT (Institutional/Industrial)"
+  ],
+  "companies": [
+    "CHEM INTERNATIONAL"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "TECHNICAL DISINFECTANTS"
+  ]
+}

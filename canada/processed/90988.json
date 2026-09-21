@@ -1,0 +1,34 @@
+{
+  "drug_code": "90988",
+  "din": "02425246",
+  "brand_name": "BICART SELECT COMBI-PAK",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "24-MAR-2016",
+  "active_ingredients": [
+    {
+      "name": "SODIUM BICARBONATE",
+      "strength": "720",
+      "unit": "G"
+    },
+    {
+      "name": "SODIUM CHLORIDE",
+      "strength": "1200",
+      "unit": "G"
+    }
+  ],
+  "forms": [
+    "KIT",
+    "POWDER FOR SOLUTION"
+  ],
+  "routes": [
+    "DIALYSIS"
+  ],
+  "companies": [
+    "BAXTER CORPORATION"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "HEMODIALYTICS, CONCENTRATES"
+  ]
+}

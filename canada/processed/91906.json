@@ -1,0 +1,38 @@
+{
+  "drug_code": "91906",
+  "din": "02434768",
+  "brand_name": "MARCELLE HYDRA-C 24 H + SPF 15 FPS MOISTURIZING CREAM CR\u00c3\u0088ME HYDRATANTE DRY SKIN PEAUX S\u00c3\u0088CHES",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "26-NOV-2015",
+  "active_ingredients": [
+    {
+      "name": "OXYBENZONE",
+      "strength": "3.0",
+      "unit": "%"
+    },
+    {
+      "name": "ENSULIZOLE",
+      "strength": "2.0",
+      "unit": "%"
+    },
+    {
+      "name": "OCTINOXATE",
+      "strength": "7.5",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "CREAM"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "GROUPE MARCELLE INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "COMBINATIONS OF PROTECTIVES AGAINST UV-RADIATION"
+  ]
+}

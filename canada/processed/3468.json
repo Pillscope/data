@@ -1,0 +1,98 @@
+{
+  "drug_code": "3468",
+  "din": "00454907",
+  "brand_name": "AMINOSYN",
+  "class": "Human",
+  "descriptor": "SINGLE-USE",
+  "last_update": "27-DEC-2017",
+  "active_ingredients": [
+    {
+      "name": "L-ALANINE",
+      "strength": "1280",
+      "unit": "MG"
+    },
+    {
+      "name": "METHIONINE",
+      "strength": "400",
+      "unit": "MG"
+    },
+    {
+      "name": "TRYPTOPHAN",
+      "strength": "160",
+      "unit": "MG"
+    },
+    {
+      "name": "L-PROLINE",
+      "strength": "860",
+      "unit": "MG"
+    },
+    {
+      "name": "L-ARGININE",
+      "strength": "980",
+      "unit": "MG"
+    },
+    {
+      "name": "L-TYROSINE",
+      "strength": "44",
+      "unit": "MG"
+    },
+    {
+      "name": "L-ISOLEUCINE",
+      "strength": "720",
+      "unit": "MG"
+    },
+    {
+      "name": "L-THREONINE",
+      "strength": "520",
+      "unit": "MG"
+    },
+    {
+      "name": "L-PHENYLALANINE",
+      "strength": "440",
+      "unit": "MG"
+    },
+    {
+      "name": "L-LEUCINE",
+      "strength": "940",
+      "unit": "MG"
+    },
+    {
+      "name": "SERINE",
+      "strength": "420",
+      "unit": "MG"
+    },
+    {
+      "name": "L-LYSINE (L-LYSINE ACETATE)",
+      "strength": "720",
+      "unit": "MG"
+    },
+    {
+      "name": "GLYCINE",
+      "strength": "1280",
+      "unit": "MG"
+    },
+    {
+      "name": "HISTIDINE",
+      "strength": "300",
+      "unit": "MG"
+    },
+    {
+      "name": "L-VALINE",
+      "strength": "800",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "ICU MEDICAL CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "AMINO ACIDS"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "drug_code": "10312",
+  "din": "00816086",
+  "brand_name": "FOLIC ACID INJECTION USP",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "26-JAN-2018",
+  "active_ingredients": [
+    {
+      "name": "FOLIC ACID (SODIUM FOLATE)",
+      "strength": "5",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "LIQUID"
+  ],
+  "routes": [
+    "INTRAMUSCULAR",
+    "INTRAVENOUS",
+    "SUBCUTANEOUS"
+  ],
+  "companies": [
+    "SANDOZ CANADA INCORPORATED"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "FOLIC ACID"
+  ]
+}

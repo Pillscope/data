@@ -1,0 +1,30 @@
+{
+  "drug_code": "9994",
+  "din": "00804312",
+  "brand_name": "VITAMIN K1 INJ 10MG/ML USP",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "29-APR-2015",
+  "active_ingredients": [
+    {
+      "name": "VITAMIN K1",
+      "strength": "10",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "EMULSION"
+  ],
+  "routes": [
+    "INTRAMUSCULAR",
+    "INTRAVENOUS",
+    "SUBCUTANEOUS"
+  ],
+  "companies": [
+    "SANDOZ CANADA INCORPORATED"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "PHYTOMENADIONE"
+  ]
+}

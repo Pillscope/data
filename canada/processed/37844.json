@@ -1,0 +1,28 @@
+{
+  "drug_code": "37844",
+  "din": "02215551",
+  "brand_name": "PERLE + ANTISEPTIC LOTION SOAP / SAVON LOTION ANTISEPTIQUE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "29-MAY-2009",
+  "active_ingredients": [
+    {
+      "name": "TRICLOSAN",
+      "strength": "0.1",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "LOTION"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "AVMOR LTD"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "TRICLOSAN"
+  ]
+}

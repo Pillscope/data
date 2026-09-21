@@ -1,0 +1,28 @@
+{
+  "drug_code": "84737",
+  "din": "02362368",
+  "brand_name": "ACETAMINOPHEN CAPLETS 500 MG",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "09-NOV-2011",
+  "active_ingredients": [
+    {
+      "name": "ACETAMINOPHEN",
+      "strength": "500",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "APOTEX INC"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "ACETAMINOPHEN (PARACETAMOL)"
+  ]
+}

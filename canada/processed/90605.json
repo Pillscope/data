@@ -1,0 +1,34 @@
+{
+  "drug_code": "90605",
+  "din": "02421429",
+  "brand_name": "ATOVAQUONE PROGUANIL",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "09-JUN-2014",
+  "active_ingredients": [
+    {
+      "name": "PROGUANIL HYDROCHLORIDE",
+      "strength": "100",
+      "unit": "MG"
+    },
+    {
+      "name": "ATOVAQUONE",
+      "strength": "250",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "SANIS HEALTH INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "PROGUANIL, COMBINATIONS *",
+    "PROGUANIL, COMBINATIONS *"
+  ]
+}

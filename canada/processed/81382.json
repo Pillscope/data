@@ -1,0 +1,36 @@
+{
+  "drug_code": "81382",
+  "din": "02328291",
+  "brand_name": "DOLPAC 25",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "06-APR-2010",
+  "active_ingredients": [
+    {
+      "name": "PYRANTEL PAMOATE",
+      "strength": "360.0",
+      "unit": "MG"
+    },
+    {
+      "name": "PRAZIQUANTEL",
+      "strength": "125.0",
+      "unit": "MG"
+    },
+    {
+      "name": "OXANTEL PAMOATE",
+      "strength": "1397.5",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "VETOQUINOL N A INC"
+  ],
+  "status": "APPROVED",
+  "atc": []
+}

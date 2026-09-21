@@ -1,0 +1,26 @@
+{
+  "drug_code": "63854",
+  "din": "02240316",
+  "brand_name": "PETROLATUM BLANC U.S.P.",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "09-AUG-2006",
+  "active_ingredients": [
+    {
+      "name": "PETROLATUM",
+      "strength": "100",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "OINTMENT"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "DOMINION VETERINARY LABORATORIES LTD."
+  ],
+  "status": "MARKETED",
+  "atc": []
+}

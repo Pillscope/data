@@ -1,0 +1,28 @@
+{
+  "drug_code": "67829",
+  "din": "02243888",
+  "brand_name": "STREPSILS ANAESTHETIC FORMULA",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "20-JAN-2009",
+  "active_ingredients": [
+    {
+      "name": "HEXYLRESORCINOL",
+      "strength": "2.4",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "LOZENGE"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "RECKITT BENCKISER (CANADA) INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "HEXYLRESORCINOL"
+  ]
+}

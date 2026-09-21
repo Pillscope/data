@@ -1,0 +1,33 @@
+{
+  "drug_code": "10521",
+  "din": "00828750",
+  "brand_name": "HEPARIN SOD AND 0.9% SOD CHLORIDE INJ",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "21-SEP-2006",
+  "active_ingredients": [
+    {
+      "name": "HEPARIN (HEPARIN SODIUM)",
+      "strength": "2",
+      "unit": "UNIT"
+    },
+    {
+      "name": "SODIUM CHLORIDE",
+      "strength": "9",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "BAXTER CORPORATION"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "HEPARIN, COMBINATIONS"
+  ]
+}

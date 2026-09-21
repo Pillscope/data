@@ -1,0 +1,33 @@
+{
+  "drug_code": "6400",
+  "din": "00606820",
+  "brand_name": "POTASSIUM CHLORIDE 40 MEQ IN 5% DEXTROSE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "02-NOV-2017",
+  "active_ingredients": [
+    {
+      "name": "DEXTROSE",
+      "strength": "50",
+      "unit": "MG"
+    },
+    {
+      "name": "POTASSIUM CHLORIDE",
+      "strength": "3",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "HOSPIRA HEALTHCARE CORPORATION"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "ELECTROLYTES WITH CARBOHYDRATES"
+  ]
+}

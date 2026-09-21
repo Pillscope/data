@@ -1,0 +1,28 @@
+{
+  "drug_code": "10860",
+  "din": "00600784",
+  "brand_name": "ZADITEN",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "05-MAY-2015",
+  "active_ingredients": [
+    {
+      "name": "KETOTIFEN (KETOTIFEN FUMARATE)",
+      "strength": "1",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SYRUP"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "TEVA CANADA LIMITED"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "KETOTIFEN"
+  ]
+}

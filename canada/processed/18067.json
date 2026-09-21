@@ -1,0 +1,28 @@
+{
+  "drug_code": "18067",
+  "din": "02146851",
+  "brand_name": "APO-SALVENT TABLETS - 4MG",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "14-JUN-2010",
+  "active_ingredients": [
+    {
+      "name": "SALBUTAMOL (SALBUTAMOL SULFATE)",
+      "strength": "4",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "APOTEX INC"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "SALBUTAMOL"
+  ]
+}

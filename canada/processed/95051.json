@@ -1,0 +1,28 @@
+{
+  "drug_code": "95051",
+  "din": "02462702",
+  "brand_name": "TEPADINA",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "17-NOV-2017",
+  "active_ingredients": [
+    {
+      "name": "THIOTEPA",
+      "strength": "100",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "POWDER FOR SOLUTION"
+  ],
+  "routes": [
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "ADIENNE SA"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "THIOTEPA"
+  ]
+}

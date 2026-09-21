@@ -1,0 +1,28 @@
+{
+  "drug_code": "84752",
+  "din": "02362511",
+  "brand_name": "TEVA-ATOMOXETINE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "21-AUG-2015",
+  "active_ingredients": [
+    {
+      "name": "ATOMOXETINE (ATOMOXETINE HYDROCHLORIDE)",
+      "strength": "80",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "CAPSULE"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "TEVA CANADA LIMITED"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "ATOMOXETINE"
+  ]
+}

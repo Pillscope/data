@@ -1,0 +1,28 @@
+{
+  "drug_code": "86742",
+  "din": "02381575",
+  "brand_name": "APO-ZOLMITRIPTAN RAPID",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "04-AUG-2016",
+  "active_ingredients": [
+    {
+      "name": "ZOLMITRIPTAN",
+      "strength": "2.5",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET (ORALLY DISINTEGRATING)"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "APOTEX INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "ZOLMITRIPTAN"
+  ]
+}

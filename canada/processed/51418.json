@@ -1,0 +1,28 @@
+{
+  "drug_code": "51418",
+  "din": "02231962",
+  "brand_name": "CYTOGAM",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "01-MAY-2012",
+  "active_ingredients": [
+    {
+      "name": "CYTOMEGALOVIRUS IMMUNE GLOBULIN (HUMAN)",
+      "strength": "50",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "LIQUID"
+  ],
+  "routes": [
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "CSL BEHRING CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "CYTOMEGALOVIRUS IMMUNOGLOBULIN"
+  ]
+}

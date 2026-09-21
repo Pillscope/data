@@ -1,0 +1,28 @@
+{
+  "drug_code": "80149",
+  "din": "02315963",
+  "brand_name": "PMS-CETIRIZINE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "01-JUN-2009",
+  "active_ingredients": [
+    {
+      "name": "CETIRIZINE HYDROCHLORIDE",
+      "strength": "20",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "PHARMASCIENCE INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "CETIRIZINE"
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "drug_code": "92311",
+  "din": "02438712",
+  "brand_name": "EGRIFTA",
+  "class": "Human",
+  "descriptor": "SINGLE-USE VIALS, DILUENT AND SYRINGES",
+  "last_update": "05-JAN-2016",
+  "active_ingredients": [
+    {
+      "name": "Tesamorelin (Tesamorelin acetate)",
+      "strength": "1",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "KIT",
+    "POWDER FOR SOLUTION"
+  ],
+  "routes": [
+    "SUBCUTANEOUS"
+  ],
+  "companies": [
+    "THERATECHNOLOGIES INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "Tesamorelin"
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "drug_code": "88834",
+  "din": "02403552",
+  "brand_name": "PREVENTAGE FIRMING DEFENSE CR\u00c3\u0088ME NORMAL/DRY BROAD SPECTRUM SPF 15",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "26-JUN-2013",
+  "active_ingredients": [
+    {
+      "name": "AVOBENZONE",
+      "strength": "1.9",
+      "unit": "%"
+    },
+    {
+      "name": "OCTOCRYLENE",
+      "strength": "9.4",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "CREAM"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "MERLE NORMAN COSMETICS INC"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "COMBINATIONS OF PROTECTIVES AGAINST UV-RADIATION"
+  ]
+}

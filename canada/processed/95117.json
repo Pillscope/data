@@ -1,0 +1,28 @@
+{
+  "drug_code": "95117",
+  "din": "02463261",
+  "brand_name": "CERDELGA",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "28-JUL-2017",
+  "active_ingredients": [
+    {
+      "name": "ELIGLUSTAT (ELIGLUSTAT TARTRATE)",
+      "strength": "84",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "CAPSULE"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "SANOFI GENZYME, A DIVISION OF SANOFI-AVENTIS CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "ELIGLUSTAT"
+  ]
+}

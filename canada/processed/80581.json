@@ -1,0 +1,28 @@
+{
+  "drug_code": "80581",
+  "din": "02320371",
+  "brand_name": "CARBOPLATIN INJECTION",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "16-MAR-2015",
+  "active_ingredients": [
+    {
+      "name": "CARBOPLATIN",
+      "strength": "10",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "ACCORD HEALTHCARE INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "CARBOPLATIN"
+  ]
+}

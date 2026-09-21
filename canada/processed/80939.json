@@ -1,0 +1,34 @@
+{
+  "drug_code": "80939",
+  "din": "02323915",
+  "brand_name": "NITE TIME COLD AND COUGH",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "19-JAN-2011",
+  "active_ingredients": [
+    {
+      "name": "PHENYLEPHRINE HYDROCHLORIDE",
+      "strength": "2.5",
+      "unit": "MG"
+    },
+    {
+      "name": "DIPHENHYDRAMINE HYDROCHLORIDE",
+      "strength": "6.25",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "LIQUID"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "ACCUDIAL PHARMACEUTICAL INC"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "PHENYLEPHRINE, COMBINATIONS",
+    "PHENYLEPHRINE, COMBINATIONS"
+  ]
+}

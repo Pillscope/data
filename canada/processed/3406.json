@@ -1,0 +1,27 @@
+{
+  "drug_code": "3406",
+  "din": "00467618",
+  "brand_name": "DEXTROSE 50% STERILE INJECTION",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "02-JUN-2010",
+  "active_ingredients": [
+    {
+      "name": "DEXTROSE",
+      "strength": "50",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "LIQUID"
+  ],
+  "routes": [
+    "INTRAPERITONEAL",
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "BIMEDA-MTC ANIMAL HEALTH INC"
+  ],
+  "status": "APPROVED",
+  "atc": []
+}

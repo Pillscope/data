@@ -1,0 +1,26 @@
+{
+  "drug_code": "95714",
+  "din": "02468670",
+  "brand_name": "ALFAXAN MULTIDOSE",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "26-APR-2018",
+  "active_ingredients": [
+    {
+      "name": "ALFAXALONE",
+      "strength": "10",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "JUROX PTY LIMITED"
+  ],
+  "status": "APPROVED",
+  "atc": []
+}

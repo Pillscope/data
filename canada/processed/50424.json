@@ -1,0 +1,28 @@
+{
+  "drug_code": "50424",
+  "din": "02231116",
+  "brand_name": "HYCAMTIN",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "16-DEC-2016",
+  "active_ingredients": [
+    {
+      "name": "TOPOTECAN (TOPOTECAN HYDROCHLORIDE)",
+      "strength": "4",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "POWDER FOR SOLUTION"
+  ],
+  "routes": [
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "NOVARTIS PHARMACEUTICALS CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "TOPOTECAN"
+  ]
+}

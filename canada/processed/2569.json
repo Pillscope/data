@@ -1,0 +1,28 @@
+{
+  "drug_code": "2569",
+  "din": "00382841",
+  "brand_name": "RIVOTRIL 2TAB",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "14-MAR-2006",
+  "active_ingredients": [
+    {
+      "name": "CLONAZEPAM",
+      "strength": "2",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "HOFFMANN-LA ROCHE LIMITED"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "CLONAZEPAM"
+  ]
+}

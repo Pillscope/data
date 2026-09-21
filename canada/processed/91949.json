@@ -1,0 +1,29 @@
+{
+  "drug_code": "91949",
+  "din": "02435217",
+  "brand_name": "ZONOVATE",
+  "class": "Human",
+  "descriptor": "ANTIHEMOPHILIC FACTOR (RECOMBINANT, B-DOMAIN TRUNCATED). KIT INCL. 4ML SOLVENT IN A PREFILLED SYRINGE.",
+  "last_update": "19-APR-2018",
+  "active_ingredients": [
+    {
+      "name": "TUROCTOCOG ALFA",
+      "strength": "1500",
+      "unit": "UNIT"
+    }
+  ],
+  "forms": [
+    "KIT",
+    "POWDER FOR SOLUTION"
+  ],
+  "routes": [
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "NOVO NORDISK CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "COAGULATION FACTOR VIII"
+  ]
+}

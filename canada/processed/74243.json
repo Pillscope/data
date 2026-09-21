@@ -1,0 +1,53 @@
+{
+  "drug_code": "74243",
+  "din": "02257238",
+  "brand_name": "LINESSA 28",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "02-FEB-2018",
+  "active_ingredients": [
+    {
+      "name": "DESOGESTREL",
+      "strength": "0.1",
+      "unit": "MG"
+    },
+    {
+      "name": "DESOGESTREL",
+      "strength": "0.125",
+      "unit": "MG"
+    },
+    {
+      "name": "DESOGESTREL",
+      "strength": "0.15",
+      "unit": "MG"
+    },
+    {
+      "name": "ETHINYL ESTRADIOL",
+      "strength": "0.025",
+      "unit": "MG"
+    },
+    {
+      "name": "ETHINYL ESTRADIOL",
+      "strength": "0.025",
+      "unit": "MG"
+    },
+    {
+      "name": "ETHINYL ESTRADIOL",
+      "strength": "0.025",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "ASPEN PHARMACARE CANADA INC."
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "DESOGESTREL AND ESTROGEN"
+  ]
+}

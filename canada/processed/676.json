@@ -1,0 +1,26 @@
+{
+  "drug_code": "676",
+  "din": "00097195",
+  "brand_name": "SODIUM SULFAMETHAZINE SOLUTION 25%",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "02-JAN-2018",
+  "active_ingredients": [
+    {
+      "name": "SULFAMETHAZINE SODIUM",
+      "strength": "25",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "DOMINION VETERINARY LABORATORIES LTD."
+  ],
+  "status": "MARKETED",
+  "atc": []
+}

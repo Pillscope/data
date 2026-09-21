@@ -1,0 +1,28 @@
+{
+  "drug_code": "92641",
+  "din": "02442043",
+  "brand_name": "CLONAZEPAM",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "16-JUN-2016",
+  "active_ingredients": [
+    {
+      "name": "CLONAZEPAM",
+      "strength": "1",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "SIVEM PHARMACEUTICALS ULC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "CLONAZEPAM"
+  ]
+}

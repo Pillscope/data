@@ -1,0 +1,28 @@
+{
+  "drug_code": "86225",
+  "din": "02376709",
+  "brand_name": "DOM-FINASTERIDE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "02-MAR-2017",
+  "active_ingredients": [
+    {
+      "name": "FINASTERIDE",
+      "strength": "5",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "DOMINION PHARMACAL"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "FINASTERIDE"
+  ]
+}

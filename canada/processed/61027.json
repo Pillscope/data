@@ -1,0 +1,28 @@
+{
+  "drug_code": "61027",
+  "din": "02237682",
+  "brand_name": "TEVA-NORFLOXACIN",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "25-SEP-2015",
+  "active_ingredients": [
+    {
+      "name": "NORFLOXACIN",
+      "strength": "400",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "TEVA CANADA LIMITED"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "NORFLOXACIN"
+  ]
+}

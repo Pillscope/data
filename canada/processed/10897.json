@@ -1,0 +1,28 @@
+{
+  "drug_code": "10897",
+  "din": "00887064",
+  "brand_name": "DOXYTAB 100MG",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "17-JUN-2017",
+  "active_ingredients": [
+    {
+      "name": "DOXYCYCLINE (DOXYCYCLINE HYCLATE)",
+      "strength": "100",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "PRO DOC LIMITEE"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "DOXYCYCLINE"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "drug_code": "79869",
+  "din": "02313162",
+  "brand_name": "BISMUTH SUBSALICYLATE LIQUID",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "17-JUL-2012",
+  "active_ingredients": [
+    {
+      "name": "BISMUTH SUBSALICYLATE",
+      "strength": "17.5",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "LIQUID"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "GUARDIAN DRUG COMPANY INC"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "BISMUTH PREPARATIONS"
+  ]
+}

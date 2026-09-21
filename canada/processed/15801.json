@@ -1,0 +1,29 @@
+{
+  "drug_code": "15801",
+  "din": "02046245",
+  "brand_name": "PREVORA STAGE 1",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "05-MAY-2015",
+  "active_ingredients": [
+    {
+      "name": "CHLORHEXIDINE ACETATE",
+      "strength": "10",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "SOLUTION",
+    "KIT"
+  ],
+  "routes": [
+    "DENTAL"
+  ],
+  "companies": [
+    "CHX TECHNOLOGIES INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "CHLORHEXIDINE"
+  ]
+}

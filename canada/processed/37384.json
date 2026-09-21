@@ -1,0 +1,38 @@
+{
+  "drug_code": "37384",
+  "din": "02224860",
+  "brand_name": "SOFRAMYCIN NASAL SPRAY",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "10-JUL-2013",
+  "active_ingredients": [
+    {
+      "name": "GRAMICIDIN",
+      "strength": "0.05",
+      "unit": "MG"
+    },
+    {
+      "name": "FRAMYCETIN SULFATE",
+      "strength": "12.5",
+      "unit": "MG"
+    },
+    {
+      "name": "PHENYLEPHRINE HYDROCHLORIDE",
+      "strength": "2.5",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SPRAY"
+  ],
+  "routes": [
+    "NASAL"
+  ],
+  "companies": [
+    "ERFA CANADA 2012 INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "PHENYLEPHRINE"
+  ]
+}

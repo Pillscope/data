@@ -1,0 +1,28 @@
+{
+  "drug_code": "14476",
+  "din": "02018950",
+  "brand_name": "DIPRIVAN 1%",
+  "class": "Human",
+  "descriptor": "20ML, 50ML, 100ML SINGLE USE VIAL",
+  "last_update": "09-AUG-2017",
+  "active_ingredients": [
+    {
+      "name": "PROPOFOL",
+      "strength": "1",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "EMULSION"
+  ],
+  "routes": [
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "ASPEN PHARMACARE CANADA INC."
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "PROPOFOL"
+  ]
+}

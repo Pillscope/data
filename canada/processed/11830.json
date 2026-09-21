@@ -1,0 +1,28 @@
+{
+  "drug_code": "11830",
+  "din": "01919679",
+  "brand_name": "PROSTIN E2 VAGINAL GEL",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "02-NOV-2006",
+  "active_ingredients": [
+    {
+      "name": "DINOPROSTONE",
+      "strength": "1",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "GEL"
+  ],
+  "routes": [
+    "VAGINAL"
+  ],
+  "companies": [
+    "PFIZER CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "DINOPROSTONE"
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "drug_code": "95824",
+  "din": "02469448",
+  "brand_name": "BINARY IONIZATION TECHNOLOGY (BIT) SOLUTION",
+  "class": "Disinfectant",
+  "descriptor": "",
+  "last_update": "18-DEC-2017",
+  "active_ingredients": [
+    {
+      "name": "HYDROGEN PEROXIDE",
+      "strength": "7.8",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "DISINFECTANT (Barn)",
+    "DISINFECTANT (Food Premises)",
+    "DISINFECTANT (Hospital/HC Facilities)",
+    "DISINFECTANT (Domestic)",
+    "DISINFECTANT (Institutional/Industrial)"
+  ],
+  "companies": [
+    "TOMI ENVIRONMENTAL SOLUTIONS INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "TECHNICAL DISINFECTANTS"
+  ]
+}

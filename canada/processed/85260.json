@@ -1,0 +1,34 @@
+{
+  "drug_code": "85260",
+  "din": "02367769",
+  "brand_name": "VALSARTAN-HCTZ",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "29-JUN-2011",
+  "active_ingredients": [
+    {
+      "name": "VALSARTAN",
+      "strength": "80",
+      "unit": "MG"
+    },
+    {
+      "name": "HYDROCHLOROTHIAZIDE",
+      "strength": "12.5",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "PRO DOC LIMITEE"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "VALSARTAN AND DIURETICS",
+    "VALSARTAN AND DIURETICS"
+  ]
+}

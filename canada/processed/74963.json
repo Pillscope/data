@@ -1,0 +1,28 @@
+{
+  "drug_code": "74963",
+  "din": "02264196",
+  "brand_name": "TEVA-RISPERIDONE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "25-MAY-2015",
+  "active_ingredients": [
+    {
+      "name": "RISPERIDONE",
+      "strength": "1.0",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "TEVA CANADA LIMITED"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "RISPERIDONE"
+  ]
+}

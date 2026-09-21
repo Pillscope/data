@@ -1,0 +1,28 @@
+{
+  "drug_code": "23194",
+  "din": "01964070",
+  "brand_name": "PMS DEXAMETHASONE TAB 4MG",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "07-MAY-2008",
+  "active_ingredients": [
+    {
+      "name": "DEXAMETHASONE",
+      "strength": "4",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "PHARMASCIENCE INC"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "DEXAMETHASONE"
+  ]
+}

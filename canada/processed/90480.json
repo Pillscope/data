@@ -1,0 +1,28 @@
+{
+  "drug_code": "90480",
+  "din": "02420201",
+  "brand_name": "TECFIDERA",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "26-MAY-2014",
+  "active_ingredients": [
+    {
+      "name": "Dimethyl Fumarate",
+      "strength": "240",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "CAPSULE (DELAYED RELEASE)"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "BIOGEN CANADA INC"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "DIMETHYL FUMARATE"
+  ]
+}

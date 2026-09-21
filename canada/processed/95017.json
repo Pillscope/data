@@ -1,0 +1,26 @@
+{
+  "drug_code": "95017",
+  "din": "02462419",
+  "brand_name": "CYCLOSPRAY",
+  "class": "Veterinary",
+  "descriptor": "SUSPENSION",
+  "last_update": "09-FEB-2018",
+  "active_ingredients": [
+    {
+      "name": "CHLORTETRACYCLINE HYDROCHLORIDE",
+      "strength": "2.45",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "SPRAY"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "EUROVET ANIMAL HEALTH B.V."
+  ],
+  "status": "APPROVED",
+  "atc": []
+}

@@ -1,0 +1,28 @@
+{
+  "drug_code": "77020",
+  "din": "02284650",
+  "brand_name": "AZILECT",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "05-MAY-2015",
+  "active_ingredients": [
+    {
+      "name": "RASAGILINE (RASAGILINE MESYLATE)",
+      "strength": "1.0",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "TEVA PHARMACEUTICAL INDUSTRIES LTD"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "RASAGILINE"
+  ]
+}

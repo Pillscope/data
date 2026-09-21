@@ -1,0 +1,28 @@
+{
+  "drug_code": "86928",
+  "din": "02383527",
+  "brand_name": "MYLAN-VALSARTAN",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "20-JAN-2014",
+  "active_ingredients": [
+    {
+      "name": "VALSARTAN",
+      "strength": "40",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "MYLAN PHARMACEUTICALS ULC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "VALSARTAN"
+  ]
+}

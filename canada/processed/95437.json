@@ -1,0 +1,28 @@
+{
+  "drug_code": "95437",
+  "din": "02466074",
+  "brand_name": "TARO-ACITRETIN",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "13-FEB-2018",
+  "active_ingredients": [
+    {
+      "name": "ACITRETIN",
+      "strength": "10",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "CAPSULE"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "TARO PHARMACEUTICALS INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "ACITRETIN"
+  ]
+}

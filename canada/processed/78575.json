@@ -1,0 +1,28 @@
+{
+  "drug_code": "78575",
+  "din": "02300451",
+  "brand_name": "GLUMETZA",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "16-APR-2013",
+  "active_ingredients": [
+    {
+      "name": "METFORMIN HYDROCHLORIDE",
+      "strength": "1000",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET (EXTENDED-RELEASE)"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "VALEANT CANADA LP/VALEANT CANADA S.E.C."
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "METFORMIN"
+  ]
+}

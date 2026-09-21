@@ -1,0 +1,28 @@
+{
+  "drug_code": "86881",
+  "din": "02383020",
+  "brand_name": "PMS-BOSENTAN",
+  "class": "Human",
+  "descriptor": "FILM COATED TABLET",
+  "last_update": "15-OCT-2015",
+  "active_ingredients": [
+    {
+      "name": "BOSENTAN (BOSENTAN MONOHYDRATE)",
+      "strength": "125",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "PHARMASCIENCE INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "BOSENTAN"
+  ]
+}

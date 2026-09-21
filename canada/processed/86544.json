@@ -1,0 +1,28 @@
+{
+  "drug_code": "86544",
+  "din": "02379562",
+  "brand_name": "MAR-ANASTROZOLE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "07-NOV-2012",
+  "active_ingredients": [
+    {
+      "name": "ANASTROZOLE",
+      "strength": "1",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "MARCAN PHARMACEUTICALS INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "ANASTROZOLE"
+  ]
+}

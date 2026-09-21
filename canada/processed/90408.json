@@ -1,0 +1,28 @@
+{
+  "drug_code": "90408",
+  "din": "02419459",
+  "brand_name": "CLINACIN SOLUTION",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "30-AUG-2016",
+  "active_ingredients": [
+    {
+      "name": "CLINDAMYCIN (CLINDAMYCIN HYDROCHLORIDE)",
+      "strength": "25",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "CHANELLE PHARMACEUTICALS MANUFACTURING LIMITED"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "CLINDAMYCIN"
+  ]
+}

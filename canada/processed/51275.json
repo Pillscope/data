@@ -1,0 +1,26 @@
+{
+  "drug_code": "51275",
+  "din": "02231809",
+  "brand_name": "BENZOYLPRO-3",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "21-OCT-2017",
+  "active_ingredients": [
+    {
+      "name": "BENZOYL PEROXIDE",
+      "strength": "3",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "SHAMPOO"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "NOR VET SALES INC"
+  ],
+  "status": "APPROVED",
+  "atc": []
+}

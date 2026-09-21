@@ -1,0 +1,28 @@
+{
+  "drug_code": "71150",
+  "din": "02246923",
+  "brand_name": "COMPLETE MULTI-PURPOSE SOLUTION",
+  "class": "Disinfectant",
+  "descriptor": "",
+  "last_update": "27-NOV-2007",
+  "active_ingredients": [
+    {
+      "name": "POLYHEXANIDE",
+      "strength": "0.0001",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "DISINFECTANT (Contact Lens)"
+  ],
+  "companies": [
+    "AMO CANADA COMPANY"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "ARTIFICIAL TEARS AND OTHER INDIFFERENT PREPARATIONS."
+  ]
+}

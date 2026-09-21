@@ -1,0 +1,28 @@
+{
+  "drug_code": "62430",
+  "din": "02238982",
+  "brand_name": "DEXIDIN 2 SOLUTION",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "25-JUL-2017",
+  "active_ingredients": [
+    {
+      "name": "CHLORHEXIDINE GLUCONATE",
+      "strength": "2",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "LABORATOIRE ATLAS INC"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "CHLORHEXIDINE"
+  ]
+}

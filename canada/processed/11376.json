@@ -1,0 +1,38 @@
+{
+  "drug_code": "11376",
+  "din": "00788139",
+  "brand_name": "ANTICOAGULANT CITRATE DEXTROSE SOLUTION USP (ACD) FORMULA A",
+  "class": "Human",
+  "descriptor": "FOR USE WITH CYTAPHERESIS DEVICE ONLY",
+  "last_update": "20-NOV-2017",
+  "active_ingredients": [
+    {
+      "name": "DEXTROSE",
+      "strength": "2.45",
+      "unit": "G"
+    },
+    {
+      "name": "SODIUM CITRATE",
+      "strength": "2.2",
+      "unit": "G"
+    },
+    {
+      "name": "CITRIC ACID",
+      "strength": "730",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "0-UNASSIGNED"
+  ],
+  "companies": [
+    "FRESENIUS KABI AG"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "BLOOD TRANSFUSION, AUXILIARY PRODUCTS"
+  ]
+}

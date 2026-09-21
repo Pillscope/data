@@ -1,0 +1,28 @@
+{
+  "drug_code": "95642",
+  "din": "02468050",
+  "brand_name": "APO-GEFITINIB",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "20-OCT-2017",
+  "active_ingredients": [
+    {
+      "name": "GEFITINIB",
+      "strength": "250",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "APOTEX INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "GEFITINIB"
+  ]
+}

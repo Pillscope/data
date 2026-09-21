@@ -1,0 +1,48 @@
+{
+  "drug_code": "87076",
+  "din": "02385104",
+  "brand_name": "CONTINUOUS SPRAY SUNSCREEN SUN BUM BROAD SPECTRUM SPF 15",
+  "class": "Human",
+  "descriptor": "SOLUTION",
+  "last_update": "25-MAR-2015",
+  "active_ingredients": [
+    {
+      "name": "AVOBENZONE",
+      "strength": "2",
+      "unit": "%"
+    },
+    {
+      "name": "OCTOCRYLENE",
+      "strength": "1.85",
+      "unit": "%"
+    },
+    {
+      "name": "OXYBENZONE",
+      "strength": "2",
+      "unit": "%"
+    },
+    {
+      "name": "OCTISALATE",
+      "strength": "2",
+      "unit": "%"
+    },
+    {
+      "name": "HOMOSALATE",
+      "strength": "6",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "SPRAY, BAG-ON-VALVE"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "SUN BUM LLC"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "COMBINATIONS OF PROTECTIVES AGAINST UV-RADIATION"
+  ]
+}

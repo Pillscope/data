@@ -1,0 +1,26 @@
+{
+  "drug_code": "66485",
+  "din": "02242693",
+  "brand_name": "AUREOMYCIN 220 G",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "30-JAN-2018",
+  "active_ingredients": [
+    {
+      "name": "CHLORTETRACYCLINE HYDROCHLORIDE (CHLORTETRACYCLINE CALCIUM COMPLEX)",
+      "strength": "220",
+      "unit": "G"
+    }
+  ],
+  "forms": [
+    "DRUG PREMIX"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "ZOETIS CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": []
+}

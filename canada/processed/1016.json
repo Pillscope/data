@@ -1,0 +1,28 @@
+{
+  "drug_code": "1016",
+  "din": "00053236",
+  "brand_name": "HIBITANE DISINFECTANT",
+  "class": "Disinfectant",
+  "descriptor": "",
+  "last_update": "02-MAR-2016",
+  "active_ingredients": [
+    {
+      "name": "CHLORHEXIDINE ACETATE",
+      "strength": "2",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "LIQUID"
+  ],
+  "routes": [
+    "DISINFECTANT (Barn)"
+  ],
+  "companies": [
+    "ZOETIS CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "TECHNICAL DISINFECTANTS"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "drug_code": "75233",
+  "din": "02266938",
+  "brand_name": "TARO-CLINDAMYCIN",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "21-NOV-2006",
+  "active_ingredients": [
+    {
+      "name": "CLINDAMYCIN (CLINDAMYCIN PHOSPHATE)",
+      "strength": "1",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "TARO PHARMACEUTICALS INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "CLINDAMYCIN"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "drug_code": "92431",
+  "din": "02439913",
+  "brand_name": "TEVA-PROGESTERONE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "26-OCT-2015",
+  "active_ingredients": [
+    {
+      "name": "PROGESTERONE",
+      "strength": "100",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "CAPSULE"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "TEVA CANADA LIMITED"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "PROGESTERONE"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "drug_code": "43329",
+  "din": "02222051",
+  "brand_name": "PRAVACHOL - TAB 40MG",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "24-APR-2008",
+  "active_ingredients": [
+    {
+      "name": "PRAVASTATIN SODIUM",
+      "strength": "40",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "BRISTOL-MYERS SQUIBB CANADA"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "PRAVASTATIN"
+  ]
+}

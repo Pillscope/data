@@ -1,0 +1,28 @@
+{
+  "drug_code": "76671",
+  "din": "02281031",
+  "brand_name": "STOOL SOFTENER",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "18-DEC-2014",
+  "active_ingredients": [
+    {
+      "name": "DOCUSATE SODIUM",
+      "strength": "100",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "CAPSULE"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "PHARMASCIENCE INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "DOCUSATE SODIUM"
+  ]
+}

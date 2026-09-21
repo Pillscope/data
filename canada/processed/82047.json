@@ -1,0 +1,28 @@
+{
+  "drug_code": "82047",
+  "din": "02334844",
+  "brand_name": "AZITHROMYCIN FOR INJECTION, USP",
+  "class": "Human",
+  "descriptor": "10 ML FLIP TOP VIAL",
+  "last_update": "08-AUG-2017",
+  "active_ingredients": [
+    {
+      "name": "AZITHROMYCIN (AZITHROMYCIN MONOHYDRATE)",
+      "strength": "500",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "POWDER FOR SOLUTION"
+  ],
+  "routes": [
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "HOSPIRA HEALTHCARE CORPORATION"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "AZITHROMYCIN"
+  ]
+}

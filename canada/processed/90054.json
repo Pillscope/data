@@ -1,0 +1,28 @@
+{
+  "drug_code": "90054",
+  "din": "02415941",
+  "brand_name": "QUINAPRIL",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "23-JAN-2014",
+  "active_ingredients": [
+    {
+      "name": "QUINAPRIL (QUINAPRIL HYDROCHLORIDE)",
+      "strength": "40",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "PRO DOC LIMITEE"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "QUINAPRIL"
+  ]
+}

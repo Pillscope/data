@@ -1,0 +1,34 @@
+{
+  "drug_code": "61485",
+  "din": "02238094",
+  "brand_name": "AVS VIRUCIDAL EXTRA",
+  "class": "Disinfectant",
+  "descriptor": "",
+  "last_update": "30-SEP-2010",
+  "active_ingredients": [
+    {
+      "name": "POTASSIUM PEROXYMONOSULFATE",
+      "strength": "23",
+      "unit": "%"
+    },
+    {
+      "name": "CHLORINE (SODIUM DICHLORO-S-TRIAZINETRIONE)",
+      "strength": "3.1",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "POWDER"
+  ],
+  "routes": [
+    "DISINFECTANT (Food Premises)",
+    "DISINFECTANT (Hospital/HC Facilities)"
+  ],
+  "companies": [
+    "BIO AGRI MIX LP"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "TECHNICAL DISINFECTANTS"
+  ]
+}

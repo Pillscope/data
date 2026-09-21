@@ -1,0 +1,33 @@
+{
+  "drug_code": "42888",
+  "din": "02187094",
+  "brand_name": "BREVICON 0.5/35 TABLETS (28-DAY PACK)",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "01-MAY-2006",
+  "active_ingredients": [
+    {
+      "name": "NORETHINDRONE",
+      "strength": ".5",
+      "unit": "MG"
+    },
+    {
+      "name": "ETHINYL ESTRADIOL",
+      "strength": ".035",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "PFIZER CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "NORETHISTERONE AND ESTROGEN"
+  ]
+}

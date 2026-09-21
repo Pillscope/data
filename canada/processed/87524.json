@@ -1,0 +1,28 @@
+{
+  "drug_code": "87524",
+  "din": "02389762",
+  "brand_name": "TEVA-EFAVIRENZ",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "11-DEC-2013",
+  "active_ingredients": [
+    {
+      "name": "EFAVIRENZ",
+      "strength": "600",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "TEVA CANADA LIMITED"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "EFAVIRENZ"
+  ]
+}

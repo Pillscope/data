@@ -1,0 +1,28 @@
+{
+  "drug_code": "94943",
+  "din": "02461692",
+  "brand_name": "CUVITRU",
+  "class": "Human",
+  "descriptor": "NORMAL IMMUNE GLOBULIN (HUMAN). SINGLE-DOSE VIALS",
+  "last_update": "23-APR-2018",
+  "active_ingredients": [
+    {
+      "name": "IMMUNE GLOBULIN (HUMAN)",
+      "strength": "200",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "SUBCUTANEOUS"
+  ],
+  "companies": [
+    "SHIRE PHARMA CANADA ULC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "IMMUNOGLOBULINS, NORMAL HUMAN, FOR EXTRAVASC. ADM"
+  ]
+}

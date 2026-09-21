@@ -1,0 +1,26 @@
+{
+  "drug_code": "24755",
+  "din": "01991183",
+  "brand_name": "TETRAMED 62.5",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "21-DEC-2017",
+  "active_ingredients": [
+    {
+      "name": "TETRACYCLINE HYDROCHLORIDE",
+      "strength": "62.5",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "POWDER FOR SOLUTION"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "BIO AGRI MIX LP"
+  ],
+  "status": "APPROVED",
+  "atc": []
+}

@@ -1,0 +1,28 @@
+{
+  "drug_code": "3319",
+  "din": "00465763",
+  "brand_name": "MYDFRIN",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "13-MAY-2017",
+  "active_ingredients": [
+    {
+      "name": "PHENYLEPHRINE HYDROCHLORIDE",
+      "strength": "2.5",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "LIQUID"
+  ],
+  "routes": [
+    "OPHTHALMIC"
+  ],
+  "companies": [
+    "NOVARTIS PHARMACEUTICALS CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "PHENYLEPHRINE"
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "drug_code": "77094",
+  "din": "02285452",
+  "brand_name": "DRAXXIN",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "12-AUG-2014",
+  "active_ingredients": [
+    {
+      "name": "TULATHROMYCIN",
+      "strength": "100",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "INTRAMUSCULAR",
+    "SUBCUTANEOUS"
+  ],
+  "companies": [
+    "ZOETIS CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": []
+}

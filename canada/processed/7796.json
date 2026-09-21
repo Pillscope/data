@@ -1,0 +1,26 @@
+{
+  "drug_code": "7796",
+  "din": "00755516",
+  "brand_name": "TEAT DIP W CHLORHEXIDINE LIQ 0.5%",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "27-AUG-2008",
+  "active_ingredients": [
+    {
+      "name": "CHLORHEXIDINE ACETATE",
+      "strength": "0.5",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "LIQUID"
+  ],
+  "routes": [
+    "UDDER WASH"
+  ],
+  "companies": [
+    "WESTERN CHEMICAL INC"
+  ],
+  "status": "MARKETED",
+  "atc": []
+}

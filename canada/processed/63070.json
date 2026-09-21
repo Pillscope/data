@@ -1,0 +1,35 @@
+{
+  "drug_code": "63070",
+  "din": "02239600",
+  "brand_name": "MONISTAT 1 COMBINATION PACK",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "27-FEB-2013",
+  "active_ingredients": [
+    {
+      "name": "MICONAZOLE NITRATE",
+      "strength": "1200",
+      "unit": "MG"
+    },
+    {
+      "name": "MICONAZOLE NITRATE",
+      "strength": "2",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "SUPPOSITORY",
+    "CREAM"
+  ],
+  "routes": [
+    "TOPICAL",
+    "VAGINAL"
+  ],
+  "companies": [
+    "INSIGHT PHARMACEUTICALS LLC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "MICONAZOLE"
+  ]
+}

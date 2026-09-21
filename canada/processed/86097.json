@@ -1,0 +1,28 @@
+{
+  "drug_code": "86097",
+  "din": "02375559",
+  "brand_name": "TEVA-ENTACAPONE",
+  "class": "Human",
+  "descriptor": "FILM-COATED",
+  "last_update": "04-DEC-2013",
+  "active_ingredients": [
+    {
+      "name": "ENTACAPONE",
+      "strength": "200",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "TEVA CANADA LIMITED"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "ENTACAPONE"
+  ]
+}

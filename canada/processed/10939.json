@@ -1,0 +1,48 @@
+{
+  "drug_code": "10939",
+  "din": "00800007",
+  "brand_name": "TIS-U-SOL SOLUTION",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "16-JUN-2006",
+  "active_ingredients": [
+    {
+      "name": "SODIUM CHLORIDE",
+      "strength": "800",
+      "unit": "MG"
+    },
+    {
+      "name": "MAGNESIUM SULFATE",
+      "strength": "20",
+      "unit": "MG"
+    },
+    {
+      "name": "POTASSIUM CHLORIDE",
+      "strength": "40",
+      "unit": "MG"
+    },
+    {
+      "name": "SODIUM PHOSPHATE DIBASIC",
+      "strength": "8.75",
+      "unit": "MG"
+    },
+    {
+      "name": "POTASSIUM PHOSPHATE MONOBASIC",
+      "strength": "6.25",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "LIQUID"
+  ],
+  "routes": [
+    "IRRIGATION"
+  ],
+  "companies": [
+    "BAXTER CORPORATION"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "COMBINATIONS"
+  ]
+}

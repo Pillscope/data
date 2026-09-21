@@ -1,0 +1,28 @@
+{
+  "drug_code": "80774",
+  "din": "02322285",
+  "brand_name": "SOLIRIS",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "25-APR-2014",
+  "active_ingredients": [
+    {
+      "name": "ECULIZUMAB",
+      "strength": "10",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "ALEXION PHARMA GMBH"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "ECULIZUMAB"
+  ]
+}

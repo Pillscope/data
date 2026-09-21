@@ -1,0 +1,28 @@
+{
+  "drug_code": "5168",
+  "din": "00578576",
+  "brand_name": "STIEVA-A CREAM",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "28-AUG-2013",
+  "active_ingredients": [
+    {
+      "name": "TRETINOIN",
+      "strength": "0.025",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "CREAM"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "GLAXOSMITHKLINE INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "TRETINOIN"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "drug_code": "71914",
+  "din": "02247651",
+  "brand_name": "TARO-TERCONAZOLE CREAM",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "16-APR-2008",
+  "active_ingredients": [
+    {
+      "name": "TERCONAZOLE",
+      "strength": "0.4",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "CREAM"
+  ],
+  "routes": [
+    "VAGINAL"
+  ],
+  "companies": [
+    "TARO PHARMACEUTICALS INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "TERCONAZOLE"
+  ]
+}

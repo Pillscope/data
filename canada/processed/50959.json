@@ -1,0 +1,28 @@
+{
+  "drug_code": "50959",
+  "din": "02231592",
+  "brand_name": "DIFFERIN",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "23-AUG-2007",
+  "active_ingredients": [
+    {
+      "name": "ADAPALENE",
+      "strength": "0.1",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "CREAM"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "GALDERMA CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "ADAPALENE"
+  ]
+}

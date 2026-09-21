@@ -1,0 +1,43 @@
+{
+  "drug_code": "50134",
+  "din": "02230861",
+  "brand_name": "SUNSCREEN LOTION ECRAN SOLAIRE 30",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "19-DEC-2017",
+  "active_ingredients": [
+    {
+      "name": "AVOBENZONE",
+      "strength": "2.5",
+      "unit": "%"
+    },
+    {
+      "name": "ENSULIZOLE",
+      "strength": "2",
+      "unit": "%"
+    },
+    {
+      "name": "OCTINOXATE",
+      "strength": "5.5",
+      "unit": "%"
+    },
+    {
+      "name": "ENZACAMENE",
+      "strength": "2",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "LOTION"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "LABORATOIRES CONFAB INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "COMBINATIONS OF PROTECTIVES AGAINST UV-RADIATION"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "drug_code": "90943",
+  "din": "02424770",
+  "brand_name": "ACTEMRA",
+  "class": "Human",
+  "descriptor": "4 SINGLE-USE PREFILLED SYRINGES",
+  "last_update": "09-JUN-2014",
+  "active_ingredients": [
+    {
+      "name": "TOCILIZUMAB",
+      "strength": "162",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "SUBCUTANEOUS"
+  ],
+  "companies": [
+    "HOFFMANN-LA ROCHE LIMITED"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "TOCILIZUMAB"
+  ]
+}

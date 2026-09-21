@@ -1,0 +1,28 @@
+{
+  "drug_code": "68767",
+  "din": "02244777",
+  "brand_name": "ODOR-EATERS",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "22-JUN-2016",
+  "active_ingredients": [
+    {
+      "name": "TOLNAFTATE",
+      "strength": "1",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "AEROSOL"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "BLISTEX CORPORATION"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "TOLNAFTATE"
+  ]
+}

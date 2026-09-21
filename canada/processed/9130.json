@@ -1,0 +1,53 @@
+{
+  "drug_code": "9130",
+  "din": "00771244",
+  "brand_name": "ACID CONCENTRATE 2135",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "28-MAY-2009",
+  "active_ingredients": [
+    {
+      "name": "SODIUM CHLORIDE",
+      "strength": "268.24",
+      "unit": "G"
+    },
+    {
+      "name": "DEXTROSE",
+      "strength": "89.99",
+      "unit": "G"
+    },
+    {
+      "name": "ACETIC ACID",
+      "strength": "8.11",
+      "unit": "G"
+    },
+    {
+      "name": "POTASSIUM CHLORIDE",
+      "strength": "6.71",
+      "unit": "G"
+    },
+    {
+      "name": "MAGNESIUM CHLORIDE",
+      "strength": "3.21",
+      "unit": "G"
+    },
+    {
+      "name": "CALCIUM CHLORIDE",
+      "strength": "7.74",
+      "unit": "G"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "DIALYSIS"
+  ],
+  "companies": [
+    "BAXTER CORPORATION"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "HEMODIALYTICS, CONCENTRATES"
+  ]
+}

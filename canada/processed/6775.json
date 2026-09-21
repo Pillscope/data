@@ -1,0 +1,28 @@
+{
+  "drug_code": "6775",
+  "din": "00691623",
+  "brand_name": "BICARBONATE CONCENTRATE D17000",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "11-JAN-2005",
+  "active_ingredients": [
+    {
+      "name": "SODIUM BICARBONATE",
+      "strength": "81.3",
+      "unit": "G"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "DIALYSIS"
+  ],
+  "companies": [
+    "BAXTER CORPORATION"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "HEMODIALYTICS, CONCENTRATES"
+  ]
+}

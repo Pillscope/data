@@ -1,0 +1,28 @@
+{
+  "drug_code": "88801",
+  "din": "02403196",
+  "brand_name": "ACT CLARITHROMYCIN XL",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "03-FEB-2015",
+  "active_ingredients": [
+    {
+      "name": "CLARITHROMYCIN",
+      "strength": "500",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET (EXTENDED-RELEASE)"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "ACTAVIS PHARMA COMPANY"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "CLARITHROMYCIN"
+  ]
+}

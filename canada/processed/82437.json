@@ -1,0 +1,28 @@
+{
+  "drug_code": "82437",
+  "din": "02338726",
+  "brand_name": "SANDOZ ROSUVASTATIN",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "03-APR-2012",
+  "active_ingredients": [
+    {
+      "name": "ROSUVASTATIN (ROSUVASTATIN CALCIUM)",
+      "strength": "5",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "SANDOZ CANADA INCORPORATED"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "ROSUVASTATIN"
+  ]
+}

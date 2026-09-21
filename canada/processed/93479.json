@@ -1,0 +1,28 @@
+{
+  "drug_code": "93479",
+  "din": "02448963",
+  "brand_name": "DERM OIL",
+  "class": "Human",
+  "descriptor": "EQUIVALENT TO 2% COAL TAR",
+  "last_update": "16-JAN-2018",
+  "active_ingredients": [
+    {
+      "name": "COAL TAR",
+      "strength": "10",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "DERMTEK PHARMA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "TARS"
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "drug_code": "67964",
+  "din": "02244021",
+  "brand_name": "ATACAND PLUS",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "15-OCT-2012",
+  "active_ingredients": [
+    {
+      "name": "CANDESARTAN CILEXETIL",
+      "strength": "16",
+      "unit": "MG"
+    },
+    {
+      "name": "HYDROCHLOROTHIAZIDE",
+      "strength": "12.5",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "ASTRAZENECA CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "CANDERSARTAN AND DIURETICS",
+    "CANDERSARTAN AND DIURETICS"
+  ]
+}

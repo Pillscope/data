@@ -1,0 +1,56 @@
+{
+  "drug_code": "12827",
+  "din": "01957341",
+  "brand_name": "V-LYTES HE (WATER SOLUBLE NUTRIENT, ELECTROLYTE POWDER FOR ORAL USE IN CALVES)",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "02-JUL-2008",
+  "active_ingredients": [
+    {
+      "name": "SODIUM CHLORIDE",
+      "strength": "4.675",
+      "unit": "G"
+    },
+    {
+      "name": "SODIUM ACETATE",
+      "strength": "13.125",
+      "unit": "G"
+    },
+    {
+      "name": "DEXTROSE",
+      "strength": "149.924",
+      "unit": "G"
+    },
+    {
+      "name": "POTASSIUM CHLORIDE",
+      "strength": "1.491",
+      "unit": "G"
+    },
+    {
+      "name": "GLYCINE",
+      "strength": "6.006",
+      "unit": "G"
+    },
+    {
+      "name": "CITRIC ACID",
+      "strength": "1.000",
+      "unit": "G"
+    },
+    {
+      "name": "POTASSIUM PHOSPHATE DIBASIC",
+      "strength": "1.742",
+      "unit": "G"
+    }
+  ],
+  "forms": [
+    "POWDER FOR SOLUTION"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "VETOQUINOL N A INC"
+  ],
+  "status": "APPROVED",
+  "atc": []
+}

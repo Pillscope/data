@@ -1,0 +1,38 @@
+{
+  "drug_code": "42377",
+  "din": "02093014",
+  "brand_name": "MARCELLE/MULTI-DEFENSE CREAM/CR\u00c3\u0088ME MULTI-D\u00c3\u0089FENSE/SPF 15 FPS",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "10-JUL-2013",
+  "active_ingredients": [
+    {
+      "name": "MERADIMATE",
+      "strength": "4.0",
+      "unit": "%"
+    },
+    {
+      "name": "ENSULIZOLE",
+      "strength": "2.0",
+      "unit": "%"
+    },
+    {
+      "name": "OCTINOXATE",
+      "strength": "7.5",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "CREAM"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "GROUPE MARCELLE INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "COMBINATIONS OF PROTECTIVES AGAINST UV-RADIATION"
+  ]
+}

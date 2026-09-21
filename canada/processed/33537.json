@@ -1,0 +1,28 @@
+{
+  "drug_code": "33537",
+  "din": "02222132",
+  "brand_name": "REGULAR STRENGTH NO ODOUR CREAM",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "18-AUG-2016",
+  "active_ingredients": [
+    {
+      "name": "TROLAMINE SALICYLATE",
+      "strength": "13.3",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "CREAM"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "CHURCH & DWIGHT CANADA CORP"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "PREPARATIONS WITH SALICYLIC ACID DERIVATIVES"
+  ]
+}

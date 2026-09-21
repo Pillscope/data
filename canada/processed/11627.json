@@ -1,0 +1,28 @@
+{
+  "drug_code": "11627",
+  "din": "00441635",
+  "brand_name": "APO-HYDRALAZINE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "12-OCT-2017",
+  "active_ingredients": [
+    {
+      "name": "HYDRALAZINE HYDROCHLORIDE",
+      "strength": "50",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "APOTEX INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "HYDRALAZINE"
+  ]
+}

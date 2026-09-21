@@ -1,0 +1,28 @@
+{
+  "drug_code": "507",
+  "din": "00021695",
+  "brand_name": "TEVA-PREDNISONE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "31-MAY-2016",
+  "active_ingredients": [
+    {
+      "name": "PREDNISONE",
+      "strength": "5",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "TEVA CANADA LIMITED"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "PREDNISONE"
+  ]
+}

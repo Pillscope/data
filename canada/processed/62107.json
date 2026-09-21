@@ -1,0 +1,28 @@
+{
+  "drug_code": "62107",
+  "din": "02238676",
+  "brand_name": "BACTI-STAT AE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "24-MAR-2006",
+  "active_ingredients": [
+    {
+      "name": "TRICLOSAN",
+      "strength": "0.3",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "LIQUID"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "ECOLAB CO"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "TRICLOSAN"
+  ]
+}

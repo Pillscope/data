@@ -1,0 +1,28 @@
+{
+  "drug_code": "49245",
+  "din": "02230406",
+  "brand_name": "CLOPIXOL DEPOT 200MG/ML",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "10-AUG-2007",
+  "active_ingredients": [
+    {
+      "name": "ZUCLOPENTHIXOL DECANOATE",
+      "strength": "200",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "INTRAMUSCULAR"
+  ],
+  "companies": [
+    "LUNDBECK CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "ZUCLOPENTHIXOL"
+  ]
+}

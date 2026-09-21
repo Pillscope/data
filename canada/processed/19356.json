@@ -1,0 +1,29 @@
+{
+  "drug_code": "19356",
+  "din": "02185377",
+  "brand_name": "BRETYLIUM TOSYLATE INJECTION USP",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "05-MAY-2015",
+  "active_ingredients": [
+    {
+      "name": "BRETYLIUM TOSYLATE",
+      "strength": "50",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "INTRAMUSCULAR",
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "SANDOZ CANADA INCORPORATED"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "BRETYLIUM TOSILATE"
+  ]
+}

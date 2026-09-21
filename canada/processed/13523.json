@@ -1,0 +1,28 @@
+{
+  "drug_code": "13523",
+  "din": "00786985",
+  "brand_name": "MICRO CR",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "05-MAY-2015",
+  "active_ingredients": [
+    {
+      "name": "CHROMIUM (CHROMIC CHLORIDE)",
+      "strength": "4",
+      "unit": "MCG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "SANDOZ CANADA INCORPORATED"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "OTHER MINERAL PRODUCTS"
+  ]
+}

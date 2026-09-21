@@ -1,0 +1,28 @@
+{
+  "drug_code": "3425",
+  "din": "00441767",
+  "brand_name": "SULFINPYRAZONE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "31-JUL-2015",
+  "active_ingredients": [
+    {
+      "name": "SULFINPYRAZONE",
+      "strength": "200",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "AA PHARMA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "SULFINPYRAZONE"
+  ]
+}

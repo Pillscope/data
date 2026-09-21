@@ -1,0 +1,28 @@
+{
+  "drug_code": "89735",
+  "din": "02412683",
+  "brand_name": "NAGLAZYME",
+  "class": "Human",
+  "descriptor": "5MG/5ML. SINGLE USE VIAL.",
+  "last_update": "19-JUN-2014",
+  "active_ingredients": [
+    {
+      "name": "Galsulfase",
+      "strength": "1",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "BIOMARIN PHARMACEUTICAL INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "GALSUFASE"
+  ]
+}

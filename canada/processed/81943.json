@@ -1,0 +1,34 @@
+{
+  "drug_code": "81943",
+  "din": "02333783",
+  "brand_name": "THYMOX AGROALIMENTAIRE",
+  "class": "Disinfectant",
+  "descriptor": "",
+  "last_update": "18-AUG-2011",
+  "active_ingredients": [
+    {
+      "name": "THYMOL",
+      "strength": "18.02",
+      "unit": "%"
+    },
+    {
+      "name": "CARVACROL",
+      "strength": "2.37",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "DISINFECTANT (Food Premises)",
+    "DISINFECTANT (Institutional/Industrial)"
+  ],
+  "companies": [
+    "LABORATOIRE M2 INC"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "TECHNICAL DISINFECTANTS"
+  ]
+}

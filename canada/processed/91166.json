@@ -1,0 +1,28 @@
+{
+  "drug_code": "91166",
+  "din": "02427133",
+  "brand_name": "MAR-CETIRIZINE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "26-OCT-2015",
+  "active_ingredients": [
+    {
+      "name": "CETIRIZINE HYDROCHLORIDE",
+      "strength": "10",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "MARCAN PHARMACEUTICALS INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "CETIRIZINE"
+  ]
+}

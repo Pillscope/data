@@ -1,0 +1,48 @@
+{
+  "drug_code": "42607",
+  "din": "02157292",
+  "brand_name": "BLISTEX DCT",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "17-MAR-2014",
+  "active_ingredients": [
+    {
+      "name": "CAMPHOR",
+      "strength": "0.38",
+      "unit": "%"
+    },
+    {
+      "name": "PHENOL",
+      "strength": "0.48",
+      "unit": "%"
+    },
+    {
+      "name": "MENTHOL",
+      "strength": "0.6",
+      "unit": "%"
+    },
+    {
+      "name": "OXYBENZONE",
+      "strength": "4.5",
+      "unit": "%"
+    },
+    {
+      "name": "OCTINOXATE",
+      "strength": "7.3",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "OINTMENT"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "BLISTEX CORPORATION"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "COMBINATIONS OF PROTECTIVES AGAINST UV-RADIATION"
+  ]
+}

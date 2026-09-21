@@ -1,0 +1,28 @@
+{
+  "drug_code": "93048",
+  "din": "02445247",
+  "brand_name": "SPOT CLEARING LOTION",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "24-JAN-2018",
+  "active_ingredients": [
+    {
+      "name": "BENZOYL PEROXIDE",
+      "strength": "2.5",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "GEL"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "ALUMIER EUROPE LTD"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "BENZOYL PEROXIDE"
+  ]
+}

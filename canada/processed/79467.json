@@ -1,0 +1,33 @@
+{
+  "drug_code": "79467",
+  "din": "02309076",
+  "brand_name": "TPR20",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "06-APR-2018",
+  "active_ingredients": [
+    {
+      "name": "MENTHOL",
+      "strength": "1",
+      "unit": "%"
+    },
+    {
+      "name": "LIDOCAINE HYDROCHLORIDE",
+      "strength": "5",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "CREAM"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "HUMN PHARMACEUTICALS INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "LIDOCAINE, COMBINATIONS"
+  ]
+}

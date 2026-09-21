@@ -1,0 +1,28 @@
+{
+  "drug_code": "89799",
+  "din": "02413310",
+  "brand_name": "SIGNIFOR",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "07-MAY-2014",
+  "active_ingredients": [
+    {
+      "name": "PASIREOTIDE (Pasireotide diaspartate)",
+      "strength": "0.9",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "SUBCUTANEOUS"
+  ],
+  "companies": [
+    "NOVARTIS PHARMACEUTICALS CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "Pasireotide"
+  ]
+}

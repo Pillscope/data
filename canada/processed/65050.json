@@ -1,0 +1,26 @@
+{
+  "drug_code": "65050",
+  "din": "02241414",
+  "brand_name": "ZENIQUIN",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "21-JUN-2017",
+  "active_ingredients": [
+    {
+      "name": "MARBOFLOXACIN",
+      "strength": "50",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "ZOETIS CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": []
+}

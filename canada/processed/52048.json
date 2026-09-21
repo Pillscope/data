@@ -1,0 +1,28 @@
+{
+  "drug_code": "52048",
+  "din": "02232570",
+  "brand_name": "AIROMIR",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "30-JUN-2015",
+  "active_ingredients": [
+    {
+      "name": "SALBUTAMOL (SALBUTAMOL SULFATE)",
+      "strength": "100",
+      "unit": "MCG"
+    }
+  ],
+  "forms": [
+    "METERED-DOSE AEROSOL"
+  ],
+  "routes": [
+    "INHALATION"
+  ],
+  "companies": [
+    "VALEANT CANADA LP/VALEANT CANADA S.E.C."
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "SALBUTAMOL"
+  ]
+}

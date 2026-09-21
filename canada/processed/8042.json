@@ -1,0 +1,28 @@
+{
+  "drug_code": "8042",
+  "din": "00727520",
+  "brand_name": "HEPARIN LEO 100UNIT/ML",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "18-JUL-2007",
+  "active_ingredients": [
+    {
+      "name": "HEPARIN SODIUM",
+      "strength": "100",
+      "unit": "UNIT"
+    }
+  ],
+  "forms": [
+    "LIQUID"
+  ],
+  "routes": [
+    "IRRIGATION"
+  ],
+  "companies": [
+    "LEO PHARMA INC"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "HEPARIN"
+  ]
+}

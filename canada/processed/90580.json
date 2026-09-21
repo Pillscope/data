@@ -1,0 +1,28 @@
+{
+  "drug_code": "90580",
+  "din": "02421208",
+  "brand_name": "ONRELTEA",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "27-MAY-2014",
+  "active_ingredients": [
+    {
+      "name": "BRIMONIDINE (BRIMONIDINE TARTRATE)",
+      "strength": "0.33",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "GEL"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "GALDERMA CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "BRIMONIDINE"
+  ]
+}

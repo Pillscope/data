@@ -1,0 +1,28 @@
+{
+  "drug_code": "43420",
+  "din": "02225190",
+  "brand_name": "ESTRACE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "10-DEC-2015",
+  "active_ingredients": [
+    {
+      "name": "ESTRADIOL",
+      "strength": "0.5",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "ACERUS PHARMACEUTICALS CORPORATION"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "ESTRADIOL"
+  ]
+}

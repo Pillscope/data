@@ -1,0 +1,28 @@
+{
+  "drug_code": "5939",
+  "din": "00125083",
+  "brand_name": "DILAUDID",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "10-FEB-2009",
+  "active_ingredients": [
+    {
+      "name": "HYDROMORPHONE HYDROCHLORIDE",
+      "strength": "2",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "PURDUE PHARMA"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "HYDROMORPHONE"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "drug_code": "83045",
+  "din": "02344998",
+  "brand_name": "PROHEX",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "22-JUL-2010",
+  "active_ingredients": [
+    {
+      "name": "CHLORHEXIDINE GLUCONATE",
+      "strength": "2",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "SHAMPOO"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "NOR VET SALES INC"
+  ],
+  "status": "MARKETED",
+  "atc": []
+}

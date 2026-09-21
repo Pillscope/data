@@ -1,0 +1,26 @@
+{
+  "drug_code": "67747",
+  "din": "02243809",
+  "brand_name": "CYGRO",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "05-MAY-2015",
+  "active_ingredients": [
+    {
+      "name": "MADURAMICIN AMMONIUM",
+      "strength": "10",
+      "unit": "G"
+    }
+  ],
+  "forms": [
+    "DRUG PREMIX"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "ZOETIS CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": []
+}

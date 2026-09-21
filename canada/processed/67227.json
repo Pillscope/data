@@ -1,0 +1,28 @@
+{
+  "drug_code": "67227",
+  "din": "02243324",
+  "brand_name": "APO-PROPAFENONE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "17-MAR-2008",
+  "active_ingredients": [
+    {
+      "name": "PROPAFENONE HYDROCHLORIDE",
+      "strength": "150",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "APOTEX INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "PROPAFENONE"
+  ]
+}

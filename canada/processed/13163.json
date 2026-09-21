@@ -1,0 +1,29 @@
+{
+  "drug_code": "13163",
+  "din": "01927698",
+  "brand_name": "NOZINAN INJ 25MG/ML",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "26-JUL-2010",
+  "active_ingredients": [
+    {
+      "name": "METHOTRIMEPRAZINE (METHOTRIMEPRAZINE HYDROCHLORIDE)",
+      "strength": "25",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "INTRAMUSCULAR",
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "SANOFI-AVENTIS CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "LEVOMEPROMAZINE"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "drug_code": "29542",
+  "din": "02106272",
+  "brand_name": "TRANDATE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "03-FEB-2010",
+  "active_ingredients": [
+    {
+      "name": "LABETALOL HYDROCHLORIDE",
+      "strength": "100",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "PALADIN LABS INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "LABETALOL"
+  ]
+}

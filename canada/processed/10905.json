@@ -1,0 +1,28 @@
+{
+  "drug_code": "10905",
+  "din": "00865400",
+  "brand_name": "APO-ALPRAZ",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "04-APR-2017",
+  "active_ingredients": [
+    {
+      "name": "ALPRAZOLAM",
+      "strength": ".5",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "APOTEX INC"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "ALPRAZOLAM"
+  ]
+}

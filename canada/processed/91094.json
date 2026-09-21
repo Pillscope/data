@@ -1,0 +1,28 @@
+{
+  "drug_code": "91094",
+  "din": "02426358",
+  "brand_name": "PRIVA-ESCITALOPRAM",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "10-DEC-2014",
+  "active_ingredients": [
+    {
+      "name": "ESCITALOPRAM (ESCITALOPRAM OXALATE)",
+      "strength": "20",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "PHARMAPAR INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "ESCITALOPRAM"
+  ]
+}

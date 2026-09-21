@@ -1,0 +1,28 @@
+{
+  "drug_code": "81890",
+  "din": "02333279",
+  "brand_name": "IXIARO",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "12-APR-2018",
+  "active_ingredients": [
+    {
+      "name": "INACT.JAPANESE ENCEPHAL VIRUS(ATTENUAT. STRAIN SA14-14-2 PRODUCED IN VERO CELLS)",
+      "strength": "6",
+      "unit": "MCG"
+    }
+  ],
+  "forms": [
+    "SUSPENSION"
+  ],
+  "routes": [
+    "INTRAMUSCULAR"
+  ],
+  "companies": [
+    "VALNEVA AUSTRIA GMBH"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "ENCEPHALITIS, JAPANESE, INACTIVATED, WHOLE VIRUS"
+  ]
+}

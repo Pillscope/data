@@ -1,0 +1,28 @@
+{
+  "drug_code": "65597",
+  "din": "02241927",
+  "brand_name": "RITUXAN",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "29-AUG-2005",
+  "active_ingredients": [
+    {
+      "name": "RITUXIMAB",
+      "strength": "10",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "HOFFMANN-LA ROCHE LIMITED"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "RITUXIMAB"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "drug_code": "87544",
+  "din": "02389975",
+  "brand_name": "TRETTEN",
+  "class": "Human",
+  "descriptor": "SINGLE USE GLASS VIAL 2500IU PER VIAL",
+  "last_update": "05-DEC-2014",
+  "active_ingredients": [
+    {
+      "name": "Catridecacog",
+      "strength": "15",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "POWDER FOR SOLUTION"
+  ],
+  "routes": [
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "NOVO NORDISK CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "Catridecacog"
+  ]
+}

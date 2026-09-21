@@ -1,0 +1,28 @@
+{
+  "drug_code": "2527",
+  "din": "00037869",
+  "brand_name": "POTASSIUM CHLORIDE FOR INJECTION CONCENTRATE USP",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "14-SEP-2017",
+  "active_ingredients": [
+    {
+      "name": "POTASSIUM CHLORIDE",
+      "strength": "149",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "PFIZER CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "POTASSIUM CHLORIDE"
+  ]
+}

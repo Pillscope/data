@@ -1,0 +1,26 @@
+{
+  "drug_code": "43923",
+  "din": "02137631",
+  "brand_name": "PLANATE",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "17-JAN-2017",
+  "active_ingredients": [
+    {
+      "name": "CLOPROSTENOL (CLOPROSTENOL SODIUM)",
+      "strength": "175",
+      "unit": "MCG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "INTRAMUSCULAR"
+  ],
+  "companies": [
+    "INTERVET CANADA CORP"
+  ],
+  "status": "APPROVED",
+  "atc": []
+}

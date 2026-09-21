@@ -1,0 +1,26 @@
+{
+  "drug_code": "61025",
+  "din": "02237680",
+  "brand_name": "METRICURE",
+  "class": "Veterinary",
+  "descriptor": "SUSPENSION.",
+  "last_update": "05-MAY-2015",
+  "active_ingredients": [
+    {
+      "name": "CEPHAPIRIN BENZATHINE",
+      "strength": "640",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SUSPENSION"
+  ],
+  "routes": [
+    "INTRAUTERINE"
+  ],
+  "companies": [
+    "INTERVET CANADA CORP"
+  ],
+  "status": "APPROVED",
+  "atc": []
+}

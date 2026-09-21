@@ -1,0 +1,33 @@
+{
+  "drug_code": "11624",
+  "din": "00761834",
+  "brand_name": "DOPAMINE HCL 3.2MG/ML DEXTROSE 5% INJ USP",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "28-JUL-2015",
+  "active_ingredients": [
+    {
+      "name": "DEXTROSE",
+      "strength": "50",
+      "unit": "MG"
+    },
+    {
+      "name": "DOPAMINE HYDROCHLORIDE",
+      "strength": "3.2",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "BAXTER CORPORATION"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "DOPAMINE"
+  ]
+}

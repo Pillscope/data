@@ -1,0 +1,28 @@
+{
+  "drug_code": "18500",
+  "din": "02166704",
+  "brand_name": "PROMETRIUM",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "15-MAY-2013",
+  "active_ingredients": [
+    {
+      "name": "PROGESTERONE",
+      "strength": "100",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "CAPSULE"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "MERCK CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "PROGESTERONE"
+  ]
+}

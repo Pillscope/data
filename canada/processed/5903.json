@@ -1,0 +1,27 @@
+{
+  "drug_code": "5903",
+  "din": "00611921",
+  "brand_name": "ASCORBIC ACID INJ 250MG/ML",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "14-SEP-2010",
+  "active_ingredients": [
+    {
+      "name": "VITAMIN C",
+      "strength": "250",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "LIQUID"
+  ],
+  "routes": [
+    "INTRAMUSCULAR",
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "DOMINION VETERINARY LABORATORIES LTD."
+  ],
+  "status": "MARKETED",
+  "atc": []
+}

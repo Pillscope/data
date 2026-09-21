@@ -1,0 +1,29 @@
+{
+  "drug_code": "4802",
+  "din": "00559253",
+  "brand_name": "PROSTIN VR STERILE SOLUTION",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "14-JUN-2007",
+  "active_ingredients": [
+    {
+      "name": "ALPROSTADIL",
+      "strength": "500",
+      "unit": "MCG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "INTRA-ARTERIAL",
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "PFIZER CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "ALPROSTADIL"
+  ]
+}

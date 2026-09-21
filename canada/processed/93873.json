@@ -1,0 +1,28 @@
+{
+  "drug_code": "93873",
+  "din": "02452359",
+  "brand_name": "NAT-GRANISETRON",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "20-MAY-2016",
+  "active_ingredients": [
+    {
+      "name": "GRANISETRON (GRANISETRON HYDROCHLORIDE)",
+      "strength": "1",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "NATCO PHARMA (CANADA) INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "GRANISETRON"
+  ]
+}

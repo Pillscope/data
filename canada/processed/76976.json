@@ -1,0 +1,28 @@
+{
+  "drug_code": "76976",
+  "din": "02284219",
+  "brand_name": "SCRUBBING BUBBLES BATHROOM CLEANER",
+  "class": "Disinfectant",
+  "descriptor": "",
+  "last_update": "16-MAY-2014",
+  "active_ingredients": [
+    {
+      "name": "SODIUM HYPOCHLORITE",
+      "strength": "3",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "DISINFECTANT (Domestic)"
+  ],
+  "companies": [
+    "S.C. JOHNSON AND SON LTD"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "TECHNICAL DISINFECTANTS"
+  ]
+}

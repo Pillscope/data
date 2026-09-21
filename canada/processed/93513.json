@@ -1,0 +1,26 @@
+{
+  "drug_code": "93513",
+  "din": "02449293",
+  "brand_name": "FLUKIVER",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "02-NOV-2017",
+  "active_ingredients": [
+    {
+      "name": "CLOSANTEL (CLOSANTEL SODIUM)",
+      "strength": "50",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SUSPENSION"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "ELANCO CANADA LIMITED"
+  ],
+  "status": "APPROVED",
+  "atc": []
+}

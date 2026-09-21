@@ -1,0 +1,28 @@
+{
+  "drug_code": "87600",
+  "din": "02390582",
+  "brand_name": "KETOROLAC TROMETHAMINE INJECTION USP",
+  "class": "Human",
+  "descriptor": "SINGLE-USE",
+  "last_update": "12-JUN-2017",
+  "active_ingredients": [
+    {
+      "name": "KETOROLAC TROMETHAMINE",
+      "strength": "30",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "INTRAMUSCULAR"
+  ],
+  "companies": [
+    "PFIZER CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "KETOROLAC"
+  ]
+}

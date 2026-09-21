@@ -1,0 +1,26 @@
+{
+  "drug_code": "76334",
+  "din": "02277727",
+  "brand_name": "CLINACIN",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "24-OCT-2013",
+  "active_ingredients": [
+    {
+      "name": "CLINDAMYCIN (CLINDAMYCIN HYDROCHLORIDE)",
+      "strength": "75",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "CHANELLE PHARMACEUTICALS MANUFACTURING LIMITED"
+  ],
+  "status": "APPROVED",
+  "atc": []
+}

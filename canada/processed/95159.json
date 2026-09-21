@@ -1,0 +1,28 @@
+{
+  "drug_code": "95159",
+  "din": "02463504",
+  "brand_name": "OZANEX",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "22-JAN-2018",
+  "active_ingredients": [
+    {
+      "name": "OZENOXACIN",
+      "strength": "1",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "CREAM"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "FERRER INTERNACIONAL S.A."
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "OZENOXACIN"
+  ]
+}

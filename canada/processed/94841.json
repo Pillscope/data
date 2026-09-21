@@ -1,0 +1,28 @@
+{
+  "drug_code": "94841",
+  "din": "02460904",
+  "brand_name": "VIBERZI",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "02-JUN-2017",
+  "active_ingredients": [
+    {
+      "name": "ELUXADOLINE",
+      "strength": "100",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "ALLERGAN PHARMA CO."
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "ELUXADOLINE"
+  ]
+}

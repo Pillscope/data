@@ -1,0 +1,28 @@
+{
+  "drug_code": "72226",
+  "din": "02247917",
+  "brand_name": "PMS-RAMIPRIL",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "21-JUL-2010",
+  "active_ingredients": [
+    {
+      "name": "RAMIPRIL",
+      "strength": "2.5",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "CAPSULE"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "PHARMASCIENCE INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "RAMIPRIL"
+  ]
+}

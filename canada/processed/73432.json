@@ -1,0 +1,28 @@
+{
+  "drug_code": "73432",
+  "din": "02249499",
+  "brand_name": "ANDROGEL",
+  "class": "Human",
+  "descriptor": "1% - METERED DOSE PUMP",
+  "last_update": "10-APR-2018",
+  "active_ingredients": [
+    {
+      "name": "TESTOSTERONE",
+      "strength": "12.5",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "GEL"
+  ],
+  "routes": [
+    "TRANSDERMAL"
+  ],
+  "companies": [
+    "BGP PHARMA ULC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "TESTOSTERONE"
+  ]
+}

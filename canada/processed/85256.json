@@ -1,0 +1,28 @@
+{
+  "drug_code": "85256",
+  "din": "02367726",
+  "brand_name": "VALSARTAN",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "29-JUN-2011",
+  "active_ingredients": [
+    {
+      "name": "VALSARTAN",
+      "strength": "40",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "PRO DOC LIMITEE"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "VALSARTAN"
+  ]
+}

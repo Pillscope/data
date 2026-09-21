@@ -1,0 +1,28 @@
+{
+  "drug_code": "94330",
+  "din": "02456419",
+  "brand_name": "CINQAIR",
+  "class": "Human",
+  "descriptor": "SINGLE USE VIAL",
+  "last_update": "16-OCT-2017",
+  "active_ingredients": [
+    {
+      "name": "RESLIZUMAB",
+      "strength": "10",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "TEVA CANADA LIMITED"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "RESLIZUMAB"
+  ]
+}

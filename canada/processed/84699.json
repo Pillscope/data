@@ -1,0 +1,28 @@
+{
+  "drug_code": "84699",
+  "din": "02361957",
+  "brand_name": "DOCETAXEL INJECTION USP",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "19-JUN-2017",
+  "active_ingredients": [
+    {
+      "name": "DOCETAXEL",
+      "strength": "10",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "PFIZER CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "DOCETAXEL"
+  ]
+}

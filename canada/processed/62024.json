@@ -1,0 +1,28 @@
+{
+  "drug_code": "62024",
+  "din": "02238596",
+  "brand_name": "MYLAN-ZOPICLONE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "28-AUG-2012",
+  "active_ingredients": [
+    {
+      "name": "ZOPICLONE",
+      "strength": "7.5",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "MYLAN PHARMACEUTICALS ULC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "ZOPICLONE"
+  ]
+}

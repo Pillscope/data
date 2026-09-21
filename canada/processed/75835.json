@@ -1,0 +1,28 @@
+{
+  "drug_code": "75835",
+  "din": "02272849",
+  "brand_name": "IBUPROFEN TABLETS 200 MG",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "05-APR-2012",
+  "active_ingredients": [
+    {
+      "name": "IBUPROFEN",
+      "strength": "200",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "VITA HEALTH PRODUCTS INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "IBUPROFEN"
+  ]
+}

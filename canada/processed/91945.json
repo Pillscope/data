@@ -1,0 +1,28 @@
+{
+  "drug_code": "91945",
+  "din": "02435179",
+  "brand_name": "AURO-VALGANCICLOVIR",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "27-MAY-2015",
+  "active_ingredients": [
+    {
+      "name": "VALGANCICLOVIR (VALGANCICLOVIR HYDROCHLORIDE)",
+      "strength": "450",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "AURO PHARMA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "VALGANCICLOVIR"
+  ]
+}

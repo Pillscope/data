@@ -1,0 +1,33 @@
+{
+  "drug_code": "70493",
+  "din": "02246329",
+  "brand_name": "DISINFECTANT SPRAY",
+  "class": "Disinfectant",
+  "descriptor": "",
+  "last_update": "08-JUL-2013",
+  "active_ingredients": [
+    {
+      "name": "O-PHENYLPHENOL",
+      "strength": "0.25",
+      "unit": "%"
+    },
+    {
+      "name": "BENZALKONIUM CHLORIDE",
+      "strength": "0.33",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "AEROSOL"
+  ],
+  "routes": [
+    "DISINFECTANT (Domestic)"
+  ],
+  "companies": [
+    "H.J. SUTTON INDUSTRIES LTD."
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "TECHNICAL DISINFECTANTS"
+  ]
+}

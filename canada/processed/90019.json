@@ -1,0 +1,28 @@
+{
+  "drug_code": "90019",
+  "din": "02415607",
+  "brand_name": "NUCYNTA EXTENDED-RELEASE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "12-JAN-2018",
+  "active_ingredients": [
+    {
+      "name": "Tapentadol (Tapentadol Hydrochloride)",
+      "strength": "200",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET (EXTENDED-RELEASE)"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "ENDO VENTURES LTD"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "TAPENTADOL"
+  ]
+}

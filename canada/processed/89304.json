@@ -1,0 +1,26 @@
+{
+  "drug_code": "89304",
+  "din": "02408317",
+  "brand_name": "BACITRACIN MD",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "22-JAN-2018",
+  "active_ingredients": [
+    {
+      "name": "BACITRACIN (BACITRACIN METHYLENE DISALICYLATE)",
+      "strength": "110",
+      "unit": "G"
+    }
+  ],
+  "forms": [
+    "DRUG PREMIX"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "BIO AGRI MIX LP"
+  ],
+  "status": "APPROVED",
+  "atc": []
+}

@@ -1,0 +1,28 @@
+{
+  "drug_code": "62746",
+  "din": "02239281",
+  "brand_name": "ENVIROSYSTEMS ETHYLENE OXIDE STERILANT",
+  "class": "Disinfectant",
+  "descriptor": "",
+  "last_update": "15-FEB-2008",
+  "active_ingredients": [
+    {
+      "name": "ETHYLENE OXIDE",
+      "strength": "100",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "GAS"
+  ],
+  "routes": [
+    "DISINFECTANT (Medical Instruments)"
+  ],
+  "companies": [
+    "STERIS CORPORATION"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "TECHNICAL DISINFECTANTS"
+  ]
+}

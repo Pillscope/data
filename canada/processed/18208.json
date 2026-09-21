@@ -1,0 +1,28 @@
+{
+  "drug_code": "18208",
+  "din": "02131471",
+  "brand_name": "VIROBEX-P",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "29-APR-2015",
+  "active_ingredients": [
+    {
+      "name": "CHLOROXYLENOL",
+      "strength": "0.6",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "LIQUID"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "GERMIPHENE CORPORATION"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "CHLOROXYLENOL"
+  ]
+}

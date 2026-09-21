@@ -1,0 +1,30 @@
+{
+  "drug_code": "85279",
+  "din": "02367963",
+  "brand_name": "SOLU-MEDROL",
+  "class": "Human",
+  "descriptor": "SINGLE-DOSE ACT-O-VIAL WITHOUT PRESERVATIVE. SUPPLIED WITH DILUENT.",
+  "last_update": "21-MAY-2014",
+  "active_ingredients": [
+    {
+      "name": "METHYLPREDNISOLONE (METHYLPREDNISOLONE SODIUM SUCCINATE)",
+      "strength": "500",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "KIT",
+    "POWDER FOR SOLUTION"
+  ],
+  "routes": [
+    "INTRAMUSCULAR",
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "PFIZER CANADA INC"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "METHYLPREDNISOLONE"
+  ]
+}

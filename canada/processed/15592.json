@@ -1,0 +1,28 @@
+{
+  "drug_code": "15592",
+  "din": "02070987",
+  "brand_name": "TRIMIPRAMINE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "17-JUL-2013",
+  "active_ingredients": [
+    {
+      "name": "TRIMIPRAMINE (TRIMIPRAMINE MALEATE)",
+      "strength": "75",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "CAPSULE"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "AA PHARMA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "TRIMIPRAMINE"
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "drug_code": "9164",
+  "din": "00721891",
+  "brand_name": "EPINEPHRINE INJECTION USP",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "16-MAR-2018",
+  "active_ingredients": [
+    {
+      "name": "EPINEPHRINE",
+      "strength": "1",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "INTRACARDIAC",
+    "INTRAMUSCULAR",
+    "INTRATRACHEAL",
+    "INTRAVENOUS",
+    "SUBCUTANEOUS"
+  ],
+  "companies": [
+    "PFIZER CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "EPINEPHRINE"
+  ]
+}

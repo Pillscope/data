@@ -1,0 +1,28 @@
+{
+  "drug_code": "84767",
+  "din": "02362678",
+  "brand_name": "MINT-AMLODIPINE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "22-JAN-2013",
+  "active_ingredients": [
+    {
+      "name": "AMLODIPINE (AMLODIPINE BESYLATE)",
+      "strength": "10",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "MINT PHARMACEUTICALS INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "AMLODIPINE"
+  ]
+}

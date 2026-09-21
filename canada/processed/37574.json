@@ -1,0 +1,28 @@
+{
+  "drug_code": "37574",
+  "din": "02228602",
+  "brand_name": "KINEVAC (SINCALIDE) FOR INJECTION 5MCG/VIAL",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "11-AUG-2011",
+  "active_ingredients": [
+    {
+      "name": "SINCALIDE",
+      "strength": "5",
+      "unit": "MCG"
+    }
+  ],
+  "forms": [
+    "POWDER FOR SOLUTION"
+  ],
+  "routes": [
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "BRACCO IMAGING CANADA"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "SINCALIDE"
+  ]
+}

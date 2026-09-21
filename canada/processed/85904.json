@@ -1,0 +1,28 @@
+{
+  "drug_code": "85904",
+  "din": "02373823",
+  "brand_name": "JAMP-COLCHICINE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "25-OCT-2011",
+  "active_ingredients": [
+    {
+      "name": "COLCHICINE",
+      "strength": "0.6",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "JAMP PHARMA CORPORATION"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "COLCHICINE"
+  ]
+}

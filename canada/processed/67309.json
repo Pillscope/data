@@ -1,0 +1,29 @@
+{
+  "drug_code": "67309",
+  "din": "02243401",
+  "brand_name": "EPREX STERILE SOLUTION 6000 IU/0.6 ML",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "11-FEB-2008",
+  "active_ingredients": [
+    {
+      "name": "EPOETIN ALFA",
+      "strength": "6000",
+      "unit": "UNIT"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "INTRAVENOUS",
+    "SUBCUTANEOUS"
+  ],
+  "companies": [
+    "JANSSEN INC"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "ERYTHROPOIETIN"
+  ]
+}

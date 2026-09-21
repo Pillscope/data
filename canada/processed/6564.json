@@ -1,0 +1,46 @@
+{
+  "drug_code": "6564",
+  "din": "00648124",
+  "brand_name": "LEG SOLUTION",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "11-JAN-2005",
+  "active_ingredients": [
+    {
+      "name": "IODINE",
+      "strength": "6.5",
+      "unit": "G"
+    },
+    {
+      "name": "THYMOL",
+      "strength": "500",
+      "unit": "MG"
+    },
+    {
+      "name": "MENTHOL",
+      "strength": "2",
+      "unit": "G"
+    },
+    {
+      "name": "METHYL SALICYLATE",
+      "strength": "2",
+      "unit": "G"
+    },
+    {
+      "name": "POTASSIUM IODIDE",
+      "strength": "5",
+      "unit": "G"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "UNIVET PHARMACEUTICALS LTD."
+  ],
+  "status": "MARKETED",
+  "atc": []
+}

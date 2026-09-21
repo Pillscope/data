@@ -1,0 +1,31 @@
+{
+  "drug_code": "5887",
+  "din": "00612952",
+  "brand_name": "VITAMIN A D INJ",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "08-JUL-2004",
+  "active_ingredients": [
+    {
+      "name": "VITAMIN A",
+      "strength": "500000",
+      "unit": "UNIT"
+    },
+    {
+      "name": "VITAMIN D",
+      "strength": "75000",
+      "unit": "UNIT"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "INTRAMUSCULAR"
+  ],
+  "companies": [
+    "PROFESSIONAL VETERINARY LABORATORIES"
+  ],
+  "status": "MARKETED",
+  "atc": []
+}

@@ -1,0 +1,28 @@
+{
+  "drug_code": "18744",
+  "din": "02148463",
+  "brand_name": "MINIMS PILOCARPINE NITRATE 2%",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "14-OCT-2016",
+  "active_ingredients": [
+    {
+      "name": "PILOCARPINE NITRATE",
+      "strength": "2",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "DROPS"
+  ],
+  "routes": [
+    "OPHTHALMIC"
+  ],
+  "companies": [
+    "VALEANT CANADA LP/VALEANT CANADA S.E.C."
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "PILOCARPINE"
+  ]
+}

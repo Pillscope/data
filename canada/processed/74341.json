@@ -1,0 +1,28 @@
+{
+  "drug_code": "74341",
+  "din": "02258188",
+  "brand_name": "PMS-ONDANSETRON",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "14-SEP-2006",
+  "active_ingredients": [
+    {
+      "name": "ONDANSETRON (ONDANSETRON HYDROCHLORIDE DIHYDRATE)",
+      "strength": "4",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "PHARMASCIENCE INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "ONDANSETRON"
+  ]
+}

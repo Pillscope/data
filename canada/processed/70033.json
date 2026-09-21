@@ -1,0 +1,28 @@
+{
+  "drug_code": "70033",
+  "din": "02245913",
+  "brand_name": "KINERET",
+  "class": "Human",
+  "descriptor": "100MG PER SYRINGE  SINGLE-USE, PRESERVATIVE-FREE PREFILLED SYRINGES",
+  "last_update": "15-MAY-2017",
+  "active_ingredients": [
+    {
+      "name": "ANAKINRA",
+      "strength": "150",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "SUBCUTANEOUS"
+  ],
+  "companies": [
+    "SWEDISH ORPHAN BIOVITRUM AB (PUBL)"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "ANAKINRA"
+  ]
+}

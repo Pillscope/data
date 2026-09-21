@@ -1,0 +1,28 @@
+{
+  "drug_code": "11918",
+  "din": "01931032",
+  "brand_name": "ROBITUSSIN MUCUS & PHLEGM",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "02-DEC-2015",
+  "active_ingredients": [
+    {
+      "name": "GUAIFENESIN",
+      "strength": "100",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SYRUP"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "PFIZER CONSUMER HEALTHCARE A DIVISION OF PFIZER CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "GUAIFENESIN"
+  ]
+}

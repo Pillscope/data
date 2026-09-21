@@ -1,0 +1,29 @@
+{
+  "drug_code": "14598",
+  "din": "01948954",
+  "brand_name": "PHARMALGEN YELLOW JACKET VENOM PROTEIN",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "18-MAR-2009",
+  "active_ingredients": [
+    {
+      "name": "VESPULA SPP VENOM PROTEIN EXTRACT",
+      "strength": "1.1",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "POWDER FOR SOLUTION"
+  ],
+  "routes": [
+    "INTRADERMAL",
+    "SUBCUTANEOUS"
+  ],
+  "companies": [
+    "ALK - ABELLO A/S"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "INSECTS"
+  ]
+}

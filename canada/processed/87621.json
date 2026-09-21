@@ -1,0 +1,28 @@
+{
+  "drug_code": "87621",
+  "din": "02390817",
+  "brand_name": "SANDOZ PREGABALIN",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "12-FEB-2015",
+  "active_ingredients": [
+    {
+      "name": "PREGABALIN",
+      "strength": "25",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "CAPSULE"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "SANDOZ CANADA INCORPORATED"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "PREGABALIN"
+  ]
+}

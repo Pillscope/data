@@ -1,0 +1,27 @@
+{
+  "drug_code": "83603",
+  "din": "02350823",
+  "brand_name": "DEXACORT 2",
+  "class": "Veterinary",
+  "descriptor": "DEXAMETHASONE INJECTION",
+  "last_update": "21-MAR-2012",
+  "active_ingredients": [
+    {
+      "name": "DEXAMETHASONE (DEXAMETHASONE SODIUM PHOSPHATE)",
+      "strength": "2.0",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "INTRAMUSCULAR",
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "RAFTER 8 PRODUCTS INC"
+  ],
+  "status": "MARKETED",
+  "atc": []
+}

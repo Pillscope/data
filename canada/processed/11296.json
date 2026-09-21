@@ -1,0 +1,34 @@
+{
+  "drug_code": "11296",
+  "din": "01909657",
+  "brand_name": "FORMULA 333 LIQ",
+  "class": "Disinfectant",
+  "descriptor": "",
+  "last_update": "14-FEB-2007",
+  "active_ingredients": [
+    {
+      "name": "CYCLOPENTAMINE HYDROCHLORIDE",
+      "strength": "2.25",
+      "unit": "%"
+    },
+    {
+      "name": "BENZALKONIUM CHLORIDE",
+      "strength": "2.25",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "LIQUID"
+  ],
+  "routes": [
+    "DISINFECTANT (Food Premises)",
+    "DISINFECTANT (Hospital/HC Facilities)"
+  ],
+  "companies": [
+    "NYPOWER INDUSTRIES LTD."
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "TECHNICAL DISINFECTANTS"
+  ]
+}

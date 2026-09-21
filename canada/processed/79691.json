@@ -1,0 +1,41 @@
+{
+  "drug_code": "79691",
+  "din": "02311348",
+  "brand_name": "PRO-OTIC EAR CLEANSING/DRYING SOLUTION",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "16-OCT-2009",
+  "active_ingredients": [
+    {
+      "name": "SALICYLIC ACID",
+      "strength": "0.10",
+      "unit": "%"
+    },
+    {
+      "name": "BENZOIC ACID",
+      "strength": "0.15",
+      "unit": "%"
+    },
+    {
+      "name": "ALCOHOL DENATURED",
+      "strength": "10.00",
+      "unit": "%"
+    },
+    {
+      "name": "LACTIC ACID",
+      "strength": "1.78",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "OTIC"
+  ],
+  "companies": [
+    "NOR VET SALES INC"
+  ],
+  "status": "MARKETED",
+  "atc": []
+}

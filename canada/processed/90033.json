@@ -1,0 +1,28 @@
+{
+  "drug_code": "90033",
+  "din": "02415739",
+  "brand_name": "APO-TRAVOPROST Z",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "10-OCT-2014",
+  "active_ingredients": [
+    {
+      "name": "TRAVOPROST",
+      "strength": "0.004",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "OPHTHALMIC"
+  ],
+  "companies": [
+    "APOTEX INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "TRAVOPROST"
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "drug_code": "84739",
+  "din": "02362384",
+  "brand_name": "FLUAD",
+  "class": "Human",
+  "descriptor": "SINGLE-DOSE GLASS PREFILLED 1ML SYRINGE CONTAINING 1 DOSE OF 0.5ML",
+  "last_update": "15-SEP-2017",
+  "active_ingredients": [
+    {
+      "name": "HAEMAGGLUTININ-STRAIN A(H1N1)",
+      "strength": "15",
+      "unit": "MCG"
+    },
+    {
+      "name": "HAEMAGGLUTININ-STRAIN B",
+      "strength": "15",
+      "unit": "MCG"
+    },
+    {
+      "name": "HAEMAGGLUTININ-STRAIN A(H3N2)",
+      "strength": "15",
+      "unit": "MCG"
+    }
+  ],
+  "forms": [
+    "SUSPENSION"
+  ],
+  "routes": [
+    "INTRAMUSCULAR"
+  ],
+  "companies": [
+    "SEQIRUS UK LIMITED"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "INFLUENZA, INACTIVATED, SPLIT VIRUS OR SURFACE ANTIGEN"
+  ]
+}

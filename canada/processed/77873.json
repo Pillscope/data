@@ -1,0 +1,28 @@
+{
+  "drug_code": "77873",
+  "din": "02293366",
+  "brand_name": "APO-GABAPENTIN",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "22-AUG-2008",
+  "active_ingredients": [
+    {
+      "name": "GABAPENTIN",
+      "strength": "800",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "APOTEX INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "GABAPENTIN"
+  ]
+}

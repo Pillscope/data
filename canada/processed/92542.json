@@ -1,0 +1,26 @@
+{
+  "drug_code": "92542",
+  "din": "02441055",
+  "brand_name": "ALFAGLANDIN C",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "09-MAY-2016",
+  "active_ingredients": [
+    {
+      "name": "CLOPROSTENOL (CLOPROSTENOL SODIUM)",
+      "strength": "250",
+      "unit": "MCG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "INTRAMUSCULAR"
+  ],
+  "companies": [
+    "ALFASAN INTERNATIONAL B.V."
+  ],
+  "status": "APPROVED",
+  "atc": []
+}

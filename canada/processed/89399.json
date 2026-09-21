@@ -1,0 +1,29 @@
+{
+  "drug_code": "89399",
+  "din": "02409275",
+  "brand_name": "DOXORUBICIN HYDROCHLORIDE INJECTION",
+  "class": "Human",
+  "descriptor": "10MG/5ML, 50MG/25ML, & 200MG/100ML VIALS",
+  "last_update": "05-JUN-2014",
+  "active_ingredients": [
+    {
+      "name": "DOXORUBICIN HYDROCHLORIDE",
+      "strength": "2",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "INTRAVENOUS",
+    "INTRAVESICAL"
+  ],
+  "companies": [
+    "TEVA CANADA LIMITED"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "DOXORUBICIN"
+  ]
+}

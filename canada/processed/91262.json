@@ -1,0 +1,28 @@
+{
+  "drug_code": "91262",
+  "din": "02428148",
+  "brand_name": "AURO-FINASTERIDE 1MG",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "20-FEB-2015",
+  "active_ingredients": [
+    {
+      "name": "FINASTERIDE",
+      "strength": "1",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "AURO PHARMA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "FINASTERIDE"
+  ]
+}

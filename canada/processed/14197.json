@@ -1,0 +1,53 @@
+{
+  "drug_code": "14197",
+  "din": "02028700",
+  "brand_name": "TRI-CYCLEN TABLETS - 21-DAY",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "30-MAY-2006",
+  "active_ingredients": [
+    {
+      "name": "NORGESTIMATE",
+      "strength": "0.18",
+      "unit": "MG"
+    },
+    {
+      "name": "NORGESTIMATE",
+      "strength": "0.215",
+      "unit": "MG"
+    },
+    {
+      "name": "NORGESTIMATE",
+      "strength": "0.25",
+      "unit": "MG"
+    },
+    {
+      "name": "ETHINYL ESTRADIOL",
+      "strength": "0.035",
+      "unit": "MG"
+    },
+    {
+      "name": "ETHINYL ESTRADIOL",
+      "strength": "0.035",
+      "unit": "MG"
+    },
+    {
+      "name": "ETHINYL ESTRADIOL",
+      "strength": "0.035",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "JANSSEN INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "NORGESTIMATE AND ESTROGEN"
+  ]
+}

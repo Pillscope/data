@@ -1,0 +1,28 @@
+{
+  "drug_code": "18330",
+  "din": "02017776",
+  "brand_name": "PRIMAQUINE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "18-APR-2009",
+  "active_ingredients": [
+    {
+      "name": "PRIMAQUINE PHOSPHATE",
+      "strength": "26.3",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "SANOFI-AVENTIS CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "PRIMAQUINE"
+  ]
+}

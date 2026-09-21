@@ -1,0 +1,28 @@
+{
+  "drug_code": "13476",
+  "din": "01981501",
+  "brand_name": "BOTOX",
+  "class": "Human",
+  "descriptor": "50U/50ALLERGAN U VIAL, 100U/100ALLERGAN U VIAL, 200U/200ALLERGAN U VIAL",
+  "last_update": "26-AUG-2015",
+  "active_ingredients": [
+    {
+      "name": "OnabotulinumtoxinA",
+      "strength": "100",
+      "unit": "UNIT"
+    }
+  ],
+  "forms": [
+    "POWDER FOR SOLUTION"
+  ],
+  "routes": [
+    "INTRAMUSCULAR"
+  ],
+  "companies": [
+    "ALLERGAN INC"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "BOTULINUM TOXIN"
+  ]
+}

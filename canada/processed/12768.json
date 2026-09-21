@@ -1,0 +1,28 @@
+{
+  "drug_code": "12768",
+  "din": "01964461",
+  "brand_name": "METRICIDE 28",
+  "class": "Disinfectant",
+  "descriptor": "",
+  "last_update": "17-APR-2015",
+  "active_ingredients": [
+    {
+      "name": "GLUTARAL",
+      "strength": "2.5",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "LIQUID"
+  ],
+  "routes": [
+    "DISINFECTANT (Medical Instruments)"
+  ],
+  "companies": [
+    "METREX RESEARCH"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "TECHNICAL DISINFECTANTS"
+  ]
+}

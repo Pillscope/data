@@ -1,0 +1,29 @@
+{
+  "drug_code": "1215",
+  "din": "00224405",
+  "brand_name": "KETALAR",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "14-MAY-2007",
+  "active_ingredients": [
+    {
+      "name": "KETAMINE (KETAMINE HYDROCHLORIDE)",
+      "strength": "50",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "INTRAMUSCULAR",
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "ERFA CANADA 2012 INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "KETAMINE"
+  ]
+}

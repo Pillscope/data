@@ -1,0 +1,29 @@
+{
+  "drug_code": "93680",
+  "din": "02450658",
+  "brand_name": "FRAXIPARINE",
+  "class": "Human",
+  "descriptor": "1 ML (9500 IU) PREFILLED SYRINGE - VIOLET",
+  "last_update": "21-SEP-2017",
+  "active_ingredients": [
+    {
+      "name": "NADROPARIN CALCIUM",
+      "strength": "9500",
+      "unit": "UNIT"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "INTRAVENOUS",
+    "SUBCUTANEOUS"
+  ],
+  "companies": [
+    "ASPEN PHARMACARE CANADA INC."
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "NADROPARIN"
+  ]
+}

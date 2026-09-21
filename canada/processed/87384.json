@@ -1,0 +1,28 @@
+{
+  "drug_code": "87384",
+  "din": "02388316",
+  "brand_name": "XIAFLEX",
+  "class": "Human",
+  "descriptor": "SINGLE USE VIALS",
+  "last_update": "13-OCT-2017",
+  "active_ingredients": [
+    {
+      "name": "Collagenase Clostridium Histolyticum",
+      "strength": "0.9",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "POWDER FOR SOLUTION"
+  ],
+  "routes": [
+    "INTRALESIONAL"
+  ],
+  "companies": [
+    "ENDO VENTURES LTD"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "COLLAGENASE CLOSTRIDIUM HISTOLYTICUM"
+  ]
+}

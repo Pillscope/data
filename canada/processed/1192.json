@@ -1,0 +1,28 @@
+{
+  "drug_code": "1192",
+  "din": "00004596",
+  "brand_name": "IMURAN",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "27-FEB-2017",
+  "active_ingredients": [
+    {
+      "name": "AZATHIOPRINE",
+      "strength": "50",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "ASPEN PHARMACARE CANADA INC."
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "AZATHIOPRINE"
+  ]
+}

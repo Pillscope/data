@@ -1,0 +1,28 @@
+{
+  "drug_code": "30557",
+  "din": "02121999",
+  "brand_name": "BRONCHOPHAN EXPECTORANT (SANS SUCROSE)",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "22-OCT-2012",
+  "active_ingredients": [
+    {
+      "name": "GUAIFENESIN",
+      "strength": "100",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SYRUP"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "LABORATOIRE ATLAS INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "GUAIFENESIN"
+  ]
+}

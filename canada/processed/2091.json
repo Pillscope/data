@@ -1,0 +1,28 @@
+{
+  "drug_code": "2091",
+  "din": "00312711",
+  "brand_name": "APO CHLORPROPAMIDE TAB 250MG",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "07-FEB-2008",
+  "active_ingredients": [
+    {
+      "name": "CHLORPROPAMIDE",
+      "strength": "250",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "APOTEX INC"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "CHLORPROPAMIDE"
+  ]
+}

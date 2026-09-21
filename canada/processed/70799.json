@@ -1,0 +1,26 @@
+{
+  "drug_code": "70799",
+  "din": "02246611",
+  "brand_name": "DRONCIT (PRAZIQUANTE) 9% ORAL PASTE FOR HORSES",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "12-JUL-2017",
+  "active_ingredients": [
+    {
+      "name": "PRAZIQUANTEL",
+      "strength": "9",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "PASTE"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "BAYER INC., ANIMAL HEALTH"
+  ],
+  "status": "APPROVED",
+  "atc": []
+}

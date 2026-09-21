@@ -1,0 +1,28 @@
+{
+  "drug_code": "19553",
+  "din": "02162695",
+  "brand_name": "CYTOVENE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "12-JAN-2018",
+  "active_ingredients": [
+    {
+      "name": "GANCICLOVIR (GANCICLOVIR SODIUM)",
+      "strength": "500",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "POWDER FOR SOLUTION"
+  ],
+  "routes": [
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "HOFFMANN-LA ROCHE LIMITED"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "GANCICLOVIR"
+  ]
+}

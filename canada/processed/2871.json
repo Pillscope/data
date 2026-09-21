@@ -1,0 +1,57 @@
+{
+  "drug_code": "2871",
+  "din": "00419141",
+  "brand_name": "RACE VITE INJ",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "23-MAR-2005",
+  "active_ingredients": [
+    {
+      "name": "NICOTINAMIDE",
+      "strength": "750",
+      "unit": "MG"
+    },
+    {
+      "name": "THIAMINE HYDROCHLORIDE",
+      "strength": "200",
+      "unit": "MG"
+    },
+    {
+      "name": "PYRIDOXINE HYDROCHLORIDE",
+      "strength": "50",
+      "unit": "MG"
+    },
+    {
+      "name": "VITAMIN B2 (RIBOFLAVIN 5'-PHOSPHATE SODIUM)",
+      "strength": "30",
+      "unit": "MG"
+    },
+    {
+      "name": "VITAMIN C (VITAMIN C)",
+      "strength": "1",
+      "unit": "G"
+    },
+    {
+      "name": "DEXPANTHENOL",
+      "strength": "50",
+      "unit": "MG"
+    },
+    {
+      "name": "VITAMIN B12",
+      "strength": "10",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "LIQUID"
+  ],
+  "routes": [
+    "INTRAMUSCULAR",
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "DOMINION VETERINARY LABORATORIES LTD."
+  ],
+  "status": "MARKETED",
+  "atc": []
+}

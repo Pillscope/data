@@ -1,0 +1,29 @@
+{
+  "drug_code": "85756",
+  "din": "02372444",
+  "brand_name": "NON STANDARDIZED ALLERGENIC EXTRACTS - POLLENS",
+  "class": "Human",
+  "descriptor": "THE POTENCY IS EXPRESSED IN PNU (PROTEIN NITROGEN UNITS) PER ML UP TO AND INCLUDING UPPER LIMIT 40,000 PNU/ML",
+  "last_update": "04-DEC-2013",
+  "active_ingredients": [
+    {
+      "name": "POLLEN",
+      "strength": "40000",
+      "unit": "UNIT"
+    }
+  ],
+  "forms": [
+    "LIQUID"
+  ],
+  "routes": [
+    "INTRADERMAL",
+    "SUBCUTANEOUS"
+  ],
+  "companies": [
+    "GREER LABORATORIES INC"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "VARIOUS"
+  ]
+}

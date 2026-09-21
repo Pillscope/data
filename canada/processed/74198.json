@@ -1,0 +1,28 @@
+{
+  "drug_code": "74198",
+  "din": "02256762",
+  "brand_name": "TIAZAC XC",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "24-MAR-2014",
+  "active_ingredients": [
+    {
+      "name": "DILTIAZEM HYDROCHLORIDE",
+      "strength": "300",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET (EXTENDED-RELEASE)"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "VALEANT CANADA LP/VALEANT CANADA S.E.C."
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "DILTIAZEM"
+  ]
+}

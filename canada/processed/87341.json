@@ -1,0 +1,28 @@
+{
+  "drug_code": "87341",
+  "din": "02387832",
+  "brand_name": "QUETIAPINE TABLETS",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "07-OCT-2014",
+  "active_ingredients": [
+    {
+      "name": "QUETIAPINE (QUETIAPINE FUMARATE)",
+      "strength": "300",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "ACCORD HEALTHCARE INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "QUETIAPINE"
+  ]
+}

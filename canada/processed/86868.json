@@ -1,0 +1,29 @@
+{
+  "drug_code": "86868",
+  "din": "02382873",
+  "brand_name": "MIDAZOLAM INJECTION SDZ",
+  "class": "Human",
+  "descriptor": "PRESERVATIVE FREE",
+  "last_update": "14-JAN-2013",
+  "active_ingredients": [
+    {
+      "name": "MIDAZOLAM",
+      "strength": "1",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "INTRAMUSCULAR",
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "SANDOZ CANADA INCORPORATED"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "MIDAZOLAM"
+  ]
+}

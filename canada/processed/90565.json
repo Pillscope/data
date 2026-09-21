@@ -1,0 +1,26 @@
+{
+  "drug_code": "90565",
+  "din": "02421062",
+  "brand_name": "SURMAX 100 PREMIX",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "02-FEB-2018",
+  "active_ingredients": [
+    {
+      "name": "Avilamycin",
+      "strength": "100",
+      "unit": "G"
+    }
+  ],
+  "forms": [
+    "DRUG PREMIX"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "ELANCO CANADA LIMITED"
+  ],
+  "status": "APPROVED",
+  "atc": []
+}

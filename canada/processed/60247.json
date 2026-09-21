@@ -1,0 +1,28 @@
+{
+  "drug_code": "60247",
+  "din": "02236953",
+  "brand_name": "SEROQUEL TAB 200MG",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "03-MAR-2007",
+  "active_ingredients": [
+    {
+      "name": "QUETIAPINE (QUETIAPINE FUMARATE)",
+      "strength": "200",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "ASTRAZENECA CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "QUETIAPINE"
+  ]
+}

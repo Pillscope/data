@@ -1,0 +1,39 @@
+{
+  "drug_code": "42486",
+  "din": "02035286",
+  "brand_name": "ORABASE PASTE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "27-AUG-2012",
+  "active_ingredients": [
+    {
+      "name": "GELATIN",
+      "strength": "13.3",
+      "unit": "%"
+    },
+    {
+      "name": "PECTIN",
+      "strength": "13.3",
+      "unit": "%"
+    },
+    {
+      "name": "SODIUM CARBOXYMETHYL CELLULOSE",
+      "strength": "13.3",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "PASTE"
+  ],
+  "routes": [
+    "ORAL",
+    "TOPICAL"
+  ],
+  "companies": [
+    "CONVATEC CANADA LTD"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "VARIOUS"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "drug_code": "13780",
+  "din": "01937235",
+  "brand_name": "PMS TRAZODONE HCL TAB 100MG",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "28-FEB-2006",
+  "active_ingredients": [
+    {
+      "name": "TRAZODONE HYDROCHLORIDE",
+      "strength": "100",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "PHARMASCIENCE INC"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "TRAZODONE"
+  ]
+}

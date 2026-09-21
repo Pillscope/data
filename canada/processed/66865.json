@@ -1,0 +1,51 @@
+{
+  "drug_code": "66865",
+  "din": "02243019",
+  "brand_name": "CAL-PASTE",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "09-AUG-2017",
+  "active_ingredients": [
+    {
+      "name": "COBALT SULFATE",
+      "strength": "14.7",
+      "unit": "MG"
+    },
+    {
+      "name": "CALCIUM PHOSPHATE (DIBASIC)",
+      "strength": "177.5",
+      "unit": "G"
+    },
+    {
+      "name": "MAGNESIUM SULFATE",
+      "strength": "20",
+      "unit": "G"
+    },
+    {
+      "name": "POTASSIUM CHLORIDE",
+      "strength": "38",
+      "unit": "G"
+    },
+    {
+      "name": "CALCIUM CHLORIDE",
+      "strength": "5",
+      "unit": "G"
+    },
+    {
+      "name": "COPPER SULFATE",
+      "strength": "119.5",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "PASTE"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "CAN-VET ANIMAL HEALTH SUPPLIES LTD."
+  ],
+  "status": "MARKETED",
+  "atc": []
+}

@@ -1,0 +1,28 @@
+{
+  "drug_code": "78827",
+  "din": "02302977",
+  "brand_name": "APO-PIOGLITAZONE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "19-DEC-2007",
+  "active_ingredients": [
+    {
+      "name": "PIOGLITAZONE (PIOGLITAZONE HYDROCHLORIDE)",
+      "strength": "45",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "APOTEX INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "PIOGLITAZONE"
+  ]
+}

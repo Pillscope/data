@@ -1,0 +1,29 @@
+{
+  "drug_code": "81124",
+  "din": "02325896",
+  "brand_name": "PEPTO-BISMOL WITH INSTACOOL",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "01-FEB-2010",
+  "active_ingredients": [
+    {
+      "name": "BISMUTH SUBSALICYLATE",
+      "strength": "262",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET (CHEWABLE)"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "PROCTER & GAMBLE INC"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "BISMUTH PREPARATIONS",
+    "BISMUTH PREPARATIONS"
+  ]
+}

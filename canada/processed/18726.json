@@ -1,0 +1,26 @@
+{
+  "drug_code": "18726",
+  "din": "02031124",
+  "brand_name": "STENOROL",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "05-MAY-2015",
+  "active_ingredients": [
+    {
+      "name": "HALOFUGINONE (HALOFUGINONE HYDROBROMIDE)",
+      "strength": "6",
+      "unit": "G"
+    }
+  ],
+  "forms": [
+    "DRUG PREMIX"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "HUVEPHARMA EOOD"
+  ],
+  "status": "APPROVED",
+  "atc": []
+}

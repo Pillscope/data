@@ -1,0 +1,28 @@
+{
+  "drug_code": "94000",
+  "din": "02453452",
+  "brand_name": "APO-OLMESARTAN",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "01-JUN-2017",
+  "active_ingredients": [
+    {
+      "name": "OLMESARTAN MEDOXOMIL",
+      "strength": "20",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "APOTEX INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "OLMESARTAN MEDOXOMIL"
+  ]
+}

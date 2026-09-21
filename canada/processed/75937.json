@@ -1,0 +1,28 @@
+{
+  "drug_code": "75937",
+  "din": "02273918",
+  "brand_name": "BENAZEPRIL",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "20-AUG-2012",
+  "active_ingredients": [
+    {
+      "name": "BENAZEPRIL HYDROCHLORIDE",
+      "strength": "20",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "AA PHARMA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "BENAZEPRIL"
+  ]
+}

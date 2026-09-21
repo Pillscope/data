@@ -1,0 +1,28 @@
+{
+  "drug_code": "15909",
+  "din": "01919458",
+  "brand_name": "CYTOMEL",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "01-MAY-2013",
+  "active_ingredients": [
+    {
+      "name": "LIOTHYRONINE (LIOTHYRONINE SODIUM)",
+      "strength": "5",
+      "unit": "MCG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "PFIZER CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "LIOTHYRONINE SODIUM"
+  ]
+}

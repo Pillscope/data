@@ -1,0 +1,28 @@
+{
+  "drug_code": "12746",
+  "din": "01947958",
+  "brand_name": "DUVOID TABLETS 10 MG",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "02-NOV-2009",
+  "active_ingredients": [
+    {
+      "name": "BETHANECHOL CHLORIDE",
+      "strength": "10",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "PALADIN LABS INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "BETHANECHOL"
+  ]
+}

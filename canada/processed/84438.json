@@ -1,0 +1,34 @@
+{
+  "drug_code": "84438",
+  "din": "02359359",
+  "brand_name": "ACECIDE-C HIGH-LEVEL DISINFECTANT AND STERILANT",
+  "class": "Disinfectant",
+  "descriptor": "",
+  "last_update": "11-JUL-2011",
+  "active_ingredients": [
+    {
+      "name": "HYDROGEN PEROXIDE",
+      "strength": "8.3",
+      "unit": "%"
+    },
+    {
+      "name": "PERACETIC ACID",
+      "strength": "6.8",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "LIQUID"
+  ],
+  "routes": [
+    "DISINFECTANT (Medical Instruments)",
+    "DISINFECTANT (Hospital/HC Facilities)"
+  ],
+  "companies": [
+    "BEST SANITIZERS INC"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "TECHNICAL DISINFECTANTS"
+  ]
+}

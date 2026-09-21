@@ -1,0 +1,34 @@
+{
+  "drug_code": "94324",
+  "din": "02456370",
+  "brand_name": "EPCLUSA",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "03-JAN-2018",
+  "active_ingredients": [
+    {
+      "name": "SOFOSBUVIR",
+      "strength": "400",
+      "unit": "MG"
+    },
+    {
+      "name": "VELPATASVIR",
+      "strength": "100",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "GILEAD SCIENCES CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "SOFOSBUVIR AND VELPATASVIR",
+    "SOFOSBUVIR AND VELPATASVIR"
+  ]
+}

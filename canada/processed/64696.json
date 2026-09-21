@@ -1,0 +1,28 @@
+{
+  "drug_code": "64696",
+  "din": "02241093",
+  "brand_name": "TEMODAL",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "29-MAR-2012",
+  "active_ingredients": [
+    {
+      "name": "TEMOZOLOMIDE",
+      "strength": "5",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "CAPSULE"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "MERCK CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "TEMOZOLOMIDE"
+  ]
+}

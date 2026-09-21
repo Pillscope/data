@@ -1,0 +1,28 @@
+{
+  "drug_code": "68893",
+  "din": "02244895",
+  "brand_name": "IMURAN",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "26-APR-2018",
+  "active_ingredients": [
+    {
+      "name": "AZATHIOPRINE (AZATHIOPRINE SODIUM)",
+      "strength": "50",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "POWDER FOR SOLUTION"
+  ],
+  "routes": [
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "ASPEN PHARMACARE CANADA INC."
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "AZATHIOPRINE"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "drug_code": "31506",
+  "din": "02142805",
+  "brand_name": "JUNIOR STRENGTH ACETAMINOPHEN TABLETS-160MG",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "27-NOV-2013",
+  "active_ingredients": [
+    {
+      "name": "ACETAMINOPHEN",
+      "strength": "160",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET (CHEWABLE)"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "VITA HEALTH PRODUCTS INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "ACETAMINOPHEN (PARACETAMOL)"
+  ]
+}

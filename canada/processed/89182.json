@@ -1,0 +1,28 @@
+{
+  "drug_code": "89182",
+  "din": "02407124",
+  "brand_name": "APO-GLICLAZIDE MR",
+  "class": "Human",
+  "descriptor": "MODIFIED RELEASE BREAKABLE TABLETS",
+  "last_update": "15-APR-2015",
+  "active_ingredients": [
+    {
+      "name": "GLICLAZIDE",
+      "strength": "60",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET (EXTENDED-RELEASE)"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "APOTEX INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "GLICLAZIDE"
+  ]
+}

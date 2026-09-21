@@ -1,0 +1,28 @@
+{
+  "drug_code": "95561",
+  "din": "02467224",
+  "brand_name": "OCREVUS",
+  "class": "Human",
+  "descriptor": "SINGLE-USE VIAL",
+  "last_update": "16-OCT-2017",
+  "active_ingredients": [
+    {
+      "name": "OCRELIZUMAB",
+      "strength": "30",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "HOFFMANN-LA ROCHE LIMITED"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "OCRELIZUMAB"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "drug_code": "87223",
+  "din": "02386666",
+  "brand_name": "SEACALPHYX",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "12-MAR-2016",
+  "active_ingredients": [
+    {
+      "name": "SODIUM THIOSULFATE",
+      "strength": "250",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "SEAFORD PHARMACEUTICALS INC"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "THIOSULPHATE"
+  ]
+}

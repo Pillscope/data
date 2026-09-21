@@ -1,0 +1,28 @@
+{
+  "drug_code": "18227",
+  "din": "02103087",
+  "brand_name": "BENTYLOL TABLET 10MG",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "13-NOV-2012",
+  "active_ingredients": [
+    {
+      "name": "DICYCLOMINE HYDROCHLORIDE",
+      "strength": "10",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "APTALIS PHARMA CANADA ULC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "DICYCLOVERINE"
+  ]
+}

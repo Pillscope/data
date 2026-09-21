@@ -1,0 +1,28 @@
+{
+  "drug_code": "76997",
+  "din": "02284383",
+  "brand_name": "SANDOZ AMLODIPINE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "23-OCT-2015",
+  "active_ingredients": [
+    {
+      "name": "AMLODIPINE (AMLODIPINE BESYLATE)",
+      "strength": "5",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "SANDOZ CANADA INCORPORATED"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "AMLODIPINE"
+  ]
+}

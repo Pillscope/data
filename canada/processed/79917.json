@@ -1,0 +1,28 @@
+{
+  "drug_code": "79917",
+  "din": "02313677",
+  "brand_name": "PRO-TOPIRAMATE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "27-JAN-2009",
+  "active_ingredients": [
+    {
+      "name": "TOPIRAMATE",
+      "strength": "200",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "PRO DOC LIMITEE"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "TOPIRAMATE"
+  ]
+}

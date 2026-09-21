@@ -1,0 +1,28 @@
+{
+  "drug_code": "43718",
+  "din": "02083345",
+  "brand_name": "PMS-TIMOLOL",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "06-FEB-2018",
+  "active_ingredients": [
+    {
+      "name": "TIMOLOL (TIMOLOL MALEATE)",
+      "strength": "0.5",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "OPHTHALMIC"
+  ],
+  "companies": [
+    "PHARMASCIENCE INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "TIMOLOL"
+  ]
+}

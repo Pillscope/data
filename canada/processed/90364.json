@@ -1,0 +1,35 @@
+{
+  "drug_code": "90364",
+  "din": "02419106",
+  "brand_name": "COMBIVENT RESPIMAT",
+  "class": "Human",
+  "descriptor": "FOR ORAL INHALATION. FOR USE ONLY WITH COMBIVENT RESPIMAT INHALER",
+  "last_update": "27-MAY-2015",
+  "active_ingredients": [
+    {
+      "name": "SALBUTAMOL (SALBUTAMOL SULFATE)",
+      "strength": "100",
+      "unit": "MCG"
+    },
+    {
+      "name": "IPRATROPIUM BROMIDE (IPRATROPIUM BROMIDE MONOHYDRATE)",
+      "strength": "20",
+      "unit": "MCG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "INHALATION"
+  ],
+  "companies": [
+    "BOEHRINGER INGELHEIM (CANADA) LTD LTEE"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "SALBUTAMOL AND IPRATROPIUM BROMIDE",
+    "SALBUTAMOL AND IPRATROPIUM BROMIDE",
+    "SALBUTAMOL AND IPRATROPIUM BROMIDE"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "drug_code": "77653",
+  "din": "02291150",
+  "brand_name": "APO-CILAZAPRIL",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "15-SEP-2009",
+  "active_ingredients": [
+    {
+      "name": "CILAZAPRIL (CILAZAPRIL MONOHYDRATE)",
+      "strength": "5",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "APOTEX INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "CILAZAPRIL"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "drug_code": "81290",
+  "din": "02327589",
+  "brand_name": "ACT OLANZAPINE ODT",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "19-MAY-2015",
+  "active_ingredients": [
+    {
+      "name": "OLANZAPINE",
+      "strength": "15",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET (ORALLY DISINTEGRATING)"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "ACTAVIS PHARMA COMPANY"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "OLANZAPINE"
+  ]
+}

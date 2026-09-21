@@ -1,0 +1,28 @@
+{
+  "drug_code": "89331",
+  "din": "02408570",
+  "brand_name": "MYLAN-PANTOPRAZOLE T",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "10-JUL-2017",
+  "active_ingredients": [
+    {
+      "name": "PANTOPRAZOLE (Pantoprazole magnesium hemipentahydrate)",
+      "strength": "40",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET (DELAYED-RELEASE)"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "MYLAN PHARMACEUTICALS ULC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "PANTOPRAZOLE"
+  ]
+}

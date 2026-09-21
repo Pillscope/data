@@ -1,0 +1,33 @@
+{
+  "drug_code": "68470",
+  "din": "02244494",
+  "brand_name": "TEVA-LEVOCARBIDOPA",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "05-MAY-2015",
+  "active_ingredients": [
+    {
+      "name": "CARBIDOPA",
+      "strength": "10",
+      "unit": "MG"
+    },
+    {
+      "name": "LEVODOPA",
+      "strength": "100",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "TEVA CANADA LIMITED"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "LEVODOPA AND DECARBOXYLASE INHIBITOR"
+  ]
+}

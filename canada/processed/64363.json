@@ -1,0 +1,28 @@
+{
+  "drug_code": "64363",
+  "din": "02240774",
+  "brand_name": "APO-CEFADROXIL",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "30-SEP-2010",
+  "active_ingredients": [
+    {
+      "name": "CEFADROXIL",
+      "strength": "500",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "CAPSULE"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "APOTEX INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "CEFADROXIL"
+  ]
+}

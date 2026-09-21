@@ -1,0 +1,33 @@
+{
+  "drug_code": "95106",
+  "din": "02463156",
+  "brand_name": "TRIPLE ESSENTIALS",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "12-OCT-2017",
+  "active_ingredients": [
+    {
+      "name": "OCTISALATE",
+      "strength": "4.4",
+      "unit": "%"
+    },
+    {
+      "name": "OCTINOXATE",
+      "strength": "6.6",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "STICK"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "BLISTEX CORPORATION"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "COMBINATIONS OF PROTECTIVES AGAINST UV-RADIATION"
+  ]
+}

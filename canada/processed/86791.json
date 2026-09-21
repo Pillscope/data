@@ -1,0 +1,33 @@
+{
+  "drug_code": "86791",
+  "din": "02382040",
+  "brand_name": "SOLUPREP SWAB",
+  "class": "Human",
+  "descriptor": "1.6 ML AND 5.2 ML SINGLE UNIT DOSES",
+  "last_update": "12-DEC-2012",
+  "active_ingredients": [
+    {
+      "name": "CHLORHEXIDINE GLUCONATE",
+      "strength": "2",
+      "unit": "%"
+    },
+    {
+      "name": "ISOPROPYL ALCOHOL",
+      "strength": "70",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "SWAB"
+  ],
+  "routes": [
+    "TOPICAL (HOSPITAL/HC FACILITIES)"
+  ],
+  "companies": [
+    "3M CANADA COMPANY"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "CHLORHEXIDINE, COMBINATIONS"
+  ]
+}

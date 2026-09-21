@@ -1,0 +1,28 @@
+{
+  "drug_code": "70993",
+  "din": "02246793",
+  "brand_name": "SPIRIVA",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "02-NOV-2010",
+  "active_ingredients": [
+    {
+      "name": "TIOTROPIUM (TIOTROPIUM BROMIDE MONOHYDRATE)",
+      "strength": "18",
+      "unit": "MCG"
+    }
+  ],
+  "forms": [
+    "CAPSULE"
+  ],
+  "routes": [
+    "INHALATION"
+  ],
+  "companies": [
+    "BOEHRINGER INGELHEIM (CANADA) LTD LTEE"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "TIOTROPIUM BROMIDE"
+  ]
+}

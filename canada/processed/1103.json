@@ -1,0 +1,43 @@
+{
+  "drug_code": "1103",
+  "din": "00221570",
+  "brand_name": "CERUMOL",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "29-APR-2015",
+  "active_ingredients": [
+    {
+      "name": "CHLOROBUTANOL",
+      "strength": "5",
+      "unit": "%"
+    },
+    {
+      "name": "DICHLOROBENZENE",
+      "strength": "2",
+      "unit": "%"
+    },
+    {
+      "name": "OIL OF TURPENTINE",
+      "strength": "10",
+      "unit": "%"
+    },
+    {
+      "name": "PEANUT OIL",
+      "strength": "57",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "DROPS"
+  ],
+  "routes": [
+    "OTIC"
+  ],
+  "companies": [
+    "THORNTON & ROSS LTD"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "INDIFFERENT PREPARATIONS"
+  ]
+}

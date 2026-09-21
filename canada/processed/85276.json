@@ -1,0 +1,28 @@
+{
+  "drug_code": "85276",
+  "din": "02367939",
+  "brand_name": "X3 ON-THE-GO FIRST AID TOPICAL ANALGESIC ITCH RELIEF SPRAY",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "10-MAR-2017",
+  "active_ingredients": [
+    {
+      "name": "DIPHENHYDRAMINE HYDROCHLORIDE",
+      "strength": "2.0",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "SPRAY"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "NATURAL ESSENTIALS INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "DIPHENHYDRAMINE"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "drug_code": "90348",
+  "din": "02418940",
+  "brand_name": "APO-CELECOXIB",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "19-NOV-2014",
+  "active_ingredients": [
+    {
+      "name": "CELECOXIB",
+      "strength": "200",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "CAPSULE"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "APOTEX INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "CELECOXIB"
+  ]
+}

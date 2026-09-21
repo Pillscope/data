@@ -1,0 +1,30 @@
+{
+  "drug_code": "69229",
+  "din": "02245214",
+  "brand_name": "VITAMIN C",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "18-SEP-2015",
+  "active_ingredients": [
+    {
+      "name": "VITAMIN C (ASCORBIC ACID)",
+      "strength": "500",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "INTRAMUSCULAR",
+    "INTRAVENOUS",
+    "SUBCUTANEOUS"
+  ],
+  "companies": [
+    "MYLAN PHARMACEUTICALS ULC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "ASCORBIC ACID (VIT C)"
+  ]
+}

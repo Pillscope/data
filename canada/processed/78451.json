@@ -1,0 +1,33 @@
+{
+  "drug_code": "78451",
+  "din": "02299119",
+  "brand_name": "40(MEQ)MMOL/L POTASSIUM CHLORIDE IN/ET 0.9% CHLORURE DE SODIUM/SODIUM CHLORIDE INJECTION USP",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "15-JUL-2008",
+  "active_ingredients": [
+    {
+      "name": "POTASSIUM CHLORIDE",
+      "strength": "0.3",
+      "unit": "G"
+    },
+    {
+      "name": "SODIUM CHLORIDE",
+      "strength": "0.9",
+      "unit": "G"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "HOSPIRA HEALTHCARE CORPORATION"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "ELECTROLYTES"
+  ]
+}

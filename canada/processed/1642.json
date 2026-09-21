@@ -1,0 +1,28 @@
+{
+  "drug_code": "1642",
+  "din": "00262595",
+  "brand_name": "NOVO-RYTHRO ESTOLATE SUSPENSION",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "24-AUG-2015",
+  "active_ingredients": [
+    {
+      "name": "ERYTHROMYCIN (ERYTHROMYCIN ESTOLATE)",
+      "strength": "250",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SUSPENSION"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "TEVA CANADA LIMITED"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "ERYTHROMYCIN"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "drug_code": "64092",
+  "din": "02240521",
+  "brand_name": "MAXALT",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "14-JAN-2008",
+  "active_ingredients": [
+    {
+      "name": "RIZATRIPTAN (RIZATRIPTAN BENZOATE)",
+      "strength": "10",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "MERCK CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "RIZATRIPTAN"
+  ]
+}

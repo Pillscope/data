@@ -1,0 +1,38 @@
+{
+  "drug_code": "88993",
+  "din": "02405105",
+  "brand_name": "SMASHBOX CAMERA READY BB CREAM EYES SPF 15",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "01-NOV-2013",
+  "active_ingredients": [
+    {
+      "name": "ZINC OXIDE",
+      "strength": "1.5",
+      "unit": "%"
+    },
+    {
+      "name": "TITANIUM DIOXIDE",
+      "strength": "1.4",
+      "unit": "%"
+    },
+    {
+      "name": "OCTINOXATE",
+      "strength": "4.1",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "CREAM"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "SMASHBOX COSMETICS DIST"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "COMBINATIONS OF PROTECTIVES AGAINST UV-RADIATION"
+  ]
+}

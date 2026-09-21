@@ -1,0 +1,28 @@
+{
+  "drug_code": "77458",
+  "din": "02289199",
+  "brand_name": "SANDOZ LISINOPRIL",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "14-JAN-2010",
+  "active_ingredients": [
+    {
+      "name": "LISINOPRIL (LISINOPRIL DIHYDRATE)",
+      "strength": "5",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "SANDOZ CANADA INCORPORATED"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "LISINOPRIL"
+  ]
+}

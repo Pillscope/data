@@ -1,0 +1,38 @@
+{
+  "drug_code": "89070",
+  "din": "02405954",
+  "brand_name": "ROC RETIN-OX CORREXION 5-IN-1 SKIN PERFECTOR BB CREAM SPF 25",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "01-APR-2014",
+  "active_ingredients": [
+    {
+      "name": "TITANIUM DIOXIDE",
+      "strength": "6.6",
+      "unit": "%"
+    },
+    {
+      "name": "OCTISALATE",
+      "strength": "3.0",
+      "unit": "%"
+    },
+    {
+      "name": "OCTINOXATE",
+      "strength": "7.0",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "CREAM"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "JOHNSON & JOHNSON INC"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "COMBINATIONS OF PROTECTIVES AGAINST UV-RADIATION"
+  ]
+}

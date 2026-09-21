@@ -1,0 +1,28 @@
+{
+  "drug_code": "7129",
+  "din": "00363677",
+  "brand_name": "TEVA-HALOPERIDOL",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "23-SEP-2016",
+  "active_ingredients": [
+    {
+      "name": "HALOPERIDOL",
+      "strength": "1",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "TEVA CANADA LIMITED"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "HALOPERIDOL"
+  ]
+}

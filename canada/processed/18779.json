@@ -1,0 +1,28 @@
+{
+  "drug_code": "18779",
+  "din": "02167794",
+  "brand_name": "APO-SOTALOL - TAB 160MG",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "08-FEB-2008",
+  "active_ingredients": [
+    {
+      "name": "SOTALOL HYDROCHLORIDE",
+      "strength": "160",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "APOTEX INC"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "SOTALOL"
+  ]
+}

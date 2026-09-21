@@ -1,0 +1,28 @@
+{
+  "drug_code": "74862",
+  "din": "02263238",
+  "brand_name": "CIPRALEX   -10MG",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "28-FEB-2007",
+  "active_ingredients": [
+    {
+      "name": "ESCITALOPRAM (ESCITALOPRAM OXALATE)",
+      "strength": "10",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "LUNDBECK CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "ESCITALOPRAM"
+  ]
+}

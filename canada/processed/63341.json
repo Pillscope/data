@@ -1,0 +1,34 @@
+{
+  "drug_code": "63341",
+  "din": "02239853",
+  "brand_name": "ALLEGRA-D",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "15-OCT-2008",
+  "active_ingredients": [
+    {
+      "name": "PSEUDOEPHEDRINE HYDROCHLORIDE",
+      "strength": "120",
+      "unit": "MG"
+    },
+    {
+      "name": "FEXOFENADINE HYDROCHLORIDE",
+      "strength": "60",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET (EXTENDED-RELEASE)"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "SANOFI-AVENTIS CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "PSEUDOEPHEDRINE, COMBINATIONS",
+    "PSEUDOEPHEDRINE, COMBINATIONS"
+  ]
+}

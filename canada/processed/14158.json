@@ -1,0 +1,29 @@
+{
+  "drug_code": "14158",
+  "din": "02032384",
+  "brand_name": "ISOFLURANE USP",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "09-APR-2015",
+  "active_ingredients": [
+    {
+      "name": "ISOFLURANE",
+      "strength": "99.9",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "LIQUID"
+  ],
+  "routes": [
+    "INHALATION",
+    "ORAL"
+  ],
+  "companies": [
+    "ABBVIE CORPORATION"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "ISOFLURANE"
+  ]
+}

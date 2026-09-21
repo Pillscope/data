@@ -1,0 +1,28 @@
+{
+  "drug_code": "13990",
+  "din": "02031116",
+  "brand_name": "LAMISIL TAB 250MG",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "08-SEP-2006",
+  "active_ingredients": [
+    {
+      "name": "TERBINAFINE (TERBINAFINE HYDROCHLORIDE)",
+      "strength": "250",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "NOVARTIS PHARMACEUTICALS CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "TERBINAFINE"
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "drug_code": "62057",
+  "din": "02238629",
+  "brand_name": "ICE-O-POULTICE",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "08-DEC-2015",
+  "active_ingredients": [
+    {
+      "name": "ZINC OXIDE",
+      "strength": "0.2",
+      "unit": "%"
+    },
+    {
+      "name": "SODIUM BENTONITE",
+      "strength": "27.25",
+      "unit": "%"
+    },
+    {
+      "name": "ALUMINUM SILICATE, ANHYDROUS",
+      "strength": "13.62",
+      "unit": "%"
+    },
+    {
+      "name": "ACETIC ACID",
+      "strength": "0.74",
+      "unit": "%"
+    },
+    {
+      "name": "SODIUM BORATE",
+      "strength": "3.44",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "PASTE"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "HAWTHORNE PRODUCTS INC."
+  ],
+  "status": "MARKETED",
+  "atc": []
+}

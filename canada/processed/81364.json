@@ -1,0 +1,26 @@
+{
+  "drug_code": "81364",
+  "din": "02328135",
+  "brand_name": "BMD SOLUBLE",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "21-DEC-2017",
+  "active_ingredients": [
+    {
+      "name": "BACITRACIN (BACITRACIN METHYLENE DISALICYLATE)",
+      "strength": "440",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "POWDER FOR SOLUTION"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "ZOETIS CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": []
+}

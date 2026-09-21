@@ -1,0 +1,28 @@
+{
+  "drug_code": "72404",
+  "din": "02248082",
+  "brand_name": "RIVA-VERAPAMIL SR",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "21-SEP-2005",
+  "active_ingredients": [
+    {
+      "name": "VERAPAMIL HYDROCHLORIDE",
+      "strength": "240",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET (EXTENDED-RELEASE)"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "LABORATOIRE RIVA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "VERAPAMIL"
+  ]
+}

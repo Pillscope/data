@@ -1,0 +1,28 @@
+{
+  "drug_code": "80351",
+  "din": "02318008",
+  "brand_name": "TRAVATAN Z",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "17-FEB-2017",
+  "active_ingredients": [
+    {
+      "name": "TRAVOPROST",
+      "strength": "0.004",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "OPHTHALMIC"
+  ],
+  "companies": [
+    "NOVARTIS PHARMACEUTICALS CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "TRAVOPROST"
+  ]
+}

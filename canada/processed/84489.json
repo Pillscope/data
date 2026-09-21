@@ -1,0 +1,33 @@
+{
+  "drug_code": "84489",
+  "din": "02359928",
+  "brand_name": "STERISPORIN",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "13-JUN-2017",
+  "active_ingredients": [
+    {
+      "name": "POLYMYXIN B SULFATE",
+      "strength": "10000",
+      "unit": "UNIT"
+    },
+    {
+      "name": "BACITRACIN ZINC",
+      "strength": "500",
+      "unit": "UNIT"
+    }
+  ],
+  "forms": [
+    "OINTMENT"
+  ],
+  "routes": [
+    "OPHTHALMIC"
+  ],
+  "companies": [
+    "LABORATOIRES STERIGEN INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "COMBINATIONS OF DIFFERENT ANTIBIOTICS"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "drug_code": "78466",
+  "din": "02299275",
+  "brand_name": "DOM-TERBINAFINE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "02-JAN-2013",
+  "active_ingredients": [
+    {
+      "name": "TERBINAFINE (TERBINAFINE HYDROCHLORIDE)",
+      "strength": "250",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "DOMINION PHARMACAL"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "TERBINAFINE"
+  ]
+}

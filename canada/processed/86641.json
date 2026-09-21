@@ -1,0 +1,33 @@
+{
+  "drug_code": "86641",
+  "din": "02380625",
+  "brand_name": "ESTEE LAUDER RESILIENCE LIFT FIRMING/SCULPTING FACE AND NECK LOTION SPF 15",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "28-FEB-2013",
+  "active_ingredients": [
+    {
+      "name": "TITANIUM DIOXIDE",
+      "strength": "1.7",
+      "unit": "%"
+    },
+    {
+      "name": "OCTINOXATE",
+      "strength": "7.5",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "LOTION"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "ESTEE LAUDER DIST"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "COMBINATIONS OF PROTECTIVES AGAINST UV-RADIATION"
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "drug_code": "1281",
+  "din": "00202045",
+  "brand_name": "MAGNOLAX",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "17-JUL-2012",
+  "active_ingredients": [
+    {
+      "name": "MAGNESIUM HYDROXIDE",
+      "strength": "60",
+      "unit": "MG"
+    },
+    {
+      "name": "MINERAL OIL",
+      "strength": "0.25",
+      "unit": "ML"
+    }
+  ],
+  "forms": [
+    "EMULSION"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "PENDOPHARM DIVISION OF DE PHARMASCIENCE INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "LIQUID PARAFFIN, COMBINATIONS"
+  ]
+}

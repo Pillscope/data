@@ -1,0 +1,33 @@
+{
+  "drug_code": "36412",
+  "din": "02203499",
+  "brand_name": "MAGNESIUM SULFATE IN 5% DEXTROSE INJ(20MG/ML)",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "29-APR-2015",
+  "active_ingredients": [
+    {
+      "name": "MAGNESIUM SULFATE",
+      "strength": "20",
+      "unit": "MG"
+    },
+    {
+      "name": "DEXTROSE",
+      "strength": "50",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "HOSPIRA HEALTHCARE CORPORATION"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "MAGNESIUM SULPHATE, COMBINATIONS"
+  ]
+}

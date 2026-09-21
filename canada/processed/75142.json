@@ -1,0 +1,31 @@
+{
+  "drug_code": "75142",
+  "din": "02265982",
+  "brand_name": "BLEOMYCIN FOR INJECTION",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "09-DEC-2016",
+  "active_ingredients": [
+    {
+      "name": "BLEOMYCIN (BLEOMYCIN SULFATE)",
+      "strength": "15",
+      "unit": "UNIT"
+    }
+  ],
+  "forms": [
+    "POWDER FOR SOLUTION"
+  ],
+  "routes": [
+    "INTRAMUSCULAR",
+    "INTRAPLEURAL",
+    "INTRAVENOUS",
+    "SUBCUTANEOUS"
+  ],
+  "companies": [
+    "FRESENIUS KABI CANADA LTD"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "BLEOMYCIN"
+  ]
+}

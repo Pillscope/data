@@ -1,0 +1,34 @@
+{
+  "drug_code": "43151",
+  "din": "02215136",
+  "brand_name": "SAIZEN 10IU  -  KIT",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "06-JUL-2007",
+  "active_ingredients": [
+    {
+      "name": "SOMATROPIN",
+      "strength": "3.3",
+      "unit": "MG"
+    },
+    {
+      "name": "SODIUM CHLORIDE",
+      "strength": "5",
+      "unit": "ML"
+    }
+  ],
+  "forms": [
+    "POWDER FOR SOLUTION"
+  ],
+  "routes": [
+    "INTRAMUSCULAR",
+    "SUBCUTANEOUS"
+  ],
+  "companies": [
+    "EMD SERONO A DIVISION OF EMD INC CANADA"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "SOMATROPIN"
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "drug_code": "11333",
+  "din": "00890006",
+  "brand_name": "REVIBE H.E.",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "22-JAN-2016",
+  "active_ingredients": [
+    {
+      "name": "SODIUM CHLORIDE",
+      "strength": "4.675",
+      "unit": "G"
+    },
+    {
+      "name": "DEXTROSE",
+      "strength": "152",
+      "unit": "G"
+    },
+    {
+      "name": "POTASSIUM CHLORIDE",
+      "strength": "1.491",
+      "unit": "G"
+    },
+    {
+      "name": "GLYCINE",
+      "strength": "6.006",
+      "unit": "G"
+    },
+    {
+      "name": "CITRIC ACID",
+      "strength": "1",
+      "unit": "G"
+    },
+    {
+      "name": "POTASSIUM PHOSPHATE DIBASIC",
+      "strength": "1.742",
+      "unit": "G"
+    },
+    {
+      "name": "SODIUM ACETATE ANHYDROUS",
+      "strength": "13.125",
+      "unit": "G"
+    }
+  ],
+  "forms": [
+    "POWDER FOR SOLUTION"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "ZOETIS CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": []
+}

@@ -1,0 +1,31 @@
+{
+  "drug_code": "90548",
+  "din": "02420899",
+  "brand_name": "TEAT SUPREME 110",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "08-AUG-2014",
+  "active_ingredients": [
+    {
+      "name": "IODINE (NONYL PHENOXYPOLYETHOXYETHANOL-IODINE COMPLEX)",
+      "strength": "1",
+      "unit": "%"
+    },
+    {
+      "name": "GLYCERINE",
+      "strength": "10",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "LONDON DAIRY SUPPLY LTD"
+  ],
+  "status": "MARKETED",
+  "atc": []
+}

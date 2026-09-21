@@ -1,0 +1,26 @@
+{
+  "drug_code": "63927",
+  "din": "02240381",
+  "brand_name": "SERGEANT'S WORM-AWAY FOR DOGS CAP 98.5%",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "30-SEP-2010",
+  "active_ingredients": [
+    {
+      "name": "PIPERAZINE (PIPERAZINE CITRATE)",
+      "strength": "140",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "CAPSULE"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "SERGEANTS OF CANADA"
+  ],
+  "status": "MARKETED",
+  "atc": []
+}

@@ -1,0 +1,28 @@
+{
+  "drug_code": "81489",
+  "din": "02329204",
+  "brand_name": "RAN-CEFPROZIL",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "19-MAR-2010",
+  "active_ingredients": [
+    {
+      "name": "CEFPROZIL (CEFPROZIL MONOHYDRATE)",
+      "strength": "125",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "POWDER FOR SUSPENSION"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "RANBAXY PHARMACEUTICALS CANADA INC."
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "CEFPROZIL"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "drug_code": "60208",
+  "din": "02236916",
+  "brand_name": "ACYCLOVIR SODIUM INJECTION",
+  "class": "Human",
+  "descriptor": "SINGLE USE VIAL",
+  "last_update": "11-AUG-2017",
+  "active_ingredients": [
+    {
+      "name": "ACYCLOVIR (ACYCLOVIR SODIUM)",
+      "strength": "25",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "PFIZER CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "ACYCLOVIR"
+  ]
+}

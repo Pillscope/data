@@ -1,0 +1,34 @@
+{
+  "drug_code": "75820",
+  "din": "02272695",
+  "brand_name": "TEVA-COMBO STERINEBS",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "05-MAY-2015",
+  "active_ingredients": [
+    {
+      "name": "SALBUTAMOL (SALBUTAMOL SULFATE)",
+      "strength": "2.5",
+      "unit": "MG"
+    },
+    {
+      "name": "IPRATROPIUM BROMIDE (IPRATROPIUM BROMIDE MONOHYDRATE)",
+      "strength": "0.5",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "INHALATION"
+  ],
+  "companies": [
+    "TEVA CANADA LIMITED"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "SALBUTAMOL AND IPRATROPIUM BROMIDE",
+    "SALBUTAMOL AND IPRATROPIUM BROMIDE"
+  ]
+}

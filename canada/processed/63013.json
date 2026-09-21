@@ -1,0 +1,29 @@
+{
+  "drug_code": "63013",
+  "din": "02239537",
+  "brand_name": "PMS-BENZYDAMINE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "30-JAN-2018",
+  "active_ingredients": [
+    {
+      "name": "BENZYDAMINE HYDROCHLORIDE",
+      "strength": "1.5",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "MOUTHWASH/GARGLE"
+  ],
+  "routes": [
+    "BUCCAL"
+  ],
+  "companies": [
+    "PHARMASCIENCE INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "BENZYDAMINE",
+    "BENZYDAMINE"
+  ]
+}

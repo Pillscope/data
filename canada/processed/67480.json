@@ -1,0 +1,28 @@
+{
+  "drug_code": "67480",
+  "din": "02243562",
+  "brand_name": "HYDROMORPH CONTIN-CONTROLLED RELEASE CAP - 18MG",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "06-OCT-2010",
+  "active_ingredients": [
+    {
+      "name": "HYDROMORPHONE HYDROCHLORIDE",
+      "strength": "18",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "CAPSULE (SUSTAINED-RELEASE)"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "PURDUE PHARMA"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "HYDROMORPHONE"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "drug_code": "95184",
+  "din": "02463733",
+  "brand_name": "BUSULFAN FOR INJECTION",
+  "class": "Human",
+  "descriptor": "SINGLE USE VIALS",
+  "last_update": "23-FEB-2018",
+  "active_ingredients": [
+    {
+      "name": "BUSULFAN",
+      "strength": "60",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "STERIMAX INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "BUSULFAN"
+  ]
+}

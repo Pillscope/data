@@ -1,0 +1,33 @@
+{
+  "drug_code": "12711",
+  "din": "01927981",
+  "brand_name": "3.3% DEXTROSE AND 0.3% SODIUM CHLORIDE INJECTION USP",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "29-APR-2015",
+  "active_ingredients": [
+    {
+      "name": "SODIUM CHLORIDE",
+      "strength": "300",
+      "unit": "MG"
+    },
+    {
+      "name": "DEXTROSE",
+      "strength": "3.3",
+      "unit": "G"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "B. BRAUN MEDICAL INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "ELECTROLYTES WITH CARBOHYDRATES"
+  ]
+}

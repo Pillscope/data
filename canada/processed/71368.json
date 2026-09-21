@@ -1,0 +1,28 @@
+{
+  "drug_code": "71368",
+  "din": "02247128",
+  "brand_name": "VIREAD",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "13-APR-2016",
+  "active_ingredients": [
+    {
+      "name": "TENOFOVIR DISOPROXIL FUMARATE",
+      "strength": "300",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "GILEAD SCIENCES CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "TENOFOVIR DISOPROXIL"
+  ]
+}

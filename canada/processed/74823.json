@@ -1,0 +1,28 @@
+{
+  "drug_code": "74823",
+  "din": "02262843",
+  "brand_name": "STRATTERA",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "01-MAY-2008",
+  "active_ingredients": [
+    {
+      "name": "ATOMOXETINE (ATOMOXETINE HYDROCHLORIDE)",
+      "strength": "60",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "CAPSULE"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "ELI LILLY CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "ATOMOXETINE"
+  ]
+}

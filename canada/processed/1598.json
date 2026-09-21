@@ -1,0 +1,28 @@
+{
+  "drug_code": "1598",
+  "din": "00155225",
+  "brand_name": "PONSTAN",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "28-JUL-2017",
+  "active_ingredients": [
+    {
+      "name": "MEFENAMIC ACID",
+      "strength": "250",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "CAPSULE"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "AA PHARMA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "MEFENAMIC ACID"
+  ]
+}

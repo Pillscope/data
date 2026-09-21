@@ -1,0 +1,28 @@
+{
+  "drug_code": "78261",
+  "din": "02297248",
+  "brand_name": "LIQUID NITROGEN NF",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "12-MAY-2011",
+  "active_ingredients": [
+    {
+      "name": "NITROGEN",
+      "strength": "100",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "LIQUID"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "VITALAIRE CANADA INC"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "NITROGEN"
+  ]
+}

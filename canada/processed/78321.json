@@ -1,0 +1,28 @@
+{
+  "drug_code": "78321",
+  "din": "02297892",
+  "brand_name": "PERT ANTI-DANDRUFF",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "22-AUG-2016",
+  "active_ingredients": [
+    {
+      "name": "PYRITHIONE ZINC",
+      "strength": "1",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "SHAMPOO"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "IDELLE LABS LTD"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "PYRITHIONE ZINC"
+  ]
+}

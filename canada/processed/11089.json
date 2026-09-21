@@ -1,0 +1,26 @@
+{
+  "drug_code": "11089",
+  "din": "00707538",
+  "brand_name": "MONTEBAN 70",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "01-DEC-2017",
+  "active_ingredients": [
+    {
+      "name": "NARASIN",
+      "strength": "70",
+      "unit": "G"
+    }
+  ],
+  "forms": [
+    "DRUG PREMIX"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "ELANCO CANADA LIMITED"
+  ],
+  "status": "APPROVED",
+  "atc": []
+}

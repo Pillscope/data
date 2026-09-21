@@ -1,0 +1,28 @@
+{
+  "drug_code": "9524",
+  "din": "00651826",
+  "brand_name": "THIAMINE HCL INJ USP 500MG/ML",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "05-APR-2017",
+  "active_ingredients": [
+    {
+      "name": "THIAMINE HYDROCHLORIDE",
+      "strength": "500",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "INTRAMUSCULAR",
+    "INTRAVENOUS",
+    "SUBCUTANEOUS"
+  ],
+  "companies": [
+    "RAFTER 8 PRODUCTS INC"
+  ],
+  "status": "MARKETED",
+  "atc": []
+}

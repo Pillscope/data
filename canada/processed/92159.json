@@ -1,0 +1,28 @@
+{
+  "drug_code": "92159",
+  "din": "02437295",
+  "brand_name": "PREEMPT CS20",
+  "class": "Disinfectant",
+  "descriptor": "",
+  "last_update": "24-NOV-2015",
+  "active_ingredients": [
+    {
+      "name": "HYDROGEN PEROXIDE",
+      "strength": "7",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "LIQUID"
+  ],
+  "routes": [
+    "DISINFECTANT (Medical Instruments)"
+  ],
+  "companies": [
+    "VIROX TECHNOLOGIES INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "TECHNICAL DISINFECTANTS"
+  ]
+}

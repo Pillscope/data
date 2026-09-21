@@ -1,0 +1,36 @@
+{
+  "drug_code": "92634",
+  "din": "02441977",
+  "brand_name": "SURE HOOF",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "31-AUG-2017",
+  "active_ingredients": [
+    {
+      "name": "POVIDONE-IODINE",
+      "strength": "20",
+      "unit": "%"
+    },
+    {
+      "name": "PINE TAR",
+      "strength": "34.6",
+      "unit": "%"
+    },
+    {
+      "name": "FISH OIL",
+      "strength": "44.6",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "OINTMENT"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "PHARM VET LTD."
+  ],
+  "status": "APPROVED",
+  "atc": []
+}

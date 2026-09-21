@@ -1,0 +1,28 @@
+{
+  "drug_code": "90290",
+  "din": "02418320",
+  "brand_name": "LEMTRADA",
+  "class": "Human",
+  "descriptor": "CONCENTRATE FOR SOLUTION FOR IV INFUSION. SINGLE-USE VIAL.",
+  "last_update": "18-FEB-2014",
+  "active_ingredients": [
+    {
+      "name": "ALEMTUZUMAB",
+      "strength": "12",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "SANOFI GENZYME, A DIVISION OF SANOFI-AVENTIS CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "ALEMTUZUMAB"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "drug_code": "19047",
+  "din": "02177188",
+  "brand_name": "APO-BROMAZEPAM - TAB 6MG",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "07-MAR-2006",
+  "active_ingredients": [
+    {
+      "name": "BROMAZEPAM",
+      "strength": "6",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "APOTEX INC"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "BROMAZEPAM"
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "drug_code": "92426",
+  "din": "02439875",
+  "brand_name": "TOTAL DEFENSE + REPAIR BROAD SPECTRUM SPF 34 SUNSCREEN",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "21-JUN-2017",
+  "active_ingredients": [
+    {
+      "name": "ZINC OXIDE",
+      "strength": "8",
+      "unit": "%"
+    },
+    {
+      "name": "OCTISALATE",
+      "strength": "3",
+      "unit": "%"
+    },
+    {
+      "name": "OCTINOXATE",
+      "strength": "7.5",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "LOTION"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "SKIN MEDICA INC, AN ALLERGAN COMPANY"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "COMBINATIONS OF PROTECTIVES AGAINST UV-RADIATION"
+  ]
+}

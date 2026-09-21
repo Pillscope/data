@@ -1,0 +1,28 @@
+{
+  "drug_code": "90180",
+  "din": "02417162",
+  "brand_name": "CONSTELLA",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "22-MAY-2014",
+  "active_ingredients": [
+    {
+      "name": "Linaclotide",
+      "strength": "145",
+      "unit": "MCG"
+    }
+  ],
+  "forms": [
+    "CAPSULE"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "FOREST LABORATORIES CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "LINACLOTIDE"
+  ]
+}

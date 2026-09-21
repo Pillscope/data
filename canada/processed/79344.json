@@ -1,0 +1,28 @@
+{
+  "drug_code": "79344",
+  "din": "02307766",
+  "brand_name": "SOJOURN SEVOFLURANE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "20-OCT-2011",
+  "active_ingredients": [
+    {
+      "name": "SEVOFLURANE",
+      "strength": "99.97",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "LIQUID"
+  ],
+  "routes": [
+    "INHALATION"
+  ],
+  "companies": [
+    "PIRAMAL CRITICAL CARE INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "SEVOFLURANE"
+  ]
+}

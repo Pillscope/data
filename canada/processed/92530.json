@@ -1,0 +1,26 @@
+{
+  "drug_code": "92530",
+  "din": "02440946",
+  "brand_name": "LC-KLEEN-P",
+  "class": "Veterinary",
+  "descriptor": "UDDER WASH",
+  "last_update": "10-JUN-2016",
+  "active_ingredients": [
+    {
+      "name": "CHLORHEXIDINE ACETATE",
+      "strength": "1.2",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "LIBERCHEM INC"
+  ],
+  "status": "APPROVED",
+  "atc": []
+}

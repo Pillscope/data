@@ -1,0 +1,28 @@
+{
+  "drug_code": "19449",
+  "din": "02091453",
+  "brand_name": "DEQUADIN ORAL PAINT",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "15-FEB-2017",
+  "active_ingredients": [
+    {
+      "name": "DEQUALINIUM CHLORIDE",
+      "strength": "0.5",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "LIQUID"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "BOYD PHARMACEUTICALS INC."
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "DEQUALINIUM"
+  ]
+}

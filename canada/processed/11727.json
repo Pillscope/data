@@ -1,0 +1,28 @@
+{
+  "drug_code": "11727",
+  "din": "01913662",
+  "brand_name": "APO GLYBURIDE TAB 5MG",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "07-FEB-2008",
+  "active_ingredients": [
+    {
+      "name": "GLYBURIDE",
+      "strength": "5",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "APOTEX INC"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "GLIBENCLAMIDE"
+  ]
+}

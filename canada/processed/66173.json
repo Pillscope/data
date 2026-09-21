@@ -1,0 +1,28 @@
+{
+  "drug_code": "66173",
+  "din": "02242454",
+  "brand_name": "PMS-RANITIDINE 300 MG",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "01-FEB-2017",
+  "active_ingredients": [
+    {
+      "name": "RANITIDINE (RANITIDINE HYDROCHLORIDE)",
+      "strength": "300",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "PHARMASCIENCE INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "RANITIDINE"
+  ]
+}

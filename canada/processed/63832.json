@@ -1,0 +1,33 @@
+{
+  "drug_code": "63832",
+  "din": "02240294",
+  "brand_name": "HUMALOG MIX 25  (CARTRIDGE)",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "17-DEC-2013",
+  "active_ingredients": [
+    {
+      "name": "INSULIN LISPRO",
+      "strength": "25",
+      "unit": "UNIT"
+    },
+    {
+      "name": "INSULIN LISPRO PROTAMINE SUSPENSION",
+      "strength": "75",
+      "unit": "UNIT"
+    }
+  ],
+  "forms": [
+    "SUSPENSION"
+  ],
+  "routes": [
+    "SUBCUTANEOUS"
+  ],
+  "companies": [
+    "ELI LILLY CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "INSULIN LISPRO"
+  ]
+}

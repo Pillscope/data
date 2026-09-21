@@ -1,0 +1,28 @@
+{
+  "drug_code": "91613",
+  "din": "02431645",
+  "brand_name": "CALCITRIOL-ODAN",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "07-JAN-2016",
+  "active_ingredients": [
+    {
+      "name": "CALCITRIOL",
+      "strength": "0.5",
+      "unit": "MCG"
+    }
+  ],
+  "forms": [
+    "CAPSULE"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "ODAN LABORATORIES LTD"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "CALCITRIOL"
+  ]
+}

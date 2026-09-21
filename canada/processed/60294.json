@@ -1,0 +1,28 @@
+{
+  "drug_code": "60294",
+  "din": "02236996",
+  "brand_name": "LYDERM OINTMENT 0.05%",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "23-FEB-2005",
+  "active_ingredients": [
+    {
+      "name": "FLUOCINONIDE",
+      "strength": "0.05",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "OINTMENT"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "TAROPHARMA, A DIVISION OF TARO PHARMACEUTICALS INC."
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "FLUOCINONIDE"
+  ]
+}

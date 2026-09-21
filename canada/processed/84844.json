@@ -1,0 +1,28 @@
+{
+  "drug_code": "84844",
+  "din": "02363445",
+  "brand_name": "OZURDEX",
+  "class": "Human",
+  "descriptor": "IMPLANT IN SINGLE-USE APPLICATOR. PRESERVATIVE-FREE",
+  "last_update": "12-MAR-2012",
+  "active_ingredients": [
+    {
+      "name": "DEXAMETHASONE",
+      "strength": "0.7",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "IMPLANT"
+  ],
+  "routes": [
+    "INTRAVITREAL"
+  ],
+  "companies": [
+    "ALLERGAN INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "DEXAMETHASONE"
+  ]
+}

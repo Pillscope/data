@@ -1,0 +1,28 @@
+{
+  "drug_code": "93983",
+  "din": "02453304",
+  "brand_name": "RAVICTI",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "21-NOV-2016",
+  "active_ingredients": [
+    {
+      "name": "GLYCEROL PHENYLBUTYRATE",
+      "strength": "1.1",
+      "unit": "G"
+    }
+  ],
+  "forms": [
+    "LIQUID"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "HORIZON PHARMA IRELAND LTD"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "GLYCEROL PHENYLBUTYRATE"
+  ]
+}

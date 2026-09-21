@@ -1,0 +1,28 @@
+{
+  "drug_code": "85118",
+  "din": "02366320",
+  "brand_name": "TEVA-CANDESARTAN",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "29-MAY-2013",
+  "active_ingredients": [
+    {
+      "name": "CANDESARTAN CILEXETIL",
+      "strength": "16",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "TEVA CANADA LIMITED"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "CANDESARTAN"
+  ]
+}

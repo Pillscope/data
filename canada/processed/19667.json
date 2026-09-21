@@ -1,0 +1,28 @@
+{
+  "drug_code": "19667",
+  "din": "00585092",
+  "brand_name": "DEPO-PROVERA STERILE AQUEOUS SUSPENSION 150 MG/ML",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "13-MAY-2009",
+  "active_ingredients": [
+    {
+      "name": "MEDROXYPROGESTERONE ACETATE",
+      "strength": "150",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SUSPENSION"
+  ],
+  "routes": [
+    "INTRAMUSCULAR"
+  ],
+  "companies": [
+    "PFIZER CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "MEDROXYPROGESTERONE"
+  ]
+}

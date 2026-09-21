@@ -1,0 +1,33 @@
+{
+  "drug_code": "87071",
+  "din": "02385058",
+  "brand_name": "ZARAH 21",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "24-JUL-2013",
+  "active_ingredients": [
+    {
+      "name": "DROSPIRENONE",
+      "strength": "3",
+      "unit": "MG"
+    },
+    {
+      "name": "ETHINYL ESTRADIOL",
+      "strength": "0.03",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "COBALT PHARMACEUTICALS COMPANY"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "DROSPIRENONE AND ESTROGEN"
+  ]
+}

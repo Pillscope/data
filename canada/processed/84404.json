@@ -1,0 +1,28 @@
+{
+  "drug_code": "84404",
+  "din": "02359014",
+  "brand_name": "LYSOL DISINFECTING WIPES",
+  "class": "Disinfectant",
+  "descriptor": "",
+  "last_update": "17-APR-2015",
+  "active_ingredients": [
+    {
+      "name": "BENZALKONIUM CHLORIDE",
+      "strength": "0.26",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "WIPE"
+  ],
+  "routes": [
+    "DISINFECTANT (Domestic)"
+  ],
+  "companies": [
+    "RECKITT BENCKISER (CANADA) INC"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "TECHNICAL DISINFECTANTS"
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "drug_code": "9361",
+  "din": "00772011",
+  "brand_name": "CANTHARONE PLUS",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "21-DEC-2005",
+  "active_ingredients": [
+    {
+      "name": "SALICYLIC ACID",
+      "strength": "30",
+      "unit": "%"
+    },
+    {
+      "name": "CANTHARIDIN",
+      "strength": "1",
+      "unit": "%"
+    },
+    {
+      "name": "PODOPHYLLIN",
+      "strength": "2",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "LIQUID"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "DORMER LABORATORIES INC."
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "WART AND ANTI-CORN PREPARATIONS"
+  ]
+}

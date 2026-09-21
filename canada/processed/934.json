@@ -1,0 +1,28 @@
+{
+  "drug_code": "934",
+  "din": "00001147",
+  "brand_name": "ALBALON",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "10-MAY-2016",
+  "active_ingredients": [
+    {
+      "name": "NAPHAZOLINE HYDROCHLORIDE",
+      "strength": ".1",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "DROPS"
+  ],
+  "routes": [
+    "OPHTHALMIC"
+  ],
+  "companies": [
+    "ALLERGAN INC"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "NAPHAZOLINE"
+  ]
+}

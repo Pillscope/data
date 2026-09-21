@@ -1,0 +1,28 @@
+{
+  "drug_code": "90426",
+  "din": "02419610",
+  "brand_name": "POMALYST",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "01-MAY-2014",
+  "active_ingredients": [
+    {
+      "name": "Pomalidomide",
+      "strength": "4",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "CAPSULE"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "CELGENE INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "Pomalidomide"
+  ]
+}

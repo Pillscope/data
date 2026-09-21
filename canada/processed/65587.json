@@ -1,0 +1,29 @@
+{
+  "drug_code": "65587",
+  "din": "02241917",
+  "brand_name": "MARCAINE",
+  "class": "Human",
+  "descriptor": "PRESERVATIVE-FREE, SINGLE-USE VIAL",
+  "last_update": "08-SEP-2017",
+  "active_ingredients": [
+    {
+      "name": "BUPIVACAINE HYDROCHLORIDE",
+      "strength": "150",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "RETROBULBAR",
+    "EPIDURAL"
+  ],
+  "companies": [
+    "PFIZER CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "BUPIVACAINE"
+  ]
+}

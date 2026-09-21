@@ -1,0 +1,26 @@
+{
+  "drug_code": "5237",
+  "din": "00578207",
+  "brand_name": "PINKAWAY PWR 0.2%",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "14-AUG-2003",
+  "active_ingredients": [
+    {
+      "name": "NITROFURAZONE",
+      "strength": ".2",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "POWDER"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "DOMINION VETERINARY LABORATORIES LTD."
+  ],
+  "status": "MARKETED",
+  "atc": []
+}

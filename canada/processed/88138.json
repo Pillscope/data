@@ -1,0 +1,28 @@
+{
+  "drug_code": "88138",
+  "din": "02396343",
+  "brand_name": "MAR-ALLOPURINOL",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "03-MAR-2017",
+  "active_ingredients": [
+    {
+      "name": "ALLOPURINOL",
+      "strength": "300",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "MARCAN PHARMACEUTICALS INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "ALLOPURINOL"
+  ]
+}

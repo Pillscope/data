@@ -1,0 +1,29 @@
+{
+  "drug_code": "87773",
+  "din": "02392453",
+  "brand_name": "HEPARIN SODIUM INJECTION, USP",
+  "class": "Human",
+  "descriptor": "PRESERVATIVE-FREE. 0.5ML SINGLE-DOSE VIAL",
+  "last_update": "24-SEP-2015",
+  "active_ingredients": [
+    {
+      "name": "HEPARIN SODIUM",
+      "strength": "10000",
+      "unit": "UNIT"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "INTRAVENOUS",
+    "SUBCUTANEOUS"
+  ],
+  "companies": [
+    "FRESENIUS KABI CANADA LTD"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "HEPARIN"
+  ]
+}

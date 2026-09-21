@@ -1,0 +1,38 @@
+{
+  "drug_code": "72379",
+  "din": "02248059",
+  "brand_name": "CLEAR EYES ALLERGY",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "09-JUL-2012",
+  "active_ingredients": [
+    {
+      "name": "NAPHAZOLINE HYDROCHLORIDE",
+      "strength": "0.012",
+      "unit": "%"
+    },
+    {
+      "name": "GLYCERINE",
+      "strength": "0.26",
+      "unit": "%"
+    },
+    {
+      "name": "ZINC SULFATE",
+      "strength": "0.25",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "LIQUID"
+  ],
+  "routes": [
+    "OPHTHALMIC"
+  ],
+  "companies": [
+    "PRESTIGE BRANDS INC"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "NAPHAZOLINE, COMBINATIONS"
+  ]
+}

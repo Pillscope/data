@@ -1,0 +1,28 @@
+{
+  "drug_code": "94723",
+  "din": "02459922",
+  "brand_name": "CCP-CITALOPRAM",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "23-AUG-2017",
+  "active_ingredients": [
+    {
+      "name": "CITALOPRAM (CITALOPRAM HYDROBROMIDE)",
+      "strength": "40",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "CELLCHEM PHARMACEUTICALS INC."
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "CITALOPRAM"
+  ]
+}

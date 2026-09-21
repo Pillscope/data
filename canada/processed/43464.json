@@ -1,0 +1,28 @@
+{
+  "drug_code": "43464",
+  "din": "02227517",
+  "brand_name": "DERMATOP OINTMENT",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "14-MAY-2013",
+  "active_ingredients": [
+    {
+      "name": "PREDNICARBATE",
+      "strength": "0.1",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "OINTMENT"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "VALEANT CANADA LP/VALEANT CANADA S.E.C."
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "PREDNICARBATE"
+  ]
+}

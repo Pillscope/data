@@ -1,0 +1,28 @@
+{
+  "drug_code": "92050",
+  "din": "02436167",
+  "brand_name": "OXALIPLATIN INJECTION",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "11-JAN-2018",
+  "active_ingredients": [
+    {
+      "name": "OXALIPLATIN",
+      "strength": "5",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "ACCORD HEALTHCARE INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "OXALIPLATIN"
+  ]
+}

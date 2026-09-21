@@ -1,0 +1,28 @@
+{
+  "drug_code": "19589",
+  "din": "02171228",
+  "brand_name": "SYNTHROID",
+  "class": "Human",
+  "descriptor": "TAB 112MCG",
+  "last_update": "18-APR-2016",
+  "active_ingredients": [
+    {
+      "name": "LEVOTHYROXINE SODIUM",
+      "strength": "112",
+      "unit": "MCG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "BGP PHARMA ULC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "LEVOTHYROXINE SODIUM"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "drug_code": "78338",
+  "din": "02298074",
+  "brand_name": "RAN-RABEPRAZOLE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "03-DEC-2014",
+  "active_ingredients": [
+    {
+      "name": "RABEPRAZOLE SODIUM",
+      "strength": "10",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET (ENTERIC-COATED)"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "RANBAXY PHARMACEUTICALS CANADA INC."
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "RABEPRAZOLE"
+  ]
+}

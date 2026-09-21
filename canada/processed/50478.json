@@ -1,0 +1,29 @@
+{
+  "drug_code": "50478",
+  "din": "02231171",
+  "brand_name": "FRAGMIN",
+  "class": "Human",
+  "descriptor": "MULTI-DOSE VIAL",
+  "last_update": "21-SEP-2017",
+  "active_ingredients": [
+    {
+      "name": "DALTEPARIN SODIUM",
+      "strength": "25000",
+      "unit": "UNIT"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "INTRAVENOUS",
+    "SUBCUTANEOUS"
+  ],
+  "companies": [
+    "PFIZER CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "DALTEPARIN"
+  ]
+}

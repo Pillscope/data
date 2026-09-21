@@ -1,0 +1,28 @@
+{
+  "drug_code": "71630",
+  "din": "02247385",
+  "brand_name": "EURO-DOCUSATE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "17-JAN-2017",
+  "active_ingredients": [
+    {
+      "name": "DOCUSATE SODIUM",
+      "strength": "100",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "CAPSULE"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "SANDOZ CANADA INCORPORATED"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "DOCUSATE SODIUM"
+  ]
+}

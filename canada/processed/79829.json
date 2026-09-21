@@ -1,0 +1,28 @@
+{
+  "drug_code": "79829",
+  "din": "02312778",
+  "brand_name": "PRO-MIRTAZAPINE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "31-JUL-2008",
+  "active_ingredients": [
+    {
+      "name": "MIRTAZAPINE",
+      "strength": "15",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "PRO DOC LIMITEE"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "MIRTAZAPINE"
+  ]
+}

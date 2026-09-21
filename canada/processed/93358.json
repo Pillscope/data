@@ -1,0 +1,29 @@
+{
+  "drug_code": "93358",
+  "din": "02447932",
+  "brand_name": "ACCEL FIVE TB WIPES",
+  "class": "Disinfectant",
+  "descriptor": "",
+  "last_update": "15-AUG-2017",
+  "active_ingredients": [
+    {
+      "name": "HYDROGEN PEROXIDE",
+      "strength": "0.5",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "LIQUID"
+  ],
+  "routes": [
+    "DISINFECTANT (Food Premises)",
+    "DISINFECTANT (Hospital/HC Facilities)"
+  ],
+  "companies": [
+    "DIVERSEY INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "TECHNICAL DISINFECTANTS"
+  ]
+}

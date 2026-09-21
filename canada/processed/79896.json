@@ -1,0 +1,28 @@
+{
+  "drug_code": "79896",
+  "din": "02313421",
+  "brand_name": "PMS-BUPROPION SR",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "08-DEC-2008",
+  "active_ingredients": [
+    {
+      "name": "BUPROPION HYDROCHLORIDE",
+      "strength": "150",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET (EXTENDED-RELEASE)"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "PHARMASCIENCE INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "BUPROPION"
+  ]
+}

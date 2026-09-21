@@ -1,0 +1,29 @@
+{
+  "drug_code": "95373",
+  "din": "02465574",
+  "brand_name": "CIMZIA",
+  "class": "Human",
+  "descriptor": "SINGLE-USE AUTOINJECTOR",
+  "last_update": "19-JAN-2018",
+  "active_ingredients": [
+    {
+      "name": "CERTOLIZUMAB PEGOL",
+      "strength": "200",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "SUBCUTANEOUS"
+  ],
+  "companies": [
+    "UCB CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "CERTOLIZUMAB PEGOL",
+    "CERTOLIZUMAB PEGOL"
+  ]
+}

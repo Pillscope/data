@@ -1,0 +1,28 @@
+{
+  "drug_code": "89816",
+  "din": "02413507",
+  "brand_name": "MYLAN-RISPERIDONE ODT",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "01-MAY-2014",
+  "active_ingredients": [
+    {
+      "name": "RISPERIDONE",
+      "strength": "2",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET (ORALLY DISINTEGRATING)"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "MYLAN PHARMACEUTICALS ULC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "RISPERIDONE"
+  ]
+}

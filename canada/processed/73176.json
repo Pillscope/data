@@ -1,0 +1,27 @@
+{
+  "drug_code": "73176",
+  "din": "02248807",
+  "brand_name": "SUPPRESSOR",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "02-OCT-2009",
+  "active_ingredients": [
+    {
+      "name": "FLUNIXIN (FLUNIXIN MEGLUMINE)",
+      "strength": "50",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "INTRAMUSCULAR",
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "NORBROOK LABORATORIES LTD."
+  ],
+  "status": "APPROVED",
+  "atc": []
+}

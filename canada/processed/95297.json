@@ -1,0 +1,28 @@
+{
+  "drug_code": "95297",
+  "din": "02464829",
+  "brand_name": "DIAL ANTIBACTERIAL HYDRATING HAND SOAP",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "30-NOV-2017",
+  "active_ingredients": [
+    {
+      "name": "BENZALKONIUM CHLORIDE",
+      "strength": "0.13",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "LIQUID"
+  ],
+  "routes": [
+    "TOPICAL (HOUSEHOLD)"
+  ],
+  "companies": [
+    "HENKEL CANADA CORPORATION"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "BENZALKONIUM"
+  ]
+}

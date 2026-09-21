@@ -1,0 +1,43 @@
+{
+  "drug_code": "90522",
+  "din": "02420643",
+  "brand_name": "FLUZONE QUADRIVALENT",
+  "class": "Human",
+  "descriptor": "0.5 ML PREFILLED SYRINGES. INFLUENZA VIRUS VACCINE QUADRIVALENT TYPES A & B (SPLIT VIRION)",
+  "last_update": "16-OCT-2017",
+  "active_ingredients": [
+    {
+      "name": "HAEMAGGLUTININ-STRAIN A(H3N2)",
+      "strength": "15",
+      "unit": "MCG"
+    },
+    {
+      "name": "HAEMAGGLUTININ-STRAIN A(H1N1)",
+      "strength": "15",
+      "unit": "MCG"
+    },
+    {
+      "name": "HAEMAGGLUTININ-STRAIN B (Victoria)",
+      "strength": "15",
+      "unit": "MCG"
+    },
+    {
+      "name": "HAEMAGGLUTININ-STRAIN B (Yamagata)",
+      "strength": "15",
+      "unit": "MCG"
+    }
+  ],
+  "forms": [
+    "SUSPENSION"
+  ],
+  "routes": [
+    "INTRAMUSCULAR"
+  ],
+  "companies": [
+    "SANOFI PASTEUR LIMITED"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "INFLUENZA, INACTIVATED, SPLIT VIRUS OR SURFACE ANTIGEN"
+  ]
+}

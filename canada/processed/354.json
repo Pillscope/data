@@ -1,0 +1,36 @@
+{
+  "drug_code": "354",
+  "din": "00028096",
+  "brand_name": "CELESTONE SOLUSPAN",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "25-APR-2017",
+  "active_ingredients": [
+    {
+      "name": "BETAMETHASONE (BETAMETHASONE SODIUM PHOSPHATE)",
+      "strength": "3",
+      "unit": "MG"
+    },
+    {
+      "name": "BETAMETHASONE ACETATE",
+      "strength": "3",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SUSPENSION"
+  ],
+  "routes": [
+    "INTRA-ARTICULAR",
+    "INTRABURSAL",
+    "INTRADERMAL",
+    "INTRAMUSCULAR"
+  ],
+  "companies": [
+    "MERCK CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "BETAMETHASONE"
+  ]
+}

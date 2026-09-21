@@ -1,0 +1,28 @@
+{
+  "drug_code": "76948",
+  "din": "02283905",
+  "brand_name": "JAMP-A.S.A.",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "08-JUN-2012",
+  "active_ingredients": [
+    {
+      "name": "ACETYLSALICYLIC ACID",
+      "strength": "80",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET (DELAYED-RELEASE)"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "JAMP PHARMA CORPORATION"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "ACETYLSALICYLIC ACID"
+  ]
+}

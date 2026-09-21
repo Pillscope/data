@@ -1,0 +1,38 @@
+{
+  "drug_code": "3891",
+  "din": "00502790",
+  "brand_name": "COTAZYM ECS 8",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "19-JAN-2016",
+  "active_ingredients": [
+    {
+      "name": "LIPASE",
+      "strength": "10800",
+      "unit": "UNIT"
+    },
+    {
+      "name": "PROTEASE",
+      "strength": "45000",
+      "unit": "UNIT"
+    },
+    {
+      "name": "AMYLASE",
+      "strength": "42000",
+      "unit": "UNIT"
+    }
+  ],
+  "forms": [
+    "CAPSULE (DELAYED RELEASE)"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "MERCK CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "MULTIENZYMES (LIPASE, PROTEASE ETC)"
+  ]
+}

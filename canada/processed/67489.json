@@ -1,0 +1,29 @@
+{
+  "drug_code": "67489",
+  "din": "02243571",
+  "brand_name": "ANTISEPTIC ORAL RINSE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "25-SEP-2006",
+  "active_ingredients": [
+    {
+      "name": "CETYLPYRIDINIUM CHLORIDE",
+      "strength": "0.05",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "LIQUID"
+  ],
+  "routes": [
+    "ORAL",
+    "TOPICAL"
+  ],
+  "companies": [
+    "SAGE PRODUCTS LLC"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "CETYLPYRIDINIUM"
+  ]
+}

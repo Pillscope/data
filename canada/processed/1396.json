@@ -1,0 +1,28 @@
+{
+  "drug_code": "1396",
+  "din": "00036129",
+  "brand_name": "MEDROL 16 MG",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "17-AUG-2015",
+  "active_ingredients": [
+    {
+      "name": "METHYLPREDNISOLONE",
+      "strength": "16",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "PFIZER CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "METHYLPREDNISOLONE"
+  ]
+}

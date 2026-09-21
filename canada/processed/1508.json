@@ -1,0 +1,28 @@
+{
+  "drug_code": "1508",
+  "din": "00155365",
+  "brand_name": "ADRENALIN CHLORIDE SOL 1:1000",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "19-MAR-2015",
+  "active_ingredients": [
+    {
+      "name": "EPINEPHRINE (EPINEPHRINE HYDROCHLORIDE)",
+      "strength": "1",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "NASAL"
+  ],
+  "companies": [
+    "ERFA CANADA 2012 INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "EPINEPHRINE"
+  ]
+}

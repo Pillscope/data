@@ -1,0 +1,30 @@
+{
+  "drug_code": "1130",
+  "din": "00036137",
+  "brand_name": "SOLU-MEDROL",
+  "class": "Human",
+  "descriptor": "DILUENT SUPPLIED",
+  "last_update": "05-FEB-2014",
+  "active_ingredients": [
+    {
+      "name": "METHYLPREDNISOLONE (METHYLPREDNISOLONE SODIUM SUCCINATE)",
+      "strength": "1",
+      "unit": "G"
+    }
+  ],
+  "forms": [
+    "KIT",
+    "POWDER FOR SOLUTION"
+  ],
+  "routes": [
+    "INTRAMUSCULAR",
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "PFIZER CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "METHYLPREDNISOLONE"
+  ]
+}

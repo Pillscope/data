@@ -1,0 +1,28 @@
+{
+  "drug_code": "41867",
+  "din": "00884553",
+  "brand_name": "TEMPRA CHILDREN'S SYRUP",
+  "class": "Human",
+  "descriptor": "80MG/5ML",
+  "last_update": "18-APR-2018",
+  "active_ingredients": [
+    {
+      "name": "ACETAMINOPHEN",
+      "strength": "80",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SYRUP"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "PALADIN LABS INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "ACETAMINOPHEN (PARACETAMOL)"
+  ]
+}

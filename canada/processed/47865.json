@@ -1,0 +1,28 @@
+{
+  "drug_code": "47865",
+  "din": "02229702",
+  "brand_name": "VAQTA",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "01-NOV-2012",
+  "active_ingredients": [
+    {
+      "name": "HEPATITIS A VACCINE, INACTIVATED",
+      "strength": "50",
+      "unit": "UNIT"
+    }
+  ],
+  "forms": [
+    "SUSPENSION"
+  ],
+  "routes": [
+    "INTRAMUSCULAR"
+  ],
+  "companies": [
+    "MERCK CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "HEPATITIS A, INACTIVATED, WHOLE VIRUS"
+  ]
+}

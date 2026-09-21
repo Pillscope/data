@@ -1,0 +1,28 @@
+{
+  "drug_code": "77170",
+  "din": "02286246",
+  "brand_name": "ACEBUTOLOL",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "09-NOV-2015",
+  "active_ingredients": [
+    {
+      "name": "ACEBUTOLOL (ACEBUTOLOL HYDROCHLORIDE)",
+      "strength": "100",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "SANIS HEALTH INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "ACEBUTOLOL"
+  ]
+}

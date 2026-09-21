@@ -1,0 +1,28 @@
+{
+  "drug_code": "65800",
+  "din": "02242122",
+  "brand_name": "ISOVUE MULTIPACK-300",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "02-JUL-2008",
+  "active_ingredients": [
+    {
+      "name": "IOPAMIDOL",
+      "strength": "61",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "LIQUID"
+  ],
+  "routes": [
+    "INTRAVASCULAR"
+  ],
+  "companies": [
+    "BRACCO IMAGING CANADA"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "IOPAMIDOL"
+  ]
+}

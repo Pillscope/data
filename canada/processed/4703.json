@@ -1,0 +1,33 @@
+{
+  "drug_code": "4703",
+  "din": "00550086",
+  "brand_name": "SEPTRA INJECTION",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "26-APR-2018",
+  "active_ingredients": [
+    {
+      "name": "SULFAMETHOXAZOLE",
+      "strength": "80",
+      "unit": "MG"
+    },
+    {
+      "name": "TRIMETHOPRIM",
+      "strength": "16",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "ASPEN PHARMACARE CANADA INC."
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "SULFAMETHOXAZOLE AND TRIMETHOPRIM"
+  ]
+}

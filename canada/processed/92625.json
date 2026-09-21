@@ -1,0 +1,28 @@
+{
+  "drug_code": "92625",
+  "din": "02441861",
+  "brand_name": "PRIVA-VALACYCLOVIR",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "05-NOV-2015",
+  "active_ingredients": [
+    {
+      "name": "VALACYCLOVIR (VALACYCLOVIR HYDROCHLORIDE)",
+      "strength": "500",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "PHARMAPAR INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "VALACICLOVIR"
+  ]
+}

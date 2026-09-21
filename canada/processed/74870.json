@@ -1,0 +1,41 @@
+{
+  "drug_code": "74870",
+  "din": "02263319",
+  "brand_name": "DAIRYMAN'S DEFENCE COMBAT",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "27-JUL-2016",
+  "active_ingredients": [
+    {
+      "name": "ALKYL PHENOL POLYGLYCOL ETHER IODINE COMPLEX",
+      "strength": "2.584",
+      "unit": "%"
+    },
+    {
+      "name": "POLYOXYETHYLENE GLYCOL IODINE COMPLEX",
+      "strength": "5.34",
+      "unit": "%"
+    },
+    {
+      "name": "GLYCERINE",
+      "strength": "10.00",
+      "unit": "%"
+    },
+    {
+      "name": "NONYL PHENOXY POLYOXYETHYLENE ETHANOL-IODINE COMPLEX",
+      "strength": "2.584",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "AGRISAN SPECIALTY CHEMICAL & PHARMACEUTICAL"
+  ],
+  "status": "MARKETED",
+  "atc": []
+}

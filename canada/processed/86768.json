@@ -1,0 +1,28 @@
+{
+  "drug_code": "86768",
+  "din": "02381842",
+  "brand_name": "TAMIFLU",
+  "class": "Human",
+  "descriptor": "390 MG/65 ML",
+  "last_update": "17-SEP-2012",
+  "active_ingredients": [
+    {
+      "name": "OSELTAMIVIR (OSELTAMIVIR PHOSPHATE)",
+      "strength": "6",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "POWDER FOR SUSPENSION"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "HOFFMANN-LA ROCHE LIMITED"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "OSELTAMIVIR"
+  ]
+}

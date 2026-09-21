@@ -1,0 +1,28 @@
+{
+  "drug_code": "71544",
+  "din": "02247301",
+  "brand_name": "RIVA-SIMVASTATIN",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "16-MAY-2012",
+  "active_ingredients": [
+    {
+      "name": "SIMVASTATIN",
+      "strength": "80",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "LABORATOIRE RIVA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "SIMVASTATIN"
+  ]
+}

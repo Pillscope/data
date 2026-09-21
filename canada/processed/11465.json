@@ -1,0 +1,28 @@
+{
+  "drug_code": "11465",
+  "din": "01912038",
+  "brand_name": "APO-FLURBIPROFEN FC TABLETS 100MG",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "07-FEB-2008",
+  "active_ingredients": [
+    {
+      "name": "FLURBIPROFEN",
+      "strength": "100",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "APOTEX INC"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "FLURBIPROFEN"
+  ]
+}

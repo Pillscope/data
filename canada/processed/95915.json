@@ -1,0 +1,28 @@
+{
+  "drug_code": "95915",
+  "din": "02470179",
+  "brand_name": "MAVENCLAD",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "18-DEC-2017",
+  "active_ingredients": [
+    {
+      "name": "CLADRIBINE",
+      "strength": "10",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "EMD SERONO A DIVISION OF EMD INC CANADA"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "CLADRIBINE"
+  ]
+}

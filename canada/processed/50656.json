@@ -1,0 +1,28 @@
+{
+  "drug_code": "50656",
+  "din": "02231347",
+  "brand_name": "SPORANOX ORAL SOLUTION 10MG/ML",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "27-JUN-2007",
+  "active_ingredients": [
+    {
+      "name": "ITRACONAZOLE",
+      "strength": "10",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "JANSSEN INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "ITRACONAZOLE"
+  ]
+}

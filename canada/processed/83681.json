@@ -1,0 +1,38 @@
+{
+  "drug_code": "83681",
+  "din": "02351544",
+  "brand_name": "NEUTRA-SELTZER",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "26-JAN-2018",
+  "active_ingredients": [
+    {
+      "name": "SODIUM BICARBONATE",
+      "strength": "1916",
+      "unit": "MG"
+    },
+    {
+      "name": "ACETYLSALICYLIC ACID",
+      "strength": "325",
+      "unit": "MG"
+    },
+    {
+      "name": "CITRIC ACID",
+      "strength": "1000",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET (EFFERVESCENT)"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "TEVA CANADA LIMITED"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "ACETYLSALICYLIC ACID, COMB EXCL PSYCHOLEPTICS"
+  ]
+}

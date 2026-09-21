@@ -1,0 +1,28 @@
+{
+  "drug_code": "90699",
+  "din": "02422298",
+  "brand_name": "CEFUROXIME FOR INJECTION, USP",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "31-MAR-2015",
+  "active_ingredients": [
+    {
+      "name": "CEFUROXIME (CEFUROXIME SODIUM)",
+      "strength": "750",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "POWDER FOR SOLUTION"
+  ],
+  "routes": [
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "STERIMAX INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "CEFUROXIME"
+  ]
+}

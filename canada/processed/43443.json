@@ -1,0 +1,34 @@
+{
+  "drug_code": "43443",
+  "din": "02225689",
+  "brand_name": "ACTIVASE RT-PA",
+  "class": "Human",
+  "descriptor": "KIT (PWS & LIQ)",
+  "last_update": "26-MAY-2016",
+  "active_ingredients": [
+    {
+      "name": "ALTEPLASE",
+      "strength": "50",
+      "unit": "MG"
+    },
+    {
+      "name": "WATER",
+      "strength": "50",
+      "unit": "ML"
+    }
+  ],
+  "forms": [
+    "LIQUID",
+    "POWDER FOR SOLUTION"
+  ],
+  "routes": [
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "HOFFMANN-LA ROCHE LIMITED"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "ALTEPLASE"
+  ]
+}

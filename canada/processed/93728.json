@@ -1,0 +1,28 @@
+{
+  "drug_code": "93728",
+  "din": "02451034",
+  "brand_name": "KYPROLIS",
+  "class": "Human",
+  "descriptor": "FOR I.V. INFUSION. SINGLE-USE VIAL.",
+  "last_update": "01-JUN-2017",
+  "active_ingredients": [
+    {
+      "name": "CARFILZOMIB",
+      "strength": "60",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "POWDER FOR SOLUTION"
+  ],
+  "routes": [
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "AMGEN CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "CARFILZOMIB"
+  ]
+}

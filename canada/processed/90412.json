@@ -1,0 +1,26 @@
+{
+  "drug_code": "90412",
+  "din": "02419491",
+  "brand_name": "AIVLOSIN 17%",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "29-DEC-2017",
+  "active_ingredients": [
+    {
+      "name": "Tylvalosin (Tylvalosin tartrate)",
+      "strength": "170",
+      "unit": "G"
+    }
+  ],
+  "forms": [
+    "DRUG PREMIX"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "ECO ANIMAL HEALTH LIMITED"
+  ],
+  "status": "APPROVED",
+  "atc": []
+}

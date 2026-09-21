@@ -1,0 +1,46 @@
+{
+  "drug_code": "92557",
+  "din": "02441179",
+  "brand_name": "HOOF CARE",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "01-SEP-2017",
+  "active_ingredients": [
+    {
+      "name": "PHENOL",
+      "strength": "2.7",
+      "unit": "MG"
+    },
+    {
+      "name": "LANOLIN",
+      "strength": "90",
+      "unit": "MG"
+    },
+    {
+      "name": "NEATSFOOT OIL",
+      "strength": "150.4",
+      "unit": "MG"
+    },
+    {
+      "name": "OIL OF TURPENTINE",
+      "strength": "79.1",
+      "unit": "MG"
+    },
+    {
+      "name": "PINE TAR",
+      "strength": "36",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "OINTMENT"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "PHARM VET LTD."
+  ],
+  "status": "APPROVED",
+  "atc": []
+}

@@ -1,0 +1,26 @@
+{
+  "drug_code": "90263",
+  "din": "02418037",
+  "brand_name": "CLOPROSTENOL VEYX",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "09-JUL-2014",
+  "active_ingredients": [
+    {
+      "name": "CLOPROSTENOL (CLOPROSTENOL SODIUM)",
+      "strength": "0.25",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "INTRAMUSCULAR"
+  ],
+  "companies": [
+    "MODERN VETERINARY THERAPEUTICS LLC"
+  ],
+  "status": "APPROVED",
+  "atc": []
+}

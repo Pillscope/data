@@ -1,0 +1,28 @@
+{
+  "drug_code": "93401",
+  "din": "02448319",
+  "brand_name": "ACT DEXTROAMPHETAMINE SR",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "18-APR-2018",
+  "active_ingredients": [
+    {
+      "name": "DEXTROAMPHETAMINE SULFATE",
+      "strength": "10",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "CAPSULE (SUSTAINED-RELEASE)"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "ACTAVIS PHARMA COMPANY"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "DEXAMFETAMINE"
+  ]
+}

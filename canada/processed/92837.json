@@ -1,0 +1,29 @@
+{
+  "drug_code": "92837",
+  "din": "02443686",
+  "brand_name": "BUPIVACAINE INJECTION BP",
+  "class": "Human",
+  "descriptor": "SINGLE USE VIALS",
+  "last_update": "29-JUN-2016",
+  "active_ingredients": [
+    {
+      "name": "BUPIVACAINE HYDROCHLORIDE",
+      "strength": "2.5",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "BLOCK/INFILTRATION",
+    "EPIDURAL"
+  ],
+  "companies": [
+    "STERIMAX INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "BUPIVACAINE"
+  ]
+}

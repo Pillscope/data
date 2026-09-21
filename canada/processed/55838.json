@@ -1,0 +1,28 @@
+{
+  "drug_code": "55838",
+  "din": "02234470",
+  "brand_name": "ATGAM",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "14-JUN-2007",
+  "active_ingredients": [
+    {
+      "name": "LYMPHOCYTE IMMUNE GLOBULIN ANTI-THYMOCYTE GLOBULIN (EQUINE)",
+      "strength": "50",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "PFIZER CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "ANTILYMPHOCYTE IMMUNOGLOBULIN (HORSE)"
+  ]
+}

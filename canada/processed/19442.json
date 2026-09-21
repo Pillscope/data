@@ -1,0 +1,33 @@
+{
+  "drug_code": "19442",
+  "din": "02139545",
+  "brand_name": "POTASSIUM PHOSPHATES INJECTION, USP",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "06-JUL-2016",
+  "active_ingredients": [
+    {
+      "name": "POTASSIUM PHOSPHATE MONOBASIC",
+      "strength": "224",
+      "unit": "MG"
+    },
+    {
+      "name": "POTASSIUM PHOSPHATE DIBASIC",
+      "strength": "236",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "FRESENIUS KABI CANADA LTD"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "POTASSIUM PHOS INCL COMB W/0TH POT. SALTS"
+  ]
+}

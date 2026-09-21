@@ -1,0 +1,28 @@
+{
+  "drug_code": "94312",
+  "din": "02456230",
+  "brand_name": "MONOPROST",
+  "class": "Human",
+  "descriptor": "SINGLE-DOSE",
+  "last_update": "22-JAN-2018",
+  "active_ingredients": [
+    {
+      "name": "LATANOPROST",
+      "strength": "50",
+      "unit": "MCG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "OPHTHALMIC"
+  ],
+  "companies": [
+    "LABORATOIRES THEA"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "LATANOPROST"
+  ]
+}

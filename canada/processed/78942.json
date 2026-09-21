@@ -1,0 +1,28 @@
+{
+  "drug_code": "78942",
+  "din": "02304112",
+  "brand_name": "WET ONES",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "09-JAN-2017",
+  "active_ingredients": [
+    {
+      "name": "BENZETHONIUM CHLORIDE",
+      "strength": "0.3",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "WIPE"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "EDGEWELL PERSONAL CARE CANADA, ULC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "BENZETHONIUM CHLORIDE"
+  ]
+}

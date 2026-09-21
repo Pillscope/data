@@ -1,0 +1,28 @@
+{
+  "drug_code": "72916",
+  "din": "02248561",
+  "brand_name": "RIVA-PAROXETINE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "22-APR-2016",
+  "active_ingredients": [
+    {
+      "name": "PAROXETINE (PAROXETINE HYDROCHLORIDE, ISOPROPYL SOLVATE)",
+      "strength": "30",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "LABORATOIRE RIVA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "PAROXETINE"
+  ]
+}

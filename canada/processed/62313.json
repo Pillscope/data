@@ -1,0 +1,28 @@
+{
+  "drug_code": "62313",
+  "din": "02238873",
+  "brand_name": "AZOPT",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "17-FEB-2017",
+  "active_ingredients": [
+    {
+      "name": "BRINZOLAMIDE",
+      "strength": "1",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "SUSPENSION"
+  ],
+  "routes": [
+    "OPHTHALMIC"
+  ],
+  "companies": [
+    "NOVARTIS PHARMACEUTICALS CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "BRINZOLAMIDE"
+  ]
+}

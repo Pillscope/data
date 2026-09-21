@@ -1,0 +1,28 @@
+{
+  "drug_code": "43254",
+  "din": "02218496",
+  "brand_name": "MERREM",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "06-JUN-2017",
+  "active_ingredients": [
+    {
+      "name": "MEROPENEM",
+      "strength": "1",
+      "unit": "G"
+    }
+  ],
+  "forms": [
+    "POWDER FOR SOLUTION"
+  ],
+  "routes": [
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "ASTRAZENECA CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "MEROPENEM"
+  ]
+}

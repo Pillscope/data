@@ -1,0 +1,28 @@
+{
+  "drug_code": "14033",
+  "din": "00692689",
+  "brand_name": "APO-THEO-LA SRT 100MG",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "06-AUG-2015",
+  "active_ingredients": [
+    {
+      "name": "THEOPHYLLINE",
+      "strength": "100",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET (EXTENDED-RELEASE)"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "APOTEX INC"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "THEOPHYLLINE"
+  ]
+}

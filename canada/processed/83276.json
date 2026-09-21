@@ -1,0 +1,49 @@
+{
+  "drug_code": "83276",
+  "din": "02347393",
+  "brand_name": "MENVEO",
+  "class": "Human",
+  "descriptor": "1 VIAL LYOPH. MEN. A CONJUGATE & 1 VIAL  SOL. MEN. CWY CONJUGATE",
+  "last_update": "04-APR-2017",
+  "active_ingredients": [
+    {
+      "name": "MENINGOCOCCAL GROUP C OLIGOSACCHARIDE",
+      "strength": "5",
+      "unit": "MCG"
+    },
+    {
+      "name": "CORYNEBACTERIUM DIPHTHERIAE CRM-197 PROTEIN",
+      "strength": "47",
+      "unit": "MCG"
+    },
+    {
+      "name": "MENINGOCOCCAL GROUP A OLIGOSACCHARIDE",
+      "strength": "10",
+      "unit": "MCG"
+    },
+    {
+      "name": "MENINGOCOCCAL GROUP Y OLIGOSACCHARIDE",
+      "strength": "5",
+      "unit": "MCG"
+    },
+    {
+      "name": "MENINGOCOCCAL GROUP W-135 OLIGOSACCHARIDE",
+      "strength": "5",
+      "unit": "MCG"
+    }
+  ],
+  "forms": [
+    "SOLUTION",
+    "POWDER FOR SOLUTION"
+  ],
+  "routes": [
+    "INTRAMUSCULAR"
+  ],
+  "companies": [
+    "GLAXOSMITHKLINE INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "Meningococcus, A, C, Y, W-135, tetraval. purified polysacc. antigen conjugated"
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "drug_code": "94113",
+  "din": "02454521",
+  "brand_name": "IODET",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "27-JUL-2016",
+  "active_ingredients": [
+    {
+      "name": "PHOSPHORIC ACID",
+      "strength": "4",
+      "unit": "%"
+    },
+    {
+      "name": "NONYL PHENOXY POLYOXYETHYLENE ETHANOL-IODINE COMPLEX",
+      "strength": "9",
+      "unit": "%"
+    },
+    {
+      "name": "ACETIC ACID",
+      "strength": "3",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "LIBERCHEM INC"
+  ],
+  "status": "APPROVED",
+  "atc": []
+}

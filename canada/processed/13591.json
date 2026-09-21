@@ -1,0 +1,28 @@
+{
+  "drug_code": "13591",
+  "din": "00893560",
+  "brand_name": "ALOMIDE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "27-MAR-2017",
+  "active_ingredients": [
+    {
+      "name": "LODOXAMIDE (LODOXAMIDE TROMETHAMINE)",
+      "strength": "0.1",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "OPHTHALMIC"
+  ],
+  "companies": [
+    "NOVARTIS PHARMACEUTICALS CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "LODOXAMIDE"
+  ]
+}

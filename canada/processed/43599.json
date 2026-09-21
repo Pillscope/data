@@ -1,0 +1,28 @@
+{
+  "drug_code": "43599",
+  "din": "02034492",
+  "brand_name": "OPTIRAY 300",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "14-MAY-2015",
+  "active_ingredients": [
+    {
+      "name": "IOVERSOL",
+      "strength": "64",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "INTRAVASCULAR"
+  ],
+  "companies": [
+    "LIEBEL-FLARSHEIM CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "IOVERSOL"
+  ]
+}

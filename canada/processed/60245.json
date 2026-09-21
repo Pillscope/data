@@ -1,0 +1,28 @@
+{
+  "drug_code": "60245",
+  "din": "02236951",
+  "brand_name": "SEROQUEL TAB 25MG",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "21-JUL-2012",
+  "active_ingredients": [
+    {
+      "name": "QUETIAPINE (QUETIAPINE FUMARATE)",
+      "strength": "25",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "ASTRAZENECA CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "QUETIAPINE"
+  ]
+}

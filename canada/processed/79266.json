@@ -1,0 +1,28 @@
+{
+  "drug_code": "79266",
+  "din": "02306980",
+  "brand_name": "RETISERT",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "24-SEP-2012",
+  "active_ingredients": [
+    {
+      "name": "FLUOCINOLONE ACETONIDE",
+      "strength": "0.59",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "IMPLANT"
+  ],
+  "routes": [
+    "INTRAVITREAL"
+  ],
+  "companies": [
+    "BAUSCH & LOMB INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "FLUOCINOLONE ACETONIDE"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "drug_code": "81850",
+  "din": "02332841",
+  "brand_name": "CLOROX DISINFECTING TOILETWAND DISPOSABLE TOILET CLEANING SYSTEM",
+  "class": "Disinfectant",
+  "descriptor": "",
+  "last_update": "21-OCT-2015",
+  "active_ingredients": [
+    {
+      "name": "GLYCOLIC ACID",
+      "strength": "11.185",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "PAD"
+  ],
+  "routes": [
+    "DISINFECTANT (Domestic)"
+  ],
+  "companies": [
+    "THE CLOROX COMPANY OF CANADA LTD"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "TECHNICAL DISINFECTANTS"
+  ]
+}

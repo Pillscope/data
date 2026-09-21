@@ -1,0 +1,45 @@
+{
+  "drug_code": "62666",
+  "din": "02239208",
+  "brand_name": "PRIORIX",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "04-AUG-2017",
+  "active_ingredients": [
+    {
+      "name": "MUMPS VIRUS VACCINE LIVE ATTENUATED (JERYL LYNN STRAIN)",
+      "strength": "10000",
+      "unit": "UNIT"
+    },
+    {
+      "name": "RUBELLA VIRUS VACCINE LIVE ATTENUATED (WISTAR RA27/3 STRAIN)",
+      "strength": "1000",
+      "unit": "UNIT"
+    },
+    {
+      "name": "MEASLES VIRUS VACCINE LIVE ATTENUATED",
+      "strength": "1000",
+      "unit": "UNIT"
+    },
+    {
+      "name": "WATER",
+      "strength": "0.5",
+      "unit": "ML"
+    }
+  ],
+  "forms": [
+    "KIT",
+    "POWDER FOR SOLUTION"
+  ],
+  "routes": [
+    "INTRAMUSCULAR",
+    "SUBCUTANEOUS"
+  ],
+  "companies": [
+    "GLAXOSMITHKLINE INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "MEASLES,COMBIN. WITH MUMPS AND RUBELLA,LIVE ATTENUATED"
+  ]
+}

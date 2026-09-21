@@ -1,0 +1,31 @@
+{
+  "drug_code": "19631",
+  "din": "02186128",
+  "brand_name": "HX DIP LV",
+  "class": "Veterinary",
+  "descriptor": "(POST MILKING TEAT DIP)",
+  "last_update": "29-APR-2015",
+  "active_ingredients": [
+    {
+      "name": "CHLORHEXIDINE ACETATE",
+      "strength": "0.52",
+      "unit": "%"
+    },
+    {
+      "name": "GLYCERINE",
+      "strength": "4.85",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "ECOLAB CO"
+  ],
+  "status": "APPROVED",
+  "atc": []
+}

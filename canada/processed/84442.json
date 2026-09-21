@@ -1,0 +1,33 @@
+{
+  "drug_code": "84442",
+  "din": "02359391",
+  "brand_name": "DIORSKIN NUDE COMPACT GEL\u00c3\u0089E EFFET PEAU NUE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "20-JAN-2014",
+  "active_ingredients": [
+    {
+      "name": "OXYBENZONE",
+      "strength": "1.00",
+      "unit": "%"
+    },
+    {
+      "name": "OCTINOXATE",
+      "strength": "3.75",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "GEL"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "PARFUMS CHRISTIAN DIOR"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "COMBINATIONS OF PROTECTIVES AGAINST UV-RADIATION"
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "drug_code": "74000",
+  "din": "02254840",
+  "brand_name": "RELIANCE HLD HIGH LEVEL DISINFECTANT",
+  "class": "Disinfectant",
+  "descriptor": "",
+  "last_update": "28-NOV-2017",
+  "active_ingredients": [
+    {
+      "name": "SODIUM PERBORATE MONOHYDRATE",
+      "strength": "29",
+      "unit": "%"
+    },
+    {
+      "name": "ACETYLSALICYLIC ACID",
+      "strength": "31",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "POWDER"
+  ],
+  "routes": [
+    "DISINFECTANT (Medical Instruments)"
+  ],
+  "companies": [
+    "STERIS CORPORATION"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "TECHNICAL DISINFECTANTS"
+  ]
+}

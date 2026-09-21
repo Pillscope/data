@@ -1,0 +1,29 @@
+{
+  "drug_code": "44186",
+  "din": "02172747",
+  "brand_name": "OMNIPAQUE 300",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "10-APR-2008",
+  "active_ingredients": [
+    {
+      "name": "IOHEXOL",
+      "strength": "647",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "SUBARACHNOIDAL",
+    "INTRAVASCULAR"
+  ],
+  "companies": [
+    "GE HEALTHCARE CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "IOHEXOL"
+  ]
+}

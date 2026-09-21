@@ -1,0 +1,33 @@
+{
+  "drug_code": "72344",
+  "din": "02248028",
+  "brand_name": "PROGUARD DISINFECTANT SPRAY",
+  "class": "Disinfectant",
+  "descriptor": "",
+  "last_update": "21-AUG-2007",
+  "active_ingredients": [
+    {
+      "name": "O-PHENYLPHENOL",
+      "strength": "0.25",
+      "unit": "%"
+    },
+    {
+      "name": "BENZALKONIUM CHLORIDE",
+      "strength": "0.33",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "AEROSOL"
+  ],
+  "routes": [
+    "DISINFECTANT (Domestic)"
+  ],
+  "companies": [
+    "PRO-AG PRODUCTS LTD."
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "TECHNICAL DISINFECTANTS"
+  ]
+}

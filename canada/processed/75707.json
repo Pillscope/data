@@ -1,0 +1,26 @@
+{
+  "drug_code": "75707",
+  "din": "02271524",
+  "brand_name": "HIGH POTENCY CALCIUM GEL",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "09-AUG-2017",
+  "active_ingredients": [
+    {
+      "name": "CALCIUM CHLORIDE",
+      "strength": "470",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "GEL"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "CAN-VET ANIMAL HEALTH SUPPLIES LTD."
+  ],
+  "status": "MARKETED",
+  "atc": []
+}

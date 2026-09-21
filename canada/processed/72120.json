@@ -1,0 +1,28 @@
+{
+  "drug_code": "72120",
+  "din": "02247825",
+  "brand_name": "3TC",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "30-SEP-2014",
+  "active_ingredients": [
+    {
+      "name": "LAMIVUDINE",
+      "strength": "300",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "VIIV HEALTHCARE ULC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "LAMIVUDINE"
+  ]
+}

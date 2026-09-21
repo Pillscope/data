@@ -1,0 +1,28 @@
+{
+  "drug_code": "78792",
+  "din": "02302624",
+  "brand_name": "PMS-DICLOFENAC",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "17-SEP-2008",
+  "active_ingredients": [
+    {
+      "name": "DICLOFENAC SODIUM",
+      "strength": "50",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET (DELAYED-RELEASE)"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "PHARMASCIENCE INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "DICLOFENAC"
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "drug_code": "9788",
+  "din": "00795879",
+  "brand_name": "HUMULIN 30/70 (INSULIN HUMAN BIOSYNTH INJ)",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "26-MAY-2016",
+  "active_ingredients": [
+    {
+      "name": "INSULIN ISOPHANE (NPH)",
+      "strength": "70",
+      "unit": "UNIT"
+    },
+    {
+      "name": "INSULIN",
+      "strength": "30",
+      "unit": "UNIT"
+    }
+  ],
+  "forms": [
+    "SUSPENSION"
+  ],
+  "routes": [
+    "SUBCUTANEOUS"
+  ],
+  "companies": [
+    "ELI LILLY CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "INSULIN (HUMAN)"
+  ]
+}

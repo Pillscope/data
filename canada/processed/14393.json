@@ -1,0 +1,29 @@
+{
+  "drug_code": "14393",
+  "din": "02022826",
+  "brand_name": "PDP-AMANTADINE HYDROCHLORIDE SYRUP",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "29-JAN-2018",
+  "active_ingredients": [
+    {
+      "name": "AMANTADINE HYDROCHLORIDE",
+      "strength": "10",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SYRUP"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "PENDOPHARM DIVISION OF DE PHARMASCIENCE INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "AMANTADINE",
+    "AMANTADINE"
+  ]
+}

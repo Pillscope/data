@@ -1,0 +1,28 @@
+{
+  "drug_code": "62729",
+  "din": "00786055",
+  "brand_name": "JAA PYRAL 125 TABLET 125MG",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "10-MAY-2016",
+  "active_ingredients": [
+    {
+      "name": "PYRANTEL (PYRANTEL PAMOATE)",
+      "strength": "125",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "JAAPHARM CANADA INC."
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "PYRANTEL"
+  ]
+}

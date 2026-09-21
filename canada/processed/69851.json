@@ -1,0 +1,36 @@
+{
+  "drug_code": "69851",
+  "din": "02245744",
+  "brand_name": "COMPONENT E-C IMPLANTS WITH TYLAN",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "15-FEB-2018",
+  "active_ingredients": [
+    {
+      "name": "PROGESTERONE",
+      "strength": "100",
+      "unit": "MG"
+    },
+    {
+      "name": "TYLOSIN TARTRATE",
+      "strength": "29",
+      "unit": "MG"
+    },
+    {
+      "name": "ESTRADIOL BENZOATE",
+      "strength": "10",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "IMPLANT"
+  ],
+  "routes": [
+    "SUBCUTANEOUS"
+  ],
+  "companies": [
+    "ELANCO CANADA LIMITED"
+  ],
+  "status": "APPROVED",
+  "atc": []
+}

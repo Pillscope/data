@@ -1,0 +1,28 @@
+{
+  "drug_code": "15585",
+  "din": "01934317",
+  "brand_name": "ISOPTIN SR",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "08-JUN-2016",
+  "active_ingredients": [
+    {
+      "name": "VERAPAMIL HYDROCHLORIDE",
+      "strength": "180",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET (EXTENDED-RELEASE)"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "BGP PHARMA ULC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "VERAPAMIL"
+  ]
+}

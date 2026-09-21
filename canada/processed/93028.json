@@ -1,0 +1,28 @@
+{
+  "drug_code": "93028",
+  "din": "02445077",
+  "brand_name": "FINASTERIDE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "27-JAN-2016",
+  "active_ingredients": [
+    {
+      "name": "FINASTERIDE",
+      "strength": "5",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "SANIS HEALTH INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "FINASTERIDE"
+  ]
+}

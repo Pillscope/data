@@ -1,0 +1,28 @@
+{
+  "drug_code": "2471",
+  "din": "00360260",
+  "brand_name": "METHYLDOPA",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "24-APR-2012",
+  "active_ingredients": [
+    {
+      "name": "METHYLDOPA",
+      "strength": "250",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "AA PHARMA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "METHYLDOPA (RACEMIC)"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "drug_code": "11852",
+  "din": "01915436",
+  "brand_name": "NEOSTIGMINE METHYLSULFATE INJECTION USP",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "29-APR-2015",
+  "active_ingredients": [
+    {
+      "name": "NEOSTIGMINE METHYLSULFATE",
+      "strength": "2.5",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "INTRAMUSCULAR",
+    "INTRAVENOUS",
+    "SUBCUTANEOUS"
+  ],
+  "companies": [
+    "SANDOZ CANADA INCORPORATED"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "NEOSTIGMINE"
+  ]
+}

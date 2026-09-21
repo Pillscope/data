@@ -1,0 +1,29 @@
+{
+  "drug_code": "78787",
+  "din": "02302551",
+  "brand_name": "WINRHO SDF",
+  "class": "Human",
+  "descriptor": "SINGLE DOSE VIAL",
+  "last_update": "13-JAN-2018",
+  "active_ingredients": [
+    {
+      "name": "RHO D IMMUNE GLOBULIN HUMAN",
+      "strength": "600",
+      "unit": "UNIT"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "INTRAMUSCULAR",
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "SAOL THERAPEUTICS RESEARCH LIMITED"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "ANTI-D (RH) IMMUNOGLOBULIN"
+  ]
+}

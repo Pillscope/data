@@ -1,0 +1,28 @@
+{
+  "drug_code": "76392",
+  "din": "02278340",
+  "brand_name": "CIDEX OPA CONCENTRATE",
+  "class": "Disinfectant",
+  "descriptor": "",
+  "last_update": "10-JUL-2015",
+  "active_ingredients": [
+    {
+      "name": "ORTHO-PHTHALALDEHYDE",
+      "strength": "5.75",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "DISINFECTANT (Medical Instruments)"
+  ],
+  "companies": [
+    "JOHNSON & JOHNSON MEDICAL PRODUCTS"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "TECHNICAL DISINFECTANTS"
+  ]
+}

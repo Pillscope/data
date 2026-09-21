@@ -1,0 +1,51 @@
+{
+  "drug_code": "3621",
+  "din": "00493600",
+  "brand_name": "UDDER BUDDER ONT",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "20-FEB-2002",
+  "active_ingredients": [
+    {
+      "name": "PHENOL",
+      "strength": ".3",
+      "unit": "%"
+    },
+    {
+      "name": "LANOLIN",
+      "strength": "5",
+      "unit": "%"
+    },
+    {
+      "name": "OIL OF TURPENTINE",
+      "strength": "6",
+      "unit": "%"
+    },
+    {
+      "name": "METHYL SALICYLATE",
+      "strength": ".3",
+      "unit": "%"
+    },
+    {
+      "name": "BEECHWOOD CREOSOTE",
+      "strength": ".2",
+      "unit": "%"
+    },
+    {
+      "name": "EUCALYPTOL",
+      "strength": "1",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "OINTMENT"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "DOMINION VETERINARY LABORATORIES LTD."
+  ],
+  "status": "MARKETED",
+  "atc": []
+}

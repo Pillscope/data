@@ -1,0 +1,27 @@
+{
+  "drug_code": "61993",
+  "din": "02238566",
+  "brand_name": "HY-50",
+  "class": "Veterinary",
+  "descriptor": "SINGLE DOSE, PRE-FILLED SYRINGE",
+  "last_update": "13-MAY-2016",
+  "active_ingredients": [
+    {
+      "name": "HYALURONATE SODIUM",
+      "strength": "17",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "INTRA-ARTICULAR",
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "DECHRA LTD"
+  ],
+  "status": "APPROVED",
+  "atc": []
+}

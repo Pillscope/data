@@ -1,0 +1,26 @@
+{
+  "drug_code": "94168",
+  "din": "02454882",
+  "brand_name": "ALTRESYN",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "06-SEP-2017",
+  "active_ingredients": [
+    {
+      "name": "ALTRENOGEST",
+      "strength": "2.2",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "CEVA ANIMAL HEALTH INC"
+  ],
+  "status": "APPROVED",
+  "atc": []
+}

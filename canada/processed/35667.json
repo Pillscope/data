@@ -1,0 +1,46 @@
+{
+  "drug_code": "35667",
+  "din": "02192411",
+  "brand_name": "SURVIVE BRAND ENERGY PASTE FOR NEONATAL PIGLETS",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "29-APR-2015",
+  "active_ingredients": [
+    {
+      "name": "DEXTROSE",
+      "strength": "16.75",
+      "unit": "%"
+    },
+    {
+      "name": "SODIUM ACETATE",
+      "strength": "11.59",
+      "unit": "%"
+    },
+    {
+      "name": "COCONUT OIL",
+      "strength": "13.22",
+      "unit": "%"
+    },
+    {
+      "name": "POTASSIUM ACETATE",
+      "strength": "11.59",
+      "unit": "%"
+    },
+    {
+      "name": "LARD",
+      "strength": "15.46",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "PASTE"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "BIMEDA-MTC ANIMAL HEALTH INC"
+  ],
+  "status": "APPROVED",
+  "atc": []
+}

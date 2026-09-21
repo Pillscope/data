@@ -1,0 +1,58 @@
+{
+  "drug_code": "91015",
+  "din": "02425505",
+  "brand_name": "ALLERGENIC EXTRACTS - 7 GRASS MIX",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "13-JAN-2016",
+  "active_ingredients": [
+    {
+      "name": "STANDARDIZED TIMOTHY GRASS POLLEN",
+      "strength": "10000",
+      "unit": "UNIT"
+    },
+    {
+      "name": "STANDARDIZED ORCHARD GRASS POLLEN",
+      "strength": "10000",
+      "unit": "UNIT"
+    },
+    {
+      "name": "STANDARDIZED MEADOW FESCUE GRASS POLLEN",
+      "strength": "10000",
+      "unit": "UNIT"
+    },
+    {
+      "name": "STANDARDIZED PERENNIAL RYE GRASS POLLEN",
+      "strength": "10000",
+      "unit": "UNIT"
+    },
+    {
+      "name": "STANDARDIZED SWEET VERNAL GRASS POLLEN",
+      "strength": "10000",
+      "unit": "UNIT"
+    },
+    {
+      "name": "STANDARDIZED REDTOP GRASS POLLEN",
+      "strength": "10000",
+      "unit": "UNIT"
+    },
+    {
+      "name": "STANDARDIZED KENTUCKY BLUE/JUNE GRASS POLLEN",
+      "strength": "10000",
+      "unit": "UNIT"
+    }
+  ],
+  "forms": [
+    "LIQUID"
+  ],
+  "routes": [
+    "SUBCUTANEOUS"
+  ],
+  "companies": [
+    "GREER LABORATORIES INC"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "GRASS POLLEN"
+  ]
+}

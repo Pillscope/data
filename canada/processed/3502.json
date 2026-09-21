@@ -1,0 +1,28 @@
+{
+  "drug_code": "3502",
+  "din": "00463477",
+  "brand_name": "HYDRO COBEX INJ 1000MCG/ML",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "06-JUL-2011",
+  "active_ingredients": [
+    {
+      "name": "HYDROXOCOBALAMIN",
+      "strength": "1",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "LIQUID"
+  ],
+  "routes": [
+    "INTRAMUSCULAR"
+  ],
+  "companies": [
+    "KRIPPS PHARMACY LTD."
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "HYDROXOCOBALAMIN"
+  ]
+}

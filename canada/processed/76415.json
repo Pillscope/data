@@ -1,0 +1,28 @@
+{
+  "drug_code": "76415",
+  "din": "02278561",
+  "brand_name": "PMS-VENLAFAXINE XR",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "09-MAY-2008",
+  "active_ingredients": [
+    {
+      "name": "VENLAFAXINE (VENLAFAXINE HYDROCHLORIDE)",
+      "strength": "150",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "CAPSULE (EXTENDED RELEASE)"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "PHARMASCIENCE INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "VENLAFAXINE"
+  ]
+}

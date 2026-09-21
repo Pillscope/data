@@ -1,0 +1,28 @@
+{
+  "drug_code": "50174",
+  "din": "02230896",
+  "brand_name": "TOPAMAX 200MG",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "18-APR-2007",
+  "active_ingredients": [
+    {
+      "name": "TOPIRAMATE",
+      "strength": "200",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "JANSSEN INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "TOPIRAMATE"
+  ]
+}

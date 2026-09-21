@@ -1,0 +1,28 @@
+{
+  "drug_code": "79615",
+  "din": "02310538",
+  "brand_name": "RAN-RAMIPRIL",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "28-SEP-2017",
+  "active_ingredients": [
+    {
+      "name": "RAMIPRIL",
+      "strength": "5",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "CAPSULE"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "RANBAXY PHARMACEUTICALS CANADA INC."
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "RAMIPRIL"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "drug_code": "91028",
+  "din": "02425645",
+  "brand_name": "AFINITOR DISPERZ",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "17-DEC-2014",
+  "active_ingredients": [
+    {
+      "name": "EVEROLIMUS",
+      "strength": "2",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET FOR SUSPENSION"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "NOVARTIS PHARMACEUTICALS CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "EVEROLIMUS"
+  ]
+}

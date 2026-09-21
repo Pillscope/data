@@ -1,0 +1,28 @@
+{
+  "drug_code": "87692",
+  "din": "02391597",
+  "brand_name": "BISOPROLOL",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "30-OCT-2012",
+  "active_ingredients": [
+    {
+      "name": "BISOPROLOL FUMARATE",
+      "strength": "10",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "SANIS HEALTH INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "BISOPROLOL"
+  ]
+}

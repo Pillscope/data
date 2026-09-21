@@ -1,0 +1,26 @@
+{
+  "drug_code": "7270",
+  "din": "00727008",
+  "brand_name": "H-50 UDDER WASH 1.6%",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "13-JUL-2011",
+  "active_ingredients": [
+    {
+      "name": "CHLORHEXIDINE ACETATE",
+      "strength": "1.6",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "LIQUID"
+  ],
+  "routes": [
+    "UDDER WASH"
+  ],
+  "companies": [
+    "OSTREM CHEMICAL CO LTD."
+  ],
+  "status": "MARKETED",
+  "atc": []
+}

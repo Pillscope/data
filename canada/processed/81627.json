@@ -1,0 +1,33 @@
+{
+  "drug_code": "81627",
+  "din": "02330547",
+  "brand_name": "PIPERACILLIN SODIUM/TAZOBACTAM SODIUM POWDER FOR INJECTION",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "19-MAY-2010",
+  "active_ingredients": [
+    {
+      "name": "PIPERACILLIN (PIPERACILLIN SODIUM)",
+      "strength": "12",
+      "unit": "G"
+    },
+    {
+      "name": "TAZOBACTAM (TAZOBACTAM SODIUM)",
+      "strength": "1.5",
+      "unit": "G"
+    }
+  ],
+  "forms": [
+    "POWDER FOR SOLUTION"
+  ],
+  "routes": [
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "SANDOZ CANADA INCORPORATED"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "PIPERACILLIN AND BETA-LACTAMASE INHIBITOR"
+  ]
+}

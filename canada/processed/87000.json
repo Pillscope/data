@@ -1,0 +1,28 @@
+{
+  "drug_code": "87000",
+  "din": "02384264",
+  "brand_name": "XALKORI",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "27-MAY-2013",
+  "active_ingredients": [
+    {
+      "name": "Crizotinib",
+      "strength": "250",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "CAPSULE"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "PFIZER CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "CRIZOTINIB"
+  ]
+}

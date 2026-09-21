@@ -1,0 +1,28 @@
+{
+  "drug_code": "72326",
+  "din": "02248010",
+  "brand_name": "PMS-CITALOPRAM",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "02-SEP-2015",
+  "active_ingredients": [
+    {
+      "name": "CITALOPRAM (CITALOPRAM HYDROBROMIDE)",
+      "strength": "20",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "PHARMASCIENCE INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "CITALOPRAM"
+  ]
+}

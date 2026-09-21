@@ -1,0 +1,28 @@
+{
+  "drug_code": "1125",
+  "din": "00020877",
+  "brand_name": "TEVA-AMPICILLIN",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "16-JUN-2016",
+  "active_ingredients": [
+    {
+      "name": "AMPICILLIN (AMPICILLIN TRIHYDRATE)",
+      "strength": "250",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "CAPSULE"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "TEVA CANADA LIMITED"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "AMPICILLIN"
+  ]
+}

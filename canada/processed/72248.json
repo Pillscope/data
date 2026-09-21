@@ -1,0 +1,29 @@
+{
+  "drug_code": "72248",
+  "din": "02247938",
+  "brand_name": "VASOPRESSIN INJECTION USP",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "07-MAY-2015",
+  "active_ingredients": [
+    {
+      "name": "VASOPRESSIN",
+      "strength": "20",
+      "unit": "UNIT"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "INTRAMUSCULAR",
+    "SUBCUTANEOUS"
+  ],
+  "companies": [
+    "SANDOZ CANADA INCORPORATED"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "VASOPRESSIN (ARGIPRESSIN)"
+  ]
+}

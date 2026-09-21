@@ -1,0 +1,26 @@
+{
+  "drug_code": "82281",
+  "din": "02337207",
+  "brand_name": "REVERTOR",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "28-JUN-2013",
+  "active_ingredients": [
+    {
+      "name": "ATIPAMEZOLE HYDROCHLORIDE",
+      "strength": "5",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "INTRAMUSCULAR"
+  ],
+  "companies": [
+    "MODERN VETERINARY THERAPEUTICS LLC"
+  ],
+  "status": "APPROVED",
+  "atc": []
+}

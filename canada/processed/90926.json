@@ -1,0 +1,28 @@
+{
+  "drug_code": "90926",
+  "din": "02424584",
+  "brand_name": "CYCLOBENZAPRINE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "06-MAR-2018",
+  "active_ingredients": [
+    {
+      "name": "CYCLOBENZAPRINE HYDROCHLORIDE",
+      "strength": "10",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "SIVEM PHARMACEUTICALS ULC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "CYCLOBENZAPRINE"
+  ]
+}

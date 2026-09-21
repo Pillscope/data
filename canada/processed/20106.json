@@ -1,0 +1,36 @@
+{
+  "drug_code": "20106",
+  "din": "02172658",
+  "brand_name": "SUPER CHLOROSOL-250",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "20-DEC-2017",
+  "active_ingredients": [
+    {
+      "name": "SULFAMETHAZINE",
+      "strength": "110",
+      "unit": "G"
+    },
+    {
+      "name": "CHLORTETRACYCLINE HYDROCHLORIDE",
+      "strength": "110",
+      "unit": "G"
+    },
+    {
+      "name": "PENICILLIN G (PENICILLIN G PROCAINE)",
+      "strength": "55",
+      "unit": "G"
+    }
+  ],
+  "forms": [
+    "DRUG PREMIX"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "BIO AGRI MIX LP"
+  ],
+  "status": "APPROVED",
+  "atc": []
+}

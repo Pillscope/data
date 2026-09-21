@@ -1,0 +1,28 @@
+{
+  "drug_code": "12864",
+  "din": "00874426",
+  "brand_name": "CETRIMIDE CREAM 0.5%",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "10-MAY-2016",
+  "active_ingredients": [
+    {
+      "name": "CETRIMONIUM BROMIDE",
+      "strength": ".5",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "CREAM"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "CANADIAN CUSTOM PACKAGING COMPANY"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "CETRIMONIUM"
+  ]
+}

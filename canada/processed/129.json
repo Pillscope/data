@@ -1,0 +1,46 @@
+{
+  "drug_code": "129",
+  "din": "00097403",
+  "brand_name": "GERME ZONE",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "05-JUL-1999",
+  "active_ingredients": [
+    {
+      "name": "POTASSIUM PERMANGANATE",
+      "strength": "908",
+      "unit": "G"
+    },
+    {
+      "name": "ALUMINUM SULFATE",
+      "strength": "908",
+      "unit": "G"
+    },
+    {
+      "name": "ALUMINUM POTASSIUM SULFATE",
+      "strength": "908",
+      "unit": "G"
+    },
+    {
+      "name": "SODIUM CHLORIDE",
+      "strength": "908",
+      "unit": "G"
+    },
+    {
+      "name": "POTASSIUM CHLORATE",
+      "strength": "908",
+      "unit": "G"
+    }
+  ],
+  "forms": [
+    "LIQUID"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "DOMINION VETERINARY LABORATORIES LTD."
+  ],
+  "status": "MARKETED",
+  "atc": []
+}

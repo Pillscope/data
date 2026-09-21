@@ -1,0 +1,54 @@
+{
+  "drug_code": "3497",
+  "din": "00463434",
+  "brand_name": "FORTAPLEX INJ",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "06-JUL-2011",
+  "active_ingredients": [
+    {
+      "name": "NICOTINAMIDE",
+      "strength": "100",
+      "unit": "MG"
+    },
+    {
+      "name": "THIAMINE HYDROCHLORIDE",
+      "strength": "100",
+      "unit": "MG"
+    },
+    {
+      "name": "PYRIDOXINE HYDROCHLORIDE",
+      "strength": "10",
+      "unit": "MG"
+    },
+    {
+      "name": "VITAMIN B2 (RIBOFLAVIN 5'-PHOSPHATE SODIUM)",
+      "strength": "10",
+      "unit": "MG"
+    },
+    {
+      "name": "DEXPANTHENOL",
+      "strength": "10",
+      "unit": "MG"
+    },
+    {
+      "name": "VITAMIN B12",
+      "strength": "100",
+      "unit": "MCG"
+    }
+  ],
+  "forms": [
+    "LIQUID"
+  ],
+  "routes": [
+    "INTRAMUSCULAR",
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "KRIPPS PHARMACY LTD."
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "VITAMIN B-COMPLEX, PLAIN"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "drug_code": "43399",
+  "din": "02224186",
+  "brand_name": "DENAGARD",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "25-JUL-2017",
+  "active_ingredients": [
+    {
+      "name": "TIAMULIN (TIAMULIN HYDROGEN FUMARATE)",
+      "strength": "100",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "INTRAMUSCULAR"
+  ],
+  "companies": [
+    "ELANCO CANADA LIMITED"
+  ],
+  "status": "APPROVED",
+  "atc": []
+}

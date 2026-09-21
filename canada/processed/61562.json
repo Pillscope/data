@@ -1,0 +1,28 @@
+{
+  "drug_code": "61562",
+  "din": "02238171",
+  "brand_name": "MYLAN-AMOXICILLIN",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "01-SEP-2010",
+  "active_ingredients": [
+    {
+      "name": "AMOXICILLIN (AMOXICILLIN TRIHYDRATE)",
+      "strength": "250",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "CAPSULE"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "MYLAN PHARMACEUTICALS ULC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "AMOXICILLIN"
+  ]
+}

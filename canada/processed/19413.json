@@ -1,0 +1,28 @@
+{
+  "drug_code": "19413",
+  "din": "02154900",
+  "brand_name": "3M STERI-GAS",
+  "class": "Disinfectant",
+  "descriptor": "",
+  "last_update": "02-FEB-2004",
+  "active_ingredients": [
+    {
+      "name": "ETHYLENE OXIDE",
+      "strength": "100",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "GAS"
+  ],
+  "routes": [
+    "DISINFECTANT (Medical Instruments)"
+  ],
+  "companies": [
+    "3M CANADA COMPANY"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "TECHNICAL DISINFECTANTS"
+  ]
+}

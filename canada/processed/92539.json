@@ -1,0 +1,28 @@
+{
+  "drug_code": "92539",
+  "din": "02441020",
+  "brand_name": "APO-DICLOFENAC OPHTHALMIC",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "23-FEB-2016",
+  "active_ingredients": [
+    {
+      "name": "DICLOFENAC SODIUM",
+      "strength": "0.1",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "OPHTHALMIC"
+  ],
+  "companies": [
+    "APOTEX INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "DICLOFENAC"
+  ]
+}

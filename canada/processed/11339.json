@@ -1,0 +1,39 @@
+{
+  "drug_code": "11339",
+  "din": "00834319",
+  "brand_name": "ACETAZONE FORTE C8",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "03-FEB-2017",
+  "active_ingredients": [
+    {
+      "name": "CODEINE PHOSPHATE",
+      "strength": "8",
+      "unit": "MG"
+    },
+    {
+      "name": "CHLORZOXAZONE",
+      "strength": "250",
+      "unit": "MG"
+    },
+    {
+      "name": "ACETAMINOPHEN",
+      "strength": "300",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "TEVA CANADA LIMITED"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "CHLORZOXAZONE, COMBINATIONS EXCL PSYCHOLEPTICS",
+    "CHLORZOXAZONE, COMBINATIONS EXCL PSYCHOLEPTICS"
+  ]
+}

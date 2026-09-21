@@ -1,0 +1,28 @@
+{
+  "drug_code": "88374",
+  "din": "02398826",
+  "brand_name": "RIVA-MONTELUKAST FC",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "30-MAR-2016",
+  "active_ingredients": [
+    {
+      "name": "MONTELUKAST (MONTELUKAST SODIUM)",
+      "strength": "10",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "LABORATOIRE RIVA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "MONTELUKAST"
+  ]
+}

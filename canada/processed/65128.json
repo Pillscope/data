@@ -1,0 +1,28 @@
+{
+  "drug_code": "65128",
+  "din": "02241488",
+  "brand_name": "EXPECTORANT (REGULAR STRENGTH) COUGH SYRUP",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "27-FEB-2009",
+  "active_ingredients": [
+    {
+      "name": "GUAIFENESIN",
+      "strength": "100",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SYRUP"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "TRILLIUM HEALTH CARE PRODUCTS INC"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "GUAIFENESIN"
+  ]
+}

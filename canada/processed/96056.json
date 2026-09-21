@@ -1,0 +1,28 @@
+{
+  "drug_code": "96056",
+  "din": "02471450",
+  "brand_name": "MINT-EPLERENONE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "26-APR-2018",
+  "active_ingredients": [
+    {
+      "name": "EPLERENONE",
+      "strength": "50",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "MINT PHARMACEUTICALS INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "EPLERENONE"
+  ]
+}

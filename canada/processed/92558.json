@@ -1,0 +1,26 @@
+{
+  "drug_code": "92558",
+  "din": "02441187",
+  "brand_name": "MELOXICAM ORAL SUSPENSION",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "26-NOV-2015",
+  "active_ingredients": [
+    {
+      "name": "MELOXICAM",
+      "strength": "15",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SUSPENSION"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "ALBERTA VETERINARY LABORATORIES LTD"
+  ],
+  "status": "APPROVED",
+  "atc": []
+}

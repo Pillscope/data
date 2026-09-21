@@ -1,0 +1,26 @@
+{
+  "drug_code": "88907",
+  "din": "02404281",
+  "brand_name": "T-1%",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "08-DEC-2016",
+  "active_ingredients": [
+    {
+      "name": "TETRACYCLINE HYDROCHLORIDE",
+      "strength": "10",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "OINTMENT"
+  ],
+  "routes": [
+    "OPHTHALMIC"
+  ],
+  "companies": [
+    "SANTE ANIMALE ANIVET INC"
+  ],
+  "status": "APPROVED",
+  "atc": []
+}

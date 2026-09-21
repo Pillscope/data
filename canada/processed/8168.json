@@ -1,0 +1,27 @@
+{
+  "drug_code": "8168",
+  "din": "00748803",
+  "brand_name": "ACTH 40 INJ 40UNIT/ML",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "04-SEP-2015",
+  "active_ingredients": [
+    {
+      "name": "ACTH",
+      "strength": "40",
+      "unit": "UNIT"
+    }
+  ],
+  "forms": [
+    "LIQUID"
+  ],
+  "routes": [
+    "INTRAMUSCULAR",
+    "SUBCUTANEOUS"
+  ],
+  "companies": [
+    "BROCK VETERINARY SUPPLY CO"
+  ],
+  "status": "MARKETED",
+  "atc": []
+}

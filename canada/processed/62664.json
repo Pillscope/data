@@ -1,0 +1,26 @@
+{
+  "drug_code": "62664",
+  "din": "02239206",
+  "brand_name": "CLOMICALM",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "19-DEC-2016",
+  "active_ingredients": [
+    {
+      "name": "CLOMIPRAMINE HYDROCHLORIDE",
+      "strength": "20",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "ELANCO CANADA LIMITED"
+  ],
+  "status": "APPROVED",
+  "atc": []
+}

@@ -1,0 +1,29 @@
+{
+  "drug_code": "37494",
+  "din": "02227029",
+  "brand_name": "AMPICILLIN FOR INJECTION",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "06-JUN-2016",
+  "active_ingredients": [
+    {
+      "name": "AMPICILLIN (AMPICILLIN SODIUM)",
+      "strength": "250",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "POWDER FOR SOLUTION"
+  ],
+  "routes": [
+    "INTRAMUSCULAR",
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "FRESENIUS KABI CANADA LTD"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "AMPICILLIN"
+  ]
+}

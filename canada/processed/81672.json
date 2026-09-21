@@ -1,0 +1,28 @@
+{
+  "drug_code": "81672",
+  "din": "02330989",
+  "brand_name": "MULTAQ",
+  "class": "Human",
+  "descriptor": "FILM-COATED TABLETS",
+  "last_update": "15-SEP-2014",
+  "active_ingredients": [
+    {
+      "name": "DRONEDARONE (DRONEDARONE HYDROCHLORIDE)",
+      "strength": "400",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "SANOFI-AVENTIS CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "DRONEDARONE"
+  ]
+}

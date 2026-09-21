@@ -1,0 +1,28 @@
+{
+  "drug_code": "87775",
+  "din": "02392488",
+  "brand_name": "BIO-ANASTROZOLE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "04-APR-2013",
+  "active_ingredients": [
+    {
+      "name": "ANASTROZOLE",
+      "strength": "1",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "BIOMED PHARMA"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "ANASTROZOLE"
+  ]
+}

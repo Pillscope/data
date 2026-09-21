@@ -1,0 +1,32 @@
+{
+  "drug_code": "92016",
+  "din": "02435810",
+  "brand_name": "EPINEPHRINE INJECTION",
+  "class": "Human",
+  "descriptor": "SINGLE USE",
+  "last_update": "29-JUL-2017",
+  "active_ingredients": [
+    {
+      "name": "EPINEPHRINE",
+      "strength": "1",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "INTRACARDIAC",
+    "INTRAMUSCULAR",
+    "INTRATRACHEAL",
+    "INTRAVENOUS",
+    "SUBCUTANEOUS"
+  ],
+  "companies": [
+    "TELIGENT OU"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "EPINEPHRINE"
+  ]
+}

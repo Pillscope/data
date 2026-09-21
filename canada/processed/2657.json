@@ -1,0 +1,28 @@
+{
+  "drug_code": "2657",
+  "din": "00362158",
+  "brand_name": "APO DIAZEPAM TAB 5MG",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "07-MAR-2006",
+  "active_ingredients": [
+    {
+      "name": "DIAZEPAM",
+      "strength": "5",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "APOTEX INC"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "DIAZEPAM"
+  ]
+}

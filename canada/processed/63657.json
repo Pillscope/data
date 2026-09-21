@@ -1,0 +1,28 @@
+{
+  "drug_code": "63657",
+  "din": "02240142",
+  "brand_name": "PROVON MEDICATED LOTION SOAP WITH TRICLOSAN",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "27-DEC-2012",
+  "active_ingredients": [
+    {
+      "name": "TRICLOSAN",
+      "strength": "0.3",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "LIQUID"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "GOJO INDUSTRIES, INC."
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "TRICLOSAN"
+  ]
+}

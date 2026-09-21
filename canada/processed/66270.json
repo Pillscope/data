@@ -1,0 +1,28 @@
+{
+  "drug_code": "66270",
+  "din": "02242522",
+  "brand_name": "ADVIL PEDIATRIC DROPS",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "28-AUG-2012",
+  "active_ingredients": [
+    {
+      "name": "IBUPROFEN",
+      "strength": "40",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SUSPENSION"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "PFIZER CONSUMER HEALTHCARE A DIVISION OF PFIZER CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "IBUPROFEN"
+  ]
+}

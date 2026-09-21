@@ -1,0 +1,28 @@
+{
+  "drug_code": "86529",
+  "din": "02379422",
+  "brand_name": "TOPOTECAN HYDROCHLORIDE FOR INJECTION",
+  "class": "Human",
+  "descriptor": "SINGLE-USE VIAL",
+  "last_update": "16-AUG-2017",
+  "active_ingredients": [
+    {
+      "name": "TOPOTECAN (TOPOTECAN HYDROCHLORIDE)",
+      "strength": "1",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "PFIZER CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "TOPOTECAN"
+  ]
+}

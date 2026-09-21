@@ -1,0 +1,34 @@
+{
+  "drug_code": "93783",
+  "din": "02451549",
+  "brand_name": "VIACORAM",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "20-MAY-2016",
+  "active_ingredients": [
+    {
+      "name": "AMLODIPINE (AMLODIPINE BESYLATE)",
+      "strength": "5",
+      "unit": "MG"
+    },
+    {
+      "name": "PERINDOPRIL ARGININE",
+      "strength": "7",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "SERVIER CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "PERINDOPRIL AND AMLODIPINE",
+    "PERINDOPRIL AND AMLODIPINE"
+  ]
+}

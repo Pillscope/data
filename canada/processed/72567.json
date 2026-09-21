@@ -1,0 +1,28 @@
+{
+  "drug_code": "72567",
+  "din": "02248231",
+  "brand_name": "ADVIL EXTRA STRENGTH LIQUI-GELS",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "26-SEP-2012",
+  "active_ingredients": [
+    {
+      "name": "IBUPROFEN",
+      "strength": "400",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "CAPSULE"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "PFIZER CONSUMER HEALTHCARE A DIVISION OF PFIZER CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "IBUPROFEN"
+  ]
+}

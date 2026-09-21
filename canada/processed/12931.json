@@ -1,0 +1,31 @@
+{
+  "drug_code": "12931",
+  "din": "01981404",
+  "brand_name": "BRIODINE",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "04-JUN-2012",
+  "active_ingredients": [
+    {
+      "name": "OIL OF SWEET ALMOND",
+      "strength": "98",
+      "unit": "%"
+    },
+    {
+      "name": "IODINE",
+      "strength": "2",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "SUBCUTANEOUS"
+  ],
+  "companies": [
+    "CENTRAL SALES LIMITED"
+  ],
+  "status": "APPROVED",
+  "atc": []
+}

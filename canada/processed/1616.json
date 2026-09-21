@@ -1,0 +1,36 @@
+{
+  "drug_code": "1616",
+  "din": "00260126",
+  "brand_name": "TRIPLE SULFA BOLUS",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "12-JAN-2018",
+  "active_ingredients": [
+    {
+      "name": "SULFAMETHAZINE",
+      "strength": "3.9",
+      "unit": "G"
+    },
+    {
+      "name": "SULFANILAMIDE",
+      "strength": "5.85",
+      "unit": "G"
+    },
+    {
+      "name": "SULFATHIAZOLE",
+      "strength": "5.85",
+      "unit": "G"
+    }
+  ],
+  "forms": [
+    "BOLUS"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "DOMINION VETERINARY LABORATORIES LTD."
+  ],
+  "status": "MARKETED",
+  "atc": []
+}

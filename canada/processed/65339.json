@@ -1,0 +1,28 @@
+{
+  "drug_code": "65339",
+  "din": "02241679",
+  "brand_name": "POTASSIUM CHLORIDE INJECTION",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "23-JUN-2006",
+  "active_ingredients": [
+    {
+      "name": "POTASSIUM CHLORIDE",
+      "strength": "29.8",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "LIQUID"
+  ],
+  "routes": [
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "BAXTER CORPORATION"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "POTASSIUM CHLORIDE"
+  ]
+}

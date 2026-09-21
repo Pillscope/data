@@ -1,0 +1,28 @@
+{
+  "drug_code": "94501",
+  "din": "02457989",
+  "brand_name": "NAT-OSELTAMIVIR",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "24-MAY-2017",
+  "active_ingredients": [
+    {
+      "name": "OSELTAMIVIR (OSELTAMIVIR PHOSPHATE)",
+      "strength": "75",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "CAPSULE"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "NATCO PHARMA (CANADA) INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "OSELTAMIVIR"
+  ]
+}

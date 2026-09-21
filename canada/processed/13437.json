@@ -1,0 +1,28 @@
+{
+  "drug_code": "13437",
+  "din": "01910272",
+  "brand_name": "TEVA-CLOBETASOL",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "20-DEC-2017",
+  "active_ingredients": [
+    {
+      "name": "CLOBETASOL PROPIONATE",
+      "strength": "0.05",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "CREAM"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "TEVA CANADA LIMITED"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "CLOBETASOL"
+  ]
+}

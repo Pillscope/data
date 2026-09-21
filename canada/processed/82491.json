@@ -1,0 +1,27 @@
+{
+  "drug_code": "82491",
+  "din": "02339307",
+  "brand_name": "LUTROPIN-V DUAL PACK/ EMBALLAGE DOUBLE",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "28-JAN-2016",
+  "active_ingredients": [
+    {
+      "name": "PORCINE PITUITARY LUTEINIZING HORMONE",
+      "strength": "25",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "POWDER FOR SOLUTION"
+  ],
+  "routes": [
+    "INTRAVENOUS",
+    "SUBCUTANEOUS"
+  ],
+  "companies": [
+    "VETOQUINOL N A INC"
+  ],
+  "status": "APPROVED",
+  "atc": []
+}

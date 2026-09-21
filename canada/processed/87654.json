@@ -1,0 +1,28 @@
+{
+  "drug_code": "87654",
+  "din": "02391171",
+  "brand_name": "PMS-CANDESARTAN",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "20-DEC-2013",
+  "active_ingredients": [
+    {
+      "name": "CANDESARTAN CILEXETIL",
+      "strength": "4",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "PHARMASCIENCE INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "CANDESARTAN"
+  ]
+}

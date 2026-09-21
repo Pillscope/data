@@ -1,0 +1,28 @@
+{
+  "drug_code": "73990",
+  "din": "02254735",
+  "brand_name": "OXYTROL",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "19-MAR-2018",
+  "active_ingredients": [
+    {
+      "name": "OXYBUTYNIN",
+      "strength": "3.9",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "PATCH"
+  ],
+  "routes": [
+    "TRANSDERMAL"
+  ],
+  "companies": [
+    "ALLERGAN INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "OXYBUTYNIN"
+  ]
+}

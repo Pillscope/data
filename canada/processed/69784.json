@@ -1,0 +1,26 @@
+{
+  "drug_code": "69784",
+  "din": "02245684",
+  "brand_name": "CALICIDE",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "19-FEB-2014",
+  "active_ingredients": [
+    {
+      "name": "TEFLUBENZURON",
+      "strength": "1000",
+      "unit": "G"
+    }
+  ],
+  "forms": [
+    "POWDER"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "SKRETTING"
+  ],
+  "status": "APPROVED",
+  "atc": []
+}

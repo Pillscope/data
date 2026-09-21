@@ -1,0 +1,28 @@
+{
+  "drug_code": "81581",
+  "din": "02330059",
+  "brand_name": "METACAM 20MG/ML SOLUTION FOR INJECTION",
+  "class": "Veterinary",
+  "descriptor": "SC FOR SHEEP; SC OR IV FOR CATTLE; IM FOR SWINE",
+  "last_update": "06-SEP-2017",
+  "active_ingredients": [
+    {
+      "name": "MELOXICAM",
+      "strength": "20",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "INTRAMUSCULAR",
+    "INTRAVENOUS",
+    "SUBCUTANEOUS"
+  ],
+  "companies": [
+    "BOEHRINGER INGELHEIM (CANADA) LTD LTEE"
+  ],
+  "status": "APPROVED",
+  "atc": []
+}

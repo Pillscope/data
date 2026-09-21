@@ -1,0 +1,27 @@
+{
+  "drug_code": "12932",
+  "din": "01985272",
+  "brand_name": "CALCIUM BOROGLUCONATE 23% LIQ",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "20-JUL-2004",
+  "active_ingredients": [
+    {
+      "name": "CALCIUM BOROGLUCONATE",
+      "strength": "23",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "INTRAVENOUS",
+    "SUBCUTANEOUS"
+  ],
+  "companies": [
+    "CITADEL ANIMAL HEALTH"
+  ],
+  "status": "MARKETED",
+  "atc": []
+}

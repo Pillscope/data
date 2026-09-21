@@ -1,0 +1,31 @@
+{
+  "drug_code": "9342",
+  "din": "00654094",
+  "brand_name": "D-HORN PASTE",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "26-OCT-2000",
+  "active_ingredients": [
+    {
+      "name": "CALCIUM HYDROXIDE",
+      "strength": "18.4",
+      "unit": "G"
+    },
+    {
+      "name": "SODIUM HYDROXIDE",
+      "strength": "46",
+      "unit": "G"
+    }
+  ],
+  "forms": [
+    "PASTE"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "DOMINION VETERINARY LABORATORIES LTD."
+  ],
+  "status": "MARKETED",
+  "atc": []
+}

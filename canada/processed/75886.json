@@ -1,0 +1,28 @@
+{
+  "drug_code": "75886",
+  "din": "02273373",
+  "brand_name": "APO-AMLODIPINE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "28-FEB-2012",
+  "active_ingredients": [
+    {
+      "name": "AMLODIPINE (AMLODIPINE BESYLATE)",
+      "strength": "5.0",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "APOTEX INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "AMLODIPINE"
+  ]
+}

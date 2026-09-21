@@ -1,0 +1,28 @@
+{
+  "drug_code": "89698",
+  "din": "02412365",
+  "brand_name": "KADCYLA",
+  "class": "Human",
+  "descriptor": "SINGLE-USE VIAL",
+  "last_update": "21-FEB-2018",
+  "active_ingredients": [
+    {
+      "name": "TRASTUZUMAB EMTANSINE",
+      "strength": "100",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "POWDER FOR SOLUTION"
+  ],
+  "routes": [
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "HOFFMANN-LA ROCHE LIMITED"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "TRASTUZUMAB EMTANSINE"
+  ]
+}

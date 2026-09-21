@@ -1,0 +1,28 @@
+{
+  "drug_code": "93538",
+  "din": "02449552",
+  "brand_name": "AURO-ZIPRASIDONE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "13-APR-2018",
+  "active_ingredients": [
+    {
+      "name": "ZIPRASIDONE (ZIPRASIDONE HYDROCHLORIDE MONOHYDRATE)",
+      "strength": "40",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "CAPSULE"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "AURO PHARMA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "ZIPRASIDONE"
+  ]
+}

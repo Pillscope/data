@@ -1,0 +1,28 @@
+{
+  "drug_code": "63374",
+  "din": "02239886",
+  "brand_name": "SUSTIVA 50MG",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "24-JAN-2013",
+  "active_ingredients": [
+    {
+      "name": "EFAVIRENZ",
+      "strength": "50",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "CAPSULE"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "BRISTOL-MYERS SQUIBB CANADA"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "EFAVIRENZ"
+  ]
+}

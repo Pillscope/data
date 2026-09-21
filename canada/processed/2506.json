@@ -1,0 +1,33 @@
+{
+  "drug_code": "2506",
+  "din": "00375799",
+  "brand_name": "LIGNOSPAN FORTE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "23-FEB-2010",
+  "active_ingredients": [
+    {
+      "name": "EPINEPHRINE (EPINEPHRINE BITARTRATE)",
+      "strength": "36",
+      "unit": "MCG"
+    },
+    {
+      "name": "LIDOCAINE HYDROCHLORIDE",
+      "strength": "36",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "LIQUID"
+  ],
+  "routes": [
+    "BLOCK/INFILTRATION"
+  ],
+  "companies": [
+    "SEPTODONT"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "LIDOCAINE, COMBINATIONS"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "drug_code": "874",
+  "din": "00030570",
+  "brand_name": "DALACIN C 150 MG",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "05-MAY-2009",
+  "active_ingredients": [
+    {
+      "name": "CLINDAMYCIN (CLINDAMYCIN HYDROCHLORIDE)",
+      "strength": "150",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "CAPSULE"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "PFIZER CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "CLINDAMYCIN"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "drug_code": "13370",
+  "din": "02010909",
+  "brand_name": "PROSCAR",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "23-MAR-2009",
+  "active_ingredients": [
+    {
+      "name": "FINASTERIDE",
+      "strength": "5",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "MERCK CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "FINASTERIDE"
+  ]
+}

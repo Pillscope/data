@@ -1,0 +1,28 @@
+{
+  "drug_code": "16474",
+  "din": "02009757",
+  "brand_name": "CODEINE 30",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "25-JAN-2016",
+  "active_ingredients": [
+    {
+      "name": "CODEINE PHOSPHATE",
+      "strength": "30",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "LABORATOIRE RIVA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "CODEINE"
+  ]
+}

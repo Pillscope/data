@@ -1,0 +1,28 @@
+{
+  "drug_code": "89786",
+  "din": "02413183",
+  "brand_name": "SIMPONI",
+  "class": "Human",
+  "descriptor": "SINGLE-USE AUTOINJECTOR",
+  "last_update": "31-OCT-2013",
+  "active_ingredients": [
+    {
+      "name": "GOLIMUMAB",
+      "strength": "100",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "SUBCUTANEOUS"
+  ],
+  "companies": [
+    "JANSSEN INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "GOLIMUMAB"
+  ]
+}

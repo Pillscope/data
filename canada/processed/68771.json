@@ -1,0 +1,28 @@
+{
+  "drug_code": "68771",
+  "din": "02244781",
+  "brand_name": "DIOVAN 80MG TABLETS",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "12-AUG-2009",
+  "active_ingredients": [
+    {
+      "name": "VALSARTAN",
+      "strength": "80",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "NOVARTIS PHARMACEUTICALS CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "VALSARTAN"
+  ]
+}

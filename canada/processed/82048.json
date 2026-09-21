@@ -1,0 +1,28 @@
+{
+  "drug_code": "82048",
+  "din": "02334852",
+  "brand_name": "NORDITROPIN NORDIFLEX",
+  "class": "Human",
+  "descriptor": "PRE-FILLED PEN",
+  "last_update": "07-JAN-2016",
+  "active_ingredients": [
+    {
+      "name": "SOMATROPIN",
+      "strength": "5",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "SUBCUTANEOUS"
+  ],
+  "companies": [
+    "NOVO NORDISK CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "SOMATROPIN"
+  ]
+}

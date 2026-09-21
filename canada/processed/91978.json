@@ -1,0 +1,28 @@
+{
+  "drug_code": "91978",
+  "din": "02435470",
+  "brand_name": "FORXIGA",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "27-MAR-2015",
+  "active_ingredients": [
+    {
+      "name": "Dapagliflozin (Dapagliflozin propanediol monohydrate)",
+      "strength": "10",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "ASTRAZENECA CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "Dapagliflozin"
+  ]
+}

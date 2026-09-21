@@ -1,0 +1,26 @@
+{
+  "drug_code": "80741",
+  "din": "02322005",
+  "brand_name": "VETORYL 10 MG",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "16-JUL-2014",
+  "active_ingredients": [
+    {
+      "name": "TRILOSTANE",
+      "strength": "10",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "CAPSULE"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "DECHRA LTD"
+  ],
+  "status": "APPROVED",
+  "atc": []
+}

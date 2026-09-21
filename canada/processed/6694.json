@@ -1,0 +1,51 @@
+{
+  "drug_code": "6694",
+  "din": "00617075",
+  "brand_name": "WORK",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "13-APR-1999",
+  "active_ingredients": [
+    {
+      "name": "IODINE",
+      "strength": "120",
+      "unit": "MG"
+    },
+    {
+      "name": "CAMPHOR",
+      "strength": "100",
+      "unit": "MG"
+    },
+    {
+      "name": "OIL OF TURPENTINE",
+      "strength": ".05",
+      "unit": "MG"
+    },
+    {
+      "name": "MERCURIC CHLORIDE",
+      "strength": "3",
+      "unit": "MG"
+    },
+    {
+      "name": "ISOPROPYL ALCOHOL",
+      "strength": ".6",
+      "unit": "MG"
+    },
+    {
+      "name": "POTASSIUM IODIDE",
+      "strength": "26",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "LIQUID"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "UNIVET PHARMACEUTICALS LTD."
+  ],
+  "status": "MARKETED",
+  "atc": []
+}

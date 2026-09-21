@@ -1,0 +1,29 @@
+{
+  "drug_code": "93776",
+  "din": "02451484",
+  "brand_name": "KOVALTRY",
+  "class": "Human",
+  "descriptor": "WITH VIAL ADAPTER. SINGLE USE VIAL & 5ML PREFILLED DILUENT SYRINGE",
+  "last_update": "28-NOV-2017",
+  "active_ingredients": [
+    {
+      "name": "ANTIHEMOPHILIC FACTOR (RECOMBINANT)",
+      "strength": "2000",
+      "unit": "UNIT"
+    }
+  ],
+  "forms": [
+    "KIT",
+    "POWDER FOR SOLUTION"
+  ],
+  "routes": [
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "BAYER INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "COAGULATION FACTOR VIII"
+  ]
+}

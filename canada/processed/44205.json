@@ -1,0 +1,26 @@
+{
+  "drug_code": "44205",
+  "din": "02175940",
+  "brand_name": "POT-PEN",
+  "class": "Veterinary",
+  "descriptor": "USP PENICILLIN G POTASSIUM WATER SOLUBLE POWDER",
+  "last_update": "18-JAN-2018",
+  "active_ingredients": [
+    {
+      "name": "PENICILLIN G POTASSIUM",
+      "strength": "15000000000",
+      "unit": "UNIT"
+    }
+  ],
+  "forms": [
+    "POWDER FOR SOLUTION"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "VETOQUINOL N A INC"
+  ],
+  "status": "APPROVED",
+  "atc": []
+}

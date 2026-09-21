@@ -1,0 +1,41 @@
+{
+  "drug_code": "84909",
+  "din": "02364166",
+  "brand_name": "ORIDERMYL",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "09-AUG-2016",
+  "active_ingredients": [
+    {
+      "name": "TRIAMCINOLONE ACETONIDE",
+      "strength": "1",
+      "unit": "MG"
+    },
+    {
+      "name": "NEOMYCIN SULFATE",
+      "strength": "3500",
+      "unit": "UNIT"
+    },
+    {
+      "name": "NYSTATIN",
+      "strength": "100000",
+      "unit": "UNIT"
+    },
+    {
+      "name": "PERMETHRIN",
+      "strength": "10",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "OINTMENT"
+  ],
+  "routes": [
+    "OTIC"
+  ],
+  "companies": [
+    "VETOQUINOL N A INC"
+  ],
+  "status": "APPROVED",
+  "atc": []
+}

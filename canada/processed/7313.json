@@ -1,0 +1,33 @@
+{
+  "drug_code": "7313",
+  "din": "00726540",
+  "brand_name": "TEVA-TRIMEL",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "05-MAY-2015",
+  "active_ingredients": [
+    {
+      "name": "SULFAMETHOXAZOLE",
+      "strength": "40",
+      "unit": "MG"
+    },
+    {
+      "name": "TRIMETHOPRIM",
+      "strength": "8",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SUSPENSION"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "TEVA CANADA LIMITED"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "SULFAMETHOXAZOLE AND TRIMETHOPRIM"
+  ]
+}

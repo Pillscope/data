@@ -1,0 +1,31 @@
+{
+  "drug_code": "50587",
+  "din": "02231280",
+  "brand_name": "REVALOR-H",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "28-OCT-2013",
+  "active_ingredients": [
+    {
+      "name": "ESTRADIOL",
+      "strength": "14",
+      "unit": "MG"
+    },
+    {
+      "name": "TRENBOLONE ACETATE",
+      "strength": "140",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "IMPLANT"
+  ],
+  "routes": [
+    "SUBCUTANEOUS"
+  ],
+  "companies": [
+    "INTERVET CANADA CORP"
+  ],
+  "status": "APPROVED",
+  "atc": []
+}

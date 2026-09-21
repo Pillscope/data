@@ -1,0 +1,28 @@
+{
+  "drug_code": "92402",
+  "din": "02439611",
+  "brand_name": "HUMALOG 200 UNITS/ML KWIKPEN",
+  "class": "Human",
+  "descriptor": "PREFILLED PEN",
+  "last_update": "23-SEP-2015",
+  "active_ingredients": [
+    {
+      "name": "INSULIN LISPRO",
+      "strength": "200",
+      "unit": "UNIT"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "SUBCUTANEOUS"
+  ],
+  "companies": [
+    "ELI LILLY CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "INSULIN LISPRO"
+  ]
+}

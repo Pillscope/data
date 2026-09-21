@@ -1,0 +1,44 @@
+{
+  "drug_code": "6419",
+  "din": "00608181",
+  "brand_name": "TEVA-TECNAL C 1/2",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "20-NOV-2017",
+  "active_ingredients": [
+    {
+      "name": "CODEINE PHOSPHATE",
+      "strength": "30",
+      "unit": "MG"
+    },
+    {
+      "name": "BUTALBITAL",
+      "strength": "50",
+      "unit": "MG"
+    },
+    {
+      "name": "ACETYLSALICYLIC ACID",
+      "strength": "330",
+      "unit": "MG"
+    },
+    {
+      "name": "CAFFEINE",
+      "strength": "40",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "CAPSULE"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "TEVA CANADA LIMITED"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "CODEIN, COMBINATIONS WITH PSYCHOLEPTICS",
+    "CODEIN, COMBINATIONS WITH PSYCHOLEPTICS"
+  ]
+}

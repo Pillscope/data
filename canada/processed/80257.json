@@ -1,0 +1,28 @@
+{
+  "drug_code": "80257",
+  "din": "02317060",
+  "brand_name": "PMS-IRBESARTAN",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "25-MAR-2011",
+  "active_ingredients": [
+    {
+      "name": "IRBESARTAN",
+      "strength": "75",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "PHARMASCIENCE INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "IRBESARTAN"
+  ]
+}

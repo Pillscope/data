@@ -1,0 +1,28 @@
+{
+  "drug_code": "71246",
+  "din": "02247012",
+  "brand_name": "APO-SIMVASTATIN",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "14-MAY-2012",
+  "active_ingredients": [
+    {
+      "name": "SIMVASTATIN",
+      "strength": "10",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "APOTEX INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "SIMVASTATIN"
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "drug_code": "65795",
+  "din": "02242119",
+  "brand_name": "AGGRENOX",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "02-NOV-2012",
+  "active_ingredients": [
+    {
+      "name": "ACETYLSALICYLIC ACID",
+      "strength": "25",
+      "unit": "MG"
+    },
+    {
+      "name": "DIPYRIDAMOLE",
+      "strength": "200",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "CAPSULE (EXTENDED RELEASE)",
+    "CAPSULE (IMMEDIATE RELEASE)"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "BOEHRINGER INGELHEIM (CANADA) LTD LTEE"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "COMBINATIONS"
+  ]
+}

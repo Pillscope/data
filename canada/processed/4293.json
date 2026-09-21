@@ -1,0 +1,29 @@
+{
+  "drug_code": "4293",
+  "din": "00497398",
+  "brand_name": "OXYTOCIN INJECTION USP",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "16-OCT-2017",
+  "active_ingredients": [
+    {
+      "name": "OXYTOCIN",
+      "strength": "10",
+      "unit": "UNIT"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "INTRAMUSCULAR",
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "PFIZER CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "OXYTOCIN"
+  ]
+}

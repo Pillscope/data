@@ -1,0 +1,28 @@
+{
+  "drug_code": "89063",
+  "din": "02405865",
+  "brand_name": "MUCUS & PHLEGM RELIEF EXTRA STRENGTH",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "02-SEP-2014",
+  "active_ingredients": [
+    {
+      "name": "GUAIFENESIN",
+      "strength": "200",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SYRUP"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "TRILLIUM HEALTH CARE PRODUCTS INC"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "GUAIFENESIN"
+  ]
+}

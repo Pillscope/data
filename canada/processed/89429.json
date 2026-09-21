@@ -1,0 +1,28 @@
+{
+  "drug_code": "89429",
+  "din": "02409607",
+  "brand_name": "TAFINLAR",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "10-NOV-2016",
+  "active_ingredients": [
+    {
+      "name": "Dabrafenib (Dabrafenib mesylate)",
+      "strength": "50",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "CAPSULE"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "NOVARTIS PHARMACEUTICALS CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "DABRAFENIB"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "drug_code": "70769",
+  "din": "02246582",
+  "brand_name": "MYLAN-SIMVASTATIN",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "04-JAN-2010",
+  "active_ingredients": [
+    {
+      "name": "SIMVASTATIN",
+      "strength": "5",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "MYLAN PHARMACEUTICALS ULC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "SIMVASTATIN"
+  ]
+}

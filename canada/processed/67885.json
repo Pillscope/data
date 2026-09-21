@@ -1,0 +1,28 @@
+{
+  "drug_code": "67885",
+  "din": "02243942",
+  "brand_name": "TEVETEN",
+  "class": "Human",
+  "descriptor": "FILM-COATED",
+  "last_update": "10-FEB-2016",
+  "active_ingredients": [
+    {
+      "name": "EPROSARTAN (EPROSARTAN MESYLATE)",
+      "strength": "600",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "BGP PHARMA ULC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "EPROSARTAN"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "drug_code": "9167",
+  "din": "00755877",
+  "brand_name": "APO-PINDOL TAB 5MG",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "07-MAR-2006",
+  "active_ingredients": [
+    {
+      "name": "PINDOLOL",
+      "strength": "5",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "APOTEX INC"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "PINDOLOL"
+  ]
+}

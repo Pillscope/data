@@ -1,0 +1,43 @@
+{
+  "drug_code": "19101",
+  "din": "02154773",
+  "brand_name": "CO-HE-O2-N2 MIXTURE",
+  "class": "Human",
+  "descriptor": "CO:0.3%, HE:10%, O2:21%, BALANCED WITH N2",
+  "last_update": "29-APR-2015",
+  "active_ingredients": [
+    {
+      "name": "OXYGEN",
+      "strength": "21.0",
+      "unit": "%"
+    },
+    {
+      "name": "HELIUM",
+      "strength": "10.0",
+      "unit": "%"
+    },
+    {
+      "name": "NITROGEN",
+      "strength": "68.7",
+      "unit": "%"
+    },
+    {
+      "name": "CARBON MONOXIDE",
+      "strength": "0.3",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "GAS"
+  ],
+  "routes": [
+    "INHALATION"
+  ],
+  "companies": [
+    "LINDE CANADA LIMITED"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "COMBINATION"
+  ]
+}

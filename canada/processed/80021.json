@@ -1,0 +1,28 @@
+{
+  "drug_code": "80021",
+  "din": "02314665",
+  "brand_name": "APO-FENTANYL MATRIX",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "28-APR-2016",
+  "active_ingredients": [
+    {
+      "name": "FENTANYL",
+      "strength": "100",
+      "unit": "MCG"
+    }
+  ],
+  "forms": [
+    "PATCH"
+  ],
+  "routes": [
+    "TRANSDERMAL"
+  ],
+  "companies": [
+    "APOTEX INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "FENTANYL"
+  ]
+}

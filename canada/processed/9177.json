@@ -1,0 +1,28 @@
+{
+  "drug_code": "9177",
+  "din": "00782475",
+  "brand_name": "NADOLOL",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "25-JUL-2014",
+  "active_ingredients": [
+    {
+      "name": "NADOLOL",
+      "strength": "160",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "AA PHARMA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "NADOLOL"
+  ]
+}

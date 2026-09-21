@@ -1,0 +1,32 @@
+{
+  "drug_code": "11977",
+  "din": "01923838",
+  "brand_name": "NOROVET TMPS (INJECTABLE SOLUTION)",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "12-JUN-2008",
+  "active_ingredients": [
+    {
+      "name": "TRIMETHOPRIM",
+      "strength": "40",
+      "unit": "MG"
+    },
+    {
+      "name": "SULFADOXINE",
+      "strength": "200",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "INTRAMUSCULAR",
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "NORBROOK LABORATORIES LTD."
+  ],
+  "status": "APPROVED",
+  "atc": []
+}

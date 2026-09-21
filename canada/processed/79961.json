@@ -1,0 +1,27 @@
+{
+  "drug_code": "79961",
+  "din": "02314118",
+  "brand_name": "DEXACORT 5",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "09-NOV-2009",
+  "active_ingredients": [
+    {
+      "name": "DEXAMETHASONE SODIUM PHOSPHATE",
+      "strength": "5.0",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "INTRAMUSCULAR",
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "RAFTER 8 PRODUCTS INC"
+  ],
+  "status": "MARKETED",
+  "atc": []
+}

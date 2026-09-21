@@ -1,0 +1,28 @@
+{
+  "drug_code": "84470",
+  "din": "02359707",
+  "brand_name": "TEVA-OLANZAPINE",
+  "class": "Human",
+  "descriptor": "FILM-COATED TABLETS",
+  "last_update": "09-MAY-2011",
+  "active_ingredients": [
+    {
+      "name": "OLANZAPINE",
+      "strength": "20",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "TEVA CANADA LIMITED"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "OLANZAPINE"
+  ]
+}

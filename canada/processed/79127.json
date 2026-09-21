@@ -1,0 +1,26 @@
+{
+  "drug_code": "79127",
+  "din": "02305712",
+  "brand_name": "OVADINE",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "06-AUG-2014",
+  "active_ingredients": [
+    {
+      "name": "POVIDONE-IODINE",
+      "strength": "10",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "SYNDEL CANADA"
+  ],
+  "status": "APPROVED",
+  "atc": []
+}

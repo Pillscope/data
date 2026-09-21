@@ -1,0 +1,28 @@
+{
+  "drug_code": "46885",
+  "din": "01914022",
+  "brand_name": "UROCIT K",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "29-AUG-2012",
+  "active_ingredients": [
+    {
+      "name": "POTASSIUM CITRATE",
+      "strength": "540",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET (EXTENDED-RELEASE)"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "MISSION PHARMACAL COMPANY"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "POTASSIUM CITRATE"
+  ]
+}

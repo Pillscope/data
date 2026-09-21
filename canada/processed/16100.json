@@ -1,0 +1,26 @@
+{
+  "drug_code": "16100",
+  "din": "02026627",
+  "brand_name": "CETRICLENZ",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "06-SEP-2017",
+  "active_ingredients": [
+    {
+      "name": "CETRIMIDE",
+      "strength": "0.5",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "SHAMPOO"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "CEVA ANIMAL HEALTH INC"
+  ],
+  "status": "APPROVED",
+  "atc": []
+}

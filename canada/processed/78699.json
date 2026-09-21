@@ -1,0 +1,38 @@
+{
+  "drug_code": "78699",
+  "din": "02301687",
+  "brand_name": "CLEAR EYES TRIPLE ACTION RELIEF",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "09-JUL-2012",
+  "active_ingredients": [
+    {
+      "name": "TETRAHYDROZOLINE HYDROCHLORIDE",
+      "strength": "0.05",
+      "unit": "%"
+    },
+    {
+      "name": "POVIDONE",
+      "strength": "0.6",
+      "unit": "%"
+    },
+    {
+      "name": "POLYVINYL ALCOHOL",
+      "strength": "0.5",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "OPHTHALMIC"
+  ],
+  "companies": [
+    "PRESTIGE BRANDS INC"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "TETRYZOLINE, COMBINATIONS"
+  ]
+}

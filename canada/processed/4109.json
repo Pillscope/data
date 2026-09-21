@@ -1,0 +1,33 @@
+{
+  "drug_code": "4109",
+  "din": "00514462",
+  "brand_name": "TD ADSORBED",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "02-OCT-2008",
+  "active_ingredients": [
+    {
+      "name": "TETANUS TOXOID ADSORBED",
+      "strength": "5",
+      "unit": "LF"
+    },
+    {
+      "name": "DIPHTHERIA TOXOID ADSORBED",
+      "strength": "2",
+      "unit": "LF"
+    }
+  ],
+  "forms": [
+    "SUSPENSION"
+  ],
+  "routes": [
+    "INTRAMUSCULAR"
+  ],
+  "companies": [
+    "SANOFI PASTEUR LIMITED"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "TETANUS TOXOID, COMB. WITH DIPHTHERIA TOXOID"
+  ]
+}

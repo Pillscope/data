@@ -1,0 +1,26 @@
+{
+  "drug_code": "61098",
+  "din": "02237744",
+  "brand_name": "ANTISEDAN",
+  "class": "Veterinary",
+  "descriptor": "ATIPAMEZOLE HYDROCHLORIDE STERILE INJECTABLE SOLUTION",
+  "last_update": "05-MAY-2015",
+  "active_ingredients": [
+    {
+      "name": "ATIPAMEZOLE HYDROCHLORIDE",
+      "strength": "5",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "INTRAMUSCULAR"
+  ],
+  "companies": [
+    "ORION CORPORATION"
+  ],
+  "status": "APPROVED",
+  "atc": []
+}

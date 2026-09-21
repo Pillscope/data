@@ -1,0 +1,28 @@
+{
+  "drug_code": "88189",
+  "din": "02396874",
+  "brand_name": "TEVA-VORICONAZOLE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "24-APR-2014",
+  "active_ingredients": [
+    {
+      "name": "VORICONAZOLE",
+      "strength": "200",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "TEVA CANADA LIMITED"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "VORICONAZOLE"
+  ]
+}

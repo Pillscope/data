@@ -1,0 +1,28 @@
+{
+  "drug_code": "80543",
+  "din": "02319985",
+  "brand_name": "PMS-OXYCODONE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "16-DEC-2008",
+  "active_ingredients": [
+    {
+      "name": "OXYCODONE HYDROCHLORIDE",
+      "strength": "10",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "PHARMASCIENCE INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "OXYCODONE"
+  ]
+}

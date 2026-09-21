@@ -1,0 +1,28 @@
+{
+  "drug_code": "14387",
+  "din": "02019892",
+  "brand_name": "APO-ENALAPRIL TAB 10MG",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "14-JAN-2010",
+  "active_ingredients": [
+    {
+      "name": "ENALAPRIL MALEATE",
+      "strength": "10",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "APOTEX INC"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "ENALAPRIL"
+  ]
+}

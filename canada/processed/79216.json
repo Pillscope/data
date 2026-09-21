@@ -1,0 +1,38 @@
+{
+  "drug_code": "79216",
+  "din": "02306468",
+  "brand_name": "SHISEIDO BENEFIANCE NUTRIPERFECT DAY CREAM SPF 15",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "17-MAR-2009",
+  "active_ingredients": [
+    {
+      "name": "OCTOCRYLENE",
+      "strength": "3.0",
+      "unit": "%"
+    },
+    {
+      "name": "OCTINOXATE",
+      "strength": "5.0",
+      "unit": "%"
+    },
+    {
+      "name": "ENSULIZOLE",
+      "strength": "2.0",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "CREAM"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "SHISEIDO AMERICA INC"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "COMBINATIONS OF PROTECTIVES AGAINST UV-RADIATION"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "drug_code": "82286",
+  "din": "02337266",
+  "brand_name": "JURNISTA",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "10-AUG-2015",
+  "active_ingredients": [
+    {
+      "name": "HYDROMORPHONE HYDROCHLORIDE",
+      "strength": "4",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET (EXTENDED-RELEASE)"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "JANSSEN INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "HYDROMORPHONE"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "drug_code": "80569",
+  "din": "02320258",
+  "brand_name": "HANDS FRESH ALCOHOL-FREE FOAM SANITIZER",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "09-NOV-2009",
+  "active_ingredients": [
+    {
+      "name": "BENZALKONIUM CHLORIDE",
+      "strength": "0.1",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "LIQUID"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "KRUGER PRODUCTS L.P."
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "BENZALKONIUM"
+  ]
+}

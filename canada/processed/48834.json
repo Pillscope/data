@@ -1,0 +1,32 @@
+{
+  "drug_code": "48834",
+  "din": "02230176",
+  "brand_name": "THERACALCIUM",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "19-FEB-2015",
+  "active_ingredients": [
+    {
+      "name": "CALCIUM GLUCOHEPTONATE",
+      "strength": "10",
+      "unit": "%"
+    },
+    {
+      "name": "Calcium gluconate monohydrate",
+      "strength": "35",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "INTRAVENOUS",
+    "SUBCUTANEOUS"
+  ],
+  "companies": [
+    "VETOQUINOL N A INC"
+  ],
+  "status": "APPROVED",
+  "atc": []
+}

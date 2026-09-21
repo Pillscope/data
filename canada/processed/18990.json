@@ -1,0 +1,28 @@
+{
+  "drug_code": "18990",
+  "din": "02177080",
+  "brand_name": "TAXOTERE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "28-NOV-2006",
+  "active_ingredients": [
+    {
+      "name": "DOCETAXEL",
+      "strength": "80",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "SANOFI-AVENTIS CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "DOCETAXEL"
+  ]
+}

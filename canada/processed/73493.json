@@ -1,0 +1,26 @@
+{
+  "drug_code": "73493",
+  "din": "02250128",
+  "brand_name": "MARQUIS",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "17-AUG-2015",
+  "active_ingredients": [
+    {
+      "name": "PONAZURIL",
+      "strength": "15",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "PASTE"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "MERIAL CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": []
+}

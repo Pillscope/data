@@ -1,0 +1,26 @@
+{
+  "drug_code": "93929",
+  "din": "02452898",
+  "brand_name": "DOUXO PYO PADS",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "27-JUL-2016",
+  "active_ingredients": [
+    {
+      "name": "CHLORHEXIDINE (CHLORHEXIDINE DIGLUCONATE)",
+      "strength": "3",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "PAD"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "CEVA ANIMAL HEALTH INC"
+  ],
+  "status": "APPROVED",
+  "atc": []
+}

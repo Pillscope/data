@@ -1,0 +1,28 @@
+{
+  "drug_code": "34205",
+  "din": "02160501",
+  "brand_name": "RAPIDYNE LIQUID 25%",
+  "class": "Disinfectant",
+  "descriptor": "",
+  "last_update": "28-APR-2006",
+  "active_ingredients": [
+    {
+      "name": "POLYETHOXY POLYPROPOXY POLYETHOXY ETHANOL - IODINE COMPLEX",
+      "strength": "25",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "LIQUID"
+  ],
+  "routes": [
+    "DISINFECTANT (Food Premises)"
+  ],
+  "companies": [
+    "WEST PENETONE INC"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "TECHNICAL DISINFECTANTS"
+  ]
+}

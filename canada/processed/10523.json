@@ -1,0 +1,28 @@
+{
+  "drug_code": "10523",
+  "din": "00868965",
+  "brand_name": "SUPRAX",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "17-JUL-2017",
+  "active_ingredients": [
+    {
+      "name": "CEFIXIME",
+      "strength": "100",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "POWDER FOR SUSPENSION"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "ODAN LABORATORIES LTD"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "CEFIXIME"
+  ]
+}

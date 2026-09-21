@@ -1,0 +1,28 @@
+{
+  "drug_code": "10829",
+  "din": "00882828",
+  "brand_name": "APO-PRAZO TAB 2MG",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "10-AUG-2009",
+  "active_ingredients": [
+    {
+      "name": "PRAZOSIN (PRAZOSIN HYDROCHLORIDE)",
+      "strength": "2",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "APOTEX INC"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "PRAZOSIN"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "drug_code": "73395",
+  "din": "02249081",
+  "brand_name": "SMARTSHIELD AFTER SUN",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "15-JUL-2010",
+  "active_ingredients": [
+    {
+      "name": "LIDOCAINE HYDROCHLORIDE",
+      "strength": "1",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "GEL"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "SMARTSHIELD SUNSCREENS"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "LIDOCAINE"
+  ]
+}

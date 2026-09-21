@@ -1,0 +1,28 @@
+{
+  "drug_code": "74517",
+  "din": "02259915",
+  "brand_name": "HANDS2GO",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "25-AUG-2015",
+  "active_ingredients": [
+    {
+      "name": "BENZALKONIUM CHLORIDE",
+      "strength": "0.15",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "SPRAY"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "WATER JOURNEY LTD."
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "BENZALKONIUM"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "drug_code": "85366",
+  "din": "02368676",
+  "brand_name": "TRIESENCE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "03-FEB-2017",
+  "active_ingredients": [
+    {
+      "name": "TRIAMCINOLONE ACETONIDE",
+      "strength": "40",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SUSPENSION"
+  ],
+  "routes": [
+    "INTRAVITREAL"
+  ],
+  "companies": [
+    "NOVARTIS PHARMACEUTICALS CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "TRIAMCINOLONE"
+  ]
+}

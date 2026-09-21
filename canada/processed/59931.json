@@ -1,0 +1,28 @@
+{
+  "drug_code": "59931",
+  "din": "02236563",
+  "brand_name": "ACTIVATED CHARCOAL",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "05-AUG-2005",
+  "active_ingredients": [
+    {
+      "name": "CHARCOAL ACTIVATED",
+      "strength": "225",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "CAPSULE"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "LABORATOIRE LEO DESILETS M.H. INC"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "MEDICINAL CHARCOAL"
+  ]
+}

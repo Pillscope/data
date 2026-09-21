@@ -1,0 +1,28 @@
+{
+  "drug_code": "92667",
+  "din": "02442302",
+  "brand_name": "QUINSAIR",
+  "class": "Human",
+  "descriptor": "SINGLE USE AMPOULES",
+  "last_update": "11-JAN-2018",
+  "active_ingredients": [
+    {
+      "name": "LEVOFLOXACIN (LEVOFLOXACIN HEMIHYDRATE)",
+      "strength": "240",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "INHALATION"
+  ],
+  "companies": [
+    "HORIZON PHARMA IRELAND LTD"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "LEVOFLOXACIN"
+  ]
+}

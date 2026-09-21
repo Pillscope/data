@@ -1,0 +1,28 @@
+{
+  "drug_code": "29540",
+  "din": "02106256",
+  "brand_name": "COLACE CAPSULES",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "18-NOV-2016",
+  "active_ingredients": [
+    {
+      "name": "DOCUSATE SODIUM",
+      "strength": "100",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "CAPSULE"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "BOYD PHARMACEUTICALS INC."
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "DOCUSATE SODIUM"
+  ]
+}

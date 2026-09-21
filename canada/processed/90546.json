@@ -1,0 +1,29 @@
+{
+  "drug_code": "90546",
+  "din": "02420872",
+  "brand_name": "ABILIFY MAINTENA",
+  "class": "Human",
+  "descriptor": "200MG/ML AFTER RECONSTITUTION. SYRINGE AND DILUENT INCLUDED IN THE KIT",
+  "last_update": "18-AUG-2015",
+  "active_ingredients": [
+    {
+      "name": "ARIPIPRAZOLE",
+      "strength": "400",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "POWDER FOR SUSPENSION, SUSTAINED-RELEASE",
+    "KIT"
+  ],
+  "routes": [
+    "INTRAMUSCULAR"
+  ],
+  "companies": [
+    "OTSUKA PHARMACEUTICAL CO LTD"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "ARIPIPRAZOLE"
+  ]
+}

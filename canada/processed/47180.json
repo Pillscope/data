@@ -1,0 +1,28 @@
+{
+  "drug_code": "47180",
+  "din": "02229379",
+  "brand_name": "CLOTRIMAZOLE VAGINAL CREAM USP 2%",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "10-MAY-2016",
+  "active_ingredients": [
+    {
+      "name": "CLOTRIMAZOLE",
+      "strength": "2",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "CREAM"
+  ],
+  "routes": [
+    "VAGINAL"
+  ],
+  "companies": [
+    "TARO PHARMACEUTICALS INC"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "CLOTRIMAZOLE"
+  ]
+}

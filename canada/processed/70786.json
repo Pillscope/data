@@ -1,0 +1,28 @@
+{
+  "drug_code": "70786",
+  "din": "02246599",
+  "brand_name": "PAMIDRONATE DISODIUM FOR INJECTION",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "06-JUL-2016",
+  "active_ingredients": [
+    {
+      "name": "PAMIDRONATE DISODIUM",
+      "strength": "9",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "FRESENIUS KABI CANADA LTD"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "PAMIDRONIC ACID"
+  ]
+}

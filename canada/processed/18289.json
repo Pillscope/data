@@ -1,0 +1,29 @@
+{
+  "drug_code": "18289",
+  "din": "02024179",
+  "brand_name": "OCTOSTIM LIQ INJ. 15MCG/ML",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "21-NOV-2005",
+  "active_ingredients": [
+    {
+      "name": "DESMOPRESSIN ACETATE",
+      "strength": "15",
+      "unit": "MCG"
+    }
+  ],
+  "forms": [
+    "LIQUID"
+  ],
+  "routes": [
+    "INTRAVENOUS",
+    "SUBCUTANEOUS"
+  ],
+  "companies": [
+    "FERRING INC"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "DESMOPRESSIN"
+  ]
+}

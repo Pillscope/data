@@ -1,0 +1,29 @@
+{
+  "drug_code": "2789",
+  "din": "00312363",
+  "brand_name": "CHLOROMYCETIN SUCCINATE INJECTION 1GM",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "05-MAY-2015",
+  "active_ingredients": [
+    {
+      "name": "CHLORAMPHENICOL (CHLORAMPHENICOL SODIUM SUCCINATE)",
+      "strength": "1",
+      "unit": "G"
+    }
+  ],
+  "forms": [
+    "POWDER FOR SOLUTION"
+  ],
+  "routes": [
+    "INTRAMUSCULAR",
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "ERFA CANADA 2012 INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "CHLORAMPHENICOL"
+  ]
+}

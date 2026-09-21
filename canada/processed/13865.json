@@ -1,0 +1,28 @@
+{
+  "drug_code": "13865",
+  "din": "00863270",
+  "brand_name": "TYLENOL EXTRA STRENGTH GELCAPS TAB 500MG",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "19-DEC-2014",
+  "active_ingredients": [
+    {
+      "name": "ACETAMINOPHEN",
+      "strength": "500",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "MCNEIL CONSUMER HEALTHCARE DIVISION OF JOHNSON & JOHNSON INC"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "ACETAMINOPHEN (PARACETAMOL)"
+  ]
+}

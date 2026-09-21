@@ -1,0 +1,28 @@
+{
+  "drug_code": "90299",
+  "din": "02418428",
+  "brand_name": "AURO-EFAVIRENZ",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "02-MAY-2014",
+  "active_ingredients": [
+    {
+      "name": "EFAVIRENZ",
+      "strength": "600",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "AURO PHARMA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "EFAVIRENZ"
+  ]
+}

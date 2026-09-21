@@ -1,0 +1,31 @@
+{
+  "drug_code": "5879",
+  "din": "00613045",
+  "brand_name": "UNI BLIS INJ",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "13-APR-1999",
+  "active_ingredients": [
+    {
+      "name": "IODINE",
+      "strength": "1.9",
+      "unit": "%"
+    },
+    {
+      "name": "ETHYL ETHER",
+      "strength": "6",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "LIQUID"
+  ],
+  "routes": [
+    "SUBCUTANEOUS"
+  ],
+  "companies": [
+    "UNIVET PHARMACEUTICALS LTD."
+  ],
+  "status": "MARKETED",
+  "atc": []
+}

@@ -1,0 +1,28 @@
+{
+  "drug_code": "78661",
+  "din": "02301288",
+  "brand_name": "PMS-ISMN",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "07-APR-2008",
+  "active_ingredients": [
+    {
+      "name": "ISOSORBIDE-5-MONONITRATE",
+      "strength": "60",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET (EXTENDED-RELEASE)"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "PHARMASCIENCE INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "ISOSORBIDE MONONITRATE"
+  ]
+}

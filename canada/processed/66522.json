@@ -1,0 +1,29 @@
+{
+  "drug_code": "66522",
+  "din": "02242717",
+  "brand_name": "ALLERGY CANADA ALLERGEN EXTRACT - DIAGNOSTIC",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "17-MAY-2001",
+  "active_ingredients": [
+    {
+      "name": "ALLERGEN EXTRACT - DIAGNOSTIC",
+      "strength": "0",
+      "unit": "UNIT"
+    }
+  ],
+  "forms": [
+    "LIQUID"
+  ],
+  "routes": [
+    "INTRADERMAL",
+    "TOPICAL"
+  ],
+  "companies": [
+    "ALLERGY CANADA LTD"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "TESTS FOR ALLERGIC DISEASES"
+  ]
+}

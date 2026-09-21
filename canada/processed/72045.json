@@ -1,0 +1,29 @@
+{
+  "drug_code": "72045",
+  "din": "02247753",
+  "brand_name": "OMEGA ALLERGENIC EXTRACTS - POLLENS (AQUEOUS)",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "16-DEC-2003",
+  "active_ingredients": [
+    {
+      "name": "ALLERGENIC EXTRACTS POLLENS",
+      "strength": "40000",
+      "unit": "UNIT"
+    }
+  ],
+  "forms": [
+    "LIQUID"
+  ],
+  "routes": [
+    "INTRADERMAL",
+    "SUBCUTANEOUS"
+  ],
+  "companies": [
+    "OMEGA LABORATORIES LTD"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "VARIOUS"
+  ]
+}

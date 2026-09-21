@@ -1,0 +1,28 @@
+{
+  "drug_code": "92121",
+  "din": "02436892",
+  "brand_name": "CHLORHEXIDINE GLUCONATE 0.12% ORAL RINSE, USP",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "02-AUG-2017",
+  "active_ingredients": [
+    {
+      "name": "CHLORHEXIDINE GLUCONATE",
+      "strength": "0.12",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "MOUTHWASH/GARGLE"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "SAGE PRODUCTS LLC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "CHLORHEXIDINE"
+  ]
+}

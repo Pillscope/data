@@ -1,0 +1,38 @@
+{
+  "drug_code": "92492",
+  "din": "02440547",
+  "brand_name": "CLINIQUE REPAIRWEAR LASER FOCUS LINE SMOOTHING CREAM SPF 15 VERY DRY TO DRY COMBINATION",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "03-DEC-2015",
+  "active_ingredients": [
+    {
+      "name": "TITANIUM DIOXIDE",
+      "strength": "1.7",
+      "unit": "%"
+    },
+    {
+      "name": "OCTISALATE",
+      "strength": "3.5",
+      "unit": "%"
+    },
+    {
+      "name": "OCTINOXATE",
+      "strength": "7.5",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "CREAM"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "CLINIQUE LABORATORIES DIST"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "COMBINATIONS OF PROTECTIVES AGAINST UV-RADIATION"
+  ]
+}

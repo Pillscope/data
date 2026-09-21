@@ -1,0 +1,28 @@
+{
+  "drug_code": "51745",
+  "din": "02232317",
+  "brand_name": "ETODOLAC",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "20-MAR-2013",
+  "active_ingredients": [
+    {
+      "name": "ETODOLAC",
+      "strength": "200",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "CAPSULE"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "AA PHARMA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "ETODOLAC"
+  ]
+}

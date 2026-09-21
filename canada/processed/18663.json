@@ -1,0 +1,28 @@
+{
+  "drug_code": "18663",
+  "din": "02170175",
+  "brand_name": "OXYGENE - GAS INH",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "09-JUL-2014",
+  "active_ingredients": [
+    {
+      "name": "OXYGEN",
+      "strength": "100",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "GAS"
+  ],
+  "routes": [
+    "INHALATION"
+  ],
+  "companies": [
+    "PREVIMED INC."
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "OXYGEN"
+  ]
+}

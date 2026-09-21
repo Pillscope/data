@@ -1,0 +1,26 @@
+{
+  "drug_code": "93839",
+  "din": "02451999",
+  "brand_name": "KEXXTONE",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "23-NOV-2017",
+  "active_ingredients": [
+    {
+      "name": "MONENSIN (MONENSIN SODIUM)",
+      "strength": "32.4",
+      "unit": "G"
+    }
+  ],
+  "forms": [
+    "CAPSULE"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "ELANCO CANADA LIMITED"
+  ],
+  "status": "APPROVED",
+  "atc": []
+}

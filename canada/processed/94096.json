@@ -1,0 +1,28 @@
+{
+  "drug_code": "94096",
+  "din": "02454386",
+  "brand_name": "PMS-ERLOTINIB",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "11-JAN-2018",
+  "active_ingredients": [
+    {
+      "name": "ERLOTINIB (ERLOTINIB HYDROCHLORIDE)",
+      "strength": "100",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "PHARMASCIENCE INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "ERLOTINIB"
+  ]
+}

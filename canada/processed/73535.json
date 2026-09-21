@@ -1,0 +1,28 @@
+{
+  "drug_code": "73535",
+  "din": "02250535",
+  "brand_name": "PENLAC",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "09-MAY-2013",
+  "active_ingredients": [
+    {
+      "name": "CICLOPIROX",
+      "strength": "8",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "VALEANT CANADA LP/VALEANT CANADA S.E.C."
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "CICLOPIROX"
+  ]
+}

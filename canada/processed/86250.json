@@ -1,0 +1,28 @@
+{
+  "drug_code": "86250",
+  "din": "02376938",
+  "brand_name": "ONBREZ BREEZHALER",
+  "class": "Human",
+  "descriptor": "CAPSULE CONTAINING FREE-FLOWING POWDER FOR ORAL INHALATION",
+  "last_update": "12-OCT-2017",
+  "active_ingredients": [
+    {
+      "name": "Indacaterol (Indacaterol Maleate)",
+      "strength": "75",
+      "unit": "MCG"
+    }
+  ],
+  "forms": [
+    "CAPSULE"
+  ],
+  "routes": [
+    "INHALATION"
+  ],
+  "companies": [
+    "NOVARTIS PHARMACEUTICALS CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "INDACATEROL"
+  ]
+}

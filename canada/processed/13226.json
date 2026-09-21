@@ -1,0 +1,28 @@
+{
+  "drug_code": "13226",
+  "din": "01926683",
+  "brand_name": "CERUBIDINE 20MG/VIAL",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "13-JAN-2015",
+  "active_ingredients": [
+    {
+      "name": "DAUNORUBICIN (DAUNORUBICIN HYDROCHLORIDE)",
+      "strength": "20",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "POWDER FOR SOLUTION"
+  ],
+  "routes": [
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "ERFA CANADA 2012 INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "DAUNORUBICIN"
+  ]
+}

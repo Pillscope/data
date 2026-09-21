@@ -1,0 +1,26 @@
+{
+  "drug_code": "51121",
+  "din": "02231742",
+  "brand_name": "AQUAFLOR",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "13-MAY-2013",
+  "active_ingredients": [
+    {
+      "name": "FLORFENICOL",
+      "strength": "500",
+      "unit": "G"
+    }
+  ],
+  "forms": [
+    "DRUG PREMIX"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "INTERVET CANADA CORP"
+  ],
+  "status": "APPROVED",
+  "atc": []
+}

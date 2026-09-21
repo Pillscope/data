@@ -1,0 +1,28 @@
+{
+  "drug_code": "71463",
+  "din": "02247221",
+  "brand_name": "SIMVASTATIN-10",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "28-FEB-2006",
+  "active_ingredients": [
+    {
+      "name": "SIMVASTATIN",
+      "strength": "10",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "PRO DOC LIMITEE"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "SIMVASTATIN"
+  ]
+}

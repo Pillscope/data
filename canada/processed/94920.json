@@ -1,0 +1,28 @@
+{
+  "drug_code": "94920",
+  "din": "02461560",
+  "brand_name": "APO-DEFERASIROX",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "29-JUN-2017",
+  "active_ingredients": [
+    {
+      "name": "DEFERASIROX",
+      "strength": "500",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET FOR SUSPENSION"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "APOTEX INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "DEFERASIROX"
+  ]
+}

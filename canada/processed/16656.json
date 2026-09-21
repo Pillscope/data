@@ -1,0 +1,28 @@
+{
+  "drug_code": "16656",
+  "din": "02125250",
+  "brand_name": "APO-SUCRALFATE - TAB 1G",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "06-MAR-2006",
+  "active_ingredients": [
+    {
+      "name": "SUCRALFATE",
+      "strength": "1",
+      "unit": "G"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "APOTEX INC"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "SUCRALFATE"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "drug_code": "94809",
+  "din": "02460661",
+  "brand_name": "GLATECT",
+  "class": "Human",
+  "descriptor": "PRE-FILLED SYRINGE",
+  "last_update": "22-AUG-2017",
+  "active_ingredients": [
+    {
+      "name": "GLATIRAMER ACETATE",
+      "strength": "20",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "SUBCUTANEOUS"
+  ],
+  "companies": [
+    "PHARMASCIENCE INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "GLATIRAMER ACETATE"
+  ]
+}

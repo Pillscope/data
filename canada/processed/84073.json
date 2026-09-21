@@ -1,0 +1,28 @@
+{
+  "drug_code": "84073",
+  "din": "02355507",
+  "brand_name": "TEVA-MONTELUKAST",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "26-OCT-2011",
+  "active_ingredients": [
+    {
+      "name": "MONTELUKAST (MONTELUKAST SODIUM)",
+      "strength": "4",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET (CHEWABLE)"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "TEVA CANADA LIMITED"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "MONTELUKAST"
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "drug_code": "2046",
+  "din": "00308226",
+  "brand_name": "AFTER-CALF BOLUS",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "04-JAN-2018",
+  "active_ingredients": [
+    {
+      "name": "UREA",
+      "strength": "13.44",
+      "unit": "G"
+    },
+    {
+      "name": "SULFANILAMIDE",
+      "strength": "1.92",
+      "unit": "G"
+    },
+    {
+      "name": "SULFATHIAZOLE",
+      "strength": "320",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "INTRAUTERINE"
+  ],
+  "companies": [
+    "PROFESSIONAL VETERINARY LABORATORIES"
+  ],
+  "status": "MARKETED",
+  "atc": []
+}

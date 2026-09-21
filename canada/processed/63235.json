@@ -1,0 +1,28 @@
+{
+  "drug_code": "63235",
+  "din": "02239753",
+  "brand_name": "PMS-DICLOFENAC K",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "04-MAY-2010",
+  "active_ingredients": [
+    {
+      "name": "DICLOFENAC POTASSIUM",
+      "strength": "50",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "PHARMASCIENCE INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "DICLOFENAC"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "drug_code": "89467",
+  "din": "02410028",
+  "brand_name": "IDARUBICIN",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "21-NOV-2014",
+  "active_ingredients": [
+    {
+      "name": "IDARUBICIN HYDROCHLORIDE",
+      "strength": "1",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "PFIZER CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "IDARUBICIN"
+  ]
+}

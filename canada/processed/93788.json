@@ -1,0 +1,108 @@
+{
+  "drug_code": "93788",
+  "din": "02451573",
+  "brand_name": "PREGVIT",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "29-MAR-2017",
+  "active_ingredients": [
+    {
+      "name": "NICOTINAMIDE",
+      "strength": "20",
+      "unit": "MG"
+    },
+    {
+      "name": "IODINE (POTASSIUM IODIDE)",
+      "strength": "0.15",
+      "unit": "MG"
+    },
+    {
+      "name": "D-PANTOTHENIC ACID (CALCIUM D-PANTOTHENATE)",
+      "strength": "5",
+      "unit": "MG"
+    },
+    {
+      "name": "MAGNESIUM (MAGNESIUM OXIDE)",
+      "strength": "50",
+      "unit": "MG"
+    },
+    {
+      "name": "VITAMIN D3 (CHOLECALCIFEROL)",
+      "strength": "600",
+      "unit": "UNIT"
+    },
+    {
+      "name": "VITAMIN B2 (RIBOFLAVIN)",
+      "strength": "3.4",
+      "unit": "MG"
+    },
+    {
+      "name": "VITAMIN B1 (THIAMINE MONONITRATE)",
+      "strength": "3",
+      "unit": "MG"
+    },
+    {
+      "name": "BETA-CAROTENE",
+      "strength": "1.6",
+      "unit": "MG"
+    },
+    {
+      "name": "COPPER (CUPRIC OXIDE)",
+      "strength": "2",
+      "unit": "MG"
+    },
+    {
+      "name": "VITAMIN C (ASCORBIC ACID)",
+      "strength": "120",
+      "unit": "MG"
+    },
+    {
+      "name": "VITAMIN E (DL-ALPHA TOCOPHERYL ACETATE)",
+      "strength": "13.8",
+      "unit": "MG"
+    },
+    {
+      "name": "IRON (FERROUS FUMARATE)",
+      "strength": "35",
+      "unit": "MG"
+    },
+    {
+      "name": "CALCIUM (CALCIUM CARBONATE)",
+      "strength": "300",
+      "unit": "MG"
+    },
+    {
+      "name": "ZINC (ZINC OXIDE)",
+      "strength": "15",
+      "unit": "MG"
+    },
+    {
+      "name": "FOLIC ACID",
+      "strength": "1.1",
+      "unit": "MG"
+    },
+    {
+      "name": "VITAMIN B12 (CYANOCOBALAMIN)",
+      "strength": "12",
+      "unit": "MCG"
+    },
+    {
+      "name": "VITAMIN B6 (PYRIDOXINE HYDROCHLORIDE)",
+      "strength": "10",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "DUCHESNAY INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "IRON, MULTIVITAMINS AND MINERALS"
+  ]
+}

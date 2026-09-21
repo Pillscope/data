@@ -1,0 +1,28 @@
+{
+  "drug_code": "90987",
+  "din": "02425238",
+  "brand_name": "PRIVA-EZETIMIBE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "16-DEC-2014",
+  "active_ingredients": [
+    {
+      "name": "EZETIMIBE",
+      "strength": "10",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "PHARMAPAR INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "EZETIMIBE"
+  ]
+}

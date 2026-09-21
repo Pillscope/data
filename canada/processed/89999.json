@@ -1,0 +1,33 @@
+{
+  "drug_code": "89999",
+  "din": "02415380",
+  "brand_name": "MYA",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "23-MAY-2014",
+  "active_ingredients": [
+    {
+      "name": "DROSPIRENONE",
+      "strength": "3.00",
+      "unit": "MG"
+    },
+    {
+      "name": "ETHINYL ESTRADIOL",
+      "strength": "0.02",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "APOTEX INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "DROSPIRENONE AND ESTROGEN"
+  ]
+}

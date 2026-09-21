@@ -1,0 +1,26 @@
+{
+  "drug_code": "8408",
+  "din": "00623024",
+  "brand_name": "LOPATOL 500",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "10-FEB-2017",
+  "active_ingredients": [
+    {
+      "name": "NITROSCANATE",
+      "strength": "500",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "ELANCO CANADA LIMITED"
+  ],
+  "status": "APPROVED",
+  "atc": []
+}

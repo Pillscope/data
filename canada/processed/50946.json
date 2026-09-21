@@ -1,0 +1,28 @@
+{
+  "drug_code": "50946",
+  "din": "02231580",
+  "brand_name": "BIO-SAFE LOTION",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "20-SEP-2017",
+  "active_ingredients": [
+    {
+      "name": "TRICLOSAN",
+      "strength": "0.3",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "LOTION"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "UNITED BIOLOGICS LTD"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "TRICLOSAN"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "drug_code": "93131",
+  "din": "02446049",
+  "brand_name": "MEMANTINE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "26-MAR-2018",
+  "active_ingredients": [
+    {
+      "name": "MEMANTINE HYDROCHLORIDE",
+      "strength": "10",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "SIVEM PHARMACEUTICALS ULC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "MEMANTINE"
+  ]
+}

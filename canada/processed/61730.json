@@ -1,0 +1,28 @@
+{
+  "drug_code": "61730",
+  "din": "02238327",
+  "brand_name": "PMS-SOTALOL - 160 MG",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "18-APR-2009",
+  "active_ingredients": [
+    {
+      "name": "SOTALOL HYDROCHLORIDE",
+      "strength": "160",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "PHARMASCIENCE INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "SOTALOL"
+  ]
+}

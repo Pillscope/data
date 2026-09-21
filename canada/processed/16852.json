@@ -1,0 +1,28 @@
+{
+  "drug_code": "16852",
+  "din": "02125226",
+  "brand_name": "NIDAGEL VAGINAL GEL 0.75%",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "16-MAY-2014",
+  "active_ingredients": [
+    {
+      "name": "METRONIDAZOLE",
+      "strength": "0.75",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "GEL"
+  ],
+  "routes": [
+    "VAGINAL"
+  ],
+  "companies": [
+    "VALEANT CANADA LP/VALEANT CANADA S.E.C."
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "METRONIDAZOLE"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "drug_code": "81179",
+  "din": "02326442",
+  "brand_name": "TYKERB",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "20-JUN-2016",
+  "active_ingredients": [
+    {
+      "name": "LAPATINIB (LAPATINIB DITOSYLATE MONOHYDRATE)",
+      "strength": "250",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "NOVARTIS PHARMACEUTICALS CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "LAPATINIB"
+  ]
+}

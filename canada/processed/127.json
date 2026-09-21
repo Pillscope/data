@@ -1,0 +1,26 @@
+{
+  "drug_code": "127",
+  "din": "00097330",
+  "brand_name": "DUSTING POWDER CONTAINING SEVIN 5%",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "01-OCT-2010",
+  "active_ingredients": [
+    {
+      "name": "CARBARYL",
+      "strength": "5",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "POWDER"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "DOMINION VETERINARY LABORATORIES LTD."
+  ],
+  "status": "MARKETED",
+  "atc": []
+}

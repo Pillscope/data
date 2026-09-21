@@ -1,0 +1,28 @@
+{
+  "drug_code": "66253",
+  "din": "02242508",
+  "brand_name": "OXYGEN, COMPRESSED",
+  "class": "Human",
+  "descriptor": ">99.2%",
+  "last_update": "20-JUN-2016",
+  "active_ingredients": [
+    {
+      "name": "OXYGEN",
+      "strength": "99.2",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "GAS"
+  ],
+  "routes": [
+    "INHALATION"
+  ],
+  "companies": [
+    "RESPIRATORY HOMECARE SOLUTIONS (VANCOUVER ISLAND), 0930469 B.C. LTD."
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "OXYGEN"
+  ]
+}

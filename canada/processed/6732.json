@@ -1,0 +1,26 @@
+{
+  "drug_code": "6732",
+  "din": "00656925",
+  "brand_name": "COYDEN 25",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "24-AUG-2016",
+  "active_ingredients": [
+    {
+      "name": "CLOPIDOL",
+      "strength": "25",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "DRUG PREMIX"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "HUVEPHARMA EOOD"
+  ],
+  "status": "APPROVED",
+  "atc": []
+}

@@ -1,0 +1,28 @@
+{
+  "drug_code": "67440",
+  "din": "02243521",
+  "brand_name": "PMS-TERAZOSIN",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "30-APR-2010",
+  "active_ingredients": [
+    {
+      "name": "TERAZOSIN (TERAZOSIN HYDROCHLORIDE)",
+      "strength": "10",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "PHARMASCIENCE INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "TERAZOSIN"
+  ]
+}

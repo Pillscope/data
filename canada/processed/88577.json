@@ -1,0 +1,28 @@
+{
+  "drug_code": "88577",
+  "din": "02401029",
+  "brand_name": "CEFAZOLIN FOR INJECTION, USP",
+  "class": "Human",
+  "descriptor": "SMARTPAK BULK PACKAGE",
+  "last_update": "11-SEP-2015",
+  "active_ingredients": [
+    {
+      "name": "CEFAZOLIN (CEFAZOLIN SODIUM)",
+      "strength": "100",
+      "unit": "G"
+    }
+  ],
+  "forms": [
+    "POWDER FOR SOLUTION"
+  ],
+  "routes": [
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "FRESENIUS KABI CANADA LTD"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "CEFAZOLIN"
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "drug_code": "78842",
+  "din": "02303094",
+  "brand_name": "HEPARIN SODIUM INJECTION USP         (SINGLE USE VIAL-PRESERVATIVE FREE)",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "21-NOV-2008",
+  "active_ingredients": [
+    {
+      "name": "HEPARIN SODIUM",
+      "strength": "10000",
+      "unit": "UNIT"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "INTRAVENOUS",
+    "SUBCUTANEOUS"
+  ],
+  "companies": [
+    "SANDOZ CANADA INCORPORATED"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "HEPARIN"
+  ]
+}

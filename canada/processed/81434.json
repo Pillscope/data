@@ -1,0 +1,26 @@
+{
+  "drug_code": "81434",
+  "din": "02328720",
+  "brand_name": "DERAMAXX FLAVOR TABS",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "10-FEB-2017",
+  "active_ingredients": [
+    {
+      "name": "DERACOXIB",
+      "strength": "75",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "ELANCO CANADA LIMITED"
+  ],
+  "status": "APPROVED",
+  "atc": []
+}

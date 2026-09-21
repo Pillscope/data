@@ -1,0 +1,28 @@
+{
+  "drug_code": "90183",
+  "din": "02417197",
+  "brand_name": "NESINA",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "06-JUN-2014",
+  "active_ingredients": [
+    {
+      "name": "Alogliptin (Alogliptin benzoate)",
+      "strength": "12.5",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "TAKEDA CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "ALOGLIPTIN"
+  ]
+}

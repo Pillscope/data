@@ -1,0 +1,28 @@
+{
+  "drug_code": "82711",
+  "din": "02341611",
+  "brand_name": "REVATIO",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "14-JAN-2016",
+  "active_ingredients": [
+    {
+      "name": "SILDENAFIL (SILDENAFIL CITRATE)",
+      "strength": "0.8",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "PFIZER CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "ANTIHYPERTENSIVES FOR PULMONARY ARTERIAL HYPERTENSION"
+  ]
+}

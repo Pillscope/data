@@ -1,0 +1,28 @@
+{
+  "drug_code": "77860",
+  "din": "02293234",
+  "brand_name": "RELIABLE MOUSSE FOAMING ANTISEPTIC HAND SOAP",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "20-JUN-2017",
+  "active_ingredients": [
+    {
+      "name": "TRICLOSAN",
+      "strength": "0.1",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "LIQUID"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "RELIABLE MAINTENANCE PRODUCTS LTD."
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "TRICLOSAN"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "drug_code": "87935",
+  "din": "02394197",
+  "brand_name": "ACT OXYCODONE CR",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "27-MAY-2015",
+  "active_ingredients": [
+    {
+      "name": "OXYCODONE HYDROCHLORIDE",
+      "strength": "20",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET (EXTENDED-RELEASE)"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "ACTAVIS PHARMA COMPANY"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "OXYCODONE"
+  ]
+}

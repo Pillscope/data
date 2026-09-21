@@ -1,0 +1,28 @@
+{
+  "drug_code": "90603",
+  "din": "02421402",
+  "brand_name": "ONDANSETRON",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "06-OCT-2017",
+  "active_ingredients": [
+    {
+      "name": "ONDANSETRON (ONDANSETRON HYDROCHLORIDE DIHYDRATE)",
+      "strength": "4",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "SANIS HEALTH INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "ONDANSETRON"
+  ]
+}

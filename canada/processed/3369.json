@@ -1,0 +1,28 @@
+{
+  "drug_code": "3369",
+  "din": "00216666",
+  "brand_name": "NOVASEN",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "21-OCT-2015",
+  "active_ingredients": [
+    {
+      "name": "ACETYLSALICYLIC ACID",
+      "strength": "325",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET (DELAYED-RELEASE)"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "TEVA CANADA LIMITED"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "ACETYLSALICYLIC ACID"
+  ]
+}

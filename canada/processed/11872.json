@@ -1,0 +1,26 @@
+{
+  "drug_code": "11872",
+  "din": "00857041",
+  "brand_name": "FERROFORTE",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "15-SEP-2017",
+  "active_ingredients": [
+    {
+      "name": "GLEPTOFERRON (IRON DEXTRAN COMPLEX)",
+      "strength": "200",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "INTRAMUSCULAR"
+  ],
+  "companies": [
+    "BIMEDA-MTC ANIMAL HEALTH INC"
+  ],
+  "status": "APPROVED",
+  "atc": []
+}

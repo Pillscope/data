@@ -1,0 +1,28 @@
+{
+  "drug_code": "81129",
+  "din": "02325942",
+  "brand_name": "APO-LEVOFLOXACIN",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "03-JUL-2009",
+  "active_ingredients": [
+    {
+      "name": "LEVOFLOXACIN (LEVOFLOXACIN HEMIHYDRATE)",
+      "strength": "750",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "APOTEX INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "LEVOFLOXACIN"
+  ]
+}

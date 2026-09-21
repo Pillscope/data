@@ -1,0 +1,28 @@
+{
+  "drug_code": "7152",
+  "din": "00623377",
+  "brand_name": "EURAX CREAM 10%",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "29-APR-2015",
+  "active_ingredients": [
+    {
+      "name": "CROTAMITON",
+      "strength": "10",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "CREAM"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "COLUMBIA LABORATORIES CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "OTHER ECTOPARASITICIDES, INCL SCABICIDES"
+  ]
+}

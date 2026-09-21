@@ -1,0 +1,28 @@
+{
+  "drug_code": "94684",
+  "din": "02459523",
+  "brand_name": "KYLEENA",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "31-MAY-2017",
+  "active_ingredients": [
+    {
+      "name": "LEVONORGESTREL",
+      "strength": "19.5",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "INSERT (EXTENDED-RELEASE)"
+  ],
+  "routes": [
+    "INTRAUTERINE"
+  ],
+  "companies": [
+    "BAYER INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "PLASTIC IUD WITH PROGESTOGENS"
+  ]
+}

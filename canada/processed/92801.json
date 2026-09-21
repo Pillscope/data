@@ -1,0 +1,28 @@
+{
+  "drug_code": "92801",
+  "din": "02443376",
+  "brand_name": "KETOROLAC TROMETHAMINE INJECTION, USP",
+  "class": "Human",
+  "descriptor": "1ML SINGLE USE VIAL",
+  "last_update": "17-JAN-2018",
+  "active_ingredients": [
+    {
+      "name": "KETOROLAC TROMETHAMINE",
+      "strength": "30",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "INTRAMUSCULAR"
+  ],
+  "companies": [
+    "MDA INC."
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "KETOROLAC"
+  ]
+}

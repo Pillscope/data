@@ -1,0 +1,28 @@
+{
+  "drug_code": "86369",
+  "din": "02377896",
+  "brand_name": "FOAM SANITIZER",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "23-APR-2014",
+  "active_ingredients": [
+    {
+      "name": "BENZETHONIUM CHLORIDE",
+      "strength": "0.2",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "LIQUID"
+  ],
+  "routes": [
+    "TOPICAL (COMMERCIAL)"
+  ],
+  "companies": [
+    "ZEP MANUFACTURING COMPANY OF CANADA"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "BENZETHONIUM CHLORIDE"
+  ]
+}

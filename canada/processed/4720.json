@@ -1,0 +1,26 @@
+{
+  "drug_code": "4720",
+  "din": "00553018",
+  "brand_name": "UNI FERRON INJ 100MG/ML",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "09-JUL-2004",
+  "active_ingredients": [
+    {
+      "name": "IRON DEXTRAN COMPLEX",
+      "strength": "100",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "INTRAMUSCULAR"
+  ],
+  "companies": [
+    "UNIVET PHARMACEUTICALS LTD."
+  ],
+  "status": "MARKETED",
+  "atc": []
+}

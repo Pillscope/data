@@ -1,0 +1,28 @@
+{
+  "drug_code": "70445",
+  "din": "02246284",
+  "brand_name": "PMS-BRIMONIDINE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "22-AUG-2008",
+  "active_ingredients": [
+    {
+      "name": "BRIMONIDINE TARTRATE",
+      "strength": "0.2",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "OPHTHALMIC"
+  ],
+  "companies": [
+    "PHARMASCIENCE INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "BRIMONIDINE"
+  ]
+}

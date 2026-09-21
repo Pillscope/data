@@ -1,0 +1,26 @@
+{
+  "drug_code": "9554",
+  "din": "00719021",
+  "brand_name": "HIPPIRON 1000",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "29-JAN-2018",
+  "active_ingredients": [
+    {
+      "name": "IRON (FERRIC HYDROXIDE SUCROSE COMPLEX)",
+      "strength": "20",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "CZ VETERINARIA S.A."
+  ],
+  "status": "APPROVED",
+  "atc": []
+}

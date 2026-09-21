@@ -1,0 +1,33 @@
+{
+  "drug_code": "92182",
+  "din": "02437473",
+  "brand_name": "MS MEGADES NOVO",
+  "class": "Disinfectant",
+  "descriptor": "",
+  "last_update": "04-JUN-2015",
+  "active_ingredients": [
+    {
+      "name": "GLUTARAL",
+      "strength": "14.7",
+      "unit": "%"
+    },
+    {
+      "name": "BENZALKONIUM CHLORIDE",
+      "strength": "9.8",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "LIQUID"
+  ],
+  "routes": [
+    "DISINFECTANT (Barn)"
+  ],
+  "companies": [
+    "SCHIPPERS EUROPE BV"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "TECHNICAL DISINFECTANTS"
+  ]
+}

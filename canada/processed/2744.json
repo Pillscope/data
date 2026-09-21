@@ -1,0 +1,33 @@
+{
+  "drug_code": "2744",
+  "din": "00393711",
+  "brand_name": "ISOCAINE HCL INJ 2%",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "24-MAR-2018",
+  "active_ingredients": [
+    {
+      "name": "MEPIVACAINE HYDROCHLORIDE",
+      "strength": "20",
+      "unit": "MG"
+    },
+    {
+      "name": "CORBADRINE",
+      "strength": "0.05",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "BLOCK/INFILTRATION"
+  ],
+  "companies": [
+    "NOVOCOL PHARMACEUTICAL OF CANADA INC"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "MEPIVACAINE, COMBINATIONS"
+  ]
+}

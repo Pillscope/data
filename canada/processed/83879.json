@@ -1,0 +1,28 @@
+{
+  "drug_code": "83879",
+  "din": "02353571",
+  "brand_name": "EXTRA STRENGTH MUCOUS RELIEF CHEST",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "03-MAY-2017",
+  "active_ingredients": [
+    {
+      "name": "GUAIFENESIN",
+      "strength": "400",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "TEVA CANADA LIMITED"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "GUAIFENESIN"
+  ]
+}

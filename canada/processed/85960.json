@@ -1,0 +1,28 @@
+{
+  "drug_code": "85960",
+  "din": "02374390",
+  "brand_name": "BACITRACIN ZINC OINTMENT USP",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "27-FEB-2018",
+  "active_ingredients": [
+    {
+      "name": "BACITRACIN ZINC",
+      "strength": "500",
+      "unit": "UNIT"
+    }
+  ],
+  "forms": [
+    "OINTMENT"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "DYNAREX CORPORATION"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "BACITRACIN"
+  ]
+}

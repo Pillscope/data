@@ -1,0 +1,41 @@
+{
+  "drug_code": "91237",
+  "din": "02427877",
+  "brand_name": "CANAURAL",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "12-MAR-2015",
+  "active_ingredients": [
+    {
+      "name": "FRAMYCETIN SULFATE",
+      "strength": "5",
+      "unit": "MG"
+    },
+    {
+      "name": "DIETHANOLAMINE FUSIDATE",
+      "strength": "5",
+      "unit": "MG"
+    },
+    {
+      "name": "NYSTATIN",
+      "strength": "100000",
+      "unit": "UNIT"
+    },
+    {
+      "name": "PREDNISOLONE",
+      "strength": "2.5",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SUSPENSION"
+  ],
+  "routes": [
+    "OTIC"
+  ],
+  "companies": [
+    "DECHRA VETERINARY PRODUCTS A/S"
+  ],
+  "status": "APPROVED",
+  "atc": []
+}

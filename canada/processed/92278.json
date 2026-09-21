@@ -1,0 +1,29 @@
+{
+  "drug_code": "92278",
+  "din": "02438399",
+  "brand_name": "ACT BORTEZOMIB",
+  "class": "Human",
+  "descriptor": "SINGLE-USE VIAL",
+  "last_update": "03-DEC-2015",
+  "active_ingredients": [
+    {
+      "name": "BORTEZOMIB (BORTEZOMIB MANNITOL BORONIC ESTER)",
+      "strength": "3.5",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "POWDER FOR SOLUTION"
+  ],
+  "routes": [
+    "INTRAVENOUS",
+    "SUBCUTANEOUS"
+  ],
+  "companies": [
+    "ACTAVIS PHARMA COMPANY"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "BORTEZOMIB"
+  ]
+}

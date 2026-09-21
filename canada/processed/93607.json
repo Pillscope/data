@@ -1,0 +1,28 @@
+{
+  "drug_code": "93607",
+  "din": "02450070",
+  "brand_name": "M-PEG 3350",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "10-APR-2017",
+  "active_ingredients": [
+    {
+      "name": "POLYETHYLENE GLYCOL 3350",
+      "strength": "100",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "POWDER FOR SOLUTION"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "MANTRA PHARMA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "MACROGOL"
+  ]
+}

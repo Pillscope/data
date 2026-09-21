@@ -1,0 +1,33 @@
+{
+  "drug_code": "13167",
+  "din": "01943308",
+  "brand_name": "TEARS NATURALE FREE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "26-MAY-2017",
+  "active_ingredients": [
+    {
+      "name": "DEXTRAN 70",
+      "strength": "0.1",
+      "unit": "%"
+    },
+    {
+      "name": "HYPROMELLOSE",
+      "strength": "0.3",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "DROPS"
+  ],
+  "routes": [
+    "OPHTHALMIC"
+  ],
+  "companies": [
+    "NOVARTIS PHARMACEUTICALS CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "ARTIFICIAL TEARS AND OTHER INDIFFERENT PREPARATIONS."
+  ]
+}

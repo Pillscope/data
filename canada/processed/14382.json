@@ -1,0 +1,28 @@
+{
+  "drug_code": "14382",
+  "din": "02026767",
+  "brand_name": "MYLAN-CLOBETASOL OINTMENT",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "04-MAY-2011",
+  "active_ingredients": [
+    {
+      "name": "CLOBETASOL PROPIONATE",
+      "strength": "0.05",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "OINTMENT"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "MYLAN PHARMACEUTICALS ULC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "CLOBETASOL"
+  ]
+}

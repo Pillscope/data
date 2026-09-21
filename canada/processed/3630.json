@@ -1,0 +1,31 @@
+{
+  "drug_code": "3630",
+  "din": "00362891",
+  "brand_name": "TONIC LAX PST",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "11-JUL-2017",
+  "active_ingredients": [
+    {
+      "name": "PETROLATUM",
+      "strength": "15.17",
+      "unit": "G"
+    },
+    {
+      "name": "MINERAL OIL",
+      "strength": "2.816",
+      "unit": "ML"
+    }
+  ],
+  "forms": [
+    "PASTE"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "ORMOND VETERINARY SUPPLY LTD."
+  ],
+  "status": "MARKETED",
+  "atc": []
+}

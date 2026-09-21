@@ -1,0 +1,29 @@
+{
+  "drug_code": "95937",
+  "din": "02470381",
+  "brand_name": "UNITAB",
+  "class": "Disinfectant",
+  "descriptor": "",
+  "last_update": "14-MAR-2018",
+  "active_ingredients": [
+    {
+      "name": "SODIUM DICHLOROISOCYANURATE",
+      "strength": "50",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "DISINFECTANT (Food Premises)",
+    "DISINFECTANT (Hospital/HC Facilities)"
+  ],
+  "companies": [
+    "DUSTBANE PRODUCTS LTD"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "TECHNICAL DISINFECTANTS"
+  ]
+}

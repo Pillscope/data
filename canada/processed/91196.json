@@ -1,0 +1,26 @@
+{
+  "drug_code": "91196",
+  "din": "02427435",
+  "brand_name": "NEXGARD",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "19-DEC-2014",
+  "active_ingredients": [
+    {
+      "name": "Afoxolaner",
+      "strength": "11.3",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET (CHEWABLE)"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "MERIAL CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": []
+}

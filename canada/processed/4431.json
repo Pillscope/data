@@ -1,0 +1,29 @@
+{
+  "drug_code": "4431",
+  "din": "00527033",
+  "brand_name": "FUROSEMIDE INJ USP",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "12-DEC-2012",
+  "active_ingredients": [
+    {
+      "name": "FUROSEMIDE",
+      "strength": "10",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "LIQUID"
+  ],
+  "routes": [
+    "INTRAMUSCULAR",
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "SANDOZ CANADA INCORPORATED"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "FUROSEMIDE"
+  ]
+}

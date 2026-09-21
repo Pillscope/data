@@ -1,0 +1,26 @@
+{
+  "drug_code": "131",
+  "din": "00097152",
+  "brand_name": "NEOMYCIN SOLUBLE POWDER 7.8GMS/OZ",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "17-JAN-2018",
+  "active_ingredients": [
+    {
+      "name": "NEOMYCIN (NEOMYCIN SULFATE)",
+      "strength": "392",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "POWDER FOR SOLUTION"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "DOMINION VETERINARY LABORATORIES LTD."
+  ],
+  "status": "MARKETED",
+  "atc": []
+}

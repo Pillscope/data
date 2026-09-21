@@ -1,0 +1,26 @@
+{
+  "drug_code": "92513",
+  "din": "02440776",
+  "brand_name": "OSPHOS INJECTION",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "23-JUL-2015",
+  "active_ingredients": [
+    {
+      "name": "CLODRONATE DISODIUM (CLODRONATE DISODIUM TETRAHYDRATE)",
+      "strength": "60",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "INTRAMUSCULAR"
+  ],
+  "companies": [
+    "DECHRA LTD"
+  ],
+  "status": "APPROVED",
+  "atc": []
+}

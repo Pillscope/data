@@ -1,0 +1,38 @@
+{
+  "drug_code": "89094",
+  "din": "02406217",
+  "brand_name": "PROTECTIVE PROTECTRICE SUNSCREEN SPRAY LOTION LOTION \u00c3\u0089CRAN SOLAIRE EN VAPORISATEUR SPF/FPS 15",
+  "class": "Human",
+  "descriptor": "LOTION",
+  "last_update": "31-MAY-2016",
+  "active_ingredients": [
+    {
+      "name": "AVOBENZONE",
+      "strength": "1.5",
+      "unit": "%"
+    },
+    {
+      "name": "OCTOCRYLENE",
+      "strength": "2",
+      "unit": "%"
+    },
+    {
+      "name": "OCTISALATE",
+      "strength": "3",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "SPRAY"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "EDGEWELL PERSONAL CARE CANADA, ULC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "COMBINATIONS OF PROTECTIVES AGAINST UV-RADIATION"
+  ]
+}

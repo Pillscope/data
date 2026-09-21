@@ -1,0 +1,28 @@
+{
+  "drug_code": "77067",
+  "din": "02285169",
+  "brand_name": "APO-METOPROLOL SR",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "30-AUG-2007",
+  "active_ingredients": [
+    {
+      "name": "METOPROLOL TARTRATE",
+      "strength": "100",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET (EXTENDED-RELEASE)"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "APOTEX INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "METOPROLOL"
+  ]
+}

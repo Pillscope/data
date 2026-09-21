@@ -1,0 +1,28 @@
+{
+  "drug_code": "2620",
+  "din": "00042560",
+  "brand_name": "MAXIDEX",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "15-FEB-2017",
+  "active_ingredients": [
+    {
+      "name": "DEXAMETHASONE",
+      "strength": "0.1",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "SUSPENSION"
+  ],
+  "routes": [
+    "OPHTHALMIC"
+  ],
+  "companies": [
+    "NOVARTIS PHARMACEUTICALS CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "DEXAMETHASONE"
+  ]
+}

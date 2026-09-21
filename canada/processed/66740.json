@@ -1,0 +1,28 @@
+{
+  "drug_code": "66740",
+  "din": "02242907",
+  "brand_name": "APO-AZATHIOPRINE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "06-OCT-2010",
+  "active_ingredients": [
+    {
+      "name": "AZATHIOPRINE",
+      "strength": "50",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "APOTEX INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "AZATHIOPRINE"
+  ]
+}

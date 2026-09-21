@@ -1,0 +1,28 @@
+{
+  "drug_code": "938",
+  "din": "00012750",
+  "brand_name": "MATULANE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "11-AUG-2017",
+  "active_ingredients": [
+    {
+      "name": "PROCARBAZINE (PROCARBAZINE HYDROCHLORIDE)",
+      "strength": "50",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "CAPSULE"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "LEADIANT BIOSCIENCES, INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "PROCARBAZINE"
+  ]
+}

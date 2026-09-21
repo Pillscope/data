@@ -1,0 +1,33 @@
+{
+  "drug_code": "60895",
+  "din": "02237557",
+  "brand_name": "OROTOL PLUS",
+  "class": "Disinfectant",
+  "descriptor": "",
+  "last_update": "20-OCT-2010",
+  "active_ingredients": [
+    {
+      "name": "DODECYL DIMETHYL BENZYL AMMONIUM CHLORIDE",
+      "strength": "1.2",
+      "unit": "%"
+    },
+    {
+      "name": "DIOCTYL DIMETHYL AMMONIUM CHLORIDE",
+      "strength": "8.8",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "LIQUID"
+  ],
+  "routes": [
+    "DISINFECTANT (Hospital/HC Facilities)"
+  ],
+  "companies": [
+    "DURR DENTAL AG OROCHEMIE GMBH + CO. KG DIVISION"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "TECHNICAL DISINFECTANTS"
+  ]
+}

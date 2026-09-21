@@ -1,0 +1,33 @@
+{
+  "drug_code": "94100",
+  "din": "02454424",
+  "brand_name": "DESCOVY",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "13-JUL-2016",
+  "active_ingredients": [
+    {
+      "name": "EMTRICITABINE",
+      "strength": "200",
+      "unit": "MG"
+    },
+    {
+      "name": "TENOFOVIR ALAFENAMIDE (TENOFOVIR ALAFENAMIDE HEMIFUMARATE)",
+      "strength": "25",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "GILEAD SCIENCES CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "EMTRICITABINE AND TENOFOVIR ALAFENAMIDE"
+  ]
+}

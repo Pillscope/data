@@ -1,0 +1,26 @@
+{
+  "drug_code": "89111",
+  "din": "02406403",
+  "brand_name": "M-ELOXYN",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "12-MAY-2014",
+  "active_ingredients": [
+    {
+      "name": "MELOXICAM",
+      "strength": "1.5",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SUSPENSION"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "ZOETIS CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": []
+}

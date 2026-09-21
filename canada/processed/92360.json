@@ -1,0 +1,28 @@
+{
+  "drug_code": "92360",
+  "din": "02439212",
+  "brand_name": "IBAVYR",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "21-MAY-2015",
+  "active_ingredients": [
+    {
+      "name": "RIBAVIRIN",
+      "strength": "200",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "PENDOPHARM DIVISION OF DE PHARMASCIENCE INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "RIBAVIRIN"
+  ]
+}

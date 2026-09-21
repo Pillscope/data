@@ -1,0 +1,28 @@
+{
+  "drug_code": "94414",
+  "din": "02457059",
+  "brand_name": "BACLOFEN INJECTION",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "11-SEP-2017",
+  "active_ingredients": [
+    {
+      "name": "BACLOFEN",
+      "strength": "0.05",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "INTRATHECAL"
+  ],
+  "companies": [
+    "TELIGENT OU"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "BACLOFEN"
+  ]
+}

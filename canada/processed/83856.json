@@ -1,0 +1,28 @@
+{
+  "drug_code": "83856",
+  "din": "02353369",
+  "brand_name": "LEVETIRACETAM",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "13-SEP-2010",
+  "active_ingredients": [
+    {
+      "name": "LEVETIRACETAM",
+      "strength": "750",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "SANIS HEALTH INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "LEVETIRACETAM"
+  ]
+}

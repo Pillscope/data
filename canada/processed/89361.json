@@ -1,0 +1,26 @@
+{
+  "drug_code": "89361",
+  "din": "02408864",
+  "brand_name": "VET PEN 300",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "28-DEC-2017",
+  "active_ingredients": [
+    {
+      "name": "PENICILLIN G PROCAINE",
+      "strength": "300000",
+      "unit": "UNIT"
+    }
+  ],
+  "forms": [
+    "SUSPENSION"
+  ],
+  "routes": [
+    "INTRAMUSCULAR"
+  ],
+  "companies": [
+    "RAFTER 8 PRODUCTS INC"
+  ],
+  "status": "APPROVED",
+  "atc": []
+}

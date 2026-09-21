@@ -1,0 +1,26 @@
+{
+  "drug_code": "677",
+  "din": "00097128",
+  "brand_name": "PIPERAZINE DIHYDROCHLORIDE 53%",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "01-OCT-2010",
+  "active_ingredients": [
+    {
+      "name": "PIPERAZINE HYDROCHLORIDE",
+      "strength": "53",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "POWDER"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "DOMINION VETERINARY LABORATORIES LTD."
+  ],
+  "status": "MARKETED",
+  "atc": []
+}

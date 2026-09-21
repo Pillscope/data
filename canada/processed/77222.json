@@ -1,0 +1,38 @@
+{
+  "drug_code": "77222",
+  "din": "02286769",
+  "brand_name": "WILATE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "25-MAY-2011",
+  "active_ingredients": [
+    {
+      "name": "ANTIHEMOPHILIC FACTOR (HUMAN)",
+      "strength": "1000",
+      "unit": "UNIT"
+    },
+    {
+      "name": "HUMAN PLASMA PROTEINS",
+      "strength": "15.0",
+      "unit": "MG"
+    },
+    {
+      "name": "VON WILLEBRAND FACTOR (HUMAN)",
+      "strength": "1000",
+      "unit": "UNIT"
+    }
+  ],
+  "forms": [
+    "POWDER FOR SOLUTION"
+  ],
+  "routes": [
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "OCTAPHARMA PHARMAZEUTIKA PRODUKTIONSGES M B H"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "VON WILLEBRAND FACTOR AND COAG. FACT. VIII IN COMB"
+  ]
+}

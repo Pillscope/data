@@ -1,0 +1,33 @@
+{
+  "drug_code": "85884",
+  "din": "02373610",
+  "brand_name": "PERSIMMON & CANTALOUPE MOISTURIZING DAY CREAM SPF 32",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "27-JUN-2012",
+  "active_ingredients": [
+    {
+      "name": "ZINC OXIDE",
+      "strength": "4.5",
+      "unit": "%"
+    },
+    {
+      "name": "OCTINOXATE",
+      "strength": "6.0",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "CREAM"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "EMINENCE ORGANIC SKIN CARE"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "COMBINATIONS OF PROTECTIVES AGAINST UV-RADIATION"
+  ]
+}

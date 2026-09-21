@@ -1,0 +1,28 @@
+{
+  "drug_code": "79962",
+  "din": "02314126",
+  "brand_name": "PHENREX MVD",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "09-JUL-2012",
+  "active_ingredients": [
+    {
+      "name": "CHLOROXYLENOL",
+      "strength": "0.6",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "IMREX INC."
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "CHLOROXYLENOL"
+  ]
+}

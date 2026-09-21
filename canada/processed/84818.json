@@ -1,0 +1,33 @@
+{
+  "drug_code": "84818",
+  "din": "02363178",
+  "brand_name": "SUNCARE DEFENSE SPF 8 OIL FACE & BODY",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "09-DEC-2014",
+  "active_ingredients": [
+    {
+      "name": "OXYBENZONE",
+      "strength": "2.5",
+      "unit": "%"
+    },
+    {
+      "name": "OCTINOXATE",
+      "strength": "5.5",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "SUSPENSION"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "SPA DE SOLEIL"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "COMBINATIONS OF PROTECTIVES AGAINST UV-RADIATION"
+  ]
+}

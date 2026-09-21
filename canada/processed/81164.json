@@ -1,0 +1,55 @@
+{
+  "drug_code": "81164",
+  "din": "02326302",
+  "brand_name": "BI-PEGLYTE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "17-JUL-2012",
+  "active_ingredients": [
+    {
+      "name": "SODIUM SULFATE",
+      "strength": "5.74",
+      "unit": "G"
+    },
+    {
+      "name": "SODIUM BICARBONATE",
+      "strength": "1.69",
+      "unit": "G"
+    },
+    {
+      "name": "BISACODYL",
+      "strength": "5",
+      "unit": "MG"
+    },
+    {
+      "name": "POLYETHYLENE GLYCOL 3350",
+      "strength": "59.55",
+      "unit": "G"
+    },
+    {
+      "name": "POTASSIUM CHLORIDE",
+      "strength": "0.76",
+      "unit": "G"
+    },
+    {
+      "name": "SODIUM CHLORIDE",
+      "strength": "1.46",
+      "unit": "G"
+    }
+  ],
+  "forms": [
+    "TABLET (DELAYED-RELEASE)",
+    "KIT",
+    "POWDER FOR SOLUTION"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "PENDOPHARM DIVISION OF DE PHARMASCIENCE INC"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "BISACODYL, COMBINATIONS"
+  ]
+}

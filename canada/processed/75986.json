@@ -1,0 +1,28 @@
+{
+  "drug_code": "75986",
+  "din": "02274418",
+  "brand_name": "ONDANSETRON HYDROCHLORIDE DIHYDRATE INJECTION",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "02-OCT-2012",
+  "active_ingredients": [
+    {
+      "name": "ONDANSETRON (ONDANSETRON HYDROCHLORIDE DIHYDRATE)",
+      "strength": "2",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "SANDOZ CANADA INCORPORATED"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "ONDANSETRON"
+  ]
+}

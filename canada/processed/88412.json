@@ -1,0 +1,28 @@
+{
+  "drug_code": "88412",
+  "din": "02399202",
+  "brand_name": "APO-BOSENTAN",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "18-JUL-2017",
+  "active_ingredients": [
+    {
+      "name": "BOSENTAN (BOSENTAN MONOHYDRATE)",
+      "strength": "62.5",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "APOTEX INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "BOSENTAN"
+  ]
+}

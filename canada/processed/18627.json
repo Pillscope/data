@@ -1,0 +1,28 @@
+{
+  "drug_code": "18627",
+  "din": "02132680",
+  "brand_name": "COLESTID TABLETS 1 G",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "19-SEP-2006",
+  "active_ingredients": [
+    {
+      "name": "COLESTIPOL HYDROCHLORIDE",
+      "strength": "1",
+      "unit": "G"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "PFIZER CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "COLESTIPOL"
+  ]
+}

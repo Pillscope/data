@@ -1,0 +1,28 @@
+{
+  "drug_code": "84422",
+  "din": "02359197",
+  "brand_name": "HERTEL BIOD\u00c3\u0089GRADABLE TOUT USAGE ALL PURPOSE D\u00c3\u0089SINFECTANT DISINFECTANT",
+  "class": "Disinfectant",
+  "descriptor": "LIQUID",
+  "last_update": "26-MAY-2017",
+  "active_ingredients": [
+    {
+      "name": "BENZALKONIUM CHLORIDE",
+      "strength": "0.072",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "SPRAY"
+  ],
+  "routes": [
+    "DISINFECTANT (Domestic)"
+  ],
+  "companies": [
+    "LAVO"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "TECHNICAL DISINFECTANTS"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "drug_code": "90466",
+  "din": "02420058",
+  "brand_name": "MAR-CELECOXIB",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "25-NOV-2014",
+  "active_ingredients": [
+    {
+      "name": "CELECOXIB",
+      "strength": "100",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "CAPSULE"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "MARCAN PHARMACEUTICALS INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "CELECOXIB"
+  ]
+}

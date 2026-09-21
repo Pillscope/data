@@ -1,0 +1,26 @@
+{
+  "drug_code": "44132",
+  "din": "02169479",
+  "brand_name": "DRONCIT CANINE TABLETS - 34MG",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "12-JUL-2017",
+  "active_ingredients": [
+    {
+      "name": "PRAZIQUANTEL",
+      "strength": "34",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "BAYER INC., ANIMAL HEALTH"
+  ],
+  "status": "MARKETED",
+  "atc": []
+}

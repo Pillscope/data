@@ -1,0 +1,30 @@
+{
+  "drug_code": "91805",
+  "din": "02433699",
+  "brand_name": "JAVEL PLUS",
+  "class": "Disinfectant",
+  "descriptor": "",
+  "last_update": "13-FEB-2016",
+  "active_ingredients": [
+    {
+      "name": "SODIUM HYPOCHLORITE",
+      "strength": "4",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "LIQUID"
+  ],
+  "routes": [
+    "DISINFECTANT (Food Premises)",
+    "DISINFECTANT (Hospital/HC Facilities)",
+    "DISINFECTANT (Institutional/Industrial)"
+  ],
+  "companies": [
+    "GROUPE SAVON OLYMPIC INC."
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "TECHNICAL DISINFECTANTS"
+  ]
+}

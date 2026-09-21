@@ -1,0 +1,28 @@
+{
+  "drug_code": "85577",
+  "din": "02370646",
+  "brand_name": "ACT DILTIAZEM CD",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "28-AUG-2017",
+  "active_ingredients": [
+    {
+      "name": "DILTIAZEM HYDROCHLORIDE",
+      "strength": "240",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "CAPSULE (EXTENDED RELEASE)"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "TEVA CANADA LIMITED"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "DILTIAZEM"
+  ]
+}

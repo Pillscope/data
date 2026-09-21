@@ -1,0 +1,28 @@
+{
+  "drug_code": "90625",
+  "din": "02421607",
+  "brand_name": "JAMP-ALLOPURINOL",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "18-MAR-2014",
+  "active_ingredients": [
+    {
+      "name": "ALLOPURINOL",
+      "strength": "200",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "JAMP PHARMA CORPORATION"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "ALLOPURINOL"
+  ]
+}

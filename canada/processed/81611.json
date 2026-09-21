@@ -1,0 +1,28 @@
+{
+  "drug_code": "81611",
+  "din": "02330377",
+  "brand_name": "APO-METHYLPHENIDATE ER",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "03-AUG-2016",
+  "active_ingredients": [
+    {
+      "name": "METHYLPHENIDATE HYDROCHLORIDE",
+      "strength": "54",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET (EXTENDED-RELEASE)"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "APOTEX INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "METHYLPHENIDATE"
+  ]
+}

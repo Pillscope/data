@@ -1,0 +1,28 @@
+{
+  "drug_code": "79164",
+  "din": "02306085",
+  "brand_name": "VALCYTE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "28-JUL-2010",
+  "active_ingredients": [
+    {
+      "name": "VALGANCICLOVIR (VALGANCICLOVIR HYDROCHLORIDE)",
+      "strength": "50",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "POWDER FOR SOLUTION"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "HOFFMANN-LA ROCHE LIMITED"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "VALGANCICLOVIR"
+  ]
+}

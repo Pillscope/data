@@ -1,0 +1,38 @@
+{
+  "drug_code": "90947",
+  "din": "02424800",
+  "brand_name": "BANANA BOAT FOR MEN TRIPLE DEFENSE CONTINUOUS SPRAY SUNSCREEN SPF 30",
+  "class": "Human",
+  "descriptor": "LOTION",
+  "last_update": "01-FEB-2016",
+  "active_ingredients": [
+    {
+      "name": "AVOBENZONE",
+      "strength": "2",
+      "unit": "%"
+    },
+    {
+      "name": "OCTOCRYLENE",
+      "strength": "5",
+      "unit": "%"
+    },
+    {
+      "name": "HOMOSALATE",
+      "strength": "7",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "SPRAY"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "EDGEWELL PERSONAL CARE CANADA, ULC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "COMBINATIONS OF PROTECTIVES AGAINST UV-RADIATION"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "drug_code": "13884",
+  "din": "02014459",
+  "brand_name": "CARBON DIOXIDE USP",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "05-MAY-2008",
+  "active_ingredients": [
+    {
+      "name": "CARBON DIOXIDE",
+      "strength": "99",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "GAS"
+  ],
+  "routes": [
+    "INHALATION"
+  ],
+  "companies": [
+    "PRAXAIR CANADA INC"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "CARBON DIOXIDE"
+  ]
+}

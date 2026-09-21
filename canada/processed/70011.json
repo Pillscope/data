@@ -1,0 +1,28 @@
+{
+  "drug_code": "70011",
+  "din": "02245894",
+  "brand_name": "URSO DS",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "08-JUL-2014",
+  "active_ingredients": [
+    {
+      "name": "URSODIOL",
+      "strength": "500",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "APTALIS PHARMA CANADA ULC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "URSODEOXYCHOLIC ACID"
+  ]
+}

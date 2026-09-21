@@ -1,0 +1,28 @@
+{
+  "drug_code": "92482",
+  "din": "02440466",
+  "brand_name": "SODIUM NITRITE INJECTION, USP",
+  "class": "Human",
+  "descriptor": "10ML SINGLE USE VIAL",
+  "last_update": "11-JAN-2018",
+  "active_ingredients": [
+    {
+      "name": "SODIUM NITRITE",
+      "strength": "30",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "HOPE PHARMACEUTICALS LTD"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "SODIUM NITRITE"
+  ]
+}

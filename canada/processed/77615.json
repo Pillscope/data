@@ -1,0 +1,27 @@
+{
+  "drug_code": "77615",
+  "din": "02290723",
+  "brand_name": "DEX 50",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "28-OCT-2008",
+  "active_ingredients": [
+    {
+      "name": "DEXTROSE",
+      "strength": "50",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "INTRAPERITONEAL",
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "RAFTER 8 PRODUCTS INC"
+  ],
+  "status": "MARKETED",
+  "atc": []
+}

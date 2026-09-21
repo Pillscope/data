@@ -1,0 +1,33 @@
+{
+  "drug_code": "14491",
+  "din": "02020793",
+  "brand_name": "SCLERODINE 6 INJECTION",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "17-AUG-2009",
+  "active_ingredients": [
+    {
+      "name": "IODINE",
+      "strength": "60",
+      "unit": "MG"
+    },
+    {
+      "name": "SODIUM IODIDE",
+      "strength": "90",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "LIQUID"
+  ],
+  "routes": [
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "OMEGA LABORATORIES LTD"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "SCLEROSINGAGENTS FOR LOCAL INJECTION"
+  ]
+}

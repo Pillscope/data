@@ -1,0 +1,33 @@
+{
+  "drug_code": "13885",
+  "din": "02014483",
+  "brand_name": "AIR USP",
+  "class": "Human",
+  "descriptor": "O2:19-23.5% BALANCED WITH N2",
+  "last_update": "17-NOV-2010",
+  "active_ingredients": [
+    {
+      "name": "OXYGEN",
+      "strength": "19.5",
+      "unit": "%"
+    },
+    {
+      "name": "NITROGEN",
+      "strength": "80.5",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "GAS"
+  ],
+  "routes": [
+    "INHALATION"
+  ],
+  "companies": [
+    "PRAXAIR CANADA INC"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "MEDICAL GASES"
+  ]
+}

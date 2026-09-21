@@ -1,0 +1,31 @@
+{
+  "drug_code": "85172",
+  "din": "02366908",
+  "brand_name": "COMPONENT TE-200 IMPLANTS",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "09-APR-2018",
+  "active_ingredients": [
+    {
+      "name": "ESTRADIOL",
+      "strength": "20",
+      "unit": "MG"
+    },
+    {
+      "name": "TRENBOLONE ACETATE",
+      "strength": "200",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "IMPLANT"
+  ],
+  "routes": [
+    "SUBCUTANEOUS"
+  ],
+  "companies": [
+    "ELANCO CANADA LIMITED"
+  ],
+  "status": "APPROVED",
+  "atc": []
+}

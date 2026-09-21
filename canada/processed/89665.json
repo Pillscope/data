@@ -1,0 +1,28 @@
+{
+  "drug_code": "89665",
+  "din": "02412063",
+  "brand_name": "TEVA-TRAVOPROST Z OPHTHALMIC SOLUTION",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "25-AUG-2014",
+  "active_ingredients": [
+    {
+      "name": "TRAVOPROST",
+      "strength": "0.004",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "OPHTHALMIC"
+  ],
+  "companies": [
+    "TEVA CANADA LIMITED"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "TRAVOPROST"
+  ]
+}

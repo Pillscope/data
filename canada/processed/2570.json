@@ -1,0 +1,29 @@
+{
+  "drug_code": "2570",
+  "din": "00386685",
+  "brand_name": "LIPIODOL ULTRA FLUID",
+  "class": "Human",
+  "descriptor": "38%",
+  "last_update": "19-JUL-2017",
+  "active_ingredients": [
+    {
+      "name": "IODINE (ETHIODIZED OIL)",
+      "strength": "380",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "LIQUID"
+  ],
+  "routes": [
+    "INTRACAVITARY",
+    "PARENTERAL (UNSPECIFIED)"
+  ],
+  "companies": [
+    "GUERBET"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "ETHYL ESTERS OF IODISED FATTY ACIDS"
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "drug_code": "66357",
+  "din": "02242583",
+  "brand_name": "BANANA BOAT SUNSCREEN OIL SPRAY HUILE \u00c3\u0089CRAN SOLAIRE EN VAPORISATEUR SPF FPS 4",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "20-JAN-2017",
+  "active_ingredients": [
+    {
+      "name": "PADIMATE O",
+      "strength": "1.4",
+      "unit": "%"
+    },
+    {
+      "name": "OCTINOXATE",
+      "strength": "2",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "SPRAY"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "EDGEWELL PERSONAL CARE CANADA, ULC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "COMBINATIONS OF PROTECTIVES AGAINST UV-RADIATION"
+  ]
+}

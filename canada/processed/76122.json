@@ -1,0 +1,28 @@
+{
+  "drug_code": "76122",
+  "din": "02275589",
+  "brand_name": "PMS-BICALUTAMIDE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "20-SEP-2006",
+  "active_ingredients": [
+    {
+      "name": "BICALUTAMIDE",
+      "strength": "50",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "PHARMASCIENCE INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "BICALUTAMIDE"
+  ]
+}

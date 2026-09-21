@@ -1,0 +1,28 @@
+{
+  "drug_code": "84243",
+  "din": "02357305",
+  "brand_name": "STOOL SOFTENER",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "02-MAY-2017",
+  "active_ingredients": [
+    {
+      "name": "DOCUSATE SODIUM",
+      "strength": "100",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "CAPSULE"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "VITA HEALTH PRODUCTS INC"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "DOCUSATE SODIUM"
+  ]
+}

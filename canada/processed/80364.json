@@ -1,0 +1,33 @@
+{
+  "drug_code": "80364",
+  "din": "02318148",
+  "brand_name": "DENTI-CARE DENTI-FREEZE TOPICAL ANESTHETIC GEL",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "12-JUL-2013",
+  "active_ingredients": [
+    {
+      "name": "BENZOCAINE",
+      "strength": "18",
+      "unit": "%"
+    },
+    {
+      "name": "TETRACAINE HYDROCHLORIDE",
+      "strength": "2",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "GEL"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "AMD MEDICOM INC"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "VARIOUS"
+  ]
+}

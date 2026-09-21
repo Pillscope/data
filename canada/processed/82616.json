@@ -1,0 +1,28 @@
+{
+  "drug_code": "82616",
+  "din": "02340585",
+  "brand_name": "PMS-QUINAPRIL",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "16-DEC-2013",
+  "active_ingredients": [
+    {
+      "name": "QUINAPRIL (QUINAPRIL HYDROCHLORIDE)",
+      "strength": "40",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "PHARMASCIENCE INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "QUINAPRIL"
+  ]
+}

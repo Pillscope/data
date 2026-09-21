@@ -1,0 +1,38 @@
+{
+  "drug_code": "50135",
+  "din": "02230862",
+  "brand_name": "MIXED VESPID VENOM PROTEIN MULTIDOSE 13.0 ML (3900 MCG)",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "10-OCT-2012",
+  "active_ingredients": [
+    {
+      "name": "WHITE FACED HORNET VENOM PROTEIN",
+      "strength": "1300",
+      "unit": "MCG"
+    },
+    {
+      "name": "YELLOW HORNET VENOM PROTEIN",
+      "strength": "1300",
+      "unit": "MCG"
+    },
+    {
+      "name": "YELLOW JACKET VENOM PROTEIN",
+      "strength": "1300",
+      "unit": "MCG"
+    }
+  ],
+  "forms": [
+    "POWDER FOR SOLUTION"
+  ],
+  "routes": [
+    "SUBCUTANEOUS"
+  ],
+  "companies": [
+    "JUBILANT HOLLISTERSTIER LLC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "INSECTS"
+  ]
+}

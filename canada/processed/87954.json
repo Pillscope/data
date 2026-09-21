@@ -1,0 +1,28 @@
+{
+  "drug_code": "87954",
+  "din": "02394375",
+  "brand_name": "LOSARTAN",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "02-OCT-2015",
+  "active_ingredients": [
+    {
+      "name": "LOSARTAN POTASSIUM",
+      "strength": "50",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "PRO DOC LIMITEE"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "LOSARTAN"
+  ]
+}

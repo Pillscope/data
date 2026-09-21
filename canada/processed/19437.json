@@ -1,0 +1,28 @@
+{
+  "drug_code": "19437",
+  "din": "02145820",
+  "brand_name": "ADENOCARD INJECTION -PRE-FILLED SYRINGE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "06-JUL-2016",
+  "active_ingredients": [
+    {
+      "name": "ADENOSINE",
+      "strength": "3",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "ASTELLAS PHARMA CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "ADENOSINE"
+  ]
+}

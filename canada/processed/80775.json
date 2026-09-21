@@ -1,0 +1,33 @@
+{
+  "drug_code": "80775",
+  "din": "02322293",
+  "brand_name": "ELTAMD SKINCARE UV DEFENSE SPF 45",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "03-SEP-2013",
+  "active_ingredients": [
+    {
+      "name": "ZINC OXIDE",
+      "strength": "9.0",
+      "unit": "%"
+    },
+    {
+      "name": "OCTINOXATE",
+      "strength": "7.5",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "LOTION"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "SWISS AMERICAN PRODUCTS INC."
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "COMBINATIONS OF PROTECTIVES AGAINST UV-RADIATION"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "drug_code": "93615",
+  "din": "02450127",
+  "brand_name": "PRIVA-GABAPENTIN",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "27-JUN-2017",
+  "active_ingredients": [
+    {
+      "name": "GABAPENTIN",
+      "strength": "600",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "PHARMAPAR INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "GABAPENTIN"
+  ]
+}

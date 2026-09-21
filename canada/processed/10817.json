@@ -1,0 +1,51 @@
+{
+  "drug_code": "10817",
+  "din": "00813877",
+  "brand_name": "SPECIAL FORMULA 17900-FORTE",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "08-FEB-2016",
+  "active_ingredients": [
+    {
+      "name": "HYDROCORTISONE SODIUM SUCCINATE",
+      "strength": "12.5",
+      "unit": "MG"
+    },
+    {
+      "name": "HYDROCORTISONE ACETATE",
+      "strength": "20",
+      "unit": "MG"
+    },
+    {
+      "name": "NOVOBIOCIN (NOVOBIOCIN SODIUM)",
+      "strength": "150",
+      "unit": "MG"
+    },
+    {
+      "name": "DIHYDROSTREPTOMYCIN (DIHYDROSTREPTOMYCIN SULFATE)",
+      "strength": "100",
+      "unit": "MG"
+    },
+    {
+      "name": "POLYMYXIN B SULFATE",
+      "strength": "50000",
+      "unit": "UNIT"
+    },
+    {
+      "name": "PENICILLIN G PROCAINE",
+      "strength": "100000",
+      "unit": "UNIT"
+    }
+  ],
+  "forms": [
+    "SUSPENSION"
+  ],
+  "routes": [
+    "INTRAMAMMARY"
+  ],
+  "companies": [
+    "ZOETIS CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": []
+}

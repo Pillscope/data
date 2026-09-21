@@ -1,0 +1,28 @@
+{
+  "drug_code": "75197",
+  "din": "02266547",
+  "brand_name": "SANDOZ CLARITHROMYCIN",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "20-AUG-2008",
+  "active_ingredients": [
+    {
+      "name": "CLARITHROMYCIN",
+      "strength": "500",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "SANDOZ CANADA INCORPORATED"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "CLARITHROMYCIN"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "drug_code": "88077",
+  "din": "02395703",
+  "brand_name": "FENTANYL PATCH",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "17-JAN-2014",
+  "active_ingredients": [
+    {
+      "name": "FENTANYL",
+      "strength": "100",
+      "unit": "MCG"
+    }
+  ],
+  "forms": [
+    "PATCH"
+  ],
+  "routes": [
+    "TRANSDERMAL"
+  ],
+  "companies": [
+    "PRO DOC LIMITEE"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "FENTANYL"
+  ]
+}

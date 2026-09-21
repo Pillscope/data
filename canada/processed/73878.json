@@ -1,0 +1,78 @@
+{
+  "drug_code": "73878",
+  "din": "02253852",
+  "brand_name": "INFANRIX-HEXA",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "08-JUL-2010",
+  "active_ingredients": [
+    {
+      "name": "HAEMOPHILUS INFLUENZAE TYPE B-PRP",
+      "strength": "10",
+      "unit": "MCG"
+    },
+    {
+      "name": "HEPATITIS B SURFACE ANTIGEN (RECOMBINANT)",
+      "strength": "10",
+      "unit": "MCG"
+    },
+    {
+      "name": "DIPHTHERIA TOXOID",
+      "strength": "25",
+      "unit": "LF"
+    },
+    {
+      "name": "TETANUS TOXOID ADSORBED",
+      "strength": "40",
+      "unit": "MCG"
+    },
+    {
+      "name": "TETANUS TOXOID",
+      "strength": "10",
+      "unit": "LF"
+    },
+    {
+      "name": "PERTACTIN",
+      "strength": "8",
+      "unit": "MCG"
+    },
+    {
+      "name": "PERTUSSIS TOXOID",
+      "strength": "25",
+      "unit": "MCG"
+    },
+    {
+      "name": "INACTIVATED POLIOVIRUS TYPE II",
+      "strength": "8",
+      "unit": "UNIT"
+    },
+    {
+      "name": "FILAMENTOUS HAEMAGGLUTININ",
+      "strength": "25",
+      "unit": "MCG"
+    },
+    {
+      "name": "INACTIVATED POLIOVIRUS TYPE I",
+      "strength": "40",
+      "unit": "UNIT"
+    },
+    {
+      "name": "INACTIVATED POLIOVIRUS TYPE III",
+      "strength": "32",
+      "unit": "UNIT"
+    }
+  ],
+  "forms": [
+    "SUSPENSION"
+  ],
+  "routes": [
+    "INTRAMUSCULAR"
+  ],
+  "companies": [
+    "GLAXOSMITHKLINE INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "DIPHTHERIA-PERTUSSIS-POLIOMYELITIS-TETANUS"
+  ]
+}

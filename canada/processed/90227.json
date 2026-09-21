@@ -1,0 +1,27 @@
+{
+  "drug_code": "90227",
+  "din": "02417677",
+  "brand_name": "CEFTIOCYL",
+  "class": "Veterinary",
+  "descriptor": "I.M. FOR SWINE & CATTLE. S.C. FOR CATTLE ONLY.",
+  "last_update": "09-JUL-2014",
+  "active_ingredients": [
+    {
+      "name": "CEFTIOFUR (CEFTIOFUR HYDROCHLORIDE)",
+      "strength": "50",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SUSPENSION"
+  ],
+  "routes": [
+    "INTRAMUSCULAR",
+    "SUBCUTANEOUS"
+  ],
+  "companies": [
+    "VETOQUINOL N A INC"
+  ],
+  "status": "APPROVED",
+  "atc": []
+}

@@ -1,0 +1,28 @@
+{
+  "drug_code": "77856",
+  "din": "02293196",
+  "brand_name": "SCALP RELIEF DANDRUFF CONTROL (PYRITHIONE ZINC SHAMPOO)",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "31-JUL-2012",
+  "active_ingredients": [
+    {
+      "name": "PYRITHIONE ZINC",
+      "strength": "1",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "SHAMPOO"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "REDKEN 5TH AVENUE NYC"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "PYRITHIONE ZINC"
+  ]
+}

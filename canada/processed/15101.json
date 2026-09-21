@@ -1,0 +1,36 @@
+{
+  "drug_code": "15101",
+  "din": "02047780",
+  "brand_name": "4XLA",
+  "class": "Veterinary",
+  "descriptor": "ANTISEPTIC TEAT DIP",
+  "last_update": "31-JUL-2012",
+  "active_ingredients": [
+    {
+      "name": "GLYCERINE",
+      "strength": "10.0",
+      "unit": "%"
+    },
+    {
+      "name": "LACTIC ACID",
+      "strength": "2.64",
+      "unit": "%"
+    },
+    {
+      "name": "SODIUM CHLORITE",
+      "strength": "0.64",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "ECOLAB CO"
+  ],
+  "status": "APPROVED",
+  "atc": []
+}

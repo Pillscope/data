@@ -1,0 +1,28 @@
+{
+  "drug_code": "92413",
+  "din": "02439735",
+  "brand_name": "IBUPROFEN CAPLETS",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "19-APR-2016",
+  "active_ingredients": [
+    {
+      "name": "IBUPROFEN",
+      "strength": "400",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "APOTEX INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "IBUPROFEN"
+  ]
+}

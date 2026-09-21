@@ -1,0 +1,28 @@
+{
+  "drug_code": "13037",
+  "din": "00708917",
+  "brand_name": "PROVERA 2.5MG TABLETS",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "01-MAY-2009",
+  "active_ingredients": [
+    {
+      "name": "MEDROXYPROGESTERONE ACETATE",
+      "strength": "2.5",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "PFIZER CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "MEDROXYPROGESTERONE"
+  ]
+}

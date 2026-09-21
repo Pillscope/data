@@ -1,0 +1,33 @@
+{
+  "drug_code": "8054",
+  "din": "00717282",
+  "brand_name": "PRIMAXIN 500",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "27-MAY-2010",
+  "active_ingredients": [
+    {
+      "name": "CILASTATIN (CILASTATIN SODIUM)",
+      "strength": "500",
+      "unit": "MG"
+    },
+    {
+      "name": "IMIPENEM",
+      "strength": "500",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "POWDER FOR SOLUTION"
+  ],
+  "routes": [
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "MERCK CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "IMIPENEM AND CILASTATIN"
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "drug_code": "92834",
+  "din": "02443651",
+  "brand_name": "PH 12 STERILE DILUENT FOR FLOLAN",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "11-AUG-2016",
+  "active_ingredients": [
+    {
+      "name": "SODIUM CHLORIDE",
+      "strength": "73.3",
+      "unit": "MG"
+    },
+    {
+      "name": "GLYCINE",
+      "strength": "94",
+      "unit": "MG"
+    },
+    {
+      "name": "WATER",
+      "strength": "50",
+      "unit": "ML"
+    }
+  ],
+  "forms": [
+    "LIQUID"
+  ],
+  "routes": [
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "GLAXOSMITHKLINE INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "SOLVENTS AND DILUTING AGENTS,INCL IRRIGAT SOLUT"
+  ]
+}

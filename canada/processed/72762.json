@@ -1,0 +1,38 @@
+{
+  "drug_code": "72762",
+  "din": "02248412",
+  "brand_name": "NATURAL FX WATER BASED FOUNDATION SPF 15",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "17-FEB-2006",
+  "active_ingredients": [
+    {
+      "name": "OCTOCRYLENE",
+      "strength": "2.2",
+      "unit": "%"
+    },
+    {
+      "name": "OXYBENZONE",
+      "strength": "0.9",
+      "unit": "%"
+    },
+    {
+      "name": "OCTINOXATE",
+      "strength": "3.4",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "SUSPENSION"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "COVER FX SKINCARE INC"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "COMBINATIONS OF PROTECTIVES AGAINST UV-RADIATION"
+  ]
+}

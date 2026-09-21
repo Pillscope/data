@@ -1,0 +1,26 @@
+{
+  "drug_code": "61226",
+  "din": "02237866",
+  "brand_name": "ZIMECTERIN",
+  "class": "Veterinary",
+  "descriptor": "ORAL PASTE FOR HORSES",
+  "last_update": "09-MAY-2011",
+  "active_ingredients": [
+    {
+      "name": "IVERMECTIN",
+      "strength": "120",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "PASTE"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "MERIAL CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": []
+}

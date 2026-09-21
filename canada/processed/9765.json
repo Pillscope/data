@@ -1,0 +1,26 @@
+{
+  "drug_code": "9765",
+  "din": "00785989",
+  "brand_name": "BUTASONE CONC PWR 8GM/30GM",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "13-APR-1999",
+  "active_ingredients": [
+    {
+      "name": "PHENYLBUTAZONE",
+      "strength": "8",
+      "unit": "G"
+    }
+  ],
+  "forms": [
+    "POWDER"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "JAAPHARM CANADA INC."
+  ],
+  "status": "MARKETED",
+  "atc": []
+}

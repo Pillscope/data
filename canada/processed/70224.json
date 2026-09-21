@@ -1,0 +1,28 @@
+{
+  "drug_code": "70224",
+  "din": "02246089",
+  "brand_name": "LIFE -SHAMPOOING ET REVITALISANT ANTIPELLICULAIRE CLASSIQUE - 2 EN 1",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "06-JUL-2006",
+  "active_ingredients": [
+    {
+      "name": "PYRITHIONE ZINC",
+      "strength": "1",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "SHAMPOO"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "LE GROUPE ULTRAPAC"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "PYRITHIONE ZINC"
+  ]
+}

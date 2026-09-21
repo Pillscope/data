@@ -1,0 +1,26 @@
+{
+  "drug_code": "18043",
+  "din": "02153459",
+  "brand_name": "DUO POST-MILKING TEAT DIP",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "06-DEC-2004",
+  "active_ingredients": [
+    {
+      "name": "NONYL PHENOXYPOLY ETHOXY ETHANOL-IODINE",
+      "strength": "1.7",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "TEAT-DIP"
+  ],
+  "companies": [
+    "ECOLAB CO"
+  ],
+  "status": "APPROVED",
+  "atc": []
+}

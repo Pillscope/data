@@ -1,0 +1,28 @@
+{
+  "drug_code": "50122",
+  "din": "02230848",
+  "brand_name": "FLOLAN",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "13-JUL-2015",
+  "active_ingredients": [
+    {
+      "name": "EPOPROSTENOL (EPOPROSTENOL SODIUM)",
+      "strength": "1.5",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "POWDER FOR SOLUTION"
+  ],
+  "routes": [
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "GLAXOSMITHKLINE INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "EPOPROSTENOL"
+  ]
+}

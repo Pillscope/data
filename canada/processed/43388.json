@@ -1,0 +1,29 @@
+{
+  "drug_code": "43388",
+  "din": "02223732",
+  "brand_name": "DILUENT FOR ALLERGENIC EXTRACT STERILE ALBUMIN SALINE WITH PHENOL",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "09-OCT-2012",
+  "active_ingredients": [
+    {
+      "name": "ALBUMIN (HUMAN)",
+      "strength": "0.03",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "LIQUID"
+  ],
+  "routes": [
+    "INTRADERMAL",
+    "SUBCUTANEOUS"
+  ],
+  "companies": [
+    "JUBILANT HOLLISTERSTIER LLC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "SOLVENTS AND DILUTING AGENTS,INCL IRRIGAT SOLUT"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "drug_code": "81202",
+  "din": "02326663",
+  "brand_name": "ONGUENT OPHTALMIQUE D'ERYTHROMYCINE USP",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "18-FEB-2010",
+  "active_ingredients": [
+    {
+      "name": "ERYTHROMYCIN",
+      "strength": "5",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "OINTMENT"
+  ],
+  "routes": [
+    "OPHTHALMIC"
+  ],
+  "companies": [
+    "LABORATOIRES STERIGEN INC"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "ERYTHROMYCIN"
+  ]
+}

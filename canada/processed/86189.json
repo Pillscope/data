@@ -1,0 +1,33 @@
+{
+  "drug_code": "86189",
+  "din": "02376423",
+  "brand_name": "COLOR ICON BRONZER SPF 15",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "04-DEC-2012",
+  "active_ingredients": [
+    {
+      "name": "OXYBENZONE",
+      "strength": "1.5",
+      "unit": "%"
+    },
+    {
+      "name": "OCTINOXATE",
+      "strength": "5.0",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "POWDER"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "MARKWINS BEAUTY PRODUCTS INC"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "COMBINATIONS OF PROTECTIVES AGAINST UV-RADIATION"
+  ]
+}

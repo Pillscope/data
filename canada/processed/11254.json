@@ -1,0 +1,28 @@
+{
+  "drug_code": "11254",
+  "din": "00779806",
+  "brand_name": "NIODAN 500 MG TIME RELEASE TABLETS",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "06-JUL-2010",
+  "active_ingredients": [
+    {
+      "name": "NICOTINIC ACID",
+      "strength": "500",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET (EXTENDED-RELEASE)"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "ODAN LABORATORIES LTD"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "NICOTINIC ACID"
+  ]
+}

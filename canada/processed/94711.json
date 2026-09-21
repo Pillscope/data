@@ -1,0 +1,28 @@
+{
+  "drug_code": "94711",
+  "din": "02459787",
+  "brand_name": "XOLAIR",
+  "class": "Human",
+  "descriptor": "PREFILLED SYRINGE (0.5 ML SOLUTION)",
+  "last_update": "29-JUN-2017",
+  "active_ingredients": [
+    {
+      "name": "OMALIZUMAB",
+      "strength": "75",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "SUBCUTANEOUS"
+  ],
+  "companies": [
+    "NOVARTIS PHARMACEUTICALS CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "OMALIZUMAB"
+  ]
+}

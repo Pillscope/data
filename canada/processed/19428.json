@@ -1,0 +1,28 @@
+{
+  "drug_code": "19428",
+  "din": "02063794",
+  "brand_name": "EMCYT",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "01-MAY-2009",
+  "active_ingredients": [
+    {
+      "name": "ESTRAMUSTINE PHOSPHATE SODIUM",
+      "strength": "140",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "CAPSULE"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "PFIZER CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "ESTRAMUSTINE"
+  ]
+}

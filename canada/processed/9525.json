@@ -1,0 +1,27 @@
+{
+  "drug_code": "9525",
+  "din": "00654590",
+  "brand_name": "EPICLOR INJ 1MG/ML",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "12-JUN-2008",
+  "active_ingredients": [
+    {
+      "name": "EPINEPHRINE HYDROCHLORIDE",
+      "strength": "1",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "INTRAMUSCULAR",
+    "SUBCUTANEOUS"
+  ],
+  "companies": [
+    "RAFTER 8 PRODUCTS INC"
+  ],
+  "status": "MARKETED",
+  "atc": []
+}

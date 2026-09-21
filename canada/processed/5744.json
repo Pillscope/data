@@ -1,0 +1,27 @@
+{
+  "drug_code": "5744",
+  "din": "00616923",
+  "brand_name": "UNI PRED 50 INJ 50MG/ML",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "13-APR-1999",
+  "active_ingredients": [
+    {
+      "name": "PREDNISOLONE ACETATE",
+      "strength": "50",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "LIQUID"
+  ],
+  "routes": [
+    "INTRA-ARTICULAR",
+    "INTRAMUSCULAR"
+  ],
+  "companies": [
+    "UNIVET PHARMACEUTICALS LTD."
+  ],
+  "status": "MARKETED",
+  "atc": []
+}

@@ -1,0 +1,28 @@
+{
+  "drug_code": "43455",
+  "din": "02227428",
+  "brand_name": "SUPRANE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "14-DEC-2012",
+  "active_ingredients": [
+    {
+      "name": "DESFLURANE",
+      "strength": "100",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "LIQUID"
+  ],
+  "routes": [
+    "INHALATION"
+  ],
+  "companies": [
+    "BAXTER CORPORATION"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "DESFLURANE"
+  ]
+}

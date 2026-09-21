@@ -1,0 +1,28 @@
+{
+  "drug_code": "4730",
+  "din": "00441686",
+  "brand_name": "ISDN",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "17-JUL-2013",
+  "active_ingredients": [
+    {
+      "name": "ISOSORBIDE DINITRATE",
+      "strength": "10",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "AA PHARMA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "ISOSORBIDE DINITRATE"
+  ]
+}

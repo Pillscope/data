@@ -1,0 +1,28 @@
+{
+  "drug_code": "3794",
+  "din": "00337757",
+  "brand_name": "TEVA-CLOXACILLIN",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "29-SEP-2016",
+  "active_ingredients": [
+    {
+      "name": "CLOXACILLIN SODIUM",
+      "strength": "125",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "GRANULES FOR SOLUTION"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "TEVA CANADA LIMITED"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "CLOXACILLIN"
+  ]
+}

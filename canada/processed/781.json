@@ -1,0 +1,34 @@
+{
+  "drug_code": "781",
+  "din": "00141984",
+  "brand_name": "LIDOCAINE HCL 2% W EPINEPHRINE",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "13-AUG-2012",
+  "active_ingredients": [
+    {
+      "name": "EPINEPHRINE",
+      "strength": ".01",
+      "unit": "MG"
+    },
+    {
+      "name": "LIDOCAINE HYDROCHLORIDE",
+      "strength": "20.4",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "LIQUID"
+  ],
+  "routes": [
+    "BLOCK/INFILTRATION",
+    "INTRAMUSCULAR",
+    "SUBCUTANEOUS",
+    "EPIDURAL"
+  ],
+  "companies": [
+    "BIMEDA-MTC ANIMAL HEALTH INC"
+  ],
+  "status": "APPROVED",
+  "atc": []
+}

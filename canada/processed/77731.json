@@ -1,0 +1,31 @@
+{
+  "drug_code": "77731",
+  "din": "02291940",
+  "brand_name": "MILBEMAX",
+  "class": "Veterinary",
+  "descriptor": "FLAVOR-COATED TABLETS FOR CATS AND KITTENS",
+  "last_update": "30-MAR-2016",
+  "active_ingredients": [
+    {
+      "name": "MILBEMYCIN OXIME",
+      "strength": "4",
+      "unit": "MG"
+    },
+    {
+      "name": "PRAZIQUANTEL",
+      "strength": "10",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "ELANCO CANADA LIMITED"
+  ],
+  "status": "APPROVED",
+  "atc": []
+}

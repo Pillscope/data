@@ -1,0 +1,28 @@
+{
+  "drug_code": "73463",
+  "din": "02249790",
+  "brand_name": "NEULASTA",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "26-MAY-2010",
+  "active_ingredients": [
+    {
+      "name": "PEGFILGRASTIM",
+      "strength": "10",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "SUBCUTANEOUS"
+  ],
+  "companies": [
+    "AMGEN CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "PEGFILGRASTIM"
+  ]
+}

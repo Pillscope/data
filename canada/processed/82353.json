@@ -1,0 +1,28 @@
+{
+  "drug_code": "82353",
+  "din": "02337894",
+  "brand_name": "MYLAN-OLANZAPINE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "27-AUG-2010",
+  "active_ingredients": [
+    {
+      "name": "OLANZAPINE",
+      "strength": "7.5",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "MYLAN PHARMACEUTICALS ULC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "OLANZAPINE"
+  ]
+}

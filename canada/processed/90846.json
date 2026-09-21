@@ -1,0 +1,29 @@
+{
+  "drug_code": "90846",
+  "din": "02423766",
+  "brand_name": "MIDAZOLAM INJECTION",
+  "class": "Human",
+  "descriptor": "5MG/ML; 15MG/3ML; 50MG/10ML SINGLE USE AMPOULES",
+  "last_update": "14-APR-2015",
+  "active_ingredients": [
+    {
+      "name": "MIDAZOLAM",
+      "strength": "5",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "INTRAMUSCULAR",
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "PFIZER CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "MIDAZOLAM"
+  ]
+}

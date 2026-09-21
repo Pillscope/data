@@ -1,0 +1,28 @@
+{
+  "drug_code": "86128",
+  "din": "02375885",
+  "brand_name": "APPRILON",
+  "class": "Human",
+  "descriptor": "MODIFIED RELEASE CAPSULE (40MG)",
+  "last_update": "20-NOV-2013",
+  "active_ingredients": [
+    {
+      "name": "DOXYCYCLINE (Doxycycline Monohydrate)",
+      "strength": "40",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "CAPSULE (IMMEDIATE AND DELAYED RELEASE)"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "GALDERMA CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "DOXYCYCLINE"
+  ]
+}

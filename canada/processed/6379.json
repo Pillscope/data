@@ -1,0 +1,28 @@
+{
+  "drug_code": "6379",
+  "din": "00590827",
+  "brand_name": "VOLTAREN SR TAB 100MG",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "04-APR-2006",
+  "active_ingredients": [
+    {
+      "name": "DICLOFENAC SODIUM",
+      "strength": "100",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET (EXTENDED-RELEASE)"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "NOVARTIS PHARMACEUTICALS CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "DICLOFENAC"
+  ]
+}

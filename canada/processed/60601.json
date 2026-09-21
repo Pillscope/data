@@ -1,0 +1,28 @@
+{
+  "drug_code": "60601",
+  "din": "02237280",
+  "brand_name": "EFFEXOR XR",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "13-MAR-2013",
+  "active_ingredients": [
+    {
+      "name": "VENLAFAXINE (VENLAFAXINE HYDROCHLORIDE)",
+      "strength": "75",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "CAPSULE (EXTENDED RELEASE)"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "PFIZER CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "VENLAFAXINE"
+  ]
+}

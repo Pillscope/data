@@ -1,0 +1,28 @@
+{
+  "drug_code": "69769",
+  "din": "02245669",
+  "brand_name": "APO-SALVENT CFC FREE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "14-JUN-2010",
+  "active_ingredients": [
+    {
+      "name": "SALBUTAMOL (SALBUTAMOL SULFATE)",
+      "strength": "100",
+      "unit": "MCG"
+    }
+  ],
+  "forms": [
+    "METERED-DOSE AEROSOL"
+  ],
+  "routes": [
+    "INHALATION"
+  ],
+  "companies": [
+    "APOTEX INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "SALBUTAMOL"
+  ]
+}

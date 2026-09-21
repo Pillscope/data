@@ -1,0 +1,33 @@
+{
+  "drug_code": "85935",
+  "din": "02374145",
+  "brand_name": "AVON TRUE COLOR FLAWLESS CREAM TO POWDER FOUNDATION BROAD SPECTRUM SPF 15 SUNSCREEN",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "14-DEC-2015",
+  "active_ingredients": [
+    {
+      "name": "TITANIUM DIOXIDE",
+      "strength": "3.16",
+      "unit": "%"
+    },
+    {
+      "name": "OCTINOXATE",
+      "strength": "6.31",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "CREAM"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "AVON CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "COMBINATIONS OF PROTECTIVES AGAINST UV-RADIATION"
+  ]
+}

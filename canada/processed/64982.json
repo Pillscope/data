@@ -1,0 +1,26 @@
+{
+  "drug_code": "64982",
+  "din": "02241351",
+  "brand_name": "RESICHLOR LEAVE-ON CONDITIONER",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "15-NOV-2001",
+  "active_ingredients": [
+    {
+      "name": "CHLORHEXIDINE GLUCONATE",
+      "strength": "2",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "LIQUID"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "VIRBAC AH INC"
+  ],
+  "status": "MARKETED",
+  "atc": []
+}

@@ -1,0 +1,28 @@
+{
+  "drug_code": "66754",
+  "din": "02242920",
+  "brand_name": "MYLAN-HYDROXYUREA",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "01-SEP-2010",
+  "active_ingredients": [
+    {
+      "name": "HYDROXYUREA",
+      "strength": "500",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "CAPSULE"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "MYLAN PHARMACEUTICALS ULC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "HYDROXYCARBAMIDE"
+  ]
+}

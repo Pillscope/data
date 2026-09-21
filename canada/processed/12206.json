@@ -1,0 +1,26 @@
+{
+  "drug_code": "12206",
+  "din": "00872695",
+  "brand_name": "SERGEANT'S WORM-AWAY FOR CATS CAP 98.5%",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "02-OCT-2010",
+  "active_ingredients": [
+    {
+      "name": "PIPERAZINE (PIPERAZINE CITRATE)",
+      "strength": "140",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "CAPSULE"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "SERGEANTS OF CANADA"
+  ],
+  "status": "MARKETED",
+  "atc": []
+}

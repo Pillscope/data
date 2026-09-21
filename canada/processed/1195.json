@@ -1,0 +1,28 @@
+{
+  "drug_code": "1195",
+  "din": "00004715",
+  "brand_name": "ALKERAN",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "24-FEB-2017",
+  "active_ingredients": [
+    {
+      "name": "MELPHALAN",
+      "strength": "2",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "ASPEN PHARMACARE CANADA INC."
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "MELPHALAN"
+  ]
+}

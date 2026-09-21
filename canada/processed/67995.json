@@ -1,0 +1,28 @@
+{
+  "drug_code": "67995",
+  "din": "02244052",
+  "brand_name": "KEYSTONE ANTIBACTERIAL FOAM HAND SOAP",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "24-MAR-2006",
+  "active_ingredients": [
+    {
+      "name": "TRICLOSAN",
+      "strength": "0.3",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "LIQUID"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "ECOLAB CO"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "TRICLOSAN"
+  ]
+}

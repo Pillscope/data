@@ -1,0 +1,28 @@
+{
+  "drug_code": "48413",
+  "din": "02229959",
+  "brand_name": "SLEEP-EZE EXTRA STRENGTH CAPLETS",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "23-SEP-2015",
+  "active_ingredients": [
+    {
+      "name": "DIPHENHYDRAMINE HYDROCHLORIDE",
+      "strength": "50",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "MEDTECH PRODUCTS INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "DIPHENHYDRAMINE"
+  ]
+}

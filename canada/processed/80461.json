@@ -1,0 +1,28 @@
+{
+  "drug_code": "80461",
+  "din": "02319144",
+  "brand_name": "ANTIMICROBIAL FOAMING HAND SOAP / SAVON \u00c3\u0080 MAINS MOUSSANT ANTIMICROBIEN",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "12-MAR-2009",
+  "active_ingredients": [
+    {
+      "name": "TRICLOSAN",
+      "strength": "0.3",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "AVMOR LTD"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "TRICLOSAN"
+  ]
+}

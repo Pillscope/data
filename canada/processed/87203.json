@@ -1,0 +1,28 @@
+{
+  "drug_code": "87203",
+  "din": "02386445",
+  "brand_name": "SANDOZ ATOMOXETINE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "19-JUN-2012",
+  "active_ingredients": [
+    {
+      "name": "ATOMOXETINE (ATOMOXETINE HYDROCHLORIDE)",
+      "strength": "40",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "CAPSULE"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "SANDOZ CANADA INCORPORATED"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "ATOMOXETINE"
+  ]
+}

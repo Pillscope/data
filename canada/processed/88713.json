@@ -1,0 +1,28 @@
+{
+  "drug_code": "88713",
+  "din": "02402289",
+  "brand_name": "JAMP-GABAPENTIN TABLETS",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "22-MAY-2013",
+  "active_ingredients": [
+    {
+      "name": "GABAPENTIN",
+      "strength": "600",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "JAMP PHARMA CORPORATION"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "GABAPENTIN"
+  ]
+}

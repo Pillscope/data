@@ -1,0 +1,28 @@
+{
+  "drug_code": "84063",
+  "din": "02355396",
+  "brand_name": "WOMAN'S LAXATIVE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "04-DEC-2017",
+  "active_ingredients": [
+    {
+      "name": "BISACODYL",
+      "strength": "5",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "GUARDIAN DRUG COMPANY INC"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "BISACODYL"
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "drug_code": "90945",
+  "din": "02424797",
+  "brand_name": "BANANA BOAT FOR MEN TRIPLE DEFENSE SUNSCREEN LOTION SPF 30",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "01-FEB-2016",
+  "active_ingredients": [
+    {
+      "name": "AVOBENZONE",
+      "strength": "1.2",
+      "unit": "%"
+    },
+    {
+      "name": "OCTOCRYLENE",
+      "strength": "0.8",
+      "unit": "%"
+    },
+    {
+      "name": "OCTISALATE",
+      "strength": "5",
+      "unit": "%"
+    },
+    {
+      "name": "OXYBENZONE",
+      "strength": "4",
+      "unit": "%"
+    },
+    {
+      "name": "HOMOSALATE",
+      "strength": "10",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "LOTION"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "EDGEWELL PERSONAL CARE CANADA, ULC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "COMBINATIONS OF PROTECTIVES AGAINST UV-RADIATION"
+  ]
+}

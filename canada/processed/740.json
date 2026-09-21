@@ -1,0 +1,36 @@
+{
+  "drug_code": "740",
+  "din": "00192775",
+  "brand_name": "MOLLIMENTUM HOOF DRESSING",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "01-OCT-2010",
+  "active_ingredients": [
+    {
+      "name": "COTTON SEED OIL EXT.",
+      "strength": "34.7",
+      "unit": "%"
+    },
+    {
+      "name": "TURPENTINE",
+      "strength": "18.4",
+      "unit": "%"
+    },
+    {
+      "name": "ROSIN",
+      "strength": "40.7",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "LIQUID"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "TUTTLE'S HORSE CARE, DIVISION OF Y-TEX CORP."
+  ],
+  "status": "MARKETED",
+  "atc": []
+}

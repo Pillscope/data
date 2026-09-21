@@ -1,0 +1,28 @@
+{
+  "drug_code": "65799",
+  "din": "02242121",
+  "brand_name": "ISOVUE MULTIPACK-370",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "02-JUL-2008",
+  "active_ingredients": [
+    {
+      "name": "IOPAMIDOL",
+      "strength": "76",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "LIQUID"
+  ],
+  "routes": [
+    "INTRAVASCULAR"
+  ],
+  "companies": [
+    "BRACCO IMAGING CANADA"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "IOPAMIDOL"
+  ]
+}

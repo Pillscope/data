@@ -1,0 +1,28 @@
+{
+  "drug_code": "93756",
+  "din": "02451301",
+  "brand_name": "KINOX",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "02-DEC-2016",
+  "active_ingredients": [
+    {
+      "name": "NITRIC OXIDE",
+      "strength": "100",
+      "unit": "PPM"
+    }
+  ],
+  "forms": [
+    "GAS"
+  ],
+  "routes": [
+    "INHALATION"
+  ],
+  "companies": [
+    "AIRGAS USA LLC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "NITRIC OXIDE"
+  ]
+}

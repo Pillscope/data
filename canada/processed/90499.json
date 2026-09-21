@@ -1,0 +1,28 @@
+{
+  "drug_code": "90499",
+  "din": "02420406",
+  "brand_name": "GLYCO-SAN",
+  "class": "Disinfectant",
+  "descriptor": "",
+  "last_update": "11-JAN-2016",
+  "active_ingredients": [
+    {
+      "name": "LACTIC ACID",
+      "strength": "12.0",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "LIQUID"
+  ],
+  "routes": [
+    "DISINFECTANT (Institutional/Industrial)"
+  ],
+  "companies": [
+    "CELESTE INDUSTRIES CORPORATION"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "TECHNICAL DISINFECTANTS"
+  ]
+}

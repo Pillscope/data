@@ -1,0 +1,30 @@
+{
+  "drug_code": "61817",
+  "din": "02238400",
+  "brand_name": "PHENYLEPHRINE HYDROCHLORIDE INJECTION USP, 1%",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "12-FEB-2018",
+  "active_ingredients": [
+    {
+      "name": "PHENYLEPHRINE HYDROCHLORIDE",
+      "strength": "10",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "INTRAMUSCULAR",
+    "INTRAVENOUS",
+    "SUBCUTANEOUS"
+  ],
+  "companies": [
+    "OMEGA LABORATORIES LTD"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "PHENYLEPHRINE"
+  ]
+}

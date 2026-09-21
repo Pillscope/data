@@ -1,0 +1,28 @@
+{
+  "drug_code": "95424",
+  "din": "02465981",
+  "brand_name": "DEFITELIO",
+  "class": "Human",
+  "descriptor": "MEDICINAL INGREDIENT ALSO CALLED 'DEFIBROTIDE SODIUM'",
+  "last_update": "30-JAN-2018",
+  "active_ingredients": [
+    {
+      "name": "DEFIBROTIDE",
+      "strength": "80",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "JAZZ PHARMACEUTICALS IRELAND LIMITED"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "DEFIBROTIDE"
+  ]
+}

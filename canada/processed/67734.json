@@ -1,0 +1,28 @@
+{
+  "drug_code": "67734",
+  "din": "02243796",
+  "brand_name": "PARIET, ENTERIC-COATED TABLET 10MG",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "14-AUG-2008",
+  "active_ingredients": [
+    {
+      "name": "RABEPRAZOLE SODIUM",
+      "strength": "10",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET (ENTERIC-COATED)"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "JANSSEN INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "RABEPRAZOLE"
+  ]
+}

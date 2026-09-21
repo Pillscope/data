@@ -1,0 +1,28 @@
+{
+  "drug_code": "81649",
+  "din": "02330733",
+  "brand_name": "3% POLOCAINE DENTAL",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "09-NOV-2009",
+  "active_ingredients": [
+    {
+      "name": "MEPIVACAINE HYDROCHLORIDE",
+      "strength": "30",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "LIQUID"
+  ],
+  "routes": [
+    "BLOCK/INFILTRATION"
+  ],
+  "companies": [
+    "DENTSPLY CANADA LIMITED"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "MEPIVACAINE"
+  ]
+}

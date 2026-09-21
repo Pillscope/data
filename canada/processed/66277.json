@@ -1,0 +1,88 @@
+{
+  "drug_code": "66277",
+  "din": "02242529",
+  "brand_name": "MULTI-12/K1 PEDIATRIC",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "30-OCT-2015",
+  "active_ingredients": [
+    {
+      "name": "NICOTINAMIDE",
+      "strength": "17",
+      "unit": "MG"
+    },
+    {
+      "name": "PYRIDOXINE HYDROCHLORIDE",
+      "strength": "1",
+      "unit": "MG"
+    },
+    {
+      "name": "BIOTIN",
+      "strength": "20",
+      "unit": "MCG"
+    },
+    {
+      "name": "VITAMIN K1",
+      "strength": "0.2",
+      "unit": "MG"
+    },
+    {
+      "name": "VITAMIN B1 (THIAMINE HYDROCHLORIDE)",
+      "strength": "1.2",
+      "unit": "MG"
+    },
+    {
+      "name": "VITAMIN B2 (RIBOFLAVIN-5-PHOSPHATE)",
+      "strength": "1.4",
+      "unit": "MG"
+    },
+    {
+      "name": "VITAMIN A",
+      "strength": "2300",
+      "unit": "UNIT"
+    },
+    {
+      "name": "VITAMIN D",
+      "strength": "400",
+      "unit": "UNIT"
+    },
+    {
+      "name": "VITAMIN C (ASCORBIC ACID)",
+      "strength": "80",
+      "unit": "MG"
+    },
+    {
+      "name": "VITAMIN E (DL-ALPHA TOCOPHERYL ACETATE)",
+      "strength": "7",
+      "unit": "UNIT"
+    },
+    {
+      "name": "DEXPANTHENOL",
+      "strength": "5",
+      "unit": "MG"
+    },
+    {
+      "name": "VITAMIN B12 (CYANOCOBALAMIN)",
+      "strength": "1",
+      "unit": "MCG"
+    },
+    {
+      "name": "FOLIC ACID",
+      "strength": "140",
+      "unit": "MCG"
+    }
+  ],
+  "forms": [
+    "LIQUID"
+  ],
+  "routes": [
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "SANDOZ CANADA INCORPORATED"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "VITAMINS"
+  ]
+}

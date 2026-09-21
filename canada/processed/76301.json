@@ -1,0 +1,28 @@
+{
+  "drug_code": "76301",
+  "din": "02277379",
+  "brand_name": "RIVA-ATENOLOL",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "29-NOV-2006",
+  "active_ingredients": [
+    {
+      "name": "ATENOLOL",
+      "strength": "25",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "LABORATOIRE RIVA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "ATENOLOL"
+  ]
+}

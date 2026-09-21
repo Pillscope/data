@@ -1,0 +1,28 @@
+{
+  "drug_code": "73775",
+  "din": "02252813",
+  "brand_name": "ACETAMINOPHEN 500MG TABLETS EXTRA STRENGTH",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "14-OCT-2015",
+  "active_ingredients": [
+    {
+      "name": "ACETAMINOPHEN",
+      "strength": "500",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "PHARMETICS (2011) INC"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "ACETAMINOPHEN (PARACETAMOL)"
+  ]
+}

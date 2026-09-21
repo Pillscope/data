@@ -1,0 +1,28 @@
+{
+  "drug_code": "91413",
+  "din": "02429683",
+  "brand_name": "CELECOXIB",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "13-DEC-2016",
+  "active_ingredients": [
+    {
+      "name": "CELECOXIB",
+      "strength": "200",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "CAPSULE"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "SIVEM PHARMACEUTICALS ULC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "CELECOXIB"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "drug_code": "5141",
+  "din": "00574929",
+  "brand_name": "MOXILEAN 50 SUS 50MG/ML",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "02-JUL-1999",
+  "active_ingredients": [
+    {
+      "name": "AMOXICILLIN",
+      "strength": "750",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "POWDER FOR SOLUTION"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "MTC PHARMACEUTICALS"
+  ],
+  "status": "MARKETED",
+  "atc": []
+}

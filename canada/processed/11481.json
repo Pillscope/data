@@ -1,0 +1,33 @@
+{
+  "drug_code": "11481",
+  "din": "00870935",
+  "brand_name": "SINEMET CR 200/50",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "07-SEP-2010",
+  "active_ingredients": [
+    {
+      "name": "CARBIDOPA",
+      "strength": "50",
+      "unit": "MG"
+    },
+    {
+      "name": "LEVODOPA",
+      "strength": "200",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET (EXTENDED-RELEASE)"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "MERCK CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "LEVODOPA AND DECARBOXYLASE INHIBITOR"
+  ]
+}

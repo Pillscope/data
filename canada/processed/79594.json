@@ -1,0 +1,28 @@
+{
+  "drug_code": "79594",
+  "din": "02310295",
+  "brand_name": "MYLAN-VENLAFAXINE XR",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "21-DEC-2010",
+  "active_ingredients": [
+    {
+      "name": "VENLAFAXINE (VENLAFAXINE HYDROCHLORIDE)",
+      "strength": "150",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "CAPSULE (EXTENDED RELEASE)"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "MYLAN PHARMACEUTICALS ULC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "VENLAFAXINE"
+  ]
+}

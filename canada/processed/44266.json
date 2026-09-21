@@ -1,0 +1,29 @@
+{
+  "drug_code": "44266",
+  "din": "02183005",
+  "brand_name": "LEUCOVORIN CALCIUM INJECTION USP",
+  "class": "Human",
+  "descriptor": "50 MG/ 5 ML - SINGLE USE VIAL",
+  "last_update": "03-AUG-2017",
+  "active_ingredients": [
+    {
+      "name": "LEUCOVORIN (LEUCOVORIN CALCIUM)",
+      "strength": "10",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "INTRAMUSCULAR",
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "PFIZER CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "CALCIUM FOLINATE"
+  ]
+}

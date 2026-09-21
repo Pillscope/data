@@ -1,0 +1,28 @@
+{
+  "drug_code": "77934",
+  "din": "02293978",
+  "brand_name": "PSORIASIN OINTMENT",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "09-JUL-2012",
+  "active_ingredients": [
+    {
+      "name": "COAL TAR",
+      "strength": "2.0",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "OINTMENT"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "ALVA-AMCO PHARMACAL COMPANIES, INC."
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "TARS"
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "drug_code": "77592",
+  "din": "02290596",
+  "brand_name": "ALLERGY EYE DROPS",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "06-APR-2017",
+  "active_ingredients": [
+    {
+      "name": "TETRAHYDROZOLINE HYDROCHLORIDE",
+      "strength": "0.05",
+      "unit": "%"
+    },
+    {
+      "name": "ZINC SULFATE",
+      "strength": "0.25",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "OPHTHALMIC"
+  ],
+  "companies": [
+    "TEVA CANADA LIMITED"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "TETRYZOLINE, COMBINATIONS"
+  ]
+}

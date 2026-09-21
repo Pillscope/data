@@ -1,0 +1,28 @@
+{
+  "drug_code": "72450",
+  "din": "02248123",
+  "brand_name": "OXYGEN",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "26-NOV-2013",
+  "active_ingredients": [
+    {
+      "name": "OXYGEN",
+      "strength": "99",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "GAS"
+  ],
+  "routes": [
+    "INHALATION"
+  ],
+  "companies": [
+    "RESPIRATORY HOMECARE SOLUTIONS CANADA INC."
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "OXYGEN"
+  ]
+}

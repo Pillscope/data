@@ -1,0 +1,28 @@
+{
+  "drug_code": "77210",
+  "din": "02286653",
+  "brand_name": "ARTHRITIS PAIN EXTENDED RELIEF",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "14-JAN-2014",
+  "active_ingredients": [
+    {
+      "name": "ACETAMINOPHEN",
+      "strength": "650.0",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET (EXTENDED-RELEASE)"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "VITA HEALTH PRODUCTS INC"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "ACETAMINOPHEN (PARACETAMOL)"
+  ]
+}

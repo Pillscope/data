@@ -1,0 +1,33 @@
+{
+  "drug_code": "73722",
+  "din": "02252368",
+  "brand_name": "QUALITY CARE FOAMING DISINFECTANT BATHROOM CLEANER",
+  "class": "Disinfectant",
+  "descriptor": "",
+  "last_update": "23-SEP-2016",
+  "active_ingredients": [
+    {
+      "name": "BENZALKONIUM CHLORIDE",
+      "strength": "0.1",
+      "unit": "%"
+    },
+    {
+      "name": "ALKYL DIMETHYL ETHYLBENZYL AMMONIUM CHLORIDE",
+      "strength": "0.1",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "AEROSOL"
+  ],
+  "routes": [
+    "DISINFECTANT (Domestic)"
+  ],
+  "companies": [
+    "SHERWIN-WILLIAMS COMPANY, DIVERSIFIED BRANDS DIVISION, SPECIALTY AEROSOLS"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "TECHNICAL DISINFECTANTS"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "drug_code": "88731",
+  "din": "02402475",
+  "brand_name": "ORENCIA",
+  "class": "Human",
+  "descriptor": "PRE-FILLED SYRINGE",
+  "last_update": "01-AUG-2013",
+  "active_ingredients": [
+    {
+      "name": "ABATACEPT",
+      "strength": "125",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "SUBCUTANEOUS"
+  ],
+  "companies": [
+    "BRISTOL-MYERS SQUIBB CANADA"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "ABATACEPT"
+  ]
+}

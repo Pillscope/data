@@ -1,0 +1,28 @@
+{
+  "drug_code": "86057",
+  "din": "02375168",
+  "brand_name": "GOJO ANTIBACTERIAL FOAM HANDWASH TRICLOSAN LIQUID",
+  "class": "Human",
+  "descriptor": "FOAM",
+  "last_update": "23-MAY-2012",
+  "active_ingredients": [
+    {
+      "name": "TRICLOSAN",
+      "strength": "0.3",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "LIQUID"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "GOJO INDUSTRIES, INC."
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "TRICLOSAN"
+  ]
+}

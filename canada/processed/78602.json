@@ -1,0 +1,39 @@
+{
+  "drug_code": "78602",
+  "din": "02300699",
+  "brand_name": "ATRIPLA",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "20-MAR-2018",
+  "active_ingredients": [
+    {
+      "name": "EFAVIRENZ",
+      "strength": "600",
+      "unit": "MG"
+    },
+    {
+      "name": "TENOFOVIR DISOPROXIL FUMARATE",
+      "strength": "300",
+      "unit": "MG"
+    },
+    {
+      "name": "EMTRICITABINE",
+      "strength": "200",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "GILEAD SCIENCES, LLC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "EMTRICITABINE,TENOFOVIR DISOPROXIL AND EFAVIRENZ",
+    "EMTRICITABINE,TENOFOVIR DISOPROXIL AND EFAVIRENZ"
+  ]
+}

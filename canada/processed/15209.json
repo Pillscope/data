@@ -1,0 +1,33 @@
+{
+  "drug_code": "15209",
+  "din": "01916874",
+  "brand_name": "CLAVULIN 250 F ORAL SUS",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "21-OCT-2016",
+  "active_ingredients": [
+    {
+      "name": "CLAVULANIC ACID (CLAVULANATE POTASSIUM)",
+      "strength": "62.5",
+      "unit": "MG"
+    },
+    {
+      "name": "AMOXICILLIN (AMOXICILLIN TRIHYDRATE)",
+      "strength": "250",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "POWDER FOR SUSPENSION"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "GLAXOSMITHKLINE INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "AMOXICILLIN AND BETA-LACTAMASE INHIBITOR"
+  ]
+}

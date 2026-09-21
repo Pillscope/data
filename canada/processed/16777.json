@@ -1,0 +1,33 @@
+{
+  "drug_code": "16777",
+  "din": "02125706",
+  "brand_name": "SOOTHE NIGHT TIME",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "28-MAY-2015",
+  "active_ingredients": [
+    {
+      "name": "PETROLATUM",
+      "strength": "80",
+      "unit": "%"
+    },
+    {
+      "name": "MINERAL OIL",
+      "strength": "20",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "OINTMENT"
+  ],
+  "routes": [
+    "OPHTHALMIC"
+  ],
+  "companies": [
+    "BAUSCH & LOMB INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "ARTIFICIAL TEARS AND OTHER INDIFFERENT PREPARATIONS."
+  ]
+}

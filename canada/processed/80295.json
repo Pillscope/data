@@ -1,0 +1,28 @@
+{
+  "drug_code": "80295",
+  "din": "02317427",
+  "brand_name": "MINT-CIPROFLOXACIN",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "10-FEB-2009",
+  "active_ingredients": [
+    {
+      "name": "CIPROFLOXACIN (CIPROFLOXACIN HYDROCHLORIDE)",
+      "strength": "250",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "MINT PHARMACEUTICALS INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "CIPROFLOXACIN"
+  ]
+}

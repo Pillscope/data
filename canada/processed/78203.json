@@ -1,0 +1,28 @@
+{
+  "drug_code": "78203",
+  "din": "02296667",
+  "brand_name": "STERRAD 100NX CASSETTE",
+  "class": "Disinfectant",
+  "descriptor": "",
+  "last_update": "24-SEP-2015",
+  "active_ingredients": [
+    {
+      "name": "HYDROGEN PEROXIDE",
+      "strength": "58",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "LIQUID"
+  ],
+  "routes": [
+    "DISINFECTANT (Medical Instruments)"
+  ],
+  "companies": [
+    "JOHNSON & JOHNSON MEDICAL PRODUCTS"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "TECHNICAL DISINFECTANTS"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "drug_code": "84221",
+  "din": "02357119",
+  "brand_name": "VPRIV",
+  "class": "Human",
+  "descriptor": "SINGLE USE VIAL",
+  "last_update": "03-AUG-2012",
+  "active_ingredients": [
+    {
+      "name": "VELAGLUCERASE ALFA",
+      "strength": "400",
+      "unit": "UNIT"
+    }
+  ],
+  "forms": [
+    "POWDER FOR SOLUTION"
+  ],
+  "routes": [
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "SHIRE HUMAN GENETIC THERAPIES INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "VELAGLUCERASE ALFA"
+  ]
+}

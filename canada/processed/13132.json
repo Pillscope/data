@@ -1,0 +1,28 @@
+{
+  "drug_code": "13132",
+  "din": "01985604",
+  "brand_name": "YOHIMBINE-ODAN 6MG",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "20-AUG-2009",
+  "active_ingredients": [
+    {
+      "name": "YOHIMBINE HYDROCHLORIDE",
+      "strength": "6",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "ODAN LABORATORIES LTD"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "YOHIMBIN"
+  ]
+}

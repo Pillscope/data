@@ -1,0 +1,33 @@
+{
+  "drug_code": "79940",
+  "din": "02313863",
+  "brand_name": "SCANDONEST 2% WITH LEVONORDEFRIN",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "03-SEP-2009",
+  "active_ingredients": [
+    {
+      "name": "MEPIVACAINE HYDROCHLORIDE",
+      "strength": "20",
+      "unit": "MG"
+    },
+    {
+      "name": "CORBADRINE (CORBADRINE HYDROCHLORIDE)",
+      "strength": "0.05",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "BLOCK/INFILTRATION"
+  ],
+  "companies": [
+    "NOVOCOL PHARMACEUTICAL OF CANADA INC"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "MEPIVACAINE, COMBINATIONS"
+  ]
+}

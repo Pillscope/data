@@ -1,0 +1,28 @@
+{
+  "drug_code": "95074",
+  "din": "02462877",
+  "brand_name": "ERELZI",
+  "class": "Human",
+  "descriptor": "PREFILLED SYRINGE WITH NEEDLE GUARD . SINGLE USE.",
+  "last_update": "11-JAN-2018",
+  "active_ingredients": [
+    {
+      "name": "ETANERCEPT",
+      "strength": "25",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "SUBCUTANEOUS"
+  ],
+  "companies": [
+    "SANDOZ CANADA INCORPORATED"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "ETANERCEPT"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "drug_code": "87497",
+  "din": "02389460",
+  "brand_name": "TOPIRAMATE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "14-DEC-2017",
+  "active_ingredients": [
+    {
+      "name": "TOPIRAMATE",
+      "strength": "25",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "SIVEM PHARMACEUTICALS ULC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "TOPIRAMATE"
+  ]
+}

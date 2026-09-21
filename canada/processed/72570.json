@@ -1,0 +1,28 @@
+{
+  "drug_code": "72570",
+  "din": "02248234",
+  "brand_name": "TEVA-LAMOTRIGINE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "29-APR-2013",
+  "active_ingredients": [
+    {
+      "name": "LAMOTRIGINE",
+      "strength": "150",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "TEVA CANADA LIMITED"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "LAMOTRIGINE"
+  ]
+}

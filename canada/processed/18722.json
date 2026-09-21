@@ -1,0 +1,26 @@
+{
+  "drug_code": "18722",
+  "din": "02154455",
+  "brand_name": "PRO-OTIC HC",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "21-OCT-2017",
+  "active_ingredients": [
+    {
+      "name": "HYDROCORTISONE",
+      "strength": "1",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "DROPS"
+  ],
+  "routes": [
+    "OTIC"
+  ],
+  "companies": [
+    "NOR VET SALES INC"
+  ],
+  "status": "APPROVED",
+  "atc": []
+}

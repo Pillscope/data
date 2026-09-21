@@ -1,0 +1,28 @@
+{
+  "drug_code": "91312",
+  "din": "02428679",
+  "brand_name": "NASAL CONGESTION SPRAY",
+  "class": "Human",
+  "descriptor": "SOLUTION",
+  "last_update": "05-APR-2017",
+  "active_ingredients": [
+    {
+      "name": "OXYMETAZOLINE HYDROCHLORIDE",
+      "strength": "0.05",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "SPRAY, METERED DOSE"
+  ],
+  "routes": [
+    "NASAL"
+  ],
+  "companies": [
+    "TEVA CANADA LIMITED"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "OXYMETAZOLINE"
+  ]
+}

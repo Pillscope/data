@@ -1,0 +1,28 @@
+{
+  "drug_code": "88644",
+  "din": "02401541",
+  "brand_name": "AMOXICILLIN GRANULES FOR ORAL SUSPENSION",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "04-JUN-2013",
+  "active_ingredients": [
+    {
+      "name": "AMOXICILLIN (AMOXICILLIN TRIHYDRATE)",
+      "strength": "250",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "GRANULES FOR SUSPENSION"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "SIVEM PHARMACEUTICALS ULC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "AMOXICILLIN"
+  ]
+}

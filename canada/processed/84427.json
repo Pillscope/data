@@ -1,0 +1,39 @@
+{
+  "drug_code": "84427",
+  "din": "02359243",
+  "brand_name": "COLD + SINUS PLUS",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "27-NOV-2013",
+  "active_ingredients": [
+    {
+      "name": "IBUPROFEN",
+      "strength": "200.0",
+      "unit": "MG"
+    },
+    {
+      "name": "PSEUDOEPHEDRINE HYDROCHLORIDE",
+      "strength": "30.0",
+      "unit": "MG"
+    },
+    {
+      "name": "CHLORPHENIRAMINE MALEATE",
+      "strength": "2.0",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "VITA HEALTH PRODUCTS INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "IBUPROFEN, COMBINATIONS",
+    "IBUPROFEN, COMBINATIONS"
+  ]
+}

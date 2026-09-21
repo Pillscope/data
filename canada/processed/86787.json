@@ -1,0 +1,28 @@
+{
+  "drug_code": "86787",
+  "din": "02382008",
+  "brand_name": "LIFE BRAND ITCHY DRY SCALP ANTI-DANDRUFF SHAMPOO",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "01-MAR-2013",
+  "active_ingredients": [
+    {
+      "name": "PYRITHIONE ZINC",
+      "strength": "1",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "SHAMPOO"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "CRLS"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "PYRITHIONE ZINC"
+  ]
+}

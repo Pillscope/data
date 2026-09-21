@@ -1,0 +1,28 @@
+{
+  "drug_code": "69880",
+  "din": "02245769",
+  "brand_name": "LIFE DANDRUFF SHAMPOO",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "06-JUL-2006",
+  "active_ingredients": [
+    {
+      "name": "PYRITHIONE ZINC",
+      "strength": "1",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "SHAMPOO"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "LE GROUPE ULTRAPAC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "PYRITHIONE ZINC"
+  ]
+}

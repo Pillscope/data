@@ -1,0 +1,28 @@
+{
+  "drug_code": "94719",
+  "din": "02459884",
+  "brand_name": "CCP-LETROZOLE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "23-AUG-2017",
+  "active_ingredients": [
+    {
+      "name": "LETROZOLE",
+      "strength": "2.5",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "CELLCHEM PHARMACEUTICALS INC."
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "LETROZOLE"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "drug_code": "74742",
+  "din": "02262088",
+  "brand_name": "OVIDREL",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "28-OCT-2010",
+  "active_ingredients": [
+    {
+      "name": "CHORIOGONADOTROPIN ALPHA",
+      "strength": "250",
+      "unit": "MCG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "SUBCUTANEOUS"
+  ],
+  "companies": [
+    "EMD SERONO A DIVISION OF EMD INC CANADA"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "CHORIOGONADOTROPIN ALFA"
+  ]
+}

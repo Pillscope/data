@@ -1,0 +1,28 @@
+{
+  "drug_code": "95595",
+  "din": "02467585",
+  "brand_name": "SODIUM BICARBONATE INJECTION USP",
+  "class": "Human",
+  "descriptor": "SINGLE USE VIAL",
+  "last_update": "23-OCT-2017",
+  "active_ingredients": [
+    {
+      "name": "SODIUM BICARBONATE",
+      "strength": "4.2",
+      "unit": "G"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "OMEGA LABORATORIES LTD"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "SODIUM BICARBONATE"
+  ]
+}

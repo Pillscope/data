@@ -1,0 +1,28 @@
+{
+  "drug_code": "75617",
+  "din": "02270811",
+  "brand_name": "FINACEA",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "06-JUL-2010",
+  "active_ingredients": [
+    {
+      "name": "AZELAIC ACID",
+      "strength": "15",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "GEL"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "BAYER INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "AZELAIC ACID"
+  ]
+}

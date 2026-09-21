@@ -1,0 +1,28 @@
+{
+  "drug_code": "16532",
+  "din": "02088401",
+  "brand_name": "MYLAN-BACLOFEN",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "07-APR-2010",
+  "active_ingredients": [
+    {
+      "name": "BACLOFEN",
+      "strength": "20",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "MYLAN PHARMACEUTICALS ULC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "BACLOFEN"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "drug_code": "86421",
+  "din": "02378418",
+  "brand_name": "NAPROXEN",
+  "class": "Human",
+  "descriptor": "TABLET AND CAPLET",
+  "last_update": "16-OCT-2013",
+  "active_ingredients": [
+    {
+      "name": "NAPROXEN SODIUM",
+      "strength": "220",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "PERRIGO INTERNATIONAL"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "NAPROXEN"
+  ]
+}

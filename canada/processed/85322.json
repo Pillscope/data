@@ -1,0 +1,28 @@
+{
+  "drug_code": "85322",
+  "din": "02368250",
+  "brand_name": "TASIGNA",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "30-MAY-2013",
+  "active_ingredients": [
+    {
+      "name": "NILOTINIB (NILOTINIB HYDROCHLORIDE MONOHYDRATE)",
+      "strength": "150",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "CAPSULE"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "NOVARTIS PHARMACEUTICALS CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "NILOTINIB"
+  ]
+}

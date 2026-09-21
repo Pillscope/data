@@ -1,0 +1,28 @@
+{
+  "drug_code": "4226",
+  "din": "00497193",
+  "brand_name": "AMINOPHYLLINE INJECTION USP",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "20-OCT-2017",
+  "active_ingredients": [
+    {
+      "name": "AMINOPHYLLINE",
+      "strength": "25",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "PFIZER CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "AMINOPHYLLINE"
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "drug_code": "5892",
+  "din": "00601926",
+  "brand_name": "QUINNOXINE-S",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "07-NOV-2016",
+  "active_ingredients": [
+    {
+      "name": "SULFAQUINOXALINE",
+      "strength": "32.5",
+      "unit": "G"
+    },
+    {
+      "name": "PYRIMETHAMINE",
+      "strength": "9.8",
+      "unit": "G"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "VETOQUINOL N A INC"
+  ],
+  "status": "APPROVED",
+  "atc": []
+}

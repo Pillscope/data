@@ -1,0 +1,28 @@
+{
+  "drug_code": "79224",
+  "din": "02306530",
+  "brand_name": "APO-OXYCODONE CR",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "27-NOV-2012",
+  "active_ingredients": [
+    {
+      "name": "OXYCODONE HYDROCHLORIDE",
+      "strength": "40",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET (EXTENDED-RELEASE)"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "APOTEX INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "OXYCODONE"
+  ]
+}

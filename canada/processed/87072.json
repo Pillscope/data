@@ -1,0 +1,33 @@
+{
+  "drug_code": "87072",
+  "din": "02385066",
+  "brand_name": "ZARAH 28",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "25-JUN-2014",
+  "active_ingredients": [
+    {
+      "name": "DROSPIRENONE",
+      "strength": "3",
+      "unit": "MG"
+    },
+    {
+      "name": "ETHINYL ESTRADIOL",
+      "strength": "0.03",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "COBALT PHARMACEUTICALS COMPANY"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "DROSPIRENONE AND ESTROGEN"
+  ]
+}

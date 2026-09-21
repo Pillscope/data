@@ -1,0 +1,29 @@
+{
+  "drug_code": "83641",
+  "din": "02351226",
+  "brand_name": "STER-AHOL AEROSOL WFI FORMULA",
+  "class": "Disinfectant",
+  "descriptor": "",
+  "last_update": "29-JUN-2016",
+  "active_ingredients": [
+    {
+      "name": "ALCOHOL DENATURED",
+      "strength": "70",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "AEROSOL"
+  ],
+  "routes": [
+    "DISINFECTANT (Hospital/HC Facilities)",
+    "DISINFECTANT (Institutional/Industrial)"
+  ],
+  "companies": [
+    "VELTEK ASSOCIATES INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "TECHNICAL DISINFECTANTS"
+  ]
+}

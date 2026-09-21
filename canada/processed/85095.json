@@ -1,0 +1,28 @@
+{
+  "drug_code": "85095",
+  "din": "02366088",
+  "brand_name": "JAMP-DICYCLOMINE HCL",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "18-JAN-2013",
+  "active_ingredients": [
+    {
+      "name": "DICYCLOMINE HYDROCHLORIDE",
+      "strength": "20",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "JAMP PHARMA CORPORATION"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "DICYCLOVERINE"
+  ]
+}

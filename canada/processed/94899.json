@@ -1,0 +1,29 @@
+{
+  "drug_code": "94899",
+  "din": "02461404",
+  "brand_name": "FUROSEMIDE INJECTION USP",
+  "class": "Human",
+  "descriptor": "SINGLE USE VIALS",
+  "last_update": "15-AUG-2017",
+  "active_ingredients": [
+    {
+      "name": "FUROSEMIDE",
+      "strength": "10",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "INTRAMUSCULAR",
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "STERIMAX INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "FUROSEMIDE"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "drug_code": "77539",
+  "din": "02290081",
+  "brand_name": "ADASEPT B.P.5 ACNE GEL",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "14-MAR-2014",
+  "active_ingredients": [
+    {
+      "name": "BENZOYL PEROXIDE",
+      "strength": "5",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "GEL"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "ODAN LABORATORIES LTD"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "BENZOYL PEROXIDE"
+  ]
+}

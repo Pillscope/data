@@ -1,0 +1,33 @@
+{
+  "drug_code": "12674",
+  "din": "01913530",
+  "brand_name": "GENTAMICIN SULFATE IN 0.9% SODIUM CHLORIDE INJECTION",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "06-AUG-2015",
+  "active_ingredients": [
+    {
+      "name": "GENTAMICIN (GENTAMICIN SULFATE)",
+      "strength": "0.8",
+      "unit": "MG"
+    },
+    {
+      "name": "SODIUM CHLORIDE",
+      "strength": "9",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "HOSPIRA HEALTHCARE CORPORATION"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "GENTAMICIN"
+  ]
+}

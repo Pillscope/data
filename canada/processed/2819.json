@@ -1,0 +1,46 @@
+{
+  "drug_code": "2819",
+  "din": "00416266",
+  "brand_name": "TUTTLES ELEXER LINIMENT",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "13-MAR-2009",
+  "active_ingredients": [
+    {
+      "name": "CAMPHOR",
+      "strength": "5.4",
+      "unit": "%"
+    },
+    {
+      "name": "OX BILE EXTRACT",
+      "strength": "48.6",
+      "unit": "%"
+    },
+    {
+      "name": "TURPENTINE",
+      "strength": "4.3",
+      "unit": "%"
+    },
+    {
+      "name": "ISOPROPYL ALCOHOL",
+      "strength": "30",
+      "unit": "%"
+    },
+    {
+      "name": "AMMONIA",
+      "strength": "6.1",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "LIQUID"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "TUTTLE'S HORSE CARE, DIVISION OF Y-TEX CORP."
+  ],
+  "status": "MARKETED",
+  "atc": []
+}

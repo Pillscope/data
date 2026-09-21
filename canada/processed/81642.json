@@ -1,0 +1,33 @@
+{
+  "drug_code": "81642",
+  "din": "02330679",
+  "brand_name": "TROPICAL VANILLA BODY SPF 32",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "07-AUG-2009",
+  "active_ingredients": [
+    {
+      "name": "ZINC OXIDE",
+      "strength": "5.00",
+      "unit": "%"
+    },
+    {
+      "name": "OCTINOXATE",
+      "strength": "6.00",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "CREAM"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "EMINENCE ORGANIC SKIN CARE"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "COMBINATIONS OF PROTECTIVES AGAINST UV-RADIATION"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "drug_code": "87704",
+  "din": "02391724",
+  "brand_name": "MINT-ZOPICLONE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "20-MAR-2014",
+  "active_ingredients": [
+    {
+      "name": "ZOPICLONE",
+      "strength": "7.5",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "MINT PHARMACEUTICALS INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "ZOPICLONE"
+  ]
+}

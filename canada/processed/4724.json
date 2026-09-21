@@ -1,0 +1,28 @@
+{
+  "drug_code": "4724",
+  "din": "00555681",
+  "brand_name": "ALLOPURINOL-100",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "21-JAN-2014",
+  "active_ingredients": [
+    {
+      "name": "ALLOPURINOL",
+      "strength": "100",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "PRO DOC LIMITEE"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "ALLOPURINOL"
+  ]
+}

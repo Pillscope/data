@@ -1,0 +1,28 @@
+{
+  "drug_code": "85711",
+  "din": "02371987",
+  "brand_name": "MAR-ATENOLOL",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "01-NOV-2012",
+  "active_ingredients": [
+    {
+      "name": "ATENOLOL",
+      "strength": "50",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "MARCAN PHARMACEUTICALS INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "ATENOLOL"
+  ]
+}

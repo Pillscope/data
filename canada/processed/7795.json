@@ -1,0 +1,27 @@
+{
+  "drug_code": "7795",
+  "din": "00702935",
+  "brand_name": "UNI-DEX INJ 5MG/ML",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "08-JUL-2004",
+  "active_ingredients": [
+    {
+      "name": "DEXAMETHASONE SODIUM PHOSPHATE",
+      "strength": "5",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "INTRAMUSCULAR",
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "UNIVET PHARMACEUTICALS LTD."
+  ],
+  "status": "MARKETED",
+  "atc": []
+}

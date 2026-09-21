@@ -1,0 +1,29 @@
+{
+  "drug_code": "61913",
+  "din": "02238493",
+  "brand_name": "STANDARDIZED GRASS POLLEN - SWEET VERNAL GRASS (100,000 BAU/ML)",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "08-NOV-2012",
+  "active_ingredients": [
+    {
+      "name": "SWEET VERNAL GRASS",
+      "strength": "100000",
+      "unit": "UNIT"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "SUBCUTANEOUS",
+    "PERCUTANEOUS"
+  ],
+  "companies": [
+    "JUBILANT HOLLISTERSTIER LLC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "GRASS POLLEN"
+  ]
+}

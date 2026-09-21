@@ -1,0 +1,26 @@
+{
+  "drug_code": "80746",
+  "din": "02322056",
+  "brand_name": "VETORYL 120 MG",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "21-AUG-2015",
+  "active_ingredients": [
+    {
+      "name": "TRILOSTANE",
+      "strength": "120",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "CAPSULE"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "DECHRA LTD"
+  ],
+  "status": "APPROVED",
+  "atc": []
+}

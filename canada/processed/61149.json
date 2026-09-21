@@ -1,0 +1,28 @@
+{
+  "drug_code": "61149",
+  "din": "02237792",
+  "brand_name": "AVAXIM",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "15-MAY-2009",
+  "active_ingredients": [
+    {
+      "name": "HEPATITIS A VACCINE, INACTIVATED",
+      "strength": "160",
+      "unit": "UNIT"
+    }
+  ],
+  "forms": [
+    "SUSPENSION"
+  ],
+  "routes": [
+    "INTRAMUSCULAR"
+  ],
+  "companies": [
+    "SANOFI PASTEUR LIMITED"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "HEPATITIS A, INACTIVATED, WHOLE VIRUS"
+  ]
+}

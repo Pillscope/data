@@ -1,0 +1,28 @@
+{
+  "drug_code": "250",
+  "din": "00213071",
+  "brand_name": "COSMEGEN",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "09-JUL-2015",
+  "active_ingredients": [
+    {
+      "name": "DACTINOMYCIN",
+      "strength": "0.5",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "POWDER FOR SOLUTION"
+  ],
+  "routes": [
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "RECORDATI RARE DISEASES INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "DACTINOMYCIN"
+  ]
+}

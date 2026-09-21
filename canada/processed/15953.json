@@ -1,0 +1,26 @@
+{
+  "drug_code": "15953",
+  "din": "00577235",
+  "brand_name": "FLAVOMYCIN 4 ANTIBIOTIC PREMIX",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "24-AUG-2016",
+  "active_ingredients": [
+    {
+      "name": "BAMBERMYCIN",
+      "strength": "4",
+      "unit": "G"
+    }
+  ],
+  "forms": [
+    "DRUG PREMIX"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "HUVEPHARMA EOOD"
+  ],
+  "status": "APPROVED",
+  "atc": []
+}

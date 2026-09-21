@@ -1,0 +1,28 @@
+{
+  "drug_code": "88726",
+  "din": "02402424",
+  "brand_name": "PMS-TETRABENAZINE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "14-MAR-2013",
+  "active_ingredients": [
+    {
+      "name": "TETRABENAZINE",
+      "strength": "25",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "PHARMASCIENCE INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "TETRABENAZINE"
+  ]
+}

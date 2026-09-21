@@ -1,0 +1,28 @@
+{
+  "drug_code": "94536",
+  "din": "02458268",
+  "brand_name": "SOLIFENACIN",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "04-NOV-2016",
+  "active_ingredients": [
+    {
+      "name": "SOLIFENACIN SUCCINATE",
+      "strength": "10",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "SANIS HEALTH INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "SOLIFENACIN"
+  ]
+}

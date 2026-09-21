@@ -1,0 +1,56 @@
+{
+  "drug_code": "2181",
+  "din": "00346152",
+  "brand_name": "PROUD FLESH DUST",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "17-JAN-2018",
+  "active_ingredients": [
+    {
+      "name": "TANNIC ACID",
+      "strength": "5",
+      "unit": "%"
+    },
+    {
+      "name": "SULFANILAMIDE",
+      "strength": "5",
+      "unit": "%"
+    },
+    {
+      "name": "TALC",
+      "strength": "18",
+      "unit": "%"
+    },
+    {
+      "name": "BORIC ACID",
+      "strength": "15",
+      "unit": "%"
+    },
+    {
+      "name": "MAGNESIUM STEARATE",
+      "strength": "0.5",
+      "unit": "%"
+    },
+    {
+      "name": "COPPER SULFATE",
+      "strength": "51.5",
+      "unit": "%"
+    },
+    {
+      "name": "SULFATHIAZOLE",
+      "strength": "5",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "POWDER"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "DOMINION VETERINARY LABORATORIES LTD."
+  ],
+  "status": "MARKETED",
+  "atc": []
+}

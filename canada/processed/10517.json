@@ -1,0 +1,28 @@
+{
+  "drug_code": "10517",
+  "din": "00060410",
+  "brand_name": "OSMITROL 10% INJ USP",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "12-AUG-2009",
+  "active_ingredients": [
+    {
+      "name": "MANNITOL",
+      "strength": "10",
+      "unit": "G"
+    }
+  ],
+  "forms": [
+    "LIQUID"
+  ],
+  "routes": [
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "BAXTER CORPORATION"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "MANNITOL"
+  ]
+}

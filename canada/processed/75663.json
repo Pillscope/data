@@ -1,0 +1,28 @@
+{
+  "drug_code": "75663",
+  "din": "02271141",
+  "brand_name": "DOM-TOPIRAMATE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "05-DEC-2005",
+  "active_ingredients": [
+    {
+      "name": "TOPIRAMATE",
+      "strength": "25",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "DOMINION PHARMACAL"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "TOPIRAMATE"
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "drug_code": "6370",
+  "din": "00652512",
+  "brand_name": "GOLYTELY GI LAVAGE SOLUTION",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "10-MAY-2006",
+  "active_ingredients": [
+    {
+      "name": "SODIUM SULFATE",
+      "strength": "22.74",
+      "unit": "G"
+    },
+    {
+      "name": "SODIUM BICARBONATE",
+      "strength": "6.74",
+      "unit": "G"
+    },
+    {
+      "name": "SODIUM CHLORIDE",
+      "strength": "5.86",
+      "unit": "G"
+    },
+    {
+      "name": "POTASSIUM CHLORIDE",
+      "strength": "2.97",
+      "unit": "G"
+    },
+    {
+      "name": "MACROGOL",
+      "strength": "236",
+      "unit": "G"
+    }
+  ],
+  "forms": [
+    "POWDER FOR SOLUTION"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "BRAINTREE LABORATORIES INC."
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "MINERAL SALTS IN COMBINATION"
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "drug_code": "76550",
+  "din": "02279924",
+  "brand_name": "MENACTRA",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "16-JUN-2010",
+  "active_ingredients": [
+    {
+      "name": "MENINGOCOCCAL POLYSACCHARIDE-DIPHTHERIA TOXOID CONJUGATE, GROUP A",
+      "strength": "4.0",
+      "unit": "MCG"
+    },
+    {
+      "name": "MENINGOCOCCAL POLYSACCHARIDE-DIPHTHERIA TOXOID CONJUGATE, GROUP C",
+      "strength": "4.0",
+      "unit": "MCG"
+    },
+    {
+      "name": "MENINGOCOCCAL POLYSACCHARIDE-DIPHTHERIA TOXOID CONJUGATE, GROUP Y",
+      "strength": "4.0",
+      "unit": "MCG"
+    },
+    {
+      "name": "MENINGOCOCCAL POLYSACCHARIDE-DIPHTHERIA TOXOID CONJUGATE, GROUP W 135",
+      "strength": "4.0",
+      "unit": "MCG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "INTRAMUSCULAR"
+  ],
+  "companies": [
+    "SANOFI PASTEUR LIMITED"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "Meningococcus, A, C, Y, W-135, tetraval. purified polysacc. antigen conjugated"
+  ]
+}

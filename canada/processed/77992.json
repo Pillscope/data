@@ -1,0 +1,28 @@
+{
+  "drug_code": "77992",
+  "din": "02294575",
+  "brand_name": "PMS-PROPAFENONE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "27-FEB-2008",
+  "active_ingredients": [
+    {
+      "name": "PROPAFENONE HYDROCHLORIDE",
+      "strength": "300",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "PHARMASCIENCE INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "PROPAFENONE"
+  ]
+}

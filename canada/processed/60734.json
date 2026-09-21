@@ -1,0 +1,28 @@
+{
+  "drug_code": "60734",
+  "din": "02237406",
+  "brand_name": "ASEPT",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "06-MAR-2009",
+  "active_ingredients": [
+    {
+      "name": "TRICLOSAN",
+      "strength": "0.3",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "LIQUID"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "AVMOR LTD"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "TRICLOSAN"
+  ]
+}

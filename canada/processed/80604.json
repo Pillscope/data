@@ -1,0 +1,28 @@
+{
+  "drug_code": "80604",
+  "din": "02320630",
+  "brand_name": "SANDOZ MYCOPHENOLATE MOFETIL",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "11-AUG-2016",
+  "active_ingredients": [
+    {
+      "name": "MYCOPHENOLATE MOFETIL",
+      "strength": "250",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "CAPSULE"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "SANDOZ CANADA INCORPORATED"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "MYCOPHENOLIC ACID"
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "drug_code": "76646",
+  "din": "02280787",
+  "brand_name": "POWERFOAM C",
+  "class": "Disinfectant",
+  "descriptor": "",
+  "last_update": "23-AUG-2017",
+  "active_ingredients": [
+    {
+      "name": "SODIUM HYPOCHLORITE",
+      "strength": "7.20",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "DISINFECTANT (Food Premises)",
+    "DISINFECTANT (Domestic)"
+  ],
+  "companies": [
+    "AALADIN SUPERIOR CLEANING SYSTEMS LTD."
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "TECHNICAL DISINFECTANTS"
+  ]
+}

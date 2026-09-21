@@ -1,0 +1,28 @@
+{
+  "drug_code": "8566",
+  "din": "00741817",
+  "brand_name": "PMS HYDROXYZINE SYR 10MG/5ML",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "01-OCT-2010",
+  "active_ingredients": [
+    {
+      "name": "HYDROXYZINE HYDROCHLORIDE",
+      "strength": "10",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SYRUP"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "PHARMASCIENCE INC"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "HYDROXYZINE"
+  ]
+}

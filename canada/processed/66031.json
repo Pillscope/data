@@ -1,0 +1,28 @@
+{
+  "drug_code": "66031",
+  "din": "02242320",
+  "brand_name": "TOLOXIN",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "04-JUL-2012",
+  "active_ingredients": [
+    {
+      "name": "DIGOXIN",
+      "strength": "0.05",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "PENDOPHARM DIVISION OF DE PHARMASCIENCE INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "DIGOXIN"
+  ]
+}

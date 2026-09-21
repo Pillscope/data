@@ -1,0 +1,28 @@
+{
+  "drug_code": "92856",
+  "din": "02443813",
+  "brand_name": "TEVA-ATAZANAVIR",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "19-APR-2017",
+  "active_ingredients": [
+    {
+      "name": "ATAZANAVIR (ATAZANAVIR SULFATE)",
+      "strength": "200",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "CAPSULE"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "TEVA CANADA LIMITED"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "ATAZANAVIR"
+  ]
+}

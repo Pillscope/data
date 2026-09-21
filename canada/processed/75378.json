@@ -1,0 +1,28 @@
+{
+  "drug_code": "75378",
+  "din": "02268396",
+  "brand_name": "APO-SUMATRIPTAN",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "20-JUN-2006",
+  "active_ingredients": [
+    {
+      "name": "SUMATRIPTAN (SUMATRIPTAN SUCCINATE)",
+      "strength": "100",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "APOTEX INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "SUMATRIPTAN"
+  ]
+}

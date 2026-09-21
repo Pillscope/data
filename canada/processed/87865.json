@@ -1,0 +1,26 @@
+{
+  "drug_code": "87865",
+  "din": "02393425",
+  "brand_name": "AVENTICARP CAPLETS",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "25-SEP-2013",
+  "active_ingredients": [
+    {
+      "name": "CARPROFEN",
+      "strength": "100",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "NORBROOK LABORATORIES LTD."
+  ],
+  "status": "APPROVED",
+  "atc": []
+}

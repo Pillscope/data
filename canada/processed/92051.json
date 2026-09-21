@@ -1,0 +1,28 @@
+{
+  "drug_code": "92051",
+  "din": "02436175",
+  "brand_name": "PMS-ZOLPIDEM ODT",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "19-DEC-2016",
+  "active_ingredients": [
+    {
+      "name": "ZOLPIDEM TARTRATE",
+      "strength": "5",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET (ORALLY DISINTEGRATING)"
+  ],
+  "routes": [
+    "SUBLINGUAL"
+  ],
+  "companies": [
+    "PHARMASCIENCE INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "ZOLPIDEM"
+  ]
+}

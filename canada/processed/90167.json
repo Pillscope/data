@@ -1,0 +1,43 @@
+{
+  "drug_code": "90167",
+  "din": "02417030",
+  "brand_name": "BEXSERO",
+  "class": "Human",
+  "descriptor": "MULTICOMPONENT MENINGOC. B VACCINE (R-DNA ADSORBED). 0.5ML PFS.",
+  "last_update": "06-OCT-2016",
+  "active_ingredients": [
+    {
+      "name": "Recombinant Neisseria meningitidis group B NHBA fusion protein",
+      "strength": "50",
+      "unit": "MCG"
+    },
+    {
+      "name": "Recombinant Neisseria meningitidis group B NadA protein",
+      "strength": "50",
+      "unit": "MCG"
+    },
+    {
+      "name": "Recombinant Neisseria meningitidis group B fHBP fusion protein",
+      "strength": "50",
+      "unit": "MCG"
+    },
+    {
+      "name": "Outer membrane vesicles (Neisseria meningitidis group B NZ98/254 strain)",
+      "strength": "25",
+      "unit": "MCG"
+    }
+  ],
+  "forms": [
+    "SUSPENSION"
+  ],
+  "routes": [
+    "INTRAMUSCULAR"
+  ],
+  "companies": [
+    "GLAXOSMITHKLINE INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "Meningococcus B, multicomponent vaccine"
+  ]
+}

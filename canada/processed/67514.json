@@ -1,0 +1,28 @@
+{
+  "drug_code": "67514",
+  "din": "02243596",
+  "brand_name": "ASMANEX TWISTHALER",
+  "class": "Human",
+  "descriptor": "FOR ORAL INHALATION ONLY",
+  "last_update": "13-MAR-2015",
+  "active_ingredients": [
+    {
+      "name": "MOMETASONE FUROATE",
+      "strength": "400",
+      "unit": "MCG"
+    }
+  ],
+  "forms": [
+    "POWDER"
+  ],
+  "routes": [
+    "INHALATION"
+  ],
+  "companies": [
+    "MERCK CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "MOMETASONE"
+  ]
+}

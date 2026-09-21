@@ -1,0 +1,28 @@
+{
+  "drug_code": "87304",
+  "din": "02387468",
+  "brand_name": "LABETALOL HYDROCHLORIDE INJECTION, USP",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "07-APR-2015",
+  "active_ingredients": [
+    {
+      "name": "LABETALOL HYDROCHLORIDE",
+      "strength": "5",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "MYLAN PHARMACEUTICALS ULC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "LABETALOL"
+  ]
+}

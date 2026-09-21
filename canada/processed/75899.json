@@ -1,0 +1,28 @@
+{
+  "drug_code": "75899",
+  "din": "02273500",
+  "brand_name": "PMS-URSODIOL C",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "19-SEP-2006",
+  "active_ingredients": [
+    {
+      "name": "URSODIOL",
+      "strength": "500",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "PHARMASCIENCE INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "URSODEOXYCHOLIC ACID"
+  ]
+}

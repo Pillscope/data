@@ -1,0 +1,28 @@
+{
+  "drug_code": "50339",
+  "din": "02231056",
+  "brand_name": "HAVRIX 720 JUNIOR",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "02-MAR-2015",
+  "active_ingredients": [
+    {
+      "name": "HEPATITIS A VACCINE, INACTIVATED",
+      "strength": "720",
+      "unit": "UNIT"
+    }
+  ],
+  "forms": [
+    "SUSPENSION"
+  ],
+  "routes": [
+    "INTRAMUSCULAR"
+  ],
+  "companies": [
+    "GLAXOSMITHKLINE INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "HEPATITIS A, INACTIVATED, WHOLE VIRUS"
+  ]
+}

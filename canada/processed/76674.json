@@ -1,0 +1,28 @@
+{
+  "drug_code": "76674",
+  "din": "02281074",
+  "brand_name": "ACZONE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "02-NOV-2011",
+  "active_ingredients": [
+    {
+      "name": "DAPSONE",
+      "strength": "5",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "GEL"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "VALEANT CANADA LP/VALEANT CANADA S.E.C."
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "DAPSONE"
+  ]
+}

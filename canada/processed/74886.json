@@ -1,0 +1,28 @@
+{
+  "drug_code": "74886",
+  "din": "02263475",
+  "brand_name": "CHEST CONGESTION SYRUP",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "15-FEB-2018",
+  "active_ingredients": [
+    {
+      "name": "GUAIFENESIN",
+      "strength": "200",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SYRUP"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "PHARMETICS (2011) INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "GUAIFENESIN"
+  ]
+}

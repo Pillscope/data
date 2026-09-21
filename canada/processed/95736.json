@@ -1,0 +1,28 @@
+{
+  "drug_code": "95736",
+  "din": "02468816",
+  "brand_name": "IMFINZI",
+  "class": "Human",
+  "descriptor": "SINGLE-USE VIAL",
+  "last_update": "14-MAR-2018",
+  "active_ingredients": [
+    {
+      "name": "DURVALUMAB",
+      "strength": "50",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "ASTRAZENECA CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "DURVALUMAB"
+  ]
+}

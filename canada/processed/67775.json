@@ -1,0 +1,28 @@
+{
+  "drug_code": "67775",
+  "din": "02243834",
+  "brand_name": "PROVOCHOLINE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "08-FEB-2006",
+  "active_ingredients": [
+    {
+      "name": "METHACHOLINE CHLORIDE",
+      "strength": "1280",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "POWDER FOR SOLUTION"
+  ],
+  "routes": [
+    "INHALATION"
+  ],
+  "companies": [
+    "METHAPHARM INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "OTHER DIAGNOSTIC AGENTS"
+  ]
+}

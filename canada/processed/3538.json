@@ -1,0 +1,38 @@
+{
+  "drug_code": "3538",
+  "din": "00472085",
+  "brand_name": "POTASSIUM CHLORIDE 20 MEQ IN 3.3% DEXTROSE WITH 0.3% SODIUM CHLORIDE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "28-NOV-2007",
+  "active_ingredients": [
+    {
+      "name": "SODIUM CHLORIDE",
+      "strength": "3.0",
+      "unit": "MG"
+    },
+    {
+      "name": "DEXTROSE",
+      "strength": "33.3",
+      "unit": "MG"
+    },
+    {
+      "name": "POTASSIUM CHLORIDE",
+      "strength": "1.49",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "HOSPIRA HEALTHCARE CORPORATION"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "ELECTROLYTES WITH CARBOHYDRATES"
+  ]
+}

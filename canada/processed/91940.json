@@ -1,0 +1,28 @@
+{
+  "drug_code": "91940",
+  "din": "02435128",
+  "brand_name": "SYLVANT",
+  "class": "Human",
+  "descriptor": "SINGLE USE VIAL",
+  "last_update": "21-NOV-2017",
+  "active_ingredients": [
+    {
+      "name": "SILTUXIMAB",
+      "strength": "100",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "POWDER FOR SOLUTION"
+  ],
+  "routes": [
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "JANSSEN INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "SILTUXIMAB"
+  ]
+}

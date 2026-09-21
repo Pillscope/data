@@ -1,0 +1,28 @@
+{
+  "drug_code": "2087",
+  "din": "00317268",
+  "brand_name": "TUBERSOL",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "12-AUG-2009",
+  "active_ingredients": [
+    {
+      "name": "PURIFIED PROTEIN DERIVATIVE OF TUBERCULIN",
+      "strength": "5",
+      "unit": "TUB"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "INTRADERMAL"
+  ],
+  "companies": [
+    "SANOFI PASTEUR LIMITED"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "TUBERCULIN"
+  ]
+}

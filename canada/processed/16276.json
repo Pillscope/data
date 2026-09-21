@@ -1,0 +1,31 @@
+{
+  "drug_code": "16276",
+  "din": "01934341",
+  "brand_name": "DEPO-MEDROL (WITH PRESERVATIVE) 80 MG/ML",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "29-APR-2009",
+  "active_ingredients": [
+    {
+      "name": "METHYLPREDNISOLONE ACETATE",
+      "strength": "80",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SUSPENSION"
+  ],
+  "routes": [
+    "INTRA-ARTICULAR",
+    "INTRALESIONAL",
+    "INTRAMUSCULAR",
+    "INTRASYNOVIAL"
+  ],
+  "companies": [
+    "PFIZER CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "METHYLPREDNISOLONE"
+  ]
+}

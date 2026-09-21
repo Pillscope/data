@@ -1,0 +1,26 @@
+{
+  "drug_code": "94050",
+  "din": "02453975",
+  "brand_name": "DRENCH-PRO",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "01-FEB-2018",
+  "active_ingredients": [
+    {
+      "name": "PROPYLENE GLYCOL",
+      "strength": "100",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "LONDON DAIRY SUPPLY LTD"
+  ],
+  "status": "APPROVED",
+  "atc": []
+}

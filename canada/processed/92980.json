@@ -1,0 +1,28 @@
+{
+  "drug_code": "92980",
+  "din": "02444682",
+  "brand_name": "SANDOZ ONDANSETRON ODT",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "11-MAY-2016",
+  "active_ingredients": [
+    {
+      "name": "ONDANSETRON",
+      "strength": "8",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET (ORALLY DISINTEGRATING)"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "SANDOZ CANADA INCORPORATED"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "ONDANSETRON"
+  ]
+}

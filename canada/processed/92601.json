@@ -1,0 +1,28 @@
+{
+  "drug_code": "92601",
+  "din": "02441624",
+  "brand_name": "TEVA-CINACALCET",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "08-DEC-2016",
+  "active_ingredients": [
+    {
+      "name": "CINACALCET (CINACALCET HYDROCHLORIDE)",
+      "strength": "30",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "TEVA CANADA LIMITED"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "CINACALCET"
+  ]
+}

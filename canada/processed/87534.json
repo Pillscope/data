@@ -1,0 +1,28 @@
+{
+  "drug_code": "87534",
+  "din": "02389878",
+  "brand_name": "MINT-FINASTERIDE",
+  "class": "Human",
+  "descriptor": "FILM-COATED TABLET",
+  "last_update": "20-MAR-2014",
+  "active_ingredients": [
+    {
+      "name": "FINASTERIDE",
+      "strength": "5",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "MINT PHARMACEUTICALS INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "FINASTERIDE"
+  ]
+}

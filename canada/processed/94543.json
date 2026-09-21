@@ -1,0 +1,28 @@
+{
+  "drug_code": "94543",
+  "din": "02458357",
+  "brand_name": "HUMIRA",
+  "class": "Human",
+  "descriptor": "PRE-FILLED PEN",
+  "last_update": "26-JUL-2017",
+  "active_ingredients": [
+    {
+      "name": "ADALIMUMAB",
+      "strength": "40",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "SUBCUTANEOUS"
+  ],
+  "companies": [
+    "ABBVIE CORPORATION"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "ADALIMUMAB"
+  ]
+}

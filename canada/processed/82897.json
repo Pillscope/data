@@ -1,0 +1,28 @@
+{
+  "drug_code": "82897",
+  "din": "02343541",
+  "brand_name": "PROLIA",
+  "class": "Human",
+  "descriptor": "PRE-FILLED SYRINGE. PRESERVATIVE-FREE.",
+  "last_update": "24-MAR-2014",
+  "active_ingredients": [
+    {
+      "name": "DENOSUMAB",
+      "strength": "60",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "SUBCUTANEOUS"
+  ],
+  "companies": [
+    "AMGEN CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "DENOSUMAB"
+  ]
+}

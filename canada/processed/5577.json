@@ -1,0 +1,41 @@
+{
+  "drug_code": "5577",
+  "din": "00586072",
+  "brand_name": "ABSORBINE HOOFLEX ONT",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "12-JUN-2008",
+  "active_ingredients": [
+    {
+      "name": "LANOLIN",
+      "strength": "13.35",
+      "unit": "%"
+    },
+    {
+      "name": "TURPENTINE",
+      "strength": "7.5",
+      "unit": "%"
+    },
+    {
+      "name": "NEATSFOOT OIL",
+      "strength": "22.95",
+      "unit": "%"
+    },
+    {
+      "name": "PINE TAR",
+      "strength": "3.34",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "OINTMENT"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "W.F. YOUNG, INC."
+  ],
+  "status": "MARKETED",
+  "atc": []
+}

@@ -1,0 +1,28 @@
+{
+  "drug_code": "60738",
+  "din": "02237409",
+  "brand_name": "BACTI-FOAM",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "17-MAY-2007",
+  "active_ingredients": [
+    {
+      "name": "TRICLOSAN",
+      "strength": "0.3",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "SPRAY"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "ECOLAB CO"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "TRICLOSAN"
+  ]
+}

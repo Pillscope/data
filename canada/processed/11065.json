@@ -1,0 +1,39 @@
+{
+  "drug_code": "11065",
+  "din": "00180041",
+  "brand_name": "A.C. & C 8MG TAB",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "02-FEB-2017",
+  "active_ingredients": [
+    {
+      "name": "CODEINE PHOSPHATE",
+      "strength": "8",
+      "unit": "MG"
+    },
+    {
+      "name": "ACETYLSALICYLIC ACID",
+      "strength": "375",
+      "unit": "MG"
+    },
+    {
+      "name": "CAFFEINE",
+      "strength": "15",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "VITA HEALTH PRODUCTS INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "CODEINE AND ACETYLSALICYLIC ACID",
+    "CODEINE AND ACETYLSALICYLIC ACID"
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "drug_code": "77454",
+  "din": "02289164",
+  "brand_name": "BUCKLEY'S COUGH CHEST CONGESTION",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "23-FEB-2018",
+  "active_ingredients": [
+    {
+      "name": "GUAIFENESIN",
+      "strength": "100",
+      "unit": "MG"
+    },
+    {
+      "name": "MENTHOL",
+      "strength": "10",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SYRUP"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "THE BUCKLEY'S COMPANY"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "GUAIFENESIN"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "drug_code": "11752",
+  "din": "01919342",
+  "brand_name": "LUVOX",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "07-FEB-2017",
+  "active_ingredients": [
+    {
+      "name": "FLUVOXAMINE MALEATE",
+      "strength": "50",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "BGP PHARMA ULC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "FLUVOXAMINE"
+  ]
+}

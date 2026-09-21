@@ -1,0 +1,28 @@
+{
+  "drug_code": "86224",
+  "din": "02376695",
+  "brand_name": "DOM-MONTELUKAST FC",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "02-OCT-2012",
+  "active_ingredients": [
+    {
+      "name": "MONTELUKAST (MONTELUKAST SODIUM)",
+      "strength": "10",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "DOMINION PHARMACAL"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "MONTELUKAST"
+  ]
+}

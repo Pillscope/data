@@ -1,0 +1,28 @@
+{
+  "drug_code": "93132",
+  "din": "02446057",
+  "brand_name": "REPATHA",
+  "class": "Human",
+  "descriptor": "1 ML SINGLE USE PREFILLED SYRINGE AND AUTOINJECTOR",
+  "last_update": "03-FEB-2016",
+  "active_ingredients": [
+    {
+      "name": "EVOLOCUMAB",
+      "strength": "140",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "SUBCUTANEOUS"
+  ],
+  "companies": [
+    "AMGEN CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "EVOLOCUMAB"
+  ]
+}

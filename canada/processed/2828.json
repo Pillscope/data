@@ -1,0 +1,33 @@
+{
+  "drug_code": "2828",
+  "din": "00393746",
+  "brand_name": "PRILOCAINE HCL 4% EPINEPH 1:200000INJ",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "08-AUG-2017",
+  "active_ingredients": [
+    {
+      "name": "PRILOCAINE HYDROCHLORIDE",
+      "strength": "40",
+      "unit": "MG"
+    },
+    {
+      "name": "EPINEPHRINE",
+      "strength": "5",
+      "unit": "MCG"
+    }
+  ],
+  "forms": [
+    "LIQUID"
+  ],
+  "routes": [
+    "BLOCK/INFILTRATION"
+  ],
+  "companies": [
+    "NOVOCOL PHARMACEUTICAL OF CANADA INC"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "PRILOCAINE, COMBINATIONS"
+  ]
+}

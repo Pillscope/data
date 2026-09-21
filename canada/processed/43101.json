@@ -1,0 +1,28 @@
+{
+  "drug_code": "43101",
+  "din": "02213427",
+  "brand_name": "VENTOLIN NEBULES P.F. - 5MG/2.5ML",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "03-OCT-2007",
+  "active_ingredients": [
+    {
+      "name": "SALBUTAMOL (SALBUTAMOL SULFATE)",
+      "strength": "5",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "INHALATION"
+  ],
+  "companies": [
+    "GLAXOSMITHKLINE INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "SALBUTAMOL"
+  ]
+}

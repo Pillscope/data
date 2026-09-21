@@ -1,0 +1,33 @@
+{
+  "drug_code": "41939",
+  "din": "01942271",
+  "brand_name": "ABSORBINE JR EXTRA STRENGTH LINIMENT",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "23-APR-2018",
+  "active_ingredients": [
+    {
+      "name": "CHLOROXYLENOL",
+      "strength": "0.5",
+      "unit": "%"
+    },
+    {
+      "name": "MENTHOL",
+      "strength": "4.0",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "LIQUID"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "CLARION BRANDS LLC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "VARIOUS"
+  ]
+}

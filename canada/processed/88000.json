@@ -1,0 +1,28 @@
+{
+  "drug_code": "88000",
+  "din": "02394847",
+  "brand_name": "ESOMEPRAZOLE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "03-JAN-2013",
+  "active_ingredients": [
+    {
+      "name": "ESOMEPRAZOLE (ESOMEPRAZOLE MAGNESIUM)",
+      "strength": "40",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET (DELAYED-RELEASE)"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "PRO DOC LIMITEE"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "ESOMEPRAZOLE"
+  ]
+}

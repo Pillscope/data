@@ -1,0 +1,26 @@
+{
+  "drug_code": "12795",
+  "din": "01939785",
+  "brand_name": "BLOAT AID LIQ 60MG/30ML",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "28-JUN-2000",
+  "active_ingredients": [
+    {
+      "name": "DOCUSATE SODIUM",
+      "strength": "60",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "LIQUID"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "CITADEL ANIMAL HEALTH"
+  ],
+  "status": "MARKETED",
+  "atc": []
+}

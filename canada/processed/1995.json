@@ -1,0 +1,28 @@
+{
+  "drug_code": "1995",
+  "din": "00308277",
+  "brand_name": "OXYTOCIN INJ SYNTHETIC 20UNIT/ML",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "30-JUN-1999",
+  "active_ingredients": [
+    {
+      "name": "OXYTOCIN",
+      "strength": "20",
+      "unit": "UNIT"
+    }
+  ],
+  "forms": [
+    "LIQUID"
+  ],
+  "routes": [
+    "INTRAMUSCULAR",
+    "INTRAVENOUS",
+    "SUBCUTANEOUS"
+  ],
+  "companies": [
+    "PROFESSIONAL VETERINARY LABORATORIES"
+  ],
+  "status": "MARKETED",
+  "atc": []
+}

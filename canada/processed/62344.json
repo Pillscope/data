@@ -1,0 +1,29 @@
+{
+  "drug_code": "62344",
+  "din": "02238903",
+  "brand_name": "BENZTROPINE OMEGA",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "27-JAN-2009",
+  "active_ingredients": [
+    {
+      "name": "BENZTROPINE MESYLATE",
+      "strength": "1",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "LIQUID"
+  ],
+  "routes": [
+    "INTRAMUSCULAR",
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "OMEGA LABORATORIES LTD"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "BENZATROPINE"
+  ]
+}

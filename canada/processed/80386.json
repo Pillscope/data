@@ -1,0 +1,38 @@
+{
+  "drug_code": "80386",
+  "din": "02318377",
+  "brand_name": "RAPICIDE PA HIGH LEVEL DISINFECTANT",
+  "class": "Disinfectant",
+  "descriptor": "",
+  "last_update": "29-APR-2015",
+  "active_ingredients": [
+    {
+      "name": "HYDROGEN PEROXIDE",
+      "strength": "22",
+      "unit": "%"
+    },
+    {
+      "name": "PERACETIC ACID",
+      "strength": "5",
+      "unit": "%"
+    },
+    {
+      "name": "ACETIC ACID",
+      "strength": "9",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "LIQUID"
+  ],
+  "routes": [
+    "DISINFECTANT (Medical Instruments)"
+  ],
+  "companies": [
+    "MEDIVATORS INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "TECHNICAL DISINFECTANTS"
+  ]
+}

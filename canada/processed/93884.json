@@ -1,0 +1,28 @@
+{
+  "drug_code": "93884",
+  "din": "02452464",
+  "brand_name": "ACID REDUCER",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "04-OCT-2016",
+  "active_ingredients": [
+    {
+      "name": "RANITIDINE (RANITIDINE HYDROCHLORIDE)",
+      "strength": "75",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "LABORATOIRE RIVA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "RANITIDINE"
+  ]
+}

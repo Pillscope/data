@@ -1,0 +1,39 @@
+{
+  "drug_code": "92609",
+  "din": "02441691",
+  "brand_name": "PRISM0CAL B22K0/0",
+  "class": "Human",
+  "descriptor": "SINGLE-USE, TWO COMPARTMENT BAG",
+  "last_update": "06-JUL-2016",
+  "active_ingredients": [
+    {
+      "name": "SODIUM BICARBONATE",
+      "strength": "2.12",
+      "unit": "G"
+    },
+    {
+      "name": "SODIUM CHLORIDE",
+      "strength": "7.14",
+      "unit": "G"
+    },
+    {
+      "name": "MAGNESIUM CHLORIDE",
+      "strength": "3.05",
+      "unit": "G"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "INTRAVENOUS",
+    "DIALYSIS"
+  ],
+  "companies": [
+    "BAXTER CORPORATION"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "HEMOFILTRATES"
+  ]
+}

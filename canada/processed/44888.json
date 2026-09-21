@@ -1,0 +1,28 @@
+{
+  "drug_code": "44888",
+  "din": "00873381",
+  "brand_name": "ANTISEPTIC SWABS 4MG/ML",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "10-MAY-2016",
+  "active_ingredients": [
+    {
+      "name": "BENZALKONIUM CHLORIDE",
+      "strength": "4",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "PAD"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "ZEE MEDICAL"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "BENZALKONIUM, COMBINATIONS"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "drug_code": "3991",
+  "din": "00511528",
+  "brand_name": "MOGADON",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "30-JAN-2017",
+  "active_ingredients": [
+    {
+      "name": "NITRAZEPAM",
+      "strength": "5",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "AA PHARMA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "NITRAZEPAM"
+  ]
+}

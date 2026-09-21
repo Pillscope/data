@@ -1,0 +1,28 @@
+{
+  "drug_code": "37161",
+  "din": "02219190",
+  "brand_name": "CARTER'S LITTLE PILLS",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "28-NOV-2013",
+  "active_ingredients": [
+    {
+      "name": "BISACODYL",
+      "strength": "5",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "CHURCH & DWIGHT CANADA CORP"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "BISACODYL"
+  ]
+}

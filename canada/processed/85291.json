@@ -1,0 +1,28 @@
+{
+  "drug_code": "85291",
+  "din": "02368099",
+  "brand_name": "IBUPROFEN EXTRA STRENGTH CAPLETS",
+  "class": "Human",
+  "descriptor": "CAPLET",
+  "last_update": "18-OCT-2016",
+  "active_ingredients": [
+    {
+      "name": "IBUPROFEN",
+      "strength": "400",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "VITA HEALTH PRODUCTS INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "IBUPROFEN"
+  ]
+}

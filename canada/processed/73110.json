@@ -1,0 +1,26 @@
+{
+  "drug_code": "73110",
+  "din": "02248742",
+  "brand_name": "CYCLOSOL 200 LA",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "28-DEC-2017",
+  "active_ingredients": [
+    {
+      "name": "OXYTETRACYCLINE (OXYTETRACYCLINE DIHYDRATE)",
+      "strength": "200",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "INTRAMUSCULAR"
+  ],
+  "companies": [
+    "EUROVET ANIMAL HEALTH B.V."
+  ],
+  "status": "APPROVED",
+  "atc": []
+}

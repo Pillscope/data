@@ -1,0 +1,28 @@
+{
+  "drug_code": "5562",
+  "din": "00592293",
+  "brand_name": "GENTOCIN",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "05-FEB-2013",
+  "active_ingredients": [
+    {
+      "name": "GENTAMICIN (GENTAMICIN SULFATE)",
+      "strength": "100",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "INTRAMUSCULAR",
+    "INTRAUTERINE",
+    "SUBCUTANEOUS"
+  ],
+  "companies": [
+    "INTERVET CANADA CORP"
+  ],
+  "status": "APPROVED",
+  "atc": []
+}

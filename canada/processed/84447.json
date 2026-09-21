@@ -1,0 +1,28 @@
+{
+  "drug_code": "84447",
+  "din": "02359456",
+  "brand_name": "DAXAS",
+  "class": "Human",
+  "descriptor": "FILM-COATED TABLETS",
+  "last_update": "09-AUG-2017",
+  "active_ingredients": [
+    {
+      "name": "Roflumilast",
+      "strength": "500",
+      "unit": "MCG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "ASTRAZENECA CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "ROFLUMILAST"
+  ]
+}

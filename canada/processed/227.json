@@ -1,0 +1,28 @@
+{
+  "drug_code": "227",
+  "din": "00038172",
+  "brand_name": "QUELICIN",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "23-JUN-2017",
+  "active_ingredients": [
+    {
+      "name": "SUCCINYLCHOLINE CHLORIDE",
+      "strength": "20",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "PFIZER CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "SUXAMETHONIUM"
+  ]
+}

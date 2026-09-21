@@ -1,0 +1,28 @@
+{
+  "drug_code": "82993",
+  "din": "02344424",
+  "brand_name": "REMIFENTANIL FOR INJECTION",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "05-SEP-2017",
+  "active_ingredients": [
+    {
+      "name": "REMIFENTANIL (REMIFENTANIL HYDROCHLORIDE)",
+      "strength": "1",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "POWDER FOR SOLUTION"
+  ],
+  "routes": [
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "TEVA CANADA LIMITED"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "REMIFENTANIL"
+  ]
+}

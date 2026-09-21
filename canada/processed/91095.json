@@ -1,0 +1,28 @@
+{
+  "drug_code": "91095",
+  "din": "02426366",
+  "brand_name": "PRIVA-CELECOXIB",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "26-JAN-2015",
+  "active_ingredients": [
+    {
+      "name": "CELECOXIB",
+      "strength": "100",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "CAPSULE"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "PHARMAPAR INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "CELECOXIB"
+  ]
+}

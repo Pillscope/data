@@ -1,0 +1,46 @@
+{
+  "drug_code": "66168",
+  "din": "02242449",
+  "brand_name": "BIGELOIL",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "30-JUN-2017",
+  "active_ingredients": [
+    {
+      "name": "SALICYLIC ACID",
+      "strength": "5.80",
+      "unit": "MG"
+    },
+    {
+      "name": "ALCOHOL ANHYDROUS",
+      "strength": "629.30",
+      "unit": "MG"
+    },
+    {
+      "name": "THYMOL",
+      "strength": "0.70",
+      "unit": "MG"
+    },
+    {
+      "name": "MENTHOL",
+      "strength": "10.75",
+      "unit": "MG"
+    },
+    {
+      "name": "METHYL SALICYLATE",
+      "strength": "2.90",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "LIQUID"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "W.F. YOUNG, INC."
+  ],
+  "status": "MARKETED",
+  "atc": []
+}

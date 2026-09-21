@@ -1,0 +1,28 @@
+{
+  "drug_code": "78988",
+  "din": "02304619",
+  "brand_name": "PRIVIGEN",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "23-JUL-2013",
+  "active_ingredients": [
+    {
+      "name": "IMMUNE GLOBULIN (HUMAN)",
+      "strength": "10",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "CSL BEHRING CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "IMMUNOGLOBULINS, NORMAL HUMAN, FOR INTRAVASC. ADM."
+  ]
+}

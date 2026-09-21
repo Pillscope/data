@@ -1,0 +1,28 @@
+{
+  "drug_code": "75289",
+  "din": "02267489",
+  "brand_name": "TEVA-BISOPROLOL",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "28-DEC-2017",
+  "active_ingredients": [
+    {
+      "name": "BISOPROLOL FUMARATE",
+      "strength": "10",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "TEVA CANADA LIMITED"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "BISOPROLOL"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "drug_code": "64173",
+  "din": "02240602",
+  "brand_name": "BUSULFEX",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "23-FEB-2018",
+  "active_ingredients": [
+    {
+      "name": "BUSULFAN",
+      "strength": "60",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "OTSUKA PHARMACEUTICAL CO LTD"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "BUSULFAN"
+  ]
+}

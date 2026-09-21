@@ -1,0 +1,28 @@
+{
+  "drug_code": "74278",
+  "din": "02257521",
+  "brand_name": "CITALOPRAM-40",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "19-NOV-2008",
+  "active_ingredients": [
+    {
+      "name": "CITALOPRAM (CITALOPRAM HYDROBROMIDE)",
+      "strength": "40",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "PRO DOC LIMITEE"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "CITALOPRAM"
+  ]
+}

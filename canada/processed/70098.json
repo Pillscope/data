@@ -1,0 +1,28 @@
+{
+  "drug_code": "70098",
+  "din": "02245972",
+  "brand_name": "ANDRODERM",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "06-MAR-2018",
+  "active_ingredients": [
+    {
+      "name": "TESTOSTERONE",
+      "strength": "5",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "PATCH"
+  ],
+  "routes": [
+    "TRANSDERMAL"
+  ],
+  "companies": [
+    "ALLERGAN INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "TESTOSTERONE"
+  ]
+}

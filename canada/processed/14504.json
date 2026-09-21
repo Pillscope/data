@@ -1,0 +1,28 @@
+{
+  "drug_code": "14504",
+  "din": "02045702",
+  "brand_name": "TEVA-SUCRALFATE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "05-MAY-2015",
+  "active_ingredients": [
+    {
+      "name": "SUCRALFATE",
+      "strength": "1",
+      "unit": "G"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "TEVA CANADA LIMITED"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "SUCRALFATE"
+  ]
+}

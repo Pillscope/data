@@ -1,0 +1,76 @@
+{
+  "drug_code": "18635",
+  "din": "02026295",
+  "brand_name": "RUMINANT BOOSTER BOLUS",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "23-MAR-2005",
+  "active_ingredients": [
+    {
+      "name": "THIAMINE HYDROCHLORIDE",
+      "strength": "10",
+      "unit": "MG"
+    },
+    {
+      "name": "NICOTINAMIDE",
+      "strength": "10",
+      "unit": "MG"
+    },
+    {
+      "name": "CALCIUM D-PANTOTHENATE",
+      "strength": "18",
+      "unit": "MG"
+    },
+    {
+      "name": "PYRIDOXINE HYDROCHLORIDE",
+      "strength": "2",
+      "unit": "MG"
+    },
+    {
+      "name": "SODIUM BICARBONATE",
+      "strength": "500",
+      "unit": "MG"
+    },
+    {
+      "name": "COBALT (COBALTOUS CHLORIDE)",
+      "strength": "22",
+      "unit": "MG"
+    },
+    {
+      "name": "VITAMIN B2",
+      "strength": "3",
+      "unit": "MG"
+    },
+    {
+      "name": "YEAST",
+      "strength": "2",
+      "unit": "G"
+    },
+    {
+      "name": "CALCIUM PHOSPHATE (DIBASIC)",
+      "strength": "6",
+      "unit": "G"
+    },
+    {
+      "name": "POTASSIUM PHOSPHATE DIBASIC",
+      "strength": "2.4",
+      "unit": "G"
+    },
+    {
+      "name": "CHOLINE CHLORIDE",
+      "strength": "500",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "CITADEL ANIMAL HEALTH"
+  ],
+  "status": "MARKETED",
+  "atc": []
+}

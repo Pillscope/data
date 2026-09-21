@@ -1,0 +1,26 @@
+{
+  "drug_code": "85446",
+  "din": "02369532",
+  "brand_name": "IMPROVEST",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "31-JAN-2018",
+  "active_ingredients": [
+    {
+      "name": "GONADOTROPIN-RELEASING FACTOR ANALOG-DIPHTHERIA TOXOID CONJUGATE",
+      "strength": "0.2",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "SUBCUTANEOUS"
+  ],
+  "companies": [
+    "ZOETIS CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": []
+}

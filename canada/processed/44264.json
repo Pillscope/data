@@ -1,0 +1,28 @@
+{
+  "drug_code": "44264",
+  "din": "02182971",
+  "brand_name": "METHOTREXATE INJECTION USP",
+  "class": "Human",
+  "descriptor": "PRESERVATIVE-FREE (PHARMACY BULK VIAL)",
+  "last_update": "09-JUN-2017",
+  "active_ingredients": [
+    {
+      "name": "METHOTREXATE (METHOTREXATE SODIUM)",
+      "strength": "25",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "PFIZER CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "METHOTREXATE"
+  ]
+}

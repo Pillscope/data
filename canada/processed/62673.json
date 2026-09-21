@@ -1,0 +1,33 @@
+{
+  "drug_code": "62673",
+  "din": "02239213",
+  "brand_name": "COMBIVIR",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "03-DEC-2013",
+  "active_ingredients": [
+    {
+      "name": "LAMIVUDINE",
+      "strength": "150",
+      "unit": "MG"
+    },
+    {
+      "name": "ZIDOVUDINE",
+      "strength": "300",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "VIIV HEALTHCARE ULC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "ZIDOVUDINE AND LAMIVUDINE"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "drug_code": "61824",
+  "din": "02238407",
+  "brand_name": "DERMAZINC SPRAY",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "27-APR-2004",
+  "active_ingredients": [
+    {
+      "name": "PYRITHIONE ZINC",
+      "strength": "2.5",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SPRAY"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "DERMALOGIX PARTNERS, INC."
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "PYRITHIONE ZINC"
+  ]
+}

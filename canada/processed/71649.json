@@ -1,0 +1,43 @@
+{
+  "drug_code": "71649",
+  "din": "02247403",
+  "brand_name": "SUN AND SNOW SPORT SPRAY SPF 30",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "10-JUL-2007",
+  "active_ingredients": [
+    {
+      "name": "OCTOCRYLENE",
+      "strength": "8",
+      "unit": "%"
+    },
+    {
+      "name": "OXYBENZONE",
+      "strength": "5",
+      "unit": "%"
+    },
+    {
+      "name": "OCTISALATE",
+      "strength": "4",
+      "unit": "%"
+    },
+    {
+      "name": "OCTINOXATE",
+      "strength": "6",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "SPRAY"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "DAVID ASTLEY AND COMPANY INC."
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "COMBINATIONS OF PROTECTIVES AGAINST UV-RADIATION"
+  ]
+}

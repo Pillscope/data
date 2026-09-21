@@ -1,0 +1,26 @@
+{
+  "drug_code": "1670",
+  "din": "00266639",
+  "brand_name": "SULFAQUINOXALINE 19.2% LIQUID CONCENTRATE",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "04-JAN-2018",
+  "active_ingredients": [
+    {
+      "name": "SULFAQUINOXALINE (SULFAQUINOXALINE SODIUM)",
+      "strength": "19.2",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "DOMINION VETERINARY LABORATORIES LTD."
+  ],
+  "status": "MARKETED",
+  "atc": []
+}

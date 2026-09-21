@@ -1,0 +1,28 @@
+{
+  "drug_code": "15211",
+  "din": "01924559",
+  "brand_name": "DEXEDRINE SPANSULE SRC 10MG",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "03-DEC-2015",
+  "active_ingredients": [
+    {
+      "name": "DEXTROAMPHETAMINE SULFATE",
+      "strength": "10",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "CAPSULE (SUSTAINED-RELEASE)"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "PALADIN LABS INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "DEXAMFETAMINE"
+  ]
+}

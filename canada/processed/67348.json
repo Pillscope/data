@@ -1,0 +1,26 @@
+{
+  "drug_code": "67348",
+  "din": "02243437",
+  "brand_name": "CAPSTAR",
+  "class": "Veterinary",
+  "descriptor": "NITENPYRAM TABLETS FOR DOGS",
+  "last_update": "04-OCT-2017",
+  "active_ingredients": [
+    {
+      "name": "NITENPYRAM",
+      "strength": "57",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "ELANCO CANADA LIMITED"
+  ],
+  "status": "APPROVED",
+  "atc": []
+}

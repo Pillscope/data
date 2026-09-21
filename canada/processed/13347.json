@@ -1,0 +1,33 @@
+{
+  "drug_code": "13347",
+  "din": "01930699",
+  "brand_name": "ZAP TOPICAL ANESTHETIC GEL",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "28-JUL-2015",
+  "active_ingredients": [
+    {
+      "name": "BENZOCAINE",
+      "strength": "18",
+      "unit": "%"
+    },
+    {
+      "name": "TETRACAINE HYDROCHLORIDE",
+      "strength": "2",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "GEL"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "GERMIPHENE CORPORATION"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "TOPICAL ANESTHETICS, COMBINATIONS"
+  ]
+}

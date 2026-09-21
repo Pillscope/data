@@ -1,0 +1,28 @@
+{
+  "drug_code": "19124",
+  "din": "02094908",
+  "brand_name": "ANASED",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "01-DEC-2015",
+  "active_ingredients": [
+    {
+      "name": "XYLAZINE (XYLAZINE HYDROCHLORIDE)",
+      "strength": "20",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "INTRAMUSCULAR",
+    "INTRAVENOUS",
+    "SUBCUTANEOUS"
+  ],
+  "companies": [
+    "AKORN ANIMAL HEALTH INC"
+  ],
+  "status": "APPROVED",
+  "atc": []
+}

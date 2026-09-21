@@ -1,0 +1,56 @@
+{
+  "drug_code": "622",
+  "din": "00106976",
+  "brand_name": "WONDER DUST WOUND DRESSING",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "01-JUL-2005",
+  "active_ingredients": [
+    {
+      "name": "TANNIC ACID",
+      "strength": "2",
+      "unit": "%"
+    },
+    {
+      "name": "CALCIUM HYDROXIDE",
+      "strength": "71",
+      "unit": "%"
+    },
+    {
+      "name": "SULFUR",
+      "strength": "2",
+      "unit": "%"
+    },
+    {
+      "name": "CHARCOAL ACTIVATED",
+      "strength": "5",
+      "unit": "%"
+    },
+    {
+      "name": "ALUMINUM POTASSIUM SULFATE",
+      "strength": "5",
+      "unit": "%"
+    },
+    {
+      "name": "COPPER SULFATE",
+      "strength": "13",
+      "unit": "%"
+    },
+    {
+      "name": "IODOFORM",
+      "strength": "2",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "POWDER"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "FARNAM COMPANIES INC"
+  ],
+  "status": "MARKETED",
+  "atc": []
+}

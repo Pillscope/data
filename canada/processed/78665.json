@@ -1,0 +1,28 @@
+{
+  "drug_code": "78665",
+  "din": "02301326",
+  "brand_name": "LYSOL DISINFECTANT TOILET BOWL CLEANER DEEP REACH",
+  "class": "Disinfectant",
+  "descriptor": "",
+  "last_update": "29-APR-2015",
+  "active_ingredients": [
+    {
+      "name": "HYDROCHLORIC ACID",
+      "strength": "9.5",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "LIQUID"
+  ],
+  "routes": [
+    "DISINFECTANT (Domestic)"
+  ],
+  "companies": [
+    "RECKITT BENCKISER (CANADA) INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "TECHNICAL DISINFECTANTS"
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "drug_code": "92136",
+  "din": "02437058",
+  "brand_name": "GARDASIL 9",
+  "class": "Human",
+  "descriptor": "0.5ML SINGLE-DOSE VIALS AND PREFILLED SYRINGES",
+  "last_update": "03-FEB-2016",
+  "active_ingredients": [
+    {
+      "name": "RECOMBINANT HUMAN PAPILLOMAVIRUS TYPE 6 L1 PROTEIN",
+      "strength": "30",
+      "unit": "MCG"
+    },
+    {
+      "name": "RECOMBINANT HUMAN PAPILLOMAVIRUS TYPE 11 L1 PROTEIN",
+      "strength": "40",
+      "unit": "MCG"
+    },
+    {
+      "name": "RECOMBINANT HUMAN PAPILLOMAVIRUS TYPE 16 L1 PROTEIN",
+      "strength": "60",
+      "unit": "MCG"
+    },
+    {
+      "name": "RECOMBINANT HUMAN PAPILLOMAVIRUS TYPE 18 L1 PROTEIN",
+      "strength": "40",
+      "unit": "MCG"
+    },
+    {
+      "name": "RECOMBINANT HUMAN PAPILLOMAVIRUS TYPE 31 L1 PROTEIN",
+      "strength": "20",
+      "unit": "MCG"
+    },
+    {
+      "name": "RECOMBINANT HUMAN PAPILLOMAVIRUS TYPE 33 L1 PROTEIN",
+      "strength": "20",
+      "unit": "MCG"
+    },
+    {
+      "name": "RECOMBINANT HUMAN PAPILLOMAVIRUS TYPE 45 L1 PROTEIN",
+      "strength": "20",
+      "unit": "MCG"
+    },
+    {
+      "name": "RECOMBINANT HUMAN PAPILLOMAVIRUS TYPE 52 L1 PROTEIN",
+      "strength": "20",
+      "unit": "MCG"
+    },
+    {
+      "name": "RECOMBINANT HUMAN PAPILLOMAVIRUS TYPE 58 L1 PROTEIN",
+      "strength": "20",
+      "unit": "MCG"
+    }
+  ],
+  "forms": [
+    "SUSPENSION"
+  ],
+  "routes": [
+    "INTRAMUSCULAR"
+  ],
+  "companies": [
+    "MERCK CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "PAPILLOMAVIRUS (HUMAN TYPES 6,11,16,18,31,33,45,52,58)"
+  ]
+}

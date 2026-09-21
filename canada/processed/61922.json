@@ -1,0 +1,29 @@
+{
+  "drug_code": "61922",
+  "din": "02238501",
+  "brand_name": "STANDARDIZED GRASS POLLEN - PERENNIAL RYEGRASS (100000 BAU/ML)",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "08-NOV-2012",
+  "active_ingredients": [
+    {
+      "name": "STANDARDIZED PERENNIAL RYE GRASS POLLEN",
+      "strength": "100000",
+      "unit": "UNIT"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "SUBCUTANEOUS",
+    "PERCUTANEOUS"
+  ],
+  "companies": [
+    "JUBILANT HOLLISTERSTIER LLC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "GRASS POLLEN"
+  ]
+}

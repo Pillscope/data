@@ -1,0 +1,30 @@
+{
+  "drug_code": "66636",
+  "din": "02242811",
+  "brand_name": "SCOPOLAMINE HYDROBROMIDE INJECTION",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "15-OCT-2008",
+  "active_ingredients": [
+    {
+      "name": "SCOPOLAMINE HYDROBROMIDE",
+      "strength": "0.6",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "LIQUID"
+  ],
+  "routes": [
+    "INTRAMUSCULAR",
+    "INTRAVENOUS",
+    "SUBCUTANEOUS"
+  ],
+  "companies": [
+    "OMEGA LABORATORIES LTD"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "SCOPOLAMINE"
+  ]
+}

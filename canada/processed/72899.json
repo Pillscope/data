@@ -1,0 +1,28 @@
+{
+  "drug_code": "72899",
+  "din": "02248544",
+  "brand_name": "REMERON RD",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "13-NOV-2012",
+  "active_ingredients": [
+    {
+      "name": "MIRTAZAPINE",
+      "strength": "45",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET (ORALLY DISINTEGRATING)"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "MERCK CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "MIRTAZAPINE"
+  ]
+}

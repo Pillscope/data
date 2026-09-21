@@ -1,0 +1,28 @@
+{
+  "drug_code": "93493",
+  "din": "02449110",
+  "brand_name": "JAMP-VITAMIN D",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "11-JAN-2018",
+  "active_ingredients": [
+    {
+      "name": "VITAMIN D3",
+      "strength": "50000",
+      "unit": "UNIT"
+    }
+  ],
+  "forms": [
+    "CAPSULE"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "JAMP PHARMA CORPORATION"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "COLECALCIFEROL"
+  ]
+}

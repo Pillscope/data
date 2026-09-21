@@ -1,0 +1,28 @@
+{
+  "drug_code": "90557",
+  "din": "02420988",
+  "brand_name": "TARO-DICLOFENAC",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "06-MAY-2014",
+  "active_ingredients": [
+    {
+      "name": "DICLOFENAC SODIUM",
+      "strength": "1.5",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "TARO PHARMACEUTICALS INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "DICLOFENAC"
+  ]
+}

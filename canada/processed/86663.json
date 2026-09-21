@@ -1,0 +1,38 @@
+{
+  "drug_code": "86663",
+  "din": "02380870",
+  "brand_name": "ESTEE LAUDER ADVANCED TIME ZONE AGE REVERSING LINE/WRINKLE CREME SPF 15 FOR NORMAL/COMBINATION SKIN",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "01-APR-2015",
+  "active_ingredients": [
+    {
+      "name": "AVOBENZONE",
+      "strength": "3.0",
+      "unit": "%"
+    },
+    {
+      "name": "OCTISALATE",
+      "strength": "5.0",
+      "unit": "%"
+    },
+    {
+      "name": "OCTINOXATE",
+      "strength": "7.5",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "CREAM"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "ESTEE LAUDER DIST"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "COMBINATIONS OF PROTECTIVES AGAINST UV-RADIATION"
+  ]
+}

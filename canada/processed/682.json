@@ -1,0 +1,28 @@
+{
+  "drug_code": "682",
+  "din": "00021261",
+  "brand_name": "TEVA-CHLOROQUINE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "29-APR-2015",
+  "active_ingredients": [
+    {
+      "name": "CHLOROQUINE DIPHOSPHATE",
+      "strength": "250",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "TEVA CANADA LIMITED"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "CHLOROQUINE"
+  ]
+}

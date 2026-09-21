@@ -1,0 +1,28 @@
+{
+  "drug_code": "95295",
+  "din": "02464802",
+  "brand_name": "DIAL COMPLETE ANTIBACTERIAL FOAMING HAND WASH",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "30-NOV-2017",
+  "active_ingredients": [
+    {
+      "name": "BENZALKONIUM CHLORIDE",
+      "strength": "0.13",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "LIQUID"
+  ],
+  "routes": [
+    "TOPICAL (HOUSEHOLD)"
+  ],
+  "companies": [
+    "HENKEL CANADA CORPORATION"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "BENZALKONIUM"
+  ]
+}

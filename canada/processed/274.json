@@ -1,0 +1,28 @@
+{
+  "drug_code": "274",
+  "din": "00141704",
+  "brand_name": "EUTHANYL",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "26-JUL-2006",
+  "active_ingredients": [
+    {
+      "name": "PENTOBARBITAL SODIUM",
+      "strength": "240",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "LIQUID"
+  ],
+  "routes": [
+    "INTRACARDIAC",
+    "INTRAPULMONARY",
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "BIMEDA-MTC ANIMAL HEALTH INC"
+  ],
+  "status": "APPROVED",
+  "atc": []
+}

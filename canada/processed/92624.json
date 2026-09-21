@@ -1,0 +1,28 @@
+{
+  "drug_code": "92624",
+  "din": "02441853",
+  "brand_name": "PANTOPRAZOLE MAGNESIUM",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "26-SEP-2017",
+  "active_ingredients": [
+    {
+      "name": "PANTOPRAZOLE (PANTOPRAZOLE MAGNESIUM)",
+      "strength": "40",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET (ENTERIC-COATED)"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "ALTIUS HEALTHCARE INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "PANTOPRAZOLE"
+  ]
+}

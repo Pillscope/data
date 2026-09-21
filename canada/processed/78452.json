@@ -1,0 +1,38 @@
+{
+  "drug_code": "78452",
+  "din": "02299127",
+  "brand_name": "20(MEQ)MMOL/L POTASSIUM CHLORIDE PLUS 5% DEXTROSE & 0.9% CHLORURE DE SODIUM/SODIUM CHLORIDE INJECTION USP",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "15-JUL-2008",
+  "active_ingredients": [
+    {
+      "name": "POTASSIUM CHLORIDE",
+      "strength": "0.15",
+      "unit": "G"
+    },
+    {
+      "name": "DEXTROSE",
+      "strength": "5.0",
+      "unit": "G"
+    },
+    {
+      "name": "SODIUM CHLORIDE",
+      "strength": "0.9",
+      "unit": "G"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "HOSPIRA HEALTHCARE CORPORATION"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "ELECTROLYTES WITH CARBOHYDRATES"
+  ]
+}

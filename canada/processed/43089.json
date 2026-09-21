@@ -1,0 +1,28 @@
+{
+  "drug_code": "43089",
+  "din": "02212307",
+  "brand_name": "CEFTIN - PWS 125MG/5ML",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "18-NOV-2005",
+  "active_ingredients": [
+    {
+      "name": "CEFUROXIME (CEFUROXIME AXETIL)",
+      "strength": "125",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "POWDER FOR SOLUTION"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "GLAXOSMITHKLINE INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "CEFUROXIME"
+  ]
+}

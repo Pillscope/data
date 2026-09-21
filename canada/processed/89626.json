@@ -1,0 +1,33 @@
+{
+  "drug_code": "89626",
+  "din": "02411660",
+  "brand_name": "CLINIQUE MOISTURE SURGE CC CREAM COMPACT HYDRATING COLOUR CORRECTOR SPF 25",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "08-APR-2014",
+  "active_ingredients": [
+    {
+      "name": "TITANIUM DIOXIDE",
+      "strength": "4.7",
+      "unit": "%"
+    },
+    {
+      "name": "OCTINOXATE",
+      "strength": "5.5",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "CREAM"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "CLINIQUE LABORATORIES DIST"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "COMBINATIONS OF PROTECTIVES AGAINST UV-RADIATION"
+  ]
+}

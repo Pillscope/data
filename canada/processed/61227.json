@@ -1,0 +1,26 @@
+{
+  "drug_code": "61227",
+  "din": "02237867",
+  "brand_name": "PANOMEC",
+  "class": "Veterinary",
+  "descriptor": "ORAL PASTE FOR HORSES",
+  "last_update": "05-MAY-2015",
+  "active_ingredients": [
+    {
+      "name": "IVERMECTIN",
+      "strength": "120",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "PASTE"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "MERIAL CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": []
+}

@@ -1,0 +1,28 @@
+{
+  "drug_code": "5720",
+  "din": "00577812",
+  "brand_name": "PDP-ISONIAZID",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "01-FEB-2016",
+  "active_ingredients": [
+    {
+      "name": "ISONIAZID",
+      "strength": "50",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "PENDOPHARM DIVISION OF DE PHARMASCIENCE INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "ISONIAZID"
+  ]
+}

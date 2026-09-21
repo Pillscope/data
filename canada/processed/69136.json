@@ -1,0 +1,35 @@
+{
+  "drug_code": "69136",
+  "din": "02245126",
+  "brand_name": "ADVAIR 125",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "01-AUG-2017",
+  "active_ingredients": [
+    {
+      "name": "SALMETEROL (SALMETEROL XINAFOATE)",
+      "strength": "25",
+      "unit": "MCG"
+    },
+    {
+      "name": "FLUTICASONE PROPIONATE",
+      "strength": "125",
+      "unit": "MCG"
+    }
+  ],
+  "forms": [
+    "AEROSOL, METERED DOSE"
+  ],
+  "routes": [
+    "INHALATION"
+  ],
+  "companies": [
+    "GLAXOSMITHKLINE INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "SALMETEROL AND FLUTICASONE",
+    "SALMETEROL AND FLUTICASONE",
+    "SALMETEROL AND FLUTICASONE"
+  ]
+}

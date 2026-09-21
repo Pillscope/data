@@ -1,0 +1,28 @@
+{
+  "drug_code": "85743",
+  "din": "02372290",
+  "brand_name": "SCRUB FREE WITH BLEACH",
+  "class": "Disinfectant",
+  "descriptor": "",
+  "last_update": "01-NOV-2012",
+  "active_ingredients": [
+    {
+      "name": "SODIUM HYPOCHLORITE",
+      "strength": "2.8",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "LIQUID"
+  ],
+  "routes": [
+    "DISINFECTANT (Domestic)"
+  ],
+  "companies": [
+    "CHURCH & DWIGHT CANADA CORP"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "TECHNICAL DISINFECTANTS"
+  ]
+}

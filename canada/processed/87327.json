@@ -1,0 +1,26 @@
+{
+  "drug_code": "87327",
+  "din": "02387689",
+  "brand_name": "ALFASURE",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "22-FEB-2013",
+  "active_ingredients": [
+    {
+      "name": "POLOXALENE",
+      "strength": "95",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "RAFTER 8 PRODUCTS INC"
+  ],
+  "status": "APPROVED",
+  "atc": []
+}

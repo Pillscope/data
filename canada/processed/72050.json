@@ -1,0 +1,29 @@
+{
+  "drug_code": "72050",
+  "din": "02247758",
+  "brand_name": "OMEGA ALLERGENIC EXTRACTS - NON-POLLENS (SUSPAL)",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "21-JUL-2005",
+  "active_ingredients": [
+    {
+      "name": "ALLERGENIC EXTRACT NON-POLLEN",
+      "strength": "40000",
+      "unit": "UNIT"
+    }
+  ],
+  "forms": [
+    "LIQUID"
+  ],
+  "routes": [
+    "INTRADERMAL",
+    "SUBCUTANEOUS"
+  ],
+  "companies": [
+    "OMEGA LABORATORIES LTD"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "VARIOUS"
+  ]
+}

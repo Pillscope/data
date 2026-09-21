@@ -1,0 +1,28 @@
+{
+  "drug_code": "90319",
+  "din": "02418630",
+  "brand_name": "PMS-NIFEDIPINE ER",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "27-MAR-2015",
+  "active_ingredients": [
+    {
+      "name": "NIFEDIPINE",
+      "strength": "30",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET (EXTENDED-RELEASE)"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "PHARMASCIENCE INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "NIFEDIPINE"
+  ]
+}

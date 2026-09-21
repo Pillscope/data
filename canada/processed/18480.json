@@ -1,0 +1,28 @@
+{
+  "drug_code": "18480",
+  "din": "02153432",
+  "brand_name": "ZINECARD",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "02-JUN-2009",
+  "active_ingredients": [
+    {
+      "name": "DEXRAZOXANE",
+      "strength": "250",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "POWDER FOR SOLUTION"
+  ],
+  "routes": [
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "PFIZER CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "DEXRAZOXANE"
+  ]
+}

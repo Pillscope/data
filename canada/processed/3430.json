@@ -1,0 +1,28 @@
+{
+  "drug_code": "3430",
+  "din": "00481823",
+  "brand_name": "ROCALTROL CAP 0.25MCG",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "30-SEP-2010",
+  "active_ingredients": [
+    {
+      "name": "CALCITRIOL",
+      "strength": "0.25",
+      "unit": "MCG"
+    }
+  ],
+  "forms": [
+    "CAPSULE"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "HOFFMANN-LA ROCHE LIMITED"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "CALCITRIOL"
+  ]
+}

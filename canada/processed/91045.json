@@ -1,0 +1,38 @@
+{
+  "drug_code": "91045",
+  "din": "02425815",
+  "brand_name": "REFRESH OPTIVE ADVANCED SENSITIVE",
+  "class": "Human",
+  "descriptor": "SINGLE-USE CONTAINER",
+  "last_update": "12-NOV-2014",
+  "active_ingredients": [
+    {
+      "name": "GLYCERINE",
+      "strength": "1.0",
+      "unit": "%"
+    },
+    {
+      "name": "SODIUM CARBOXYMETHYL CELLULOSE",
+      "strength": "0.5",
+      "unit": "%"
+    },
+    {
+      "name": "POLYSORBATE 80",
+      "strength": "0.5",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "EMULSION"
+  ],
+  "routes": [
+    "OPHTHALMIC"
+  ],
+  "companies": [
+    "ALLERGAN INC"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "ARTIFICIAL TEARS AND OTHER INDIFFERENT PREPARATIONS."
+  ]
+}

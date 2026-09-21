@@ -1,0 +1,28 @@
+{
+  "drug_code": "13340",
+  "din": "01976133",
+  "brand_name": "DOVONEX ONT 50MCG/GM",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "03-AUG-2012",
+  "active_ingredients": [
+    {
+      "name": "CALCIPOTRIOL",
+      "strength": "50",
+      "unit": "MCG"
+    }
+  ],
+  "forms": [
+    "OINTMENT"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "LEO PHARMA INC"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "CALCIPOTRIOL"
+  ]
+}

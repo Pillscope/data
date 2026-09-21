@@ -1,0 +1,31 @@
+{
+  "drug_code": "76244",
+  "din": "02276763",
+  "brand_name": "QUEST PLUS GEL",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "11-JUL-2016",
+  "active_ingredients": [
+    {
+      "name": "MOXIDECTIN",
+      "strength": "20",
+      "unit": "MG"
+    },
+    {
+      "name": "PRAZIQUANTEL",
+      "strength": "125",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "GEL"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "ZOETIS CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": []
+}

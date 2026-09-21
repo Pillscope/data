@@ -1,0 +1,31 @@
+{
+  "drug_code": "74890",
+  "din": "02263513",
+  "brand_name": "ADVANTAGE MULTI 18",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "28-NOV-2017",
+  "active_ingredients": [
+    {
+      "name": "MOXIDECTIN",
+      "strength": "8",
+      "unit": "MG"
+    },
+    {
+      "name": "IMIDACLOPRID",
+      "strength": "80",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "BAYER INC., ANIMAL HEALTH"
+  ],
+  "status": "APPROVED",
+  "atc": []
+}

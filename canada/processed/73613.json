@@ -1,0 +1,28 @@
+{
+  "drug_code": "73613",
+  "din": "02251175",
+  "brand_name": "RIVA-GABAPENTIN",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "04-APR-2004",
+  "active_ingredients": [
+    {
+      "name": "GABAPENTIN",
+      "strength": "300",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "CAPSULE"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "LABORATOIRE RIVA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "GABAPENTIN"
+  ]
+}

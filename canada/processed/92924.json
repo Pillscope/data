@@ -1,0 +1,28 @@
+{
+  "drug_code": "92924",
+  "din": "02444275",
+  "brand_name": "APO-NALTREXONE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "11-MAY-2016",
+  "active_ingredients": [
+    {
+      "name": "NALTREXONE HYDROCHLORIDE",
+      "strength": "50",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "APOTEX INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "NALTREXONE"
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "drug_code": "72190",
+  "din": "02247882",
+  "brand_name": "PROCTOL SUPPOSITORIES",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "01-FEB-2018",
+  "active_ingredients": [
+    {
+      "name": "DIBUCAINE HYDROCHLORIDE",
+      "strength": "5",
+      "unit": "MG"
+    },
+    {
+      "name": "ESCULIN",
+      "strength": "10",
+      "unit": "MG"
+    },
+    {
+      "name": "FRAMYCETIN SULFATE",
+      "strength": "10",
+      "unit": "MG"
+    },
+    {
+      "name": "HYDROCORTISONE",
+      "strength": "5",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SUPPOSITORY"
+  ],
+  "routes": [
+    "RECTAL"
+  ],
+  "companies": [
+    "ODAN LABORATORIES LTD"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "HYDROCORTISONE"
+  ]
+}

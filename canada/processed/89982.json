@@ -1,0 +1,28 @@
+{
+  "drug_code": "89982",
+  "din": "02415208",
+  "brand_name": "AURO-PANTOPRAZOLE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "18-APR-2016",
+  "active_ingredients": [
+    {
+      "name": "PANTOPRAZOLE (PANTOPRAZOLE SODIUM SESQUIHYDRATE)",
+      "strength": "40",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET (DELAYED-RELEASE)"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "AURO PHARMA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "PANTOPRAZOLE"
+  ]
+}

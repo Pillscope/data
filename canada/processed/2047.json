@@ -1,0 +1,186 @@
+{
+  "drug_code": "2047",
+  "din": "00319333",
+  "brand_name": "AMINO BOLUSES IMPROVED",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "26-FEB-2002",
+  "active_ingredients": [
+    {
+      "name": "LYSINE",
+      "strength": "700",
+      "unit": "MG"
+    },
+    {
+      "name": "ALANINE",
+      "strength": "440",
+      "unit": "MG"
+    },
+    {
+      "name": "CYSTINE",
+      "strength": "120",
+      "unit": "MG"
+    },
+    {
+      "name": "PROLINE",
+      "strength": "550",
+      "unit": "MG"
+    },
+    {
+      "name": "ZINC OXIDE",
+      "strength": "125",
+      "unit": "MG"
+    },
+    {
+      "name": "DL-METHIONINE",
+      "strength": "140",
+      "unit": "MG"
+    },
+    {
+      "name": "MANGANESE SULFATE",
+      "strength": "475",
+      "unit": "MG"
+    },
+    {
+      "name": "GLUTAMIC ACID",
+      "strength": "2.25",
+      "unit": "G"
+    },
+    {
+      "name": "COBALT SULFATE",
+      "strength": "10",
+      "unit": "MG"
+    },
+    {
+      "name": "THREONINE",
+      "strength": "375",
+      "unit": "MG"
+    },
+    {
+      "name": "TRYPTOPHAN",
+      "strength": "140",
+      "unit": "MG"
+    },
+    {
+      "name": "ARGININE",
+      "strength": "730",
+      "unit": "MG"
+    },
+    {
+      "name": "PHENYLALANINE",
+      "strength": "595",
+      "unit": "MG"
+    },
+    {
+      "name": "VALINE",
+      "strength": "535",
+      "unit": "MG"
+    },
+    {
+      "name": "PROTEIN HYDROLYSATES",
+      "strength": "12",
+      "unit": "G"
+    },
+    {
+      "name": "TYROSINE",
+      "strength": "410",
+      "unit": "MG"
+    },
+    {
+      "name": "VITAMIN A",
+      "strength": "50000",
+      "unit": "UNIT"
+    },
+    {
+      "name": "VITAMIN E",
+      "strength": "50",
+      "unit": "UNIT"
+    },
+    {
+      "name": "VITAMIN D",
+      "strength": "5000",
+      "unit": "UNIT"
+    },
+    {
+      "name": "FERROUS GLUCONATE",
+      "strength": "2",
+      "unit": "G"
+    },
+    {
+      "name": "SERINE",
+      "strength": "525",
+      "unit": "MG"
+    },
+    {
+      "name": "L-ASPARTIC ACID",
+      "strength": "1.3",
+      "unit": "G"
+    },
+    {
+      "name": "LEUCINE",
+      "strength": "930",
+      "unit": "MG"
+    },
+    {
+      "name": "CALCIUM PHOSPHATE (DIBASIC)",
+      "strength": "2",
+      "unit": "G"
+    },
+    {
+      "name": "POTASSIUM CHLORIDE",
+      "strength": "1",
+      "unit": "G"
+    },
+    {
+      "name": "DEXTROSE",
+      "strength": "2.5",
+      "unit": "G"
+    },
+    {
+      "name": "SODIUM CHLORIDE",
+      "strength": "2",
+      "unit": "G"
+    },
+    {
+      "name": "MAGNESIUM CARBONATE",
+      "strength": "750",
+      "unit": "MG"
+    },
+    {
+      "name": "GLYCINE",
+      "strength": "435",
+      "unit": "MG"
+    },
+    {
+      "name": "HISTIDINE",
+      "strength": "270",
+      "unit": "MG"
+    },
+    {
+      "name": "COPPER SULFATE",
+      "strength": "30",
+      "unit": "MG"
+    },
+    {
+      "name": "DRIED YEAST",
+      "strength": "3.5",
+      "unit": "G"
+    },
+    {
+      "name": "ISOLEUCINE",
+      "strength": "515",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "PROFESSIONAL VETERINARY LABORATORIES"
+  ],
+  "status": "MARKETED",
+  "atc": []
+}

@@ -1,0 +1,26 @@
+{
+  "drug_code": "126",
+  "din": "00097098",
+  "brand_name": "DEWORMER LIQ 12.4%",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "01-OCT-2010",
+  "active_ingredients": [
+    {
+      "name": "PIPERAZINE HYDROCHLORIDE",
+      "strength": "12.4",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "LIQUID"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "DOMINION VETERINARY LABORATORIES LTD."
+  ],
+  "status": "MARKETED",
+  "atc": []
+}

@@ -1,0 +1,28 @@
+{
+  "drug_code": "92275",
+  "din": "02438372",
+  "brand_name": "SYNAGIS",
+  "class": "Human",
+  "descriptor": "0.5ML SINGLE USE VIAL",
+  "last_update": "07-NOV-2016",
+  "active_ingredients": [
+    {
+      "name": "PALIVIZUMAB",
+      "strength": "50",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "INTRAMUSCULAR"
+  ],
+  "companies": [
+    "ABBVIE CORPORATION"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "PALIVIZUMAB"
+  ]
+}

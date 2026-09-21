@@ -1,0 +1,28 @@
+{
+  "drug_code": "40420",
+  "din": "00757713",
+  "brand_name": "PMS-CYPROHEPTADINE HCL TAB 4MG",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "10-MAY-2016",
+  "active_ingredients": [
+    {
+      "name": "CYPROHEPTADINE HYDROCHLORIDE",
+      "strength": "4",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "PHARMASCIENCE INC"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "CYPROHEPTADINE"
+  ]
+}

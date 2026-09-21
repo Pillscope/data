@@ -1,0 +1,28 @@
+{
+  "drug_code": "84194",
+  "din": "02356813",
+  "brand_name": "JAMP-METOPROLOL-L",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "26-OCT-2010",
+  "active_ingredients": [
+    {
+      "name": "METOPROLOL TARTRATE",
+      "strength": "25",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "JAMP PHARMA CORPORATION"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "METOPROLOL"
+  ]
+}

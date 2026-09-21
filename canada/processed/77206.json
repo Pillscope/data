@@ -1,0 +1,28 @@
+{
+  "drug_code": "77206",
+  "din": "02286610",
+  "brand_name": "APO-MIRTAZAPINE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "24-AUG-2011",
+  "active_ingredients": [
+    {
+      "name": "MIRTAZAPINE",
+      "strength": "15",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "APOTEX INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "MIRTAZAPINE"
+  ]
+}

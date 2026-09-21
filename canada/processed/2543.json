@@ -1,0 +1,26 @@
+{
+  "drug_code": "2543",
+  "din": "00386847",
+  "brand_name": "METHYLPREDNISOLONE ACETATE SUS 40MG/ML",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "25-SEP-2014",
+  "active_ingredients": [
+    {
+      "name": "METHYLPREDNISOLONE ACETATE",
+      "strength": "40",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SUSPENSION"
+  ],
+  "routes": [
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "PROFESSIONAL VETERINARY LABORATORIES"
+  ],
+  "status": "MARKETED",
+  "atc": []
+}

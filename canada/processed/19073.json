@@ -1,0 +1,28 @@
+{
+  "drug_code": "19073",
+  "din": "02177617",
+  "brand_name": "DOM-FLUOXETINE - CAP 10MG",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "13-OCT-2006",
+  "active_ingredients": [
+    {
+      "name": "FLUOXETINE (FLUOXETINE HYDROCHLORIDE)",
+      "strength": "10",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "CAPSULE"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "DOMINION PHARMACAL"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "FLUOXETINE"
+  ]
+}

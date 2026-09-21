@@ -1,0 +1,28 @@
+{
+  "drug_code": "85457",
+  "din": "02369656",
+  "brand_name": "ALLERNIX MULTI SYMPTOM",
+  "class": "Human",
+  "descriptor": "FILM-COATED",
+  "last_update": "29-APR-2015",
+  "active_ingredients": [
+    {
+      "name": "DESLORATADINE",
+      "strength": "5",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "TEVA CANADA LIMITED"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "DESLORATADINE"
+  ]
+}

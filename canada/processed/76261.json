@@ -1,0 +1,31 @@
+{
+  "drug_code": "76261",
+  "din": "02276933",
+  "brand_name": "ENDO-CALF BOLUS",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "09-AUG-2017",
+  "active_ingredients": [
+    {
+      "name": "ATTAPULGITE (ACTIVATED)",
+      "strength": "1.29",
+      "unit": "G"
+    },
+    {
+      "name": "ALUMINUM SILICATE, ANHYDROUS",
+      "strength": "0.05",
+      "unit": "G"
+    }
+  ],
+  "forms": [
+    "BOLUS"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "CAN-VET ANIMAL HEALTH SUPPLIES LTD."
+  ],
+  "status": "MARKETED",
+  "atc": []
+}

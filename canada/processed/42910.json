@@ -1,0 +1,28 @@
+{
+  "drug_code": "42910",
+  "din": "02188880",
+  "brand_name": "BREVIBLOC INJECTION 10MG/ML",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "24-FEB-2012",
+  "active_ingredients": [
+    {
+      "name": "ESMOLOL HYDROCHLORIDE",
+      "strength": "10",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "BAXTER CORPORATION"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "ESMOLOL"
+  ]
+}

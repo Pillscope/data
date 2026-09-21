@@ -1,0 +1,30 @@
+{
+  "drug_code": "77300",
+  "din": "02287617",
+  "brand_name": "MENU D\u00c3\u0089SINFECTANT, ASSAINISSEUR, D\u00c3\u0089SODORISANT, FONGICIDE ET VIRUCIDE/MENU DISINFECTANT, SANITIZER, DEODORIZER, FUNGICIDE AND VIRUCIDE",
+  "class": "Disinfectant",
+  "descriptor": "",
+  "last_update": "29-APR-2015",
+  "active_ingredients": [
+    {
+      "name": "BENZALKONIUM CHLORIDE",
+      "strength": "4.38",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "LIQUID"
+  ],
+  "routes": [
+    "DISINFECTANT (Food Premises)",
+    "DISINFECTANT (Hospital/HC Facilities)",
+    "DISINFECTANT (Domestic)"
+  ],
+  "companies": [
+    "GROUPE SAVON OLYMPIC INC."
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "TECHNICAL DISINFECTANTS"
+  ]
+}

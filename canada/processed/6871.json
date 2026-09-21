@@ -1,0 +1,28 @@
+{
+  "drug_code": "6871",
+  "din": "00636908",
+  "brand_name": "MORPHINE SULFATE INJECTION USP",
+  "class": "Human",
+  "descriptor": "SINGLE-USE, PRESERVATIVE-FREE",
+  "last_update": "31-OCT-2017",
+  "active_ingredients": [
+    {
+      "name": "MORPHINE SULFATE",
+      "strength": "1",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "ICU MEDICAL CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "MORPHINE"
+  ]
+}

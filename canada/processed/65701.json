@@ -1,0 +1,28 @@
+{
+  "drug_code": "65701",
+  "din": "02242030",
+  "brand_name": "QVAR",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "09-JUN-2014",
+  "active_ingredients": [
+    {
+      "name": "BECLOMETHASONE DIPROPIONATE",
+      "strength": "100",
+      "unit": "MCG"
+    }
+  ],
+  "forms": [
+    "METERED-DOSE AEROSOL"
+  ],
+  "routes": [
+    "INHALATION"
+  ],
+  "companies": [
+    "VALEANT CANADA LP/VALEANT CANADA S.E.C."
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "BECLOMETASONE"
+  ]
+}

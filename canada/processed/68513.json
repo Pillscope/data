@@ -1,0 +1,28 @@
+{
+  "drug_code": "68513",
+  "din": "02244533",
+  "brand_name": "MAXILENE 4",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "26-SEP-2005",
+  "active_ingredients": [
+    {
+      "name": "LIDOCAINE",
+      "strength": "4",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "CREAM"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "RGR PHARMA LTD."
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "LIDOCAINE"
+  ]
+}

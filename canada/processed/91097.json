@@ -1,0 +1,28 @@
+{
+  "drug_code": "91097",
+  "din": "02426382",
+  "brand_name": "BIO-CELECOXIB",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "02-JAN-2015",
+  "active_ingredients": [
+    {
+      "name": "CELECOXIB",
+      "strength": "100",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "CAPSULE"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "BIOMED PHARMA"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "CELECOXIB"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "drug_code": "61368",
+  "din": "02237992",
+  "brand_name": "CORTISOOTHE",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "26-MAY-2011",
+  "active_ingredients": [
+    {
+      "name": "HYDROCORTISONE",
+      "strength": "10",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SHAMPOO"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "VIRBAC AH INC"
+  ],
+  "status": "APPROVED",
+  "atc": []
+}

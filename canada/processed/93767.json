@@ -1,0 +1,28 @@
+{
+  "drug_code": "93767",
+  "din": "02451425",
+  "brand_name": "NOXIVENT",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "11-JAN-2018",
+  "active_ingredients": [
+    {
+      "name": "NITRIC OXIDE",
+      "strength": "800",
+      "unit": "PPM"
+    }
+  ],
+  "forms": [
+    "GAS"
+  ],
+  "routes": [
+    "INHALATION"
+  ],
+  "companies": [
+    "PRAXAIR CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "NITRIC OXIDE"
+  ]
+}

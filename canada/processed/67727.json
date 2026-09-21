@@ -1,0 +1,35 @@
+{
+  "drug_code": "67727",
+  "din": "02243789",
+  "brand_name": "RATIO-IPRA SAL UDV",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "24-AUG-2015",
+  "active_ingredients": [
+    {
+      "name": "SALBUTAMOL (SALBUTAMOL SULFATE)",
+      "strength": "2.5",
+      "unit": "MG"
+    },
+    {
+      "name": "IPRATROPIUM BROMIDE",
+      "strength": "0.5",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "INHALATION"
+  ],
+  "companies": [
+    "TEVA CANADA LIMITED"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "SALBUTAMOL AND IPRATROPIUM BROMIDE",
+    "SALBUTAMOL AND IPRATROPIUM BROMIDE",
+    "SALBUTAMOL AND IPRATROPIUM BROMIDE"
+  ]
+}

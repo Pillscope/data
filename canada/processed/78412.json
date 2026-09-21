@@ -1,0 +1,34 @@
+{
+  "drug_code": "78412",
+  "din": "02298813",
+  "brand_name": "EMEND TRI-PACK",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "13-JUL-2016",
+  "active_ingredients": [
+    {
+      "name": "APREPITANT",
+      "strength": "125",
+      "unit": "MG"
+    },
+    {
+      "name": "APREPITANT",
+      "strength": "80",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "KIT",
+    "CAPSULE"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "MERCK CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "APREPITANT"
+  ]
+}

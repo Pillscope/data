@@ -1,0 +1,29 @@
+{
+  "drug_code": "50269",
+  "din": "02230988",
+  "brand_name": "CEREBYX",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "14-MAY-2007",
+  "active_ingredients": [
+    {
+      "name": "FOSPHENYTOIN SODIUM",
+      "strength": "75",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "LIQUID"
+  ],
+  "routes": [
+    "INTRAMUSCULAR",
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "ERFA CANADA 2012 INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "FOSPHENYTOIN"
+  ]
+}

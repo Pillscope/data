@@ -1,0 +1,28 @@
+{
+  "drug_code": "10954",
+  "din": "00891835",
+  "brand_name": "DIFLUCAN INJ 2MG/ML",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "15-DEC-2016",
+  "active_ingredients": [
+    {
+      "name": "FLUCONAZOLE",
+      "strength": "2",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "PFIZER CANADA INC"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "FLUCONAZOLE"
+  ]
+}

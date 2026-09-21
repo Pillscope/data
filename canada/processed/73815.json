@@ -1,0 +1,33 @@
+{
+  "drug_code": "73815",
+  "din": "02253186",
+  "brand_name": "NUVARING",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "23-JAN-2013",
+  "active_ingredients": [
+    {
+      "name": "ETONOGESTREL",
+      "strength": "11.4",
+      "unit": "MG"
+    },
+    {
+      "name": "ETHINYL ESTRADIOL",
+      "strength": "2.6",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "RING (SLOW-RELEASE)"
+  ],
+  "routes": [
+    "VAGINAL"
+  ],
+  "companies": [
+    "MERCK CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "VAGINAL RING WITH PROGESTOGEN AND ESTROGEN"
+  ]
+}

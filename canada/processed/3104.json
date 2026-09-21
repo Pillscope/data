@@ -1,0 +1,36 @@
+{
+  "drug_code": "3104",
+  "din": "00453730",
+  "brand_name": "CACO IRON COPPER SOLUTION INJ",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "20-JUL-2004",
+  "active_ingredients": [
+    {
+      "name": "FERRIC CHLORIDE",
+      "strength": "5.655",
+      "unit": "MG"
+    },
+    {
+      "name": "SODIUM CACODYLATE",
+      "strength": "32.5",
+      "unit": "MG"
+    },
+    {
+      "name": "COPPER GLUCONATE",
+      "strength": ".975",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "DOMINION VETERINARY LABORATORIES LTD."
+  ],
+  "status": "MARKETED",
+  "atc": []
+}

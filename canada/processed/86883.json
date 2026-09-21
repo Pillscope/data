@@ -1,0 +1,28 @@
+{
+  "drug_code": "86883",
+  "din": "02383047",
+  "brand_name": "MYLAN-ESOMEPRAZOLE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "15-NOV-2017",
+  "active_ingredients": [
+    {
+      "name": "ESOMEPRAZOLE (ESOMEPRAZOLE MAGNESIUM TRIHYDRATE)",
+      "strength": "40",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET (DELAYED-RELEASE)"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "MYLAN PHARMACEUTICALS ULC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "ESOMEPRAZOLE"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "drug_code": "88019",
+  "din": "02395045",
+  "brand_name": "LIQUID NITROGEN",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "15-JUN-2017",
+  "active_ingredients": [
+    {
+      "name": "NITROGEN",
+      "strength": "99.5",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "LIQUID"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "NORTHSIDE DEVELOPMENT CORPORATION"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "NITROGEN"
+  ]
+}

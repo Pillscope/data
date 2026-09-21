@@ -1,0 +1,28 @@
+{
+  "drug_code": "75176",
+  "din": "02266342",
+  "brand_name": "FLUMAZENIL INJECTION",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "16-SEP-2016",
+  "active_ingredients": [
+    {
+      "name": "FLUMAZENIL",
+      "strength": "0.1",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "FRESENIUS KABI CANADA LTD"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "FLUMAZENIL"
+  ]
+}

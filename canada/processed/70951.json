@@ -1,0 +1,28 @@
+{
+  "drug_code": "70951",
+  "din": "02246752",
+  "brand_name": "ANTIBACTERIAL",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "17-JUN-2008",
+  "active_ingredients": [
+    {
+      "name": "CHLOROXYLENOL",
+      "strength": "0.5",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "LIQUID"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "ABC COMPOUNDING CO. INC."
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "CHLOROXYLENOL"
+  ]
+}

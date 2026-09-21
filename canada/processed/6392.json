@@ -1,0 +1,28 @@
+{
+  "drug_code": "6392",
+  "din": "00587354",
+  "brand_name": "PDP-PROCYCLIDINE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "24-APR-2015",
+  "active_ingredients": [
+    {
+      "name": "PROCYCLIDINE HYDROCHLORIDE",
+      "strength": "5",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "PENDOPHARM DIVISION OF DE PHARMASCIENCE INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "PROCYCLIDINE"
+  ]
+}

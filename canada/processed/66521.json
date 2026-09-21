@@ -1,0 +1,28 @@
+{
+  "drug_code": "66521",
+  "din": "02242715",
+  "brand_name": "ALLERGY CANADA ALLERGEN EXTRACT - ALUM PRECIPITATED",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "17-MAY-2001",
+  "active_ingredients": [
+    {
+      "name": "ALLERGEN EXTRACT - ALUM PRECIPITATED",
+      "strength": "100",
+      "unit": "UNIT"
+    }
+  ],
+  "forms": [
+    "LIQUID"
+  ],
+  "routes": [
+    "SUBCUTANEOUS"
+  ],
+  "companies": [
+    "ALLERGY CANADA LTD"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "GRASS POLLEN"
+  ]
+}

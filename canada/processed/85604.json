@@ -1,0 +1,28 @@
+{
+  "drug_code": "85604",
+  "din": "02370840",
+  "brand_name": "CATHEJELL",
+  "class": "Human",
+  "descriptor": "PRESERVATIVE-FREE. 12.5G SINGLE-USE SYRINGE WITH APPLICATOR.",
+  "last_update": "09-NOV-2016",
+  "active_ingredients": [
+    {
+      "name": "LIDOCAINE HYDROCHLORIDE",
+      "strength": "20",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "GEL"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "PHARMAZEUTISCHE FABRIK MONTAVIT GES M.B.H."
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "LIDOCAINE"
+  ]
+}

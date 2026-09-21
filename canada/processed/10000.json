@@ -1,0 +1,26 @@
+{
+  "drug_code": "10000",
+  "din": "00813761",
+  "brand_name": "LINCOMIX",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "08-FEB-2018",
+  "active_ingredients": [
+    {
+      "name": "LINCOMYCIN (LINCOMYCIN HYDROCHLORIDE)",
+      "strength": "400",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "POWDER FOR SOLUTION"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "ZOETIS CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": []
+}

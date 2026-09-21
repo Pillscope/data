@@ -1,0 +1,29 @@
+{
+  "drug_code": "72997",
+  "din": "02248640",
+  "brand_name": "OCTREOTIDE ACETATE OMEGA 100MCG/ML",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "13-APR-2006",
+  "active_ingredients": [
+    {
+      "name": "OCTREOTIDE (OCTREOTIDE ACETATE)",
+      "strength": "100",
+      "unit": "MCG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "INTRAVENOUS",
+    "SUBCUTANEOUS"
+  ],
+  "companies": [
+    "OMEGA LABORATORIES LTD"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "OCTREOTIDE"
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "drug_code": "10971",
+  "din": "00778915",
+  "brand_name": "TOBRADEX",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "27-APR-2017",
+  "active_ingredients": [
+    {
+      "name": "DEXAMETHASONE",
+      "strength": "0.1",
+      "unit": "%"
+    },
+    {
+      "name": "TOBRAMYCIN",
+      "strength": "0.3",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "OINTMENT"
+  ],
+  "routes": [
+    "OPHTHALMIC"
+  ],
+  "companies": [
+    "NOVARTIS PHARMACEUTICALS CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "DEXAMETHASONE AND ANTIINFECTIVES",
+    "DEXAMETHASONE AND ANTIINFECTIVES"
+  ]
+}

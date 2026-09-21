@@ -1,0 +1,28 @@
+{
+  "drug_code": "86480",
+  "din": "02378930",
+  "brand_name": "MYLAN-ATOMOXETINE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "02-MAR-2012",
+  "active_ingredients": [
+    {
+      "name": "ATOMOXETINE (ATOMOXETINE HYDROCHLORIDE)",
+      "strength": "18",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "CAPSULE"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "MYLAN PHARMACEUTICALS ULC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "ATOMOXETINE"
+  ]
+}

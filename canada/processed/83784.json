@@ -1,0 +1,28 @@
+{
+  "drug_code": "83784",
+  "din": "02352583",
+  "brand_name": "APO-RILUZOLE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "28-SEP-2012",
+  "active_ingredients": [
+    {
+      "name": "RILUZOLE",
+      "strength": "50",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "APOTEX INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "RILUZOLE"
+  ]
+}

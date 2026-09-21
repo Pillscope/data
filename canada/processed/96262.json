@@ -1,0 +1,28 @@
+{
+  "drug_code": "96262",
+  "din": "02473232",
+  "brand_name": "FASENRA",
+  "class": "Human",
+  "descriptor": "SINGLE-DOSE, PREFILLED SYRINGE",
+  "last_update": "24-APR-2018",
+  "active_ingredients": [
+    {
+      "name": "BENRALIZUMAB",
+      "strength": "30",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "SUBCUTANEOUS"
+  ],
+  "companies": [
+    "ASTRAZENECA CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "BENRALIZUMAB"
+  ]
+}

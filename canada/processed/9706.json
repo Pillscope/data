@@ -1,0 +1,26 @@
+{
+  "drug_code": "9706",
+  "din": "00713481",
+  "brand_name": "TYLOSIN 10 PREMIX",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "12-JAN-2018",
+  "active_ingredients": [
+    {
+      "name": "TYLOSIN (TYLOSIN PHOSPHATE)",
+      "strength": "22",
+      "unit": "G"
+    }
+  ],
+  "forms": [
+    "DRUG PREMIX"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "BIO AGRI MIX LP"
+  ],
+  "status": "APPROVED",
+  "atc": []
+}

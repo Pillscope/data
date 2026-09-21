@@ -1,0 +1,28 @@
+{
+  "drug_code": "89827",
+  "din": "02413620",
+  "brand_name": "BACLOFEN INJECTION",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "31-JAN-2018",
+  "active_ingredients": [
+    {
+      "name": "BACLOFEN",
+      "strength": "0.05",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "INTRATHECAL"
+  ],
+  "companies": [
+    "STERIMAX INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "BACLOFEN"
+  ]
+}

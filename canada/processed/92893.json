@@ -1,0 +1,43 @@
+{
+  "drug_code": "92893",
+  "din": "02444100",
+  "brand_name": "ANTICOAGULANT SOLUTION CITRATE PHOSPHATE DEXTROSE (CPD)",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "16-SEP-2016",
+  "active_ingredients": [
+    {
+      "name": "DEXTROSE",
+      "strength": "25.5",
+      "unit": "G"
+    },
+    {
+      "name": "SODIUM PHOSPHATE MONOBASIC",
+      "strength": "2.51",
+      "unit": "G"
+    },
+    {
+      "name": "SODIUM CITRATE DIHYDRATE",
+      "strength": "26.3",
+      "unit": "G"
+    },
+    {
+      "name": "CITRIC ACID",
+      "strength": "3.27",
+      "unit": "G"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "0-UNASSIGNED"
+  ],
+  "companies": [
+    "MACO PHARMA"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "BLOOD TRANSFUSION, AUXILIARY PRODUCTS"
+  ]
+}

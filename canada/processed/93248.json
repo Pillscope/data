@@ -1,0 +1,33 @@
+{
+  "drug_code": "93248",
+  "din": "02446901",
+  "brand_name": "ZERBAXA",
+  "class": "Human",
+  "descriptor": "SINGLE USE VIALS",
+  "last_update": "03-APR-2017",
+  "active_ingredients": [
+    {
+      "name": "TAZOBACTAM (TAZOBACTAM SODIUM)",
+      "strength": "0.5",
+      "unit": "G"
+    },
+    {
+      "name": "CEFTOLOZANE (CEFTOLOZANE SULFATE)",
+      "strength": "1",
+      "unit": "G"
+    }
+  ],
+  "forms": [
+    "POWDER FOR SOLUTION"
+  ],
+  "routes": [
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "MERCK CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "CEFTOLOZANE AND BETA-LACTAMASE INHIBITOR"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "drug_code": "37283",
+  "din": "02221616",
+  "brand_name": "SODIUM BICARBONATE USP FOR HEMODIALYSIS D12276",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "09-OCT-2002",
+  "active_ingredients": [
+    {
+      "name": "SODIUM BICARBONATE",
+      "strength": "650",
+      "unit": "G"
+    }
+  ],
+  "forms": [
+    "POWDER"
+  ],
+  "routes": [
+    "DIALYSIS"
+  ],
+  "companies": [
+    "BAXTER CORPORATION"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "HEMODIALYTICS, CONCENTRATES"
+  ]
+}

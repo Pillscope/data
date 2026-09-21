@@ -1,0 +1,28 @@
+{
+  "drug_code": "87736",
+  "din": "02392070",
+  "brand_name": "LYSOL ADVANCED TOILET BOWL CLEANER",
+  "class": "Disinfectant",
+  "descriptor": "",
+  "last_update": "18-AUG-2014",
+  "active_ingredients": [
+    {
+      "name": "HYDROCHLORIC ACID",
+      "strength": "12",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "LIQUID"
+  ],
+  "routes": [
+    "DISINFECTANT (Domestic)"
+  ],
+  "companies": [
+    "RECKITT BENCKISER (CANADA) INC"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "TECHNICAL DISINFECTANTS"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "drug_code": "89967",
+  "din": "02415054",
+  "brand_name": "PURELAX",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "11-AUG-2014",
+  "active_ingredients": [
+    {
+      "name": "POLYETHYLENE GLYCOL 3350",
+      "strength": "100",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "POWDER FOR SOLUTION"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "PERRIGO INTERNATIONAL"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "MACROGOL"
+  ]
+}

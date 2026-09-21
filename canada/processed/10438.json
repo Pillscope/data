@@ -1,0 +1,34 @@
+{
+  "drug_code": "10438",
+  "din": "00060704",
+  "brand_name": "DEXTROSE 5% AND 0.2% SOD CHLORIDE INJ",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "22-JUN-2006",
+  "active_ingredients": [
+    {
+      "name": "SODIUM CHLORIDE",
+      "strength": "200",
+      "unit": "MG"
+    },
+    {
+      "name": "DEXTROSE",
+      "strength": "5",
+      "unit": "G"
+    }
+  ],
+  "forms": [
+    "LIQUID"
+  ],
+  "routes": [
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "BAXTER CORPORATION"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "ELECTROLYTES WITH CARBOHYDRATES",
+    "ELECTROLYTES WITH CARBOHYDRATES"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "drug_code": "19443",
+  "din": "02139537",
+  "brand_name": "PROTAMINE SULFATE INJECTION, USP",
+  "class": "Human",
+  "descriptor": "SINGLE-DOSE VIAL",
+  "last_update": "09-JUN-2016",
+  "active_ingredients": [
+    {
+      "name": "PROTAMINE SULFATE",
+      "strength": "10",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "FRESENIUS KABI CANADA LTD"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "PROTAMINE"
+  ]
+}

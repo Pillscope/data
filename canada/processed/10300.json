@@ -1,0 +1,37 @@
+{
+  "drug_code": "10300",
+  "din": "00755753",
+  "brand_name": "SUROLAN",
+  "class": "Veterinary",
+  "descriptor": "DROPS",
+  "last_update": "02-FEB-2018",
+  "active_ingredients": [
+    {
+      "name": "PREDNISOLONE ACETATE",
+      "strength": "5",
+      "unit": "MG"
+    },
+    {
+      "name": "POLYMYXIN B SULFATE",
+      "strength": "0.5293",
+      "unit": "MG"
+    },
+    {
+      "name": "MICONAZOLE NITRATE",
+      "strength": "23",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SUSPENSION"
+  ],
+  "routes": [
+    "OTIC",
+    "TOPICAL"
+  ],
+  "companies": [
+    "ELANCO CANADA LIMITED"
+  ],
+  "status": "APPROVED",
+  "atc": []
+}

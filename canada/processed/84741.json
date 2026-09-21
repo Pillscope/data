@@ -1,0 +1,28 @@
+{
+  "drug_code": "84741",
+  "din": "02362406",
+  "brand_name": "APO-TAMSULOSIN CR",
+  "class": "Human",
+  "descriptor": "CONTROLLED-RELEASE TABLET",
+  "last_update": "04-DEC-2013",
+  "active_ingredients": [
+    {
+      "name": "TAMSULOSIN HYDROCHLORIDE",
+      "strength": "0.4",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET (EXTENDED-RELEASE)"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "APOTEX INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "TAMSULOSIN"
+  ]
+}

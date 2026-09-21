@@ -1,0 +1,34 @@
+{
+  "drug_code": "88269",
+  "din": "02397765",
+  "brand_name": "EDARBYCLOR",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "03-OCT-2016",
+  "active_ingredients": [
+    {
+      "name": "CHLORTHALIDONE",
+      "strength": "25",
+      "unit": "MG"
+    },
+    {
+      "name": "Azilsartan Medoxomil (Azilsartan Medoxomil Potassium)",
+      "strength": "40",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "VALEANT CANADA LP/VALEANT CANADA S.E.C."
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "AZILSARTANT MEDOXIMIL AND DIURETICS",
+    "AZILSARTANT MEDOXIMIL AND DIURETICS"
+  ]
+}

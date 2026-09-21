@@ -1,0 +1,28 @@
+{
+  "drug_code": "88748",
+  "din": "02402637",
+  "brand_name": "LINEZOLID INJECTION",
+  "class": "Human",
+  "descriptor": "300ML SINGLE-DOSE CONTAINER",
+  "last_update": "21-AUG-2015",
+  "active_ingredients": [
+    {
+      "name": "LINEZOLID",
+      "strength": "2",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "TEVA CANADA LIMITED"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "LINEZOLID"
+  ]
+}

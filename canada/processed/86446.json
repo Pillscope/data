@@ -1,0 +1,39 @@
+{
+  "drug_code": "86446",
+  "din": "02378655",
+  "brand_name": "NIGHTTIME COLD AND FLU RELIEF",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "13-AUG-2013",
+  "active_ingredients": [
+    {
+      "name": "DOXYLAMINE SUCCINATE",
+      "strength": "12.5",
+      "unit": "MG"
+    },
+    {
+      "name": "ACETAMINOPHEN",
+      "strength": "650",
+      "unit": "MG"
+    },
+    {
+      "name": "DEXTROMETHORPHAN HYDROBROMIDE",
+      "strength": "30",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "PERRIGO INTERNATIONAL"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "ACETAMINOPHEN, COMB EXCL PSYCHOLEPTICS",
+    "ACETAMINOPHEN, COMB EXCL PSYCHOLEPTICS"
+  ]
+}

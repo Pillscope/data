@@ -1,0 +1,28 @@
+{
+  "drug_code": "11421",
+  "din": "00894745",
+  "brand_name": "CLOZARIL",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "28-JUN-2016",
+  "active_ingredients": [
+    {
+      "name": "CLOZAPINE",
+      "strength": "100",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "HLS THERAPEUTICS INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "CLOZAPINE"
+  ]
+}

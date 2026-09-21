@@ -1,0 +1,28 @@
+{
+  "drug_code": "93459",
+  "din": "02448866",
+  "brand_name": "SOFT CARE DEFEND FOAM",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "28-FEB-2017",
+  "active_ingredients": [
+    {
+      "name": "CHLOROXYLENOL",
+      "strength": "1",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "LIQUID"
+  ],
+  "routes": [
+    "TOPICAL (COMMERCIAL)"
+  ],
+  "companies": [
+    "DIVERSEY INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "CHLOROXYLENOL"
+  ]
+}

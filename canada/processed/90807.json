@@ -1,0 +1,33 @@
+{
+  "drug_code": "90807",
+  "din": "02423340",
+  "brand_name": "DIAPER RASH CREAM",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "18-DEC-2014",
+  "active_ingredients": [
+    {
+      "name": "ZINC OXIDE",
+      "strength": "15",
+      "unit": "%"
+    },
+    {
+      "name": "PETROLATUM",
+      "strength": "80.3",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "CREAM"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "BELVEDERE INTERNATIONAL INC."
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "ZINC PRODUCTS"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "drug_code": "60218",
+  "din": "02236926",
+  "brand_name": "ACYCLOVIR SODIUM INJECTION",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "14-OCT-2015",
+  "active_ingredients": [
+    {
+      "name": "ACYCLOVIR (ACYCLOVIR SODIUM)",
+      "strength": "50",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "FRESENIUS KABI CANADA LTD"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "ACYCLOVIR"
+  ]
+}

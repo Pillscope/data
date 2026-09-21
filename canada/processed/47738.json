@@ -1,0 +1,28 @@
+{
+  "drug_code": "47738",
+  "din": "02229682",
+  "brand_name": "SUCRETS FOR KIDS",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "29-APR-2015",
+  "active_ingredients": [
+    {
+      "name": "DYCLONINE HYDROCHLORIDE",
+      "strength": "1.2",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "LOZENGE"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "INSIGHT PHARMACEUTICALS LLC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "DYCLONINE"
+  ]
+}

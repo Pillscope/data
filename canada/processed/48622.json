@@ -1,0 +1,28 @@
+{
+  "drug_code": "48622",
+  "din": "02230090",
+  "brand_name": "PENTOXIFYLLINE SR",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "27-SEP-2013",
+  "active_ingredients": [
+    {
+      "name": "PENTOXIFYLLINE",
+      "strength": "400",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET (EXTENDED-RELEASE)"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "AA PHARMA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "PENTOXIFYLLINE"
+  ]
+}

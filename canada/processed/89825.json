@@ -1,0 +1,28 @@
+{
+  "drug_code": "89825",
+  "din": "02413604",
+  "brand_name": "CARBAMAZEPINE CR",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "21-JAN-2014",
+  "active_ingredients": [
+    {
+      "name": "CARBAMAZEPINE",
+      "strength": "400",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET (EXTENDED-RELEASE)"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "PRO DOC LIMITEE"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "CARBAMAZEPINE"
+  ]
+}

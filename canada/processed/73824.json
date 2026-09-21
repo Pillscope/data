@@ -1,0 +1,28 @@
+{
+  "drug_code": "73824",
+  "din": "02253275",
+  "brand_name": "GLEEVEC",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "27-OCT-2006",
+  "active_ingredients": [
+    {
+      "name": "IMATINIB (IMATINIB MESYLATE)",
+      "strength": "100",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "NOVARTIS PHARMACEUTICALS CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "IMATINIB"
+  ]
+}

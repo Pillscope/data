@@ -1,0 +1,26 @@
+{
+  "drug_code": "62055",
+  "din": "02238627",
+  "brand_name": "BLOAT EZE",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "28-JUN-2000",
+  "active_ingredients": [
+    {
+      "name": "DOCUSATE SODIUM",
+      "strength": "2.11",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "LIQUID"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "DOMINION VETERINARY LABORATORIES LTD."
+  ],
+  "status": "MARKETED",
+  "atc": []
+}

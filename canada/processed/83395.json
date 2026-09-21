@@ -1,0 +1,28 @@
+{
+  "drug_code": "83395",
+  "din": "02348608",
+  "brand_name": "SLEEP-EZE",
+  "class": "Human",
+  "descriptor": "DISSOLVING TABLETS",
+  "last_update": "09-JUL-2012",
+  "active_ingredients": [
+    {
+      "name": "DIPHENHYDRAMINE HYDROCHLORIDE",
+      "strength": "25",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "PRESTIGE BRANDS INC"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "DIPHENHYDRAMINE"
+  ]
+}

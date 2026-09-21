@@ -1,0 +1,28 @@
+{
+  "drug_code": "14413",
+  "din": "00402516",
+  "brand_name": "DDAVP RHINYLE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "26-JUN-2008",
+  "active_ingredients": [
+    {
+      "name": "DESMOPRESSIN ACETATE",
+      "strength": "0.1",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "NASAL"
+  ],
+  "companies": [
+    "FERRING INC"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "DESMOPRESSIN"
+  ]
+}

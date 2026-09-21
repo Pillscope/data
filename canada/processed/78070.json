@@ -1,0 +1,28 @@
+{
+  "drug_code": "78070",
+  "din": "02295393",
+  "brand_name": "APO-GLIMEPIRIDE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "08-NOV-2007",
+  "active_ingredients": [
+    {
+      "name": "GLIMEPIRIDE",
+      "strength": "4",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "APOTEX INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "GLIMEPIRIDE"
+  ]
+}

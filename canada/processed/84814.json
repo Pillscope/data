@@ -1,0 +1,28 @@
+{
+  "drug_code": "84814",
+  "din": "02363127",
+  "brand_name": "ENTERIC COATED DAILY LOW DOSE ASA 81MG",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "14-FEB-2017",
+  "active_ingredients": [
+    {
+      "name": "ACETYLSALICYLIC ACID",
+      "strength": "81",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET (DELAYED-RELEASE)"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "VITA HEALTH PRODUCTS INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "ACETYLSALICYLIC ACID"
+  ]
+}

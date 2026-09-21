@@ -1,0 +1,38 @@
+{
+  "drug_code": "92341",
+  "din": "02439042",
+  "brand_name": "TACHOSIL",
+  "class": "Human",
+  "descriptor": "9.5 CM X 4.8 CM",
+  "last_update": "11-JAN-2017",
+  "active_ingredients": [
+    {
+      "name": "THROMBIN (HUMAN)",
+      "strength": "2",
+      "unit": "UNIT"
+    },
+    {
+      "name": "COLLAGEN",
+      "strength": "2.1",
+      "unit": "MG"
+    },
+    {
+      "name": "FIBRINOGEN (HUMAN)",
+      "strength": "5.5",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "PATCH"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "TAKEDA CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "COMBINATIONS"
+  ]
+}

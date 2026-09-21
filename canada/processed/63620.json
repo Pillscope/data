@@ -1,0 +1,33 @@
+{
+  "drug_code": "63620",
+  "din": "02240105",
+  "brand_name": "AVEENO ANTI-ITCH LOTION",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "09-MAY-2004",
+  "active_ingredients": [
+    {
+      "name": "CALAMINE",
+      "strength": "3.0",
+      "unit": "%"
+    },
+    {
+      "name": "PRAMOXINE HYDROCHLORIDE",
+      "strength": "1.0",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "LOTION"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "JOHNSON & JOHNSON INC"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "PRAMOCAINE"
+  ]
+}

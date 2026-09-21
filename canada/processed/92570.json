@@ -1,0 +1,28 @@
+{
+  "drug_code": "92570",
+  "din": "02441306",
+  "brand_name": "JENCYCLA",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "24-NOV-2017",
+  "active_ingredients": [
+    {
+      "name": "NORETHINDRONE",
+      "strength": "0.35",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "LUPIN PHARMA CANADA LIMITED"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "NORETHISTERONE"
+  ]
+}

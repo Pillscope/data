@@ -1,0 +1,28 @@
+{
+  "drug_code": "899",
+  "din": "00131237",
+  "brand_name": "CONRAY 60",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "29-JAN-2018",
+  "active_ingredients": [
+    {
+      "name": "IOTHALAMATE MEGLUMINE",
+      "strength": "600",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "INTRAVASCULAR"
+  ],
+  "companies": [
+    "LIEBEL-FLARSHEIM CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "IOTALAMIC ACID"
+  ]
+}

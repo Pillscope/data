@@ -1,0 +1,28 @@
+{
+  "drug_code": "69014",
+  "din": "02245015",
+  "brand_name": "MYOCET",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "15-MAR-2017",
+  "active_ingredients": [
+    {
+      "name": "DOXORUBICIN HYDROCHLORIDE",
+      "strength": "2",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "LIPOSOMES"
+  ],
+  "routes": [
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "SOPHERION THERAPEUTICS LLC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "DOXORUBICIN"
+  ]
+}

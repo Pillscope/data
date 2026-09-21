@@ -1,0 +1,28 @@
+{
+  "drug_code": "6131",
+  "din": "00621935",
+  "brand_name": "STATEX DROPS 20MG/ML",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "30-NOV-2010",
+  "active_ingredients": [
+    {
+      "name": "MORPHINE SULFATE",
+      "strength": "20",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "DROPS"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "PALADIN LABS INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "MORPHINE"
+  ]
+}

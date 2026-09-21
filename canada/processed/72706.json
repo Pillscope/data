@@ -1,0 +1,34 @@
+{
+  "drug_code": "72706",
+  "din": "02248361",
+  "brand_name": "VIVAXIM",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "03-NOV-2008",
+  "active_ingredients": [
+    {
+      "name": "HEPATITIS A VACCINE, INACTIVATED",
+      "strength": "160",
+      "unit": "UNIT"
+    },
+    {
+      "name": "SALMONELLA TYPHI VI CAPSULAR POLYSACCHARIDE VACCINE",
+      "strength": "25",
+      "unit": "MCG"
+    }
+  ],
+  "forms": [
+    "SOLUTION",
+    "SUSPENSION"
+  ],
+  "routes": [
+    "INTRAMUSCULAR"
+  ],
+  "companies": [
+    "SANOFI PASTEUR LIMITED"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "TYPHOID-HEPATITIS A"
+  ]
+}

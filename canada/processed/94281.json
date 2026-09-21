@@ -1,0 +1,28 @@
+{
+  "drug_code": "94281",
+  "din": "02455943",
+  "brand_name": "INVEGA TRINZA",
+  "class": "Human",
+  "descriptor": "PRE-FILLED SYRINGE",
+  "last_update": "04-AUG-2016",
+  "active_ingredients": [
+    {
+      "name": "PALIPERIDONE (Paliperidone Palmitate)",
+      "strength": "175",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SUSPENSION (EXTENDED-RELEASE)"
+  ],
+  "routes": [
+    "INTRAMUSCULAR"
+  ],
+  "companies": [
+    "JANSSEN INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "PALIPERIDONE"
+  ]
+}

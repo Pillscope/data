@@ -1,0 +1,28 @@
+{
+  "drug_code": "63320",
+  "din": "02239833",
+  "brand_name": "LUPRON DEPOT",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "24-APR-2014",
+  "active_ingredients": [
+    {
+      "name": "LEUPROLIDE ACETATE",
+      "strength": "30",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "POWDER FOR SUSPENSION, SUSTAINED-RELEASE"
+  ],
+  "routes": [
+    "INTRAMUSCULAR"
+  ],
+  "companies": [
+    "ABBVIE CORPORATION"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "LEUPRORELIN"
+  ]
+}

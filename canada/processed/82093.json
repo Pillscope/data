@@ -1,0 +1,34 @@
+{
+  "drug_code": "82093",
+  "din": "02335344",
+  "brand_name": "CID 2000",
+  "class": "Disinfectant",
+  "descriptor": "",
+  "last_update": "07-DEC-2017",
+  "active_ingredients": [
+    {
+      "name": "HYDROGEN PEROXIDE",
+      "strength": "20.0",
+      "unit": "%"
+    },
+    {
+      "name": "PERACETIC ACID",
+      "strength": "5.0",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "DISINFECTANT (Barn)",
+    "DISINFECTANT (Food Premises)"
+  ],
+  "companies": [
+    "CID LINES"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "TECHNICAL DISINFECTANTS"
+  ]
+}

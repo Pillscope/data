@@ -1,0 +1,28 @@
+{
+  "drug_code": "85687",
+  "din": "02371731",
+  "brand_name": "MAR-ONDANSETRON",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "16-JAN-2013",
+  "active_ingredients": [
+    {
+      "name": "ONDANSETRON (ONDANSETRON HYDROCHLORIDE)",
+      "strength": "4",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "MARCAN PHARMACEUTICALS INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "ONDANSETRON"
+  ]
+}

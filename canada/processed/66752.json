@@ -1,0 +1,39 @@
+{
+  "drug_code": "66752",
+  "din": "02242918",
+  "brand_name": "FUMALYSE II",
+  "class": "Disinfectant",
+  "descriptor": "",
+  "last_update": "27-NOV-2012",
+  "active_ingredients": [
+    {
+      "name": "FORMALDEHYDE",
+      "strength": "2.02",
+      "unit": "%"
+    },
+    {
+      "name": "TRIS HYDROXYMETHYL NITROMETHANE",
+      "strength": "19.2",
+      "unit": "%"
+    },
+    {
+      "name": "BENZALKONIUM CHLORIDE",
+      "strength": "2.29",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "LIQUID"
+  ],
+  "routes": [
+    "DISINFECTANT (Food Premises)",
+    "DISINFECTANT (Hospital/HC Facilities)"
+  ],
+  "companies": [
+    "BIO AGRI MIX LP"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "TECHNICAL DISINFECTANTS"
+  ]
+}

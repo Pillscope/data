@@ -1,0 +1,28 @@
+{
+  "drug_code": "76788",
+  "din": "02282224",
+  "brand_name": "BARACLUDE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "23-APR-2008",
+  "active_ingredients": [
+    {
+      "name": "ENTECAVIR",
+      "strength": "0.5",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "BRISTOL-MYERS SQUIBB CANADA"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "ENTECAVIR"
+  ]
+}

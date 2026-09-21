@@ -1,0 +1,28 @@
+{
+  "drug_code": "78006",
+  "din": "02294710",
+  "brand_name": "PMS-NAPROXEN EC",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "09-APR-2008",
+  "active_ingredients": [
+    {
+      "name": "NAPROXEN",
+      "strength": "500",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET (ENTERIC-COATED)"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "PHARMASCIENCE INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "NAPROXEN"
+  ]
+}

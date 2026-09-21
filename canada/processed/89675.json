@@ -1,0 +1,28 @@
+{
+  "drug_code": "89675",
+  "din": "02412187",
+  "brand_name": "IRINOTECAN HYDROCHLORIDE INJECTION",
+  "class": "Human",
+  "descriptor": "2/5/15/25ML SINGLE USE VIALS",
+  "last_update": "18-SEP-2017",
+  "active_ingredients": [
+    {
+      "name": "IRINOTECAN HYDROCHLORIDE (IRINOTECAN HYDROCHLORIDE TRIHYDRATE)",
+      "strength": "20",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "TELIGENT OU"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "IRINOTECAN"
+  ]
+}

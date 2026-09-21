@@ -1,0 +1,32 @@
+{
+  "drug_code": "81253",
+  "din": "02327236",
+  "brand_name": "METHOTREXATE INJECTION BP",
+  "class": "Human",
+  "descriptor": "WITHOUT PRESERVATIVE (2 ML SINGLE-USE VIALS)",
+  "last_update": "14-APR-2018",
+  "active_ingredients": [
+    {
+      "name": "METHOTREXATE (METHOTREXATE SODIUM)",
+      "strength": "25",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "INTRA-ARTERIAL",
+    "INTRAMUSCULAR",
+    "INTRATHECAL",
+    "INTRAVENOUS",
+    "INTRAVENTRICULAR"
+  ],
+  "companies": [
+    "ACCORD HEALTHCARE INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "METHOTREXATE"
+  ]
+}

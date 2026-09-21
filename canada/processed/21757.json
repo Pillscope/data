@@ -1,0 +1,58 @@
+{
+  "drug_code": "21757",
+  "din": "01931679",
+  "brand_name": "ISOLYTE S PH 7.4 (MULTI-ELECTROLYTE INJECTION)",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "29-APR-2015",
+  "active_ingredients": [
+    {
+      "name": "SODIUM GLUCONATE",
+      "strength": "500",
+      "unit": "MG"
+    },
+    {
+      "name": "SODIUM CHLORIDE",
+      "strength": "530",
+      "unit": "MG"
+    },
+    {
+      "name": "POTASSIUM CHLORIDE",
+      "strength": "37",
+      "unit": "MG"
+    },
+    {
+      "name": "SODIUM ACETATE",
+      "strength": "370",
+      "unit": "MG"
+    },
+    {
+      "name": "SODIUM PHOSPHATE DIBASIC",
+      "strength": "12",
+      "unit": "MG"
+    },
+    {
+      "name": "MAGNESIUM CHLORIDE",
+      "strength": "30",
+      "unit": "MG"
+    },
+    {
+      "name": "POTASSIUM PHOSPHATE MONOBASIC",
+      "strength": "820",
+      "unit": "MCG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "B. BRAUN MEDICAL INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "ELECTROLYTES"
+  ]
+}

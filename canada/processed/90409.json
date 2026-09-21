@@ -1,0 +1,53 @@
+{
+  "drug_code": "90409",
+  "din": "02419467",
+  "brand_name": "KETAMALT 50",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "09-JUL-2014",
+  "active_ingredients": [
+    {
+      "name": "FERRIC HYPOPHOSPHITE",
+      "strength": "68",
+      "unit": "MG"
+    },
+    {
+      "name": "CALCIUM HYPOPHOSPHITE",
+      "strength": "270",
+      "unit": "MG"
+    },
+    {
+      "name": "MALT",
+      "strength": "15.75",
+      "unit": "G"
+    },
+    {
+      "name": "SODIUM HYPOPHOSPHITE",
+      "strength": "550",
+      "unit": "MG"
+    },
+    {
+      "name": "MANGANESE HYPOPHOSPHITE",
+      "strength": "68",
+      "unit": "MG"
+    },
+    {
+      "name": "Cobaltous sulfate heptahydrate",
+      "strength": "32",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "BIMEDA-MTC ANIMAL HEALTH INC"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "MINERAL SALTS IN COMBINATION"
+  ]
+}

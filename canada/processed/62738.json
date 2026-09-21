@@ -1,0 +1,27 @@
+{
+  "drug_code": "62738",
+  "din": "02239274",
+  "brand_name": "EXCENEL RTU",
+  "class": "Veterinary",
+  "descriptor": "I.M. FOR SWINE; I.M. & S.C. FOR CATTLE",
+  "last_update": "03-DEC-2015",
+  "active_ingredients": [
+    {
+      "name": "CEFTIOFUR (CEFTIOFUR HYDROCHLORIDE)",
+      "strength": "50",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SUSPENSION"
+  ],
+  "routes": [
+    "INTRAMUSCULAR",
+    "SUBCUTANEOUS"
+  ],
+  "companies": [
+    "ZOETIS CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": []
+}

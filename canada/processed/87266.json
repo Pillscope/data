@@ -1,0 +1,33 @@
+{
+  "drug_code": "87266",
+  "din": "02387093",
+  "brand_name": "OVIMA 28",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "28-AUG-2013",
+  "active_ingredients": [
+    {
+      "name": "LEVONORGESTREL",
+      "strength": "150",
+      "unit": "MCG"
+    },
+    {
+      "name": "ETHINYL ESTRADIOL",
+      "strength": "30",
+      "unit": "MCG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "APOTEX INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "LEVONORGESTREL AND ESTROGEN"
+  ]
+}

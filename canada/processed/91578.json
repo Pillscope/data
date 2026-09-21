@@ -1,0 +1,38 @@
+{
+  "drug_code": "91578",
+  "din": "02431459",
+  "brand_name": "BOBBI BROWN INTENSIVE SKIN SERUM FOUNDATION SPF 40 LYCHEE, BAMBOO GRASS & CORDYCEPS EXTRACTS",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "17-NOV-2015",
+  "active_ingredients": [
+    {
+      "name": "ZINC OXIDE",
+      "strength": "3.8",
+      "unit": "%"
+    },
+    {
+      "name": "TITANIUM DIOXIDE",
+      "strength": "6.1",
+      "unit": "%"
+    },
+    {
+      "name": "OCTINOXATE",
+      "strength": "3.9",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "EMULSION"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "BOBBI BROWN PROFESSIONAL COSMETICS DIST"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "COMBINATIONS OF PROTECTIVES AGAINST UV-RADIATION"
+  ]
+}

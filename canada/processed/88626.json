@@ -1,0 +1,28 @@
+{
+  "drug_code": "88626",
+  "din": "02401347",
+  "brand_name": "ADCETRIS",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "05-SEP-2013",
+  "active_ingredients": [
+    {
+      "name": "BRENTUXIMAB VEDOTIN",
+      "strength": "50",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "POWDER FOR SOLUTION"
+  ],
+  "routes": [
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "SEATTLE GENETICS INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "BRENTUXIMAB VEDOTIN"
+  ]
+}

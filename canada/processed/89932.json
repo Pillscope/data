@@ -1,0 +1,28 @@
+{
+  "drug_code": "89932",
+  "din": "02414694",
+  "brand_name": "PREMARIN",
+  "class": "Human",
+  "descriptor": "SUSTAINED-RELEASE",
+  "last_update": "28-OCT-2014",
+  "active_ingredients": [
+    {
+      "name": "CONJUGATED ESTROGENS",
+      "strength": "1.25",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET (EXTENDED-RELEASE)"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "PFIZER CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "CONJUGATED ESTROGENS"
+  ]
+}

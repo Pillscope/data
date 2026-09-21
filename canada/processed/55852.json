@@ -1,0 +1,28 @@
+{
+  "drug_code": "55852",
+  "din": "02234514",
+  "brand_name": "DOM-GLYBURIDE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "30-SEP-2010",
+  "active_ingredients": [
+    {
+      "name": "GLYBURIDE",
+      "strength": "5",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "DOMINION PHARMACAL"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "GLIBENCLAMIDE"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "drug_code": "83612",
+  "din": "02350939",
+  "brand_name": "LATISSE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "22-FEB-2013",
+  "active_ingredients": [
+    {
+      "name": "BIMATOPROST",
+      "strength": "0.03",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "ALLERGAN INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "BIMATOPROST"
+  ]
+}

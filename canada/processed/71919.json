@@ -1,0 +1,28 @@
+{
+  "drug_code": "71919",
+  "din": "02247656",
+  "brand_name": "PMS-PRAVASTATIN",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "07-APR-2006",
+  "active_ingredients": [
+    {
+      "name": "PRAVASTATIN SODIUM",
+      "strength": "20",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "PHARMASCIENCE INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "PRAVASTATIN"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "drug_code": "91910",
+  "din": "02434806",
+  "brand_name": "GAZYVA",
+  "class": "Human",
+  "descriptor": "SINGLE DOSE VIAL",
+  "last_update": "28-MAY-2015",
+  "active_ingredients": [
+    {
+      "name": "Obinutuzumab",
+      "strength": "25",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "HOFFMANN-LA ROCHE LIMITED"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "OBINUTUZUMAB"
+  ]
+}

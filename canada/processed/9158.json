@@ -1,0 +1,28 @@
+{
+  "drug_code": "9158",
+  "din": "00724939",
+  "brand_name": "DELLA-SAN LIQ 12%",
+  "class": "Disinfectant",
+  "descriptor": "",
+  "last_update": "18-JAN-2005",
+  "active_ingredients": [
+    {
+      "name": "SODIUM HYPOCHLORITE",
+      "strength": "12",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "DISINFECTANT (Food Premises)"
+  ],
+  "companies": [
+    "DELAVAL INC."
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "TECHNICAL DISINFECTANTS"
+  ]
+}

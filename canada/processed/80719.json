@@ -1,0 +1,34 @@
+{
+  "drug_code": "80719",
+  "din": "02321785",
+  "brand_name": "KEMSOL AIRX 44 PLUS DETERGENT/DISINFECTANT",
+  "class": "Disinfectant",
+  "descriptor": "",
+  "last_update": "11-FEB-2010",
+  "active_ingredients": [
+    {
+      "name": "BENZALKONIUM CHLORIDE",
+      "strength": "2.25",
+      "unit": "%"
+    },
+    {
+      "name": "ALKYL DIMETHYL ETHYLBENZYL AMMONIUM CHLORIDE",
+      "strength": "2.25",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "LIQUID"
+  ],
+  "routes": [
+    "DISINFECTANT (Food Premises)",
+    "DISINFECTANT (Hospital/HC Facilities)"
+  ],
+  "companies": [
+    "EXCALIBUR CHEMICALS"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "TECHNICAL DISINFECTANTS"
+  ]
+}

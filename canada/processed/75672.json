@@ -1,0 +1,28 @@
+{
+  "drug_code": "75672",
+  "din": "02271249",
+  "brand_name": "ERBITUX",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "03-AUG-2011",
+  "active_ingredients": [
+    {
+      "name": "CETUXIMAB",
+      "strength": "2",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "IMCLONE LLC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "CETUXIMAB"
+  ]
+}

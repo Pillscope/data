@@ -1,0 +1,46 @@
+{
+  "drug_code": "92183",
+  "din": "02437481",
+  "brand_name": "FAST KLOT",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "31-AUG-2017",
+  "active_ingredients": [
+    {
+      "name": "IRON SUBSULFATE",
+      "strength": "61",
+      "unit": "%"
+    },
+    {
+      "name": "KAOLIN",
+      "strength": "16",
+      "unit": "%"
+    },
+    {
+      "name": "COPPER SULFATE",
+      "strength": "2",
+      "unit": "%"
+    },
+    {
+      "name": "IODOPHOR",
+      "strength": "1",
+      "unit": "%"
+    },
+    {
+      "name": "ALUMINUM AMMONIUM SULFATE DODECAHYDRATE",
+      "strength": "20",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "POWDER"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "DOMINION VETERINARY LABORATORIES LTD."
+  ],
+  "status": "APPROVED",
+  "atc": []
+}

@@ -1,0 +1,36 @@
+{
+  "drug_code": "62300",
+  "din": "02238860",
+  "brand_name": "UPTITE",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "04-OCT-2013",
+  "active_ingredients": [
+    {
+      "name": "BENTONITE",
+      "strength": "167",
+      "unit": "G"
+    },
+    {
+      "name": "KAOLIN",
+      "strength": "167",
+      "unit": "G"
+    },
+    {
+      "name": "SODIUM BORATE",
+      "strength": "13",
+      "unit": "G"
+    }
+  ],
+  "forms": [
+    "PASTE"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "UPTITE COMPANY INC."
+  ],
+  "status": "MARKETED",
+  "atc": []
+}

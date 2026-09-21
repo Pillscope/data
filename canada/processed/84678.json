@@ -1,0 +1,28 @@
+{
+  "drug_code": "84678",
+  "din": "02361736",
+  "brand_name": "NIPRIDE",
+  "class": "Human",
+  "descriptor": "2ML SINGLE-USE VIAL (50MG/2ML)",
+  "last_update": "03-AUG-2017",
+  "active_ingredients": [
+    {
+      "name": "SODIUM NITROPRUSSIDE",
+      "strength": "25",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "PFIZER CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "NITROPRUSSIDE"
+  ]
+}

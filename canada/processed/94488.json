@@ -1,0 +1,28 @@
+{
+  "drug_code": "94488",
+  "din": "02457857",
+  "brand_name": "HEMANGIOL",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "02-SEP-2017",
+  "active_ingredients": [
+    {
+      "name": "PROPRANOLOL (PROPRANOLOL HYDROCHLORIDE)",
+      "strength": "3.75",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "PIERRE FABRE DERMO-COSMETIQUE CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "PROPRANOLOL"
+  ]
+}

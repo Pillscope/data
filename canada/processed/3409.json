@@ -1,0 +1,43 @@
+{
+  "drug_code": "3409",
+  "din": "00464988",
+  "brand_name": "POLLINEX R",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "17-SEP-2010",
+  "active_ingredients": [
+    {
+      "name": "MODIFIED RAGWEED TYROSINE ADSORBATE",
+      "strength": "210",
+      "unit": "UNIT"
+    },
+    {
+      "name": "MODIFIED RAGWEED TYROSINE ADSORBATE",
+      "strength": "500",
+      "unit": "UNIT"
+    },
+    {
+      "name": "MODIFIED RAGWEED TYROSINE ADSORBATE",
+      "strength": "1400",
+      "unit": "UNIT"
+    },
+    {
+      "name": "MODIFIED RAGWEED TYROSINE ADSORBATE",
+      "strength": "4300",
+      "unit": "UNIT"
+    }
+  ],
+  "forms": [
+    "LIQUID"
+  ],
+  "routes": [
+    "SUBCUTANEOUS"
+  ],
+  "companies": [
+    "ALLERGY THERAPEUTICS (UK) LTD"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "GRASS POLLEN"
+  ]
+}

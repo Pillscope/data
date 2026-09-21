@@ -1,0 +1,28 @@
+{
+  "drug_code": "95691",
+  "din": "02468484",
+  "brand_name": "RIVA-CLINDAMYCIN",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "23-OCT-2017",
+  "active_ingredients": [
+    {
+      "name": "CLINDAMYCIN (CLINDAMYCIN HYDROCHLORIDE)",
+      "strength": "300",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "CAPSULE"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "LABORATOIRE RIVA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "CLINDAMYCIN"
+  ]
+}

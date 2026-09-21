@@ -1,0 +1,33 @@
+{
+  "drug_code": "71178",
+  "din": "02246951",
+  "brand_name": "SENNA S. TABLETS",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "17-JUL-2006",
+  "active_ingredients": [
+    {
+      "name": "SENNOSIDES",
+      "strength": "8.6",
+      "unit": "MG"
+    },
+    {
+      "name": "DOCUSATE SODIUM",
+      "strength": "50",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "TANTA PHARMACEUTICALS INC"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "SENNA GLYCOSIDES, COMBINATIONS"
+  ]
+}

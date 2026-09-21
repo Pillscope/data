@@ -1,0 +1,28 @@
+{
+  "drug_code": "13883",
+  "din": "02014475",
+  "brand_name": "HELIUM USP 99%",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "11-JAN-2006",
+  "active_ingredients": [
+    {
+      "name": "HELIUM",
+      "strength": "99",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "GAS"
+  ],
+  "routes": [
+    "INHALATION"
+  ],
+  "companies": [
+    "PRAXAIR CANADA INC"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "HELIUM"
+  ]
+}

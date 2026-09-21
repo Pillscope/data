@@ -1,0 +1,34 @@
+{
+  "drug_code": "73832",
+  "din": "02253364",
+  "brand_name": "LANACANE ANTI-BACTERIAL FIRST AID SPRAY",
+  "class": "Human",
+  "descriptor": "SOLUTION",
+  "last_update": "29-APR-2015",
+  "active_ingredients": [
+    {
+      "name": "BENZOCAINE",
+      "strength": "20",
+      "unit": "%"
+    },
+    {
+      "name": "BENZETHONIUM CHLORIDE",
+      "strength": "0.2",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "SPRAY"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "RECKITT BENCKISER (CANADA) INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "BENZOCAINE",
+    "BENZOCAINE"
+  ]
+}

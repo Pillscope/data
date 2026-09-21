@@ -1,0 +1,28 @@
+{
+  "drug_code": "83880",
+  "din": "02353598",
+  "brand_name": "REGULAR STRENGTH MUCOUS RELIEF CHEST",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "02-MAY-2017",
+  "active_ingredients": [
+    {
+      "name": "GUAIFENESIN",
+      "strength": "200",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "TEVA CANADA LIMITED"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "GUAIFENESIN"
+  ]
+}

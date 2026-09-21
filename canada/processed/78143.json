@@ -1,0 +1,28 @@
+{
+  "drug_code": "78143",
+  "din": "02296071",
+  "brand_name": "RATIO-FLUTICASONE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "16-OCT-2015",
+  "active_ingredients": [
+    {
+      "name": "FLUTICASONE PROPIONATE",
+      "strength": "50",
+      "unit": "MCG"
+    }
+  ],
+  "forms": [
+    "METERED-DOSE PUMP"
+  ],
+  "routes": [
+    "NASAL"
+  ],
+  "companies": [
+    "TEVA CANADA LIMITED"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "FLUTICASONE"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "drug_code": "88340",
+  "din": "02398443",
+  "brand_name": "MYLAN-ALMOTRIPTAN",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "16-AUG-2013",
+  "active_ingredients": [
+    {
+      "name": "ALMOTRIPTAN (ALMOTRIPTAN MALATE)",
+      "strength": "12.5",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "MYLAN PHARMACEUTICALS ULC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "ALMOTRIPTAN"
+  ]
+}

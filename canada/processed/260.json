@@ -1,0 +1,28 @@
+{
+  "drug_code": "260",
+  "din": "00000981",
+  "brand_name": "MYDRIACYL",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "08-MAR-2017",
+  "active_ingredients": [
+    {
+      "name": "TROPICAMIDE",
+      "strength": "0.5",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "OPHTHALMIC"
+  ],
+  "companies": [
+    "NOVARTIS PHARMACEUTICALS CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "TROPICAMIDE"
+  ]
+}

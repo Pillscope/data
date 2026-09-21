@@ -1,0 +1,28 @@
+{
+  "drug_code": "91052",
+  "din": "02425874",
+  "brand_name": "PRIVA-ZOPICLONE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "10-JUN-2015",
+  "active_ingredients": [
+    {
+      "name": "ZOPICLONE",
+      "strength": "5",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "PHARMAPAR INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "ZOPICLONE"
+  ]
+}

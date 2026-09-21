@@ -1,0 +1,28 @@
+{
+  "drug_code": "49795",
+  "din": "02230619",
+  "brand_name": "PEDIAPRED",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "28-JUL-2017",
+  "active_ingredients": [
+    {
+      "name": "PREDNISOLONE (PREDNISOLONE SODIUM PHOSPHATE)",
+      "strength": "5",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "SANOFI-AVENTIS CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "PREDNISOLONE"
+  ]
+}

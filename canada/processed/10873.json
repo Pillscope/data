@@ -1,0 +1,30 @@
+{
+  "drug_code": "10873",
+  "din": "00778001",
+  "brand_name": "IOCIDE",
+  "class": "Disinfectant",
+  "descriptor": "",
+  "last_update": "27-JUL-2011",
+  "active_ingredients": [
+    {
+      "name": "BUTOXY POLYOXYPROPYLENE POLYOXYETHYLENE GLY.IODINE",
+      "strength": "10.4",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "LIQUID"
+  ],
+  "routes": [
+    "DISINFECTANT (Food Premises)",
+    "DISINFECTANT (Hospital/HC Facilities)",
+    "DISINFECTANT (Institutional/Industrial)"
+  ],
+  "companies": [
+    "PACE CHEMICALS LTD."
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "IODINE PRODUCTS"
+  ]
+}

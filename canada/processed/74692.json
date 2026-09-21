@@ -1,0 +1,28 @@
+{
+  "drug_code": "74692",
+  "din": "02261545",
+  "brand_name": "TELZIR",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "01-MAY-2012",
+  "active_ingredients": [
+    {
+      "name": "FOSAMPRENAVIR (FOSAMPRENAVIR CALCIUM)",
+      "strength": "700",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "VIIV HEALTHCARE ULC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "FOSAMPRENAVIR"
+  ]
+}

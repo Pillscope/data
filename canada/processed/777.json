@@ -1,0 +1,28 @@
+{
+  "drug_code": "777",
+  "din": "00010405",
+  "brand_name": "TEGRETOL 200MG",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "23-JAN-2017",
+  "active_ingredients": [
+    {
+      "name": "CARBAMAZEPINE",
+      "strength": "200",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "NOVARTIS PHARMACEUTICALS CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "CARBAMAZEPINE"
+  ]
+}

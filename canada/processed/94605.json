@@ -1,0 +1,37 @@
+{
+  "drug_code": "94605",
+  "din": "02458888",
+  "brand_name": "OTIZOLE",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "27-APR-2018",
+  "active_ingredients": [
+    {
+      "name": "PREDNISOLONE ACETATE",
+      "strength": "5",
+      "unit": "MG"
+    },
+    {
+      "name": "POLYMYXIN B SULFATE",
+      "strength": "0.5293",
+      "unit": "MG"
+    },
+    {
+      "name": "MICONAZOLE NITRATE",
+      "strength": "23",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SUSPENSION"
+  ],
+  "routes": [
+    "OTIC",
+    "TOPICAL"
+  ],
+  "companies": [
+    "BRITE RIDGE PHARMACEUTICALS"
+  ],
+  "status": "APPROVED",
+  "atc": []
+}

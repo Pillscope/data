@@ -1,0 +1,28 @@
+{
+  "drug_code": "70748",
+  "din": "02246565",
+  "brand_name": "IFOSFAMIDE FOR INJECTION",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "16-SEP-2016",
+  "active_ingredients": [
+    {
+      "name": "IFOSFAMIDE",
+      "strength": "1",
+      "unit": "G"
+    }
+  ],
+  "forms": [
+    "POWDER FOR SOLUTION"
+  ],
+  "routes": [
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "FRESENIUS KABI CANADA LTD"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "IFOSFAMIDE"
+  ]
+}

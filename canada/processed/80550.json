@@ -1,0 +1,30 @@
+{
+  "drug_code": "80550",
+  "din": "02320037",
+  "brand_name": "METOJECT",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "28-JAN-2009",
+  "active_ingredients": [
+    {
+      "name": "METHOTREXATE (METHOTREXATE SODIUM)",
+      "strength": "10",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "INTRA-ARTERIAL",
+    "INTRAMUSCULAR",
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "MEDEXUS INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "METHOTREXATE"
+  ]
+}

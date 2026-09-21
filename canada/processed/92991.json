@@ -1,0 +1,28 @@
+{
+  "drug_code": "92991",
+  "din": "02444747",
+  "brand_name": "DAKLINZA",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "10-MAY-2016",
+  "active_ingredients": [
+    {
+      "name": "Daclatasvir (Daclatasvir Dihydrochloride)",
+      "strength": "30",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "BRISTOL-MYERS SQUIBB CANADA"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "DACLATASVIR"
+  ]
+}

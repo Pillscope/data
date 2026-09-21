@@ -1,0 +1,28 @@
+{
+  "drug_code": "76960",
+  "din": "02284030",
+  "brand_name": "DESMOPRESSIN",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "21-DEC-2017",
+  "active_ingredients": [
+    {
+      "name": "DESMOPRESSIN ACETATE",
+      "strength": "0.1",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "AA PHARMA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "DESMOPRESSIN"
+  ]
+}

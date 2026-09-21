@@ -1,0 +1,35 @@
+{
+  "drug_code": "93919",
+  "din": "02452782",
+  "brand_name": "ADVANTAGE ACNE CONTROL KIT",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "22-FEB-2017",
+  "active_ingredients": [
+    {
+      "name": "BENZOYL PEROXIDE",
+      "strength": "2.5",
+      "unit": "%"
+    },
+    {
+      "name": "BENZOYL PEROXIDE",
+      "strength": "5",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "GEL",
+    "KIT",
+    "LOTION"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "JOHNSON & JOHNSON INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "BENZOYL PEROXIDE"
+  ]
+}

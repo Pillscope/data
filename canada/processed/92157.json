@@ -1,0 +1,29 @@
+{
+  "drug_code": "92157",
+  "din": "02437260",
+  "brand_name": "SIGNIFOR LAR",
+  "class": "Human",
+  "descriptor": "KIT INCLUDES 2ML DILUENT IN A PREFILLED SYRINGE",
+  "last_update": "02-SEP-2015",
+  "active_ingredients": [
+    {
+      "name": "PASIREOTIDE (Pasireotide Pamoate)",
+      "strength": "40",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "POWDER FOR SUSPENSION",
+    "KIT"
+  ],
+  "routes": [
+    "INTRAMUSCULAR"
+  ],
+  "companies": [
+    "NOVARTIS PHARMACEUTICALS CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "Pasireotide"
+  ]
+}

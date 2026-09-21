@@ -1,0 +1,34 @@
+{
+  "drug_code": "72824",
+  "din": "02248472",
+  "brand_name": "BENZACLIN TOPICAL GEL",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "05-JUN-2017",
+  "active_ingredients": [
+    {
+      "name": "BENZOYL PEROXIDE",
+      "strength": "5",
+      "unit": "%"
+    },
+    {
+      "name": "CLINDAMYCIN (CLINDAMYCIN PHOSPHATE)",
+      "strength": "1",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "GEL"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "VALEANT CANADA LP/VALEANT CANADA S.E.C."
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "CLINDAMYCIN, COMBINATIONS",
+    "CLINDAMYCIN, COMBINATIONS"
+  ]
+}

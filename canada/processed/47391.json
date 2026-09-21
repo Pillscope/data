@@ -1,0 +1,28 @@
+{
+  "drug_code": "47391",
+  "din": "02229492",
+  "brand_name": "ALLERGY FORMULA",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "05-FEB-2014",
+  "active_ingredients": [
+    {
+      "name": "DIPHENHYDRAMINE HYDROCHLORIDE",
+      "strength": "25",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "VITA HEALTH PRODUCTS INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "DIPHENHYDRAMINE"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "drug_code": "72466",
+  "din": "02248137",
+  "brand_name": "NOROMECTIN (IVERMECTIN) DRENCH FOR SHEEP",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "12-JUN-2008",
+  "active_ingredients": [
+    {
+      "name": "IVERMECTIN",
+      "strength": "0.8",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "NORBROOK LABORATORIES LTD."
+  ],
+  "status": "APPROVED",
+  "atc": []
+}

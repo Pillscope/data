@@ -1,0 +1,28 @@
+{
+  "drug_code": "4133",
+  "din": "00525189",
+  "brand_name": "MEGA-C-SODIUM INJ 250MG/ML",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "06-JUL-2011",
+  "active_ingredients": [
+    {
+      "name": "SODIUM ASCORBATE",
+      "strength": "250",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "KRIPPS PHARMACY LTD."
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "ASCORBIC ACID (VIT C)"
+  ]
+}

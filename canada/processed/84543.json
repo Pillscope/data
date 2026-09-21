@@ -1,0 +1,26 @@
+{
+  "drug_code": "84543",
+  "din": "02360489",
+  "brand_name": "METACAM ORAL SUSPENSION FOR CATS",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "21-FEB-2012",
+  "active_ingredients": [
+    {
+      "name": "MELOXICAM",
+      "strength": "0.5",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SUSPENSION"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "BOEHRINGER INGELHEIM (CANADA) LTD LTEE"
+  ],
+  "status": "APPROVED",
+  "atc": []
+}

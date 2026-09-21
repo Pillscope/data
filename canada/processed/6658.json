@@ -1,0 +1,28 @@
+{
+  "drug_code": "6658",
+  "din": "00655678",
+  "brand_name": "PRO-LORAZEPAM TAB 2MG",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "09-MAR-2006",
+  "active_ingredients": [
+    {
+      "name": "LORAZEPAM",
+      "strength": "2",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "PRO DOC LIMITEE"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "LORAZEPAM"
+  ]
+}

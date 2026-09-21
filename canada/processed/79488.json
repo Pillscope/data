@@ -1,0 +1,28 @@
+{
+  "drug_code": "79488",
+  "din": "02309289",
+  "brand_name": "NIASPAN FCT",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "29-FEB-2012",
+  "active_ingredients": [
+    {
+      "name": "NICOTINIC ACID",
+      "strength": "1000",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET (EXTENDED-RELEASE)"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "SUNOVION PHARMACEUTICALS CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "NICOTINIC ACID"
+  ]
+}

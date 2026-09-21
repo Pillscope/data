@@ -1,0 +1,28 @@
+{
+  "drug_code": "10024",
+  "din": "00860751",
+  "brand_name": "DOXYCIN TAB 100MG",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "16-JUL-2004",
+  "active_ingredients": [
+    {
+      "name": "DOXYCYCLINE (DOXYCYCLINE HYCLATE)",
+      "strength": "100",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "LABORATOIRE RIVA INC"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "DOXYCYCLINE"
+  ]
+}

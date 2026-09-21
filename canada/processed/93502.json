@@ -1,0 +1,26 @@
+{
+  "drug_code": "93502",
+  "din": "02449218",
+  "brand_name": "TEAT DEFENCE 52",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "24-JAN-2017",
+  "active_ingredients": [
+    {
+      "name": "IODINE (NONYLPHENOXYPOLY(ETHYLENEOXY)ETHANOL-IODINE COMPLEX)",
+      "strength": "0.5",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "LONDON DAIRY SUPPLY LTD"
+  ],
+  "status": "APPROVED",
+  "atc": []
+}

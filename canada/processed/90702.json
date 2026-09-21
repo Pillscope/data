@@ -1,0 +1,28 @@
+{
+  "drug_code": "90702",
+  "din": "02422336",
+  "brand_name": "SUCCINYLCHOLINE CHLORIDE INJECTION",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "09-FEB-2018",
+  "active_ingredients": [
+    {
+      "name": "SUCCINYLCHOLINE CHLORIDE",
+      "strength": "20",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "TELIGENT OU"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "SUXAMETHONIUM"
+  ]
+}

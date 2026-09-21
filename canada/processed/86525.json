@@ -1,0 +1,28 @@
+{
+  "drug_code": "86525",
+  "din": "02379384",
+  "brand_name": "YERVOY",
+  "class": "Human",
+  "descriptor": "FOR I.V. INFUSION ONLY. 50MG/10ML AND 200MG/40 ML SINGLE USE VIALS.",
+  "last_update": "15-JAN-2014",
+  "active_ingredients": [
+    {
+      "name": "Ipilimumab",
+      "strength": "5",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "LIQUID"
+  ],
+  "routes": [
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "BRISTOL-MYERS SQUIBB CANADA"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "IPILIMUMAB"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "drug_code": "7268",
+  "din": "00630470",
+  "brand_name": "IVOMEC",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "29-MAY-2009",
+  "active_ingredients": [
+    {
+      "name": "IVERMECTIN",
+      "strength": "10",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "SUBCUTANEOUS"
+  ],
+  "companies": [
+    "MERIAL CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": []
+}

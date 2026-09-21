@@ -1,0 +1,33 @@
+{
+  "drug_code": "67570",
+  "din": "02243644",
+  "brand_name": "KALETRA",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "23-FEB-2016",
+  "active_ingredients": [
+    {
+      "name": "RITONAVIR",
+      "strength": "20",
+      "unit": "MG"
+    },
+    {
+      "name": "LOPINAVIR",
+      "strength": "80",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "ABBVIE CORPORATION"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "LOPINAVIR AND RITONAVIR"
+  ]
+}

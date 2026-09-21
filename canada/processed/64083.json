@@ -1,0 +1,76 @@
+{
+  "drug_code": "64083",
+  "din": "02240512",
+  "brand_name": "TOXILAX",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "19-NOV-2010",
+  "active_ingredients": [
+    {
+      "name": "GINGER",
+      "strength": "1.25",
+      "unit": "%"
+    },
+    {
+      "name": "SODIUM SULFATE",
+      "strength": "25",
+      "unit": "%"
+    },
+    {
+      "name": "GENTIANA LUTEA",
+      "strength": "0.2",
+      "unit": "%"
+    },
+    {
+      "name": "IRON OXIDE",
+      "strength": "1",
+      "unit": "%"
+    },
+    {
+      "name": "ETHYLENEDIAMINE DIHYDROIODIDE",
+      "strength": "0.008",
+      "unit": "%"
+    },
+    {
+      "name": "CALCIUM PHOSPHATE (TRIBASIC)",
+      "strength": "1",
+      "unit": "%"
+    },
+    {
+      "name": "MAGNESIUM SULFATE",
+      "strength": "54",
+      "unit": "%"
+    },
+    {
+      "name": "MAGNESIUM CARBONATE",
+      "strength": "5.25",
+      "unit": "%"
+    },
+    {
+      "name": "SODIUM THIOSULFATE",
+      "strength": "10",
+      "unit": "%"
+    },
+    {
+      "name": "LINUM USITATISSIMUM",
+      "strength": "0.1",
+      "unit": "%"
+    },
+    {
+      "name": "FENUGREEK",
+      "strength": "0.2",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "POWDER"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "JAAPHARM CANADA INC."
+  ],
+  "status": "MARKETED",
+  "atc": []
+}

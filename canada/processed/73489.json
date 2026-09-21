@@ -1,0 +1,33 @@
+{
+  "drug_code": "73489",
+  "din": "02250071",
+  "brand_name": "ELIZABETH ARDEN LIP PROTECTANT STICK SPF 15",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "10-JUL-2015",
+  "active_ingredients": [
+    {
+      "name": "PADIMATE O",
+      "strength": "8",
+      "unit": "%"
+    },
+    {
+      "name": "OXYBENZONE",
+      "strength": "3",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "STICK"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "ELIZABETH ARDEN (CANADA) LIMITED"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "COMBINATIONS OF PROTECTIVES AGAINST UV-RADIATION"
+  ]
+}

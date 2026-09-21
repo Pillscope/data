@@ -1,0 +1,28 @@
+{
+  "drug_code": "76593",
+  "din": "02280264",
+  "brand_name": "SANDOZ FELODIPINE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "29-AUG-2006",
+  "active_ingredients": [
+    {
+      "name": "FELODIPINE",
+      "strength": "5",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET (EXTENDED-RELEASE)"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "SANDOZ CANADA INCORPORATED"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "FELODIPINE"
+  ]
+}

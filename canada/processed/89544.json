@@ -1,0 +1,33 @@
+{
+  "drug_code": "89544",
+  "din": "02410788",
+  "brand_name": "ZAMINE 21",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "05-SEP-2014",
+  "active_ingredients": [
+    {
+      "name": "DROSPIRENONE",
+      "strength": "3.0",
+      "unit": "MG"
+    },
+    {
+      "name": "ETHINYL ESTRADIOL",
+      "strength": "0.030",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "APOTEX INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "DROSPIRENONE AND ESTROGEN"
+  ]
+}

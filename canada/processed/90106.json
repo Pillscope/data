@@ -1,0 +1,33 @@
+{
+  "drug_code": "90106",
+  "din": "02416468",
+  "brand_name": "HELIOX 70/30",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "15-JUN-2015",
+  "active_ingredients": [
+    {
+      "name": "OXYGEN",
+      "strength": "30",
+      "unit": "%"
+    },
+    {
+      "name": "HELIUM",
+      "strength": "70",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "GAS"
+  ],
+  "routes": [
+    "INHALATION"
+  ],
+  "companies": [
+    "VITALAIRE CANADA INC"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "COMBINATION"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "drug_code": "78549",
+  "din": "02300176",
+  "brand_name": "PREVICOX",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "19-AUG-2010",
+  "active_ingredients": [
+    {
+      "name": "FIROCOXIB",
+      "strength": "227",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET (CHEWABLE)"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "MERIAL CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": []
+}

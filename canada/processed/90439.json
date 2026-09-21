@@ -1,0 +1,28 @@
+{
+  "drug_code": "90439",
+  "din": "02419769",
+  "brand_name": "ZZZQUIL LIQUID",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "09-SEP-2014",
+  "active_ingredients": [
+    {
+      "name": "DIPHENHYDRAMINE HYDROCHLORIDE",
+      "strength": "50",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "LIQUID"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "PROCTER & GAMBLE INC"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "DIPHENHYDRAMINE"
+  ]
+}

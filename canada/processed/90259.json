@@ -1,0 +1,28 @@
+{
+  "drug_code": "90259",
+  "din": "02417995",
+  "brand_name": "VITAMINE D 10 000",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "10-AUG-2017",
+  "active_ingredients": [
+    {
+      "name": "VITAMIN D3",
+      "strength": "10000",
+      "unit": "UNIT"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "PRO DOC LIMITEE"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "COLECALCIFEROL"
+  ]
+}

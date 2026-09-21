@@ -1,0 +1,28 @@
+{
+  "drug_code": "71204",
+  "din": "02246974",
+  "brand_name": "PSORIASIN LIQUID",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "04-AUG-2017",
+  "active_ingredients": [
+    {
+      "name": "COAL TAR",
+      "strength": "0.66",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "ALVA-AMCO PHARMACAL COMPANIES, INC."
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "TARS"
+  ]
+}

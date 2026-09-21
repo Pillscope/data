@@ -1,0 +1,28 @@
+{
+  "drug_code": "13362",
+  "din": "00896675",
+  "brand_name": "GAS-X EXTRA STRENGTH",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "08-JUN-2016",
+  "active_ingredients": [
+    {
+      "name": "SIMETHICONE",
+      "strength": "125",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET (CHEWABLE)"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "GLAXOSMITHKLINE CONSUMER HEALTHCARE INC."
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "SILICONES"
+  ]
+}

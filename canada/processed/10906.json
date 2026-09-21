@@ -1,0 +1,28 @@
+{
+  "drug_code": "10906",
+  "din": "00893595",
+  "brand_name": "APO-CAPTO TAB 12.5MG",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "21-SEP-2009",
+  "active_ingredients": [
+    {
+      "name": "CAPTOPRIL",
+      "strength": "12.5",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "APOTEX INC"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "CAPTOPRIL"
+  ]
+}

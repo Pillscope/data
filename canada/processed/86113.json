@@ -1,0 +1,29 @@
+{
+  "drug_code": "86113",
+  "din": "02375710",
+  "brand_name": "DOXORUBICIN HYDROCHLORIDE INJECTION",
+  "class": "Human",
+  "descriptor": "PRESERVATIVE-FREE. SINGLE-USE VIALS (5/25/50/100ML). ISOTONIC.",
+  "last_update": "13-JAN-2017",
+  "active_ingredients": [
+    {
+      "name": "DOXORUBICIN HYDROCHLORIDE",
+      "strength": "2",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "INTRAVENOUS",
+    "INTRAVESICAL"
+  ],
+  "companies": [
+    "SANDOZ CANADA INCORPORATED"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "DOXORUBICIN"
+  ]
+}

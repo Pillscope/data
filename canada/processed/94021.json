@@ -1,0 +1,26 @@
+{
+  "drug_code": "94021",
+  "din": "02453657",
+  "brand_name": "ZYCORTAL SUSPENSION",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "14-JUN-2016",
+  "active_ingredients": [
+    {
+      "name": "Desoxycortone pivalate",
+      "strength": "25",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SUSPENSION"
+  ],
+  "routes": [
+    "SUBCUTANEOUS"
+  ],
+  "companies": [
+    "DECHRA LTD"
+  ],
+  "status": "APPROVED",
+  "atc": []
+}

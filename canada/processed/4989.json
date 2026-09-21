@@ -1,0 +1,46 @@
+{
+  "drug_code": "4989",
+  "din": "00566691",
+  "brand_name": "RENAZONE PLUS TAB",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "11-JUL-2017",
+  "active_ingredients": [
+    {
+      "name": "HYOSCYAMINE HYDROBROMIDE",
+      "strength": "0.09",
+      "unit": "MG"
+    },
+    {
+      "name": "SCOPOLAMINE HYDROBROMIDE",
+      "strength": "2.4",
+      "unit": "MCG"
+    },
+    {
+      "name": "SULFISOXAZOLE",
+      "strength": "100",
+      "unit": "MG"
+    },
+    {
+      "name": "AMMONIUM CHLORIDE",
+      "strength": "40",
+      "unit": "MG"
+    },
+    {
+      "name": "ATROPINE SULFATE",
+      "strength": "7.5",
+      "unit": "MCG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "ORMOND VETERINARY SUPPLY LTD."
+  ],
+  "status": "MARKETED",
+  "atc": []
+}

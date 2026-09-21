@@ -1,0 +1,33 @@
+{
+  "drug_code": "13617",
+  "din": "01990284",
+  "brand_name": "UPHOLD PLUS",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "25-MAR-2013",
+  "active_ingredients": [
+    {
+      "name": "TRICLOSAN",
+      "strength": "0.15",
+      "unit": "%"
+    },
+    {
+      "name": "CHLOROXYLENOL",
+      "strength": "0.15",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "GEL"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "DIVERSEY INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "COMBINATIONS, OF PHENOL AND DERIVATIVES"
+  ]
+}

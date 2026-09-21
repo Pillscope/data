@@ -1,0 +1,29 @@
+{
+  "drug_code": "88833",
+  "din": "02403544",
+  "brand_name": "COLISTIMETHATE FOR INJECTION",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "10-MAR-2016",
+  "active_ingredients": [
+    {
+      "name": "COLISTIN (COLISTIMETHATE SODIUM)",
+      "strength": "150",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "POWDER FOR SOLUTION"
+  ],
+  "routes": [
+    "INTRAMUSCULAR",
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "FRESENIUS KABI CANADA LTD"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "COLISTIN"
+  ]
+}

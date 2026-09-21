@@ -1,0 +1,33 @@
+{
+  "drug_code": "64641",
+  "din": "02241047",
+  "brand_name": "VARILRIX",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "22-OCT-2008",
+  "active_ingredients": [
+    {
+      "name": "WATER",
+      "strength": "0.5",
+      "unit": "ML"
+    },
+    {
+      "name": "VARICELLA-ZOSTER VIRUS VACCINE LIVE ATTENUATED (OKA/MERCK STRAIN)",
+      "strength": "2000",
+      "unit": "UNIT"
+    }
+  ],
+  "forms": [
+    "POWDER FOR SOLUTION"
+  ],
+  "routes": [
+    "SUBCUTANEOUS"
+  ],
+  "companies": [
+    "GLAXOSMITHKLINE INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "VARICELLA, LIVE ATTENUATED"
+  ]
+}

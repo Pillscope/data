@@ -1,0 +1,28 @@
+{
+  "drug_code": "86606",
+  "din": "02380242",
+  "brand_name": "ZELBORAF",
+  "class": "Human",
+  "descriptor": "FILM-COATED TABLET",
+  "last_update": "07-MAR-2012",
+  "active_ingredients": [
+    {
+      "name": "Vemurafenib",
+      "strength": "240",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "HOFFMANN-LA ROCHE LIMITED"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "VEMURAFENIB"
+  ]
+}

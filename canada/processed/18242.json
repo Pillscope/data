@@ -1,0 +1,28 @@
+{
+  "drug_code": "18242",
+  "din": "02082136",
+  "brand_name": "GENTAMICIN(E) 100MG LIQ IV 1MG/ML",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "16-JUN-2006",
+  "active_ingredients": [
+    {
+      "name": "GENTAMICIN (GENTAMICIN SULFATE)",
+      "strength": "1",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "BAXTER CORPORATION"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "GENTAMICIN"
+  ]
+}

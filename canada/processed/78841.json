@@ -1,0 +1,29 @@
+{
+  "drug_code": "78841",
+  "din": "02303086",
+  "brand_name": "HEPARIN SODIUM INJECTION USP        (MULTIDOSE VIAL-WITH PRESERVATIVE)",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "21-NOV-2008",
+  "active_ingredients": [
+    {
+      "name": "HEPARIN SODIUM",
+      "strength": "1000",
+      "unit": "UNIT"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "INTRAVENOUS",
+    "SUBCUTANEOUS"
+  ],
+  "companies": [
+    "SANDOZ CANADA INCORPORATED"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "HEPARIN"
+  ]
+}

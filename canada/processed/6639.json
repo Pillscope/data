@@ -1,0 +1,26 @@
+{
+  "drug_code": "6639",
+  "din": "00674761",
+  "brand_name": "MERRILLS FURAZONE SWEAT ONT 0.2%",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "01-MAR-2013",
+  "active_ingredients": [
+    {
+      "name": "NITROFURAZONE",
+      "strength": "0.2",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "OINTMENT"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "MERRILL HORSE SUPPLIES"
+  ],
+  "status": "CANCELLED POST MARKET",
+  "atc": []
+}

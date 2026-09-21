@@ -1,0 +1,28 @@
+{
+  "drug_code": "78009",
+  "din": "02294745",
+  "brand_name": "APO-FLUTICASONE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "01-SEP-2015",
+  "active_ingredients": [
+    {
+      "name": "FLUTICASONE PROPIONATE",
+      "strength": "50",
+      "unit": "MCG"
+    }
+  ],
+  "forms": [
+    "SPRAY, METERED DOSE"
+  ],
+  "routes": [
+    "NASAL"
+  ],
+  "companies": [
+    "APOTEX INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "FLUTICASONE"
+  ]
+}

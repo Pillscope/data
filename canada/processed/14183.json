@@ -1,0 +1,33 @@
+{
+  "drug_code": "14183",
+  "din": "02020939",
+  "brand_name": "SCLERODEX",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "14-JUN-2011",
+  "active_ingredients": [
+    {
+      "name": "SODIUM CHLORIDE",
+      "strength": "100",
+      "unit": "MG"
+    },
+    {
+      "name": "DEXTROSE",
+      "strength": "250",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "LIQUID"
+  ],
+  "routes": [
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "OMEGA LABORATORIES LTD"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "GLUCOSE, COMBINATIONS"
+  ]
+}

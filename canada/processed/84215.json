@@ -1,0 +1,28 @@
+{
+  "drug_code": "84215",
+  "din": "02357054",
+  "brand_name": "JAMP-PANTOPRAZOLE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "23-JAN-2015",
+  "active_ingredients": [
+    {
+      "name": "PANTOPRAZOLE (PANTOPRAZOLE SODIUM)",
+      "strength": "40",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET (DELAYED-RELEASE)"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "JAMP PHARMA CORPORATION"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "PANTOPRAZOLE"
+  ]
+}

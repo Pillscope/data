@@ -1,0 +1,28 @@
+{
+  "drug_code": "75279",
+  "din": "02267365",
+  "brand_name": "INO-F-SAN INSTANT HAND SANITIZER",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "29-APR-2015",
+  "active_ingredients": [
+    {
+      "name": "BENZETHONIUM CHLORIDE",
+      "strength": "0.2",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "LIQUID"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "GROUPE DISSAN INC."
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "BENZETHONIUM CHLORIDE"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "drug_code": "76748",
+  "din": "02281821",
+  "brand_name": "APO-OLANZAPINE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "16-NOV-2009",
+  "active_ingredients": [
+    {
+      "name": "OLANZAPINE",
+      "strength": "10.0",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "APOTEX INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "OLANZAPINE"
+  ]
+}

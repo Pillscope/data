@@ -1,0 +1,28 @@
+{
+  "drug_code": "95553",
+  "din": "02467135",
+  "brand_name": "ONIVYDE",
+  "class": "Human",
+  "descriptor": "LIPOSOMES FOR INJECTION. SINGLE USE VIAL",
+  "last_update": "10-APR-2018",
+  "active_ingredients": [
+    {
+      "name": "IRINOTECAN HYDROCHLORIDE (IRINOTECAN SUCROSE OCTASULFATE)",
+      "strength": "43",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SUSPENSION"
+  ],
+  "routes": [
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "SHIRE PHARMA CANADA ULC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "IRINOTECAN"
+  ]
+}

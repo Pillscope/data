@@ -1,0 +1,26 @@
+{
+  "drug_code": "92107",
+  "din": "02436760",
+  "brand_name": "SURMAX 200 PREMIX",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "02-FEB-2018",
+  "active_ingredients": [
+    {
+      "name": "Avilamycin",
+      "strength": "200",
+      "unit": "G"
+    }
+  ],
+  "forms": [
+    "DRUG PREMIX"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "ELANCO CANADA LIMITED"
+  ],
+  "status": "APPROVED",
+  "atc": []
+}

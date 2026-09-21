@@ -1,0 +1,28 @@
+{
+  "drug_code": "77733",
+  "din": "02291967",
+  "brand_name": "ONDANSETRON",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "07-MAR-2011",
+  "active_ingredients": [
+    {
+      "name": "ONDANSETRON (ONDANSETRON HYDROCHLORIDE DIHYDRATE)",
+      "strength": "4",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "AA PHARMA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "ONDANSETRON"
+  ]
+}

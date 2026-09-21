@@ -1,0 +1,28 @@
+{
+  "drug_code": "3089",
+  "din": "00417270",
+  "brand_name": "VISKEN",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "14-JUN-2017",
+  "active_ingredients": [
+    {
+      "name": "PINDOLOL",
+      "strength": "5",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "TRIBUTE PHARMACEUTICALS CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "PINDOLOL"
+  ]
+}

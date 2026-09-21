@@ -1,0 +1,28 @@
+{
+  "drug_code": "6297",
+  "din": "00655767",
+  "brand_name": "APO-LORAZEPAM TAB 2MG",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "07-FEB-2008",
+  "active_ingredients": [
+    {
+      "name": "LORAZEPAM",
+      "strength": "2",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "APOTEX INC"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "LORAZEPAM"
+  ]
+}

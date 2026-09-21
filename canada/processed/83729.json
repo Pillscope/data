@@ -1,0 +1,28 @@
+{
+  "drug_code": "83729",
+  "din": "02352079",
+  "brand_name": "FIRST AID ANTIBIOTIC OINTMENT",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "21-JAN-2013",
+  "active_ingredients": [
+    {
+      "name": "BACITRACIN ZINC",
+      "strength": "500",
+      "unit": "UNIT"
+    }
+  ],
+  "forms": [
+    "OINTMENT"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "ZEE MEDICAL"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "BACITRACIN"
+  ]
+}

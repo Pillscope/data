@@ -1,0 +1,36 @@
+{
+  "drug_code": "2006",
+  "din": "00308404",
+  "brand_name": "TRIPLE SULFA BOLUS",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "04-JAN-2018",
+  "active_ingredients": [
+    {
+      "name": "SULFAMETHAZINE",
+      "strength": "3.9",
+      "unit": "G"
+    },
+    {
+      "name": "SULFANILAMIDE",
+      "strength": "5.85",
+      "unit": "G"
+    },
+    {
+      "name": "SULFATHIAZOLE",
+      "strength": "5.85",
+      "unit": "G"
+    }
+  ],
+  "forms": [
+    "BOLUS"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "PROFESSIONAL VETERINARY LABORATORIES"
+  ],
+  "status": "MARKETED",
+  "atc": []
+}

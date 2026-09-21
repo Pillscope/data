@@ -1,0 +1,26 @@
+{
+  "drug_code": "85865",
+  "din": "02373505",
+  "brand_name": "AIVLOSIN WATER SOLUBLE GRANULES",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "19-DEC-2013",
+  "active_ingredients": [
+    {
+      "name": "Tylvalosin (Tylvalosin tartrate)",
+      "strength": "625",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "GRANULES FOR SOLUTION"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "ECO ANIMAL HEALTH LIMITED"
+  ],
+  "status": "APPROVED",
+  "atc": []
+}

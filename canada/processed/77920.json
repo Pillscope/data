@@ -1,0 +1,28 @@
+{
+  "drug_code": "77920",
+  "din": "02293838",
+  "brand_name": "APO-LANSOPRAZOLE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "11-JUN-2009",
+  "active_ingredients": [
+    {
+      "name": "LANSOPRAZOLE",
+      "strength": "30",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "CAPSULE (DELAYED RELEASE)"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "APOTEX INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "LANSOPRAZOLE"
+  ]
+}

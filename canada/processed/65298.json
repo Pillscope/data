@@ -1,0 +1,28 @@
+{
+  "drug_code": "65298",
+  "din": "02241638",
+  "brand_name": "CEFUROXIME FOR INJECTION, USP",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "18-OCT-2017",
+  "active_ingredients": [
+    {
+      "name": "CEFUROXIME (CEFUROXIME SODIUM)",
+      "strength": "750",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "POWDER FOR SOLUTION"
+  ],
+  "routes": [
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "FRESENIUS KABI CANADA LTD"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "CEFUROXIME"
+  ]
+}

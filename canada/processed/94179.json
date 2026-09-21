@@ -1,0 +1,26 @@
+{
+  "drug_code": "94179",
+  "din": "02454971",
+  "brand_name": "BRAVECTO",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "27-MAR-2018",
+  "active_ingredients": [
+    {
+      "name": "FLURALANER",
+      "strength": "1000",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "INTERVET CANADA CORP"
+  ],
+  "status": "APPROVED",
+  "atc": []
+}

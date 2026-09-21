@@ -1,0 +1,28 @@
+{
+  "drug_code": "88837",
+  "din": "02403587",
+  "brand_name": "APO-MOMETASONE",
+  "class": "Human",
+  "descriptor": "AQUEOUS SUSPENSION. 140 DOSES.",
+  "last_update": "28-JUL-2017",
+  "active_ingredients": [
+    {
+      "name": "MOMETASONE FUROATE",
+      "strength": "50",
+      "unit": "MCG"
+    }
+  ],
+  "forms": [
+    "SPRAY, METERED DOSE"
+  ],
+  "routes": [
+    "NASAL"
+  ],
+  "companies": [
+    "APOTEX INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "MOMETASONE"
+  ]
+}

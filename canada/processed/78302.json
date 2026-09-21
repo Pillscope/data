@@ -1,0 +1,33 @@
+{
+  "drug_code": "78302",
+  "din": "02297671",
+  "brand_name": "OPTI-FREE REPLENISH MULTI-PURPOSE DISINFECTING SOLUTION",
+  "class": "Disinfectant",
+  "descriptor": "",
+  "last_update": "04-FEB-2014",
+  "active_ingredients": [
+    {
+      "name": "MYRISTAMIDOPROPYL DIMETHYLAMINE",
+      "strength": "0.0005",
+      "unit": "%"
+    },
+    {
+      "name": "POLYQUATERNIUM 1",
+      "strength": "0.001",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "DISINFECTANT (Contact Lens)"
+  ],
+  "companies": [
+    "ALCON CANADA INC"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "ARTIFICIAL TEARS AND OTHER INDIFFERENT PREPARATIONS."
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "drug_code": "2012",
+  "din": "00319368",
+  "brand_name": "SODIUM IODIDE INJ 20%",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "13-SEP-2004",
+  "active_ingredients": [
+    {
+      "name": "SODIUM IODIDE",
+      "strength": "20",
+      "unit": "G"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "PROFESSIONAL VETERINARY LABORATORIES"
+  ],
+  "status": "MARKETED",
+  "atc": []
+}

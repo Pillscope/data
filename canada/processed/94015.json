@@ -1,0 +1,34 @@
+{
+  "drug_code": "94015",
+  "din": "02453592",
+  "brand_name": "VITAMIN A (200,000 IU) AND VITAMIN E (40 IU) ORAL LIQUID PREPARATION",
+  "class": "Human",
+  "descriptor": "SOFTGEL CAPSULES",
+  "last_update": "13-JUN-2017",
+  "active_ingredients": [
+    {
+      "name": "VITAMIN A (RETINYL PALMITATE)",
+      "strength": "200000",
+      "unit": "UNIT"
+    },
+    {
+      "name": "VITAMIN E (DL-ALPHA TOCOPHERYL ACETATE)",
+      "strength": "40",
+      "unit": "UNIT"
+    }
+  ],
+  "forms": [
+    "CAPSULE"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "NUTRICORP INTERNATIONAL"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "COMBINATIONS OF VITAMINS",
+    "COMBINATIONS OF VITAMINS"
+  ]
+}

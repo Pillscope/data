@@ -1,0 +1,28 @@
+{
+  "drug_code": "68533",
+  "din": "02244550",
+  "brand_name": "PAMIDRONATE DISODIUM FOR INJECTION",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "03-APR-2018",
+  "active_ingredients": [
+    {
+      "name": "PAMIDRONATE DISODIUM",
+      "strength": "3",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "PFIZER CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "PAMIDRONIC ACID"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "drug_code": "15574",
+  "din": "02057778",
+  "brand_name": "PLENDIL 2.5 MG",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "03-AUG-2007",
+  "active_ingredients": [
+    {
+      "name": "FELODIPINE",
+      "strength": "2.5",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET (EXTENDED-RELEASE)"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "ASTRAZENECA CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "FELODIPINE"
+  ]
+}

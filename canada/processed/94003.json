@@ -1,0 +1,26 @@
+{
+  "drug_code": "94003",
+  "din": "02453479",
+  "brand_name": "THYMOX HOOF",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "10-AUG-2016",
+  "active_ingredients": [
+    {
+      "name": "THYMOL",
+      "strength": "23",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "LABORATOIRE M2 INC"
+  ],
+  "status": "APPROVED",
+  "atc": []
+}

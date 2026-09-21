@@ -1,0 +1,28 @@
+{
+  "drug_code": "86758",
+  "din": "02381729",
+  "brand_name": "ALOXI",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "27-JUN-2017",
+  "active_ingredients": [
+    {
+      "name": "PALONOSETRON (PALONOSETRON HYDROCHLORIDE)",
+      "strength": "0.5",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "CAPSULE"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "PURDUE PHARMA"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "PALONOSETRON"
+  ]
+}

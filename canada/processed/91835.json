@@ -1,0 +1,33 @@
+{
+  "drug_code": "91835",
+  "din": "02434016",
+  "brand_name": "TEINT LUMI\u00c3\u0088RE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "22-MAR-2018",
+  "active_ingredients": [
+    {
+      "name": "TITANIUM DIOXIDE",
+      "strength": "1.52",
+      "unit": "%"
+    },
+    {
+      "name": "OCTINOXATE",
+      "strength": "5",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "LOTION"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "GROUPE MARCELLE INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "COMBINATIONS OF PROTECTIVES AGAINST UV-RADIATION"
+  ]
+}

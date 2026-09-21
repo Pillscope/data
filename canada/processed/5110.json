@@ -1,0 +1,26 @@
+{
+  "drug_code": "5110",
+  "din": "00573760",
+  "brand_name": "FACTREL",
+  "class": "Veterinary",
+  "descriptor": "INJECTION",
+  "last_update": "03-NOV-2016",
+  "active_ingredients": [
+    {
+      "name": "GONADORELIN (GONADORELIN HYDROCHLORIDE)",
+      "strength": "50",
+      "unit": "MCG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "INTRAMUSCULAR"
+  ],
+  "companies": [
+    "ZOETIS CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": []
+}

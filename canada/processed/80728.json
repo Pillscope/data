@@ -1,0 +1,28 @@
+{
+  "drug_code": "80728",
+  "din": "02321874",
+  "brand_name": "EMERGENCY ACNE VANISHING FACIAL CLEANSER",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "05-DEC-2011",
+  "active_ingredients": [
+    {
+      "name": "BENZOYL PEROXIDE",
+      "strength": "5",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "LOTION"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "THE MENTHOLATUM COMPANY OF CANADA LTD"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "BENZOYL PEROXIDE"
+  ]
+}

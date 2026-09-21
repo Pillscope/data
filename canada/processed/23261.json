@@ -1,0 +1,28 @@
+{
+  "drug_code": "23261",
+  "din": "01964976",
+  "brand_name": "PMS DEXAMETHASONE TAB 0.5MG USP",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "08-FEB-2008",
+  "active_ingredients": [
+    {
+      "name": "DEXAMETHASONE",
+      "strength": "0.5",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "PHARMASCIENCE INC"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "DEXAMETHASONE"
+  ]
+}

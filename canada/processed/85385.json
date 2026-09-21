@@ -1,0 +1,28 @@
+{
+  "drug_code": "85385",
+  "din": "02368889",
+  "brand_name": "JAMP-PAROXETINE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "18-MAY-2017",
+  "active_ingredients": [
+    {
+      "name": "PAROXETINE (PAROXETINE HYDROCHLORIDE)",
+      "strength": "30",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "JAMP PHARMA CORPORATION"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "PAROXETINE"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "drug_code": "80986",
+  "din": "02324407",
+  "brand_name": "TIAMULIN SOLUBLE POWDER",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "25-JAN-2018",
+  "active_ingredients": [
+    {
+      "name": "TIAMULIN (TIAMULIN FUMARATE)",
+      "strength": "55.7",
+      "unit": "G"
+    }
+  ],
+  "forms": [
+    "POWDER FOR SOLUTION"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "BIO AGRI MIX LP"
+  ],
+  "status": "APPROVED",
+  "atc": []
+}

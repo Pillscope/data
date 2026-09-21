@@ -1,0 +1,28 @@
+{
+  "drug_code": "78899",
+  "din": "02303671",
+  "brand_name": "OMNARIS",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "23-JAN-2017",
+  "active_ingredients": [
+    {
+      "name": "CICLESONIDE",
+      "strength": "50",
+      "unit": "MCG"
+    }
+  ],
+  "forms": [
+    "SPRAY, METERED DOSE"
+  ],
+  "routes": [
+    "NASAL"
+  ],
+  "companies": [
+    "ASTRAZENECA CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "CICLESONIDE"
+  ]
+}

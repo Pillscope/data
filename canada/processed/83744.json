@@ -1,0 +1,34 @@
+{
+  "drug_code": "83744",
+  "din": "02352206",
+  "brand_name": "SPOR-KLENZ READY TO USE COLD STERILANT",
+  "class": "Disinfectant",
+  "descriptor": "",
+  "last_update": "18-OCT-2017",
+  "active_ingredients": [
+    {
+      "name": "HYDROGEN PEROXIDE",
+      "strength": "0.8",
+      "unit": "%"
+    },
+    {
+      "name": "PERACETIC ACID",
+      "strength": "0.06",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "DISINFECTANT (Medical Instruments)",
+    "DISINFECTANT (Hospital/HC Facilities)"
+  ],
+  "companies": [
+    "STERIS CORPORATION  ST LOUIS DIVISION"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "TECHNICAL DISINFECTANTS"
+  ]
+}

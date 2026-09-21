@@ -1,0 +1,28 @@
+{
+  "drug_code": "50944",
+  "din": "02231578",
+  "brand_name": "BIKINI ZONE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "13-JAN-2014",
+  "active_ingredients": [
+    {
+      "name": "LIDOCAINE",
+      "strength": "2",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "CREAM"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "CCA INDUSTRIES, INC."
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "LIDOCAINE"
+  ]
+}

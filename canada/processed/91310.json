@@ -1,0 +1,28 @@
+{
+  "drug_code": "91310",
+  "din": "02428652",
+  "brand_name": "ACT TADALAFIL",
+  "class": "Human",
+  "descriptor": "ON-DEMAND DOSING",
+  "last_update": "20-JUL-2016",
+  "active_ingredients": [
+    {
+      "name": "TADALAFIL",
+      "strength": "20",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "ACTAVIS PHARMA COMPANY"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "TADALAFIL"
+  ]
+}

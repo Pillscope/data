@@ -1,0 +1,28 @@
+{
+  "drug_code": "88447",
+  "din": "02399601",
+  "brand_name": "HEAD & SHOULDERS OCEAN LIFT 2 IN 1",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "23-JAN-2014",
+  "active_ingredients": [
+    {
+      "name": "PYRITHIONE ZINC",
+      "strength": "1",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "SHAMPOO"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "PROCTER & GAMBLE INC"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "PYRITHIONE ZINC"
+  ]
+}

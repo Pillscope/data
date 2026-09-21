@@ -1,0 +1,28 @@
+{
+  "drug_code": "5538",
+  "din": "00609706",
+  "brand_name": "HISTATROL",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "17-AUG-2009",
+  "active_ingredients": [
+    {
+      "name": "HISTAMINE PHOSPHATE",
+      "strength": "0.275",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "INTRADERMAL"
+  ],
+  "companies": [
+    "ALK-ABELLO INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "TESTS FOR ALLERGIC DISEASES"
+  ]
+}

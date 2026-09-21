@@ -1,0 +1,28 @@
+{
+  "drug_code": "90149",
+  "din": "02416883",
+  "brand_name": "WINDEX MULTI-SURFACE ANTIBACTERIAL DISINFECTANT 2",
+  "class": "Disinfectant",
+  "descriptor": "",
+  "last_update": "22-AUG-2017",
+  "active_ingredients": [
+    {
+      "name": "LACTIC ACID",
+      "strength": "0.19",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "LIQUID"
+  ],
+  "routes": [
+    "DISINFECTANT (Domestic)"
+  ],
+  "companies": [
+    "S.C. JOHNSON AND SON LTD"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "TECHNICAL DISINFECTANTS"
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "drug_code": "82718",
+  "din": "02341689",
+  "brand_name": "GD-DICLOFENAC/MISOPROSTOL 50",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "26-JUL-2017",
+  "active_ingredients": [
+    {
+      "name": "MISOPROSTOL",
+      "strength": "200",
+      "unit": "MCG"
+    },
+    {
+      "name": "DICLOFENAC SODIUM",
+      "strength": "50",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET (DELAYED-RELEASE)"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "GENMED A DIVISION OF PFIZER CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "DICLOFENAC, COMBINATIONS",
+    "DICLOFENAC, COMBINATIONS"
+  ]
+}

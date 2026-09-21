@@ -1,0 +1,33 @@
+{
+  "drug_code": "49687",
+  "din": "02230578",
+  "brand_name": "TWINRIX",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "10-JUN-2011",
+  "active_ingredients": [
+    {
+      "name": "HEPATITIS B SURFACE ANTIGEN (RECOMBINANT)",
+      "strength": "20",
+      "unit": "MCG"
+    },
+    {
+      "name": "HEPATITIS A VACCINE, INACTIVATED",
+      "strength": "720",
+      "unit": "UNIT"
+    }
+  ],
+  "forms": [
+    "SUSPENSION"
+  ],
+  "routes": [
+    "INTRAMUSCULAR"
+  ],
+  "companies": [
+    "GLAXOSMITHKLINE INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "COMBINATIONS"
+  ]
+}

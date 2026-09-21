@@ -1,0 +1,28 @@
+{
+  "drug_code": "2211",
+  "din": "00312797",
+  "brand_name": "IMIPRAMINE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "07-MAR-2011",
+  "active_ingredients": [
+    {
+      "name": "IMIPRAMINE HYDROCHLORIDE",
+      "strength": "25",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "AA PHARMA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "IMIPRAMINE"
+  ]
+}

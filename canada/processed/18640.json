@@ -1,0 +1,28 @@
+{
+  "drug_code": "18640",
+  "din": "02168898",
+  "brand_name": "ESTRING",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "26-JUL-2006",
+  "active_ingredients": [
+    {
+      "name": "ESTRADIOL",
+      "strength": "2",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "RING (SLOW-RELEASE)"
+  ],
+  "routes": [
+    "VAGINAL"
+  ],
+  "companies": [
+    "PFIZER CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "ESTRADIOL"
+  ]
+}

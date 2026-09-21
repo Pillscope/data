@@ -1,0 +1,26 @@
+{
+  "drug_code": "15237",
+  "din": "01987909",
+  "brand_name": "LUROCAINE INJECTION 20MG/ML",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "09-AUG-2016",
+  "active_ingredients": [
+    {
+      "name": "LIDOCAINE (LIDOCAINE HYDROCHLORIDE)",
+      "strength": "20",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "PARENTERAL (UNSPECIFIED)"
+  ],
+  "companies": [
+    "VETOQUINOL N A INC"
+  ],
+  "status": "MARKETED",
+  "atc": []
+}

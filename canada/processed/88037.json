@@ -1,0 +1,28 @@
+{
+  "drug_code": "88037",
+  "din": "02395266",
+  "brand_name": "PMS-LANSOPRAZOLE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "16-MAY-2013",
+  "active_ingredients": [
+    {
+      "name": "LANSOPRAZOLE",
+      "strength": "30",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "CAPSULE (DELAYED RELEASE)"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "PHARMASCIENCE INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "LANSOPRAZOLE"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "drug_code": "64194",
+  "din": "02240621",
+  "brand_name": "OXYGEN USP",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "19-AUG-2005",
+  "active_ingredients": [
+    {
+      "name": "OXYGEN",
+      "strength": "99",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "GAS"
+  ],
+  "routes": [
+    "INHALATION"
+  ],
+  "companies": [
+    "HURONIA/MED-E-OX LTD."
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "OXYGEN"
+  ]
+}

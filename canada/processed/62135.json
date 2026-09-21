@@ -1,0 +1,28 @@
+{
+  "drug_code": "62135",
+  "din": "02238703",
+  "brand_name": "LAMISIL",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "12-APR-2017",
+  "active_ingredients": [
+    {
+      "name": "TERBINAFINE HYDROCHLORIDE",
+      "strength": "1",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "SPRAY"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "NOVARTIS PHARMACEUTICALS CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "TERBINAFINE"
+  ]
+}

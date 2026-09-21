@@ -1,0 +1,28 @@
+{
+  "drug_code": "89803",
+  "din": "02413353",
+  "brand_name": "SPECTRO ACNECARE WASH FOR ACNE PRONE SKIN",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "13-AUG-2014",
+  "active_ingredients": [
+    {
+      "name": "BENZOYL PEROXIDE",
+      "strength": "4",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "LOTION"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "GLAXOSMITHKLINE CONSUMER HEALTHCARE INC."
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "BENZOYL PEROXIDE"
+  ]
+}

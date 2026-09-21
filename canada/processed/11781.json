@@ -1,0 +1,28 @@
+{
+  "drug_code": "11781",
+  "din": "01913689",
+  "brand_name": "TEVA-GLYBURIDE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "05-MAY-2015",
+  "active_ingredients": [
+    {
+      "name": "GLYBURIDE",
+      "strength": "5",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "TEVA CANADA LIMITED"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "GLIBENCLAMIDE"
+  ]
+}

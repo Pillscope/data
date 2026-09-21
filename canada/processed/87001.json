@@ -1,0 +1,28 @@
+{
+  "drug_code": "87001",
+  "din": "02384272",
+  "brand_name": "GUM PAROEX",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "01-OCT-2012",
+  "active_ingredients": [
+    {
+      "name": "CHLORHEXIDINE GLUCONATE",
+      "strength": "0.12",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "MOUTHWASH/GARGLE"
+  ],
+  "routes": [
+    "BUCCAL"
+  ],
+  "companies": [
+    "SUNSTAR AMERICAS INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "CHLORHEXIDINE"
+  ]
+}

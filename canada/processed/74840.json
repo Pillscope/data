@@ -1,0 +1,28 @@
+{
+  "drug_code": "74840",
+  "din": "02262991",
+  "brand_name": "PMS-TOPIRAMATE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "18-AUG-2015",
+  "active_ingredients": [
+    {
+      "name": "TOPIRAMATE",
+      "strength": "25",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "PHARMASCIENCE INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "TOPIRAMATE"
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "drug_code": "9555",
+  "din": "00801739",
+  "brand_name": "TEAT DIP & SKIN CONDITIONER LIQ",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "19-AUG-2008",
+  "active_ingredients": [
+    {
+      "name": "GLYCERINE",
+      "strength": "6.0",
+      "unit": "%"
+    },
+    {
+      "name": "POLYETHOXY POLYPROPOXY POLYETHOXY ETHANOL - IODINE COMPLEX",
+      "strength": "4.25",
+      "unit": "%"
+    },
+    {
+      "name": "NONYL PHENOXYPOLY ETHOXY ETHANOL-IODINE",
+      "strength": "4.25",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "LIQUID"
+  ],
+  "routes": [
+    "TEAT-DIP"
+  ],
+  "companies": [
+    "WESTERN CHEMICAL INC"
+  ],
+  "status": "MARKETED",
+  "atc": []
+}

@@ -1,0 +1,28 @@
+{
+  "drug_code": "76872",
+  "din": "02283093",
+  "brand_name": "MENOPUR",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "07-NOV-2006",
+  "active_ingredients": [
+    {
+      "name": "MENOTROPINS",
+      "strength": "75",
+      "unit": "UNIT"
+    }
+  ],
+  "forms": [
+    "POWDER FOR SOLUTION"
+  ],
+  "routes": [
+    "SUBCUTANEOUS"
+  ],
+  "companies": [
+    "FERRING INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "HUMAN MENOPAUSAL GONADOTROPHIN"
+  ]
+}

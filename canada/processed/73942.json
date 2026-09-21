@@ -1,0 +1,28 @@
+{
+  "drug_code": "73942",
+  "din": "02254522",
+  "brand_name": "APO-QUININE CAPSULES",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "23-JUN-2014",
+  "active_ingredients": [
+    {
+      "name": "QUININE SULFATE",
+      "strength": "300",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "CAPSULE"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "APOTEX INC"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "QUININE"
+  ]
+}

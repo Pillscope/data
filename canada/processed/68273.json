@@ -1,0 +1,28 @@
+{
+  "drug_code": "68273",
+  "din": "02244305",
+  "brand_name": "APO-GABAPENTIN CAPSULES",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "13-MAR-2006",
+  "active_ingredients": [
+    {
+      "name": "GABAPENTIN",
+      "strength": "300",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "CAPSULE"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "APOTEX INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "GABAPENTIN"
+  ]
+}

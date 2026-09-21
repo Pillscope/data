@@ -1,0 +1,28 @@
+{
+  "drug_code": "70020",
+  "din": "02245903",
+  "brand_name": "SPROAM",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "23-JUN-2009",
+  "active_ingredients": [
+    {
+      "name": "BENZETHONIUM CHLORIDE",
+      "strength": "0.1",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "LIQUID"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "COLOPLAST A/S"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "BENZETHONIUM CHLORIDE"
+  ]
+}

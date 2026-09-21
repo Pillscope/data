@@ -1,0 +1,28 @@
+{
+  "drug_code": "75432",
+  "din": "02268922",
+  "brand_name": "MYLAN-SUMATRIPTAN",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "25-JAN-2010",
+  "active_ingredients": [
+    {
+      "name": "SUMATRIPTAN (SUMATRIPTAN SUCCINATE)",
+      "strength": "100",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "MYLAN PHARMACEUTICALS ULC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "SUMATRIPTAN"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "drug_code": "83030",
+  "din": "02344823",
+  "brand_name": "AURO-CEFUROXIME",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "16-FEB-2012",
+  "active_ingredients": [
+    {
+      "name": "CEFUROXIME (CEFUROXIME AXETIL)",
+      "strength": "250",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "AUROBINDO PHARMA LIMITED (UNIT VI)"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "CEFUROXIME"
+  ]
+}

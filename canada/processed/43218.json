@@ -1,0 +1,29 @@
+{
+  "drug_code": "43218",
+  "din": "02217457",
+  "brand_name": "STANDARDIZED CAT HAIR AP",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "09-OCT-2012",
+  "active_ingredients": [
+    {
+      "name": "STANDARDIZED CAT HAIR ACETONE PRECIPITATED",
+      "strength": "10000",
+      "unit": "UNIT"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "INTRADERMAL",
+    "SUBCUTANEOUS"
+  ],
+  "companies": [
+    "JUBILANT HOLLISTERSTIER LLC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "ANIMALS"
+  ]
+}

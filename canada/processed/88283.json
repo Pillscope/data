@@ -1,0 +1,28 @@
+{
+  "drug_code": "88283",
+  "din": "02397900",
+  "brand_name": "TEVA-SOLIFENACIN",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "04-AUG-2015",
+  "active_ingredients": [
+    {
+      "name": "SOLIFENACIN SUCCINATE",
+      "strength": "5",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "TEVA CANADA LIMITED"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "SOLIFENACIN"
+  ]
+}

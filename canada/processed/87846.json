@@ -1,0 +1,28 @@
+{
+  "drug_code": "87846",
+  "din": "02393220",
+  "brand_name": "PMS-DUTASTERIDE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "05-SEP-2014",
+  "active_ingredients": [
+    {
+      "name": "DUTASTERIDE",
+      "strength": "0.5",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "CAPSULE"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "PHARMASCIENCE INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "DUTASTERIDE"
+  ]
+}

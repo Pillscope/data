@@ -1,0 +1,29 @@
+{
+  "drug_code": "1620",
+  "din": "00260436",
+  "brand_name": "DALACIN C PHOSPHATE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "30-APR-2009",
+  "active_ingredients": [
+    {
+      "name": "CLINDAMYCIN (CLINDAMYCIN PHOSPHATE)",
+      "strength": "150",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "INTRAMUSCULAR",
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "PFIZER CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "CLINDAMYCIN"
+  ]
+}

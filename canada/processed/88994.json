@@ -1,0 +1,33 @@
+{
+  "drug_code": "88994",
+  "din": "02405113",
+  "brand_name": "ESTEE LAUDER PERFECTIONIST YOUTH-INFUSING MAKEUP SPF 25",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "14-AUG-2014",
+  "active_ingredients": [
+    {
+      "name": "TITANIUM DIOXIDE",
+      "strength": "1.9",
+      "unit": "%"
+    },
+    {
+      "name": "OCTINOXATE",
+      "strength": "7.5",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "EMULSION"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "ESTEE LAUDER DIST"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "COMBINATIONS OF PROTECTIVES AGAINST UV-RADIATION"
+  ]
+}

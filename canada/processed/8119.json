@@ -1,0 +1,28 @@
+{
+  "drug_code": "8119",
+  "din": "00711306",
+  "brand_name": "PHOSPHATE DE POTASSIUM MONOBASIC INJ 176MG/ML",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "05-AUG-2015",
+  "active_ingredients": [
+    {
+      "name": "POTASSIUM PHOSPHATE MONOBASIC",
+      "strength": "176",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "LIQUID"
+  ],
+  "routes": [
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "SANDOZ CANADA INCORPORATED"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "POTASSIUM PHOS INCL COMB W/0TH POT. SALTS"
+  ]
+}

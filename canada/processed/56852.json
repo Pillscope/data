@@ -1,0 +1,28 @@
+{
+  "drug_code": "56852",
+  "din": "02235134",
+  "brand_name": "TEVA-CEFADROXIL",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "05-MAY-2015",
+  "active_ingredients": [
+    {
+      "name": "CEFADROXIL (CEFADROXIL MONOHYDRATE)",
+      "strength": "500",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "CAPSULE"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "TEVA CANADA LIMITED"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "CEFADROXIL"
+  ]
+}

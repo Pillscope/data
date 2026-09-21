@@ -1,0 +1,33 @@
+{
+  "drug_code": "70138",
+  "din": "02246012",
+  "brand_name": "CAVIWIPES XL",
+  "class": "Disinfectant",
+  "descriptor": "",
+  "last_update": "27-APR-2012",
+  "active_ingredients": [
+    {
+      "name": "ISOPROPYL ALCOHOL",
+      "strength": "17.20",
+      "unit": "%"
+    },
+    {
+      "name": "BENZETHONIUM CHLORIDE",
+      "strength": "0.28",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "WIPE"
+  ],
+  "routes": [
+    "DISINFECTANT (Hospital/HC Facilities)"
+  ],
+  "companies": [
+    "METREX RESEARCH"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "TECHNICAL DISINFECTANTS"
+  ]
+}

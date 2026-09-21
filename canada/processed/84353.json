@@ -1,0 +1,43 @@
+{
+  "drug_code": "84353",
+  "din": "02358484",
+  "brand_name": "SUNCARE DEFENSE SPF 25 MINERAL MOISTURIZER FACE & BODY",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "09-DEC-2014",
+  "active_ingredients": [
+    {
+      "name": "OCTOCRYLENE",
+      "strength": "7.5",
+      "unit": "%"
+    },
+    {
+      "name": "OXYBENZONE",
+      "strength": "6.0",
+      "unit": "%"
+    },
+    {
+      "name": "OCTISALATE",
+      "strength": "0.49",
+      "unit": "%"
+    },
+    {
+      "name": "OCTINOXATE",
+      "strength": "7.5",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "SUSPENSION"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "SPA DE SOLEIL"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "COMBINATIONS OF PROTECTIVES AGAINST UV-RADIATION"
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "drug_code": "6404",
+  "din": "00641596",
+  "brand_name": "ELECTRATE",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "28-MAY-2009",
+  "active_ingredients": [
+    {
+      "name": "MAGNESIUM (MAGNESIUM CHLORIDE)",
+      "strength": "6",
+      "unit": "mEq"
+    },
+    {
+      "name": "ACETATE (SODIUM ACETATE)",
+      "strength": "50",
+      "unit": "mEq"
+    },
+    {
+      "name": "SODIUM (SODIUM CHLORIDE)",
+      "strength": "132",
+      "unit": "mEq"
+    },
+    {
+      "name": "CALCIUM (CALCIUM CHLORIDE)",
+      "strength": "5",
+      "unit": "mEq"
+    },
+    {
+      "name": "INVERT SUGAR",
+      "strength": "50",
+      "unit": "G"
+    },
+    {
+      "name": "POTASSIUM (POTASSIUM CHLORIDE)",
+      "strength": "10",
+      "unit": "mEq"
+    }
+  ],
+  "forms": [
+    "LIQUID"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "MTC PHARMACEUTICALS"
+  ],
+  "status": "MARKETED",
+  "atc": []
+}

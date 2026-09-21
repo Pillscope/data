@@ -1,0 +1,28 @@
+{
+  "drug_code": "3076",
+  "din": "00271373",
+  "brand_name": "WINPRED TAB 1MG",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "02-JAN-2014",
+  "active_ingredients": [
+    {
+      "name": "PREDNISONE",
+      "strength": "1",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "AA PHARMA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "PREDNISONE"
+  ]
+}

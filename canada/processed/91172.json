@@ -1,0 +1,28 @@
+{
+  "drug_code": "91172",
+  "din": "02427192",
+  "brand_name": "PRIVA-CETIRIZINE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "05-NOV-2015",
+  "active_ingredients": [
+    {
+      "name": "CETIRIZINE HYDROCHLORIDE",
+      "strength": "20",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "PHARMAPAR INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "CETIRIZINE"
+  ]
+}

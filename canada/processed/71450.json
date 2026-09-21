@@ -1,0 +1,48 @@
+{
+  "drug_code": "71450",
+  "din": "02247208",
+  "brand_name": "DUKORAL",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "16-AUG-2016",
+  "active_ingredients": [
+    {
+      "name": "VIBRIO CHOLERAE INABA 6973 E1 TOR BIOTYPE, FORMALIN INACTIVATED",
+      "strength": "25000000000",
+      "unit": "UNIT"
+    },
+    {
+      "name": "VIBRIO CHOLERAE INABA 48 CLASSICAL BIOTYPE, HEAT INACTIVATED",
+      "strength": "25000000000",
+      "unit": "UNIT"
+    },
+    {
+      "name": "VIBRIO CHOLERAE OGAWA 50 CLASSICAL BIOTYPE, HEAT INACTIVATED",
+      "strength": "25000000000",
+      "unit": "UNIT"
+    },
+    {
+      "name": "VIBRIO CHOLERAE OGAWA 50 CLASSICAL BIOTYPE, FORMALIN INACTIVATED",
+      "strength": "25000000000",
+      "unit": "UNIT"
+    },
+    {
+      "name": "RECOMBINANT CHOLERA TOXIN B SUBUNIT",
+      "strength": "1",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SUSPENSION"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "VALNEVA SWEDEN AB"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "CHOLERA, INACTIVATED, WHOLE CELL"
+  ]
+}

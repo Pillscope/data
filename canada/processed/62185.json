@@ -1,0 +1,26 @@
+{
+  "drug_code": "62185",
+  "din": "02238749",
+  "brand_name": "PEROX-AID",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "02-JUN-2014",
+  "active_ingredients": [
+    {
+      "name": "HYDROGEN PEROXIDE",
+      "strength": "35",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "SYNDEL CANADA"
+  ],
+  "status": "APPROVED",
+  "atc": []
+}

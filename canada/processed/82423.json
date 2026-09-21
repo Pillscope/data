@@ -1,0 +1,28 @@
+{
+  "drug_code": "82423",
+  "din": "02338580",
+  "brand_name": "VOLTAREN EMULGEL JOINT PAIN REGULAR STRENGTH",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "09-NOV-2017",
+  "active_ingredients": [
+    {
+      "name": "DICLOFENAC DIETHYLAMINE",
+      "strength": "1.16",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "GEL"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "GLAXOSMITHKLINE CONSUMER HEALTHCARE INC."
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "DICLOFENAC"
+  ]
+}

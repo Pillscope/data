@@ -1,0 +1,26 @@
+{
+  "drug_code": "69474",
+  "din": "02245422",
+  "brand_name": "PROHEART 6",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "22-MAR-2017",
+  "active_ingredients": [
+    {
+      "name": "MOXIDECTIN",
+      "strength": "10",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "SUSPENSION"
+  ],
+  "routes": [
+    "SUBCUTANEOUS"
+  ],
+  "companies": [
+    "ZOETIS CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": []
+}

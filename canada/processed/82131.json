@@ -1,0 +1,28 @@
+{
+  "drug_code": "82131",
+  "din": "02335727",
+  "brand_name": "TOLOXIN",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "04-JUL-2012",
+  "active_ingredients": [
+    {
+      "name": "DIGOXIN",
+      "strength": "0.250",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "PENDOPHARM DIVISION OF DE PHARMASCIENCE INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "DIGOXIN"
+  ]
+}

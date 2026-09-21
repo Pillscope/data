@@ -1,0 +1,28 @@
+{
+  "drug_code": "92871",
+  "din": "02443937",
+  "brand_name": "JARDIANCE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "10-MAY-2016",
+  "active_ingredients": [
+    {
+      "name": "EMPAGLIFLOZIN",
+      "strength": "10",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "BOEHRINGER INGELHEIM (CANADA) LTD LTEE"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "EMPAGLIFLOZIN"
+  ]
+}

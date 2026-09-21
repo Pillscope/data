@@ -1,0 +1,28 @@
+{
+  "drug_code": "69619",
+  "din": "02245532",
+  "brand_name": "PMS-PREDNISOLONE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "21-AUG-2006",
+  "active_ingredients": [
+    {
+      "name": "PREDNISOLONE (PREDNISOLONE SODIUM PHOSPHATE)",
+      "strength": "5",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "PHARMASCIENCE INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "PREDNISOLONE"
+  ]
+}

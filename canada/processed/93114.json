@@ -1,0 +1,28 @@
+{
+  "drug_code": "93114",
+  "din": "02445867",
+  "brand_name": "BIO-PANTOPRAZOLE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "06-DEC-2016",
+  "active_ingredients": [
+    {
+      "name": "PANTOPRAZOLE (PANTOPRAZOLE SODIUM SESQUIHYDRATE)",
+      "strength": "40",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET (DELAYED-RELEASE)"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "BIOMED PHARMA"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "PANTOPRAZOLE"
+  ]
+}

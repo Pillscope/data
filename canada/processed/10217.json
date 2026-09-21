@@ -1,0 +1,38 @@
+{
+  "drug_code": "10217",
+  "din": "00623709",
+  "brand_name": "STOMAAX PLUS",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "22-OCT-2012",
+  "active_ingredients": [
+    {
+      "name": "MAGNESIUM HYDROXIDE",
+      "strength": "200",
+      "unit": "MG"
+    },
+    {
+      "name": "DIMETHICONE",
+      "strength": "25",
+      "unit": "MG"
+    },
+    {
+      "name": "ALUMINUM HYDROXIDE",
+      "strength": "200",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SUSPENSION"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "LABORATOIRE ATLAS INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "ORDINARY SALT COMBINATIONS AND ANTIFLATULENTS"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "drug_code": "10128",
+  "din": "00786047",
+  "brand_name": "JAA PYRAL 35 TABLET 35MG",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "05-AUG-2005",
+  "active_ingredients": [
+    {
+      "name": "PYRANTEL (PYRANTEL PAMOATE)",
+      "strength": "35",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "JAAPHARM CANADA INC."
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "PYRANTEL"
+  ]
+}

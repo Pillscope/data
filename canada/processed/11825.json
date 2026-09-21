@@ -1,0 +1,26 @@
+{
+  "drug_code": "11825",
+  "din": "00849405",
+  "brand_name": "POLYFLEX",
+  "class": "Veterinary",
+  "descriptor": "AMPICILLIN FOR INJECTABLE SUSPENSION USP",
+  "last_update": "05-MAY-2015",
+  "active_ingredients": [
+    {
+      "name": "AMPICILLIN (AMPICILLIN TRIHYDRATE)",
+      "strength": "25",
+      "unit": "G"
+    }
+  ],
+  "forms": [
+    "POWDER FOR SUSPENSION"
+  ],
+  "routes": [
+    "INTRAMUSCULAR"
+  ],
+  "companies": [
+    "BOEHRINGER INGELHEIM (CANADA) LTD LTEE"
+  ],
+  "status": "APPROVED",
+  "atc": []
+}

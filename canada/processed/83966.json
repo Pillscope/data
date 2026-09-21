@@ -1,0 +1,43 @@
+{
+  "drug_code": "83966",
+  "din": "02354497",
+  "brand_name": "PHOTODERM SPF/FPS 50+ LAIT",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "19-OCT-2016",
+  "active_ingredients": [
+    {
+      "name": "AVOBENZONE",
+      "strength": "5",
+      "unit": "%"
+    },
+    {
+      "name": "OCTOCRYLENE",
+      "strength": "10",
+      "unit": "%"
+    },
+    {
+      "name": "BISOCTRIZOLE",
+      "strength": "6",
+      "unit": "%"
+    },
+    {
+      "name": "BEMOTRIZINOL",
+      "strength": "2.5",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "CREAM"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "NAOS"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "COMBINATIONS OF PROTECTIVES AGAINST UV-RADIATION"
+  ]
+}

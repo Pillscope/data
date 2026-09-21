@@ -1,0 +1,28 @@
+{
+  "drug_code": "79602",
+  "din": "02310384",
+  "brand_name": "SANDOZ OLANZAPINE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "17-JAN-2011",
+  "active_ingredients": [
+    {
+      "name": "OLANZAPINE",
+      "strength": "10.0",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "SANDOZ CANADA INCORPORATED"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "OLANZAPINE"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "drug_code": "77724",
+  "din": "02291878",
+  "brand_name": "ACT ENALAPRIL",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "19-AUG-2017",
+  "active_ingredients": [
+    {
+      "name": "ENALAPRIL SODIUM (ENALAPRIL MALEATE)",
+      "strength": "2",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "TEVA CANADA LIMITED"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "ENALAPRIL"
+  ]
+}

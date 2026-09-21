@@ -1,0 +1,34 @@
+{
+  "drug_code": "11427",
+  "din": "00834300",
+  "brand_name": "ACETAZONE FORTE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "29-APR-2015",
+  "active_ingredients": [
+    {
+      "name": "CHLORZOXAZONE",
+      "strength": "250",
+      "unit": "MG"
+    },
+    {
+      "name": "ACETAMINOPHEN",
+      "strength": "300",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "TEVA CANADA LIMITED"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "CHLORZOXAZONE, COMBINATIONS EXCL PSYCHOLEPTICS",
+    "CHLORZOXAZONE, COMBINATIONS EXCL PSYCHOLEPTICS"
+  ]
+}

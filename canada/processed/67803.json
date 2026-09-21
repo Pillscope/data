@@ -1,0 +1,28 @@
+{
+  "drug_code": "67803",
+  "din": "02243862",
+  "brand_name": "FUCITHALMIC",
+  "class": "Human",
+  "descriptor": "WITH PRESERVATIVE",
+  "last_update": "17-NOV-2014",
+  "active_ingredients": [
+    {
+      "name": "FUSIDIC ACID",
+      "strength": "1",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "DROPS"
+  ],
+  "routes": [
+    "OPHTHALMIC"
+  ],
+  "companies": [
+    "AMDIPHARM LIMITED"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "FUSIDIC ACID"
+  ]
+}

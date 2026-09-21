@@ -1,0 +1,28 @@
+{
+  "drug_code": "62181",
+  "din": "02238748",
+  "brand_name": "VIRAMUNE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "24-APR-2013",
+  "active_ingredients": [
+    {
+      "name": "NEVIRAPINE",
+      "strength": "200",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "BOEHRINGER INGELHEIM (CANADA) LTD LTEE"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "NEVIRAPINE"
+  ]
+}

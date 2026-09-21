@@ -1,0 +1,28 @@
+{
+  "drug_code": "2153",
+  "din": "00297763",
+  "brand_name": "BICNU",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "21-SEP-2017",
+  "active_ingredients": [
+    {
+      "name": "CARMUSTINE",
+      "strength": "100",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "POWDER FOR SOLUTION"
+  ],
+  "routes": [
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "MARCAN PHARMACEUTICALS INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "CARMUSTINE"
+  ]
+}

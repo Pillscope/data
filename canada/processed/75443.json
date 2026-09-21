@@ -1,0 +1,28 @@
+{
+  "drug_code": "75443",
+  "din": "02269023",
+  "brand_name": "TARCEVA",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "28-JUL-2010",
+  "active_ingredients": [
+    {
+      "name": "ERLOTINIB (ERLOTINIB HYDROCHLORIDE)",
+      "strength": "150",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "HOFFMANN-LA ROCHE LIMITED"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "ERLOTINIB"
+  ]
+}

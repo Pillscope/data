@@ -1,0 +1,56 @@
+{
+  "drug_code": "3314",
+  "din": "00455474",
+  "brand_name": "SHIN O GEL",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "08-DEC-2015",
+  "active_ingredients": [
+    {
+      "name": "CAMPHOR",
+      "strength": "5.1",
+      "unit": "G"
+    },
+    {
+      "name": "TURPENTINE",
+      "strength": "5.1",
+      "unit": "G"
+    },
+    {
+      "name": "ETHYL ETHER",
+      "strength": "10.5",
+      "unit": "G"
+    },
+    {
+      "name": "ARNICA",
+      "strength": "10.5",
+      "unit": "G"
+    },
+    {
+      "name": "MENTHOL",
+      "strength": "5.1",
+      "unit": "G"
+    },
+    {
+      "name": "ISOPROPYL ALCOHOL",
+      "strength": "12",
+      "unit": "G"
+    },
+    {
+      "name": "METHYL SALICYLATE",
+      "strength": "41.7",
+      "unit": "G"
+    }
+  ],
+  "forms": [
+    "OINTMENT"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "HAWTHORNE PRODUCTS INC."
+  ],
+  "status": "MARKETED",
+  "atc": []
+}

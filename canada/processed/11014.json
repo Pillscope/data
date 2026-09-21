@@ -1,0 +1,26 @@
+{
+  "drug_code": "11014",
+  "din": "00824186",
+  "brand_name": "ZINC BACITRACIN 110",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "22-JAN-2018",
+  "active_ingredients": [
+    {
+      "name": "BACITRACIN ZINC",
+      "strength": "110",
+      "unit": "G"
+    }
+  ],
+  "forms": [
+    "DRUG PREMIX"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "DAVIS AND LAWRENCE CO."
+  ],
+  "status": "APPROVED",
+  "atc": []
+}

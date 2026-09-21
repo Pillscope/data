@@ -1,0 +1,28 @@
+{
+  "drug_code": "11798",
+  "din": "01905392",
+  "brand_name": "ENTROPHEN 650MG CAPLET ECT",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "15-NOV-2013",
+  "active_ingredients": [
+    {
+      "name": "ACETYLSALICYLIC ACID",
+      "strength": "650",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET (ENTERIC-COATED)"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "PENDOPHARM DIVISION OF DE PHARMASCIENCE INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "ACETYLSALICYLIC ACID"
+  ]
+}

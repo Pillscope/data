@@ -1,0 +1,26 @@
+{
+  "drug_code": "91218",
+  "din": "02427672",
+  "brand_name": "HYPERSALINE 7.2%",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "12-JUN-2015",
+  "active_ingredients": [
+    {
+      "name": "SODIUM CHLORIDE",
+      "strength": "7.2",
+      "unit": "G"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "DMVET INC"
+  ],
+  "status": "MARKETED",
+  "atc": []
+}

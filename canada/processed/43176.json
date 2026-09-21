@@ -1,0 +1,28 @@
+{
+  "drug_code": "43176",
+  "din": "02216221",
+  "brand_name": "TEVA-IPRATROPIUM STERINEBS",
+  "class": "Human",
+  "descriptor": "1ML & 2ML SINGLE-USE VIALS",
+  "last_update": "30-APR-2018",
+  "active_ingredients": [
+    {
+      "name": "IPRATROPIUM BROMIDE",
+      "strength": "250",
+      "unit": "MCG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "INHALATION"
+  ],
+  "companies": [
+    "TEVA CANADA LIMITED"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "IPRATROPIUM BROMIDE"
+  ]
+}

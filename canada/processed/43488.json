@@ -1,0 +1,26 @@
+{
+  "drug_code": "43488",
+  "din": "02228386",
+  "brand_name": "CYDECTIN",
+  "class": "Veterinary",
+  "descriptor": "POUR-ON FOR BEEF AND DAIRY CATTLE",
+  "last_update": "05-MAY-2015",
+  "active_ingredients": [
+    {
+      "name": "MOXIDECTIN",
+      "strength": "5",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "BOEHRINGER INGELHEIM (CANADA) LTD LTEE"
+  ],
+  "status": "APPROVED",
+  "atc": []
+}

@@ -1,0 +1,28 @@
+{
+  "drug_code": "74760",
+  "din": "02262215",
+  "brand_name": "BURN RELIEF GEL WITH LIDOCAINE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "31-AUG-2006",
+  "active_ingredients": [
+    {
+      "name": "LIDOCAINE HYDROCHLORIDE",
+      "strength": "0.72",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "GEL"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "PRIME ENTERPRISES INC"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "LIDOCAINE"
+  ]
+}

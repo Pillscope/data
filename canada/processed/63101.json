@@ -1,0 +1,28 @@
+{
+  "drug_code": "63101",
+  "din": "02239630",
+  "brand_name": "TOBI",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "08-MAR-2016",
+  "active_ingredients": [
+    {
+      "name": "TOBRAMYCIN (TOBRAMYCIN SULFATE)",
+      "strength": "300",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "INHALATION"
+  ],
+  "companies": [
+    "NOVARTIS PHARMACEUTICALS CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "TOBRAMYCIN"
+  ]
+}

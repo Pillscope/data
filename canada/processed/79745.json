@@ -1,0 +1,26 @@
+{
+  "drug_code": "79745",
+  "din": "02311917",
+  "brand_name": "FURAZONE DRESSING",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "27-NOV-2014",
+  "active_ingredients": [
+    {
+      "name": "NITROFURAZONE",
+      "strength": "0.2",
+      "unit": "G"
+    }
+  ],
+  "forms": [
+    "OINTMENT"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "WECAN SALES LTD"
+  ],
+  "status": "MARKETED",
+  "atc": []
+}

@@ -1,0 +1,33 @@
+{
+  "drug_code": "92185",
+  "din": "02437511",
+  "brand_name": "JINARC",
+  "class": "Human",
+  "descriptor": "COMBINATION PACK: 60+30MG",
+  "last_update": "24-JUN-2015",
+  "active_ingredients": [
+    {
+      "name": "Tolvaptan",
+      "strength": "60",
+      "unit": "MG"
+    },
+    {
+      "name": "Tolvaptan",
+      "strength": "30",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "OTSUKA PHARMACEUTICAL CO LTD"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "TOLVAPTAN"
+  ]
+}

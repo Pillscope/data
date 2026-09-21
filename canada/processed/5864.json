@@ -1,0 +1,28 @@
+{
+  "drug_code": "5864",
+  "din": "00598488",
+  "brand_name": "PMS-SULFASALAZINE-E.C. TAB 500MG",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "22-AUG-2006",
+  "active_ingredients": [
+    {
+      "name": "SULFASALAZINE",
+      "strength": "500",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET (ENTERIC-COATED)"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "PHARMASCIENCE INC"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "SULFASALAZINE"
+  ]
+}

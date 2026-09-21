@@ -1,0 +1,28 @@
+{
+  "drug_code": "11207",
+  "din": "00854514",
+  "brand_name": "VANTEX SKIN BLEACHING CRM W SUNSCREEN 2%",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "10-MAY-2016",
+  "active_ingredients": [
+    {
+      "name": "HYDROQUINONE",
+      "strength": "2",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "CREAM"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "FASHION FAIR LLC"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "HYDROQUINONE"
+  ]
+}

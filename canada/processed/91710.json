@@ -1,0 +1,28 @@
+{
+  "drug_code": "91710",
+  "din": "02432676",
+  "brand_name": "POSANOL",
+  "class": "Human",
+  "descriptor": "300MG/VIAL. SINGLE USE VIAL.",
+  "last_update": "25-MAY-2015",
+  "active_ingredients": [
+    {
+      "name": "POSACONAZOLE",
+      "strength": "18",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "MERCK CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "POSACONAZOLE"
+  ]
+}

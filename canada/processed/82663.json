@@ -1,0 +1,28 @@
+{
+  "drug_code": "82663",
+  "din": "02341085",
+  "brand_name": "RIVA-LATANOPROST",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "11-JUN-2015",
+  "active_ingredients": [
+    {
+      "name": "LATANOPROST",
+      "strength": "50",
+      "unit": "MCG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "OPHTHALMIC"
+  ],
+  "companies": [
+    "LABORATOIRE RIVA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "LATANOPROST"
+  ]
+}

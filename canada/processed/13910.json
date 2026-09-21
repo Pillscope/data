@@ -1,0 +1,33 @@
+{
+  "drug_code": "13910",
+  "din": "02014432",
+  "brand_name": "CARBON DIOXIDE USP, OXYGEN USP MEDICAL G.M.",
+  "class": "Human",
+  "descriptor": "CO2:1-7% BALANCED WITH O2",
+  "last_update": "14-JUL-2010",
+  "active_ingredients": [
+    {
+      "name": "OXYGEN",
+      "strength": "93",
+      "unit": "%"
+    },
+    {
+      "name": "CARBON DIOXIDE",
+      "strength": "7",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "GAS"
+  ],
+  "routes": [
+    "INHALATION"
+  ],
+  "companies": [
+    "PRAXAIR CANADA INC"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "COMBINATION"
+  ]
+}

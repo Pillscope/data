@@ -1,0 +1,28 @@
+{
+  "drug_code": "7425",
+  "din": "00649074",
+  "brand_name": "METRONIDAZOLE INJECTION USP",
+  "class": "Human",
+  "descriptor": "FOR I.V. INFUSION ONLY. 100ML SINGLE-USE BAG CONTAINER",
+  "last_update": "08-SEP-2017",
+  "active_ingredients": [
+    {
+      "name": "METRONIDAZOLE",
+      "strength": "5",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "PFIZER CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "METRONIDAZOLE"
+  ]
+}

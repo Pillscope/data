@@ -1,0 +1,28 @@
+{
+  "drug_code": "85928",
+  "din": "02374080",
+  "brand_name": "XYNTHA SOLOFUSE",
+  "class": "Human",
+  "descriptor": "SINGLE-USE, DUAL-CHAMBER SYRINGE, PREFILLED WITH XYNTHA AND 4ML DILUENT",
+  "last_update": "25-JAN-2013",
+  "active_ingredients": [
+    {
+      "name": "MOROCTOCOG ALFA",
+      "strength": "2000",
+      "unit": "UNIT"
+    }
+  ],
+  "forms": [
+    "POWDER FOR SOLUTION"
+  ],
+  "routes": [
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "PFIZER CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "COAGULATION FACTOR VIII"
+  ]
+}

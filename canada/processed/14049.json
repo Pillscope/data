@@ -1,0 +1,28 @@
+{
+  "drug_code": "14049",
+  "din": "02012472",
+  "brand_name": "LOVENOX",
+  "class": "Human",
+  "descriptor": "SINGLE DOSE PRE-FILLED SYRINGE 30MG/0.3ML",
+  "last_update": "21-SEP-2017",
+  "active_ingredients": [
+    {
+      "name": "ENOXAPARIN SODIUM",
+      "strength": "30",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "SUBCUTANEOUS"
+  ],
+  "companies": [
+    "SANOFI-AVENTIS CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "ENOXAPARIN"
+  ]
+}

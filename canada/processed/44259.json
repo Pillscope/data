@@ -1,0 +1,28 @@
+{
+  "drug_code": "44259",
+  "din": "02182920",
+  "brand_name": "NIZORAL  - 2%",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "06-MAY-2015",
+  "active_ingredients": [
+    {
+      "name": "KETOCONAZOLE",
+      "strength": "2",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "SHAMPOO"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "JOHNSON & JOHNSON INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "KETOCONAZOLE"
+  ]
+}

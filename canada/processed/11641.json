@@ -1,0 +1,28 @@
+{
+  "drug_code": "11641",
+  "din": "00893285",
+  "brand_name": "NOREPINEPHRINE BITARTRATE INJ 1MG/ML USP",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "18-JUL-2017",
+  "active_ingredients": [
+    {
+      "name": "NOREPINEPHRINE (NOREPINEPHRINE BITARTRATE)",
+      "strength": "1",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "LIQUID"
+  ],
+  "routes": [
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "SANDOZ CANADA INCORPORATED"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "NOREPINEPHRINE"
+  ]
+}

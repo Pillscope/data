@@ -1,0 +1,33 @@
+{
+  "drug_code": "96230",
+  "din": "02472945",
+  "brand_name": "CONTRAVE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "06-APR-2018",
+  "active_ingredients": [
+    {
+      "name": "BUPROPION HYDROCHLORIDE",
+      "strength": "90",
+      "unit": "MG"
+    },
+    {
+      "name": "NALTREXONE HYDROCHLORIDE",
+      "strength": "8",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET (EXTENDED-RELEASE)"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "VALEANT CANADA LP/VALEANT CANADA S.E.C."
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "BUPROPION AND NALTREXONE"
+  ]
+}

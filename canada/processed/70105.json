@@ -1,0 +1,35 @@
+{
+  "drug_code": "70105",
+  "din": "02245979",
+  "brand_name": "VIGOROX LIQUID SANITIZER AND DISINFECTANT",
+  "class": "Disinfectant",
+  "descriptor": "",
+  "last_update": "29-APR-2015",
+  "active_ingredients": [
+    {
+      "name": "HYDROGEN PEROXIDE",
+      "strength": "21.7",
+      "unit": "%"
+    },
+    {
+      "name": "PERACETIC ACID",
+      "strength": "5.1",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "LIQUID"
+  ],
+  "routes": [
+    "DISINFECTANT (Food Premises)",
+    "DISINFECTANT (Hospital/HC Facilities)",
+    "DISINFECTANT (Institutional/Industrial)"
+  ],
+  "companies": [
+    "PEROXYCHEM LLC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "TECHNICAL DISINFECTANTS"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "drug_code": "66078",
+  "din": "02242367",
+  "brand_name": "VISUDYNE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "18-FEB-2015",
+  "active_ingredients": [
+    {
+      "name": "VERTEPORFIN",
+      "strength": "15",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "POWDER FOR SOLUTION"
+  ],
+  "routes": [
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "VALEANT CANADA LP/VALEANT CANADA S.E.C."
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "VERTEPORFIN"
+  ]
+}

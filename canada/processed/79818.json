@@ -1,0 +1,26 @@
+{
+  "drug_code": "79818",
+  "din": "02312654",
+  "brand_name": "SPECTRAMAST DC",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "15-APR-2015",
+  "active_ingredients": [
+    {
+      "name": "CEFTIOFUR (CEFTIOFUR HYDROCHLORIDE)",
+      "strength": "500",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SUSPENSION"
+  ],
+  "routes": [
+    "INTRAMAMMARY"
+  ],
+  "companies": [
+    "ZOETIS CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": []
+}

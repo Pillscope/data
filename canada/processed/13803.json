@@ -1,0 +1,30 @@
+{
+  "drug_code": "13803",
+  "din": "01913980",
+  "brand_name": "NUBAIN INJECTION 10MG/ML",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "08-AUG-2007",
+  "active_ingredients": [
+    {
+      "name": "NALBUPHINE HYDROCHLORIDE",
+      "strength": "10",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "INTRAMUSCULAR",
+    "INTRAVENOUS",
+    "SUBCUTANEOUS"
+  ],
+  "companies": [
+    "SANDOZ CANADA INCORPORATED"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "NALBUFINE"
+  ]
+}

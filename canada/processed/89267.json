@@ -1,0 +1,28 @@
+{
+  "drug_code": "89267",
+  "din": "02407965",
+  "brand_name": "TEVA-DEFERASIROX",
+  "class": "Human",
+  "descriptor": "DISPERSIBLE TABLETS FOR ORAL SUSPENSION",
+  "last_update": "27-JUN-2017",
+  "active_ingredients": [
+    {
+      "name": "DEFERASIROX",
+      "strength": "250",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET FOR SUSPENSION"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "TEVA CANADA LIMITED"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "DEFERASIROX"
+  ]
+}

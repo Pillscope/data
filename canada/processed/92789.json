@@ -1,0 +1,27 @@
+{
+  "drug_code": "92789",
+  "din": "02443260",
+  "brand_name": "EFICUR",
+  "class": "Veterinary",
+  "descriptor": "I.M: SWINE, CATTLE;  S.C: CATTLE",
+  "last_update": "25-APR-2017",
+  "active_ingredients": [
+    {
+      "name": "CEFTIOFUR (CEFTIOFUR HYDROCHLORIDE)",
+      "strength": "50",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SUSPENSION"
+  ],
+  "routes": [
+    "INTRAMUSCULAR",
+    "SUBCUTANEOUS"
+  ],
+  "companies": [
+    "LABORATORIOS HIPRA S.A."
+  ],
+  "status": "APPROVED",
+  "atc": []
+}

@@ -1,0 +1,28 @@
+{
+  "drug_code": "80322",
+  "din": "02317699",
+  "brand_name": "REVLIMID",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "30-MAY-2017",
+  "active_ingredients": [
+    {
+      "name": "LENALIDOMIDE",
+      "strength": "15",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "CAPSULE"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "CELGENE INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "LENALIDOMIDE"
+  ]
+}

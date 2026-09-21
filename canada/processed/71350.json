@@ -1,0 +1,28 @@
+{
+  "drug_code": "71350",
+  "din": "02247111",
+  "brand_name": "RAPAMUNE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "15-JUN-2012",
+  "active_ingredients": [
+    {
+      "name": "SIROLIMUS",
+      "strength": "1.0",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "PFIZER CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "SIROLIMUS"
+  ]
+}

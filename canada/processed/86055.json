@@ -1,0 +1,29 @@
+{
+  "drug_code": "86055",
+  "din": "02375141",
+  "brand_name": "STERILE DILUENT FOR ALLERGENIC EXTRACTS NORMAL SALINE WITH HSA",
+  "class": "Human",
+  "descriptor": "SINGLE USE VIALS-VARIOUS SIZES",
+  "last_update": "13-JAN-2016",
+  "active_ingredients": [
+    {
+      "name": "ALBUMIN (HUMAN)",
+      "strength": "0.03",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "LIQUID"
+  ],
+  "routes": [
+    "INTRADERMAL",
+    "SUBCUTANEOUS"
+  ],
+  "companies": [
+    "GREER LABORATORIES INC"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "SOLVENTS AND DILUTING AGENTS,INCL IRRIGAT SOLUT"
+  ]
+}

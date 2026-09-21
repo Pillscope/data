@@ -1,0 +1,34 @@
+{
+  "drug_code": "66582",
+  "din": "02242764",
+  "brand_name": "VISINE FOR ALLERGY WITH ANTIHISTAMINE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "15-JUN-2016",
+  "active_ingredients": [
+    {
+      "name": "NAPHAZOLINE HYDROCHLORIDE",
+      "strength": "0.025",
+      "unit": "%"
+    },
+    {
+      "name": "PHENIRAMINE MALEATE",
+      "strength": "0.3",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "DROPS"
+  ],
+  "routes": [
+    "OPHTHALMIC"
+  ],
+  "companies": [
+    "JOHNSON & JOHNSON INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "NAPHAZOLINE, COMBINATIONS",
+    "NAPHAZOLINE, COMBINATIONS"
+  ]
+}

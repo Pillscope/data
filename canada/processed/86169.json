@@ -1,0 +1,28 @@
+{
+  "drug_code": "86169",
+  "din": "02376202",
+  "brand_name": "ALLERGY DYE-FREE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "27-DEC-2013",
+  "active_ingredients": [
+    {
+      "name": "DIPHENHYDRAMINE HYDROCHLORIDE",
+      "strength": "12.5",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "ACCUDIAL PHARMACEUTICAL INC"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "DIPHENHYDRAMINE"
+  ]
+}

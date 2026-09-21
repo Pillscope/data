@@ -1,0 +1,28 @@
+{
+  "drug_code": "93341",
+  "din": "02447819",
+  "brand_name": "JUNIOR STRENGTH CHILDREN'S ACETAMINOPHEN TABLETS",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "03-APR-2018",
+  "active_ingredients": [
+    {
+      "name": "ACETAMINOPHEN",
+      "strength": "160",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET (CHEWABLE)"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "TANTA PHARMACEUTICALS INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "ACETAMINOPHEN (PARACETAMOL)"
+  ]
+}

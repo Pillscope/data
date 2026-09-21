@@ -1,0 +1,27 @@
+{
+  "drug_code": "74520",
+  "din": "02259958",
+  "brand_name": "OXYMYCINE LA",
+  "class": "Veterinary",
+  "descriptor": "SWINE:I.M.; CATTLE:I.M. & S.C.",
+  "last_update": "15-JAN-2018",
+  "active_ingredients": [
+    {
+      "name": "OXYTETRACYCLINE (OXYTETRACYCLINE DIHYDRATE)",
+      "strength": "200",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "INTRAMUSCULAR",
+    "SUBCUTANEOUS"
+  ],
+  "companies": [
+    "ZOETIS CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": []
+}

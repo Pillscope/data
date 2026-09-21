@@ -1,0 +1,28 @@
+{
+  "drug_code": "50638",
+  "din": "02231330",
+  "brand_name": "APO-FLUVOXAMINE TABLETS",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "11-FEB-2011",
+  "active_ingredients": [
+    {
+      "name": "FLUVOXAMINE MALEATE",
+      "strength": "100",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "APOTEX INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "FLUVOXAMINE"
+  ]
+}

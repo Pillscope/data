@@ -1,0 +1,28 @@
+{
+  "drug_code": "12574",
+  "din": "00726354",
+  "brand_name": "PMS FLUPHENAZINE TAB 5MG",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "06-JUN-2008",
+  "active_ingredients": [
+    {
+      "name": "FLUPHENAZINE HYDROCHLORIDE",
+      "strength": "5",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "PHARMASCIENCE INC"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "FLUPHENAZINE"
+  ]
+}

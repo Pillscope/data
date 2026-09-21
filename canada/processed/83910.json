@@ -1,0 +1,26 @@
+{
+  "drug_code": "83910",
+  "din": "02353881",
+  "brand_name": "CIDR 330",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "28-AUG-2015",
+  "active_ingredients": [
+    {
+      "name": "PROGESTERONE",
+      "strength": "0.35",
+      "unit": "G"
+    }
+  ],
+  "forms": [
+    "INSERT"
+  ],
+  "routes": [
+    "VAGINAL"
+  ],
+  "companies": [
+    "ZOETIS CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": []
+}

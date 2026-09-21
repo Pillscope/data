@@ -1,0 +1,28 @@
+{
+  "drug_code": "773",
+  "din": "00023957",
+  "brand_name": "THYROID TAB 60MG",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "26-JUL-2006",
+  "active_ingredients": [
+    {
+      "name": "THYROID",
+      "strength": "60",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "ERFA CANADA 2012 INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "THYROID GLAND PREPARATIONS"
+  ]
+}

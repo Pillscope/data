@@ -1,0 +1,34 @@
+{
+  "drug_code": "61170",
+  "din": "02237811",
+  "brand_name": "ANTITHROMBIN III NF",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "29-APR-2015",
+  "active_ingredients": [
+    {
+      "name": "ANTITHROMBIN III (HUMAN)",
+      "strength": "550",
+      "unit": "UNIT"
+    },
+    {
+      "name": "WATER",
+      "strength": "10",
+      "unit": "ML"
+    }
+  ],
+  "forms": [
+    "KIT",
+    "POWDER FOR SOLUTION"
+  ],
+  "routes": [
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "BAXALTA CANADA CORPORATION"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "ANTITHROMBIN"
+  ]
+}

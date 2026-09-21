@@ -1,0 +1,29 @@
+{
+  "drug_code": "67176",
+  "din": "02243278",
+  "brand_name": "LORAZEPAM INJECTION USP",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "27-JUL-2017",
+  "active_ingredients": [
+    {
+      "name": "LORAZEPAM",
+      "strength": "4",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "LIQUID"
+  ],
+  "routes": [
+    "INTRAMUSCULAR",
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "SANDOZ CANADA INCORPORATED"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "LORAZEPAM"
+  ]
+}

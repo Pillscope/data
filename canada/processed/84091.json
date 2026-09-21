@@ -1,0 +1,28 @@
+{
+  "drug_code": "84091",
+  "din": "02355701",
+  "brand_name": "ADVIL MUSCLE AND JOINT",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "01-OCT-2012",
+  "active_ingredients": [
+    {
+      "name": "IBUPROFEN",
+      "strength": "400",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "PFIZER CONSUMER HEALTHCARE A DIVISION OF PFIZER CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "IBUPROFEN"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "drug_code": "74721",
+  "din": "02261847",
+  "brand_name": "SANDOZ-CARBAMAZEPINE CR",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "09-MAY-2006",
+  "active_ingredients": [
+    {
+      "name": "CARBAMAZEPINE",
+      "strength": "400",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET (EXTENDED-RELEASE)"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "SANDOZ CANADA INCORPORATED"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "CARBAMAZEPINE"
+  ]
+}

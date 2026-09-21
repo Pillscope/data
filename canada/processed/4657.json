@@ -1,0 +1,51 @@
+{
+  "drug_code": "4657",
+  "din": "00549312",
+  "brand_name": "ZEV",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "29-APR-2015",
+  "active_ingredients": [
+    {
+      "name": "CAMPHOR",
+      "strength": "0.44",
+      "unit": "MG"
+    },
+    {
+      "name": "BUCKTHORN",
+      "strength": "0.70",
+      "unit": "MG"
+    },
+    {
+      "name": "SQUILL",
+      "strength": "0.50",
+      "unit": "MG"
+    },
+    {
+      "name": "AMMONIUM CARBONATE",
+      "strength": "30.2",
+      "unit": "MG"
+    },
+    {
+      "name": "POTASSIUM BICARBONATE",
+      "strength": "52.7",
+      "unit": "MG"
+    },
+    {
+      "name": "MENTHOL",
+      "strength": "4.40",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "LIQUID"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "DOMINION VETERINARY LABORATORIES LTD."
+  ],
+  "status": "APPROVED",
+  "atc": []
+}

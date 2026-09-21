@@ -1,0 +1,28 @@
+{
+  "drug_code": "92084",
+  "din": "02436507",
+  "brand_name": "MEROPENEM FOR INJECTION USP",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "19-JUN-2015",
+  "active_ingredients": [
+    {
+      "name": "MEROPENEM (MEROPENEM TRIHYDRATE)",
+      "strength": "1",
+      "unit": "G"
+    }
+  ],
+  "forms": [
+    "POWDER FOR SOLUTION"
+  ],
+  "routes": [
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "STERIMAX INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "MEROPENEM"
+  ]
+}

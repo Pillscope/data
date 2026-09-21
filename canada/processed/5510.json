@@ -1,0 +1,26 @@
+{
+  "drug_code": "5510",
+  "din": "00600539",
+  "brand_name": "K3 VITE PWS 25MG/GM",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "14-AUG-2003",
+  "active_ingredients": [
+    {
+      "name": "MENADIONE SODIUM BISULFITE",
+      "strength": "25",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "POWDER FOR SOLUTION"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "DOMINION VETERINARY LABORATORIES LTD."
+  ],
+  "status": "MARKETED",
+  "atc": []
+}

@@ -1,0 +1,28 @@
+{
+  "drug_code": "31360",
+  "din": "02139529",
+  "brand_name": "SODIUM ACETATE INJECTION, USP",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "12-MAY-2016",
+  "active_ingredients": [
+    {
+      "name": "SODIUM ACETATE",
+      "strength": "328",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "FRESENIUS KABI CANADA LTD"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "SODIUM ACETATE"
+  ]
+}

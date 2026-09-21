@@ -1,0 +1,28 @@
+{
+  "drug_code": "65975",
+  "din": "02242275",
+  "brand_name": "TIMOLOL MALEATE-EX",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "24-FEB-2018",
+  "active_ingredients": [
+    {
+      "name": "TIMOLOL (TIMOLOL MALEATE)",
+      "strength": "0.25",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "SOLUTION (EXTENDED RELEASE)"
+  ],
+  "routes": [
+    "OPHTHALMIC"
+  ],
+  "companies": [
+    "SANDOZ CANADA INCORPORATED"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "TIMOLOL"
+  ]
+}

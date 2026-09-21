@@ -1,0 +1,26 @@
+{
+  "drug_code": "13434",
+  "din": "00878758",
+  "brand_name": "QUARTERMATE",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "04-AUG-2017",
+  "active_ingredients": [
+    {
+      "name": "IODINE (HYDRIODIC ACID - IODINE COMPLEX)",
+      "strength": "0.25",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "WESTAGRO CANADA"
+  ],
+  "status": "MARKETED",
+  "atc": []
+}

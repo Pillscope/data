@@ -1,0 +1,38 @@
+{
+  "drug_code": "90068",
+  "din": "02416255",
+  "brand_name": "APO-ABACAVIR-LAMIVUDINE-ZIDOVUDINE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "07-JAN-2016",
+  "active_ingredients": [
+    {
+      "name": "ABACAVIR (ABACAVIR SULFATE)",
+      "strength": "300",
+      "unit": "MG"
+    },
+    {
+      "name": "LAMIVUDINE",
+      "strength": "150",
+      "unit": "MG"
+    },
+    {
+      "name": "ZIDOVUDINE",
+      "strength": "300",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "APOTEX INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "ZIDOVUDINE, LAMIVUDINE AND ABACAVIR"
+  ]
+}

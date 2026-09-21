@@ -1,0 +1,28 @@
+{
+  "drug_code": "63100",
+  "din": "02239629",
+  "brand_name": "NURSING CREAM",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "23-MAR-2001",
+  "active_ingredients": [
+    {
+      "name": "PETROLATUM",
+      "strength": "95.96",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "CREAM"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "E.T. BROWNE DRUG CO., INC."
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "SOFT PARAFFIN AND FAT PRODUCTS"
+  ]
+}

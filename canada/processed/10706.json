@@ -1,0 +1,28 @@
+{
+  "drug_code": "10706",
+  "din": "00778869",
+  "brand_name": "NITROJECT INJ 5MG/ML",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "02-AUG-2017",
+  "active_ingredients": [
+    {
+      "name": "NITROGLYCERIN",
+      "strength": "50",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "OMEGA LABORATORIES LTD"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "GLYCERYL TRINITRATE"
+  ]
+}

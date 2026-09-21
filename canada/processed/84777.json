@@ -1,0 +1,34 @@
+{
+  "drug_code": "84777",
+  "din": "02362775",
+  "brand_name": "GD-AMLODIPINE/ATORVASTATIN",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "23-AUG-2011",
+  "active_ingredients": [
+    {
+      "name": "AMLODIPINE (AMLODIPINE BESYLATE)",
+      "strength": "5",
+      "unit": "MG"
+    },
+    {
+      "name": "ATORVASTATIN (ATORVASTATIN CALCIUM)",
+      "strength": "40",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "GENMED A DIVISION OF PFIZER CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "ATORVASTATIN AND AMLODIPINE",
+    "ATORVASTATIN AND AMLODIPINE"
+  ]
+}

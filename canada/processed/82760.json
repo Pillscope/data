@@ -1,0 +1,30 @@
+{
+  "drug_code": "82760",
+  "din": "02342081",
+  "brand_name": "LA PARISIENNE",
+  "class": "Disinfectant",
+  "descriptor": "",
+  "last_update": "03-MAR-2011",
+  "active_ingredients": [
+    {
+      "name": "SODIUM HYPOCHLORITE",
+      "strength": "4",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "LIQUID"
+  ],
+  "routes": [
+    "DISINFECTANT (Food Premises)",
+    "DISINFECTANT (Hospital/HC Facilities)",
+    "DISINFECTANT (Domestic)"
+  ],
+  "companies": [
+    "LAVO"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "TECHNICAL DISINFECTANTS"
+  ]
+}

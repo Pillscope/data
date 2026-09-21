@@ -1,0 +1,26 @@
+{
+  "drug_code": "93316",
+  "din": "02447584",
+  "brand_name": "AMOXICILLIN SP",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "22-FEB-2016",
+  "active_ingredients": [
+    {
+      "name": "AMOXICILLIN TRIHYDRATE",
+      "strength": "800",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "POWDER"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "BIO AGRI MIX LP"
+  ],
+  "status": "APPROVED",
+  "atc": []
+}

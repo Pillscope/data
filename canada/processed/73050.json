@@ -1,0 +1,28 @@
+{
+  "drug_code": "73050",
+  "din": "02248686",
+  "brand_name": "ACT ETIDRONATE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "06-MAY-2015",
+  "active_ingredients": [
+    {
+      "name": "ETIDRONATE DISODIUM",
+      "strength": "200",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "ACTAVIS PHARMA COMPANY"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "ETIDRONIC ACID"
+  ]
+}

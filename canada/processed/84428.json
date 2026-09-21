@@ -1,0 +1,53 @@
+{
+  "drug_code": "84428",
+  "din": "02359251",
+  "brand_name": "BERIPLEX P/N 500",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "10-SEP-2015",
+  "active_ingredients": [
+    {
+      "name": "COAGULATION FACTOR II (HUMAN)",
+      "strength": "800",
+      "unit": "UNIT"
+    },
+    {
+      "name": "COAGULATION FACTOR X (HUMAN)",
+      "strength": "1020",
+      "unit": "UNIT"
+    },
+    {
+      "name": "COAGULATION FACTOR VII (HUMAN)",
+      "strength": "500",
+      "unit": "UNIT"
+    },
+    {
+      "name": "COAGULATION FACTOR IX (HUMAN)",
+      "strength": "620",
+      "unit": "UNIT"
+    },
+    {
+      "name": "PROTEIN C",
+      "strength": "820",
+      "unit": "UNIT"
+    },
+    {
+      "name": "PROTEIN S",
+      "strength": "680",
+      "unit": "UNIT"
+    }
+  ],
+  "forms": [
+    "POWDER FOR SOLUTION"
+  ],
+  "routes": [
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "CSL BEHRING CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "COAGULATION FACTOR IX, II, VII AND X IN COMB"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "drug_code": "90055",
+  "din": "02415992",
+  "brand_name": "EYLEA",
+  "class": "Human",
+  "descriptor": "SINGLE-USE VIAL. 2MG/50\u00c2\u00b5L",
+  "last_update": "23-JUN-2016",
+  "active_ingredients": [
+    {
+      "name": "Aflibercept",
+      "strength": "40",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "INTRAVITREAL"
+  ],
+  "companies": [
+    "BAYER INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "Aflibercept"
+  ]
+}

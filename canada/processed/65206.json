@@ -1,0 +1,29 @@
+{
+  "drug_code": "65206",
+  "din": "02241553",
+  "brand_name": "HERTEL PRO",
+  "class": "Disinfectant",
+  "descriptor": "",
+  "last_update": "25-NOV-2008",
+  "active_ingredients": [
+    {
+      "name": "BENZALKONIUM CHLORIDE",
+      "strength": "0.28",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "LIQUID"
+  ],
+  "routes": [
+    "DISINFECTANT (Food Premises)",
+    "DISINFECTANT (Hospital/HC Facilities)"
+  ],
+  "companies": [
+    "LAVO"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "TECHNICAL DISINFECTANTS"
+  ]
+}

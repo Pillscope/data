@@ -1,0 +1,28 @@
+{
+  "drug_code": "85631",
+  "din": "02371138",
+  "brand_name": "CHILDREN'S FEVER FROM COLDS OR FLU",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "23-SEP-2013",
+  "active_ingredients": [
+    {
+      "name": "ACETAMINOPHEN",
+      "strength": "160",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SUSPENSION"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "PERRIGO INTERNATIONAL"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "ACETAMINOPHEN (PARACETAMOL)"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "drug_code": "87994",
+  "din": "02394790",
+  "brand_name": "ASA DAILY LOW DOSE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "02-NOV-2017",
+  "active_ingredients": [
+    {
+      "name": "ACETYLSALICYLIC ACID",
+      "strength": "81",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET (CHEWABLE)"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "PHARMASCIENCE INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "ACETYLSALICYLIC ACID"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "drug_code": "91082",
+  "din": "02426242",
+  "brand_name": "ACTOGAIN 100",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "11-JUL-2016",
+  "active_ingredients": [
+    {
+      "name": "RACTOPAMINE HYDROCHLORIDE",
+      "strength": "100",
+      "unit": "G"
+    }
+  ],
+  "forms": [
+    "DRUG PREMIX"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "ZOETIS CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": []
+}

@@ -1,0 +1,28 @@
+{
+  "drug_code": "9919",
+  "din": "00789720",
+  "brand_name": "SANDOZ PROCHLORPERAZINE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "29-APR-2015",
+  "active_ingredients": [
+    {
+      "name": "PROCHLORPERAZINE",
+      "strength": "10",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SUPPOSITORY"
+  ],
+  "routes": [
+    "RECTAL"
+  ],
+  "companies": [
+    "SANDOZ CANADA INCORPORATED"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "PROCHLORPERAZINE"
+  ]
+}

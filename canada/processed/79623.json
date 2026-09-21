@@ -1,0 +1,28 @@
+{
+  "drug_code": "79623",
+  "din": "02310600",
+  "brand_name": "PRO-AZITHROMYCINE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "28-JAN-2009",
+  "active_ingredients": [
+    {
+      "name": "AZITHROMYCIN (AZITHROMYCIN MONOHYDRATE HEMIETHANOLATE)",
+      "strength": "250",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "PRO DOC LIMITEE"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "AZITHROMYCIN"
+  ]
+}

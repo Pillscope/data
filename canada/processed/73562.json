@@ -1,0 +1,28 @@
+{
+  "drug_code": "73562",
+  "din": "02250675",
+  "brand_name": "EURO-ASA CHEWABLE TABLET",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "29-MAY-2007",
+  "active_ingredients": [
+    {
+      "name": "ACETYLSALICYLIC ACID",
+      "strength": "80",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET (CHEWABLE)"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "EURO-PHARM INTERNATIONAL CANADA INC"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "ACETYLSALICYLIC ACID"
+  ]
+}

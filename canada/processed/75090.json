@@ -1,0 +1,33 @@
+{
+  "drug_code": "75090",
+  "din": "02265435",
+  "brand_name": "NOVOMIX 30",
+  "class": "Human",
+  "descriptor": "3ML PENFILL CARTRIDGE",
+  "last_update": "05-AUG-2015",
+  "active_ingredients": [
+    {
+      "name": "INSULIN ASPART",
+      "strength": "30",
+      "unit": "%"
+    },
+    {
+      "name": "INSULIN ASPART PROTAMINE",
+      "strength": "70",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "SUSPENSION"
+  ],
+  "routes": [
+    "SUBCUTANEOUS"
+  ],
+  "companies": [
+    "NOVO NORDISK CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "INSULIN ASPART"
+  ]
+}

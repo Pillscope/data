@@ -1,0 +1,28 @@
+{
+  "drug_code": "81120",
+  "din": "02325845",
+  "brand_name": "HERTEL SALLE DE BAINS D\u00c3\u0089SINFECTANT AVEC EAU DE JAVEL / HERTEL BATHROOM DISINFECTANT WITH BLEACH",
+  "class": "Disinfectant",
+  "descriptor": "",
+  "last_update": "28-MAY-2015",
+  "active_ingredients": [
+    {
+      "name": "SODIUM HYPOCHLORITE",
+      "strength": "2.73",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "LIQUID"
+  ],
+  "routes": [
+    "DISINFECTANT (Domestic)"
+  ],
+  "companies": [
+    "LAVO"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "TECHNICAL DISINFECTANTS"
+  ]
+}

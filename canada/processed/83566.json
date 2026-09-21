@@ -1,0 +1,28 @@
+{
+  "drug_code": "83566",
+  "din": "02350459",
+  "brand_name": "GLYBURIDE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "30-NOV-2015",
+  "active_ingredients": [
+    {
+      "name": "GLYBURIDE",
+      "strength": "2.5",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "SANIS HEALTH INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "GLIBENCLAMIDE"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "drug_code": "78059",
+  "din": "02295288",
+  "brand_name": "APO-ATORVASTATIN",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "28-MAY-2010",
+  "active_ingredients": [
+    {
+      "name": "ATORVASTATIN (ATORVASTATIN CALCIUM PROPYLENE GLYCOL SOLVATE)",
+      "strength": "20",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "APOTEX INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "ATORVASTATIN"
+  ]
+}

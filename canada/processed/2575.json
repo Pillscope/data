@@ -1,0 +1,33 @@
+{
+  "drug_code": "2575",
+  "din": "00038881",
+  "brand_name": "3.33% DEXTROSE AND 0.3% SODIUM CHLORIDE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "02-MAR-2018",
+  "active_ingredients": [
+    {
+      "name": "SODIUM CHLORIDE",
+      "strength": "3",
+      "unit": "MG"
+    },
+    {
+      "name": "DEXTROSE",
+      "strength": "33.3",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "ICU MEDICAL CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "ELECTROLYTES WITH CARBOHYDRATES"
+  ]
+}

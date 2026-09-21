@@ -1,0 +1,28 @@
+{
+  "drug_code": "78305",
+  "din": "02297701",
+  "brand_name": "NIGHTTIME SLEEP AID",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "06-NOV-2014",
+  "active_ingredients": [
+    {
+      "name": "DIPHENHYDRAMINE HYDROCHLORIDE",
+      "strength": "25",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "CAPSULE"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "APOTEX INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "DIPHENHYDRAMINE"
+  ]
+}

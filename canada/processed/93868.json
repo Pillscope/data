@@ -1,0 +1,28 @@
+{
+  "drug_code": "93868",
+  "din": "02452308",
+  "brand_name": "JAMP-AZITHROMYCIN",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "25-NOV-2016",
+  "active_ingredients": [
+    {
+      "name": "AZITHROMYCIN (AZITHROMYCIN DIHYDRATE)",
+      "strength": "250",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "JAMP PHARMA CORPORATION"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "AZITHROMYCIN"
+  ]
+}

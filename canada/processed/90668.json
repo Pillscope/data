@@ -1,0 +1,28 @@
+{
+  "drug_code": "90668",
+  "din": "02421984",
+  "brand_name": "LIDOCAINE HCL INJECTION",
+  "class": "Human",
+  "descriptor": "SINGLE USE",
+  "last_update": "12-FEB-2018",
+  "active_ingredients": [
+    {
+      "name": "LIDOCAINE HYDROCHLORIDE",
+      "strength": "10",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "BLOCK/INFILTRATION"
+  ],
+  "companies": [
+    "TELIGENT OU"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "LIDOCAINE"
+  ]
+}

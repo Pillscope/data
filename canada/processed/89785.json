@@ -1,0 +1,28 @@
+{
+  "drug_code": "89785",
+  "din": "02413175",
+  "brand_name": "SIMPONI",
+  "class": "Human",
+  "descriptor": "SINGLE-USE PRE-FILLED SYRINGE",
+  "last_update": "24-SEP-2015",
+  "active_ingredients": [
+    {
+      "name": "GOLIMUMAB",
+      "strength": "100",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "SUBCUTANEOUS"
+  ],
+  "companies": [
+    "JANSSEN INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "GOLIMUMAB"
+  ]
+}

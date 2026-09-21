@@ -1,0 +1,28 @@
+{
+  "drug_code": "67055",
+  "din": "02243176",
+  "brand_name": "MANNITOL INJECTION",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "30-MAY-2016",
+  "active_ingredients": [
+    {
+      "name": "MANNITOL",
+      "strength": "250",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "FRESENIUS KABI CANADA LTD"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "MANNITOL"
+  ]
+}

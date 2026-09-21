@@ -1,0 +1,33 @@
+{
+  "drug_code": "81490",
+  "din": "02329212",
+  "brand_name": "HAWAIIAN TROPIC SUNSCREEN LOTION \u00c3\u0089CRAN SOLAIRE 4",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "28-JAN-2016",
+  "active_ingredients": [
+    {
+      "name": "OCTOCRYLENE",
+      "strength": "1",
+      "unit": "%"
+    },
+    {
+      "name": "OXYBENZONE",
+      "strength": "0.5",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "LOTION"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "EDGEWELL PERSONAL CARE CANADA, ULC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "COMBINATIONS OF PROTECTIVES AGAINST UV-RADIATION"
+  ]
+}

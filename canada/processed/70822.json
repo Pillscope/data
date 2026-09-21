@@ -1,0 +1,36 @@
+{
+  "drug_code": "70822",
+  "din": "02246630",
+  "brand_name": "STRONG IODINE 16%",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "03-MAY-2004",
+  "active_ingredients": [
+    {
+      "name": "IODINE",
+      "strength": "11.0",
+      "unit": "G"
+    },
+    {
+      "name": "ISOPROPYL ALCOHOL",
+      "strength": "56.5",
+      "unit": "G"
+    },
+    {
+      "name": "POTASSIUM IODIDE",
+      "strength": "6.6",
+      "unit": "G"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "VETOQUINOL N A INC"
+  ],
+  "status": "MARKETED",
+  "atc": []
+}

@@ -1,0 +1,28 @@
+{
+  "drug_code": "42959",
+  "din": "02199270",
+  "brand_name": "NITOMAN",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "19-SEP-2014",
+  "active_ingredients": [
+    {
+      "name": "TETRABENAZINE",
+      "strength": "25",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "VALEANT CANADA LP/VALEANT CANADA S.E.C."
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "TETRABENAZINE"
+  ]
+}

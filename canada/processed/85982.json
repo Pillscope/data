@@ -1,0 +1,28 @@
+{
+  "drug_code": "85982",
+  "din": "02374471",
+  "brand_name": "LYSOL DISINFECTANT TOILET BOWL CLEANER LIME AND RUST REMOVER",
+  "class": "Disinfectant",
+  "descriptor": "",
+  "last_update": "18-FEB-2014",
+  "active_ingredients": [
+    {
+      "name": "HYDROCHLORIC ACID",
+      "strength": "9.5",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "LIQUID"
+  ],
+  "routes": [
+    "DISINFECTANT (Domestic)"
+  ],
+  "companies": [
+    "RECKITT BENCKISER (CANADA) INC"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "TECHNICAL DISINFECTANTS"
+  ]
+}

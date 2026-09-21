@@ -1,0 +1,28 @@
+{
+  "drug_code": "86265",
+  "din": "02377071",
+  "brand_name": "RIVA-PREGABALIN",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "25-MAR-2013",
+  "active_ingredients": [
+    {
+      "name": "PREGABALIN",
+      "strength": "300",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "CAPSULE"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "LABORATOIRE RIVA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "PREGABALIN"
+  ]
+}

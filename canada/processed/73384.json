@@ -1,0 +1,28 @@
+{
+  "drug_code": "73384",
+  "din": "02248999",
+  "brand_name": "ELIGARD 30 MG",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "05-FEB-2014",
+  "active_ingredients": [
+    {
+      "name": "LEUPROLIDE ACETATE",
+      "strength": "35.8",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "POWDER FOR SUSPENSION, SUSTAINED-RELEASE"
+  ],
+  "routes": [
+    "SUBCUTANEOUS"
+  ],
+  "companies": [
+    "SANOFI-AVENTIS CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "LEUPRORELIN"
+  ]
+}

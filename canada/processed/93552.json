@@ -1,0 +1,28 @@
+{
+  "drug_code": "93552",
+  "din": "02449692",
+  "brand_name": "TARO-OXALIPLATIN",
+  "class": "Human",
+  "descriptor": "10ML,20ML & 40ML SINGLE-USE VIALS",
+  "last_update": "25-MAY-2017",
+  "active_ingredients": [
+    {
+      "name": "OXALIPLATIN",
+      "strength": "5",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "TARO PHARMACEUTICALS INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "OXALIPLATIN"
+  ]
+}

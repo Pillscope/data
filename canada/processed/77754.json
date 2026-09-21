@@ -1,0 +1,28 @@
+{
+  "drug_code": "77754",
+  "din": "02292173",
+  "brand_name": "PMS-AMIODARONE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "08-MAY-2007",
+  "active_ingredients": [
+    {
+      "name": "AMIODARONE HYDROCHLORIDE",
+      "strength": "100",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "PHARMASCIENCE INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "AMIODARONE"
+  ]
+}

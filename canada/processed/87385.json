@@ -1,0 +1,34 @@
+{
+  "drug_code": "87385",
+  "din": "02388308",
+  "brand_name": "JAMP-ACET-TRAMADOL",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "07-FEB-2017",
+  "active_ingredients": [
+    {
+      "name": "ACETAMINOPHEN",
+      "strength": "325",
+      "unit": "MG"
+    },
+    {
+      "name": "TRAMADOL HYDROCHLORIDE",
+      "strength": "37.5",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "JAMP PHARMA CORPORATION"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "TRAMADOL AND PARACETAMOL",
+    "TRAMADOL AND PARACETAMOL"
+  ]
+}

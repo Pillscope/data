@@ -1,0 +1,28 @@
+{
+  "drug_code": "67965",
+  "din": "02244022",
+  "brand_name": "MISOPROSTOL",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "21-FEB-2012",
+  "active_ingredients": [
+    {
+      "name": "MISOPROSTOL",
+      "strength": "100",
+      "unit": "MCG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "AA PHARMA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "MISOPROSTOL"
+  ]
+}

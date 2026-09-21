@@ -1,0 +1,28 @@
+{
+  "drug_code": "211",
+  "din": "00001961",
+  "brand_name": "XYLOCAINE OINTMENT 5%",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "18-AUG-2017",
+  "active_ingredients": [
+    {
+      "name": "LIDOCAINE",
+      "strength": "5",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "OINTMENT"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "ASPEN PHARMACARE CANADA INC."
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "LIDOCAINE"
+  ]
+}

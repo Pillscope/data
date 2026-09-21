@@ -1,0 +1,28 @@
+{
+  "drug_code": "88435",
+  "din": "02399474",
+  "brand_name": "STERILE WATER FOR INJECTION USP",
+  "class": "Human",
+  "descriptor": "2.0ML UNIT DOSE VIALS",
+  "last_update": "16-AUG-2013",
+  "active_ingredients": [
+    {
+      "name": "WATER",
+      "strength": "2",
+      "unit": "ML"
+    }
+  ],
+  "forms": [
+    "LIQUID"
+  ],
+  "routes": [
+    "PARENTERAL (UNSPECIFIED)"
+  ],
+  "companies": [
+    "STERIMAX INC"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "SOLVENTS AND DILUTING AGENTS,INCL IRRIGAT SOLUT"
+  ]
+}

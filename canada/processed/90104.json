@@ -1,0 +1,28 @@
+{
+  "drug_code": "90104",
+  "din": "02416433",
+  "brand_name": "PMS-CIPROFLOXACIN XL",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "01-MAY-2014",
+  "active_ingredients": [
+    {
+      "name": "CIPROFLOXACIN (CIPROFLOXACIN HYDROCHLORIDE, CIPROFLOXACIN)",
+      "strength": "500",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET (EXTENDED-RELEASE)"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "PHARMASCIENCE INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "CIPROFLOXACIN"
+  ]
+}

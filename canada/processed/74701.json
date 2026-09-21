@@ -1,0 +1,28 @@
+{
+  "drug_code": "74701",
+  "din": "02261634",
+  "brand_name": "PMS-AZITHROMYCIN",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "22-NOV-2006",
+  "active_ingredients": [
+    {
+      "name": "AZITHROMYCIN (AZITHROMYCIN MONOHYDRATE HEMIETHANOLATE)",
+      "strength": "250",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "PHARMASCIENCE INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "AZITHROMYCIN"
+  ]
+}

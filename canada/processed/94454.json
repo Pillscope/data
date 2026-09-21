@@ -1,0 +1,28 @@
+{
+  "drug_code": "94454",
+  "din": "02457490",
+  "brand_name": "TARO-CAPECITABINE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "13-SEP-2017",
+  "active_ingredients": [
+    {
+      "name": "CAPECITABINE",
+      "strength": "150",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "TARO PHARMACEUTICALS INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "CAPECITABINE"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "drug_code": "88537",
+  "din": "02400588",
+  "brand_name": "AURO-DONEPEZIL",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "05-MAR-2014",
+  "active_ingredients": [
+    {
+      "name": "DONEPEZIL HYDROCHLORIDE",
+      "strength": "10",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "AURO PHARMA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "DONEPEZIL"
+  ]
+}

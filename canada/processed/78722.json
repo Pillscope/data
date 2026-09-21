@@ -1,0 +1,28 @@
+{
+  "drug_code": "78722",
+  "din": "02301881",
+  "brand_name": "ISENTRESS",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "20-JUN-2017",
+  "active_ingredients": [
+    {
+      "name": "RALTEGRAVIR (RALTEGRAVIR POTASSIUM)",
+      "strength": "400",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "MERCK CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "RALTEGRAVIR"
+  ]
+}

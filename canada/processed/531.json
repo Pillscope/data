@@ -1,0 +1,26 @@
+{
+  "drug_code": "531",
+  "din": "00217174",
+  "brand_name": "CERUMIN 25%",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "11-JUL-2017",
+  "active_ingredients": [
+    {
+      "name": "SQUALANE",
+      "strength": "25",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "LIQUID"
+  ],
+  "routes": [
+    "OTIC"
+  ],
+  "companies": [
+    "ORMOND VETERINARY SUPPLY LTD."
+  ],
+  "status": "MARKETED",
+  "atc": []
+}

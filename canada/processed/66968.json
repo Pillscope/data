@@ -1,0 +1,28 @@
+{
+  "drug_code": "66968",
+  "din": "02243101",
+  "brand_name": "ENTERIC COATED ASA DAILY LOW DOSE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "09-NOV-2017",
+  "active_ingredients": [
+    {
+      "name": "ACETYLSALICYLIC ACID",
+      "strength": "81",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET (DELAYED-RELEASE)"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "PHARMASCIENCE INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "ACETYLSALICYLIC ACID"
+  ]
+}

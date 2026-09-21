@@ -1,0 +1,28 @@
+{
+  "drug_code": "87782",
+  "din": "02392569",
+  "brand_name": "TREANDA",
+  "class": "Human",
+  "descriptor": "SINGLE-USE VIAL. I.V INFUSION ONLY.",
+  "last_update": "12-JAN-2018",
+  "active_ingredients": [
+    {
+      "name": "BENDAMUSTINE HYDROCHLORIDE",
+      "strength": "100",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "POWDER FOR SOLUTION"
+  ],
+  "routes": [
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "TEVA CANADA LIMITED"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "BENDAMUSTINE"
+  ]
+}

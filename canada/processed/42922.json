@@ -1,0 +1,33 @@
+{
+  "drug_code": "42922",
+  "din": "02189062",
+  "brand_name": "BREVICON 1/35 TABLETS (28-DAY PACK)",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "05-MAY-2009",
+  "active_ingredients": [
+    {
+      "name": "NORETHINDRONE",
+      "strength": "1",
+      "unit": "MG"
+    },
+    {
+      "name": "ETHINYL ESTRADIOL",
+      "strength": "0.035",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "PFIZER CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "NORETHISTERONE AND ESTROGEN"
+  ]
+}

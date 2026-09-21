@@ -1,0 +1,28 @@
+{
+  "drug_code": "94452",
+  "din": "02457474",
+  "brand_name": "ADENOSINE INJECTION",
+  "class": "Human",
+  "descriptor": "6 MG/ 2 ML PREFILLED SYRINGE. SINGLE USE.",
+  "last_update": "22-AUG-2017",
+  "active_ingredients": [
+    {
+      "name": "ADENOSINE",
+      "strength": "3",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "FRESENIUS KABI CANADA LTD"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "ADENOSINE"
+  ]
+}

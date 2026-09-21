@@ -1,0 +1,36 @@
+{
+  "drug_code": "6249",
+  "din": "00651591",
+  "brand_name": "CHOATES VETERINARY HORSE LINIMENT",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "08-DEC-2015",
+  "active_ingredients": [
+    {
+      "name": "CAMPHOR",
+      "strength": "5.124",
+      "unit": "G"
+    },
+    {
+      "name": "CAPSICUM",
+      "strength": "336",
+      "unit": "MG"
+    },
+    {
+      "name": "MENTHOL",
+      "strength": "5.124",
+      "unit": "G"
+    }
+  ],
+  "forms": [
+    "LIQUID"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "HAWTHORNE PRODUCTS INC."
+  ],
+  "status": "MARKETED",
+  "atc": []
+}

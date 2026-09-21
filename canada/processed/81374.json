@@ -1,0 +1,26 @@
+{
+  "drug_code": "81374",
+  "din": "02328216",
+  "brand_name": "SLICE",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "12-DEC-2013",
+  "active_ingredients": [
+    {
+      "name": "EMAMECTIN BENZOATE",
+      "strength": "2",
+      "unit": "G"
+    }
+  ],
+  "forms": [
+    "DRUG PREMIX"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "INTERVET CANADA CORP"
+  ],
+  "status": "APPROVED",
+  "atc": []
+}

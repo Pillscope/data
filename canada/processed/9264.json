@@ -1,0 +1,28 @@
+{
+  "drug_code": "9264",
+  "din": "00742554",
+  "brand_name": "ISOPTIN SR",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "15-NOV-2016",
+  "active_ingredients": [
+    {
+      "name": "VERAPAMIL HYDROCHLORIDE",
+      "strength": "240",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET (EXTENDED-RELEASE)"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "BGP PHARMA ULC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "VERAPAMIL"
+  ]
+}

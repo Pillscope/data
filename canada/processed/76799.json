@@ -1,0 +1,28 @@
+{
+  "drug_code": "76799",
+  "din": "02282348",
+  "brand_name": "PMS-FLUCONAZOLE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "08-MAR-2010",
+  "active_ingredients": [
+    {
+      "name": "FLUCONAZOLE",
+      "strength": "150",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "CAPSULE"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "PHARMASCIENCE INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "FLUCONAZOLE"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "drug_code": "90021",
+  "din": "02415623",
+  "brand_name": "ADVIL ARTHRITIS PAIN",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "23-JAN-2015",
+  "active_ingredients": [
+    {
+      "name": "IBUPROFEN",
+      "strength": "400",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "CAPSULE"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "PFIZER CONSUMER HEALTHCARE A DIVISION OF PFIZER CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "IBUPROFEN"
+  ]
+}

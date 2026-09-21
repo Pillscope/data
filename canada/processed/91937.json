@@ -1,0 +1,28 @@
+{
+  "drug_code": "91937",
+  "din": "02435071",
+  "brand_name": "OXALIPLATIN INJECTION",
+  "class": "Human",
+  "descriptor": "SINGLE  USE VIAL",
+  "last_update": "08-FEB-2016",
+  "active_ingredients": [
+    {
+      "name": "OXALIPLATIN",
+      "strength": "5",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "TEVA CANADA LIMITED"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "OXALIPLATIN"
+  ]
+}

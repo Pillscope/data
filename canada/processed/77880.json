@@ -1,0 +1,26 @@
+{
+  "drug_code": "77880",
+  "din": "02293439",
+  "brand_name": "VETOMECTIN (IVERMECTIN) (POUR-ON FOR CATTLE)",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "03-OCT-2007",
+  "active_ingredients": [
+    {
+      "name": "IVERMECTIN",
+      "strength": "5",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "NORBROOK LABORATORIES LTD."
+  ],
+  "status": "APPROVED",
+  "atc": []
+}

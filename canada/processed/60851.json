@@ -1,0 +1,26 @@
+{
+  "drug_code": "60851",
+  "din": "02237516",
+  "brand_name": "PROGRAM 80",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "19-FEB-2018",
+  "active_ingredients": [
+    {
+      "name": "LUFENURON",
+      "strength": "80",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SUSPENSION"
+  ],
+  "routes": [
+    "SUBCUTANEOUS"
+  ],
+  "companies": [
+    "ELANCO CANADA LIMITED"
+  ],
+  "status": "APPROVED",
+  "atc": []
+}

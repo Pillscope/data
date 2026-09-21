@@ -1,0 +1,28 @@
+{
+  "drug_code": "93830",
+  "din": "02452162",
+  "brand_name": "CEFAZOLIN FOR INJECTION",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "08-AUG-2016",
+  "active_ingredients": [
+    {
+      "name": "CEFAZOLIN (CEFAZOLIN SODIUM)",
+      "strength": "10",
+      "unit": "G"
+    }
+  ],
+  "forms": [
+    "POWDER FOR SOLUTION"
+  ],
+  "routes": [
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "FRESENIUS KABI CANADA LTD"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "CEFAZOLIN"
+  ]
+}

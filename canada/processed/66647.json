@@ -1,0 +1,28 @@
+{
+  "drug_code": "66647",
+  "din": "02242819",
+  "brand_name": "ALLEGRA 24 HOUR (120MG)",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "14-FEB-2018",
+  "active_ingredients": [
+    {
+      "name": "FEXOFENADINE HYDROCHLORIDE",
+      "strength": "120",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "SANOFI-AVENTIS CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "FEXOFENADINE"
+  ]
+}

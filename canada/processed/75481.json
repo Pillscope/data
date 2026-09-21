@@ -1,0 +1,28 @@
+{
+  "drug_code": "75481",
+  "din": "02269430",
+  "brand_name": "SANDOZ PAROXETINE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "02-SEP-2008",
+  "active_ingredients": [
+    {
+      "name": "PAROXETINE (PAROXETINE HYDROCHLORIDE)",
+      "strength": "20",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "SANDOZ CANADA INCORPORATED"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "PAROXETINE"
+  ]
+}

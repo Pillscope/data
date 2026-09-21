@@ -1,0 +1,28 @@
+{
+  "drug_code": "82322",
+  "din": "02337649",
+  "brand_name": "TOCTINO",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "30-SEP-2013",
+  "active_ingredients": [
+    {
+      "name": "ALITRETINOIN",
+      "strength": "30",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "CAPSULE"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "GLAXOSMITHKLINE INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "ALITRETINOIN"
+  ]
+}

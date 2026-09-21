@@ -1,0 +1,28 @@
+{
+  "drug_code": "94808",
+  "din": "02460653",
+  "brand_name": "APO-METFORMIN ER",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "06-OCT-2017",
+  "active_ingredients": [
+    {
+      "name": "METFORMIN HYDROCHLORIDE",
+      "strength": "1000",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET (EXTENDED-RELEASE)"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "APOTEX INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "METFORMIN"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "drug_code": "68583",
+  "din": "02244597",
+  "brand_name": "VIDEX EC",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "17-OCT-2008",
+  "active_ingredients": [
+    {
+      "name": "DIDANOSINE",
+      "strength": "200",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "CAPSULE (ENTERIC-COATED)"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "BRISTOL-MYERS SQUIBB CANADA"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "DIDANOSINE"
+  ]
+}

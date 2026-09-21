@@ -1,0 +1,28 @@
+{
+  "drug_code": "68066",
+  "din": "02244107",
+  "brand_name": "SEROQUEL 300 MG",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "17-JUN-2008",
+  "active_ingredients": [
+    {
+      "name": "QUETIAPINE (QUETIAPINE FUMARATE)",
+      "strength": "300",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "ASTRAZENECA CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "QUETIAPINE"
+  ]
+}

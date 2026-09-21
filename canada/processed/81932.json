@@ -1,0 +1,29 @@
+{
+  "drug_code": "81932",
+  "din": "02333708",
+  "brand_name": "DORMINAL",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "20-AUG-2010",
+  "active_ingredients": [
+    {
+      "name": "PENTOBARBITAL SODIUM",
+      "strength": "240",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "INTRACARDIAC",
+    "INTRAPERITONEAL",
+    "INTRAPULMONARY",
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "RAFTER 8 PRODUCTS INC"
+  ],
+  "status": "MARKETED",
+  "atc": []
+}

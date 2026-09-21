@@ -1,0 +1,28 @@
+{
+  "drug_code": "1193",
+  "din": "00004626",
+  "brand_name": "LEUKERAN",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "20-NOV-2017",
+  "active_ingredients": [
+    {
+      "name": "CHLORAMBUCIL",
+      "strength": "2",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "ASPEN PHARMACARE CANADA INC."
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "CHLORAMBUCIL"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "drug_code": "14552",
+  "din": "01997580",
+  "brand_name": "ASACOL",
+  "class": "Human",
+  "descriptor": "ALSO KNOWN AS MESALAMINE",
+  "last_update": "04-APR-2018",
+  "active_ingredients": [
+    {
+      "name": "MESALAZINE",
+      "strength": "400",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET (ENTERIC-COATED)"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "ALLERGAN INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "MESALAZINE"
+  ]
+}

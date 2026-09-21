@@ -1,0 +1,28 @@
+{
+  "drug_code": "81613",
+  "din": "02330393",
+  "brand_name": "SANDOZ MONTELUKAST",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "21-DEC-2017",
+  "active_ingredients": [
+    {
+      "name": "MONTELUKAST (MONTELUKAST SODIUM)",
+      "strength": "5",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET (CHEWABLE)"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "SANDOZ CANADA INCORPORATED"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "MONTELUKAST"
+  ]
+}

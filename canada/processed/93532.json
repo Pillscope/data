@@ -1,0 +1,44 @@
+{
+  "drug_code": "93532",
+  "din": "02449498",
+  "brand_name": "GENVOYA",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "13-MAY-2016",
+  "active_ingredients": [
+    {
+      "name": "EMTRICITABINE",
+      "strength": "200",
+      "unit": "MG"
+    },
+    {
+      "name": "Elvitegravir",
+      "strength": "150",
+      "unit": "MG"
+    },
+    {
+      "name": "COBICISTAT",
+      "strength": "150",
+      "unit": "MG"
+    },
+    {
+      "name": "TENOFOVIR ALAFENAMIDE (TENOFOVIR ALAFENAMIDE HEMIFUMARATE)",
+      "strength": "10",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "GILEAD SCIENCES CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "EMTRICITABINE,TENOFOVIR ALAFENAMIDE, ELVITEGRAVIR AND COBICISTAT",
+    "EMTRICITABINE,TENOFOVIR ALAFENAMIDE, ELVITEGRAVIR AND COBICISTAT"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "drug_code": "86284",
+  "din": "02377225",
+  "brand_name": "MOZOBIL",
+  "class": "Human",
+  "descriptor": "24MG/1.2ML SINGLE USE VIAL",
+  "last_update": "05-MAY-2015",
+  "active_ingredients": [
+    {
+      "name": "Plerixafor",
+      "strength": "20",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "SUBCUTANEOUS"
+  ],
+  "companies": [
+    "SANOFI-AVENTIS CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "PLERIXAFOR"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "drug_code": "15910",
+  "din": "02082128",
+  "brand_name": "RUMENSIN CRC",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "19-JAN-2018",
+  "active_ingredients": [
+    {
+      "name": "MONENSIN (MONENSIN SODIUM)",
+      "strength": "32",
+      "unit": "G"
+    }
+  ],
+  "forms": [
+    "CAPSULE (EXTENDED RELEASE)"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "ELANCO CANADA LIMITED"
+  ],
+  "status": "APPROVED",
+  "atc": []
+}

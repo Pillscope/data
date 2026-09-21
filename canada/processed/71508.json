@@ -1,0 +1,28 @@
+{
+  "drug_code": "71508",
+  "din": "02247265",
+  "brand_name": "PENNSAID",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "07-MAY-2010",
+  "active_ingredients": [
+    {
+      "name": "DICLOFENAC SODIUM",
+      "strength": "1.5",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "PALADIN LABS INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "DICLOFENAC"
+  ]
+}

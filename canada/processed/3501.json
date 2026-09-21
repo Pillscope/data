@@ -1,0 +1,29 @@
+{
+  "drug_code": "3501",
+  "din": "00463469",
+  "brand_name": "PYRIDOXINE HCL INJ 100MG/ML",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "06-JUL-2011",
+  "active_ingredients": [
+    {
+      "name": "PYRIDOXINE HYDROCHLORIDE",
+      "strength": "100",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "LIQUID"
+  ],
+  "routes": [
+    "INTRAMUSCULAR",
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "KRIPPS PHARMACY LTD."
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "PYRIDOXINE (VIT B6)"
+  ]
+}

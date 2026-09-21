@@ -1,0 +1,28 @@
+{
+  "drug_code": "77735",
+  "din": "02291983",
+  "brand_name": "GD-CELECOXIB",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "28-NOV-2014",
+  "active_ingredients": [
+    {
+      "name": "CELECOXIB",
+      "strength": "200",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "CAPSULE"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "GENMED A DIVISION OF PFIZER CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "CELECOXIB"
+  ]
+}

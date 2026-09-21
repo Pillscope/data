@@ -1,0 +1,28 @@
+{
+  "drug_code": "92996",
+  "din": "02444763",
+  "brand_name": "OXALIPLATIN",
+  "class": "Human",
+  "descriptor": "SINGLE-USE VIAL",
+  "last_update": "02-JUN-2017",
+  "active_ingredients": [
+    {
+      "name": "OXALIPLATIN",
+      "strength": "5",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "PFIZER CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "OXALIPLATIN"
+  ]
+}

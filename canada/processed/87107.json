@@ -1,0 +1,28 @@
+{
+  "drug_code": "87107",
+  "din": "02385449",
+  "brand_name": "RABEPRAZOLE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "15-NOV-2012",
+  "active_ingredients": [
+    {
+      "name": "RABEPRAZOLE SODIUM",
+      "strength": "10",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET (ENTERIC-COATED)"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "SIVEM PHARMACEUTICALS ULC"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "RABEPRAZOLE"
+  ]
+}

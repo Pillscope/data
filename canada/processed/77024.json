@@ -1,0 +1,28 @@
+{
+  "drug_code": "77024",
+  "din": "02284685",
+  "brand_name": "PMS-LEVOFLOXACIN",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "03-JUL-2009",
+  "active_ingredients": [
+    {
+      "name": "LEVOFLOXACIN (LEVOFLOXACIN HEMIHYDRATE)",
+      "strength": "500",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "PHARMASCIENCE INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "LEVOFLOXACIN"
+  ]
+}

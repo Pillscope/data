@@ -1,0 +1,28 @@
+{
+  "drug_code": "77199",
+  "din": "02286548",
+  "brand_name": "SUMATRIPTAN",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "29-APR-2010",
+  "active_ingredients": [
+    {
+      "name": "SUMATRIPTAN (SUMATRIPTAN SUCCINATE)",
+      "strength": "100",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "SANIS HEALTH INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "SUMATRIPTAN"
+  ]
+}

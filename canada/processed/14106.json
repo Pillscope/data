@@ -1,0 +1,26 @@
+{
+  "drug_code": "14106",
+  "din": "00837563",
+  "brand_name": "APPREHEND",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "04-OCT-2013",
+  "active_ingredients": [
+    {
+      "name": "CHLORHEXIDINE ACETATE",
+      "strength": "0.52",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "GEA FARM TECHNOLOGIES INC"
+  ],
+  "status": "APPROVED",
+  "atc": []
+}

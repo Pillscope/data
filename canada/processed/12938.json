@@ -1,0 +1,28 @@
+{
+  "drug_code": "12938",
+  "din": "00878928",
+  "brand_name": "NORVASC TAB 5MG",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "02-JUN-2011",
+  "active_ingredients": [
+    {
+      "name": "AMLODIPINE (AMLODIPINE BESYLATE)",
+      "strength": "5",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "PFIZER CANADA INC"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "AMLODIPINE"
+  ]
+}

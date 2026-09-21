@@ -1,0 +1,29 @@
+{
+  "drug_code": "50631",
+  "din": "02231324",
+  "brand_name": "ALLERGENIC EXTRACT - STANDARDIZED MITE DERMATOPHAGOIDES PTERONYSSINUS",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "26-MAY-2016",
+  "active_ingredients": [
+    {
+      "name": "DERMATOPHAGOIDES PTERONYSSINUS",
+      "strength": "10000",
+      "unit": "UNIT"
+    }
+  ],
+  "forms": [
+    "LIQUID"
+  ],
+  "routes": [
+    "INTRACUTANEOUS",
+    "SUBCUTANEOUS"
+  ],
+  "companies": [
+    "GREER LABORATORIES INC"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "HOUSE DUST MITES"
+  ]
+}

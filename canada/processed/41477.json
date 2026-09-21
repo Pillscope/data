@@ -1,0 +1,28 @@
+{
+  "drug_code": "41477",
+  "din": "00373435",
+  "brand_name": "DETTOL",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "08-MAY-2015",
+  "active_ingredients": [
+    {
+      "name": "CHLOROXYLENOL",
+      "strength": "4.8",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "LIQUID"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "RECKITT BENCKISER (CANADA) INC"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "CHLOROXYLENOL"
+  ]
+}

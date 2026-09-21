@@ -1,0 +1,28 @@
+{
+  "drug_code": "49813",
+  "din": "02230641",
+  "brand_name": "APO-SELEGILINE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "30-JUL-2009",
+  "active_ingredients": [
+    {
+      "name": "SELEGILINE HYDROCHLORIDE",
+      "strength": "5",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "APOTEX INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "SELEGILINE"
+  ]
+}

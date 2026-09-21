@@ -1,0 +1,28 @@
+{
+  "drug_code": "11026",
+  "din": "00717150",
+  "brand_name": "EQVALAN LIQUID FOR HORSES",
+  "class": "Veterinary",
+  "descriptor": "IVERMECTIN",
+  "last_update": "05-MAY-2015",
+  "active_ingredients": [
+    {
+      "name": "IVERMECTIN",
+      "strength": "10",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "MERIAL CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "IVERMECTIN"
+  ]
+}

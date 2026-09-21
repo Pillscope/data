@@ -1,0 +1,34 @@
+{
+  "drug_code": "75422",
+  "din": "02268825",
+  "brand_name": "ANGELIQ",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "05-JUN-2014",
+  "active_ingredients": [
+    {
+      "name": "ESTRADIOL",
+      "strength": "1.0",
+      "unit": "MG"
+    },
+    {
+      "name": "DROSPIRENONE",
+      "strength": "1.0",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "BAYER INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "DROSPIRENONE AND ESTROGEN",
+    "DROSPIRENONE AND ESTROGEN"
+  ]
+}

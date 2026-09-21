@@ -1,0 +1,28 @@
+{
+  "drug_code": "19455",
+  "din": "02182866",
+  "brand_name": "DALACIN C 300 MG",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "14-JUL-2016",
+  "active_ingredients": [
+    {
+      "name": "CLINDAMYCIN (CLINDAMYCIN HYDROCHLORIDE)",
+      "strength": "300",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "CAPSULE"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "PFIZER CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "CLINDAMYCIN"
+  ]
+}

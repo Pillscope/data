@@ -1,0 +1,28 @@
+{
+  "drug_code": "18230",
+  "din": "02137984",
+  "brand_name": "TALWIN",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "15-OCT-2008",
+  "active_ingredients": [
+    {
+      "name": "PENTAZOCINE (PENTAZOCINE HYDROCHLORIDE)",
+      "strength": "50",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "SANOFI-AVENTIS CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "PENTAZOCINE"
+  ]
+}

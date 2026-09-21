@@ -1,0 +1,28 @@
+{
+  "drug_code": "79643",
+  "din": "02310805",
+  "brand_name": "PMS-RABEPRAZOLE EC",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "16-JUN-2008",
+  "active_ingredients": [
+    {
+      "name": "RABEPRAZOLE SODIUM",
+      "strength": "10",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET (ENTERIC-COATED)"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "PHARMASCIENCE INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "RABEPRAZOLE"
+  ]
+}

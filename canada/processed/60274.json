@@ -1,0 +1,28 @@
+{
+  "drug_code": "60274",
+  "din": "02236979",
+  "brand_name": "TEVA-FLUCONAZOLE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "26-AUG-2016",
+  "active_ingredients": [
+    {
+      "name": "FLUCONAZOLE",
+      "strength": "100",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "TEVA CANADA LIMITED"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "FLUCONAZOLE"
+  ]
+}

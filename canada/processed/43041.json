@@ -1,0 +1,28 @@
+{
+  "drug_code": "43041",
+  "din": "02210401",
+  "brand_name": "DOBUTAMINE INJECTION USP",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "21-SEP-2017",
+  "active_ingredients": [
+    {
+      "name": "DOBUTAMINE (DOBUTAMINE HYDROCHLORIDE)",
+      "strength": "250",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "PFIZER CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "DOBUTAMINE"
+  ]
+}

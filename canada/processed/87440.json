@@ -1,0 +1,31 @@
+{
+  "drug_code": "87440",
+  "din": "02388855",
+  "brand_name": "REMEDY + RECOVERY MEDICATED SHAMPOO",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "30-APR-2015",
+  "active_ingredients": [
+    {
+      "name": "SALICYLIC ACID",
+      "strength": "0.5",
+      "unit": "%"
+    },
+    {
+      "name": "CHLOROXYLENOL",
+      "strength": "1",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "SHAMPOO"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "CARDINAL LABORATORIES INCORPORATED"
+  ],
+  "status": "MARKETED",
+  "atc": []
+}

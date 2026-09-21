@@ -1,0 +1,28 @@
+{
+  "drug_code": "10036",
+  "din": "00839175",
+  "brand_name": "APO-DICLO",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "16-OCT-2014",
+  "active_ingredients": [
+    {
+      "name": "DICLOFENAC SODIUM",
+      "strength": "25",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET (ENTERIC-COATED)"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "APOTEX INC"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "DICLOFENAC"
+  ]
+}

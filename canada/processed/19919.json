@@ -1,0 +1,26 @@
+{
+  "drug_code": "19919",
+  "din": "00867349",
+  "brand_name": "DECCOX 6%",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "04-NOV-2016",
+  "active_ingredients": [
+    {
+      "name": "DECOQUINATE",
+      "strength": "60",
+      "unit": "G"
+    }
+  ],
+  "forms": [
+    "DRUG PREMIX"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "ZOETIS CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": []
+}

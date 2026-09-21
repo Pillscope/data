@@ -1,0 +1,28 @@
+{
+  "drug_code": "76507",
+  "din": "02279479",
+  "brand_name": "APIDRA",
+  "class": "Human",
+  "descriptor": "3ML CARTRIDGE",
+  "last_update": "08-DEC-2016",
+  "active_ingredients": [
+    {
+      "name": "INSULIN GLULISINE (RECOMBINANT DNA ORIGIN)",
+      "strength": "100",
+      "unit": "UNIT"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "SUBCUTANEOUS"
+  ],
+  "companies": [
+    "SANOFI-AVENTIS CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "INSULIN GLULISINE"
+  ]
+}

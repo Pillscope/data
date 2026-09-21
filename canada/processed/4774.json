@@ -1,0 +1,33 @@
+{
+  "drug_code": "4774",
+  "din": "00555673",
+  "brand_name": "NAQUASONE",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "03-OCT-2013",
+  "active_ingredients": [
+    {
+      "name": "TRICHLORMETHIAZIDE",
+      "strength": "10",
+      "unit": "MG"
+    },
+    {
+      "name": "DEXAMETHASONE ACETATE",
+      "strength": "0.55",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "INTRAMUSCULAR"
+  ],
+  "companies": [
+    "INTERVET CANADA CORP"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "DEXAMETHASONE, COMBINATIONS"
+  ]
+}

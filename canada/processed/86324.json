@@ -1,0 +1,37 @@
+{
+  "drug_code": "86324",
+  "din": "02377527",
+  "brand_name": "MEDPRO DEFENSE NOCOLYSE",
+  "class": "Disinfectant",
+  "descriptor": "FOR USE WITH THE NOCOSPRAY SYSTEM",
+  "last_update": "04-AUG-2015",
+  "active_ingredients": [
+    {
+      "name": "HYDROGEN PEROXIDE",
+      "strength": "6.0",
+      "unit": "%"
+    },
+    {
+      "name": "SILVER NITRATE",
+      "strength": "0.004",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "DISINFECTANT (Barn)",
+    "DISINFECTANT (Food Premises)",
+    "DISINFECTANT (Hospital/HC Facilities)",
+    "DISINFECTANT (Domestic)",
+    "DISINFECTANT (Institutional/Industrial)"
+  ],
+  "companies": [
+    "AMG MEDICAL INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "TECHNICAL DISINFECTANTS"
+  ]
+}

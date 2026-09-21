@@ -1,0 +1,28 @@
+{
+  "drug_code": "5572",
+  "din": "00605786",
+  "brand_name": "TRAVEL TABS 50 MG",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "03-DEC-2012",
+  "active_ingredients": [
+    {
+      "name": "DIMENHYDRINATE",
+      "strength": "50",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "VITA HEALTH PRODUCTS INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "DIPHENHYDRAMINE"
+  ]
+}

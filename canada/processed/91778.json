@@ -1,0 +1,26 @@
+{
+  "drug_code": "91778",
+  "din": "02433400",
+  "brand_name": "STILBESTROL TABLETS 0.5MG",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "12-JUN-2015",
+  "active_ingredients": [
+    {
+      "name": "DIETHYLSTILBESTROL",
+      "strength": "0.5",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "ORMOND VETERINARY SUPPLY LTD."
+  ],
+  "status": "MARKETED",
+  "atc": []
+}

@@ -1,0 +1,28 @@
+{
+  "drug_code": "76047",
+  "din": "02274949",
+  "brand_name": "PMS-ANAGRELIDE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "07-AUG-2009",
+  "active_ingredients": [
+    {
+      "name": "ANAGRELIDE (ANAGRELIDE HYDROCHLORIDE MONOHYDRATE)",
+      "strength": "0.5",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "CAPSULE"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "PHARMASCIENCE INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "ANAGRELIDE"
+  ]
+}

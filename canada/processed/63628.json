@@ -1,0 +1,29 @@
+{
+  "drug_code": "63628",
+  "din": "02240114",
+  "brand_name": "FRAXIPARINE FORTE",
+  "class": "Human",
+  "descriptor": "1 ML (19000 IU) PREFILLED SYRINGE - REFLEX BLUE",
+  "last_update": "21-SEP-2017",
+  "active_ingredients": [
+    {
+      "name": "NADROPARIN CALCIUM",
+      "strength": "19000",
+      "unit": "UNIT"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "INTRAVENOUS",
+    "SUBCUTANEOUS"
+  ],
+  "companies": [
+    "ASPEN PHARMACARE CANADA INC."
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "NADROPARIN"
+  ]
+}

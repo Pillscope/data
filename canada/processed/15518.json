@@ -1,0 +1,33 @@
+{
+  "drug_code": "15518",
+  "din": "02010593",
+  "brand_name": "DRULA FADE CREAM SUPERFORTE MEDICATED",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "05-SEP-2017",
+  "active_ingredients": [
+    {
+      "name": "HYDROQUINONE",
+      "strength": "4",
+      "unit": "G"
+    },
+    {
+      "name": "OXYBENZONE",
+      "strength": "4",
+      "unit": "G"
+    }
+  ],
+  "forms": [
+    "CREAM"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "DRULA-FABRIK, DR. O. DRUCKERY GMBH"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "HYDROQUINONE"
+  ]
+}

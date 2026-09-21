@@ -1,0 +1,28 @@
+{
+  "drug_code": "12967",
+  "din": "01946897",
+  "brand_name": "PMS DEXAMETHASONE ELIXIR 0.5MG/5ML",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "31-JUL-2017",
+  "active_ingredients": [
+    {
+      "name": "DEXAMETHASONE",
+      "strength": "0.5",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "LIQUID"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "PHARMASCIENCE INC"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "DEXAMETHASONE"
+  ]
+}

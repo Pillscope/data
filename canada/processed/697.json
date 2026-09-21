@@ -1,0 +1,31 @@
+{
+  "drug_code": "697",
+  "din": "00176982",
+  "brand_name": "NAQUASONE",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "05-MAY-2015",
+  "active_ingredients": [
+    {
+      "name": "TRICHLORMETHIAZIDE",
+      "strength": "200",
+      "unit": "MG"
+    },
+    {
+      "name": "DEXAMETHASONE",
+      "strength": "5",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "BOLUS"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "INTERVET CANADA CORP"
+  ],
+  "status": "APPROVED",
+  "atc": []
+}

@@ -1,0 +1,33 @@
+{
+  "drug_code": "86216",
+  "din": "02376628",
+  "brand_name": "MEGA LIP COLOR SPF 15",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "17-JAN-2014",
+  "active_ingredients": [
+    {
+      "name": "OXYBENZONE",
+      "strength": "2.0",
+      "unit": "%"
+    },
+    {
+      "name": "OCTINOXATE",
+      "strength": "7.5",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "STICK"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "MARKWINS BEAUTY PRODUCTS INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "COMBINATIONS OF PROTECTIVES AGAINST UV-RADIATION"
+  ]
+}

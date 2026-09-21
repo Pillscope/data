@@ -1,0 +1,28 @@
+{
+  "drug_code": "86536",
+  "din": "02379465",
+  "brand_name": "HYPERHEP B S/D",
+  "class": "Human",
+  "descriptor": "0.5ML SYRINGE",
+  "last_update": "15-FEB-2013",
+  "active_ingredients": [
+    {
+      "name": "HEPATITIS B IMMUNE GLOBULIN HUMAN",
+      "strength": "220",
+      "unit": "UNIT"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "INTRAMUSCULAR"
+  ],
+  "companies": [
+    "GRIFOLS THERAPEUTICS LLC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "HEPATITIS B IMMUNOGLOBULIN"
+  ]
+}

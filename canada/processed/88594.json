@@ -1,0 +1,33 @@
+{
+  "drug_code": "88594",
+  "din": "02401215",
+  "brand_name": "ESTEE LAUDER RE-NUTRIV ULTRA RADIANCE MAKEUP SPF 15",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "30-SEP-2014",
+  "active_ingredients": [
+    {
+      "name": "TITANIUM DIOXIDE",
+      "strength": "1.4",
+      "unit": "%"
+    },
+    {
+      "name": "OCTINOXATE",
+      "strength": "2.2",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "EMULSION"
+  ],
+  "routes": [
+    "TOPICAL"
+  ],
+  "companies": [
+    "ESTEE LAUDER DIST"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "COMBINATIONS OF PROTECTIVES AGAINST UV-RADIATION"
+  ]
+}

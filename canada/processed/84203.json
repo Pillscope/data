@@ -1,0 +1,28 @@
+{
+  "drug_code": "84203",
+  "din": "02356910",
+  "brand_name": "RISPERIDONE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "01-SEP-2016",
+  "active_ingredients": [
+    {
+      "name": "RISPERIDONE",
+      "strength": "2",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "SANIS HEALTH INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "RISPERIDONE"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "drug_code": "67959",
+  "din": "02244016",
+  "brand_name": "REMICADE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "21-DEC-2011",
+  "active_ingredients": [
+    {
+      "name": "INFLIXIMAB",
+      "strength": "100",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "POWDER FOR SOLUTION"
+  ],
+  "routes": [
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "JANSSEN INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "INFLIXIMAB"
+  ]
+}

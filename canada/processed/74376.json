@@ -1,0 +1,53 @@
+{
+  "drug_code": "74376",
+  "din": "02258560",
+  "brand_name": "TRI-CYCLEN LO        (-21 DAY)",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "21-NOV-2008",
+  "active_ingredients": [
+    {
+      "name": "NORGESTIMATE",
+      "strength": "0.180",
+      "unit": "MG"
+    },
+    {
+      "name": "NORGESTIMATE",
+      "strength": "0.215",
+      "unit": "MG"
+    },
+    {
+      "name": "NORGESTIMATE",
+      "strength": "0.250",
+      "unit": "MG"
+    },
+    {
+      "name": "ETHINYL ESTRADIOL",
+      "strength": "0.025",
+      "unit": "MG"
+    },
+    {
+      "name": "ETHINYL ESTRADIOL",
+      "strength": "0.025",
+      "unit": "MG"
+    },
+    {
+      "name": "ETHINYL ESTRADIOL",
+      "strength": "0.025",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "JANSSEN INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "NORGESTIMATE AND ESTROGEN"
+  ]
+}

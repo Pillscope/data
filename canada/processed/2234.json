@@ -1,0 +1,28 @@
+{
+  "drug_code": "2234",
+  "din": "00337773",
+  "brand_name": "TEVA-CLOXACILLIN",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "29-SEP-2016",
+  "active_ingredients": [
+    {
+      "name": "CLOXACILLIN (CLOXACILLIN SODIUM)",
+      "strength": "500",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "CAPSULE"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "TEVA CANADA LIMITED"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "CLOXACILLIN"
+  ]
+}

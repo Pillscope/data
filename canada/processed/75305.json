@@ -1,0 +1,28 @@
+{
+  "drug_code": "75305",
+  "din": "02267640",
+  "brand_name": "APO-MEDROXY",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "17-AUG-2005",
+  "active_ingredients": [
+    {
+      "name": "MEDROXYPROGESTERONE ACETATE",
+      "strength": "100",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "APOTEX INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "MEDROXYPROGESTERONE"
+  ]
+}

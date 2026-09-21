@@ -1,0 +1,28 @@
+{
+  "drug_code": "90799",
+  "din": "02423286",
+  "brand_name": "MINT-GLICLAZIDE MR",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "03-JUL-2014",
+  "active_ingredients": [
+    {
+      "name": "GLICLAZIDE",
+      "strength": "30",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET (EXTENDED-RELEASE)"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "MINT PHARMACEUTICALS INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "GLICLAZIDE"
+  ]
+}

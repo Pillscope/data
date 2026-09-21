@@ -1,0 +1,28 @@
+{
+  "drug_code": "62190",
+  "din": "02238755",
+  "brand_name": "OXYGEN",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "18-AUG-2006",
+  "active_ingredients": [
+    {
+      "name": "OXYGEN",
+      "strength": "99",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "GAS"
+  ],
+  "routes": [
+    "INHALATION"
+  ],
+  "companies": [
+    "VITALAIRE CANADA INC"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "OXYGEN"
+  ]
+}

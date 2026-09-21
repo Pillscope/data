@@ -1,0 +1,33 @@
+{
+  "drug_code": "2541",
+  "din": "00375780",
+  "brand_name": "LIGNOSPAN STANDARD",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "03-SEP-2009",
+  "active_ingredients": [
+    {
+      "name": "EPINEPHRINE",
+      "strength": "18",
+      "unit": "MCG"
+    },
+    {
+      "name": "LIDOCAINE HYDROCHLORIDE",
+      "strength": "36",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "LIQUID"
+  ],
+  "routes": [
+    "BLOCK/INFILTRATION"
+  ],
+  "companies": [
+    "SEPTODONT"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "LIDOCAINE, COMBINATIONS"
+  ]
+}

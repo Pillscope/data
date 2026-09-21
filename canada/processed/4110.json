@@ -1,0 +1,27 @@
+{
+  "drug_code": "4110",
+  "din": "00523704",
+  "brand_name": "GERMICIDAL TEAT DIP",
+  "class": "Veterinary",
+  "descriptor": "",
+  "last_update": "06-FEB-2014",
+  "active_ingredients": [
+    {
+      "name": "IODINE (NONYL PHENOXYPOLYETHOXYETHANOL-IODINE COMPLEX)",
+      "strength": "1",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "LIQUID"
+  ],
+  "routes": [
+    "TEAT-DIP",
+    "TOPICAL"
+  ],
+  "companies": [
+    "DOMINION VETERINARY LABORATORIES LTD."
+  ],
+  "status": "MARKETED",
+  "atc": []
+}

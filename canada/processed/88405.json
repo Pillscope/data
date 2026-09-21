@@ -1,0 +1,32 @@
+{
+  "drug_code": "88405",
+  "din": "02399156",
+  "brand_name": "CLOROX HEALTHCARE PROFESSIONAL DISINFECTING BLEACH CLEANER",
+  "class": "Disinfectant",
+  "descriptor": "",
+  "last_update": "22-AUG-2016",
+  "active_ingredients": [
+    {
+      "name": "SODIUM HYPOCHLORITE",
+      "strength": "0.65",
+      "unit": "%"
+    }
+  ],
+  "forms": [
+    "LIQUID",
+    "SPRAY"
+  ],
+  "routes": [
+    "DISINFECTANT (Food Premises)",
+    "DISINFECTANT (Hospital/HC Facilities)",
+    "DISINFECTANT (Domestic)",
+    "DISINFECTANT (Institutional/Industrial)"
+  ],
+  "companies": [
+    "THE CLOROX COMPANY OF CANADA LTD"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "TECHNICAL DISINFECTANTS"
+  ]
+}

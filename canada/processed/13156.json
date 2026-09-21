@@ -1,0 +1,28 @@
+{
+  "drug_code": "13156",
+  "din": "01927620",
+  "brand_name": "MYOCHRYSINE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "09-DEC-2009",
+  "active_ingredients": [
+    {
+      "name": "GOLD SODIUM THIOMALATE",
+      "strength": "10",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "INTRAMUSCULAR"
+  ],
+  "companies": [
+    "SANOFI-AVENTIS CANADA INC"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "SODIUM AUROTHIOMALATE"
+  ]
+}

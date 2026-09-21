@@ -1,0 +1,28 @@
+{
+  "drug_code": "59976",
+  "din": "00060364",
+  "brand_name": "DEXTROSE 10% INJ 10GM/100ML USP",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "22-JUN-2006",
+  "active_ingredients": [
+    {
+      "name": "DEXTROSE",
+      "strength": "10",
+      "unit": "G"
+    }
+  ],
+  "forms": [
+    "SOLUTION"
+  ],
+  "routes": [
+    "INTRAVENOUS"
+  ],
+  "companies": [
+    "BAXTER CORPORATION"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "CARBOHYDRATES"
+  ]
+}

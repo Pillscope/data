@@ -1,0 +1,28 @@
+{
+  "drug_code": "88705",
+  "din": "02402181",
+  "brand_name": "PMS-COLCHICINE",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "22-MAR-2013",
+  "active_ingredients": [
+    {
+      "name": "COLCHICINE",
+      "strength": "0.6",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "PHARMASCIENCE INC"
+  ],
+  "status": "MARKETED",
+  "atc": [
+    "COLCHICINE"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "drug_code": "78833",
+  "din": "02303019",
+  "brand_name": "FOSINOPRIL-20",
+  "class": "Human",
+  "descriptor": "",
+  "last_update": "15-JAN-2010",
+  "active_ingredients": [
+    {
+      "name": "FOSINOPRIL SODIUM",
+      "strength": "20",
+      "unit": "MG"
+    }
+  ],
+  "forms": [
+    "TABLET"
+  ],
+  "routes": [
+    "ORAL"
+  ],
+  "companies": [
+    "PRO DOC LIMITEE"
+  ],
+  "status": "APPROVED",
+  "atc": [
+    "FOSINOPRIL"
+  ]
+}
