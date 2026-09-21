@@ -1,0 +1,11 @@
+nohup: ignoring input
+=== page 1/523 (100 labels) ===
+  ...50 processed (saved=30 skipped=20 failed=0)
+  ...100 processed (saved=80 skipped=20 failed=0)
+=== page 2/523 (100 labels) ===
+  ...150 processed (saved=130 skipped=20 failed=0)
+  ...200 processed (saved=180 skipped=20 failed=0)
+=== page 3/523 (100 labels) ===
+  ...250 processed (saved=230 skipped=20 failed=0)
+  ...300 processed (saved=280 skipped=20 failed=0)
+=== page 4/523 (100 labels) ===
