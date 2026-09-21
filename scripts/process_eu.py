@@ -20,8 +20,10 @@ header = list(next(rows))[:NUM_COLUMNS]
 index = []
 count = 0
 for row in rows:
-    if not row or not row[1]:  # column 1 = Name of medicine
-        continue
+if not row or not row[1]:  # column 1 = Name of medicine
+    continue
+if row[0] != "Human":  # column 0 = Category, skip veterinary
+    continue
     row = list(row)[:NUM_COLUMNS]
     record = {header[i]: row[i] for i in range(len(header))}
 
