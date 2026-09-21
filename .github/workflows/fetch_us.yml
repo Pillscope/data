@@ -18,7 +18,8 @@ jobs:
 
       - name: Fetch DailyMed Rx labels (time-boxed)
         run: |
-          timeout 5h30m python3 scripts/dailymed_fetch.py --category rx --output-dir us || true
+          mkdir -p us/spls
+          timeout 19800 python3 scripts/dailymed_fetch.py --category rx --output-dir us || true
 
       - name: Commit and push progress
         run: |
