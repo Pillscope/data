@@ -5,6 +5,9 @@ on:
   schedule:
     - cron: '0 */6 * * *'
 
+permissions:
+  contents: write
+
 jobs:
   fetch:
     runs-on: ubuntu-latest
@@ -16,10 +19,18 @@ jobs:
         with:
           python-version: '3.12'
 
+      - name: Install dependencies
+        run: |
+          if [ -f requirements.txt ]; then
+            pip install -r requirements.txt
+          else
+            pip install requests beautifulsoup4 lxml
+          fi
+
       - name: Fetch DailyMed Rx labels (time-boxed)
         run: |
           mkdir -p us/spls
-          timeout 19800 python3 scripts/dailymed_fetch.py --category rx --output-dir us || true
+          timeout 19800 python3 scripts/dailymed_fetch.py --category rx --output-dir us
 
       - name: Commit and push progress
         run: |
