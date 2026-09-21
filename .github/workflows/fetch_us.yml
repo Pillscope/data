@@ -1,0 +1,29 @@
+name: Fetch US DailyMed Data
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '0 */6 * * *'
+
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    timeout-minutes: 350
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Fetch DailyMed Rx labels (time-boxed)
+        run: |
+          timeout 5h30m python3 scripts/dailymed_fetch.py --category rx --output-dir us || true
+
+      - name: Commit and push progress
+        run: |
+          git config user.name "Pillscope"
+          git config user.email "saifozark2@gmail.com"
+          git add us/spls
+          git diff --staged --quiet || git commit -m "Add batch of US DailyMed labels [automated]"
+          git push
